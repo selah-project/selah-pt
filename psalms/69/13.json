@@ -6,90 +6,51 @@
   "lang": "pt",
   "chapter": 69,
   "usage": {
-    "completion_tokens": 947,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70266,
+    "completion_tokens": 456,
+    "prompt_tokens": 70267,
     "prompt_tokens_details": {
-      "cached_tokens": 69259
+      "cached_tokens": 69248
     },
-    "total_tokens": 71213
+    "total_tokens": 70723
   },
-  "translation": "E ⟨את⟩ ⟨את⟩ que ⟨estão⟩ assentados ⟨à⟩ porta falam ⟨de⟩ mim e ⟨as⟩ canções ⟨dos⟩ bêbados.",
+  "translation": "Eles conversam ⟨comigo⟩, os sentados ⟨na⟩ porta, e as melodias dos bebedores ⟨de⟩ bebida forte.",
   "tokens": [
     {
       "surface": "ישיחו",
-      "english": "falem",
-      "notes": [
-        {
-          "kind": "idiom",
-          "subject": "falam de mim",
-          "rationale": "Literalmente 'meditarão\/conversarão em mim'; traduzido como 'falam de mim' para capturar o sentido de fofoca\/difamação no contexto do versículo anterior."
-        }
-      ]
+      "english": "Eles conversam",
+      "marks": null
     },
     {
       "surface": "בי",
-      "english": "⟨de⟩ mim",
-      "marks": "mim"
+      "english": "⟨comigo⟩",
+      "marks": "comigo"
     },
     {
       "surface": "ישבי",
-      "english": "⟨os⟩ ⟨que⟩ ⟨estão⟩ assentados",
-      "notes": [
-        {
-          "kind": "addition",
-          "subject": "⟨os⟩ ⟨que⟩ ⟨estão⟩ assentados",
-          "rationale": "O particípio hebraico 'yoshev' expressa naturalmente o estado de estar assentado; em português requer pronome e verbo."
-        }
-      ]
+      "english": "os sentados",
+      "marks": null
     },
     {
       "surface": "שער",
-      "english": "⟨à⟩ porta",
-      "notes": [
-        {
-          "kind": "addition",
-          "subject": "⟨à⟩",
-          "rationale": "Hebraico carece de preposição; 'porta' aqui é locativo."
-        }
-      ]
+      "english": "⟨na⟩ porta",
+      "marks": "porta"
     },
     {
       "surface": "ונגינות",
-      "english": "e ⟨as⟩ canções",
-      "notes": [
-        {
-          "kind": "addition",
-          "subject": "⟨as⟩",
-          "rationale": "Artigo exigido pelo português para o plural 'canções'."
-        }
-      ]
+      "english": "e as melodias",
+      "marks": null
     },
     {
       "surface": "שותי",
-      "english": "⟨dos⟩ bêbados",
-      "notes": [
-        {
-          "kind": "substitution",
-          "subject": "bêbados",
-          "rationale": "O particípio shotei refere-se literalmente a 'bebedores'; 'bêbados' captura melhor o sentido pejorativo do contexto."
-        }
-      ]
+      "english": "dos bebedores",
+      "marks": null
     },
     {
       "surface": "שכר",
-      "english": "bêbados",
-      "notes": [
-        {
-          "kind": "elision",
-          "subject": "bebida forte",
-          "rationale": "A palavra 'shechar' (bebida intoxicante) está implícita no adjetivo 'bêbados' e omitida para evitar redundância em português."
-        }
-      ]
+      "english": "⟨de⟩ bebida forte",
+      "marks": "bebida forte"
     }
   ],
-  "timestamp": "2026-06-13T06:39:22.371717821Z",
+  "timestamp": "2026-07-21T02:33:22.059438164Z",
   "model": "glm-4.5"
 }
