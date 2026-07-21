@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-chronicles",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 26,
+  "usage": {
+    "completion_tokens": 546,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 57147,
+    "prompt_tokens_details": {
+      "cached_tokens": 56048
+    },
+    "total_tokens": 57693
+  },
+  "translation": "Das guerras e do despojo, santificaram para ⟨fortalecer⟩ ⟨a casa⟩ ⟨de⟩ ⟨YHWH⟩",
+  "tokens": [
+    {
+      "surface": "מן",
+      "english": "Das",
+      "notes": null
+    },
+    {
+      "surface": "המלחמות",
+      "english": "guerras",
+      "notes": null
+    },
+    {
+      "surface": "ומן",
+      "english": "e do",
+      "notes": null
+    },
+    {
+      "surface": "השלל",
+      "english": "despoio",
+      "notes": {
+        "kind": "substitution",
+        "subject": "despoio",
+        "rationale": "השלל é mais especificamente 'espólio\/plunder' de bens capturados, não 'spoil' genérico"
+      }
+    },
+    {
+      "surface": "הקדישו",
+      "english": "santificaram",
+      "notes": null
+    },
+    {
+      "surface": "לחזק",
+      "english": "para ⟨fortalecer⟩",
+      "notes": {
+        "kind": "addition",
+        "subject": "para",
+        "rationale": "preposição 'para' exigida pelo infinitivo em português, implícita no hebraico"
+      }
+    },
+    {
+      "surface": "לבית",
+      "english": "⟨a casa⟩",
+      "notes": {
+        "kind": "addition",
+        "subject": "a",
+        "rationale": "artigo definido exigido em português, ausente em hebraico"
+      }
+    },
+    {
+      "surface": "יהוה",
+      "english": "⟨de⟩ ⟨YHWH⟩",
+      "notes": {
+        "kind": "addition",
+        "subject": "de",
+        "rationale": "preposição 'de' exigida pela construção 'casa de YHWH' em português, implícita no hebraico"
+      }
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T14:01:21.087765116Z",
+  "model": "glm-4.5"
+}

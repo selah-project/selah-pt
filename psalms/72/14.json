@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 72,
+  "usage": {
+    "completion_tokens": 661,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62924,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63585
+  },
+  "translation": "מתוך ומחמס יגאל נפשם וייקר דמם בעיניו",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "english": "De",
+      "rationale": "preposição que indica 'do meio de' ou 'dentro de'"
+    },
+    {
+      "surface": "ומחמס",
+      "english": "e ⟨da⟩ violência",
+      "rationale": "וּ = 'e' + חָמָס = 'violência\/opressão'; ⟨ה⟩ implícito"
+    },
+    {
+      "surface": "יגאל",
+      "english": "resgatará",
+      "rationale": "verbo gaal = redimir como parente resgatador (segundo a lei oriental do parentesco)"
+    },
+    {
+      "surface": "נפשם",
+      "english": "⟨a⟩ alma ⟨deles⟩",
+      "rationale": "נפש = ser vivo\/alento; sufixo pronominal -ם = deles"
+    },
+    {
+      "surface": "וייקר",
+      "english": "e precioso ⟨será⟩",
+      "rationale": "יָקָר = precioso; verbo ser implícito em português"
+    },
+    {
+      "surface": "דמם",
+      "english": "⟨o⟩ sangue ⟨deles⟩",
+      "rationale": "דָם = sangue; sufixo pronominal -ם = deles; artigo definido implícito"
+    },
+    {
+      "surface": "בעיניו",
+      "english": "em seus olhos",
+      "rationale": "בְּ = 'em' + עַיִן = olho + sufixo pronominal -וֹ = dele"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:26:48.303389369Z",
+  "model": "glm-4.5"
+}

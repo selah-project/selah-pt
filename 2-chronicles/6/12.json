@@ -1,0 +1,114 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-chronicles 6:12",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-chronicles",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 7,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 6,
+  "usage": {
+    "completion_tokens": 973,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 58328,
+    "prompt_tokens_details": {
+      "cached_tokens": 57025
+    },
+    "total_tokens": 59301
+  },
+  "translation": "E ele ⟨se⟩ pôs ⟨em⟩ pé diante do altar de YHWH, ⟨frente a⟩ toda a assembleia de Yisrael, e estendeu as ⟨suas⟩ mãos ⟨abertas⟩ ⟨em⟩ oração.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "english": "E ele ⟨se⟩ pôs ⟨em⟩ pé",
+      "notes": []
+    },
+    {
+      "surface": "לפני",
+      "english": "diante de",
+      "notes": []
+    },
+    {
+      "surface": "מזבח",
+      "english": "altar",
+      "notes": []
+    },
+    {
+      "surface": "י�הוה",
+      "english": "YHWH",
+      "notes": []
+    },
+    {
+      "surface": "נגד",
+      "english": "⟨frente a⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "frente a",
+          "rationale": "Hebrew lacks the preposition 'em frente a' or 'diante de', which is implied by נגד (frente, em presença de) and needed for clarity in Portuguese"
+        }
+      ]
+    },
+    {
+      "surface": "כל",
+      "english": "toda",
+      "notes": []
+    },
+    {
+      "surface": "קהל",
+      "english": "assembleia",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "assembleia",
+          "rationale": "קהל (kahal) can also be rendered 'congregação', mas 'assembleia' é mais comum em português bíblico para o termo hebraico"
+        }
+      ]
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael",
+      "notes": []
+    },
+    {
+      "surface": "ויפרש",
+      "english": "e estendeu",
+      "notes": []
+    },
+    {
+      "surface": "כפיו",
+      "english": "as ⟨suas⟩ mãos ⟨abertas⟩ ⟨em⟩ oração",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "suas",
+          "rationale": "Pronome possessivo adicionado em português para clareza, implícito no sufixo -יו (dele, dele) em כפיו"
+        },
+        {
+          "kind": "addition",
+          "subject": "abertas",
+          "rationale": "A ação de estender as mãos em oração é implícita no contexto narrativo e ritualístico do verso, sendo um sinal comum de súplica no Tanaj"
+        },
+        {
+          "kind": "addition",
+          "subject": "em oração",
+          "rationale": "O contexto do verso (rei orando diante do altar e da assembleia) torna explícito que o ato é de oração"
+        }
+      ]
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T14:11:36.788132413Z",
+  "model": "glm-4.5"
+}

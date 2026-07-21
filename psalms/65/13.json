@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 65,
+  "usage": {
+    "completion_tokens": 774,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62833,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63607
+  },
+  "translation": "As pastagens ⟨do⟩ deserto ⟨se⟩ regam ⟨com orvalho⟩, ⟨e⟩ as colinas ⟨estão⟩ cingidas ⟨de⟩ júbilo ⟨para⟩ cantar.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "english": "As pastagens ⟨se⟩ regam ⟨com orvalho⟩",
+      "rationale": "Verb רעף (drip\/irrigate) used metaphorically for watering pastures; in Portuguese requires auxiliary verbs"
+    },
+    {
+      "surface": "נאות",
+      "english": "pastagens",
+      "rationale": "From נוה (habitation), here meaning 'pastures' or 'moradas' where cattle graze"
+    },
+    {
+      "surface": "מדבר",
+      "english": "⟨do⟩ deserto",
+      "rationale": "Can mean both 'wilderness\/pasture' and 'desert'; here likely 'wilderness pastures' according to context"
+    },
+    {
+      "surface": "וגיל",
+      "english": "⟨e⟩ as colunas ⟨estão⟩ cingidas ⟨de⟩ júbilo",
+      "rationale": "Feminine plural of גיל (joy\/rejoicing) metaphorically 'girded' on hills; requires pronouns and verb in Portuguese"
+    },
+    {
+      "surface": "גבעות",
+      "english": "colinas",
+      "rationale": "Literally 'hills' or 'hillocks'; geographical features"
+    },
+    {
+      "surface": "תחגרנה",
+      "english": "⟨para⟩ cantar",
+      "rationale": "Verb חגר (gird\/clothe) + final nun emphatic; implies 'girded for celebration\/singing' - requires auxiliary in Portuguese"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:21:07.097797232Z",
+  "model": "glm-4.5"
+}

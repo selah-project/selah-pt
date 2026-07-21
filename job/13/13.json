@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 13:13",
+  "book": "job",
+  "lang": "pt",
+  "chapter": 13,
+  "usage": {
+    "completion_tokens": 508,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 27333,
+    "prompt_tokens_details": {
+      "cached_tokens": 26406
+    },
+    "total_tokens": 27841
+  },
+  "translation": "Permaneçam em silêncio ⟨para⟩ mim, e eu falarei, e ⟨que⟩ passe sobre mim ⟨o que for⟩.",
+  "tokens": [
+    {
+      "surface": "החרישו",
+      "english": "Permaneçam em silêncio",
+      "marks": "os ouvintes"
+    },
+    {
+      "surface": "ממני",
+      "english": "⟨para⟩ mim",
+      "rationale": "preposição 'de\/desde' traduzida como direção no contexto"
+    },
+    {
+      "surface": "ואדברה",
+      "english": "e eu falarei",
+      "rationale": "verbo no futuro com vav consecutivo"
+    },
+    {
+      "surface": "אני",
+      "english": "eu",
+      "rationale": "pronome pessoal enfático"
+    },
+    {
+      "surface": "ויעבר",
+      "english": "e ⟨que⟩ passe",
+      "rationale": "verbo no futuro com vav consecutivo, sentido permissivo"
+    },
+    {
+      "surface": "עלי",
+      "english": "sobre mim",
+      "rationale": "preposição 'sobre'"
+    },
+    {
+      "surface": "מה",
+      "english": "⟨o que for⟩",
+      "rationale": "interrogativo indefinido no sentido permissivo"
+    }
+  ],
+  "timestamp": "2026-06-13T06:44:55.146277221Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-kings",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 6,
+  "usage": {
+    "completion_tokens": 727,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62107,
+    "prompt_tokens_details": {
+      "cached_tokens": 61314
+    },
+    "total_tokens": 62834
+  },
+  "translation": "E fez ⟨para⟩ ⟨a⟩ casa janelas ⟨com⟩ ⟨aberturas⟩ estreitas ⟨para dentro⟩",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "english": "E fez",
+      "notes": null
+    },
+    {
+      "surface": "לבית",
+      "english": "⟨para⟩ ⟨a⟩ casa",
+      "notes": {
+        "kind": "addition",
+        "subject": "para a",
+        "rationale": "Português requer preposição e artigo para completar a construção; o hebraico l usa o estado construto que implica relação direta"
+      }
+    },
+    {
+      "surface": "חלוני",
+      "english": "janelas",
+      "notes": {
+        "kind": "linguistic",
+        "subject": "janelas",
+        "rationale": "Tradução direta do hebraico חלוני (qualonim) que significa 'janelas' como aberturas"
+      }
+    },
+    {
+      "surface": "שקפים",
+      "english": "⟨com⟩ ⟨aberturas⟩ estreitas",
+      "notes": {
+        "kind": "substitution",
+        "subject": "aberturas",
+        "rationale": "שקפים (sheqafim) refere-se especificamente a aberturas com ombreiras chanfradas ou beiradas inclinadas; o termo 'estreitas' captura a ideia de aberturas mais internas"
+      }
+    },
+    {
+      "surface": "אטמים",
+      "english": "⟨para dentro⟩",
+      "notes": {
+        "kind": "substitution",
+        "subject": "para dentro",
+        "rationale": "אטמים (atummim) deriva de raiz que significa 'fechar' ou 'contrair', indicando que as janelas se estreitam internamente; a tradução 'para dentro' capta essa característica arquitetônica"
+      }
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T05:16:51.389250737Z",
+  "model": "glm-4.5"
+}

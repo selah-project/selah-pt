@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "Jerusalém",
+      "to": "Yerushalayim",
+      "token-index": 1,
+      "strongs": 3389,
+      "hebrew": "ירושלם"
+    },
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 4,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 147,
+  "usage": {
+    "completion_tokens": 573,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62832,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63405
+  },
+  "translation": "⟨O que⟩ constrói Yerushalayim ⟨é⟩ YHWH, ⟨os⟩ dispersos de Yisrael Ele ⟨irá⟩ ajuntar",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "english": "⟨O que⟩ constrói"
+    },
+    {
+      "surface": "ירושלם",
+      "english": "Yerushalayim"
+    },
+    {
+      "surface": "יהוה",
+      "english": "YHWH"
+    },
+    {
+      "surface": "נדחי",
+      "english": "⟨os⟩ dispersos"
+    },
+    {
+      "surface": "ישראל",
+      "english": "de Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "english": "Ele ⟨irá⟩ ajuntar"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:16:10.325351501Z",
+  "model": "glm-4.5"
+}

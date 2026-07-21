@@ -1,0 +1,111 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "genesis",
+  "substitutions": [
+    {
+      "from": "Raquel",
+      "to": "Rajel",
+      "token-index": 3,
+      "strongs": 7354,
+      "hebrew": "רחל"
+    },
+    {
+      "from": "José",
+      "to": "Yosef",
+      "token-index": 5,
+      "strongs": 3130,
+      "hebrew": "יוסף"
+    },
+    {
+      "from": "Jacó",
+      "to": "Yaakov",
+      "token-index": 7,
+      "strongs": 3290,
+      "hebrew": "יעקב"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 30,
+  "usage": {
+    "completion_tokens": 442,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 22112,
+    "prompt_tokens_details": {
+      "cached_tokens": 20324
+    },
+    "total_tokens": 22554
+  },
+  "translation": "E aconteceu quando Rajel deu à luz ⟨é⟩ a Yosef que Yaakov disse a Labão: 'Envia-me para que eu vá ao meu lugar e ⟨ao⟩ meu país'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "english": "E aconteceu"
+    },
+    {
+      "surface": "כאשר",
+      "english": "quando"
+    },
+    {
+      "surface": "ילדה",
+      "english": "deu à luz"
+    },
+    {
+      "surface": "רחל",
+      "english": "Rajel"
+    },
+    {
+      "surface": "את",
+      "english": "⟨é⟩",
+      "marks": "a José"
+    },
+    {
+      "surface": "יוסף",
+      "english": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "english": "que Jacó disse"
+    },
+    {
+      "surface": "יעקב",
+      "english": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "english": "a"
+    },
+    {
+      "surface": "לבן",
+      "english": "Labão"
+    },
+    {
+      "surface": "שלחני",
+      "english": "'Envia-me"
+    },
+    {
+      "surface": "ואלכה",
+      "english": "para que eu vá"
+    },
+    {
+      "surface": "אל",
+      "english": "ao"
+    },
+    {
+      "surface": "מקומי",
+      "english": "meu lugar"
+    },
+    {
+      "surface": "ולארצי",
+      "english": "e ⟨ao⟩ meu país"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T00:12:10.202399529Z",
+  "model": "glm-4.5"
+}

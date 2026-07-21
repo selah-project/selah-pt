@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "ezra 7:19",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "ezra",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 7,
+  "usage": {
+    "completion_tokens": 636,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 45162,
+    "prompt_tokens_details": {
+      "cached_tokens": 43865
+    },
+    "total_tokens": 45798
+  },
+  "translation": "E também os utensílios que ⟨são⟩ dados a ti para ⟨o⟩ serviço ⟨da⟩ Casa de teu Elohim, esses entrega ⟨perante⟩ Elohim em Jerusalém.",
+  "tokens": [
+    {
+      "surface": "ומאניא",
+      "english": "E também",
+      "notes": null
+    },
+    {
+      "surface": "די",
+      "english": "os",
+      "notes": null
+    },
+    {
+      "surface": "מתיהבין",
+      "english": "que ⟨são⟩ dados",
+      "marks": "os utensílios"
+    },
+    {
+      "surface": "לך",
+      "english": "a ti",
+      "notes": null
+    },
+    {
+      "surface": "לפלחן",
+      "english": "para ⟨o⟩ serviço",
+      "notes": null
+    },
+    {
+      "surface": "בית",
+      "english": "⟨da⟩ Casa",
+      "notes": null
+    },
+    {
+      "surface": "אלהך",
+      "english": "de teu Elohim",
+      "notes": null
+    },
+    {
+      "surface": "השלם",
+      "english": "esses entrega",
+      "notes": {
+        "kind": "substitution",
+        "subject": "השלם",
+        "rationale": "Hebrew השלם significa 'completar' ou 'restaurar', mas aqui tem sentido de 'entregar em sua totalidade'"
+      }
+    },
+    {
+      "surface": "קדם",
+      "english": "⟨perante⟩",
+      "notes": {
+        "kind": "addition",
+        "subject": "perante",
+        "rationale": "Preposição necessária em português para expressar 'na presença de'"
+      }
+    },
+    {
+      "surface": "אלה",
+      "english": "Elohim",
+      "notes": null
+    },
+    {
+      "surface": "ירושלם",
+      "english": "em Jerusalém",
+      "notes": null
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T13:09:21.249735414Z",
+  "model": "glm-4.5"
+}

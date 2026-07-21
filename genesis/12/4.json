@@ -1,0 +1,111 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "genesis",
+  "substitutions": [
+    {
+      "from": "Abram",
+      "to": "Avram",
+      "token-index": 1,
+      "strongs": 87,
+      "hebrew": "אברם"
+    },
+    {
+      "from": "Ló",
+      "to": "Lot",
+      "token-index": 8,
+      "strongs": 3876,
+      "hebrew": "לוט"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 12,
+  "usage": {
+    "completion_tokens": 521,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 22171,
+    "prompt_tokens_details": {
+      "cached_tokens": 20324
+    },
+    "total_tokens": 22692
+  },
+  "translation": "E Avram saiu, como YHWH ⟨tinha⟩ falado ⟨com⟩ ele, e saiu com ele Lot, e Avram ⟨era⟩ filho de setenta e cinco anos em sua saída de Harã.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "english": "E saiu"
+    },
+    {
+      "surface": "אברם",
+      "english": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "english": "como"
+    },
+    {
+      "surface": "דבר",
+      "english": "⟨tinha⟩ falado ⟨com⟩"
+    },
+    {
+      "surface": "אליו",
+      "english": "ele"
+    },
+    {
+      "surface": "יהוה",
+      "english": "YHWH"
+    },
+    {
+      "surface": "וילך",
+      "english": "e saiu"
+    },
+    {
+      "surface": "אתו",
+      "english": "com ele"
+    },
+    {
+      "surface": "לוט",
+      "english": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "english": "e Abram"
+    },
+    {
+      "surface": "בן",
+      "english": "⟨era⟩ filho de"
+    },
+    {
+      "surface": "חמש",
+      "english": "cinco"
+    },
+    {
+      "surface": "שנים",
+      "english": "anos"
+    },
+    {
+      "surface": "ושבעים",
+      "english": "e setenta"
+    },
+    {
+      "surface": "שנה",
+      "english": "anos"
+    },
+    {
+      "surface": "בצאתו",
+      "english": "em sua saída"
+    },
+    {
+      "surface": "מחרן",
+      "english": "de Harã"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T23:53:01.591028979Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,143 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-chronicles 18:3",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-chronicles",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 3,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Judá",
+      "to": "Yehudá",
+      "token-index": 7,
+      "strongs": 3063,
+      "hebrew": "יהודה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 18,
+  "usage": {
+    "completion_tokens": 1012,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 59354,
+    "prompt_tokens_details": {
+      "cached_tokens": 57027
+    },
+    "total_tokens": 60366
+  },
+  "translation": "E disse Achav, rei de Yisrael, a Yehoshafat, rei de Yehudá: ⟨irás⟩ tu comigo ⟨a⟩ Ramot-Gilad? E disse-lhe: ⟨como⟩ eu ⟨sou⟩, ⟨assim⟩ tu ⟨és⟩; e ⟨como⟩ teu povo, ⟨assim⟩ ⟨o⟩ meu povo; e ⟨estaremos⟩ contigo na guerra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "english": "E disse",
+      "marks": "Achav"
+    },
+    {
+      "surface": "אחאב",
+      "english": "Achav",
+      "marks": "rei de Israel"
+    },
+    {
+      "surface": "מלך",
+      "english": "rei",
+      "marks": "Achav"
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael",
+      "marks": "rei de"
+    },
+    {
+      "surface": "אל",
+      "english": "a",
+      "marks": "Yehoshafat"
+    },
+    {
+      "surface": "יהושפט",
+      "english": "Yehoshafat",
+      "marks": "rei de Judá"
+    },
+    {
+      "surface": "מלך",
+      "english": "rei",
+      "marks": "Yehoshafat"
+    },
+    {
+      "surface": "יהודה",
+      "english": "Yehudá",
+      "marks": "rei de"
+    },
+    {
+      "surface": "התלך",
+      "english": "⟨irás⟩",
+      "rationale": "Hebrew uses interrogative prefix; English needs auxiliary verb"
+    },
+    {
+      "surface": "עמי",
+      "english": "tu comigo",
+      "rationale": "prepositional phrase, literal 'with me'"
+    },
+    {
+      "surface": "רמת",
+      "english": "Ramot",
+      "marks": "lugar"
+    },
+    {
+      "surface": "גלעד",
+      "english": "Gilad",
+      "marks": "lugar"
+    },
+    {
+      "surface": "ויאמר",
+      "english": "E disse",
+      "marks": "Yehoshafat"
+    },
+    {
+      "surface": "לו",
+      "english": "-lhe",
+      "rationale": "prepositional suffix, dative marker"
+    },
+    {
+      "surface": "כמוני",
+      "english": "⟨como⟩ eu ⟨sou⟩",
+      "rationale": "idiomatic comparison, Hebrew lacks copula"
+    },
+    {
+      "surface": "כמוך",
+      "english": "⟨assim⟩ tu ⟨és⟩",
+      "rationale": "idiomatic comparison, Hebrew lacks copula"
+    },
+    {
+      "surface": "וכעמך",
+      "english": "e ⟨como⟩ teu",
+      "rationale": "idiomatic comparison"
+    },
+    {
+      "surface": "עמי",
+      "english": "⟨o⟩ meu povo",
+      "rationale": "Hebrew lacks article"
+    },
+    {
+      "surface": "ועמך",
+      "english": "e ⟨estaremos⟩ contigo",
+      "rationale": "Hebrew lacks copula"
+    },
+    {
+      "surface": "במלחמה",
+      "english": "na guerra",
+      "rationale": "prepositional phrase"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T14:25:00.892860563Z",
+  "model": "glm-4.5"
+}

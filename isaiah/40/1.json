@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "isaiah",
+  "substitutions": [
+    {
+      "from": "Deus",
+      "to": "Elohim",
+      "token-index": 4,
+      "strongs": 430,
+      "hebrew": "אלהים"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 40,
+  "usage": {
+    "completion_tokens": 333,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 18765,
+    "prompt_tokens_details": {
+      "cached_tokens": 18007
+    },
+    "total_tokens": 19098
+  },
+  "translation": "Confortai, confortai ⟨o⟩ meu povo, diz ⟨o⟩ vosso Elohim.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "english": "Confortai"
+    },
+    {
+      "surface": "נחמו",
+      "english": "confortai"
+    },
+    {
+      "surface": "עמי",
+      "english": "⟨o⟩ meu povo",
+      "marks": "⟨o⟩ meu povo"
+    },
+    {
+      "surface": "יאמר",
+      "english": "diz"
+    },
+    {
+      "surface": "אלהיכם",
+      "english": "⟨o⟩ vosso Elohim",
+      "marks": "⟨o⟩ vosso Deus"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T06:43:02.289835110Z",
+  "model": "glm-4.5"
+}

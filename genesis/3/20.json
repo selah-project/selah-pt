@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "genesis",
+  "substitutions": [
+    {
+      "from": "Eva",
+      "to": "Chavah",
+      "token-index": 4,
+      "strongs": 2332,
+      "hebrew": "חוה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 3,
+  "usage": {
+    "completion_tokens": 442,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 21592,
+    "prompt_tokens_details": {
+      "cached_tokens": 20324
+    },
+    "total_tokens": 22034
+  },
+  "translation": "E ⟨o⟩ homem chamou ⟨o⟩ nome de sua esposa Chavah, porque ela ⟨era⟩ ⟨a⟩ mãe de todos ⟨os⟩ viventes.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "english": "E chamou"
+    },
+    {
+      "surface": "האדם",
+      "english": "⟨o⟩ homem"
+    },
+    {
+      "surface": "שם",
+      "english": "⟨o⟩ nome"
+    },
+    {
+      "surface": "אשתו",
+      "english": "de sua esposa"
+    },
+    {
+      "surface": "חוה",
+      "english": "Chavah"
+    },
+    {
+      "surface": "כי",
+      "english": "porque"
+    },
+    {
+      "surface": "הוא",
+      "english": "ela"
+    },
+    {
+      "surface": "היתה",
+      "english": "⟨era⟩"
+    },
+    {
+      "surface": "אם",
+      "english": "⟨a⟩ mãe"
+    },
+    {
+      "surface": "כל",
+      "english": "de todos ⟨os⟩"
+    },
+    {
+      "surface": "חי",
+      "english": "viventes"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T23:44:27.082229288Z",
+  "model": "glm-4.5"
+}

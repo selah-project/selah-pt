@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "proverbs",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 13,
+  "usage": {
+    "completion_tokens": 538,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 52838,
+    "prompt_tokens_details": {
+      "cached_tokens": 51893
+    },
+    "total_tokens": 53376
+  },
+  "translation": "A ⟨word⟩ of falsehood ⟨את⟩ the righteous ⟨hates⟩, but a wicked person ⟨causes⟩ stench ⟨and⟩ becomes ⟨ashamed⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "english": "A ⟨word⟩",
+      "rationale": "davar — a matter, thing, word; English requires article and context"
+    },
+    {
+      "surface": "שקר",
+      "english": "of falsehood",
+      "rationale": "sheker — an untruth, sham, deception; idiomatic rendering"
+    },
+    {
+      "surface": "ישנא",
+      "english": "the righteous ⟨hates⟩",
+      "rationale": "yisn'eh — verb requires explicit subject in English"
+    },
+    {
+      "surface": "צדיק",
+      "english": "the righteous",
+      "rationale": "tzadik — just one; English requires article and plural form"
+    },
+    {
+      "surface": "ורשע",
+      "english": "but a wicked person",
+      "rationale": "verasha' — conjunction + wicked one; English requires article and noun"
+    },
+    {
+      "surface": "יבאיש",
+      "english": "⟨causes⟩ stench",
+      "rationale": "yevayish — literally 'makes stink'; idiom for moral offensiveness"
+    },
+    {
+      "surface": "ויחפיר",
+      "english": "⟨and⟩ becomes ⟨ashamed⟩",
+      "rationale": "veyachpír — root means 'to blush' or 'be ashamed'; requires copula"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:28:49.335487683Z",
+  "model": "glm-4.5"
+}

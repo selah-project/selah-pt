@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 49,
+  "usage": {
+    "completion_tokens": 652,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62955,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63607
+  },
+  "translation": "pois ⟨a⟩ alma dele em ⟨os⟩ dias de ⟨a sua⟩ vida ⟨será⟩ abençoada, e ⟨te⟩ louvarão, pois te farás bem",
+  "tokens": [
+    {
+      "surface": "כי",
+      "english": "Pois",
+      "rationale": "conjunction indicating reason or explanation"
+    },
+    {
+      "surface": "נפשו",
+      "english": "⟨a⟩ alma dele",
+      "rationale": "literalmente 'sopro\/vida'; 'alma' é substituição comum"
+    },
+    {
+      "surface": "בחייו",
+      "english": "em ⟨os⟩ dias de ⟨a sua⟩ vida",
+      "rationale": "lit. 'em suas vidas'; 'dias' implícito para fluência em português"
+    },
+    {
+      "surface": "יברך",
+      "english": "⟨será⟩ abençoada",
+      "rationale": "futuro\/passivo implícito; sujeito feminino para 'alma' (נפשו)"
+    },
+    {
+      "surface": "ויודך",
+      "english": "e ⟨te⟩ louvarão",
+      "rationale": "hapax; composto de 'e' + 'conhecer\/agonizar' + 'te'; tradução inferida do contexto"
+    },
+    {
+      "surface": "כי",
+      "english": "pois",
+      "rationale": "conjunção paralela à primeira"
+    },
+    {
+      "surface": "תיטיב",
+      "english": "te farás bem",
+      "rationale": "causativo de 'ser bom' no sentido ético\/material"
+    },
+    {
+      "surface": "לך",
+      "english": "a ti",
+      "rationale": "preposição de benefício direto"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:11:23.980833907Z",
+  "model": "glm-4.5"
+}

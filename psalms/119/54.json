@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 119,
+  "usage": {
+    "completion_tokens": 622,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62701,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63323
+  },
+  "translation": "⟨Estão⟩ ⟨por⟩ canções ⟨para⟩ mim ⟨os⟩ teus decretos ⟨na⟩ casa de ⟨minha⟩ peregrinação",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "english": "⟨Por⟩ canções",
+      "marks": "os teus decretos"
+    },
+    {
+      "surface": "היו",
+      "english": "⟨Estão⟩",
+      "rationale": "Copula e verbo de existência que falta em português, exigindo 'estão' ou 'têm sido'"
+    },
+    {
+      "surface": "לי",
+      "english": "⟨para⟩ mim"
+    },
+    {
+      "surface": "חקיך",
+      "english": "⟨os⟩ teus decretos",
+      "rationale": "חק = decretos\/leis estatutárias, mais preciso que 'estatutos'; o sufixo ך- indica 'teus'"
+    },
+    {
+      "surface": "בבית",
+      "english": "⟨na⟩ casa"
+    },
+    {
+      "surface": "מגורי",
+      "english": "⟨minha⟩ peregrinação",
+      "rationale": "מגור = habitação temporária, peregrinação; o sufixo י- indica 'minha'"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:59:29.686195749Z",
+  "model": "glm-4.5"
+}

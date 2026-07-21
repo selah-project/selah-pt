@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "o Altíssimo",
+      "to": "Elyon",
+      "token-index": 5,
+      "strongs": 5945,
+      "hebrew": "עליון"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 82,
+  "usage": {
+    "completion_tokens": 316,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62860,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63176
+  },
+  "translation": "Eu disse: ⟨vós sois⟩ deuses; ⟨e sois⟩ ⟨os⟩ filhos dElyon, todos vós.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "english": "Eu"
+    },
+    {
+      "surface": "אמרתי",
+      "english": "disse"
+    },
+    {
+      "surface": "אלהים",
+      "english": "deuses"
+    },
+    {
+      "surface": "אתם",
+      "english": "⟨vós sois⟩"
+    },
+    {
+      "surface": "ובני",
+      "english": "⟨e sois⟩ ⟨os⟩ filhos"
+    },
+    {
+      "surface": "עליון",
+      "english": "dElyon"
+    },
+    {
+      "surface": "כלכם",
+      "english": "todos vós"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:34:42.310910417Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "Jerusalém",
+      "to": "Yerushalayim",
+      "token-index": 4,
+      "strongs": 3389,
+      "hebrew": "ירושלם"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 79,
+  "usage": {
+    "completion_tokens": 704,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62944,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63648
+  },
+  "translation": "Eles derramaram ⟨o⟩ sangue deles ⟨como⟩ ⟨águas⟩ ⟨ao redor⟩ de Yerushalayim ⟨e⟩ não ⟨há⟩ ⟨quem⟩ ⟨os⟩ enterre",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "english": "Eles derramaram"
+    },
+    {
+      "surface": "דמם",
+      "english": "⟨o⟩ sangue deles",
+      "marks": "sangue deles"
+    },
+    {
+      "surface": "כמים",
+      "english": "⟨como⟩ ⟨águas⟩"
+    },
+    {
+      "surface": "סביבות",
+      "english": "⟨ao redor⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "english": "de Yerushalayim"
+    },
+    {
+      "surface": "ואין",
+      "english": "⟨e⟩ não ⟨há⟩"
+    },
+    {
+      "surface": "קובר",
+      "english": "⟨quem⟩ ⟨os⟩ enterre"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:33:01.987173Z",
+  "model": "glm-4.5"
+}

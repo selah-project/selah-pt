@@ -1,0 +1,150 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "joshua 20:9",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "joshua",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 6,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 20,
+  "usage": {
+    "completion_tokens": 1022,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17895,
+    "prompt_tokens_details": {
+      "cached_tokens": 15287
+    },
+    "total_tokens": 18917
+  },
+  "translation": "Estas ⟨foram⟩ ⟨as⟩ cidades ⟨de⟩ refúgio para todos os ⟨filhos⟩ de Yisrael e para ⟨o⟩ estrangeiro que habita ⟨entre⟩ eles, para fugir para lá todo aquele que fere ⟨uma⟩ alma ⟨por⟩ erro, e não morrerá ⟨pela⟩ mão ⟨do⟩ vingador ⟨do⟩ sangue até ⟨que⟩ compareça ⟨perante⟩ ⟨a⟩ congregação.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "english": "Estas"
+    },
+    {
+      "surface": "היו",
+      "english": "⟨foram⟩",
+      "rationale": "Hebrew lacks copula; 'were' added for English grammar"
+    },
+    {
+      "surface": "ערי",
+      "english": "⟨as⟩ cidades",
+      "rationale": "Article added for English grammar"
+    },
+    {
+      "surface": "המועדה",
+      "english": "⟨de⟩ refúgio",
+      "rationale": "The compound noun requires 'of' in English"
+    },
+    {
+      "surface": "לכל",
+      "english": "para todos"
+    },
+    {
+      "surface": "בני",
+      "english": "⟨filhos⟩",
+      "rationale": "Article added for English grammar"
+    },
+    {
+      "surface": "ישראל",
+      "english": "de Yisrael"
+    },
+    {
+      "surface": "ולגר",
+      "english": "e para ⟨o⟩ estrangeiro",
+      "rationale": "Article added for English grammar"
+    },
+    {
+      "surface": "הגר",
+      "english": "que habita"
+    },
+    {
+      "surface": "בתוכם",
+      "english": "⟨entre⟩ eles",
+      "rationale": "Preposition added for natural English"
+    },
+    {
+      "surface": "לנוס",
+      "english": "para fugir"
+    },
+    {
+      "surface": "שמה",
+      "english": "para lá"
+    },
+    {
+      "surface": "כל",
+      "english": "todo"
+    },
+    {
+      "surface": "מכה",
+      "english": "aquele que fere",
+      "rationale": "Verb form rendered as relative clause in English"
+    },
+    {
+      "surface": "נפש",
+      "english": "⟨uma⟩ alma",
+      "rationale": "Article added for English grammar"
+    },
+    {
+      "surface": "בשגגה",
+      "english": "⟨por⟩ erro",
+      "rationale": "Preposition added for English grammar"
+    },
+    {
+      "surface": "ולא",
+      "english": "e não"
+    },
+    {
+      "surface": "ימות",
+      "english": "morrerá"
+    },
+    {
+      "surface": "ביד",
+      "english": "⟨pela⟩ mão",
+      "rationale": "Preposition added for English grammar"
+    },
+    {
+      "surface": "גאל",
+      "english": "⟨do⟩ vingador",
+      "rationale": "Article added for English grammar"
+    },
+    {
+      "surface": "הדם",
+      "english": "⟨do⟩ sangue",
+      "rationale": "Article added for English grammar"
+    },
+    {
+      "surface": "עד",
+      "english": "até"
+    },
+    {
+      "surface": "עמדו",
+      "english": "⟨que⟩ compareça",
+      "rationale": "Converted to relative clause with 'that' for English"
+    },
+    {
+      "surface": "לפני",
+      "english": "⟨perante⟩"
+    },
+    {
+      "surface": "העדה",
+      "english": "⟨a⟩ congregação",
+      "rationale": "Article added for English grammar"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T03:45:22.057756295Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 30:20",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "job",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 30,
+  "usage": {
+    "completion_tokens": 663,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 20058,
+    "prompt_tokens_details": {
+      "cached_tokens": 19086
+    },
+    "total_tokens": 20721
+  },
+  "translation": "Clamo a ti e não ⟨me⟩ respondes; apresento-me diante de ti e ⟨tu⟩ não ⟨me⟩ consideras.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "english": "Clamo",
+      "notes": [
+        {
+          "kind": "wordplay",
+          "subject": "אשוע",
+          "rationale": "Hebraic verb com raiz relacionada a 'clamar' ou 'gritar', aqui em forma causativa\/reflexiva"
+        }
+      ]
+    },
+    {
+      "surface": "אליך",
+      "english": "a ti",
+      "notes": []
+    },
+    {
+      "surface": "ולא",
+      "english": "e não",
+      "notes": []
+    },
+    {
+      "surface": "תענני",
+      "english": "⟨me⟩ respondes",
+      "marks": "a mim",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "respondes",
+          "rationale": "O hebraico תענני vem da raiz para 'responder' ou 'atender', mais literalmente 'dar atenção'"
+        }
+      ]
+    },
+    {
+      "surface": "עמדתי",
+      "english": "apresento-me diante de ti",
+      "notes": [
+        {
+          "kind": "idiom",
+          "subject": "עמדתי",
+          "rationale": "Literalmente 'estou em pé', mas aqui com sentido de 'apresentar-se diante' em posição de súplica"
+        }
+      ]
+    },
+    {
+      "surface": "ותתבנן",
+      "english": "⟨tu⟩ não ⟨me⟩ consideras",
+      "marks": "a mim",
+      "notes": [
+        {
+          "kind": "hapax",
+          "subject": "ותתבנן",
+          "rationale": "Esta forma verbal ocorre apenas uma vez em todo o Tanaj"
+        }
+      ]
+    },
+    {
+      "surface": "בי",
+      "english": "⟨me⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "me",
+          "rationale": "A preposição hebraica בי exige um pronome em português para completar o sentido"
+        }
+      ]
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T12:05:37.044156336Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "Judá",
+      "to": "Yehudá",
+      "token-index": 4,
+      "strongs": 3063,
+      "hebrew": "יהודה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 63,
+  "usage": {
+    "completion_tokens": 354,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62870,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63224
+  },
+  "translation": "⟨Um⟩ mizmor para David ⟨em⟩ seu estar ⟨no⟩ deserto ⟨de⟩ Yehudá.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "english": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "english": "para David"
+    },
+    {
+      "surface": "בהיותו",
+      "english": "⟨em⟩ seu estar",
+      "marks": "David"
+    },
+    {
+      "surface": "במדבר",
+      "english": "⟨no⟩ deserto"
+    },
+    {
+      "surface": "יהודה",
+      "english": "⟨de⟩ Yehudá"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:20:03.856594295Z",
+  "model": "glm-4.5"
+}

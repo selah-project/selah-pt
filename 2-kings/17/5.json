@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-kings",
+  "substitutions": [
+    {
+      "from": "Assíria",
+      "to": "Ashshur",
+      "token-index": 2,
+      "strongs": 804,
+      "hebrew": "אשור"
+    },
+    {
+      "from": "Samaria",
+      "to": "Shomron",
+      "token-index": 6,
+      "strongs": 8111,
+      "hebrew": "שמרון"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 17,
+  "usage": {
+    "completion_tokens": 359,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17116,
+    "prompt_tokens_details": {
+      "cached_tokens": 15786
+    },
+    "total_tokens": 17475
+  },
+  "translation": "E ⟨o⟩ rei da Ashshur subiu por toda ⟨a⟩ terra, e subiu a Shomron, e sitiou-a ⟨por⟩ três anos.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "english": "E subiu"
+    },
+    {
+      "surface": "מלך",
+      "english": "rei"
+    },
+    {
+      "surface": "אשור",
+      "english": "da Ashshur"
+    },
+    {
+      "surface": "בכל",
+      "english": "por toda"
+    },
+    {
+      "surface": "הארץ",
+      "english": "a terra"
+    },
+    {
+      "surface": "ויעל",
+      "english": "e subiu"
+    },
+    {
+      "surface": "שמרון",
+      "english": "a Shomron"
+    },
+    {
+      "surface": "ו�יצר",
+      "english": "e sitiou-a"
+    },
+    {
+      "surface": "עליה",
+      "english": "⟨por⟩"
+    },
+    {
+      "surface": "שלש",
+      "english": "três"
+    },
+    {
+      "surface": "שנים",
+      "english": "anos"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T06:03:14.004605940Z",
+  "model": "glm-4.5"
+}

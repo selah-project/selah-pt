@@ -1,0 +1,96 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-chronicles 10:3",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-chronicles",
+  "substitutions": [
+    {
+      "from": "Jeroboão",
+      "to": "Yarovam",
+      "token-index": 4,
+      "strongs": 3379,
+      "hebrew": "ירבעם"
+    },
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 6,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Roboão",
+      "to": "Rejavam",
+      "token-index": 9,
+      "strongs": 7346,
+      "hebrew": "רחבעם"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 10,
+  "usage": {
+    "completion_tokens": 421,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 58348,
+    "prompt_tokens_details": {
+      "cached_tokens": 57027
+    },
+    "total_tokens": 58769
+  },
+  "translation": "E eles enviaram e chamaram ⟨por⟩ ele, e veio Yarovam e ⟨o⟩ povo todo de Yisrael, e falaram a Rejavam, dizendo",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "english": "E eles enviaram"
+    },
+    {
+      "surface": "ויקראו",
+      "english": "e chamaram"
+    },
+    {
+      "surface": "לו",
+      "english": "⟨por⟩ ele",
+      "marks": "Jeroboão"
+    },
+    {
+      "surface": "ויבא",
+      "english": "e veio"
+    },
+    {
+      "surface": "ירבעם",
+      "english": "Yarovam"
+    },
+    {
+      "surface": "וכל",
+      "english": "e ⟨o⟩",
+      "marks": "povo todo de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "english": "povo todo de Yisrael"
+    },
+    {
+      "surface": "וידברו",
+      "english": "e falaram"
+    },
+    {
+      "surface": "אל",
+      "english": "a"
+    },
+    {
+      "surface": "רחבעם",
+      "english": "Rejavam"
+    },
+    {
+      "surface": "לאמר",
+      "english": "dizendo"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T14:17:17.417255890Z",
+  "model": "glm-4.5"
+}

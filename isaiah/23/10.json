@@ -1,0 +1,92 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "isaiah",
+  "substitutions": [
+    {
+      "from": "Társis",
+      "to": "Tarshish",
+      "token-index": 4,
+      "strongs": 8659,
+      "hebrew": "תרשיש"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 23,
+  "usage": {
+    "completion_tokens": 837,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 19054,
+    "prompt_tokens_details": {
+      "cached_tokens": 18005
+    },
+    "total_tokens": 19891
+  },
+  "translation": "Passa pela tua terra ⟨como⟩ o Nilo, ó filha de Tarshish: ⟨há⟩ não ⟨há⟩ mais cinto ⟨de⟩ força.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "english": "Passa",
+      "lemma": "5674 a",
+      "freq": "16",
+      "rationale": "from עבר (cross over\/passage)"
+    },
+    {
+      "surface": "ארצך",
+      "english": "pela tua terra",
+      "lemma": "776",
+      "freq": "21",
+      "rationale": "ארץ (terra) + sufixo possessivo ך (tua)"
+    },
+    {
+      "surface": "כיאר",
+      "english": "⟨como⟩ o Nilo",
+      "lemma": "k\/2975",
+      "freq": "5",
+      "rationale": "כְּ (como) + יְאֹר (rio, especificamente o Nilo)"
+    },
+    {
+      "surface": "בת",
+      "english": "ó filha de",
+      "lemma": "1323",
+      "freq": "216",
+      "rationale": "designação relacional para cidades\/povos"
+    },
+    {
+      "surface": "תרשיש",
+      "english": "Tarshish",
+      "lemma": "8659",
+      "freq": "25",
+      "rationale": "centro mercantil marítimo mediterrâneo"
+    },
+    {
+      "surface": "אין",
+      "english": "não ⟨há⟩",
+      "lemma": "369",
+      "freq": "383",
+      "rationale": "partícula negativa de existência"
+    },
+    {
+      "surface": "מזח",
+      "english": "cinto ⟨de⟩ força",
+      "lemma": "4206 a",
+      "freq": "1",
+      "rationale": "cinto\/faixa (hapax); metáfora de estabilidade\/contenção"
+    },
+    {
+      "surface": "עוד",
+      "english": "mais",
+      "lemma": "5750",
+      "freq": "395",
+      "rationale": "advérbio de continuidade\/futuro"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T06:30:05.733352428Z",
+  "model": "glm-4.5"
+}

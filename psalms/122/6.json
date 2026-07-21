@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "paz",
+      "to": "Shalom",
+      "token-index": 1,
+      "strongs": 7965,
+      "hebrew": "שלום"
+    },
+    {
+      "from": "Jerusalém",
+      "to": "Yerushalayim",
+      "token-index": 2,
+      "strongs": 3389,
+      "hebrew": "ירושלם"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 122,
+  "usage": {
+    "completion_tokens": 347,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62685,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63032
+  },
+  "translation": "Peçam ⟨por⟩ ⟨a⟩ Shalom ⟨de⟩ Yerushalayim; prosperarão ⟨os⟩ que te amam.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "english": "Peçam"
+    },
+    {
+      "surface": "שלום",
+      "english": "Shalom"
+    },
+    {
+      "surface": "ירושלם",
+      "english": "Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "english": "prosperarão"
+    },
+    {
+      "surface": "אהביך",
+      "english": "que te amam"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:04:16.855182793Z",
+  "model": "glm-4.5"
+}

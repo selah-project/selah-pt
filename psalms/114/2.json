@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "Judá",
+      "to": "Yehudá",
+      "token-index": 1,
+      "strongs": 3063,
+      "hebrew": "יהודה"
+    },
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 3,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 114,
+  "usage": {
+    "completion_tokens": 366,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62734,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63100
+  },
+  "translation": "Yehudá tornou-se ⟨o⟩ seu santuário, Yisrael ⟨o⟩ seu domínio.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "english": "Tornou-se"
+    },
+    {
+      "surface": "יהודה",
+      "english": "Yehudá"
+    },
+    {
+      "surface": "לקדשו",
+      "english": "⟨o⟩ seu santuário"
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "english": "⟨o⟩ seu domínio"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:55:55.743075355Z",
+  "model": "glm-4.5"
+}

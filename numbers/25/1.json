@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "numbers",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 1,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Moabe",
+      "to": "Moav",
+      "token-index": 8,
+      "strongs": 4124,
+      "hebrew": "מואב"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 25,
+  "usage": {
+    "completion_tokens": 364,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 18099,
+    "prompt_tokens_details": {
+      "cached_tokens": 16997
+    },
+    "total_tokens": 18463
+  },
+  "translation": "E Yisrael habitou em Shittim e ⟨o⟩ povo começou a prostituir-se com ⟨as⟩ filhas de Moav",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "english": "E Israel habitou"
+    },
+    {
+      "surface": "ישראל",
+      "english": "E Yisrael"
+    },
+    {
+      "surface": "בשטים",
+      "english": "em Shittim"
+    },
+    {
+      "surface": "ויחל",
+      "english": "e ⟨o⟩ povo começou"
+    },
+    {
+      "surface": "העם",
+      "english": "⟨o⟩ povo"
+    },
+    {
+      "surface": "לזנות",
+      "english": "a prostituir-se"
+    },
+    {
+      "surface": "אל",
+      "english": "com"
+    },
+    {
+      "surface": "בנות",
+      "english": "⟨as⟩ filhas"
+    },
+    {
+      "surface": "מואב",
+      "english": "de Moav"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T02:36:36.779738662Z",
+  "model": "glm-4.5"
+}

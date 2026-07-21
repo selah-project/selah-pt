@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 113,
+  "usage": {
+    "completion_tokens": 814,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62932,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63746
+  },
+  "translation": "Ele faz ⟨a⟩ mulher estéril da casa ⟨ser⟩ mãe alegre ⟨dos⟩ filhos. Aleluia ⟨para⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "english": "Ele faz",
+      "rationale": "Forma causativa de 'sentar'; aqui 'fazer sentar\/estabelecer'. Traduzido como agente divino ('Ele faz') conforme o contexto v.8."
+    },
+    {
+      "surface": "עקרת",
+      "english": "⟨a⟩ mulher estéril",
+      "rationale": "Adjetivo 'estéril' (literalmente 'arrancada pela raiz'). ⟨a⟩ adicionada artigo que hebraico omite."
+    },
+    {
+      "surface": "הבית",
+      "english": "da casa",
+      "rationale": "Preposição implícita 'de' + 'casa'. Ha- indicaria 'a casa', mas aqui funciona como parte da locução 'mulher da casa'."
+    },
+    {
+      "surface": "אם",
+      "english": "⟨ser⟩ mãe",
+      "rationale": "Mudança de estado: 'ser mãe' (copula ⟨ser⟩ adicionada). אם sozinha significa 'mãe'."
+    },
+    {
+      "surface": "הבנים",
+      "english": "⟨dos⟩ filhos",
+      "rationale": "Artigo definido 'os' (ה-); traduzido como ⟨dos⟩ para posse em português."
+    },
+    {
+      "surface": "שמחה",
+      "english": "alegre",
+      "rationale": "Adjetivo 'alegre\/jubilosa' qualificando 'mãe'."
+    },
+    {
+      "surface": "הללו",
+      "english": "Aleluia ⟨para⟩",
+      "rationale": "Imperativo 'louvai!' de 'halal' (brilhar\/celebrar). Tradução litúrgica 'Aleluia' + ⟨para⟩ indicando direção do louvor."
+    },
+    {
+      "surface": "יה",
+      "english": "YHWH",
+      "rationale": "Nome próprio divino יה (forma abreviada de YHWH). Mantido como YHWH conforme disciplina."
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:55:42.641507327Z",
+  "model": "glm-4.5"
+}

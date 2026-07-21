@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 111,
+  "usage": {
+    "completion_tokens": 378,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62818,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63196
+  },
+  "translation": "Prey ⟨is⟩ given ⟨to⟩ those fearing Him; He ⟨will⟩ remember forever ⟨His⟩ covenant.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "english": "Prey",
+      "marks": ""
+    },
+    {
+      "surface": "נתן",
+      "english": "⟨is⟩ given",
+      "rationale": "Perfect tense interpreted as present in English"
+    },
+    {
+      "surface": "ליראיו",
+      "english": "⟨to⟩ those fearing Him",
+      "rationale": "Preposition added, pronoun resolved"
+    },
+    {
+      "surface": "יזכר",
+      "english": "He ⟨will⟩ remember",
+      "rationale": "Yiqtol form indicates future\/ongoing action"
+    },
+    {
+      "surface": "לעולם",
+      "english": "forever",
+      "rationale": "Temporal preposition rendered as adverb"
+    },
+    {
+      "surface": "בריתו",
+      "english": "⟨His⟩ covenant",
+      "rationale": "Possessive suffix made explicit"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:54:53.434303317Z",
+  "model": "glm-4.5"
+}

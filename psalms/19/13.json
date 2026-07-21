@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 19,
+  "usage": {
+    "completion_tokens": 874,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62812,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63686
+  },
+  "translation": "Erros ⟨quem⟩ ⟨pode⟩ entender? das ⟨ocultas⟩ purifica-me.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "english": "Erros",
+      "lemma": "שְׁגִיאָה",
+      "strong": 7691,
+      "gv": 720,
+      "rationale": "Hapax no Salmo 19:13 (ספר תהילים), de 'שׁגגה' (errar, desviar-se moralmente)"
+    },
+    {
+      "surface": "מי",
+      "english": "⟨quem⟩",
+      "lemma": "מִי",
+      "strong": 4310,
+      "gv": 50,
+      "rationale": "Interrogativo; literalmente 'quem?'. Requer adição em português para pergunta."
+    },
+    {
+      "surface": "יבין",
+      "english": "⟨pode⟩ entender",
+      "lemma": "בִּין",
+      "strong": 995,
+      "gv": 72,
+      "rationale": "Verbo 'compreender\/distinguir'; forma יָבִין (3fs impf) requer construção interrogativa."
+    },
+    {
+      "surface": "מנסתרות",
+      "english": "das ⟨ocultas⟩",
+      "lemma": "נִסְתָּר",
+      "strong": 5641,
+      "gv": 1156,
+      "rationale": "Hapax feminino plural (נִסְתָּרוֹת), 'escondidas\/coisas secretas'. Construção hebraica 'de + ocultas'."
+    },
+    {
+      "surface": "נקני",
+      "english": "purifica-me",
+      "lemma": "נָקָה",
+      "strong": 5352,
+      "gv": 210,
+      "rationale": "Hapax נַקֵּנִי (2fs impv), 'purifica-me' ou 'declara-me inocente'; raiz de 'limpeza ritual\/moral'."
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T09:51:14.435737671Z",
+  "model": "glm-4.5"
+}

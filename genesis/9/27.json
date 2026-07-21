@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "genesis",
+  "substitutions": [
+    {
+      "from": "Sem",
+      "to": "Shem",
+      "token-index": 5,
+      "strongs": 8035,
+      "hebrew": "שם"
+    },
+    {
+      "from": "Canaã",
+      "to": "Kenaan",
+      "token-index": 7,
+      "strongs": 3667,
+      "hebrew": "כנען"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 9,
+  "usage": {
+    "completion_tokens": 551,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 21505,
+    "prompt_tokens_details": {
+      "cached_tokens": 20324
+    },
+    "total_tokens": 22056
+  },
+  "translation": "Elohim alargue ⟨a⟩ Jafé, e ele ⟨é⟩ ⟨que⟩ habite ⟨nas⟩ tendas de Shem, e Kenaan ⟨seja⟩ servo ⟨de⟩ ⟨ele⟩.",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "english": "Alargue"
+    },
+    {
+      "surface": "אלהים",
+      "english": "Elohim"
+    },
+    {
+      "surface": "ליפת",
+      "english": "⟨a⟩ Jafé",
+      "marks": "a Jafé"
+    },
+    {
+      "surface": "וישכן",
+      "english": "e ele ⟨é⟩ ⟨que⟩ habite"
+    },
+    {
+      "surface": "באהלי",
+      "english": "⟨nas⟩ tendas",
+      "marks": "nas tendas"
+    },
+    {
+      "surface": "שם",
+      "english": "de Shem"
+    },
+    {
+      "surface": "ויהי",
+      "english": "e Canaã ⟨seja⟩"
+    },
+    {
+      "surface": "כנען",
+      "english": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "english": "servo"
+    },
+    {
+      "surface": "למו",
+      "english": "⟨de⟩ ⟨ele⟩",
+      "marks": "de ele"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T23:50:21.170514857Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 30:15",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "job",
+  "substitutions": [
+    {
+      "from": "a salvação",
+      "to": "Yeshuá",
+      "token-index": 8,
+      "strongs": 3444,
+      "hebrew": "ישועה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 30,
+  "usage": {
+    "completion_tokens": 843,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 20312,
+    "prompt_tokens_details": {
+      "cached_tokens": 19086
+    },
+    "total_tokens": 21155
+  },
+  "translation": "O terror ⟨foi⟩ virado contra mim: ele ⟨é⟩ perseguido ⟨como⟩ vento ⟨por⟩ minha generosidade, e ⟨como⟩ nuvem ⟨é⟩ passada ⟨a⟩ minhYeshuá.",
+  "tokens": [
+    {
+      "surface": "ההפך",
+      "english": "O terror",
+      "rationale": "Literalmente 'virado', mas o contexto mostra terror sendo virado contra Jó"
+    },
+    {
+      "surface": "עלי",
+      "english": "contra mim",
+      "rationale": "Preposição 'sobre\/contra' com pronome"
+    },
+    {
+      "surface": "בלהות",
+      "english": ":",
+      "rationale": "Apausa estrutural entre as duas metades do versículo"
+    },
+    {
+      "surface": "תרדף",
+      "english": "ele ⟨é⟩ perseguido",
+      "rationale": "Verbo no masculino singular com sentido ativo"
+    },
+    {
+      "surface": "כרוח",
+      "english": "⟨como⟩ vento",
+      "rationale": "Preposição 'como' + substantivo feminino"
+    },
+    {
+      "surface": "נדבתי",
+      "english": "⟨por⟩ minha generosidade",
+      "rationale": "Com sentido de 'minha honra' ou 'minha generosidade'"
+    },
+    {
+      "surface": "וכעב",
+      "english": "e ⟨como⟩ nuvem",
+      "rationale": "Conjunção + preposição 'como' + substantivo"
+    },
+    {
+      "surface": "עברה",
+      "english": "⟨é⟩ passada",
+      "rationale": "Verbo no feminino singular para concordar com nuvem"
+    },
+    {
+      "surface": "ישעתי",
+      "english": "⟨a⟩ minhYeshuá",
+      "rationale": "Substantivo com sufixo possessivo"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T12:05:33.787273814Z",
+  "model": "glm-4.5"
+}

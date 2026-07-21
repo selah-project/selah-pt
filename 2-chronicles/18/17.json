@@ -1,0 +1,104 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-chronicles 18:17",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-chronicles",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 2,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Josafá",
+      "to": "Yehoshafat",
+      "token-index": 4,
+      "strongs": 3092,
+      "hebrew": "יהושפט"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 18,
+  "usage": {
+    "completion_tokens": 685,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 58703,
+    "prompt_tokens_details": {
+      "cached_tokens": 57027
+    },
+    "total_tokens": 59388
+  },
+  "translation": "Então o rei de Yisrael disse a Yehoshafat: ⟨Porventura⟩ não ⟨o⟩ disse eu a ti, que ⟨ele⟩ não profetizaria ⟨o⟩ bem sobre mim, senão ⟨o⟩ mal?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "english": "Então disse"
+    },
+    {
+      "surface": "מלך",
+      "english": "o rei"
+    },
+    {
+      "surface": "ישראל",
+      "english": "de Yisrael"
+    },
+    {
+      "surface": "אל",
+      "english": "a"
+    },
+    {
+      "surface": "יהושפט",
+      "english": "Yehoshafat"
+    },
+    {
+      "surface": "הלא",
+      "english": "⟨Porventura⟩ não",
+      "marks": "interrogativa retórica que introduz uma afirmação"
+    },
+    {
+      "surface": "אמרתי",
+      "english": "⟨o⟩ disse eu"
+    },
+    {
+      "surface": "אליך",
+      "english": "a ti"
+    },
+    {
+      "surface": "לא",
+      "english": "que ⟨ele⟩ não"
+    },
+    {
+      "surface": "יתנבא",
+      "english": "profetizaria"
+    },
+    {
+      "surface": "עלי",
+      "english": "sobre mim"
+    },
+    {
+      "surface": "טוב",
+      "english": "⟨o⟩ bem"
+    },
+    {
+      "surface": "כי",
+      "english": "senão"
+    },
+    {
+      "surface": "אם",
+      "english": "⟨o⟩"
+    },
+    {
+      "surface": "לרע",
+      "english": "mal"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T14:25:22.457528845Z",
+  "model": "glm-4.5"
+}

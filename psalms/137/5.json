@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "Jerusalém",
+      "to": "Yerushalayim",
+      "token-index": 2,
+      "strongs": 3389,
+      "hebrew": "ירושלם"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 137,
+  "usage": {
+    "completion_tokens": 612,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62781,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63393
+  },
+  "translation": "Se eu me esquecer ⟨de⟩ ti, ó Yerushalayim, esqueça-se ⟨a⟩ minha mão direita ⟨do seu⟩ ⟨art⟩ ⟨de tocar⟩",
+  "tokens": [
+    {
+      "surface": "אם",
+      "english": "Se"
+    },
+    {
+      "surface": "אשכחך",
+      "english": "eu me esquecer ⟨de⟩ ti",
+      "marks": "Jerusalém"
+    },
+    {
+      "surface": "ירושלם",
+      "english": "ó Yerushalayim"
+    },
+    {
+      "surface": "תשכח",
+      "english": "esqueça-se ⟨a⟩ minha mão direita ⟨do seu⟩",
+      "marks": "habilidade\/ação de tocar"
+    },
+    {
+      "surface": "ימיני",
+      "english": "⟨do seu⟩ ⟨art⟩ ⟨de tocar⟩"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:10:26.017142212Z",
+  "model": "glm-4.5"
+}

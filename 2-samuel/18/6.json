@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-samuel",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 4,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Efraim",
+      "to": "Efráyim",
+      "token-index": 8,
+      "strongs": 669,
+      "hebrew": "אפרים"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 18,
+  "usage": {
+    "completion_tokens": 469,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17344,
+    "prompt_tokens_details": {
+      "cached_tokens": 16172
+    },
+    "total_tokens": 17813
+  },
+  "translation": "E o povo saiu ⟨ao⟩ campo ⟨para⟩ encontrar ⟨com⟩ Yisrael, e a batalha foi na floresta de Efráyim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "english": "E saiu"
+    },
+    {
+      "surface": "העם",
+      "english": "o povo"
+    },
+    {
+      "surface": "השדה",
+      "english": "⟨ao⟩ campo"
+    },
+    {
+      "surface": "לקראת",
+      "english": "⟨para⟩ encontrar ⟨com⟩"
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael"
+    },
+    {
+      "surface": "ותהי",
+      "english": "e foi"
+    },
+    {
+      "surface": "המלחמה",
+      "english": "a batalha"
+    },
+    {
+      "surface": "ביער",
+      "english": "na floresta"
+    },
+    {
+      "surface": "אפרים",
+      "english": "de Efráyim"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T05:00:15.001886890Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 118,
+  "usage": {
+    "completion_tokens": 516,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62913,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63429
+  },
+  "translation": "כָּל גּוֹיִם סְבָבוּנִי בְּשֵׁם יְהוָה כִּי אֲמִילָם — ⟨All⟩ nations compassed me about in ⟨the⟩ name of YHWH ⟨because⟩ ⟨I⟩ cut them off.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "english": "⟨All⟩",
+      "rationale": "Quantifier singular often rendered with plural English 'all'"
+    },
+    {
+      "surface": "גוים",
+      "english": "nations"
+    },
+    {
+      "surface": "סבבוני",
+      "english": "compassed me about"
+    },
+    {
+      "surface": "בשם",
+      "english": "in ⟨the⟩ name of",
+      "rationale": "Hebrew lacks definite article"
+    },
+    {
+      "surface": "יהוה",
+      "english": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "english": "⟨because⟩",
+      "rationale": "Causal conjunction; rendered as 'for' or 'because'"
+    },
+    {
+      "surface": "אמילם",
+      "english": "⟨I⟩ cut them off",
+      "rationale": "1st singular verb; subject pronoun added"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:57:57.854309255Z",
+  "model": "glm-4.5"
+}

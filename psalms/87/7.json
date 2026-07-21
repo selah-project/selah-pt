@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 87,
+  "usage": {
+    "completion_tokens": 610,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62674,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63284
+  },
+  "translation": "E os cantores, como ⟨os⟩ dançarinos: ⟨todas⟩ ⟨as⟩ minhas fontes estão em ti.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "english": "E os cantores"
+    },
+    {
+      "surface": "כחללים",
+      "english": "como ⟨os⟩ dançarinos",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "dançarinos",
+          "rationale": "חללim tem nuances de 'ferir\/perfurar' (dança circular); 'dançarino' é escolha contextual comum, mas perde o vínculo etimológico com 'ferir o chão'"
+        }
+      ]
+    },
+    {
+      "surface": "כל",
+      "english": "⟨todas⟩ ⟨as⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "as",
+          "rationale": "Artigo indefinido exigido pelo português para substantivos femininos plurais"
+        }
+      ]
+    },
+    {
+      "surface": "מעיני",
+      "english": "minhas fontes",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "fontes",
+          "rationale": "מעינim é literalmente 'olhos' ou 'fontes'; aqui metaforicamente 'fontes' (de alegria\/vida), conforme tradição translational"
+        }
+      ]
+    },
+    {
+      "surface": "בך",
+      "english": "em ti"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:37:30.380870564Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "Corá",
+      "to": "Koraj",
+      "token-index": 2,
+      "strongs": 7141,
+      "hebrew": "קרח"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 85,
+  "usage": {
+    "completion_tokens": 295,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62645,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 62940
+  },
+  "translation": "Ao maestro ⟨para⟩ ⟨os⟩ filhos de Koraj ⟨um⟩ salmo",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "english": "Ao maestro"
+    },
+    {
+      "surface": "לבני",
+      "english": "⟨para⟩ ⟨os⟩ filhos",
+      "marks": "filhos de Corá"
+    },
+    {
+      "surface": "קרח",
+      "english": "de Koraj"
+    },
+    {
+      "surface": "מזמור",
+      "english": "⟨um⟩ salmo"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:36:15.724988385Z",
+  "model": "glm-4.5"
+}

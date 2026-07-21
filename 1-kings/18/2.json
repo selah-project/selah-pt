@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-kings",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 18,
+  "usage": {
+    "completion_tokens": 892,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62352,
+    "prompt_tokens_details": {
+      "cached_tokens": 61314
+    },
+    "total_tokens": 63244
+  },
+  "translation": "E Eliyáhu foi para se apresentar ⟨a⟩ Achav; e ⟨a⟩ fome era severa em Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "english": "E foi",
+      "rationale": "Conjugação do verbo 'ir' (halak) no vav-consecutivo pretérito 3ms com waw prefixado."
+    },
+    {
+      "surface": "אליהו",
+      "english": "Eliyáhu",
+      "rationale": "Nome próprio do profeta. Mantido na forma hebraica transliterada."
+    },
+    {
+      "surface": "להראות",
+      "english": "para se apresentar",
+      "rationale": "Infinitivo construto do verbo 'mostrar\/aparecer' (ra'ah). O sentido é 'aparecer diante de alguém'."
+    },
+    {
+      "surface": "אל",
+      "english": "⟨a⟩",
+      "rationale": "Preposição hebraica indicando direção ou proximidade; aqui introduz o objeto indireto (perante quem)."
+    },
+    {
+      "surface": "אחאב",
+      "english": "Achav",
+      "rationale": "Nome próprio do rei de Israel. Mantido na forma hebraica transliterada."
+    },
+    {
+      "surface": "והרעב",
+      "english": "e ⟨a⟩ fome",
+      "rationale": "Conjunção 'e' (vav) + substantivo 'fome' (ra'av) com artigo definido (ha-)."
+    },
+    {
+      "surface": "חזק",
+      "english": "era severa",
+      "rationale": "Adjetivo 'forte\/severo\/duro' (chazaq). No contexto de fome, significa 'intensa' ou 'severa'. Estava no estado de qal perfeito 3fs, aqui traduzido como era."
+    },
+    {
+      "surface": "בשמרון",
+      "english": "em Shomron",
+      "rationale": "Preposição 'em' (be) + nome próprio da capital do Reino do Norte, 'Samaria'. Mantido na forma hebraica transliterada."
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T05:37:24.937372722Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "2-chronicles 35:23",
+  "book": "2-chronicles",
+  "lang": "pt",
+  "chapter": 35,
+  "usage": {
+    "completion_tokens": 830,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 65814,
+    "prompt_tokens_details": {
+      "cached_tokens": 64349
+    },
+    "total_tokens": 66644
+  },
+  "translation": "E ⟨os⟩ arqueiros atiraram ⟨no⟩ rei Josias; e ⟨o⟩ rei disse ⟨aos⟩ seus servos: 'Levai-me embora, pois estou gravemente ferido.'",
+  "tokens": [
+    {
+      "surface": "וירו",
+      "english": "E ⟨os⟩ arqueiros atiraram",
+      "marks": "os arqueiros"
+    },
+    {
+      "surface": "הירים",
+      "english": "⟨no⟩",
+      "rationale": "Hebrew lacks preposition; הירים forms a compound with וירו meaning 'the archers'"
+    },
+    {
+      "surface": "למלך",
+      "english": "rei",
+      "marks": "rei"
+    },
+    {
+      "surface": "יאשיהו",
+      "english": "Josias",
+      "marks": "Josias"
+    },
+    {
+      "surface": "ויאמר",
+      "english": "e ⟨o⟩ rei disse",
+      "rationale": "ויאמר implies the subject 'he' which must be explicit in English as 'o rei'"
+    },
+    {
+      "surface": "המלך",
+      "english": "⟨o⟩ rei",
+      "rationale": "Definite article implied in context"
+    },
+    {
+      "surface": "לעבדיו",
+      "english": "⟨aos⟩ seus servos",
+      "rationale": "Preposition and possessive suffix implied in ל- prefix"
+    },
+    {
+      "surface": "העבירוני",
+      "english": "'Levai-me embora'",
+      "rationale": "Imperative with 1st person object 'me'; literally 'make me pass over\/cross'"
+    },
+    {
+      "surface": "כי",
+      "english": "pois",
+      "rationale": "Conjunction indicating reason"
+    },
+    {
+      "surface": "החליתי",
+      "english": "estou gravemente ferido",
+      "rationale": "Literal 'I have become weak\/sick'; context implies battle wounds"
+    },
+    {
+      "surface": "מאד",
+      "english": "gravemente",
+      "rationale": "Adverb intensifying the condition"
+    }
+  ],
+  "timestamp": "2026-06-13T07:11:37.847717240Z",
+  "model": "glm-4.5"
+}

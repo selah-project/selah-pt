@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ezekiel 26:9",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "ezekiel",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 26,
+  "usage": {
+    "completion_tokens": 618,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17411,
+    "prompt_tokens_details": {
+      "cached_tokens": 16312
+    },
+    "total_tokens": 18029
+  },
+  "translation": "E ⟨um⟩ ariete diante dele ⟨ele⟩ dará ⟨contra⟩ ⟨as⟩ tuas muralhas, e ⟨as⟩ tuas torres ele ⟨as⟩ derrubará com ⟨as⟩ suas espadas.",
+  "tokens": [
+    {
+      "surface": "ומחי",
+      "english": "E ⟨um⟩ ariete",
+      "notes": "substitution: מחי é literalmente 'seu aríete', mas o hebraico usa ומחי como unidade lexical 'e com o seu aríete'"
+    },
+    {
+      "surface": "קבלו",
+      "english": "diante dele",
+      "notes": "addition: קבל significa literalmente 'diante de', requerendo complemento em português"
+    },
+    {
+      "surface": "יתן",
+      "english": "⟨ele⟩ dará",
+      "notes": "addition: יתן é 'ele dará', sujeito implícito tornado explícito em português; ⟨contra⟩: o hebraico não requer preposição"
+    },
+    {
+      "surface": "בחמותיך",
+      "english": "⟨as⟩ tuas muralhas",
+      "notes": "addition: artigo definido ⟨as⟩ requerido em português"
+    },
+    {
+      "surface": "ומגדלתיך",
+      "english": "e ⟨as⟩ tuas torres",
+      "notes": "addition: artigo definido ⟨as⟩ requerido em português"
+    },
+    {
+      "surface": "יתץ",
+      "english": "ele ⟨as⟩ derrubará",
+      "notes": "addition: sujeito ⟨ele⟩ e objeto ⟨as⟩ adicionados para clareza em português"
+    },
+    {
+      "surface": "בחרבותיו",
+      "english": "com ⟨as⟩ suas espadas",
+      "notes": "substitution: חרבות pode ser 'machados' ou 'espadas'; 'espadas' mantém consistência com contexto militar"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T08:30:16.358927510Z",
+  "model": "glm-4.5"
+}

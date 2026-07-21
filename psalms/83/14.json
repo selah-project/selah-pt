@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 83,
+  "usage": {
+    "completion_tokens": 843,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62764,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63607
+  },
+  "translation": "HaElohim, coloca-os ⟨como⟩ rodem; ⟨como⟩ palha ⟨ao⟩ vento ⟨da⟩ Sua face.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "english": "HaElohim",
+      "rationale": "Preservado conforme disciplina — 'meu Elohim', sujeito direto da oração; tradução evita 'meu Deus' para manter o termo hebraico."
+    },
+    {
+      "surface": "שיתמו",
+      "english": "coloca-os",
+      "rationale": "Imperativo Qal 2ms com sufixo -מו; 'coloca-os' captura o ato divino de pôr\/dispor."
+    },
+    {
+      "surface": "כגלגל",
+      "english": "⟨como⟩ rodem",
+      "rationale": "כ prefixada + גלגל (hapax); 'como rodem' preserva o hapax sem impor 'fogo' (adição de outras versões)."
+    },
+    {
+      "surface": "כקש",
+      "english": "⟨como⟩ palha",
+      "rationale": "כ prefixada + קש (palha\/restolho); 'como palha' — tradução direta, sem impor 'fogo' ou 'chama' de versões como KJV\/BSB."
+    },
+    {
+      "surface": "לפני",
+      "english": "⟨ao⟩ vento",
+      "rationale": "לפני + רוח; 'ao vento' seria ⟨ao⟩ frente-de, mas o hebraico usa לפני 'diante de' + vento naturalmente."
+    },
+    {
+      "surface": "רוח",
+      "english": "⟨da⟩ Sua face",
+      "rationale": "רוח = vento\/fôlego; 'da Sua face' traduz 'לפני רוח' literalmente ('diante do vento'), mantendo o hebraico רוח sem impor 'tempestade'."
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:35:29.277956437Z",
+  "model": "glm-4.5"
+}

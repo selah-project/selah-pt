@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 39,
+  "usage": {
+    "completion_tokens": 738,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62893,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63631
+  },
+  "translation": "De todas ⟨as⟩ minhas transgressões livra-me; ⟨a⟩ ignomínia ⟨do⟩ insensato não me ponhas.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "english": "De todas",
+      "notes": "Addition: ⟨as⟩ — Hebrew lacks definite article here, but English requires it for natural reading."
+    },
+    {
+      "surface": "פשעי",
+      "english": "minhas transgressões",
+      "notes": "Substitution: 'transgressões' for פשע — the Hebrew root implies rebellion or revolt, broader than typical 'sin'."
+    },
+    {
+      "surface": "הצילני",
+      "english": "livra-me",
+      "notes": "Note: הצילני — the verb צלה means 'to snatch away', here in the Hiphil causative stem 'deliver\/lave'."
+    },
+    {
+      "surface": "חרפת",
+      "english": "⟨a⟩ ignomínia ⟨do⟩",
+      "notes": "Substitution: 'ignomínia' for חרפה — the Hebrew can mean both 'disgrace' and 'pudenda', carrying strong visceral weight. Addition: ⟨a⟩ ⟨do⟩ — articles required in English."
+    },
+    {
+      "surface": "נבל",
+      "english": "insensato",
+      "notes": "Substitution: 'insensato' for נבל — the Hebrew means 'stupid\/wicked', especially with connotations of impiety or godlessness."
+    },
+    {
+      "surface": "אל",
+      "english": "não",
+      "notes": "Substitution: 'não' for אל — this is the negating particle 'not' (אל-), not the noun 'God' (אֱלֹהִים)."
+    },
+    {
+      "surface": "תשימני",
+      "english": "me ponhas",
+      "notes": "Idiom: The Hebrew שים literally means 'put\/place', here used idiomatically for 'make me become' or 'appoint me as'."
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:05:36.408836889Z",
+  "model": "glm-4.5"
+}

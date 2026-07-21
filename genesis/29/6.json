@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 29:6",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "genesis",
+  "substitutions": [
+    {
+      "from": "paz",
+      "to": "Shalom",
+      "token-index": 5,
+      "strongs": 7965,
+      "hebrew": "שלום"
+    },
+    {
+      "from": "Raquel",
+      "to": "Rajel",
+      "token-index": 7,
+      "strongs": 7354,
+      "hebrew": "רחל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 29,
+  "usage": {
+    "completion_tokens": 476,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 21690,
+    "prompt_tokens_details": {
+      "cached_tokens": 20324
+    },
+    "total_tokens": 22166
+  },
+  "translation": "E ele disse-lhes: ⟨Está⟩ em Shalom? E eles disseram: ⟨Está⟩ em Shalom; e eis ⟨que⟩ Rajel, sua filha, vem com ⟨o⟩ rebanho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "english": "E ele disse"
+    },
+    {
+      "surface": "להם",
+      "english": "a eles"
+    },
+    {
+      "surface": "השלום",
+      "english": "⟨Está⟩ em paz"
+    },
+    {
+      "surface": "לו",
+      "english": "para ele"
+    },
+    {
+      "surface": "ויאמרו",
+      "english": "e eles disseram"
+    },
+    {
+      "surface": "שלום",
+      "english": "⟨Está⟩ em Shalom"
+    },
+    {
+      "surface": "והנה",
+      "english": "e eis ⟨que⟩"
+    },
+    {
+      "surface": "רחל",
+      "english": "Rajel"
+    },
+    {
+      "surface": "בתו",
+      "english": "sua filha"
+    },
+    {
+      "surface": "באה",
+      "english": "vem"
+    },
+    {
+      "surface": "עם",
+      "english": "com"
+    },
+    {
+      "surface": "הצאן",
+      "english": "⟨⟩ o rebanho"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T00:10:39.608008155Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "genesis",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 2,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Canaã",
+      "to": "Kenaan",
+      "token-index": 10,
+      "strongs": 3667,
+      "hebrew": "כנען"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 42,
+  "usage": {
+    "completion_tokens": 382,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 21643,
+    "prompt_tokens_details": {
+      "cached_tokens": 20322
+    },
+    "total_tokens": 22025
+  },
+  "translation": "E vieram os filhos de ⟨Yisrael⟩ para comprar ⟨את⟩ no meio ⟨dos que⟩ estavam entrando, porque ⟨a⟩ fome ⟨estava⟩ na terra de Kenaan",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "english": "E vieram"
+    },
+    {
+      "surface": "בני",
+      "english": "os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael"
+    },
+    {
+      "surface": "לשבר",
+      "english": "para comprar"
+    },
+    {
+      "surface": "בתוך",
+      "english": "no meio de"
+    },
+    {
+      "surface": "הבאים",
+      "english": "⟨os que⟩ estavam entrando"
+    },
+    {
+      "surface": "כי",
+      "english": "porque"
+    },
+    {
+      "surface": "היה",
+      "english": "⟨a⟩ fome ⟨estava⟩"
+    },
+    {
+      "surface": "הרעב",
+      "english": "a fome"
+    },
+    {
+      "surface": "בארץ",
+      "english": "na terra de"
+    },
+    {
+      "surface": "כנען",
+      "english": "Kenaan"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T00:25:26.705981922Z",
+  "model": "glm-4.5"
+}

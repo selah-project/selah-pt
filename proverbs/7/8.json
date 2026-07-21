@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "proverbs",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 7,
+  "usage": {
+    "completion_tokens": 859,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 52808,
+    "prompt_tokens_details": {
+      "cached_tokens": 51893
+    },
+    "total_tokens": 53667
+  },
+  "translation": "Passando ⟨por⟩ ⟨o⟩ mercado ⟨próximo⟩ ao ⟨seu⟩ canto ⟨e⟩ ⟨o⟩ caminho ⟨para⟩ ⟨a⟩ sua casa ⟨ele⟩ ⟨ande⟩",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "english": "Passando",
+      "rationale": "Particípio do verbo 'passar' ou 'cruzar', indicando ação contínua"
+    },
+    {
+      "surface": "בשוק",
+      "english": "⟨por⟩ ⟨o⟩ mercado",
+      "rationale": "ב indica 'no\/em'; שוק = 'mercado\/praça'; artigos e preposição exigidos em português"
+    },
+    {
+      "surface": "אצל",
+      "english": "⟨próximo⟩",
+      "rationale": "Preposição de proximidade 'junto a' ou 'ao lado de'"
+    },
+    {
+      "surface": "פנה",
+      "english": "ao ⟨seu⟩ canto",
+      "rationale": "פנה = 'canto\/quina' (literal de rua ou de construção); sufixo -ה indica 'dela' (da mulher de Pv 7); artigos exigidos"
+    },
+    {
+      "surface": "ודרך",
+      "english": "⟨e⟩ ⟨o⟩ caminho",
+      "rationale": "ו = 'e'; דרך = 'caminho\/estrada'; artigo exigido em português"
+    },
+    {
+      "surface": "ביתה",
+      "english": "⟨para⟩ ⟨a⟩ sua casa",
+      "rationale": "בית = 'casa'; sufixo -ה = 'dela'; prefixo ב- = 'para\/em\/por'; artigos exigidos"
+    },
+    {
+      "surface": "יצעד",
+      "english": "⟨ele⟩ ⟨ande⟩",
+      "rationale": "Verbo 'marchar\/andar a passos regulares'; sujeito 'ele' implícito exigido em português; verbo no presente para ação contínua"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:23:32.194893349Z",
+  "model": "glm-4.5"
+}

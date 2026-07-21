@@ -1,0 +1,151 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "esther 10:2",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "esther",
+  "substitutions": [
+    {
+      "from": "Mardoqueu",
+      "to": "Mordejai",
+      "token-index": 6,
+      "strongs": 4782,
+      "hebrew": "מרדכי"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 10,
+  "usage": {
+    "completion_tokens": 984,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 18846,
+    "prompt_tokens_details": {
+      "cached_tokens": 16627
+    },
+    "total_tokens": 19830
+  },
+  "translation": "E ⟨é⟩ ⟨o⟩ ato do seu poder e ⟨da⟩ sua força e ⟨a⟩ declaração ⟨da⟩ grandeza de Mordejai, que ⟨o⟩ rei engrandeceu, ⟨eles⟩ não ⟨estão⟩ escritos no livro ⟨das⟩ crónicas ⟨dos⟩ reis ⟨da⟩ Média ⟨e⟩ ⟨da⟩ Pérsia?",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "english": "E",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "E",
+          "rationale": "וְכָל geralmente significa 'e todo', mas aqui funciona como 'e' introdutório"
+        }
+      ]
+    },
+    {
+      "surface": "מעשה",
+      "english": "ato"
+    },
+    {
+      "surface": "תקפו",
+      "english": "do seu poder"
+    },
+    {
+      "surface": "וגבורתו",
+      "english": "e da sua força"
+    },
+    {
+      "surface": "ופרשת",
+      "english": "e a declaração"
+    },
+    {
+      "surface": "גדלת",
+      "english": "da grandeza"
+    },
+    {
+      "surface": "מרדכי",
+      "english": "de Mordejai"
+    },
+    {
+      "surface": "אשר",
+      "english": "que",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "que",
+          "rationale": "אֲשֶׁר como conjuntiva relativa"
+        }
+      ]
+    },
+    {
+      "surface": "גדלו",
+      "english": "o rei engrandeceu",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "o rei engrandeceu",
+          "rationale": "הַמֶּלֶךְ implicito no sujeito de גִּדְּלוֹ"
+        }
+      ]
+    },
+    {
+      "surface": "המלך",
+      "english": "rei"
+    },
+    {
+      "surface": "הלוא",
+      "english": "não estão",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "não estão",
+          "rationale": "הֲלוֹא como partícula interrogativa retórica"
+        }
+      ]
+    },
+    {
+      "surface": "הם",
+      "english": "eles"
+    },
+    {
+      "surface": "כתובים",
+      "english": "escritos"
+    },
+    {
+      "surface": "על",
+      "english": "no"
+    },
+    {
+      "surface": "ספר",
+      "english": "livro"
+    },
+    {
+      "surface": "דברי",
+      "english": "das crónicas"
+    },
+    {
+      "surface": "הימים",
+      "english": "dos reis"
+    },
+    {
+      "surface": "למלכי",
+      "english": "da Média"
+    },
+    {
+      "surface": "מדי",
+      "english": "e da Pérsia",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "e da Pérsia",
+          "rationale": "וְ implícito entre מָדַי וּפָרַס"
+        }
+      ]
+    },
+    {
+      "surface": "ופרס",
+      "english": "e Pérsia"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T12:45:27.216192470Z",
+  "model": "glm-4.5"
+}

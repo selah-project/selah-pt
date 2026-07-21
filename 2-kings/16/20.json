@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-kings",
+  "substitutions": [
+    {
+      "from": "Davi",
+      "to": "David",
+      "token-index": 8,
+      "strongs": 1732,
+      "hebrew": "דוד"
+    },
+    {
+      "from": "Ezequias",
+      "to": "Jizkiyahu",
+      "token-index": 10,
+      "strongs": 2396,
+      "hebrew": "חזקיהו"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 16,
+  "usage": {
+    "completion_tokens": 450,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17321,
+    "prompt_tokens_details": {
+      "cached_tokens": 15784
+    },
+    "total_tokens": 17771
+  },
+  "translation": "E Achaz dormiu ⟨com⟩ seus pais e foi sepultado ⟨com⟩ seus pais na cidade de David; e Jizkiyahu, seu filho, reinou em seu lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "english": "E Achaz dormiu"
+    },
+    {
+      "surface": "אחז",
+      "english": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "english": "⟨com⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "english": "seus pais"
+    },
+    {
+      "surface": "ויקבר",
+      "english": "e foi sepultado"
+    },
+    {
+      "surface": "עם",
+      "english": "⟨com⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "english": "seus pais"
+    },
+    {
+      "surface": "בעיר",
+      "english": "na cidade"
+    },
+    {
+      "surface": "דוד",
+      "english": "de David"
+    },
+    {
+      "surface": "וימלך",
+      "english": "e reinou"
+    },
+    {
+      "surface": "חזקיהו",
+      "english": "Jizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "english": "seu filho"
+    },
+    {
+      "surface": "תחתיו",
+      "english": "em seu lugar"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T06:02:07.367210879Z",
+  "model": "glm-4.5"
+}

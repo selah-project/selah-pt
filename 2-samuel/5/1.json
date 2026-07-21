@@ -1,0 +1,105 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-samuel",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 3,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Davi",
+      "to": "David",
+      "token-index": 5,
+      "strongs": 1732,
+      "hebrew": "דוד"
+    },
+    {
+      "from": "Hebrom",
+      "to": "Jevron",
+      "token-index": 6,
+      "strongs": 2275,
+      "hebrew": "חברון"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 5,
+  "usage": {
+    "completion_tokens": 538,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17683,
+    "prompt_tokens_details": {
+      "cached_tokens": 16172
+    },
+    "total_tokens": 18221
+  },
+  "translation": "E vieram todas as tribos de Yisrael ⟨a⟩ Davidd em Jevron ⟨e⟩ disseram, dizendo: Eis-nos aqui, osso ⟨teu⟩ ⟨e⟩ carne ⟨tua⟩, nós.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "english": "E vieram"
+    },
+    {
+      "surface": "כל",
+      "english": "todas"
+    },
+    {
+      "surface": "שבטי",
+      "english": "tribos"
+    },
+    {
+      "surface": "ישראל",
+      "english": "de Yisrael"
+    },
+    {
+      "surface": "אל",
+      "english": "⟨a⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "english": "Davidd"
+    },
+    {
+      "surface": "חברונה",
+      "english": "em Jevron"
+    },
+    {
+      "surface": "ויאמרו",
+      "english": "⟨e⟩ disseram"
+    },
+    {
+      "surface": "לאמר",
+      "english": "dizendo"
+    },
+    {
+      "surface": "הננו",
+      "english": "Eis-nos aqui"
+    },
+    {
+      "surface": "עצמך",
+      "english": "osso ⟨teu⟩",
+      "marks": "teu"
+    },
+    {
+      "surface": "ובשרך",
+      "english": "⟨e⟩ carne ⟨tua⟩",
+      "marks": "tua"
+    },
+    {
+      "surface": "אנחנו",
+      "english": "nós"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T04:47:19.837418309Z",
+  "model": "glm-4.5"
+}

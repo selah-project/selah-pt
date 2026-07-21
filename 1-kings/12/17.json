@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-kings 12:17",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-kings",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 1,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Judá",
+      "to": "Yehudá",
+      "token-index": 4,
+      "strongs": 3063,
+      "hebrew": "יהודה"
+    },
+    {
+      "from": "Roboão",
+      "to": "Rejavam",
+      "token-index": 7,
+      "strongs": 7346,
+      "hebrew": "רחבעם"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 12,
+  "usage": {
+    "completion_tokens": 500,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62493,
+    "prompt_tokens_details": {
+      "cached_tokens": 61312
+    },
+    "total_tokens": 62993
+  },
+  "translation": "Mas ⟨os⟩ filhos de Yisrael ⟨que⟩ habitavam nas cidades de Yehudá, Rejavam reinou sobre eles.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "english": "Mas ⟨os⟩ filhos",
+      "marks": "filhos de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "english": "de Yisrael"
+    },
+    {
+      "surface": "הישבים",
+      "english": "⟨que⟩ habitavam"
+    },
+    {
+      "surface": "בערי",
+      "english": "nas cidades"
+    },
+    {
+      "surface": "יהודה",
+      "english": "de Yehudá"
+    },
+    {
+      "surface": "וימלך",
+      "english": "Roboão reinou"
+    },
+    {
+      "surface": "עליהם",
+      "english": "sobre eles"
+    },
+    {
+      "surface": "רחבעם",
+      "english": "Rejavam"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T05:28:12.051099213Z",
+  "model": "glm-4.5"
+}

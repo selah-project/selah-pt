@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "amos",
+  "substitutions": [
+    {
+      "from": "Jerusalém",
+      "to": "Yerushalayim",
+      "token-index": 5,
+      "strongs": 3389,
+      "hebrew": "ירושלם"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 2,
+  "usage": {
+    "completion_tokens": 302,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16364,
+    "prompt_tokens_details": {
+      "cached_tokens": 15413
+    },
+    "total_tokens": 16666
+  },
+  "translation": "E eu enviarei ⟨um⟩ fogo sobre Judá e ⟨ele⟩ consumirá ⟨as⟩ cidadelas de Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "english": "E eu enviarei"
+    },
+    {
+      "surface": "אש",
+      "english": "⟨um⟩ fogo"
+    },
+    {
+      "surface": "ביהודה",
+      "english": "sobre Judá"
+    },
+    {
+      "surface": "ואכלה",
+      "english": "e ⟨ele⟩ consumirá"
+    },
+    {
+      "surface": "ארמנות",
+      "english": "⟨as⟩ cidadelas"
+    },
+    {
+      "surface": "ירושלם",
+      "english": "de Yerushalayim"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T09:05:59.834477551Z",
+  "model": "glm-4.5"
+}

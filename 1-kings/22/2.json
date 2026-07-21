@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-kings",
+  "substitutions": [
+    {
+      "from": "Judá",
+      "to": "Yehudá",
+      "token-index": 6,
+      "strongs": 3063,
+      "hebrew": "יהודה"
+    },
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 9,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 22,
+  "usage": {
+    "completion_tokens": 336,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62551,
+    "prompt_tokens_details": {
+      "cached_tokens": 61314
+    },
+    "total_tokens": 62887
+  },
+  "translation": "E aconteceu no ano terceiro que Jehoshaphat, ⟨o⟩ rei de Yehudá, desceu ao rei de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "english": "E aconteceu"
+    },
+    {
+      "surface": "בשנה",
+      "english": "no ano"
+    },
+    {
+      "surface": "השלישית",
+      "english": "terceiro"
+    },
+    {
+      "surface": "וירד",
+      "english": "que ... desceu"
+    },
+    {
+      "surface": "יהושפט",
+      "english": "Jehoshaphat"
+    },
+    {
+      "surface": "מלך",
+      "english": "⟨o⟩ rei",
+      "marks": "Jehoshaphat"
+    },
+    {
+      "surface": "יהודה",
+      "english": "de Yehudá"
+    },
+    {
+      "surface": "אל",
+      "english": "ao"
+    },
+    {
+      "surface": "מלך",
+      "english": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "english": "de Yisrael"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T05:44:34.483561295Z",
+  "model": "glm-4.5"
+}

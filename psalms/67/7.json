@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 67,
+  "usage": {
+    "completion_tokens": 642,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62836,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63478
+  },
+  "translation": "A terra dará ⟨o⟩ seu ⟨que⟩ será colhido; ⟨nos⟩ abençoará Elohim, ⟨o⟩ Elohim ⟨de⟩ nós.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "english": "A terra",
+      "rationale": "Hebrew definite article implied by context"
+    },
+    {
+      "surface": "נתנה",
+      "english": "dará",
+      "rationale": "Verb meaning 'to give' or 'to produce' - here 'yield' in agricultural sense"
+    },
+    {
+      "surface": "יבולה",
+      "english": "⟨o⟩ seu ⟨que⟩ será colhido",
+      "rationale": "Literally 'its produce\/crop' - expanded for clarity in Portuguese"
+    },
+    {
+      "surface": "יברכנו",
+      "english": "⟨nos⟩ abençoará",
+      "rationale": "Root meaning 'to kneel\/bless' - here 'bless us' with implied subject"
+    },
+    {
+      "surface": "אלהים",
+      "english": "Elohim",
+      "rationale": "Hebrew divine name preserved as per discipline - not translated as 'Deus'"
+    },
+    {
+      "surface": "אלהינו",
+      "english": "⟨o⟩ Elohim ⟨de⟩ nós",
+      "rationale": "Literally 'our Elohim' - possessive suffix rendered with prepositions in Portuguese"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:22:18.891097617Z",
+  "model": "glm-4.5"
+}

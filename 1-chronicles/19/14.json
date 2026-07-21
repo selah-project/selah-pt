@@ -1,0 +1,129 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-chronicles 19:14",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-chronicles",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 19,
+  "usage": {
+    "completion_tokens": 1021,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 57315,
+    "prompt_tokens_details": {
+      "cached_tokens": 56046
+    },
+    "total_tokens": 58336
+  },
+  "translation": "Então Joav ⟨se aproximou⟩, e ⟨o⟩ povo que ⟨estava⟩ com ⟨ele⟩, diante ⟨de⟩ Aram ⟨para⟩ ⟨a⟩ batalha; e eles fugiram de diante ⟨dele⟩.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "english": "Então ⟨se aproximou⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "Então",
+          "rationale": "Conjuntivo 'ו' consecutivo traduzido como 'Então' para mostrar sequência narrativa"
+        },
+        {
+          "kind": "substitution",
+          "subject": "se aproximou",
+          "rationale": "נגש (nagash) literalmente 'aproximou-se' ou 'chegou perto'; aqui no contexto militar de avançar para a batalha"
+        }
+      ]
+    },
+    {
+      "surface": "יואב",
+      "english": "Joav",
+      "notes": []
+    },
+    {
+      "surface": "והעם",
+      "english": "e ⟨o⟩ povo",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨o⟩",
+          "rationale": "Artigo definido requerido em português"
+        }
+      ]
+    },
+    {
+      "surface": "אשר",
+      "english": "que",
+      "notes": []
+    },
+    {
+      "surface": "עמו",
+      "english": "⟨estava⟩ com ⟨ele⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨estava⟩",
+          "rationale": "Verbo de ligação requerido em português; hebraico omite o presente de 'ser\/estar'"
+        },
+        {
+          "kind": "addition",
+          "subject": "⟨ele⟩",
+          "rationale": "Pronome exigido em português para clareza referencial a Joav"
+        }
+      ]
+    },
+    {
+      "surface": "לפני",
+      "english": "diante ⟨de⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨de⟩",
+          "rationale": "Preposição 'de' exigida pela regência de 'diante' em português"
+        }
+      ]
+    },
+    {
+      "surface": "ארם",
+      "english": "Aram",
+      "notes": []
+    },
+    {
+      "surface": "למלחמה",
+      "english": "⟨para⟩ ⟨a⟩ batalha",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨para⟩",
+          "rationale": "Preposição 'para' exigida pelo sentido direcional em português"
+        },
+        {
+          "kind": "addition",
+          "subject": "⟨a⟩",
+          "rationale": "Artigo definido exigido em português"
+        }
+      ]
+    },
+    {
+      "surface": "וינוסו",
+      "english": "e eles fugiram",
+      "notes": []
+    },
+    {
+      "surface": "מפניו",
+      "english": "de diante ⟨dele⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨dele⟩",
+          "rationale": "Pronome sufixo וּ (-o) traduzido como 'dele' para clareza referencial"
+        }
+      ]
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T13:54:20.552035800Z",
+  "model": "glm-4.5"
+}

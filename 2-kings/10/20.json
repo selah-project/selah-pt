@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-kings",
+  "substitutions": [
+    {
+      "from": "Jeú",
+      "to": "Yehu",
+      "token-index": 1,
+      "strongs": 3058,
+      "hebrew": "יהוא"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 10,
+  "usage": {
+    "completion_tokens": 497,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16734,
+    "prompt_tokens_details": {
+      "cached_tokens": 15786
+    },
+    "total_tokens": 17231
+  },
+  "translation": "E Yehu disse: ⟨Santificai⟩ uma assembleia solene ⟨para⟩ Baal. E eles a proclamaram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "english": "E Jeú disse"
+    },
+    {
+      "surface": "יהוא",
+      "english": "Yehu"
+    },
+    {
+      "surface": "קדשו",
+      "english": "⟨Santificai⟩",
+      "marks": "uma assembleia solene"
+    },
+    {
+      "surface": "עצרה",
+      "english": "assembleia solene"
+    },
+    {
+      "surface": "לבעל",
+      "english": "⟨para⟩ Baal",
+      "marks": "Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "english": "E eles a proclamaram"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T05:56:10.425368669Z",
+  "model": "glm-4.5"
+}

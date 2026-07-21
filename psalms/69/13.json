@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "pt",
+  "chapter": 69,
+  "usage": {
+    "completion_tokens": 947,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 70266,
+    "prompt_tokens_details": {
+      "cached_tokens": 69259
+    },
+    "total_tokens": 71213
+  },
+  "translation": "E ⟨את⟩ ⟨את⟩ que ⟨estão⟩ assentados ⟨à⟩ porta falam ⟨de⟩ mim e ⟨as⟩ canções ⟨dos⟩ bêbados.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "english": "falem",
+      "notes": [
+        {
+          "kind": "idiom",
+          "subject": "falam de mim",
+          "rationale": "Literalmente 'meditarão\/conversarão em mim'; traduzido como 'falam de mim' para capturar o sentido de fofoca\/difamação no contexto do versículo anterior."
+        }
+      ]
+    },
+    {
+      "surface": "בי",
+      "english": "⟨de⟩ mim",
+      "marks": "mim"
+    },
+    {
+      "surface": "ישבי",
+      "english": "⟨os⟩ ⟨que⟩ ⟨estão⟩ assentados",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨os⟩ ⟨que⟩ ⟨estão⟩ assentados",
+          "rationale": "O particípio hebraico 'yoshev' expressa naturalmente o estado de estar assentado; em português requer pronome e verbo."
+        }
+      ]
+    },
+    {
+      "surface": "שער",
+      "english": "⟨à⟩ porta",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨à⟩",
+          "rationale": "Hebraico carece de preposição; 'porta' aqui é locativo."
+        }
+      ]
+    },
+    {
+      "surface": "ונגינות",
+      "english": "e ⟨as⟩ canções",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨as⟩",
+          "rationale": "Artigo exigido pelo português para o plural 'canções'."
+        }
+      ]
+    },
+    {
+      "surface": "שותי",
+      "english": "⟨dos⟩ bêbados",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "bêbados",
+          "rationale": "O particípio shotei refere-se literalmente a 'bebedores'; 'bêbados' captura melhor o sentido pejorativo do contexto."
+        }
+      ]
+    },
+    {
+      "surface": "שכר",
+      "english": "bêbados",
+      "notes": [
+        {
+          "kind": "elision",
+          "subject": "bebida forte",
+          "rationale": "A palavra 'shechar' (bebida intoxicante) está implícita no adjetivo 'bêbados' e omitida para evitar redundância em português."
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-06-13T06:39:22.371717821Z",
+  "model": "glm-4.5"
+}

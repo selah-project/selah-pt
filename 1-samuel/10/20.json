@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-samuel",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 5,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Benjamim",
+      "to": "Binyamim",
+      "token-index": 8,
+      "strongs": 1144,
+      "hebrew": "בנימן"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 10,
+  "usage": {
+    "completion_tokens": 357,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16715,
+    "prompt_tokens_details": {
+      "cached_tokens": 15393
+    },
+    "total_tokens": 17072
+  },
+  "translation": "E Shemuel trouxe ⟨את⟩ todas as tribos de Yisrael ⟨para⟩ ⟨junto⟩, e ⟨a⟩ tribo de Binyamim foi capturada.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "english": "E Shemuel trouxe"
+    },
+    {
+      "surface": "שמואל",
+      "english": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "todas as tribos de Israel"
+    },
+    {
+      "surface": "כל",
+      "english": "todas as"
+    },
+    {
+      "surface": "שבטי",
+      "english": "tribos de"
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael"
+    },
+    {
+      "surface": "וילכד",
+      "english": "e ⟨a⟩"
+    },
+    {
+      "surface": "שבט",
+      "english": "tribo de"
+    },
+    {
+      "surface": "בנימן",
+      "english": "Binyamim foi capturada"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T04:21:19.637532804Z",
+  "model": "glm-4.5"
+}

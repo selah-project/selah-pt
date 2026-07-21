@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "pt",
+  "chapter": 13,
+  "usage": {
+    "completion_tokens": 810,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 64887,
+    "prompt_tokens_details": {
+      "cached_tokens": 63368
+    },
+    "total_tokens": 65697
+  },
+  "translation": "E David temeu ⟨a⟩ Elohim naquele dia, dizendo: Como trarei ⟨a⟩ mim ⟨o⟩ ⟨את⟩ arca de Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "english": "E David temeu",
+      "rationale": "Construção vav-conversiva + perfeito de yare' (temer)"
+    },
+    {
+      "surface": "דויד",
+      "english": "David",
+      "rationale": "Nome próprio transliterado conforme glossário"
+    },
+    {
+      "surface": "את",
+      "english": "⟨a⟩",
+      "marks": "Elohim",
+      "rationale": "Marca de objeto direto (aleph-tav) apontando para האלהים"
+    },
+    {
+      "surface": "האלהים",
+      "english": "Elohim",
+      "rationale": "Forma plural de 'Deus' conforme disciplina, mantida sem suavização"
+    },
+    {
+      "surface": "ביום",
+      "english": "naquele dia",
+      "rationale": "Preposição b (em) + artigo definido ha + yom (dia)"
+    },
+    {
+      "surface": "ההוא",
+      "english": "⟨o⟩",
+      "rationale": "Pronome demonstrativo 'aquele' com artigo definido, exige artigo em português"
+    },
+    {
+      "surface": "לאמר",
+      "english": "dizendo",
+      "rationale": "Infinitivo construto l (para\/ao) + amar (dizer), expressa propósito"
+    },
+    {
+      "surface": "היך",
+      "english": "Como",
+      "rationale": "Hapax (ocorre só aqui) - interrogação 'como?\/de que modo?'"
+    },
+    {
+      "surface": "אביא",
+      "english": "trarei",
+      "rationale": "Imperfeito de bo (vir\/trazer), 1ª pessoa singular - ação futura\/intencionada"
+    },
+    {
+      "surface": "אלי",
+      "english": "⟨a⟩ mim",
+      "rationale": "Preposição el (a\/para) + sufixo 1ª pessoa - direção para si mesmo"
+    },
+    {
+      "surface": "את",
+      "english": "⟨o⟩",
+      "marks": "arca",
+      "rationale": "Marca de objeto direto (aleph-tav) apontando para ארון"
+    },
+    {
+      "surface": "ארון",
+      "english": "arca",
+      "rationale": "Substantivo 'caixa\/arca', referente à Arca da Aliança"
+    },
+    {
+      "surface": "האלהים",
+      "english": "Elohim",
+      "rationale": "Repetição de 'Elohim' para especificar qual arca -保持不抹除"
+    }
+  ],
+  "timestamp": "2026-06-13T07:02:28.905481734Z",
+  "model": "glm-4.5"
+}

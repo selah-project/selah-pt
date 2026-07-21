@@ -1,0 +1,96 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-kings",
+  "substitutions": [
+    {
+      "from": "Roboão",
+      "to": "Rejavam",
+      "token-index": 4,
+      "strongs": 7346,
+      "hebrew": "רחבעם"
+    },
+    {
+      "from": "Egito",
+      "to": "Mitzráyim",
+      "token-index": 8,
+      "strongs": 4714,
+      "hebrew": "מצרים"
+    },
+    {
+      "from": "Jerusalém",
+      "to": "Yerushalayim",
+      "token-index": 10,
+      "strongs": 3389,
+      "hebrew": "ירושלם"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 14,
+  "usage": {
+    "completion_tokens": 468,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62668,
+    "prompt_tokens_details": {
+      "cached_tokens": 61314
+    },
+    "total_tokens": 63136
+  },
+  "translation": "E aconteceu no ano quinto ⟨do⟩ reinado de Rejavam, que Sisaque, rei ⟨do⟩ Mitzráyim, subiu contra Yerushalayim",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "english": "E aconteceu"
+    },
+    {
+      "surface": "בשנה",
+      "english": "no ano"
+    },
+    {
+      "surface": "החמישית",
+      "english": "quinto"
+    },
+    {
+      "surface": "למלך",
+      "english": "⟨do⟩ reinado",
+      "marks": "Reoboão"
+    },
+    {
+      "surface": "רחבעם",
+      "english": "Rejavam"
+    },
+    {
+      "surface": "עלה",
+      "english": "subiu"
+    },
+    {
+      "surface": "שושק",
+      "english": "Sisaque"
+    },
+    {
+      "surface": "מלך",
+      "english": "rei"
+    },
+    {
+      "surface": "מצרים",
+      "english": "⟨do⟩ Mitzráyim",
+      "marks": "Sisaque"
+    },
+    {
+      "surface": "על",
+      "english": "contra"
+    },
+    {
+      "surface": "ירושלם",
+      "english": "Yerushalayim"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T05:32:28.514731885Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-chronicles",
+  "substitutions": [
+    {
+      "from": "Davi",
+      "to": "David",
+      "token-index": 2,
+      "strongs": 1732,
+      "hebrew": "דוד"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 3,
+  "usage": {
+    "completion_tokens": 571,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 57122,
+    "prompt_tokens_details": {
+      "cached_tokens": 56048
+    },
+    "total_tokens": 57693
+  },
+  "translation": "Todos estes ⟨são⟩ ⟨os⟩ filhos de Davidd, além dos filhos ⟨das⟩ concubinas, ⟨e⟩ Tamar ⟨era⟩ ⟨a⟩ irmã deles.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "english": "Todos estes",
+      "marks": "os filhos de David"
+    },
+    {
+      "surface": "בני",
+      "english": "filhos de",
+      "marks": null
+    },
+    {
+      "surface": "דויד",
+      "english": "Davidd",
+      "marks": null
+    },
+    {
+      "surface": "מלבד",
+      "english": "além de",
+      "marks": "os filhos ⟨das⟩ concubinas"
+    },
+    {
+      "surface": "בני",
+      "english": "filhos ⟨das⟩",
+      "marks": "concubinas"
+    },
+    {
+      "surface": "פילגשים",
+      "english": "concubinas",
+      "marks": null
+    },
+    {
+      "surface": "ותמר",
+      "english": "⟨e⟩ Tamar",
+      "marks": null
+    },
+    {
+      "surface": "אחותם",
+      "english": "⟨era⟩ ⟨a⟩ irmã deles",
+      "marks": "Tamar"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T13:34:00.543350212Z",
+  "model": "glm-4.5"
+}

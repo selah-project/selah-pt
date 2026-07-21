@@ -1,0 +1,133 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ruth 1:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "ruth",
+  "substitutions": [
+    {
+      "from": "Belém",
+      "to": "Bet-Léjem",
+      "token-index": 10,
+      "strongs": 1035,
+      "hebrew": "בית־לחם"
+    },
+    {
+      "from": "Judá",
+      "to": "Yehudá",
+      "token-index": 11,
+      "strongs": 3063,
+      "hebrew": "יהודה"
+    },
+    {
+      "from": "Moabe",
+      "to": "Moav",
+      "token-index": 14,
+      "strongs": 4124,
+      "hebrew": "מואב"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 1,
+  "usage": {
+    "completion_tokens": 865,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 22025,
+    "prompt_tokens_details": {
+      "cached_tokens": 19951
+    },
+    "total_tokens": 22890
+  },
+  "translation": "E aconteceu nos dias ⟨do⟩ julgamento ⟨dos⟩ juízes que houve fome na terra; e um homem ⟨de⟩ Bet-Léjem ⟨de⟩ Yehudá foi ⟨para⟩ peregrinar nos campos ⟨de⟩ Moav, ele e sua mulher e seus dois filhos.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "english": "E aconteceu"
+    },
+    {
+      "surface": "בימי",
+      "english": "nos dias ⟨do⟩",
+      "marks": "julgamento"
+    },
+    {
+      "surface": "שפט",
+      "english": "julgamento"
+    },
+    {
+      "surface": "השפטים",
+      "english": "⟨dos⟩ juízes",
+      "marks": "julgamento"
+    },
+    {
+      "surface": "ויהי",
+      "english": "que houve"
+    },
+    {
+      "surface": "רעב",
+      "english": "fome"
+    },
+    {
+      "surface": "בארץ",
+      "english": "na terra"
+    },
+    {
+      "surface": "וילך",
+      "english": "e um homem foi"
+    },
+    {
+      "surface": "איש",
+      "english": "⟨um⟩ homem",
+      "marks": "homem"
+    },
+    {
+      "surface": "מבית",
+      "english": "⟨de⟩",
+      "marks": "Belém"
+    },
+    {
+      "surface": "לחם",
+      "english": "Bet-Léjem"
+    },
+    {
+      "surface": "יהודה",
+      "english": "⟨de⟩ Yehudá",
+      "marks": "Belém"
+    },
+    {
+      "surface": "לגור",
+      "english": "⟨para⟩ peregrinar",
+      "marks": "homem"
+    },
+    {
+      "surface": "בשדי",
+      "english": "nos campos ⟨de⟩",
+      "marks": "Moabe"
+    },
+    {
+      "surface": "מואב",
+      "english": "Moav"
+    },
+    {
+      "surface": "הוא",
+      "english": "ele"
+    },
+    {
+      "surface": "ואשתו",
+      "english": "e sua mulher"
+    },
+    {
+      "surface": "ושני",
+      "english": "e seus dois"
+    },
+    {
+      "surface": "בניו",
+      "english": "filhos"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T12:20:58.595342562Z",
+  "model": "glm-4.5"
+}

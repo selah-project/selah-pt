@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 5,
+  "usage": {
+    "completion_tokens": 541,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62681,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63222
+  },
+  "translation": "Ao regente, sobre ⟨as⟩ heranças, um salmo de David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "english": "Ao regente",
+      "rationale": "Direção musical\/supervisão do salmo; frequentemente traduzido como 'Ao mestre de canto' ou 'Ao regente'."
+    },
+    {
+      "surface": "אל",
+      "english": "sobre",
+      "rationale": "Preposição indicando o tema\/assunto do salmo; literalmente 'sobre' ou 'referente a'."
+    },
+    {
+      "surface": "הנחילות",
+      "english": "⟨as⟩ heranças",
+      "rationale": "Significado incerto; hapax legomenon. Possivelmente instrumento musical ou tema espiritual. Tradução literal baseada na raiz נחל (herdar)."
+    },
+    {
+      "surface": "מזמור",
+      "english": "um salmo",
+      "rationale": "Poema musical; indica composição destinada a acompanhamento instrumental."
+    },
+    {
+      "surface": "לדוד",
+      "english": "de David",
+      "rationale": "Atribuição autoral; literalmente 'a David' ou 'pertencente a David'."
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T09:42:17.331045337Z",
+  "model": "glm-4.5"
+}

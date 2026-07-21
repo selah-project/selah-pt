@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "2-chronicles 17:13",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-chronicles",
+  "substitutions": [
+    {
+      "from": "Judá",
+      "to": "Yehudá",
+      "token-index": 5,
+      "strongs": 3063,
+      "hebrew": "יהודה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 17,
+  "usage": {
+    "completion_tokens": 718,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 58373,
+    "prompt_tokens_details": {
+      "cached_tokens": 57025
+    },
+    "total_tokens": 59091
+  },
+  "translation": "e ⟨um⟩ grande trabalho havia para ele nas cidades de Yehudá, e homens ⟨de⟩ guerra, guerreiros ⟨de⟩ vigor ⟨estavam⟩ em Jerusalém",
+  "tokens": [
+    {
+      "surface": "וּ\/מְלָאכָה",
+      "english": "E ⟨um⟩ grande trabalho",
+      "marks": "trabalho"
+    },
+    {
+      "surface": "רַבָּה",
+      "english": "grande",
+      "rationale": "adjective modifying 'trabalho'"
+    },
+    {
+      "surface": "הָ֥יָה",
+      "english": "havia",
+      "rationale": "to exist (no copula in Hebrew)"
+    },
+    {
+      "surface": "ל֖\/וֹ",
+      "english": "para ele",
+      "rationale": "prepositional suffix"
+    },
+    {
+      "surface": "בְּ\/עָרֵ֣י",
+      "english": "nas cidades de",
+      "rationale": "preposition + construct plural"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "english": "Yehudá",
+      "rationale": "proper noun"
+    },
+    {
+      "surface": "וְ\/אַנְשֵׁ֧י",
+      "english": "e homens",
+      "rationale": "conjunction + construct plural"
+    },
+    {
+      "surface": "מִלְחָמָ֛ה",
+      "english": "⟨de⟩ guerra",
+      "rationale": "construct noun from 'guerra'"
+    },
+    {
+      "surface": "גִּבּ֥וֹרֵי",
+      "english": "guerreiros",
+      "rationale": "adjective\/noun 'poderosos' no contexto militar"
+    },
+    {
+      "surface": "חַ֖יִל",
+      "english": "⟨de⟩ vigor",
+      "rationale": "construct noun from 'força\/vigor'"
+    },
+    {
+      "surface": "בִּ\/ירוּשָׁלִָֽם",
+      "english": "em Jerusalém",
+      "rationale": "preposition + proper noun"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T14:23:58.011128498Z",
+  "model": "glm-4.5"
+}

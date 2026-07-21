@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 94,
+  "usage": {
+    "completion_tokens": 572,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62892,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63464
+  },
+  "translation": "Eles exalam ⟨e⟩ falam arrogantemente; todos os que praticam a iniquidade gabam-se.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "english": "Eles exalam",
+      "rationale": "literal: 'gush forth'; aqui, emitir palavras"
+    },
+    {
+      "surface": "ידברו",
+      "english": "⟨e⟩ falam",
+      "rationale": "hebraico não tem conjunção 'e' explícita; verbo para 'falar'"
+    },
+    {
+      "surface": "עתק",
+      "english": "arrogantemente",
+      "rationale": "adjetivo 'impudente', aqui adverbio de modo"
+    },
+    {
+      "surface": "יתאמרו",
+      "english": "gabam-se",
+      "rationale": "raiz 'dizer', aqui com sentido de 'jactar-se'"
+    },
+    {
+      "surface": "כל",
+      "english": "todos os",
+      "rationale": "inclusive, a totalidade"
+    },
+    {
+      "surface": "פעלי",
+      "english": "que praticam",
+      "rationale": "particípio ativo de 'fazer\/praticar' habitualmente"
+    },
+    {
+      "surface": "און",
+      "english": "a iniquidade",
+      "rationale": "literal: 'vaidade\/maldade'; no contexto, iniquidade"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:42:39.156129784Z",
+  "model": "glm-4.5"
+}

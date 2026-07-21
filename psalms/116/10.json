@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "pt",
+  "chapter": 116,
+  "usage": {
+    "completion_tokens": 796,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 70039,
+    "prompt_tokens_details": {
+      "cached_tokens": 69259
+    },
+    "total_tokens": 70835
+  },
+  "translation": "Eu cri ⟨את⟩ ⟨por⟩ ⟨que⟩ falarei: fui muito afligido ⟨muito⟩.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "english": "Eu cri",
+      "lemma": 539,
+      "gv": 506,
+      "rationale": "Hiphil perfect de אמן - 'Eu acreditei' ou 'Eu confiei'; traduzido como 'Eu cri' (arcaico para 'acreditei\/confiei')"
+    },
+    {
+      "surface": "כי",
+      "english": "⟨por⟩ ⟨que⟩",
+      "lemma": 3588,
+      "gv": 30,
+      "rationale": "Conjunção causal - 'porque', 'que'; requer duas palavras em português"
+    },
+    {
+      "surface": "אדבר",
+      "english": "falarei",
+      "lemma": 1696,
+      "gv": 207,
+      "rationale": "Qal imperfecto de דבר - 'falarei' ou 'direi'; tempo futuro em português"
+    },
+    {
+      "surface": "אני",
+      "english": "",
+      "lemma": 589,
+      "gv": 61,
+      "rationale": "Pronome 'eu' já implícito na conjugação verbal em português"
+    },
+    {
+      "surface": "עניתי",
+      "english": "fui muito afligido",
+      "lemma": 6031,
+      "gv": 540,
+      "rationale": "Pual perfecto de ענה - 'fui afligido\/oprimido'; 'muito' adicionado para מאד seguinte"
+    },
+    {
+      "surface": "מאד",
+      "english": "⟨muito⟩",
+      "lemma": 3966,
+      "gv": 45,
+      "rationale": "Advérbio de intensidade - 'muito', 'grandemente'; traduzido após o verbo em português"
+    }
+  ],
+  "timestamp": "2026-06-14T04:55:00.233336647Z",
+  "model": "glm-4.5"
+}

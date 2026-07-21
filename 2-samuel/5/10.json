@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-samuel",
+  "substitutions": [
+    {
+      "from": "Davi",
+      "to": "David",
+      "token-index": 1,
+      "strongs": 1732,
+      "hebrew": "דוד"
+    },
+    {
+      "from": "dos exércitos",
+      "to": "Tzevaot",
+      "token-index": 6,
+      "strongs": 6635,
+      "hebrew": "צבאות"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 5,
+  "usage": {
+    "completion_tokens": 370,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17207,
+    "prompt_tokens_details": {
+      "cached_tokens": 16172
+    },
+    "total_tokens": 17577
+  },
+  "translation": "E David foi indo ⟨e⟩ tornando-se ⟨cada vez⟩ maior; e YHWH, Elohim Tzevaot, ⟨estava⟩ com ⟨ele⟩",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "english": "E Davi foi indo"
+    },
+    {
+      "surface": "דוד",
+      "english": "David"
+    },
+    {
+      "surface": "הלוך",
+      "english": "indo"
+    },
+    {
+      "surface": "וגדול",
+      "english": "⟨e⟩ tornando-se ⟨cada vez⟩ maior"
+    },
+    {
+      "surface": "ויהוה",
+      "english": "e YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "english": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "english": "Tzevaot"
+    },
+    {
+      "surface": "עמו",
+      "english": "⟨estava⟩ com ⟨ele⟩"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T04:47:18.020535839Z",
+  "model": "glm-4.5"
+}

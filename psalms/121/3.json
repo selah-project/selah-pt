@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 121,
+  "usage": {
+    "completion_tokens": 680,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62873,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63553
+  },
+  "translation": "Não ⟨permitirá⟩ que ⟨o⟩ teu pé ⟨seja⟩ movido; ⟨o⟩ que te guarda não ⟨dormitará⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "english": "Não",
+      "marks": "הִתֵּן (permitirá)"
+    },
+    {
+      "surface": "יִתֵּן",
+      "english": "⟨permitirá⟩",
+      "rationale": "Hebraico usa o verbo נתן (dar) em sentido permissivo, traduzido como 'permitir' ou 'sofrer' em português"
+    },
+    {
+      "surface": "לַ\/מּוֹט",
+      "english": "que ⟨o⟩ teu pé ⟨seja⟩ movido",
+      "rationale": "Preposição ל + particípio Hifil de מוט (mover), traduzido como 'que seja movido' com artigo e copula adicionados"
+    },
+    {
+      "surface": "רַגְלֶֽ\/ךָ",
+      "english": "teu pé",
+      "rationale": "רַגְל + sufixo possessivo ךָ, literalmente 'pé-teu'"
+    },
+    {
+      "surface": "אַל",
+      "english": "⟨o⟩ que",
+      "rationale": "Segundo אל de negação, traduzido como 'que' para conectar à segunda parte do versículo"
+    },
+    {
+      "surface": "יָ֝נ֗וּם",
+      "english": "não ⟨dormitará⟩",
+      "rationale": "Verbo נום (dormitar) no imperfecto, negado por אל"
+    },
+    {
+      "surface": "שֹֽׁמְרֶֽ\/ךָ",
+      "english": "te guarda",
+      "rationale": "Particípio ativo de שמר (guardar) + sufixo possessivo ךָ"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:04:03.802674945Z",
+  "model": "glm-4.5"
+}

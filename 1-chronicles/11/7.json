@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-chronicles",
+  "substitutions": [
+    {
+      "from": "Davi",
+      "to": "David",
+      "token-index": 1,
+      "strongs": 1732,
+      "hebrew": "דוד"
+    },
+    {
+      "from": "Davi",
+      "to": "David",
+      "token-index": 8,
+      "strongs": 1732,
+      "hebrew": "דוד"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 11,
+  "usage": {
+    "completion_tokens": 494,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 57120,
+    "prompt_tokens_details": {
+      "cached_tokens": 56046
+    },
+    "total_tokens": 57614
+  },
+  "translation": "E Davidd habitou ⟨na⟩ fortaleza, ⟨por⟩ ⟨isso⟩ chamaram-lhe Cidade ⟨de⟩ Davidd.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "english": "E habitou"
+    },
+    {
+      "surface": "דויד",
+      "english": "Davidd"
+    },
+    {
+      "surface": "במצד",
+      "english": "⟨na⟩ fortaleza"
+    },
+    {
+      "surface": "על",
+      "english": "⟨por⟩"
+    },
+    {
+      "surface": "כן",
+      "english": "⟨isso⟩"
+    },
+    {
+      "surface": "קראו",
+      "english": "chamaram-lhe"
+    },
+    {
+      "surface": "לו",
+      "english": "⟨de⟩",
+      "marks": "Cidade"
+    },
+    {
+      "surface": "עיר",
+      "english": "Cidade"
+    },
+    {
+      "surface": "דויד",
+      "english": "Davidd"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T13:44:24.358380954Z",
+  "model": "glm-4.5"
+}

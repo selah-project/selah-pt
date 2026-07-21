@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "pt",
+  "chapter": 2,
+  "usage": {
+    "completion_tokens": 303,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 51975,
+    "prompt_tokens_details": {
+      "cached_tokens": 51187
+    },
+    "total_tokens": 52278
+  },
+  "translation": "Os filhos de Adonikam ⟨são⟩ seiscentos ⟨e⟩ sessenta e seis",
+  "tokens": [
+    {
+      "surface": "בני",
+      "english": "Os filhos",
+      "marks": "Adonikam"
+    },
+    {
+      "surface": "אדניקם",
+      "english": "Adonikam"
+    },
+    {
+      "surface": "שש",
+      "english": "seiscentos"
+    },
+    {
+      "surface": "מאות",
+      "english": "⟨e⟩",
+      "rationale": "conjunction added for numeration flow"
+    },
+    {
+      "surface": "ששים",
+      "english": "sessenta"
+    },
+    {
+      "surface": "וששה",
+      "english": "⟨e⟩ seis",
+      "rationale": "conjunction added for numeration flow"
+    }
+  ],
+  "timestamp": "2026-06-13T06:55:31.259162021Z",
+  "model": "glm-4.5"
+}

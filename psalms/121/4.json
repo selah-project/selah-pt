@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 6,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 121,
+  "usage": {
+    "completion_tokens": 405,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62845,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63250
+  },
+  "translation": "Eis ⟨que⟩ não cochila ⟨o⟩ que vigia Yisrael e ⟨o⟩ que guarda Yisrael não dorme",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "english": "Eis"
+    },
+    {
+      "surface": "לא",
+      "english": "não"
+    },
+    {
+      "surface": "ינום",
+      "english": "cochila ⟨o⟩ que vigia Israel"
+    },
+    {
+      "surface": "ולא",
+      "english": "e ⟨o⟩ que guarda Israel não"
+    },
+    {
+      "surface": "ישן",
+      "english": "dorme"
+    },
+    {
+      "surface": "שומר",
+      "english": "guarda"
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:03:58.159657285Z",
+  "model": "glm-4.5"
+}

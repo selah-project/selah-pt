@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 131,
+  "usage": {
+    "completion_tokens": 727,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 63311,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 64038
+  },
+  "translation": "Se não ⟨tenho⟩ comparado e silenciado minha alma, como ⟨o⟩ desmamado ⟨pelo⟩ ⟨a⟩ de sua mãe; como ⟨o⟩ desmamado ⟨está⟩ ⟨a⟩ minha alma ⟨sobre⟩ mim",
+  "tokens": [
+    {
+      "surface": "אם",
+      "english": "Se",
+      "rationale": "condicional introdutória"
+    },
+    {
+      "surface": "לא",
+      "english": "não",
+      "rationale": "negação absoluta"
+    },
+    {
+      "surface": "שויתי",
+      "english": "⟨tenho⟩ comparado",
+      "rationale": "verbo no perfeito com auxiliar implícito em português"
+    },
+    {
+      "surface": "ודוממתי",
+      "english": "e silenciado",
+      "rationale": "HAPAX - verbo composto único nesta forma"
+    },
+    {
+      "surface": "נפשי",
+      "english": "minha alma",
+      "rationale": "tradução tradicional para נפש no contexto pessoal"
+    },
+    {
+      "surface": "כגמל",
+      "english": "como ⟨o⟩ desmamado",
+      "rationale": "comparação com criança desmamada (גמל)"
+    },
+    {
+      "surface": "עלי",
+      "english": "⟨pelo⟩ ⟨a⟩",
+      "rationale": "preposição com artigos necessários em português"
+    },
+    {
+      "surface": "אמו",
+      "english": "de sua mãe",
+      "rationale": "sufixo pronominal possessivo"
+    },
+    {
+      "surface": "כגמל",
+      "english": "como ⟨o⟩ desmamado",
+      "rationale": "repetição da mesma imagem comparativa"
+    },
+    {
+      "surface": "עלי",
+      "english": "⟨sobre⟩ mim",
+      "rationale": "preposição com pronome reflexivo"
+    },
+    {
+      "surface": "נפשי",
+      "english": "⟨a⟩ minha alma",
+      "rationale": "artigo definido necessário em português"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:07:33.924827324Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 6:3",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "proverbs",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 6,
+  "usage": {
+    "completion_tokens": 1053,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 53398,
+    "prompt_tokens_details": {
+      "cached_tokens": 51893
+    },
+    "total_tokens": 54451
+  },
+  "translation": "Faze isto, pois, meu filho, e te livra: porquanto vieste ⟨⟩ na mão ⟨את⟩ do teu companheiro. Vai, ⟨⟩ humilha-te ⟨⟩ e ⟨⟩ insiste ⟨⟩ com o teu companheiro.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "english": "Faze",
+      "notes": []
+    },
+    {
+      "surface": "זאת",
+      "english": "isto",
+      "notes": []
+    },
+    {
+      "surface": "אפוא",
+      "english": "pois",
+      "notes": []
+    },
+    {
+      "surface": "בני",
+      "english": "meu filho",
+      "notes": []
+    },
+    {
+      "surface": "והנצל",
+      "english": "e te livra",
+      "notes": [
+        {
+          "kind": "hapax",
+          "subject": "והנצל",
+          "rationale": "Esta forma do verbo 'salvar\/livrar' ocorre apenas aqui em todo o Tanach."
+        }
+      ]
+    },
+    {
+      "surface": "כי",
+      "english": "porquanto",
+      "notes": []
+    },
+    {
+      "surface": "באת",
+      "english": "vieste",
+      "notes": []
+    },
+    {
+      "surface": "בכף",
+      "english": "na mão",
+      "notes": []
+    },
+    {
+      "surface": "רעך",
+      "english": "do teu companheiro",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "do teu",
+          "rationale": "Hebraico usa o sufixe pronominal -ך para 'teu'; português requer o pronome possessivo."
+        }
+      ]
+    },
+    {
+      "surface": "לך",
+      "english": "Vai",
+      "notes": []
+    },
+    {
+      "surface": "התרפס",
+      "english": "humilha-te",
+      "notes": [
+        {
+          "kind": "hapax",
+          "subject": "התרפס",
+          "rationale": "Esta forma do verbo 'prostrar-se\/humilhar' ocorre apenas aqui em todo o Tanach."
+        }
+      ]
+    },
+    {
+      "surface": "ורהב",
+      "english": "⟨⟩ insiste ⟨⟩",
+      "notes": [
+        {
+          "kind": "hapax",
+          "subject": "ורהב",
+          "rationale": "Esta forma do verbo ocorre apenas aqui em todo o Tanach; o sentido exato é disputado, frequentemente traduzido como 'insistir\/importunar'."
+        }
+      ]
+    },
+    {
+      "surface": "רעיך",
+      "english": "com o teu companheiro",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "com o teu",
+          "rationale": "Hebraico usa o sufixe pronominal -ך para 'teu'; português requer o pronome possessivo."
+        },
+        {
+          "kind": "addition",
+          "subject": "com",
+          "rationale": "A preposição 'com' é exigida em português para a construção verbal com 'insistir'."
+        }
+      ]
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:22:41.085482557Z",
+  "model": "glm-4.5"
+}

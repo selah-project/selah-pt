@@ -1,0 +1,48 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 92,
+  "usage": {
+    "completion_tokens": 603,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62642,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63245
+  },
+  "translation": "E tu, porém, ⟨és⟩ ⟨o⟩ mais elevado para sempre, ó YHWH.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "english": "E tu, porém",
+      "rationale": "Conjunção 'e' + pronome 'tu' enfático. O 'porém' reflete a função contrastiva do sufixo -ָ֥ה."
+    },
+    {
+      "surface": "מרום",
+      "english": "⟨o⟩ mais elevado",
+      "rationale": "Tradução idiomática para 'exaltado, nas alturas'. O artigo 'o' é adicionado em português."
+    },
+    {
+      "surface": "לעלם",
+      "english": "para sempre",
+      "rationale": "Preposição לְ + 'olam' (eterno\/duração longa), expressão idiomática para 'para sempre'."
+    },
+    {
+      "surface": "יהוה",
+      "english": "ó YHWH",
+      "rationale": "Tetragrámaton. Mantido como YHWH conforme disciplina. 'ó' acrescentado como vocativo natural em português."
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:41:41.896463879Z",
+  "model": "glm-4.5"
+}

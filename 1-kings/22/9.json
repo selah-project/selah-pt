@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-kings 22:9",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-kings",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 2,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 22,
+  "usage": {
+    "completion_tokens": 515,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62698,
+    "prompt_tokens_details": {
+      "cached_tokens": 61314
+    },
+    "total_tokens": 63213
+  },
+  "translation": "E o rei de Yisrael chamou ⟨por⟩ ⟨um⟩ servo ⟨e⟩ disse: Apressa-te ⟨e⟩ traze ⟨o⟩ Micaías, filho de Imlá.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "english": "E chamou"
+    },
+    {
+      "surface": "מלך",
+      "english": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "english": "de Yisrael"
+    },
+    {
+      "surface": "אל",
+      "english": "⟨por⟩",
+      "marks": "o servo"
+    },
+    {
+      "surface": "סריס",
+      "english": "⟨um⟩ servo",
+      "rationale": "סריס can mean 'eunuch' or 'court officer'"
+    },
+    {
+      "surface": "אחד",
+      "english": "⟨um⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "english": "⟨e⟩ disse"
+    },
+    {
+      "surface": "מהרה",
+      "english": "Apressa-te"
+    },
+    {
+      "surface": "מיכיהו",
+      "english": "Micaías"
+    },
+    {
+      "surface": "בן",
+      "english": "⟨o⟩",
+      "marks": "Micaías"
+    },
+    {
+      "surface": "ימלה",
+      "english": "filho de Imlá"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T05:43:41.677381867Z",
+  "model": "glm-4.5"
+}

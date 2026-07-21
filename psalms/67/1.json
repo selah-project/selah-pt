@@ -1,0 +1,48 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 67,
+  "usage": {
+    "completion_tokens": 471,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62679,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63150
+  },
+  "translation": "Ao regente ⟨com⟩ instrumentos ⟨de⟩ cordas. Um salmo, ⟨um⟩ canto.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "english": "Ao regente",
+      "rationale": "Literalmente 'ao vencedor' ou 'ao diretor musical', título de salmo indicando maestro ou mestre de canto"
+    },
+    {
+      "surface": "בנגינת",
+      "english": "⟨com⟩ instrumentos ⟨de⟩ cordas",
+      "rationale": "Preposição 'com' mais o termo técnico para instrumentos de cordas (harpa, lira); o inglês requer artigos e preposições que o hebraico omite"
+    },
+    {
+      "surface": "מזמור",
+      "english": "Um salmo",
+      "rationale": "Técnicamente um poema musicado; 'salmo' captura o sentido litúrgico"
+    },
+    {
+      "surface": "שיר",
+      "english": "⟨um⟩ canto",
+      "rationale": "Substantivo simples 'canto' ou 'canção'; o inglês requer artigo indefinido que o hebraico omite"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:22:15.297693824Z",
+  "model": "glm-4.5"
+}

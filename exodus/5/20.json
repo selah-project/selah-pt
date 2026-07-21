@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "exodus",
+  "substitutions": [
+    {
+      "from": "Moisés",
+      "to": "Moshé",
+      "token-index": 2,
+      "strongs": 4872,
+      "hebrew": "משה"
+    },
+    {
+      "from": "Faraó",
+      "to": "Paró",
+      "token-index": 9,
+      "strongs": 6547,
+      "hebrew": "פרעה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 5,
+  "usage": {
+    "completion_tokens": 463,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17248,
+    "prompt_tokens_details": {
+      "cached_tokens": 15861
+    },
+    "total_tokens": 17711
+  },
+  "translation": "E encontraram ⟨a⟩ Moshé e ⟨a⟩ Aharon ⟨que estavam⟩ postados para encontrar ⟨eles⟩, ⟨ao⟩ saírem de Paró",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "english": "E encontraram"
+    },
+    {
+      "surface": "את",
+      "english": "⟨a⟩",
+      "marks": "Moisés"
+    },
+    {
+      "surface": "משה",
+      "english": "Moshé"
+    },
+    {
+      "surface": "ואת",
+      "english": "e ⟨a⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "english": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "english": "⟨que estavam⟩ postados"
+    },
+    {
+      "surface": "לקראתם",
+      "english": "para encontrar ⟨eles⟩"
+    },
+    {
+      "surface": "בצאתם",
+      "english": "⟨ao⟩ saírem"
+    },
+    {
+      "surface": "מאת",
+      "english": "de"
+    },
+    {
+      "surface": "פרעה",
+      "english": "Paró"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T00:40:10.438727812Z",
+  "model": "glm-4.5"
+}

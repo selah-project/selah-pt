@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "genesis",
+  "substitutions": [
+    {
+      "from": "Deus",
+      "to": "Elohim",
+      "token-index": 4,
+      "strongs": 430,
+      "hebrew": "אלהים"
+    },
+    {
+      "from": "Abrão",
+      "to": "Avraham",
+      "token-index": 6,
+      "strongs": 85,
+      "hebrew": "אברהם"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 17,
+  "usage": {
+    "completion_tokens": 271,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 21223,
+    "prompt_tokens_details": {
+      "cached_tokens": 20324
+    },
+    "total_tokens": 21494
+  },
+  "translation": "E Ele terminou de falar com ele ⟨e⟩ Elohim subiu de sobre Avraham",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "english": "E Ele terminou"
+    },
+    {
+      "surface": "לדבר",
+      "english": "de falar"
+    },
+    {
+      "surface": "אתו",
+      "english": "com ele"
+    },
+    {
+      "surface": "ויעל",
+      "english": "⟨e⟩ subiu"
+    },
+    {
+      "surface": "אלהים",
+      "english": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "english": "de sobre"
+    },
+    {
+      "surface": "אברהם",
+      "english": "Avraham"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T23:56:35.646337053Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 84,
+  "usage": {
+    "completion_tokens": 647,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62833,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63480
+  },
+  "translation": "Felizes ⟨são⟩ os que habitam em ⟨a⟩ tua casa ⟨את⟩, continuamente te louvam ⟨a⟩ ti, Selá.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "english": "Felizes",
+      "rationale": "Interjeição de bem-aventurança; 'quão felizes!'"
+    },
+    {
+      "surface": "יושבי",
+      "english": "os que habitam",
+      "rationale": "Particípio ativo plural: 'os que habitam\/moram'."
+    },
+    {
+      "surface": "ביתך",
+      "english": "em ⟨a⟩ tua casa",
+      "rationale": "Preposição 'em' + possessivo 'tua' implícito na forma ך-."
+    },
+    {
+      "surface": "עוד",
+      "english": "continuamente",
+      "rationale": "Advérbio de tempo\/iteração; 'ainda', 'sempre', 'continuamente'."
+    },
+    {
+      "surface": "יהללוך",
+      "english": "te louvam ⟨a⟩ ti",
+      "rationale": "Verbo 'louvam' + sufixo 'te' (2ª m.s.). ⟨a⟩ ti é explicitado para clareza."
+    },
+    {
+      "surface": "סלה",
+      "english": "Selá",
+      "rationale": "Termo litúrgico musical; provavelmente 'pausa' ou 'elevai'. Mantém-se transliterado."
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:35:49.807218593Z",
+  "model": "glm-4.5"
+}

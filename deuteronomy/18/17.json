@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "deuteronomy",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 18,
+  "usage": {
+    "completion_tokens": 490,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17468,
+    "prompt_tokens_details": {
+      "cached_tokens": 16577
+    },
+    "total_tokens": 17958
+  },
+  "translation": "E YHWH disse ⟨a⟩ mim: ⟨Eles⟩ falaram bem ⟨aquilo⟩ que ⟨eles⟩ falaram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "english": "E disse",
+      "notes": []
+    },
+    {
+      "surface": "יהוה",
+      "english": "YHWH",
+      "notes": []
+    },
+    {
+      "surface": "אלי",
+      "english": "⟨a⟩ mim",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "a",
+          "rationale": "Preposição requerida em português para 'a mim' que o hebraico אלי implica"
+        }
+      ]
+    },
+    {
+      "surface": "היטיבו",
+      "english": "⟨Eles⟩ falaram bem",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "Eles falaram bem",
+          "rationale": "היטיבו (fizeram bem\/falaram bem) em contexto de palavras assume o sentido de 'falaram bem'"
+        }
+      ]
+    },
+    {
+      "surface": "אשר",
+      "english": "⟨aquilo⟩ que",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "aquilo",
+          "rationale": "Pronome demonstrativo exigido em português para o relativo"
+        }
+      ]
+    },
+    {
+      "surface": "דברו",
+      "english": "⟨eles⟩ falaram",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "eles",
+          "rationale": "Pronome sujeito exigido em português que o hebraico omite"
+        }
+      ]
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T03:08:39.437978012Z",
+  "model": "glm-4.5"
+}

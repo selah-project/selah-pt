@@ -1,0 +1,168 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "leviticus 4:13",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "leviticus",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 3,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 4,
+  "usage": {
+    "completion_tokens": 1149,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 18475,
+    "prompt_tokens_details": {
+      "cached_tokens": 16416
+    },
+    "total_tokens": 19624
+  },
+  "translation": "E se ⟨a⟩ congregação toda de Yisrael errar por ignorância, e ⟨o⟩ ato for escondido dos olhos ⟨da⟩ assembléia, e fizerem uma de todas ⟨as⟩ Mitsvot ⟨de⟩ YHWH ⟨que⟩ não devem ser feitas, e forem culpados",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "english": "E se",
+      "notes": null
+    },
+    {
+      "surface": "כל",
+      "english": "toda",
+      "notes": null
+    },
+    {
+      "surface": "עדת",
+      "english": "congregação",
+      "notes": null
+    },
+    {
+      "surface": "ישראל",
+      "english": "de Yisrael",
+      "notes": null
+    },
+    {
+      "surface": "ישגו",
+      "english": "errar por ignorância",
+      "notes": null
+    },
+    {
+      "surface": "ונעלם",
+      "english": "e ⟨o⟩ ato for escondido",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "ato",
+          "rationale": "Hebrew דבר é 'palavra' ou 'assunto', mas 'ato' se adequa melhor ao contexto de ação proibida"
+        }
+      ]
+    },
+    {
+      "surface": "דבר",
+      "english": "ato",
+      "notes": null
+    },
+    {
+      "surface": "מעיני",
+      "english": "dos olhos",
+      "notes": null
+    },
+    {
+      "surface": "הקהל",
+      "english": "⟨da⟩ assembléia",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "da",
+          "rationale": "Artigo exigido em português"
+        }
+      ]
+    },
+    {
+      "surface": "ועשו",
+      "english": "e fizerem",
+      "notes": null
+    },
+    {
+      "surface": "אחת",
+      "english": "uma",
+      "notes": null
+    },
+    {
+      "surface": "מכל",
+      "english": "de todas",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "as",
+          "rationale": "Artigo exigido em português"
+        }
+      ]
+    },
+    {
+      "surface": "מצות",
+      "english": "Mitsvot",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "Mitsvot",
+          "rationale": "מצות é 'mandamentos' ou 'comandamentos'; o termo hebraico 'Mitsvot' é mantido conforme disciplina do Tanaj-primeiro"
+        }
+      ]
+    },
+    {
+      "surface": "יהוה",
+      "english": "⟨de⟩ YHWH",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "de",
+          "rationale": "Preposição exigida em português"
+        }
+      ]
+    },
+    {
+      "surface": "אשר",
+      "english": "⟨que⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "que",
+          "rationale": "Pronome relativo exigido em português"
+        }
+      ]
+    },
+    {
+      "surface": "לא",
+      "english": "não",
+      "notes": null
+    },
+    {
+      "surface": "תעשינה",
+      "english": "devem ser feitas",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "devem ser",
+          "rationale": "Português requer construção verbal mais explícita"
+        }
+      ]
+    },
+    {
+      "surface": "ואשמו",
+      "english": "e forem culpados",
+      "notes": null
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T01:39:02.855368105Z",
+  "model": "glm-4.5"
+}

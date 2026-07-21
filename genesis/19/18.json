@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "genesis",
+  "substitutions": [
+    {
+      "from": "Ló",
+      "to": "Lot",
+      "token-index": 1,
+      "strongs": 3876,
+      "hebrew": "לוט"
+    },
+    {
+      "from": "meu Senhor",
+      "to": "Adonai",
+      "token-index": 5,
+      "strongs": 136,
+      "hebrew": "אדני"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 19,
+  "usage": {
+    "completion_tokens": 311,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 21165,
+    "prompt_tokens_details": {
+      "cached_tokens": 20324
+    },
+    "total_tokens": 21476
+  },
+  "translation": "E Lot disse a eles: ⟨את⟩ não assim, eu ⟨te⟩ rogo, Adonai:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "english": "E Ló disse"
+    },
+    {
+      "surface": "לוט",
+      "english": "Lot"
+    },
+    {
+      "surface": "אלהם",
+      "english": "a eles"
+    },
+    {
+      "surface": "אל",
+      "english": "não",
+      "marks": "assim"
+    },
+    {
+      "surface": "נא",
+      "english": "eu ⟨te⟩ rogo"
+    },
+    {
+      "surface": "אדני",
+      "english": "Adonai"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T23:59:12.425245434Z",
+  "model": "glm-4.5"
+}

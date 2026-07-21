@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "proverbs",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 3,
+  "usage": {
+    "completion_tokens": 505,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 52879,
+    "prompt_tokens_details": {
+      "cached_tokens": 51891
+    },
+    "total_tokens": 53384
+  },
+  "translation": "כי טוב ⟨את⟩ סחרה מסחר כסף ומחרוץ תבואתה",
+  "tokens": [
+    {
+      "surface": "כי",
+      "english": "For",
+      "notes": ""
+    },
+    {
+      "surface": "טוב",
+      "english": "good",
+      "notes": ""
+    },
+    {
+      "surface": "סחרה",
+      "english": "⟨her⟩ profit",
+      "marks": "profit",
+      "notes": ""
+    },
+    {
+      "surface": "מסחר",
+      "english": "than the trade of",
+      "notes": ""
+    },
+    {
+      "surface": "כסף",
+      "english": "silver",
+      "notes": ""
+    },
+    {
+      "surface": "ומחרוץ",
+      "english": "and ⟨her⟩ yield",
+      "marks": "yield",
+      "notes": ""
+    },
+    {
+      "surface": "תבואתה",
+      "english": "⟨is⟩ fine gold",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "תבואתה (produce\/income)",
+          "rationale": "Contextually rendered as 'fine gold' from comparative parallel with כסף (silver) and previous verse"
+        }
+      ]
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:19:29.696517202Z",
+  "model": "glm-4.5"
+}

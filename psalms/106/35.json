@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 106,
+  "usage": {
+    "completion_tokens": 451,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62643,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63094
+  },
+  "translation": "e ⟨se⟩ misturaram ⟨com⟩ ⟨os⟩ povos e aprenderam ⟨os⟩ ⟨atos⟩ deles",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "english": "E ⟨se⟩ misturaram",
+      "notes": []
+    },
+    {
+      "surface": "בגוים",
+      "english": "⟨com⟩ ⟨os⟩ povos",
+      "notes": []
+    },
+    {
+      "surface": "וילמדו",
+      "english": "e aprenderam",
+      "notes": []
+    },
+    {
+      "surface": "מעשיהם",
+      "english": "⟨os⟩ ⟨atos⟩ deles",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "atos",
+          "rationale": "מעשים (ma'asim) - literalmente 'feitos, ações, práticas, transações', mais amplo que 'works' em inglês"
+        }
+      ]
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:51:20.378431290Z",
+  "model": "glm-4.5"
+}

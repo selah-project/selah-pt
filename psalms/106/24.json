@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 106,
+  "usage": {
+    "completion_tokens": 712,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62784,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63496
+  },
+  "translation": "E ⟨eram⟩ desdenosos na terra desejável, não ⟨estavam⟩ créditos ⟨em⟩ ⟨o⟩ ⟨p⟩alavra ⟨de⟩ ⟨ele⟩",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "english": "E ⟨eram⟩ desdenosos",
+      "notes": []
+    },
+    {
+      "surface": "בארץ",
+      "english": "na terra",
+      "notes": []
+    },
+    {
+      "surface": "חמדה",
+      "english": "desejável",
+      "notes": []
+    },
+    {
+      "surface": "לא",
+      "english": "não ⟨estavam⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨estavam⟩",
+          "rationale": "Hebrew lacks the copula\/verb 'to be' required in Portuguese for grammatical completeness."
+        }
+      ]
+    },
+    {
+      "surface": "האמינו",
+      "english": "créditos ⟨em⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨em⟩",
+          "rationale": "Portuguese preposition 'em' required for the verb 'crer' (to believe); the Hebrew root אמן implies trust\/faith."
+        }
+      ]
+    },
+    {
+      "surface": "לדברו",
+      "english": "⟨o⟩ ⟨p⟩alavra ⟨de⟩ ⟨ele⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨o⟩",
+          "rationale": "Portuguese requires the definite article 'o' before 'palavra'."
+        },
+        {
+          "kind": "addition",
+          "subject": "⟨p⟩alavra",
+          "rationale": "Initial 'p' in lowercase per the word 'palavra' as translated."
+        },
+        {
+          "kind": "addition",
+          "subject": "⟨de⟩ ⟨ele⟩",
+          "rationale": "The pronominal suffix -וֹ (his) is rendered as the prepositional phrase 'de ele' in Portuguese."
+        }
+      ]
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:50:27.754403627Z",
+  "model": "glm-4.5"
+}

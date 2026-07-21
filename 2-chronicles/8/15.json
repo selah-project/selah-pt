@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-chronicles",
+  "substitutions": [
+    {
+      "from": "mandamento",
+      "to": "Mitzvá",
+      "token-index": 2,
+      "strongs": 4687,
+      "hebrew": "מצוה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 8,
+  "usage": {
+    "completion_tokens": 515,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 58322,
+    "prompt_tokens_details": {
+      "cached_tokens": 57027
+    },
+    "total_tokens": 58837
+  },
+  "translation": "e não se desviaram ⟨do⟩ Mitzvá do rei sobre os sacerdotes e levitas em toda palavra e ⟨sobre⟩ ⟨os⟩ tesouros",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "english": "E não"
+    },
+    {
+      "surface": "סרו",
+      "english": "se desviaram"
+    },
+    {
+      "surface": "מצות",
+      "english": "⟨do⟩ Mitzvá",
+      "marks": "mandamento do rei"
+    },
+    {
+      "surface": "המלך",
+      "english": "do rei"
+    },
+    {
+      "surface": "על",
+      "english": "sobre"
+    },
+    {
+      "surface": "הכהנים",
+      "english": "os sacerdotes"
+    },
+    {
+      "surface": "והלוים",
+      "english": "e levitas"
+    },
+    {
+      "surface": "לכל",
+      "english": "em toda"
+    },
+    {
+      "surface": "דבר",
+      "english": "palavra"
+    },
+    {
+      "surface": "ולאצרות",
+      "english": "e ⟨sobre⟩ ⟨os⟩ tesouros",
+      "marks": "tesouros"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T14:15:24.221408201Z",
+  "model": "glm-4.5"
+}

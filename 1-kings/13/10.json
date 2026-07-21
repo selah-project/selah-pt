@@ -1,0 +1,92 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-kings",
+  "substitutions": [
+    {
+      "from": "Betel",
+      "to": "Bet-El",
+      "token-index": 10,
+      "strongs": 1008,
+      "hebrew": "בית־אל"
+    },
+    {
+      "from": "Betel",
+      "to": "Bet-El",
+      "token-index": 11,
+      "strongs": 1008,
+      "hebrew": "בית־אל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 13,
+  "usage": {
+    "completion_tokens": 560,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62553,
+    "prompt_tokens_details": {
+      "cached_tokens": 61314
+    },
+    "total_tokens": 63113
+  },
+  "translation": "Ele foi por outro caminho e não ⟨voltou⟩ pelo caminho ⟨por⟩ ⟨o qual⟩ ele ⟨veio⟩ ⟨a⟩ Bet-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "english": "Ele foi"
+    },
+    {
+      "surface": "בדרך",
+      "english": "por outro caminho"
+    },
+    {
+      "surface": "אחר",
+      "english": "outro"
+    },
+    {
+      "surface": "ולא",
+      "english": "e não"
+    },
+    {
+      "surface": "שב",
+      "english": "⟨voltou⟩"
+    },
+    {
+      "surface": "בדרך",
+      "english": "pelo caminho"
+    },
+    {
+      "surface": "אשר",
+      "english": "⟨por⟩ ⟨o qual⟩"
+    },
+    {
+      "surface": "בא",
+      "english": "ele ⟨veio⟩"
+    },
+    {
+      "surface": "בה",
+      "english": "⟨a⟩",
+      "marks": "Betel"
+    },
+    {
+      "surface": "אל",
+      "english": "Betel"
+    },
+    {
+      "surface": "בית",
+      "english": "Bet-El"
+    },
+    {
+      "surface": "אל",
+      "english": "Bet-El"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T05:30:00.987251748Z",
+  "model": "glm-4.5"
+}

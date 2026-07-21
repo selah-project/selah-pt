@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "Társis",
+      "to": "Tarshish",
+      "token-index": 1,
+      "strongs": 8659,
+      "hebrew": "תרשיש"
+    },
+    {
+      "from": "presente",
+      "to": "Minjá",
+      "token-index": 3,
+      "strongs": 4503,
+      "hebrew": "מנחה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 72,
+  "usage": {
+    "completion_tokens": 392,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 63181,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63573
+  },
+  "translation": "Os reis de Tarshish ⟨e⟩ ⟨as⟩ ilhas Minjás trarão; os reis de Sabá ⟨e⟩ Seba Minjá darão.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "english": "Os reis de"
+    },
+    {
+      "surface": "תרשיש",
+      "english": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "english": "⟨e⟩ ⟨as⟩ ilhas"
+    },
+    {
+      "surface": "מנחה",
+      "english": "Minjás"
+    },
+    {
+      "surface": "ישיבו",
+      "english": "trarão"
+    },
+    {
+      "surface": "מלכי",
+      "english": "os reis de"
+    },
+    {
+      "surface": "שבא",
+      "english": "Sabá"
+    },
+    {
+      "surface": "וסבא",
+      "english": "⟨e⟩"
+    },
+    {
+      "surface": "אשכר",
+      "english": "presente"
+    },
+    {
+      "surface": "יקריבו",
+      "english": "darão"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:26:36.393542164Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "genesis",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 2,
+  "usage": {
+    "completion_tokens": 691,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 21706,
+    "prompt_tokens_details": {
+      "cached_tokens": 20324
+    },
+    "total_tokens": 22397
+  },
+  "translation": "E disse YHWH Elohim: ⟨Não⟩ ⟨é⟩ bom ⟨que⟩ o homem esteja só; farei para ele ⟨uma⟩ ajudadora ⟨que seja⟩ como sua frente.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "english": "E disse",
+      "marks": "YHWH Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "english": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "english": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "english": "⟨Não⟩",
+      "rationale": "Hebrew negation marker"
+    },
+    {
+      "surface": "טוב",
+      "english": "⟨é⟩ bom",
+      "rationale": "Hebrew adjective without copula"
+    },
+    {
+      "surface": "היות",
+      "english": "⟨que⟩",
+      "rationale": "Hebrew infinitive 'to be' as conjunction"
+    },
+    {
+      "surface": "האדם",
+      "english": "o homem"
+    },
+    {
+      "surface": "לבדו",
+      "english": "só"
+    },
+    {
+      "surface": "אעשה",
+      "english": "farei"
+    },
+    {
+      "surface": "לו",
+      "english": "para ele"
+    },
+    {
+      "surface": "עזר",
+      "english": "⟨uma⟩ ajudadora",
+      "rationale": "Hebrew noun requires article in English"
+    },
+    {
+      "surface": "כנגדו",
+      "english": "⟨que seja⟩ como sua frente",
+      "rationale": "Hebrew prepositional phrase 'corresponding to him'"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T23:43:48.373349540Z",
+  "model": "glm-4.5"
+}

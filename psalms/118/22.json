@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "pt",
+  "chapter": 118,
+  "usage": {
+    "completion_tokens": 461,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 70046,
+    "prompt_tokens_details": {
+      "cached_tokens": 69259
+    },
+    "total_tokens": 70507
+  },
+  "translation": "A stone that ⟨the⟩ builders spurned ⟨is⟩ ⟨the⟩ head of ⟨the⟩ corner",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "english": "A stone"
+    },
+    {
+      "surface": "מאסו",
+      "english": "that ⟨the⟩ builders spurned"
+    },
+    {
+      "surface": "הבונים",
+      "english": "⟨the⟩ builders",
+      "marks": "builders"
+    },
+    {
+      "surface": "היתה",
+      "english": "⟨is⟩",
+      "rationale": "Hebrew lacks copula but היתה carries emphatic existential weight"
+    },
+    {
+      "surface": "לראש",
+      "english": "⟨the⟩ head of",
+      "marks": "head"
+    },
+    {
+      "surface": "פנה",
+      "english": "⟨the⟩ corner"
+    }
+  ],
+  "timestamp": "2026-06-13T06:41:06.611599833Z",
+  "model": "glm-4.5"
+}

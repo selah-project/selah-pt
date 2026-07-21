@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 141,
+  "usage": {
+    "completion_tokens": 538,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62955,
+    "prompt_tokens_details": {
+      "cached_tokens": 61939
+    },
+    "total_tokens": 63493
+  },
+  "translation": "Coloca, ó YHWH, ⟨um⟩ guarda ⟨para⟩ minha boca; vigia ⟨sobre⟩ a porta ⟨de⟩ meus lábios.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "english": "Coloca"
+    },
+    {
+      "surface": "יהוה",
+      "english": "ó YHWH"
+    },
+    {
+      "surface": "שמרה",
+      "english": "⟨um⟩ guarda",
+      "rationale": "Hebrew noun 'shamarah' (watchfulness) requires an article in Portuguese for natural grammar"
+    },
+    {
+      "surface": "לפי",
+      "english": "⟨para⟩",
+      "rationale": "Preposition 'lə-' indicates purpose\/relation, rendered as 'para' in Portuguese"
+    },
+    {
+      "surface": "נצרה",
+      "english": "vigia",
+      "rationale": "Verb 'natzrah' (to guard) in imperative form, continuing the metaphor from 'shamarah'"
+    },
+    {
+      "surface": "על",
+      "english": "⟨sobre⟩"
+    },
+    {
+      "surface": "דל",
+      "english": "porta",
+      "rationale": "Hebrew 'del' literally means valve\/swinging thing, extended to 'door' in this metaphorical context"
+    },
+    {
+      "surface": "שפתי",
+      "english": "⟨de⟩ meus lábios",
+      "rationale": "Possessive pronoun added in Portuguese; Hebrew 'səfatāy' is 'my lips' (1st common singular suffix)"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:12:44.757104395Z",
+  "model": "glm-4.5"
+}

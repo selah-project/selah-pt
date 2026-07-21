@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-samuel",
+  "substitutions": [
+    {
+      "from": "Saul",
+      "to": "Shaul",
+      "token-index": 2,
+      "strongs": 7586,
+      "hebrew": "שאול"
+    },
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 8,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 13,
+  "usage": {
+    "completion_tokens": 452,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16493,
+    "prompt_tokens_details": {
+      "cached_tokens": 15391
+    },
+    "total_tokens": 16945
+  },
+  "translation": "⟨um⟩ ano ⟨de idade⟩ ⟨é⟩ Shaul ⟨quando⟩ ⟨ele⟩ ⟨começou⟩ a reinar; e dois anos ele reinou sobre ⟨o⟩ Yisrael",
+  "tokens": [
+    {
+      "surface": "בן",
+      "english": "⟨Um⟩ ano ⟨de idade⟩"
+    },
+    {
+      "surface": "שנה",
+      "english": "⟨um⟩ ano"
+    },
+    {
+      "surface": "שאול",
+      "english": "Shaul"
+    },
+    {
+      "surface": "במלכו",
+      "english": "⟨quando⟩ ⟨ele⟩ ⟨começou⟩ a reinar"
+    },
+    {
+      "surface": "ושתי",
+      "english": "e dois"
+    },
+    {
+      "surface": "שנים",
+      "english": "anos"
+    },
+    {
+      "surface": "מלך",
+      "english": "ele reinou"
+    },
+    {
+      "surface": "על",
+      "english": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "english": "⟨o⟩ Yisrael"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T04:23:20.861666843Z",
+  "model": "glm-4.5"
+}

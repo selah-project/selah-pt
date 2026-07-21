@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "judges",
+  "substitutions": [
+    {
+      "from": "Amom",
+      "to": "Ammon",
+      "token-index": 4,
+      "strongs": 5983,
+      "hebrew": "עמון"
+    },
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 6,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 11,
+  "usage": {
+    "completion_tokens": 384,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16127,
+    "prompt_tokens_details": {
+      "cached_tokens": 15159
+    },
+    "total_tokens": 16511
+  },
+  "translation": "E aconteceu após dias que ⟨os⟩ filhos de Ammon pelejaram ⟨com⟩ Yisrael",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "english": "E aconteceu",
+      "marks": null
+    },
+    {
+      "surface": "מימים",
+      "english": "após dias",
+      "marks": null
+    },
+    {
+      "surface": "וילחמו",
+      "english": "pelejaram",
+      "marks": null
+    },
+    {
+      "surface": "בני",
+      "english": "⟨os⟩ filhos",
+      "marks": "filhos de Amom"
+    },
+    {
+      "surface": "עמון",
+      "english": "de Ammon",
+      "marks": null
+    },
+    {
+      "surface": "עם",
+      "english": "⟨com⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael",
+      "marks": null
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T04:02:08.625573555Z",
+  "model": "glm-4.5"
+}

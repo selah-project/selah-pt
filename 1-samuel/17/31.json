@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "1-samuel 17:31",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-samuel",
+  "substitutions": [
+    {
+      "from": "Davi",
+      "to": "David",
+      "token-index": 4,
+      "strongs": 1732,
+      "hebrew": "דוד"
+    },
+    {
+      "from": "Saul",
+      "to": "Shaul",
+      "token-index": 7,
+      "strongs": 7586,
+      "hebrew": "שאול"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 17,
+  "usage": {
+    "completion_tokens": 366,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16539,
+    "prompt_tokens_details": {
+      "cached_tokens": 15393
+    },
+    "total_tokens": 16905
+  },
+  "translation": "E ouviram ⟨as⟩ palavras que Davidd falou, e ⟨as⟩ relataram ⟨perante⟩ Shaul, e ⟨o⟩ levou.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "english": "E ouviram"
+    },
+    {
+      "surface": "הדברים",
+      "english": "⟨as⟩ palavras",
+      "marks": "palavras que David falou"
+    },
+    {
+      "surface": "אשר",
+      "english": "que"
+    },
+    {
+      "surface": "דבר",
+      "english": "falou"
+    },
+    {
+      "surface": "דוד",
+      "english": "Davidd"
+    },
+    {
+      "surface": "ויגדו",
+      "english": "e ⟨as⟩ relataram",
+      "marks": "as palavras que David falou"
+    },
+    {
+      "surface": "לפני",
+      "english": "⟨perante⟩"
+    },
+    {
+      "surface": "שאול",
+      "english": "Shaul"
+    },
+    {
+      "surface": "ויקחהו",
+      "english": "e ⟨o⟩ levou"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T04:28:40.523794726Z",
+  "model": "glm-4.5"
+}

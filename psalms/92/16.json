@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "SENHOR",
+      "to": "YHWH",
+      "token-index": 3,
+      "strongs": 3068,
+      "hebrew": "יהוה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 92,
+  "usage": {
+    "completion_tokens": 416,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62715,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 63131
+  },
+  "translation": "Para ⟨declarar⟩ que ⟨o⟩ YHWH ⟨é⟩ justo; ⟨o⟩ meu Rochedo, e ⟨não⟩ há perversidade ⟨nele⟩.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "english": "Para ⟨declarar⟩"
+    },
+    {
+      "surface": "כי",
+      "english": "que"
+    },
+    {
+      "surface": "ישר",
+      "english": "⟨o⟩ SENHOR ⟨é⟩ justo"
+    },
+    {
+      "surface": "יהוה",
+      "english": "YHWH"
+    },
+    {
+      "surface": "צורי",
+      "english": "⟨o⟩ meu Rochedo"
+    },
+    {
+      "surface": "ולא",
+      "english": "e ⟨não⟩"
+    },
+    {
+      "surface": "עלתה",
+      "english": "há perversidade"
+    },
+    {
+      "surface": "בו",
+      "english": "⟨nele⟩",
+      "marks": "no SENHOR"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T10:41:26.117616274Z",
+  "model": "glm-4.5"
+}

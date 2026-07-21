@@ -1,0 +1,103 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-kings 18:10",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-kings",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 12,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Samaria",
+      "to": "Shomron",
+      "token-index": 14,
+      "strongs": 8111,
+      "hebrew": "שמרון"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 18,
+  "usage": {
+    "completion_tokens": 559,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17568,
+    "prompt_tokens_details": {
+      "cached_tokens": 15784
+    },
+    "total_tokens": 18127
+  },
+  "translation": "E ao fim ⟨de⟩ três anos ⟨eles⟩ a capturaram: no sexto ano ⟨de⟩ Ezequias, ⟨que é⟩ o nono ano ⟨de⟩ Oséias, rei ⟨de⟩ Yisrael, Shomron foi capturada",
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "english": "E ao fim ⟨eles⟩ a capturaram"
+    },
+    {
+      "surface": "מקצה",
+      "english": "ao fim"
+    },
+    {
+      "surface": "שלש",
+      "english": "três"
+    },
+    {
+      "surface": "שנים",
+      "english": "anos"
+    },
+    {
+      "surface": "בשנת",
+      "english": "no sexto ano ⟨de⟩"
+    },
+    {
+      "surface": "שש",
+      "english": "sesto"
+    },
+    {
+      "surface": "לחזקיה",
+      "english": "Ezequias"
+    },
+    {
+      "surface": "היא",
+      "english": "⟨que é⟩"
+    },
+    {
+      "surface": "שנת",
+      "english": "o nono ano ⟨de⟩"
+    },
+    {
+      "surface": "תשע",
+      "english": "nono"
+    },
+    {
+      "surface": "להושע",
+      "english": "Oséias"
+    },
+    {
+      "surface": "מלך",
+      "english": "rei ⟨de⟩"
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael"
+    },
+    {
+      "surface": "נלכדה",
+      "english": "foi capturada"
+    },
+    {
+      "surface": "שמרון",
+      "english": "Shomron"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T06:04:34.465443660Z",
+  "model": "glm-4.5"
+}

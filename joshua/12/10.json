@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "joshua",
+  "substitutions": [
+    {
+      "from": "Jerusalém",
+      "to": "Yerushalayim",
+      "token-index": 1,
+      "strongs": 3389,
+      "hebrew": "ירושלם"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 12,
+  "usage": {
+    "completion_tokens": 228,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16108,
+    "prompt_tokens_details": {
+      "cached_tokens": 15289
+    },
+    "total_tokens": 16336
+  },
+  "translation": "O rei ⟨de⟩ Yerushalayim, um; o rei ⟨de⟩ Hebron, um",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "english": "O rei"
+    },
+    {
+      "surface": "ירושלם",
+      "english": "Yerushalayim"
+    },
+    {
+      "surface": "אחד",
+      "english": "um"
+    },
+    {
+      "surface": "מלך",
+      "english": "o rei"
+    },
+    {
+      "surface": "חברון",
+      "english": "Hebron"
+    },
+    {
+      "surface": "אחד",
+      "english": "um"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T03:37:37.005003793Z",
+  "model": "glm-4.5"
+}

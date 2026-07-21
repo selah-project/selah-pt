@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 140,
+  "usage": {
+    "completion_tokens": 273,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62558,
+    "prompt_tokens_details": {
+      "cached_tokens": 61937
+    },
+    "total_tokens": 62831
+  },
+  "translation": "⟨para⟩ o maestro, um salmo ⟨de⟩ David",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "english": "⟨Para⟩ o maestro",
+      "rationale": "Hebrew למנצח means 'to the conductor\/overseer', direction for musical performance"
+    },
+    {
+      "surface": "מזמור",
+      "english": "um salmo",
+      "rationale": "Hebrew מזמור means 'psalm\/song set to music'"
+    },
+    {
+      "surface": "לדוד",
+      "english": "⟨de⟩ David",
+      "rationale": "Hebrew ל indicates authorship\/association, 'to\/for David'"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T11:11:50.816205429Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "jeremiah",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 8,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 2,
+  "usage": {
+    "completion_tokens": 760,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17568,
+    "prompt_tokens_details": {
+      "cached_tokens": 16393
+    },
+    "total_tokens": 18328
+  },
+  "translation": "Escutai ⟨a⟩ palavra de YHWH, ⟨a⟩ casa de Yaacov, e todas ⟨as⟩ famílias ⟨da⟩ casa de Yisrael",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "english": "Escutai",
+      "lemma": "8085",
+      "gv": 416,
+      "freq": 167,
+      "rationale": "Imperativo plural: ouvir com atenção inteligente"
+    },
+    {
+      "surface": "דבר",
+      "english": "palavra",
+      "lemma": "1697",
+      "gv": 206,
+      "freq": 798,
+      "rationale": "dabar — palavra, assunto, coisa"
+    },
+    {
+      "surface": "יהוה",
+      "english": "de YHWH",
+      "lemma": "3068",
+      "gv": 26,
+      "freq": 6007,
+      "rationale": "Tetragrama — Nome divino conforme disciplina"
+    },
+    {
+      "surface": "בית",
+      "english": "casa",
+      "lemma": "1004 b",
+      "gv": 412,
+      "freq": 1026,
+      "rationale": "bayit — casa, família, dinastia"
+    },
+    {
+      "surface": "יעקב",
+      "english": "Yaacov",
+      "lemma": "3290",
+      "gv": 182,
+      "freq": 270,
+      "rationale": "Nome do patriarca — forma hebraica transliterada"
+    },
+    {
+      "surface": "וכל",
+      "english": "e todas",
+      "lemma": "c\/3605",
+      "gv": 56,
+      "freq": 761,
+      "rationale": "ve-kol — e tudo\/todas"
+    },
+    {
+      "surface": "משפחות",
+      "english": "famílias",
+      "lemma": "4940",
+      "gv": 834,
+      "freq": 20,
+      "rationale": "mishpachot — famílias, clãs, círculos de parentes"
+    },
+    {
+      "surface": "בית",
+      "english": "casa",
+      "lemma": "1004 b",
+      "gv": 412,
+      "freq": 1026,
+      "rationale": "Segunda ocorrência de bayit — mantém consistência"
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael",
+      "lemma": "3478",
+      "gv": 541,
+      "freq": 2266,
+      "rationale": "Nome do povo\/nacionalidade — forma hebraica transliterada"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T07:04:52.561910102Z",
+  "model": "glm-4.5"
+}

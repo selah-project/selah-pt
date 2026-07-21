@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-samuel",
+  "substitutions": [
+    {
+      "from": "Davi",
+      "to": "David",
+      "token-index": 2,
+      "strongs": 1732,
+      "hebrew": "דוד"
+    },
+    {
+      "from": "Saul",
+      "to": "Shaul",
+      "token-index": 9,
+      "strongs": 7586,
+      "hebrew": "שאול"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "pt",
+  "chapter": 29,
+  "usage": {
+    "completion_tokens": 423,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16923,
+    "prompt_tokens_details": {
+      "cached_tokens": 15393
+    },
+    "total_tokens": 17346
+  },
+  "translation": "⟨Is⟩ this not Davidd, to whom they answered in dances, saying, 'Shaul has smitten ⟨in⟩ his thousands, and Davidd ⟨in⟩ his myriads'?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "english": "⟨Is⟩...not"
+    },
+    {
+      "surface": "זה",
+      "english": "this"
+    },
+    {
+      "surface": "דוד",
+      "english": "Davidd"
+    },
+    {
+      "surface": "אשר",
+      "english": "to whom"
+    },
+    {
+      "surface": "יענו",
+      "english": "they answered"
+    },
+    {
+      "surface": "לו",
+      "english": "to"
+    },
+    {
+      "surface": "במחלות",
+      "english": "in dances"
+    },
+    {
+      "surface": "לאמר",
+      "english": "saying"
+    },
+    {
+      "surface": "הכה",
+      "english": "has smitten"
+    },
+    {
+      "surface": "שאול",
+      "english": "Shaul"
+    },
+    {
+      "surface": "באלפיו",
+      "english": "⟨in⟩ his thousands"
+    },
+    {
+      "surface": "ודוד",
+      "english": "and David"
+    },
+    {
+      "surface": "ברבבתו",
+      "english": "⟨in⟩ his myriads"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-31T04:41:00.181186286Z",
+  "model": "glm-4.5"
+}
