@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "nehemiah 10:34",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 10,
+  "verse": 34,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:25:46.922513054Z",
+  "translation": "para ⟨o⟩ pão da proposição e ⟨a⟩ oferta de cereal contínua e ⟨o⟩ holocausto contínuo ⟨dos⟩ sábados ⟨das⟩ luas novas ⟨dos⟩ tempos designados ⟨das⟩ coisas consagradas ⟨das⟩ ofertas pelo pecado para fazer expiação por Yisrael e ⟨para⟩ toda ⟨a⟩ obra ⟨da⟩ Casa de ⟨o⟩ nosso Elohim",
+  "tokens": [
+    {
+      "surface": "ללחם",
+      "gloss": "Para ⟨o⟩ pão"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "da proposição"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "e ⟨a⟩ oferta de cereal"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "contínua"
+    },
+    {
+      "surface": "ולעולת",
+      "gloss": "e ⟨o⟩ holocausto"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "contínuo"
+    },
+    {
+      "surface": "השבתות",
+      "gloss": "⟨dos⟩ sábados"
+    },
+    {
+      "surface": "החדשים",
+      "gloss": "⟨das⟩ luas novas"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "⟨dos⟩ tempos designados"
+    },
+    {
+      "surface": "ולקדשים",
+      "gloss": "⟨das⟩ coisas consagradas"
+    },
+    {
+      "surface": "ולחטאות",
+      "gloss": "⟨das⟩ ofertas pelo pecado"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "para fazer expiação"
+    },
+    {
+      "surface": "על",
+      "gloss": "por"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ⟨para⟩ toda"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "⟨a⟩ obra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨da⟩ Casa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "de ⟨o⟩ nosso Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,96 +92,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 840,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 50851,
-    "prompt_tokens_details": {
-      "cached_tokens": 48509
-    },
-    "total_tokens": 51691
-  },
-  "translation": "para ⟨o⟩ pão da proposição e ⟨a⟩ oferta de cereal contínua e ⟨o⟩ holocausto contínuo ⟨dos⟩ sábados ⟨das⟩ luas novas ⟨dos⟩ tempos designados ⟨das⟩ coisas consagradas ⟨das⟩ ofertas pelo pecado para fazer expiação por Yisrael e ⟨para⟩ toda ⟨a⟩ obra ⟨da⟩ Casa de ⟨o⟩ nosso Elohim",
-  "tokens": [
-    {
-      "surface": "ללחם",
-      "english": "Para ⟨o⟩ pão"
-    },
-    {
-      "surface": "המערכת",
-      "english": "da proposição"
-    },
-    {
-      "surface": "ומנחת",
-      "english": "e ⟨a⟩ oferta de cereal"
-    },
-    {
-      "surface": "התמיד",
-      "english": "contínua"
-    },
-    {
-      "surface": "ולעולת",
-      "english": "e ⟨o⟩ holocausto"
-    },
-    {
-      "surface": "התמיד",
-      "english": "contínuo"
-    },
-    {
-      "surface": "השבתות",
-      "english": "⟨dos⟩ sábados"
-    },
-    {
-      "surface": "החדשים",
-      "english": "⟨das⟩ luas novas"
-    },
-    {
-      "surface": "למועדים",
-      "english": "⟨dos⟩ tempos designados"
-    },
-    {
-      "surface": "ולקדשים",
-      "english": "⟨das⟩ coisas consagradas"
-    },
-    {
-      "surface": "ולחטאות",
-      "english": "⟨das⟩ ofertas pelo pecado"
-    },
-    {
-      "surface": "לכפר",
-      "english": "para fazer expiação"
-    },
-    {
-      "surface": "על",
-      "english": "por"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "וכל",
-      "english": "e ⟨para⟩ toda"
-    },
-    {
-      "surface": "מלאכת",
-      "english": "⟨a⟩ obra"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨da⟩ Casa"
-    },
-    {
-      "surface": "אלהינו",
-      "english": "de ⟨o⟩ nosso Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:25:46.922513054Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

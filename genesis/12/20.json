@@ -1,72 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 12:20",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 470,
-    "prompt_tokens": 29280,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29750
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:43:47.465230785Z",
   "translation": "E Paró ordenou homens sobre ele, e enviaram-no, e ⟨את⟩ sua mulher, e ⟨את⟩ tudo o que ⟨era⟩ dele.",
   "tokens": [
     {
       "surface": "ויצו",
-      "english": "E ... ordenou"
+      "gloss": "E ... ordenou"
     },
     {
       "surface": "עליו",
-      "english": "sobre ele"
+      "gloss": "sobre ele"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "אנשים",
-      "english": "homens"
+      "gloss": "homens"
     },
     {
       "surface": "וישלחו",
-      "english": "e enviaram-no"
+      "gloss": "e enviaram-no"
     },
     {
       "surface": "אתו",
-      "english": "",
+      "gloss": "",
       "marks": ""
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sua mulher"
     },
     {
       "surface": "אשתו",
-      "english": "sua mulher"
+      "gloss": "sua mulher"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tudo"
     },
     {
       "surface": "כל",
-      "english": "tudo"
+      "gloss": "tudo"
     },
     {
       "surface": "אשר",
-      "english": "o que"
+      "gloss": "o que"
     },
     {
       "surface": "לו",
-      "english": "dele"
+      "gloss": "dele"
     }
-  ],
-  "timestamp": "2026-07-16T14:43:47.465230785Z",
-  "model": "glm-4.5"
+  ]
 }

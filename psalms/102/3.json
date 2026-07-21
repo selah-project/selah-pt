@@ -1,94 +1,83 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 102:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 808,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70753,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 71561
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:39.476637166Z",
   "translation": "Não ⟨escondas⟩ ⟨o⟩ teu rosto de mim ⟨no⟩ dia de minha aflição; ⟨o⟩ teu ouvido inclina ⟨para⟩ mim; ⟨no⟩ dia em que eu clamar responde-me ⟨com⟩ pressa.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "não",
+      "gloss": "não",
       "marks": "escondas"
     },
     {
       "surface": "תסתר",
-      "english": "escondas",
+      "gloss": "escondas",
       "marks": ""
     },
     {
       "surface": "פניך",
-      "english": "⟨o⟩ teu rosto",
+      "gloss": "⟨o⟩ teu rosto",
       "marks": "teu rosto"
     },
     {
       "surface": "ממני",
-      "english": "de mim",
+      "gloss": "de mim",
       "marks": "mim"
     },
     {
       "surface": "ביום",
-      "english": "⟨no⟩ dia",
+      "gloss": "⟨no⟩ dia",
       "marks": "dia"
     },
     {
       "surface": "צר",
-      "english": "de minha aflição",
+      "gloss": "de minha aflição",
       "marks": "aflição"
     },
     {
       "surface": "לי",
-      "english": "⟨⟩",
+      "gloss": "⟨⟩",
       "marks": "minha"
     },
     {
       "surface": "הטה",
-      "english": "⟨o⟩ teu ouvido inclina",
+      "gloss": "⟨o⟩ teu ouvido inclina",
       "marks": "teu ouvido"
     },
     {
       "surface": "אלי",
-      "english": "⟨para⟩ mim",
+      "gloss": "⟨para⟩ mim",
       "marks": "mim"
     },
     {
       "surface": "אזנך",
-      "english": "⟨⟩",
+      "gloss": "⟨⟩",
       "marks": "teu ouvido"
     },
     {
       "surface": "ביום",
-      "english": "⟨no⟩ dia",
+      "gloss": "⟨no⟩ dia",
       "marks": "dia"
     },
     {
       "surface": "אקרא",
-      "english": "em que eu clamar",
+      "gloss": "em que eu clamar",
       "marks": ""
     },
     {
       "surface": "מהר",
-      "english": "responde-me ⟨com⟩ pressa",
+      "gloss": "responde-me ⟨com⟩ pressa",
       "marks": "pressa"
     },
     {
       "surface": "ענני",
-      "english": "responde-me",
+      "gloss": "responde-me",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-13T06:40:39.476637166Z",
-  "model": "glm-4.5"
+  ]
 }

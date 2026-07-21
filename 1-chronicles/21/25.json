@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "1-chronicles 21:25",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64509,
-    "prompt_tokens_details": {
-      "cached_tokens": 63370
-    },
-    "total_tokens": 64911
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T07:03:24.373950689Z",
   "translation": "E David deu a Ornam ⟨pelo⟩ lugar ⟨o⟩ peso ⟨de⟩ seiscentos ⟨siclos⟩ ⟨de⟩ ouro ⟨por⟩ peso.",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "E ... deu"
+      "gloss": "E ... deu"
     },
     {
       "surface": "דויד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "לארנן",
-      "english": "a Ornam"
+      "gloss": "a Ornam"
     },
     {
       "surface": "במקום",
-      "english": "⟨pelo⟩ lugar"
+      "gloss": "⟨pelo⟩ lugar"
     },
     {
       "surface": "שקלי",
-      "english": "⟨o⟩ peso"
+      "gloss": "⟨o⟩ peso"
     },
     {
       "surface": "זהב",
-      "english": "⟨de⟩ ouro"
+      "gloss": "⟨de⟩ ouro"
     },
     {
       "surface": "משקל",
-      "english": "⟨por⟩ peso"
+      "gloss": "⟨por⟩ peso"
     },
     {
       "surface": "שש",
-      "english": "seiscentos"
+      "gloss": "seiscentos"
     },
     {
       "surface": "מאות",
-      "english": "⟨siclos⟩"
+      "gloss": "⟨siclos⟩"
     }
-  ],
-  "timestamp": "2026-06-13T07:03:24.373950689Z",
-  "model": "glm-4.5"
+  ]
 }

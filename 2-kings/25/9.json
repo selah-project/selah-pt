@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-kings 25:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 25,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:12:42.565580691Z",
+  "translation": "E ele queimou ⟨את⟩ a casa de YHWH e ⟨את⟩ a casa do rei e ⟨את⟩ todas ⟨את⟩ as casas de Yerushalayim e ⟨את⟩ toda ⟨את⟩ casa grande queimou ⟨com⟩ fogo",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "E ele queimou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a casa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "a casa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "do rei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "todas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todas"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "⟨as⟩ casas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "toda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "queimou"
+    },
+    {
+      "surface": "באש",
+      "gloss": "⟨com⟩ fogo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,96 +92,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 598,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17822,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18420
-  },
-  "translation": "E ele queimou ⟨את⟩ a casa de YHWH e ⟨את⟩ a casa do rei e ⟨את⟩ todas ⟨את⟩ as casas de Yerushalayim e ⟨את⟩ toda ⟨את⟩ casa grande queimou ⟨com⟩ fogo",
-  "tokens": [
-    {
-      "surface": "וישרף",
-      "english": "E ele queimou"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "a casa"
-    },
-    {
-      "surface": "בית",
-      "english": "a casa"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "ואת",
-      "english": "e ⟨את⟩",
-      "marks": "a casa"
-    },
-    {
-      "surface": "בית",
-      "english": "a casa"
-    },
-    {
-      "surface": "המלך",
-      "english": "do rei"
-    },
-    {
-      "surface": "ואת",
-      "english": "e ⟨את⟩",
-      "marks": "todas"
-    },
-    {
-      "surface": "כל",
-      "english": "todas"
-    },
-    {
-      "surface": "בתי",
-      "english": "⟨as⟩ casas"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    },
-    {
-      "surface": "ואת",
-      "english": "e ⟨את⟩",
-      "marks": "toda"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "גדול",
-      "english": "grande"
-    },
-    {
-      "surface": "שרף",
-      "english": "queimou"
-    },
-    {
-      "surface": "באש",
-      "english": "⟨com⟩ fogo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:12:42.565580691Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

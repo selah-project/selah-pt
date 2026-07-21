@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-kings 12:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 12,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:28:43.377452388Z",
+  "translation": "Então Yarovam e todo o povo vieram a Rejavam no terceiro dia, como o rei ⟨tinha⟩ falado, dizendo: Voltais a mim no terceiro dia.",
+  "tokens": [
+    {
+      "surface": "ויבו",
+      "gloss": "Então"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "o povo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "no"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "terceiro dia"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨tinha⟩ falado"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Voltais"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "no"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "terceiro dia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeroboão",
@@ -20,88 +91,6 @@
       "hebrew": "רחבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63030,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63474
-  },
-  "translation": "Então Yarovam e todo o povo vieram a Rejavam no terceiro dia, como o rei ⟨tinha⟩ falado, dizendo: Voltais a mim no terceiro dia.",
-  "tokens": [
-    {
-      "surface": "ויבו",
-      "english": "Então"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Yarovam"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "העם",
-      "english": "o povo"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "ביום",
-      "english": "no"
-    },
-    {
-      "surface": "השלישי",
-      "english": "terceiro dia"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨tinha⟩ falado"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "שובו",
-      "english": "Voltais"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mim"
-    },
-    {
-      "surface": "ביום",
-      "english": "no"
-    },
-    {
-      "surface": "השלישי",
-      "english": "terceiro dia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:28:43.377452388Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

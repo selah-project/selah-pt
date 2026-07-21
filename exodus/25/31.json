@@ -1,9 +1,86 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "exodus 25:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 25,
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:13:39.391949053Z",
+  "translation": "E ⟨farás⟩ um Menorá ⟨de⟩ ouro puro, ⟨de⟩ trabalho batido ⟨será⟩ ⟨feito⟩ Menorá ⟨o⟩ ⟨seu⟩ pedestal e ⟨sua⟩ haste, ⟨os⟩ ⟨seus⟩ cálices, ⟨os⟩ ⟨seus⟩ botões e ⟨as⟩ ⟨suas⟩ flores ⟨dele⟩ ⟨serão⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "E ⟨farás⟩",
+      "marks": ""
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "um Menorá",
+      "marks": ""
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨de⟩ ouro",
+      "marks": "candelabro"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puro",
+      "marks": "ouro"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "⟨de⟩ trabalho batido",
+      "marks": "candelabro"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "⟨será⟩ ⟨feito⟩",
+      "marks": ""
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "o candelabro",
+      "marks": ""
+    },
+    {
+      "surface": "ירכה",
+      "gloss": "⟨o⟩ ⟨seu⟩ pedestal",
+      "marks": ""
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "e ⟨sua⟩ haste",
+      "marks": ""
+    },
+    {
+      "surface": "גביעיה",
+      "gloss": "⟨os⟩ ⟨seus⟩ cálices",
+      "marks": ""
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "⟨os⟩ ⟨seus⟩ botões",
+      "marks": ""
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "e ⟨as⟩ ⟨suas⟩ flores",
+      "marks": ""
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "⟨dele⟩",
+      "marks": ""
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨serão⟩",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "candelabro",
@@ -13,94 +90,6 @@
       "hebrew": "מנורה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 738,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17644,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18382
-  },
-  "translation": "E ⟨farás⟩ um Menorá ⟨de⟩ ouro puro, ⟨de⟩ trabalho batido ⟨será⟩ ⟨feito⟩ Menorá ⟨o⟩ ⟨seu⟩ pedestal e ⟨sua⟩ haste, ⟨os⟩ ⟨seus⟩ cálices, ⟨os⟩ ⟨seus⟩ botões e ⟨as⟩ ⟨suas⟩ flores ⟨dele⟩ ⟨serão⟩.",
-  "tokens": [
-    {
-      "surface": "ועשית",
-      "english": "E ⟨farás⟩",
-      "marks": ""
-    },
-    {
-      "surface": "מנרת",
-      "english": "um Menorá",
-      "marks": ""
-    },
-    {
-      "surface": "זהב",
-      "english": "⟨de⟩ ouro",
-      "marks": "candelabro"
-    },
-    {
-      "surface": "טהור",
-      "english": "puro",
-      "marks": "ouro"
-    },
-    {
-      "surface": "מקשה",
-      "english": "⟨de⟩ trabalho batido",
-      "marks": "candelabro"
-    },
-    {
-      "surface": "תעשה",
-      "english": "⟨será⟩ ⟨feito⟩",
-      "marks": ""
-    },
-    {
-      "surface": "המנורה",
-      "english": "o candelabro",
-      "marks": ""
-    },
-    {
-      "surface": "ירכה",
-      "english": "⟨o⟩ ⟨seu⟩ pedestal",
-      "marks": ""
-    },
-    {
-      "surface": "וקנה",
-      "english": "e ⟨sua⟩ haste",
-      "marks": ""
-    },
-    {
-      "surface": "גביעיה",
-      "english": "⟨os⟩ ⟨seus⟩ cálices",
-      "marks": ""
-    },
-    {
-      "surface": "כפתריה",
-      "english": "⟨os⟩ ⟨seus⟩ botões",
-      "marks": ""
-    },
-    {
-      "surface": "ופרחיה",
-      "english": "e ⟨as⟩ ⟨suas⟩ flores",
-      "marks": ""
-    },
-    {
-      "surface": "ממנה",
-      "english": "⟨dele⟩",
-      "marks": ""
-    },
-    {
-      "surface": "יהיו",
-      "english": "⟨serão⟩",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:13:39.391949053Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

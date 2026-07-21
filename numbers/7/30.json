@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "numbers 7:30",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 369,
-    "prompt_tokens": 25491,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25860
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:07:10.454281728Z",
   "translation": "No ⟨o⟩ dia ⟨o⟩ quarto, ⟨o⟩ príncipe dos ⟨o⟩ filhos de Reuben, Elitsur ben ⟨o⟩ Shedejur",
   "tokens": [
     {
       "surface": "ביום",
-      "english": "No dia"
+      "gloss": "No dia"
     },
     {
       "surface": "הרביעי",
-      "english": "quarto"
+      "gloss": "quarto"
     },
     {
       "surface": "נשיא",
-      "english": "príncipe"
+      "gloss": "príncipe"
     },
     {
       "surface": "לבני",
-      "english": "dos filhos"
+      "gloss": "dos filhos"
     },
     {
       "surface": "ראובן",
-      "english": "de Reuben"
+      "gloss": "de Reuben"
     },
     {
       "surface": "אליצור",
-      "english": "Elitsur"
+      "gloss": "Elitsur"
     },
     {
       "surface": "בן",
-      "english": "ben"
+      "gloss": "ben"
     },
     {
       "surface": "שדיאור",
-      "english": "Shedejur"
+      "gloss": "Shedejur"
     }
-  ],
-  "timestamp": "2026-07-16T17:07:10.454281728Z",
-  "model": "glm-4.5"
+  ]
 }

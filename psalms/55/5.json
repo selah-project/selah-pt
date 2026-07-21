@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 55:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62893,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63291
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:15:10.185043948Z",
   "translation": "No meu coração ⟨há⟩ um contorcer ⟨no⟩ meu íntimo, e terrores de morte caíram sobre mim",
   "tokens": [
     {
       "surface": "לבי",
-      "english": "No meu coração"
+      "gloss": "No meu coração"
     },
     {
       "surface": "יחיל",
-      "english": "⟨há⟩ um contorcer"
+      "gloss": "⟨há⟩ um contorcer"
     },
     {
       "surface": "בקרבי",
-      "english": "⟨no⟩ meu íntimo"
+      "gloss": "⟨no⟩ meu íntimo"
     },
     {
       "surface": "ואימות",
-      "english": "e terrores de morte"
+      "gloss": "e terrores de morte"
     },
     {
       "surface": "מות",
-      "english": "de morte"
+      "gloss": "de morte"
     },
     {
       "surface": "נפלו",
-      "english": "caíram"
+      "gloss": "caíram"
     },
     {
       "surface": "עלי",
-      "english": "sobre mim"
+      "gloss": "sobre mim"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:15:10.185043948Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "judges 21:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 21,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:12:01.418661412Z",
+  "translation": "E ⟨os⟩ filhos de Yisrael ⟨se⟩ arrependeram ⟨por⟩ Benjamin ⟨seu⟩ irmão, e disseram: ⟨Está⟩ cortado ⟨um⟩ cetro ⟨de⟩ Yisrael hoje.",
+  "tokens": [
+    {
+      "surface": "וינחמו",
+      "gloss": "E ⟨os⟩ filhos de Israel ⟨se⟩ arrependeram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "⟨seu⟩ irmão"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e disseram"
+    },
+    {
+      "surface": "נגדע",
+      "gloss": "⟨Está⟩ cortado"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "⟨um⟩ cetro"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "⟨de⟩ Israel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16613,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17180
-  },
-  "translation": "E ⟨os⟩ filhos de Yisrael ⟨se⟩ arrependeram ⟨por⟩ Benjamin ⟨seu⟩ irmão, e disseram: ⟨Está⟩ cortado ⟨um⟩ cetro ⟨de⟩ Yisrael hoje.",
-  "tokens": [
-    {
-      "surface": "וינחמו",
-      "english": "E ⟨os⟩ filhos de Israel ⟨se⟩ arrependeram"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "בנימן",
-      "english": "Benjamin"
-    },
-    {
-      "surface": "אחיו",
-      "english": "⟨seu⟩ irmão"
-    },
-    {
-      "surface": "ויאמרו",
-      "english": "e disseram"
-    },
-    {
-      "surface": "נגדע",
-      "english": "⟨Está⟩ cortado"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    },
-    {
-      "surface": "שבט",
-      "english": "⟨um⟩ cetro"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨⟩"
-    },
-    {
-      "surface": "מישראל",
-      "english": "⟨de⟩ Israel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:12:01.418661412Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "1-kings 8:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 8,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:21:32.213999221Z",
+  "translation": "E agora, Elohim de Yisrael, confirme ⟨é⟩, eu te rogo, a tua palavra que falaste ao teu servo Davidd, meu pai",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E agora"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "confirme"
+    },
+    {
+      "surface": "נא",
+      "gloss": "eu te rogo"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "a tua palavra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "falaste"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ao teu servo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meu pai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,68 +71,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62732,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63102
-  },
-  "translation": "E agora, Elohim de Yisrael, confirme ⟨é⟩, eu te rogo, a tua palavra que falaste ao teu servo Davidd, meu pai",
-  "tokens": [
-    {
-      "surface": "ועתה",
-      "english": "E agora"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "יאמן",
-      "english": "confirme"
-    },
-    {
-      "surface": "נא",
-      "english": "eu te rogo"
-    },
-    {
-      "surface": "דבריך",
-      "english": "a tua palavra"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "דברת",
-      "english": "falaste"
-    },
-    {
-      "surface": "לעבדך",
-      "english": "ao teu servo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אבי",
-      "english": "meu pai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:21:32.213999221Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

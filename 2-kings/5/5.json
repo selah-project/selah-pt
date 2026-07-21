@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-kings 5:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 5,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:50:12.802680706Z",
+  "translation": "E o rei de Arã disse: ⟨Vai⟩, entra, e eu enviarei ⟨um⟩ carta ao rei de Yisrael. E ele foi e tomou na sua mão dez talentos de prata e seis mil peças de ouro e dez mudanças de vestes",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "de Arã"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨Vai⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "entra"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "e eu enviarei"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "⟨um⟩ carta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "E ele foi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e tomou"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na sua mão"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dez"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "talentos"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de prata"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "e seis"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "peças de ouro"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "e dez"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "mudanças"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "de vestes"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,112 +108,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 696,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18198,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18894
-  },
-  "translation": "E o rei de Arã disse: ⟨Vai⟩, entra, e eu enviarei ⟨um⟩ carta ao rei de Yisrael. E ele foi e tomou na sua mão dez talentos de prata e seis mil peças de ouro e dez mudanças de vestes",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "ארם",
-      "english": "de Arã"
-    },
-    {
-      "surface": "לך",
-      "english": "⟨Vai⟩"
-    },
-    {
-      "surface": "בא",
-      "english": "entra"
-    },
-    {
-      "surface": "ואשלחה",
-      "english": "e eu enviarei"
-    },
-    {
-      "surface": "ספר",
-      "english": "⟨um⟩ carta"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "וילך",
-      "english": "E ele foi"
-    },
-    {
-      "surface": "ויקח",
-      "english": "e tomou"
-    },
-    {
-      "surface": "בידו",
-      "english": "na sua mão"
-    },
-    {
-      "surface": "עשר",
-      "english": "dez"
-    },
-    {
-      "surface": "ככרי",
-      "english": "talentos"
-    },
-    {
-      "surface": "כסף",
-      "english": "de prata"
-    },
-    {
-      "surface": "וששת",
-      "english": "e seis"
-    },
-    {
-      "surface": "אלפים",
-      "english": "mil"
-    },
-    {
-      "surface": "זהב",
-      "english": "peças de ouro"
-    },
-    {
-      "surface": "ועשר",
-      "english": "e dez"
-    },
-    {
-      "surface": "חליפות",
-      "english": "mudanças"
-    },
-    {
-      "surface": "בגדים",
-      "english": "de vestes"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:50:12.802680706Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

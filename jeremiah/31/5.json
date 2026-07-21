@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "jeremiah 31:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 31,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:34:09.746262407Z",
+  "translation": "⟨is⟩ yet planting thou ⟨in⟩ vineyards ⟨in⟩ ⟨the⟩ hills of Shomron: planters shall plant, and ⟨they shall⟩ use ⟨them⟩ ⟨as⟩ common ⟨things⟩",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "⟨Is⟩ yet"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "planting thou"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "⟨in⟩ vineyards",
+      "marks": "vineyards"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "⟨in⟩ ⟨the⟩ hills"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "of Shomron"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "planters shall plant"
+    },
+    {
+      "surface": "נטעים",
+      "gloss": "and ⟨they shall⟩ use"
+    },
+    {
+      "surface": "וחללו",
+      "gloss": "⟨them⟩ ⟨as⟩ common ⟨things⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samaria",
@@ -13,57 +53,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17528,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 17943
-  },
-  "translation": "⟨is⟩ yet planting thou ⟨in⟩ vineyards ⟨in⟩ ⟨the⟩ hills of Shomron: planters shall plant, and ⟨they shall⟩ use ⟨them⟩ ⟨as⟩ common ⟨things⟩",
-  "tokens": [
-    {
-      "surface": "עוד",
-      "english": "⟨Is⟩ yet"
-    },
-    {
-      "surface": "תטעי",
-      "english": "planting thou"
-    },
-    {
-      "surface": "כרמים",
-      "english": "⟨in⟩ vineyards",
-      "marks": "vineyards"
-    },
-    {
-      "surface": "בהרי",
-      "english": "⟨in⟩ ⟨the⟩ hills"
-    },
-    {
-      "surface": "שמרון",
-      "english": "of Shomron"
-    },
-    {
-      "surface": "נטעו",
-      "english": "planters shall plant"
-    },
-    {
-      "surface": "נטעים",
-      "english": "and ⟨they shall⟩ use"
-    },
-    {
-      "surface": "וחללו",
-      "english": "⟨them⟩ ⟨as⟩ common ⟨things⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:34:09.746262407Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

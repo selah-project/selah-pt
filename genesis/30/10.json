@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 30:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 30,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:11:27.362130268Z",
+  "translation": "E Zilpáh ⟨a⟩ serva de Léia deu à luz a Jacó ⟨um⟩ filho ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Deu à luz"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpáh"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "⟨a⟩ serva de"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Léia"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "a Jacó"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨um⟩ filho",
+      "marks": "⟨את⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zilpa",
@@ -13,49 +45,6 @@
       "hebrew": "זלפה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 263,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21128,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 21391
-  },
-  "translation": "E Zilpáh ⟨a⟩ serva de Léia deu à luz a Jacó ⟨um⟩ filho ⟨את⟩",
-  "tokens": [
-    {
-      "surface": "ותלד",
-      "english": "Deu à luz"
-    },
-    {
-      "surface": "זלפה",
-      "english": "Zilpáh"
-    },
-    {
-      "surface": "שפחת",
-      "english": "⟨a⟩ serva de"
-    },
-    {
-      "surface": "לאה",
-      "english": "Léia"
-    },
-    {
-      "surface": "ליעקב",
-      "english": "a Jacó"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨um⟩ filho",
-      "marks": "⟨את⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:11:27.362130268Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

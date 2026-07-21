@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 10:2",
   "book": "job",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 393,
-    "prompt_tokens": 27652,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 28045
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:57:05.950553568Z",
   "translation": "Direi a Elohim: Não me condenes; faze-me saber por que contendes comigo.",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "Direi"
+      "gloss": "Direi"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "אלוה",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אל",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תרשיעני",
-      "english": "me condenes"
+      "gloss": "me condenes"
     },
     {
       "surface": "הודיעני",
-      "english": "faze-me saber"
+      "gloss": "faze-me saber"
     },
     {
       "surface": "על",
-      "english": "por que"
+      "gloss": "por que"
     },
     {
       "surface": "מה",
-      "english": "⟨o que⟩"
+      "gloss": "⟨o que⟩"
     },
     {
       "surface": "תריבני",
-      "english": "contendes comigo"
+      "gloss": "contendes comigo"
     }
-  ],
-  "timestamp": "2026-07-16T15:57:05.950553568Z",
-  "model": "glm-4.5"
+  ]
 }

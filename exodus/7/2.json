@@ -1,87 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 7:2",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 576,
-    "prompt_tokens": 25212,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25788
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:46:12.227280440Z",
   "translation": "Tu ⟨é⟩ quem falará ⟨את⟩ tudo o que eu te ordenar, e Aharon, teu irmão, falará a Paró, para que ele envie ⟨את⟩ os filhos de Yisrael da ⟨sua⟩ terra.",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tu"
+      "gloss": "Tu"
     },
     {
       "surface": "תדבר",
-      "english": "⟨é⟩ quem falará"
+      "gloss": "⟨é⟩ quem falará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tudo o que eu te ordenar"
     },
     {
       "surface": "כל",
-      "english": "tudo"
+      "gloss": "tudo"
     },
     {
       "surface": "אשר",
-      "english": "o que"
+      "gloss": "o que"
     },
     {
       "surface": "אצוך",
-      "english": "eu te ordenar"
+      "gloss": "eu te ordenar"
     },
     {
       "surface": "ואהרן",
-      "english": "e Aharon"
+      "gloss": "e Aharon"
     },
     {
       "surface": "אחיך",
-      "english": ", teu irmão"
+      "gloss": ", teu irmão"
     },
     {
       "surface": "ידבר",
-      "english": "falará"
+      "gloss": "falará"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "ושלח",
-      "english": "para que ele envie"
+      "gloss": "para que ele envie"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os filhos de Yisrael"
     },
     {
       "surface": "בני",
-      "english": "os filhos"
+      "gloss": "os filhos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "מארצו",
-      "english": "da ⟨sua⟩ terra"
+      "gloss": "da ⟨sua⟩ terra"
     }
-  ],
-  "timestamp": "2026-07-16T13:46:12.227280440Z",
-  "model": "glm-4.5"
+  ]
 }

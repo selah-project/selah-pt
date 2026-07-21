@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 44:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21208,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21662
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:28:26.064467876Z",
   "translation": "A manhã ⟨estava⟩ clara, e ⟨os⟩ homens foram enviados — eles e ⟨seus⟩ jumentos.",
   "tokens": [
     {
       "surface": "הבקר",
-      "english": "A manhã",
+      "gloss": "A manhã",
       "marks": "clara"
     },
     {
       "surface": "אור",
-      "english": "⟨estava⟩ clara"
+      "gloss": "⟨estava⟩ clara"
     },
     {
       "surface": "והאנשים",
-      "english": "⟨os⟩ homens"
+      "gloss": "⟨os⟩ homens"
     },
     {
       "surface": "שלחו",
-      "english": "foram enviados"
+      "gloss": "foram enviados"
     },
     {
       "surface": "המה",
-      "english": "— eles"
+      "gloss": "— eles"
     },
     {
       "surface": "וחמריהם",
-      "english": "e ⟨seus⟩ jumentos"
+      "gloss": "e ⟨seus⟩ jumentos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:28:26.064467876Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

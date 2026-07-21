@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "numbers 23:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 23,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:35:07.359918283Z",
+  "translation": "E ⟨ele⟩ levantou ⟨o⟩ seu provérbio e disse: 'De Aram ⟨o⟩ rei de Moab, Balak, me trouxe das montanhas ⟨do⟩ oriente: ⟨para⟩ amaldiçoar ⟨a⟩ Yaakov para mim ⟨e⟩ vir, denunciar ⟨a⟩ Yisrael.'",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "E ⟨ele⟩ levantou"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "⟨o⟩ seu provérbio"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "De"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "⟨o⟩ rei"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "me trouxe"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "das montanhas"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "⟨do⟩ oriente"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "⟨para⟩ amaldiçoar"
+    },
+    {
+      "surface": "ארה",
+      "gloss": "⟨a⟩ Jacó"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para mim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "⟨e⟩ vir"
+    },
+    {
+      "surface": "זעמה",
+      "gloss": "denunciar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨a⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacó",
@@ -20,96 +99,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 829,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19015,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19844
-  },
-  "translation": "E ⟨ele⟩ levantou ⟨o⟩ seu provérbio e disse: 'De Aram ⟨o⟩ rei de Moab, Balak, me trouxe das montanhas ⟨do⟩ oriente: ⟨para⟩ amaldiçoar ⟨a⟩ Yaakov para mim ⟨e⟩ vir, denunciar ⟨a⟩ Yisrael.'",
-  "tokens": [
-    {
-      "surface": "וישא",
-      "english": "E ⟨ele⟩ levantou"
-    },
-    {
-      "surface": "משלו",
-      "english": "⟨o⟩ seu provérbio"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "מן",
-      "english": "De"
-    },
-    {
-      "surface": "ארם",
-      "english": "Aram"
-    },
-    {
-      "surface": "ינחני",
-      "english": "⟨o⟩ rei"
-    },
-    {
-      "surface": "בלק",
-      "english": "de Moab"
-    },
-    {
-      "surface": "מלך",
-      "english": "Balak"
-    },
-    {
-      "surface": "מואב",
-      "english": "me trouxe"
-    },
-    {
-      "surface": "מהררי",
-      "english": "das montanhas"
-    },
-    {
-      "surface": "קדם",
-      "english": "⟨do⟩ oriente"
-    },
-    {
-      "surface": "לכה",
-      "english": "⟨para⟩ amaldiçoar"
-    },
-    {
-      "surface": "ארה",
-      "english": "⟨a⟩ Jacó"
-    },
-    {
-      "surface": "לי",
-      "english": "para mim"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "ולכה",
-      "english": "⟨e⟩ vir"
-    },
-    {
-      "surface": "זעמה",
-      "english": "denunciar"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨a⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:35:07.359918283Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

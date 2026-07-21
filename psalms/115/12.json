@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 115:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 505,
-    "prompt_tokens": 70890,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71395
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:47:59.940883409Z",
   "translation": "YHWH ⟨has⟩ been mindful of us, ⟨He⟩ will bless, ⟨He⟩ will bless ⟨את⟩ the house of Yisrael, ⟨He⟩ will bless ⟨את⟩ the house de Aharon",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "זכרנו",
-      "english": "⟨has⟩ been mindful of us"
+      "gloss": "⟨has⟩ been mindful of us"
     },
     {
       "surface": "יברך",
-      "english": "⟨He⟩ will bless"
+      "gloss": "⟨He⟩ will bless"
     },
     {
       "surface": "יברך",
-      "english": "⟨He⟩ will bless"
+      "gloss": "⟨He⟩ will bless"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "the house of Yisrael"
     },
     {
       "surface": "בית",
-      "english": "the house"
+      "gloss": "the house"
     },
     {
       "surface": "ישראל",
-      "english": "of Yisrael"
+      "gloss": "of Yisrael"
     },
     {
       "surface": "יברך",
-      "english": "⟨He⟩ will bless"
+      "gloss": "⟨He⟩ will bless"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "the house de Aharon"
     },
     {
       "surface": "בית",
-      "english": "the house"
+      "gloss": "the house"
     },
     {
       "surface": "אהרן",
-      "english": "de Aharon"
+      "gloss": "de Aharon"
     }
-  ],
-  "timestamp": "2026-07-16T17:47:59.940883409Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "proverbs 24:27",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 566,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60316,
-    "prompt_tokens_details": {
-      "cached_tokens": 59213
-    },
-    "total_tokens": 60882
-  },
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:43:42.356329217Z",
   "translation": "Prepara ⟨o⟩ teu ⟨é⟩ trabalho lá fora e faz ⟨a⟩ tua obra ⟨estar⟩ pronta ⟨no⟩ campo ⟨para ti⟩, e depois constrói ⟨a⟩ tua casa.",
   "tokens": [
     {
       "surface": "הכן",
-      "english": "Prepara"
+      "gloss": "Prepara"
     },
     {
       "surface": "בחוץ",
-      "english": "lá fora"
+      "gloss": "lá fora"
     },
     {
       "surface": "מלאכתך",
-      "english": "teu ⟨é⟩ trabalho",
+      "gloss": "teu ⟨é⟩ trabalho",
       "marks": "teu trabalho"
     },
     {
       "surface": "ועתדה",
-      "english": "e faz ⟨a⟩ tua obra ⟨estar⟩ pronta",
+      "gloss": "e faz ⟨a⟩ tua obra ⟨estar⟩ pronta",
       "marks": "tua obra"
     },
     {
       "surface": "בשדה",
-      "english": "⟨no⟩ campo"
+      "gloss": "⟨no⟩ campo"
     },
     {
       "surface": "לך",
-      "english": "⟨para ti⟩"
+      "gloss": "⟨para ti⟩"
     },
     {
       "surface": "אחר",
-      "english": "e depois"
+      "gloss": "e depois"
     },
     {
       "surface": "ובנית",
-      "english": "constrói"
+      "gloss": "constrói"
     },
     {
       "surface": "ביתך",
-      "english": "⟨a⟩ tua casa",
+      "gloss": "⟨a⟩ tua casa",
       "marks": "tua casa"
     }
-  ],
-  "timestamp": "2026-06-13T06:43:42.356329217Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 60,
   "ref": "psalms 119:60",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 347,
-    "prompt_tokens": 70089,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70436
-  },
+  "verse": 60,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:12.917052752Z",
   "translation": "Apressei-me e não hesitei em guardar teus mandamentos.",
   "tokens": [
     {
       "surface": "חשתי",
-      "english": "Apressei-me"
+      "gloss": "Apressei-me"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "התמהמהתי",
-      "english": "hesitei"
+      "gloss": "hesitei"
     },
     {
       "surface": "לשמר",
-      "english": "em guardar"
+      "gloss": "em guardar"
     },
     {
       "surface": "מצותיך",
-      "english": "teus mandamentos"
+      "gloss": "teus mandamentos"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:12.917052752Z",
-  "model": "glm-4.5"
+  ]
 }

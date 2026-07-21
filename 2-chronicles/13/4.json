@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 13:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 13,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:20:35.801787813Z",
+  "translation": "E Aviyá ⟨se levantou⟩ ⟨de⟩ sobre ⟨o⟩ monte Tsemaraim, que ⟨está⟩ na região montanhosa de Efráyim, e disse: Ouvi-me, Ieroboão e todo o Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "E Aviyá ⟨se levantou⟩"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyá"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "להר",
+      "gloss": "sobre ⟨o⟩ monte"
+    },
+    {
+      "surface": "צמרים",
+      "gloss": "Tsemaraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "⟨está⟩ na região montanhosa de"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Ouvi-me"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Ieroboão"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -20,76 +79,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58624,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59165
-  },
-  "translation": "E Aviyá ⟨se levantou⟩ ⟨de⟩ sobre ⟨o⟩ monte Tsemaraim, que ⟨está⟩ na região montanhosa de Efráyim, e disse: Ouvi-me, Ieroboão e todo o Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "E Aviyá ⟨se levantou⟩"
-    },
-    {
-      "surface": "אביה",
-      "english": "Aviyá"
-    },
-    {
-      "surface": "מעל",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "להר",
-      "english": "sobre ⟨o⟩ monte"
-    },
-    {
-      "surface": "צמרים",
-      "english": "Tsemaraim"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בהר",
-      "english": "⟨está⟩ na região montanhosa de"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "שמעוני",
-      "english": "Ouvi-me"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Ieroboão"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "o Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:20:35.801787813Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

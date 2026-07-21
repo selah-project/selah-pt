@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 34:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20011,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20377
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:08:30.728971906Z",
   "translation": "Escolhamos ⟨um⟩ juízo para ⟨nós⟩; conheçamos ⟨o que⟩ ⟨é⟩ bom ⟨entre⟩ ⟨nós⟩.",
   "tokens": [
     {
       "surface": "משפט",
-      "english": "Um juízo"
+      "gloss": "Um juízo"
     },
     {
       "surface": "נבחרה",
-      "english": "escolhamos"
+      "gloss": "escolhamos"
     },
     {
       "surface": "לנו",
-      "english": "para nós",
+      "gloss": "para nós",
       "marks": "um juízo"
     },
     {
       "surface": "נדעה",
-      "english": "conheçamos"
+      "gloss": "conheçamos"
     },
     {
       "surface": "בינינו",
-      "english": "entre nós",
+      "gloss": "entre nós",
       "marks": "o que é bom"
     },
     {
       "surface": "מה",
-      "english": "o que"
+      "gloss": "o que"
     },
     {
       "surface": "טוב",
-      "english": "bom"
+      "gloss": "bom"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:08:30.728971906Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

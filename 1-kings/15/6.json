@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-kings 15:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 15,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:33:14.198272553Z",
+  "translation": "E guerra houve entre Rejavam e Yarovam todos ⟨os⟩ dias ⟨de sua⟩ vida.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "E guerra"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "houve"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "⟨os⟩ dias",
+      "marks": "todos ⟨os⟩ dias ⟨de sua⟩ vida"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "⟨de sua⟩ vida"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboão",
@@ -20,61 +64,6 @@
       "hebrew": "ירבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62487,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62801
-  },
-  "translation": "E guerra houve entre Rejavam e Yarovam todos ⟨os⟩ dias ⟨de sua⟩ vida.",
-  "tokens": [
-    {
-      "surface": "ומלחמה",
-      "english": "E guerra"
-    },
-    {
-      "surface": "היתה",
-      "english": "houve"
-    },
-    {
-      "surface": "בין",
-      "english": "entre"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "ובין",
-      "english": "e"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Yarovam"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "ימי",
-      "english": "⟨os⟩ dias",
-      "marks": "todos ⟨os⟩ dias ⟨de sua⟩ vida"
-    },
-    {
-      "surface": "חייו",
-      "english": "⟨de sua⟩ vida"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:33:14.198272553Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 87:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 87,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:37:26.868000310Z",
+  "translation": "Aos ⟨filhos⟩ de Koraj ⟨את⟩ ⟨um⟩ salmo ⟨um⟩ cântico sua fundação ⟨está⟩ nos montes santos",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Aos ⟨filhos⟩ de Corá"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraj"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "⟨um⟩ salmo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "⟨um⟩ cântico"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "sua fundação"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "nos montes"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Corá",
@@ -13,52 +48,6 @@
       "hebrew": "קרח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 87,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62828,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63273
-  },
-  "translation": "Aos ⟨filhos⟩ de Koraj ⟨את⟩ ⟨um⟩ salmo ⟨um⟩ cântico sua fundação ⟨está⟩ nos montes santos",
-  "tokens": [
-    {
-      "surface": "לבני",
-      "english": "Aos ⟨filhos⟩ de Corá"
-    },
-    {
-      "surface": "קרח",
-      "english": "Koraj"
-    },
-    {
-      "surface": "מזמור",
-      "english": "⟨um⟩ salmo"
-    },
-    {
-      "surface": "שיר",
-      "english": "⟨um⟩ cântico"
-    },
-    {
-      "surface": "יסודתו",
-      "english": "sua fundação"
-    },
-    {
-      "surface": "בהררי",
-      "english": "nos montes"
-    },
-    {
-      "surface": "קדש",
-      "english": "santos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:37:26.868000310Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

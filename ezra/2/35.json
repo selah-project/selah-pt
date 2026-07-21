@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "ezra 2:35",
   "book": "ezra",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52091,
-    "prompt_tokens_details": {
-      "cached_tokens": 51187
-    },
-    "total_tokens": 52418
-  },
+  "verse": 35,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:58:51.763990214Z",
   "translation": "Os filhos ⟨de⟩ Senaá ⟨são⟩ três mil e seiscentos e trinta",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Os filhos"
+      "gloss": "Os filhos"
     },
     {
       "surface": "סנאה",
-      "english": "⟨de⟩ Senaá"
+      "gloss": "⟨de⟩ Senaá"
     },
     {
       "surface": "שלשת",
-      "english": "três mil"
+      "gloss": "três mil"
     },
     {
       "surface": "אלפים",
-      "english": "e seiscentos"
+      "gloss": "e seiscentos"
     },
     {
       "surface": "ושש",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מאות",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ושלשים",
-      "english": "e trinta"
+      "gloss": "e trinta"
     }
-  ],
-  "timestamp": "2026-06-14T04:58:51.763990214Z",
-  "model": "glm-4.5"
+  ]
 }

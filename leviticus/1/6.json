@@ -1,47 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "leviticus 1:6",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 412,
-    "prompt_tokens": 24844,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 25256
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:33:00.243729843Z",
   "translation": "e esfolar ⟨a⟩ oferta queimada, e cortar ⟨את⟩ em seus pedaços",
   "tokens": [
     {
       "surface": "והפשיט",
-      "english": "e esfolar"
+      "gloss": "e esfolar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a oferta queimada"
     },
     {
       "surface": "העלה",
-      "english": "a oferta queimada"
+      "gloss": "a oferta queimada"
     },
     {
       "surface": "ונתח",
-      "english": "e cortar"
+      "gloss": "e cortar"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "em seus pedaços"
     },
     {
       "surface": "לנתחיה",
-      "english": "em seus pedaços"
+      "gloss": "em seus pedaços"
     }
-  ],
-  "timestamp": "2026-07-16T16:33:00.243729843Z",
-  "model": "glm-4.5"
+  ]
 }

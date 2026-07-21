@@ -1,78 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "isaiah 24:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 652,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19199,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19851
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:30:40.492737449Z",
   "translation": "Grito de angústia ⟨sobre⟩ o vinho nas ruas; ⟨está⟩ extinta toda alegria, ⟨está⟩ banida ⟨a⟩ alegria ⟨da⟩ terra.",
   "tokens": [
     {
       "surface": "צוחה",
-      "english": "Grito de angústia",
+      "gloss": "Grito de angústia",
       "marks": null
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩",
+      "gloss": "⟨sobre⟩",
       "rationale": "Hebrew lacks prepositional article"
     },
     {
       "surface": "היין",
-      "english": "o vinho",
+      "gloss": "o vinho",
       "marks": null
     },
     {
       "surface": "בחוצות",
-      "english": "nas ruas",
+      "gloss": "nas ruas",
       "marks": null
     },
     {
       "surface": "ערבה",
-      "english": "⟨está⟩ extinta",
+      "gloss": "⟨está⟩ extinta",
       "rationale": "Hebrew lacks copula"
     },
     {
       "surface": "כל",
-      "english": "toda",
+      "gloss": "toda",
       "marks": null
     },
     {
       "surface": "שמחה",
-      "english": "alegria",
+      "gloss": "alegria",
       "marks": null
     },
     {
       "surface": "גלה",
-      "english": "⟨está⟩ banida",
+      "gloss": "⟨está⟩ banida",
       "rationale": "Hebrew lacks copula"
     },
     {
       "surface": "משוש",
-      "english": "alegria",
+      "gloss": "alegria",
       "marks": null
     },
     {
       "surface": "הארץ",
-      "english": "⟨da⟩ terra",
+      "gloss": "⟨da⟩ terra",
       "rationale": "Hebrew lacks definite article"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:30:40.492737449Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

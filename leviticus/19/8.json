@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "leviticus 19:8",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 593,
-    "prompt_tokens": 25399,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25992
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:47:56.126315849Z",
   "translation": "e ⟨quem⟩ come carregará a sua perversidade, pois profanou ⟨את⟩ o qodesh de YHWH, e aquela nefesh será cortada de ⟨o⟩ seu povo.",
   "tokens": [
     {
       "surface": "ואכליו",
-      "english": "e ⟨quem⟩ come"
+      "gloss": "e ⟨quem⟩ come"
     },
     {
       "surface": "עונו",
-      "english": "a sua perversidade"
+      "gloss": "a sua perversidade"
     },
     {
       "surface": "ישא",
-      "english": "carregará"
+      "gloss": "carregará"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o qodesh de YHWH"
     },
     {
       "surface": "קדש",
-      "english": "o qodesh"
+      "gloss": "o qodesh"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "חלל",
-      "english": "profanou"
+      "gloss": "profanou"
     },
     {
       "surface": "ונכרתה",
-      "english": "e será cortada"
+      "gloss": "e será cortada"
     },
     {
       "surface": "הנפש",
-      "english": "aquela nefesh"
+      "gloss": "aquela nefesh"
     },
     {
       "surface": "ההוא",
-      "english": "aquela"
+      "gloss": "aquela"
     },
     {
       "surface": "מעמיה",
-      "english": "de ⟨o⟩ seu povo"
+      "gloss": "de ⟨o⟩ seu povo"
     }
-  ],
-  "timestamp": "2026-07-16T16:47:56.126315849Z",
-  "model": "glm-4.5"
+  ]
 }

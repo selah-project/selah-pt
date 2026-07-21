@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 36:25",
   "book": "job",
-  "lang": "pt",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 445,
-    "prompt_tokens": 27353,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27798
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:01:27.226726577Z",
   "translation": "Todo Adam o viu; ⟨o⟩ homem ⟨o⟩ contempla de ⟨uma⟩ distância.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "אדם",
-      "english": "Adam"
+      "gloss": "Adam"
     },
     {
       "surface": "חזו",
-      "english": "o viu"
+      "gloss": "o viu"
     },
     {
       "surface": "בו",
-      "english": "⟨o⟩",
+      "gloss": "⟨o⟩",
       "marks": "a obra de Elohim"
     },
     {
       "surface": "אנוש",
-      "english": "⟨o⟩ homem"
+      "gloss": "⟨o⟩ homem"
     },
     {
       "surface": "יביט",
-      "english": "⟨o⟩ contempla"
+      "gloss": "⟨o⟩ contempla"
     },
     {
       "surface": "מרחוק",
-      "english": "de ⟨uma⟩ distância"
+      "gloss": "de ⟨uma⟩ distância"
     }
-  ],
-  "timestamp": "2026-07-16T16:01:27.226726577Z",
-  "model": "glm-4.5"
+  ]
 }

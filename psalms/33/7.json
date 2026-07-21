@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 33:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 33,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:59:42.338236596Z",
+  "translation": "Ele ajunta ⟨as⟩ águas do mar como ⟨num⟩ ⟨monte⟩; ⟨ele⟩ põe ⟨os⟩ Tehoms ⟨em⟩ tesouros",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Ajunta"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "⟨num⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "⟨as⟩ águas"
+    },
+    {
+      "surface": "הים",
+      "gloss": "do mar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨ele⟩ põe"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "⟨em⟩ tesouros"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "⟨os⟩ Tehoms"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "abismo",
@@ -13,52 +48,6 @@
       "hebrew": "תהום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62885,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63314
-  },
-  "translation": "Ele ajunta ⟨as⟩ águas do mar como ⟨num⟩ ⟨monte⟩; ⟨ele⟩ põe ⟨os⟩ Tehoms ⟨em⟩ tesouros",
-  "tokens": [
-    {
-      "surface": "כנס",
-      "english": "Ajunta"
-    },
-    {
-      "surface": "כנד",
-      "english": "⟨num⟩"
-    },
-    {
-      "surface": "מי",
-      "english": "⟨as⟩ águas"
-    },
-    {
-      "surface": "הים",
-      "english": "do mar"
-    },
-    {
-      "surface": "נתן",
-      "english": "⟨ele⟩ põe"
-    },
-    {
-      "surface": "באצרות",
-      "english": "⟨em⟩ tesouros"
-    },
-    {
-      "surface": "תהומות",
-      "english": "⟨os⟩ Tehoms"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:59:42.338236596Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 105:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 393,
-    "prompt_tokens": 70336,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70729
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:41.650869746Z",
   "translation": "o pacto que cortou ⟨את⟩ Avraham e seu juramento a Yitzjak",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "o pacto que"
+      "gloss": "o pacto que"
     },
     {
       "surface": "כרת",
-      "english": "cortou"
+      "gloss": "cortou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avraham"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "ושבועתו",
-      "english": "e seu juramento"
+      "gloss": "e seu juramento"
     },
     {
       "surface": "לישחק",
-      "english": "a Yitzjak"
+      "gloss": "a Yitzjak"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:41.650869746Z",
-  "model": "glm-4.5"
+  ]
 }

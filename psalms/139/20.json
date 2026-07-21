@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 139:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62771,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63131
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:11:33.647049528Z",
   "translation": "who ⟨are⟩ speaking ⟨of⟩ you ⟨in⟩ vain ⟨את⟩ ⟨your⟩ enemies",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Who"
+      "gloss": "Who"
     },
     {
       "surface": "יאמרך",
-      "english": "⟨are⟩ speaking ⟨of⟩ you"
+      "gloss": "⟨are⟩ speaking ⟨of⟩ you"
     },
     {
       "surface": "למזמה",
-      "english": "⟨in⟩ vain"
+      "gloss": "⟨in⟩ vain"
     },
     {
       "surface": "נשא",
-      "english": "lifted up"
+      "gloss": "lifted up"
     },
     {
       "surface": "לשוא",
-      "english": "to vanity"
+      "gloss": "to vanity"
     },
     {
       "surface": "עריך",
-      "english": "⟨your⟩ enemies"
+      "gloss": "⟨your⟩ enemies"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:11:33.647049528Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

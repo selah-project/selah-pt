@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-chronicles 9:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 9,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:16:52.244487142Z",
+  "translation": "Porém não ⟨fui⟩ crédula ⟨as⟩ palavras deles, até que eu ⟨fosse⟩ ⟨e⟩ vissem meus olhos, e ⟨eis⟩ não ⟨foi⟩ dito a mim nem ⟨a⟩ metade ⟨da⟩ abundância de tuJojmá; excedeste ⟨a⟩ fama que ouvi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Porém não",
+      "rationale": "וְלֹא = 'e não' ou 'porém não'; negação enfática"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "⟨fui⟩ crédula",
+      "rationale": "הֶאֱמַנְתִּי = 'não cri\/não acreditei'; verbo de credibilidade com feminino 'eu'"
+    },
+    {
+      "surface": "לדבריהם",
+      "gloss": "⟨as⟩ palavras deles",
+      "rationale": "לְדִבְרֵיהֶם = 'às palavras\/falas deles'"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até que",
+      "rationale": "עַד = 'até' (temporal\/espacial)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "rationale": "אֲשֶׁר = conjunção relativa 'que'"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "eu ⟨fosse⟩",
+      "rationale": "בָּאתִי = 'eu vim\/fui' (Qal perfeito 1a pessoa)"
+    },
+    {
+      "surface": "ותראינה",
+      "gloss": "⟨e⟩ vissem",
+      "rationale": "וַתִּרְאֶינָה = 'e vissem' (Vav consecutivo + Qal perfeito 3fem pl)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meus olhos",
+      "rationale": "עֵינַי = 'meus olhos' (1a pessoa)"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "⟨eis⟩",
+      "rationale": "וְהִנֵּה = 'e eis\/olha' (partícula demonstrativa)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não",
+      "rationale": "לֹא = 'não' (negação simples)"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "⟨foi⟩ dito",
+      "rationale": "הֻגַּד = 'foi declarado\/dito' (Nifal perfeito 3masc)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a mim",
+      "rationale": "לִי = 'a mim\/para mim' (preposição + 1a pessoa)"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "nem ⟨a⟩ metade",
+      "rationale": "חֲצִי = 'metade'"
+    },
+    {
+      "surface": "מרבית",
+      "gloss": "⟨da⟩ abundância",
+      "rationale": "מַרְבִּית = 'abundância\/grande número\/multidão'"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "de tuJojmá",
+      "rationale": "חָכְמָתֶךָ = 'sua\/tua sabedoria' (2a masc)"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "excedeste",
+      "rationale": "יָסַפְתָּ = 'tu acrescentaste\/excedeste' (Qal perfeito 2a masc)"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩",
+      "rationale": "עַל = 'sobre\/acima de'"
+    },
+    {
+      "surface": "השמועה",
+      "gloss": "fama",
+      "rationale": "הַשְּׁמוּעָה = 'o relatório\/ouvire\/fama' (substantivo de שָׁמַע)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "rationale": "אֲשֶׁר = 'que' (conjunção relativa)"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ouvi",
+      "rationale": "שָׁמַעְתִּי = 'eu ouvi\/escutei' (Qal perfeito 1a pessoa)"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a sabedoria",
@@ -13,124 +120,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 1386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59242,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 60628
-  },
-  "translation": "Porém não ⟨fui⟩ crédula ⟨as⟩ palavras deles, até que eu ⟨fosse⟩ ⟨e⟩ vissem meus olhos, e ⟨eis⟩ não ⟨foi⟩ dito a mim nem ⟨a⟩ metade ⟨da⟩ abundância de tuJojmá; excedeste ⟨a⟩ fama que ouvi.",
-  "tokens": [
-    {
-      "surface": "ולא",
-      "english": "Porém não",
-      "rationale": "וְלֹא = 'e não' ou 'porém não'; negação enfática"
-    },
-    {
-      "surface": "האמנתי",
-      "english": "⟨fui⟩ crédula",
-      "rationale": "הֶאֱמַנְתִּי = 'não cri\/não acreditei'; verbo de credibilidade com feminino 'eu'"
-    },
-    {
-      "surface": "לדבריהם",
-      "english": "⟨as⟩ palavras deles",
-      "rationale": "לְדִבְרֵיהֶם = 'às palavras\/falas deles'"
-    },
-    {
-      "surface": "עד",
-      "english": "até que",
-      "rationale": "עַד = 'até' (temporal\/espacial)"
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "rationale": "אֲשֶׁר = conjunção relativa 'que'"
-    },
-    {
-      "surface": "באתי",
-      "english": "eu ⟨fosse⟩",
-      "rationale": "בָּאתִי = 'eu vim\/fui' (Qal perfeito 1a pessoa)"
-    },
-    {
-      "surface": "ותראינה",
-      "english": "⟨e⟩ vissem",
-      "rationale": "וַתִּרְאֶינָה = 'e vissem' (Vav consecutivo + Qal perfeito 3fem pl)"
-    },
-    {
-      "surface": "עיני",
-      "english": "meus olhos",
-      "rationale": "עֵינַי = 'meus olhos' (1a pessoa)"
-    },
-    {
-      "surface": "והנה",
-      "english": "⟨eis⟩",
-      "rationale": "וְהִנֵּה = 'e eis\/olha' (partícula demonstrativa)"
-    },
-    {
-      "surface": "לא",
-      "english": "não",
-      "rationale": "לֹא = 'não' (negação simples)"
-    },
-    {
-      "surface": "הגד",
-      "english": "⟨foi⟩ dito",
-      "rationale": "הֻגַּד = 'foi declarado\/dito' (Nifal perfeito 3masc)"
-    },
-    {
-      "surface": "לי",
-      "english": "a mim",
-      "rationale": "לִי = 'a mim\/para mim' (preposição + 1a pessoa)"
-    },
-    {
-      "surface": "חצי",
-      "english": "nem ⟨a⟩ metade",
-      "rationale": "חֲצִי = 'metade'"
-    },
-    {
-      "surface": "מרבית",
-      "english": "⟨da⟩ abundância",
-      "rationale": "מַרְבִּית = 'abundância\/grande número\/multidão'"
-    },
-    {
-      "surface": "חכמתך",
-      "english": "de tuJojmá",
-      "rationale": "חָכְמָתֶךָ = 'sua\/tua sabedoria' (2a masc)"
-    },
-    {
-      "surface": "יספת",
-      "english": "excedeste",
-      "rationale": "יָסַפְתָּ = 'tu acrescentaste\/excedeste' (Qal perfeito 2a masc)"
-    },
-    {
-      "surface": "על",
-      "english": "⟨a⟩",
-      "rationale": "עַל = 'sobre\/acima de'"
-    },
-    {
-      "surface": "השמועה",
-      "english": "fama",
-      "rationale": "הַשְּׁמוּעָה = 'o relatório\/ouvire\/fama' (substantivo de שָׁמַע)"
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "rationale": "אֲשֶׁר = 'que' (conjunção relativa)"
-    },
-    {
-      "surface": "שמעתי",
-      "english": "ouvi",
-      "rationale": "שָׁמַעְתִּי = 'eu ouvi\/escutei' (Qal perfeito 1a pessoa)"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:16:52.244487142Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

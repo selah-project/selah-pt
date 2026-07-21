@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "ezra 8:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 8,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:10:21.269741098Z",
+  "translation": "Dos filhos de Shecanias, dos filhos de Parosh, Zekharyá; e ⟨com⟩ ele foram inscritos por linhagem ⟨para⟩ os machos, cem e cinquenta.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "Dos filhos de"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Shecanias"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dos filhos de"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekharyá"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "e ⟨com⟩ ele"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "foram inscritos"
+    },
+    {
+      "surface": "לזכרים",
+      "gloss": "por linhagem"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cem"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e cinquenta"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zacarias",
@@ -13,64 +60,6 @@
       "hebrew": "זכריה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45152,
-    "prompt_tokens_details": {
-      "cached_tokens": 43863
-    },
-    "total_tokens": 45582
-  },
-  "translation": "Dos filhos de Shecanias, dos filhos de Parosh, Zekharyá; e ⟨com⟩ ele foram inscritos por linhagem ⟨para⟩ os machos, cem e cinquenta.",
-  "tokens": [
-    {
-      "surface": "מבני",
-      "english": "Dos filhos de"
-    },
-    {
-      "surface": "שכניה",
-      "english": "Shecanias"
-    },
-    {
-      "surface": "מבני",
-      "english": "dos filhos de"
-    },
-    {
-      "surface": "פרעש",
-      "english": "Parosh"
-    },
-    {
-      "surface": "זכריה",
-      "english": "Zekharyá"
-    },
-    {
-      "surface": "ועמו",
-      "english": "e ⟨com⟩ ele"
-    },
-    {
-      "surface": "התיחש",
-      "english": "foram inscritos"
-    },
-    {
-      "surface": "לזכרים",
-      "english": "por linhagem"
-    },
-    {
-      "surface": "מאה",
-      "english": "cem"
-    },
-    {
-      "surface": "וחמשים",
-      "english": "e cinquenta"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:10:21.269741098Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

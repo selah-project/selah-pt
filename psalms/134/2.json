@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 134:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 134,
-  "usage": {
-    "completion_tokens": 369,
-    "prompt_tokens": 70290,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70659
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:54.473167552Z",
   "translation": "Levantai ⟨as⟩ vossas mãos ⟨ao⟩ santuário, e abençoai ⟨את⟩ YHWH",
   "tokens": [
     {
       "surface": "שאו",
-      "english": "Levantai"
+      "gloss": "Levantai"
     },
     {
       "surface": "ידכם",
-      "english": "⟨as⟩ vossas mãos"
+      "gloss": "⟨as⟩ vossas mãos"
     },
     {
       "surface": "קדש",
-      "english": "⟨ao⟩ santuário"
+      "gloss": "⟨ao⟩ santuário"
     },
     {
       "surface": "וברכו",
-      "english": "e abençoai"
+      "gloss": "e abençoai"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:54.473167552Z",
-  "model": "glm-4.5"
+  ]
 }

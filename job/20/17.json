@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "job 20:17",
   "book": "job",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27353,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 27724
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:45:25.004317305Z",
   "translation": "Não ⟨há de⟩ ver ⟨as⟩ correntes ⟨dos⟩ rios ⟨dos⟩ córregos ⟨de⟩ mel ⟨e⟩ ⟨a⟩ nata",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "ירא",
-      "english": "⟨há de⟩ ver"
+      "gloss": "⟨há de⟩ ver"
     },
     {
       "surface": "בפלגות",
-      "english": "⟨as⟩ correntes"
+      "gloss": "⟨as⟩ correntes"
     },
     {
       "surface": "נהרי",
-      "english": "⟨dos⟩ rios"
+      "gloss": "⟨dos⟩ rios"
     },
     {
       "surface": "נחלי",
-      "english": "⟨dos⟩ córregos"
+      "gloss": "⟨dos⟩ córregos"
     },
     {
       "surface": "דבש",
-      "english": "⟨de⟩ mel"
+      "gloss": "⟨de⟩ mel"
     },
     {
       "surface": "וחמאה",
-      "english": "⟨e⟩ ⟨a⟩ nata"
+      "gloss": "⟨e⟩ ⟨a⟩ nata"
     }
-  ],
-  "timestamp": "2026-06-13T06:45:25.004317305Z",
-  "model": "glm-4.5"
+  ]
 }

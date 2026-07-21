@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 1:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18268,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18722
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:07:47.648081044Z",
   "translation": "E estes ⟨são⟩ ⟨os⟩ nomes ⟨dos⟩ homens que ⟨se⟩ manterão convosco: ⟨para⟩ Rúben, Elitsur, filho de Sedeiur.",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "E estes"
+      "gloss": "E estes"
     },
     {
       "surface": "שמות",
-      "english": "⟨são⟩ ⟨os⟩ nomes"
+      "gloss": "⟨são⟩ ⟨os⟩ nomes"
     },
     {
       "surface": "האנשים",
-      "english": "⟨dos⟩ homens"
+      "gloss": "⟨dos⟩ homens"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יעמדו",
-      "english": "⟨se⟩ manterão"
+      "gloss": "⟨se⟩ manterão"
     },
     {
       "surface": "אתכם",
-      "english": "convosco",
+      "gloss": "convosco",
       "marks": "vocês"
     },
     {
       "surface": "לראובן",
-      "english": "⟨para⟩ Rúben"
+      "gloss": "⟨para⟩ Rúben"
     },
     {
       "surface": "אליצור",
-      "english": "Elitsur"
+      "gloss": "Elitsur"
     },
     {
       "surface": "בן",
-      "english": "filho de"
+      "gloss": "filho de"
     },
     {
       "surface": "שדיאור",
-      "english": "Sedeiur"
+      "gloss": "Sedeiur"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:07:47.648081044Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,74 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ezra 10:5",
   "book": "ezra",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 643,
-    "prompt_tokens": 52936,
-    "prompt_tokens_details": {
-      "cached_tokens": 51200
-    },
-    "total_tokens": 53579
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:35:50.854988510Z",
   "translation": "Ezra levantou-se e fez jurar ⟨את⟩ os chefes dos Kohanim, ⟨e⟩ os Leviyim, e todo Yisrael para fazer conforme este davar; e eles juraram.",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "Ezra levantou-se"
+      "gloss": "Ezra levantou-se"
     },
     {
       "surface": "עזרא",
-      "english": "Ezra"
+      "gloss": "Ezra"
     },
     {
       "surface": "וישבע",
-      "english": "e fez jurar"
+      "gloss": "e fez jurar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os chefes dos Kohanim"
     },
     {
       "surface": "שרי",
-      "english": "os chefes"
+      "gloss": "os chefes"
     },
     {
       "surface": "הכהנים",
-      "english": "dos Kohanim"
+      "gloss": "dos Kohanim"
     },
     {
       "surface": "הלוים",
-      "english": "os Leviyim"
+      "gloss": "os Leviyim"
     },
     {
       "surface": "וכל",
-      "english": "e todo"
+      "gloss": "e todo"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "לעשות",
-      "english": "para fazer"
+      "gloss": "para fazer"
     },
     {
       "surface": "כדבר",
-      "english": "conforme este davar"
+      "gloss": "conforme este davar"
     },
     {
       "surface": "הזה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "וישבעו",
-      "english": "e eles juraram"
+      "gloss": "e eles juraram"
     }
-  ],
-  "timestamp": "2026-07-16T14:35:50.854988510Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "leviticus 26:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 26,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:05:40.240930165Z",
+  "translation": "E darei ⟨a⟩ Shalom na terra, e vós vos deitareis, e não haverá ⟨quem⟩ espante; e removerei as feras daninhas da terra, e ⟨a⟩ espada não passará pela vossa terra.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "E darei"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨a⟩ Shalom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra"
+    },
+    {
+      "surface": "ושכבתם",
+      "gloss": "e vós vos deitareis"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e não haverá"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "⟨quem⟩ espante"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "e removerei"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "as feras"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "daninhas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "e ⟨a⟩ espada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "passará"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "pela vossa terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,84 +80,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 617,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18208,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 18825
-  },
-  "translation": "E darei ⟨a⟩ Shalom na terra, e vós vos deitareis, e não haverá ⟨quem⟩ espante; e removerei as feras daninhas da terra, e ⟨a⟩ espada não passará pela vossa terra.",
-  "tokens": [
-    {
-      "surface": "ונתתי",
-      "english": "E darei"
-    },
-    {
-      "surface": "שלום",
-      "english": "⟨a⟩ Shalom"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra"
-    },
-    {
-      "surface": "ושכבתם",
-      "english": "e vós vos deitareis"
-    },
-    {
-      "surface": "ואין",
-      "english": "e não haverá"
-    },
-    {
-      "surface": "מחריד",
-      "english": "⟨quem⟩ espante"
-    },
-    {
-      "surface": "והשבתי",
-      "english": "e removerei"
-    },
-    {
-      "surface": "חיה",
-      "english": "as feras"
-    },
-    {
-      "surface": "רעה",
-      "english": "daninhas"
-    },
-    {
-      "surface": "מן",
-      "english": "da"
-    },
-    {
-      "surface": "הארץ",
-      "english": "terra"
-    },
-    {
-      "surface": "וחרב",
-      "english": "e ⟨a⟩ espada"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "תעבר",
-      "english": "passará"
-    },
-    {
-      "surface": "בארצכם",
-      "english": "pela vossa terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:05:40.240930165Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

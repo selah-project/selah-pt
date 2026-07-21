@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "genesis 4:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21500,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22000
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:45:48.506190501Z",
   "translation": "e o nome ⟨de⟩ seu irmão ⟨foi⟩ Jubal: ele ⟨foi⟩ pai ⟨de⟩ todo ⟨aquele que⟩ toca harpa e flauta.",
   "tokens": [
     {
       "surface": "ושם",
-      "english": "E o nome"
+      "gloss": "E o nome"
     },
     {
       "surface": "אחיו",
-      "english": "⟨de⟩ seu irmão"
+      "gloss": "⟨de⟩ seu irmão"
     },
     {
       "surface": "יובל",
-      "english": "Jubal"
+      "gloss": "Jubal"
     },
     {
       "surface": "הוא",
-      "english": "ele"
+      "gloss": "ele"
     },
     {
       "surface": "היה",
-      "english": "⟨foi⟩"
+      "gloss": "⟨foi⟩"
     },
     {
       "surface": "אבי",
-      "english": "pai"
+      "gloss": "pai"
     },
     {
       "surface": "כל",
-      "english": "⟨de⟩ todo"
+      "gloss": "⟨de⟩ todo"
     },
     {
       "surface": "תפש",
-      "english": "⟨aquele que⟩ toca"
+      "gloss": "⟨aquele que⟩ toca"
     },
     {
       "surface": "כנור",
-      "english": "harp"
+      "gloss": "harp"
     },
     {
       "surface": "ועוגב",
-      "english": "e flauta"
+      "gloss": "e flauta"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:45:48.506190501Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

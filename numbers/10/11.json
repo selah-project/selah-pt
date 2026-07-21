@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "numbers 10:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 10,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:19:49.353964600Z",
+  "translation": "E aconteceu no ano ⟨o⟩ segundo, no mês ⟨o⟩ segundo, aos vinte ⟨do⟩ mês, ⟨o⟩ nuve ⟨foi⟩ retirado de sobre ⟨o⟩ Mishkán ⟨da⟩ testemunha",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "no ano ⟨o⟩"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "segundo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "no mês ⟨o⟩"
+    },
+    {
+      "surface": "השני",
+      "gloss": "segundo"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "aos vinte ⟨do⟩"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mês"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "⟨o⟩ nuve ⟨foi⟩ retirado"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nuve"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de sobre"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "⟨o⟩ Mishkán"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "⟨da⟩ testemunha"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "tabernáculo",
@@ -13,72 +68,6 @@
       "hebrew": "משכן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18429,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 18873
-  },
-  "translation": "E aconteceu no ano ⟨o⟩ segundo, no mês ⟨o⟩ segundo, aos vinte ⟨do⟩ mês, ⟨o⟩ nuve ⟨foi⟩ retirado de sobre ⟨o⟩ Mishkán ⟨da⟩ testemunha",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "בשנה",
-      "english": "no ano ⟨o⟩"
-    },
-    {
-      "surface": "השנית",
-      "english": "segundo"
-    },
-    {
-      "surface": "בחדש",
-      "english": "no mês ⟨o⟩"
-    },
-    {
-      "surface": "השני",
-      "english": "segundo"
-    },
-    {
-      "surface": "בעשרים",
-      "english": "aos vinte ⟨do⟩"
-    },
-    {
-      "surface": "בחדש",
-      "english": "mês"
-    },
-    {
-      "surface": "נעלה",
-      "english": "⟨o⟩ nuve ⟨foi⟩ retirado"
-    },
-    {
-      "surface": "הענן",
-      "english": "nuve"
-    },
-    {
-      "surface": "מעל",
-      "english": "de sobre"
-    },
-    {
-      "surface": "משכן",
-      "english": "⟨o⟩ Mishkán"
-    },
-    {
-      "surface": "העדת",
-      "english": "⟨da⟩ testemunha"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:19:49.353964600Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

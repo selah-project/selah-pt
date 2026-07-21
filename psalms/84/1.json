@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 84:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 84,
-  "usage": {
-    "completion_tokens": 360,
-    "prompt_tokens": 70175,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70535
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:36.780023896Z",
   "translation": "Ao maestro, sobre o Guitite; aos filhos de Korach; um mizmor.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Ao maestro"
+      "gloss": "Ao maestro"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הגתית",
-      "english": "o Guitite"
+      "gloss": "o Guitite"
     },
     {
       "surface": "לבני",
-      "english": "aos filhos de"
+      "gloss": "aos filhos de"
     },
     {
       "surface": "קרח",
-      "english": "Korach"
+      "gloss": "Korach"
     },
     {
       "surface": "מזמור",
-      "english": "um mizmor"
+      "gloss": "um mizmor"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:36.780023896Z",
-  "model": "glm-4.5"
+  ]
 }

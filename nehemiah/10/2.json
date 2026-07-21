@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "nehemiah 10:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 10,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:24:59.571859948Z",
+  "translation": "e sobre ⟨os⟩ selados Nejemyá ⟨o⟩ governador filho de Hacalias e Zedequias",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E sobre"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "⟨os⟩ selados",
+      "marks": "os selados"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nejemyá"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "⟨o⟩ governador",
+      "marks": "governador"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "de Hacalias"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "e Zedequias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Neemias",
@@ -13,54 +50,6 @@
       "hebrew": "נחמיה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 257,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 49423,
-    "prompt_tokens_details": {
-      "cached_tokens": 48509
-    },
-    "total_tokens": 49680
-  },
-  "translation": "e sobre ⟨os⟩ selados Nejemyá ⟨o⟩ governador filho de Hacalias e Zedequias",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "E sobre"
-    },
-    {
-      "surface": "החתומים",
-      "english": "⟨os⟩ selados",
-      "marks": "os selados"
-    },
-    {
-      "surface": "נחמיה",
-      "english": "Nejemyá"
-    },
-    {
-      "surface": "התרשתא",
-      "english": "⟨o⟩ governador",
-      "marks": "governador"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "חכליה",
-      "english": "de Hacalias"
-    },
-    {
-      "surface": "וצדקיה",
-      "english": "e Zedequias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:24:59.571859948Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

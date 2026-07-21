@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 50:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62787,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63232
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:11:48.326179311Z",
   "translation": "e invoca-me ⟨no⟩ dia da aflição ⟨e⟩ ⟨eu⟩ te livrarei e ⟨tu⟩ me glorificarás",
   "tokens": [
     {
       "surface": "וקראני",
-      "english": "E invoca-me"
+      "gloss": "E invoca-me"
     },
     {
       "surface": "ביום",
-      "english": "⟨no⟩ dia"
+      "gloss": "⟨no⟩ dia"
     },
     {
       "surface": "צרה",
-      "english": "da aflição"
+      "gloss": "da aflição"
     },
     {
       "surface": "אחלצך",
-      "english": "⟨e⟩ ⟨eu⟩ te livrarei"
+      "gloss": "⟨e⟩ ⟨eu⟩ te livrarei"
     },
     {
       "surface": "ותכבדני",
-      "english": "e ⟨tu⟩ me glorificarás"
+      "gloss": "e ⟨tu⟩ me glorificarás"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:11:48.326179311Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

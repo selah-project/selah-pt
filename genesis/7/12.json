@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 7:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21332,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21741
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:48:02.595572984Z",
   "translation": "E ⟨foi⟩ ⟨o⟩ aguaceiro sobre ⟨a⟩ terra quarenta dias e quarenta noites",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E ⟨foi⟩",
+      "gloss": "E ⟨foi⟩",
       "marks": "o aguaceiro"
     },
     {
       "surface": "הגשם",
-      "english": "⟨o⟩ aguaceiro"
+      "gloss": "⟨o⟩ aguaceiro"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "ארבעים",
-      "english": "quarenta"
+      "gloss": "quarenta"
     },
     {
       "surface": "יום",
-      "english": "dias"
+      "gloss": "dias"
     },
     {
       "surface": "וארבעים",
-      "english": "e quarenta"
+      "gloss": "e quarenta"
     },
     {
       "surface": "לילה",
-      "english": "noites"
+      "gloss": "noites"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:48:02.595572984Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

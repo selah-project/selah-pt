@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 136:15",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 489,
-    "prompt_tokens": 70316,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70805
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:21.641273351Z",
   "translation": "E derrubou Paroh e o seu exército no Mar dos Juncos, pois para sempre ⟨é⟩ o seu Jésed.",
   "tokens": [
     {
       "surface": "ונער",
-      "english": "E derrubou"
+      "gloss": "E derrubou"
     },
     {
       "surface": "פרעה",
-      "english": "Paroh"
+      "gloss": "Paroh"
     },
     {
       "surface": "וחילו",
-      "english": "e o seu exército"
+      "gloss": "e o seu exército"
     },
     {
       "surface": "בים",
-      "english": "no Mar"
+      "gloss": "no Mar"
     },
     {
       "surface": "סוף",
-      "english": "dos Juncos"
+      "gloss": "dos Juncos"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "לעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "חסדו",
-      "english": "o seu Jésed"
+      "gloss": "o seu Jésed"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:21.641273351Z",
-  "model": "glm-4.5"
+  ]
 }

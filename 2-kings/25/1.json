@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-kings 25:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 25,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:12:28.895150564Z",
+  "translation": "E aconteceu no nono ano do ⟨seu⟩ reinado, no décimo mês, no décimo dia do mês, que Nevujadnetzar, rei da Bavel, veio, ele e todo ⟨seu⟩ exército, contra Yerushalayim, e acamparam contra ⟨ela⟩, e construíram um baluarte contra ⟨ela⟩ ao redor.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "no"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "nono"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "do ⟨seu⟩ reinado"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "no"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "décimo"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "no décimo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "dia do mês"
+    },
+    {
+      "surface": "בא",
+      "gloss": "veio"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevujadnetzar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "da Bavel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "⟨seu⟩ exército"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "e acamparam"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contra ⟨ela⟩"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "e construíram"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contra ⟨ela⟩"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "um baluarte"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ao redor"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nabucodonosor",
@@ -27,116 +126,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 855,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18259,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 19114
-  },
-  "translation": "E aconteceu no nono ano do ⟨seu⟩ reinado, no décimo mês, no décimo dia do mês, que Nevujadnetzar, rei da Bavel, veio, ele e todo ⟨seu⟩ exército, contra Yerushalayim, e acamparam contra ⟨ela⟩, e construíram um baluarte contra ⟨ela⟩ ao redor.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "בשנת",
-      "english": "no"
-    },
-    {
-      "surface": "התשיעית",
-      "english": "nono"
-    },
-    {
-      "surface": "למלכו",
-      "english": "do ⟨seu⟩ reinado"
-    },
-    {
-      "surface": "בחדש",
-      "english": "no"
-    },
-    {
-      "surface": "העשירי",
-      "english": "décimo"
-    },
-    {
-      "surface": "בעשור",
-      "english": "no décimo"
-    },
-    {
-      "surface": "לחדש",
-      "english": "dia do mês"
-    },
-    {
-      "surface": "בא",
-      "english": "veio"
-    },
-    {
-      "surface": "נבכדנאצר",
-      "english": "Nevujadnetzar"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "da Bavel"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "חילו",
-      "english": "⟨seu⟩ exército"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "ויחן",
-      "english": "e acamparam"
-    },
-    {
-      "surface": "עליה",
-      "english": "contra ⟨ela⟩"
-    },
-    {
-      "surface": "ויבנו",
-      "english": "e construíram"
-    },
-    {
-      "surface": "עליה",
-      "english": "contra ⟨ela⟩"
-    },
-    {
-      "surface": "דיק",
-      "english": "um baluarte"
-    },
-    {
-      "surface": "סביב",
-      "english": "ao redor"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:12:28.895150564Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

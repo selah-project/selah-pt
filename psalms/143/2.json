@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 143:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 457,
-    "prompt_tokens": 70749,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71206
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:45.571688196Z",
   "translation": "E não entres em juízo com ⟨את⟩ o teu servo, pois nenhum vivo será justificado diante de ti.",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "E não"
+      "gloss": "E não"
     },
     {
       "surface": "תבוא",
-      "english": "entres"
+      "gloss": "entres"
     },
     {
       "surface": "במשפט",
-      "english": "em juízo"
+      "gloss": "em juízo"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o teu servo"
     },
     {
       "surface": "עבדך",
-      "english": "o teu servo"
+      "gloss": "o teu servo"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "לא",
-      "english": "nenhum"
+      "gloss": "nenhum"
     },
     {
       "surface": "יצדק",
-      "english": "será justificado"
+      "gloss": "será justificado"
     },
     {
       "surface": "לפניך",
-      "english": "diante de ti"
+      "gloss": "diante de ti"
     },
     {
       "surface": "כל",
-      "english": "nenhum"
+      "gloss": "nenhum"
     },
     {
       "surface": "חי",
-      "english": "vivo"
+      "gloss": "vivo"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:45.571688196Z",
-  "model": "glm-4.5"
+  ]
 }

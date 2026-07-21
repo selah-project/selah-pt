@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-kings 1:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 1,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:09:03.201756478Z",
+  "translation": "E o rei Davidd ⟨era⟩ velho, entrando em dias, e o cobriram com roupas, e ele ⟨ficava⟩ sem calor ⟨para ele⟩",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "E o rei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "velho"
+    },
+    {
+      "surface": "בא",
+      "gloss": "entrando"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "em dias"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "e o cobriram"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "com roupas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "⟨ficava⟩ sem calor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para ele⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,64 +60,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62491,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62926
-  },
-  "translation": "E o rei Davidd ⟨era⟩ velho, entrando em dias, e o cobriram com roupas, e ele ⟨ficava⟩ sem calor ⟨para ele⟩",
-  "tokens": [
-    {
-      "surface": "והמלך",
-      "english": "E o rei"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "זקן",
-      "english": "velho"
-    },
-    {
-      "surface": "בא",
-      "english": "entrando"
-    },
-    {
-      "surface": "בימים",
-      "english": "em dias"
-    },
-    {
-      "surface": "ויכסהו",
-      "english": "e o cobriram"
-    },
-    {
-      "surface": "בבגדים",
-      "english": "com roupas"
-    },
-    {
-      "surface": "ולא",
-      "english": "e"
-    },
-    {
-      "surface": "יחם",
-      "english": "⟨ficava⟩ sem calor"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para ele⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:09:03.201756478Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

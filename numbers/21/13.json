@@ -1,9 +1,89 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "numbers 21:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 21,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:32:40.259111145Z",
+  "translation": "De lá eles viajaram e acamparam além do ⟨את⟩ Arnon, que ⟨está⟩ no deserto, ⟨que⟩ sai da fronteira ⟨dos⟩ amorreus, porque o Arnon ⟨é⟩ a fronteira de Moav, entre Moav e ⟨os⟩ amorreus",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "De lá"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "eles viajaram"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e acamparam"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "além do"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon",
+      "marks": "Arnon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨está⟩ no deserto"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "⟨que⟩ sai"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "da fronteira"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "⟨dos⟩ amorreus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "o Arnon"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨é⟩ a fronteira"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "⟨os⟩ amorreus"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -20,97 +100,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 750,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19013,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19763
-  },
-  "translation": "De lá eles viajaram e acamparam além do ⟨את⟩ Arnon, que ⟨está⟩ no deserto, ⟨que⟩ sai da fronteira ⟨dos⟩ amorreus, porque o Arnon ⟨é⟩ a fronteira de Moav, entre Moav e ⟨os⟩ amorreus",
-  "tokens": [
-    {
-      "surface": "משם",
-      "english": "De lá"
-    },
-    {
-      "surface": "נסעו",
-      "english": "eles viajaram"
-    },
-    {
-      "surface": "ויחנו",
-      "english": "e acamparam"
-    },
-    {
-      "surface": "מעבר",
-      "english": "além do"
-    },
-    {
-      "surface": "ארנון",
-      "english": "Arnon",
-      "marks": "Arnon"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "במדבר",
-      "english": "⟨está⟩ no deserto"
-    },
-    {
-      "surface": "היצא",
-      "english": "⟨que⟩ sai"
-    },
-    {
-      "surface": "מגבול",
-      "english": "da fronteira"
-    },
-    {
-      "surface": "האמרי",
-      "english": "⟨dos⟩ amorreus"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "ארנון",
-      "english": "o Arnon"
-    },
-    {
-      "surface": "גבול",
-      "english": "⟨é⟩ a fronteira"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "בין",
-      "english": "entre"
-    },
-    {
-      "surface": "מואב",
-      "english": "Moav"
-    },
-    {
-      "surface": "ובין",
-      "english": "e"
-    },
-    {
-      "surface": "האמרי",
-      "english": "⟨os⟩ amorreus"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:32:40.259111145Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

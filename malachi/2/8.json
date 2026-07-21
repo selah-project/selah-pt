@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "malachi 2:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "malachi",
+  "chapter": 2,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:38:11.793371303Z",
+  "translation": "Mas vós ⟨vos⟩ desviastes ⟨do⟩ caminho, ⟨e⟩ fizestes tropeçar ⟨a⟩ muitos na Torá; violastes ⟨o⟩ Brit de Levi, diz YHWH Tzevaot.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Mas vós"
+    },
+    {
+      "surface": "סרתם",
+      "gloss": "⟨vos⟩ desviastes"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "caminho"
+    },
+    {
+      "surface": "הכשלתם",
+      "gloss": "⟨e⟩ fizestes tropeçar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "⟨a⟩ muitos"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "na Torá"
+    },
+    {
+      "surface": "שחתם",
+      "gloss": "violastes"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨o⟩ Brit"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "de Levi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,76 +72,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 751,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17160,
-    "prompt_tokens_details": {
-      "cached_tokens": 15589
-    },
-    "total_tokens": 17911
-  },
-  "translation": "Mas vós ⟨vos⟩ desviastes ⟨do⟩ caminho, ⟨e⟩ fizestes tropeçar ⟨a⟩ muitos na Torá; violastes ⟨o⟩ Brit de Levi, diz YHWH Tzevaot.",
-  "tokens": [
-    {
-      "surface": "ואתם",
-      "english": "Mas vós"
-    },
-    {
-      "surface": "סרתם",
-      "english": "⟨vos⟩ desviastes"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨do⟩"
-    },
-    {
-      "surface": "הדרך",
-      "english": "caminho"
-    },
-    {
-      "surface": "הכשלתם",
-      "english": "⟨e⟩ fizestes tropeçar"
-    },
-    {
-      "surface": "רבים",
-      "english": "⟨a⟩ muitos"
-    },
-    {
-      "surface": "בתורה",
-      "english": "na Torá"
-    },
-    {
-      "surface": "שחתם",
-      "english": "violastes"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨o⟩ Brit"
-    },
-    {
-      "surface": "הלוי",
-      "english": "de Levi"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "צבאות",
-      "english": "Tzevaot"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:38:11.793371303Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

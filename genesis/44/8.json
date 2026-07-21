@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "genesis 44:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 44,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:28:09.831375480Z",
+  "translation": "Eis a prata que achamos ⟨na⟩ boca ⟨de⟩ nossos sacos, nós a trouxemos de volta a ti ⟨da⟩ terra de Kenaan: e como roubaríamos ⟨da⟩ casa ⟨de⟩ teu senhor prata ou ouro?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Eis"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "a prata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "achamos"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "⟨na⟩ boca ⟨de⟩"
+    },
+    {
+      "surface": "אמתחתינו",
+      "gloss": "nossos sacos"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "nós a trouxemos de volta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨da⟩ terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Kenaan"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "e como"
+    },
+    {
+      "surface": "נגנב",
+      "gloss": "roubaríamos"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨da⟩ casa ⟨de⟩"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "teu senhor"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "prata"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ouro"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Canaã",
@@ -13,92 +88,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 44,
-  "usage": {
-    "completion_tokens": 718,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22251,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22969
-  },
-  "translation": "Eis a prata que achamos ⟨na⟩ boca ⟨de⟩ nossos sacos, nós a trouxemos de volta a ti ⟨da⟩ terra de Kenaan: e como roubaríamos ⟨da⟩ casa ⟨de⟩ teu senhor prata ou ouro?",
-  "tokens": [
-    {
-      "surface": "הן",
-      "english": "Eis"
-    },
-    {
-      "surface": "כסף",
-      "english": "a prata"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "מצאנו",
-      "english": "achamos"
-    },
-    {
-      "surface": "בפי",
-      "english": "⟨na⟩ boca ⟨de⟩"
-    },
-    {
-      "surface": "אמתחתינו",
-      "english": "nossos sacos"
-    },
-    {
-      "surface": "השיבנו",
-      "english": "nós a trouxemos de volta"
-    },
-    {
-      "surface": "אליך",
-      "english": "a ti"
-    },
-    {
-      "surface": "מארץ",
-      "english": "⟨da⟩ terra"
-    },
-    {
-      "surface": "כנען",
-      "english": "de Kenaan"
-    },
-    {
-      "surface": "ואיך",
-      "english": "e como"
-    },
-    {
-      "surface": "נגנב",
-      "english": "roubaríamos"
-    },
-    {
-      "surface": "מבית",
-      "english": "⟨da⟩ casa ⟨de⟩"
-    },
-    {
-      "surface": "אדניך",
-      "english": "teu senhor"
-    },
-    {
-      "surface": "כסף",
-      "english": "prata"
-    },
-    {
-      "surface": "או",
-      "english": "ou"
-    },
-    {
-      "surface": "זהב",
-      "english": "ouro"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:28:09.831375480Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

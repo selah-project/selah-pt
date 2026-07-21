@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "isaiah 54:15",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 456,
-    "prompt_tokens": 26795,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 27251
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:20:01.125572361Z",
   "translation": "Eis, ⟨ele⟩ diligentemente se ajunta sem o meu desejo; quem se ajuntou contra ti, por tua causa cairá!",
   "tokens": [
     {
       "surface": "הן",
-      "english": "Eis"
+      "gloss": "Eis"
     },
     {
       "surface": "גור",
-      "english": "⟨ele⟩ diligentemente se ajunta"
+      "gloss": "⟨ele⟩ diligentemente se ajunta"
     },
     {
       "surface": "יגור",
-      "english": "se ajunta"
+      "gloss": "se ajunta"
     },
     {
       "surface": "אפס",
-      "english": "sem o meu desejo"
+      "gloss": "sem o meu desejo"
     },
     {
       "surface": "מאותי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "quem"
     },
     {
       "surface": "מי",
-      "english": "quem"
+      "gloss": "quem"
     },
     {
       "surface": "גר",
-      "english": "se ajuntou"
+      "gloss": "se ajuntou"
     },
     {
       "surface": "אתך",
-      "english": "contra ti"
+      "gloss": "contra ti"
     },
     {
       "surface": "עליך",
-      "english": "por tua causa"
+      "gloss": "por tua causa"
     },
     {
       "surface": "יפול",
-      "english": "cairá"
+      "gloss": "cairá"
     }
-  ],
-  "timestamp": "2026-07-16T15:20:01.125572361Z",
-  "model": "glm-4.5"
+  ]
 }

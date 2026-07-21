@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 108:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62709,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63251
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:53:05.791995767Z",
   "translation": "Desperta ⟨o⟩ saltério ⟨e⟩ ⟨a⟩ harpa; eu despertarei ⟨a⟩ alva.",
   "tokens": [
     {
       "surface": "עורה",
-      "english": "Desperta",
+      "gloss": "Desperta",
       "marks": "⟨o⟩ saltério ⟨e⟩ ⟨a⟩ harpa"
     },
     {
       "surface": "הנבל",
-      "english": "saltério"
+      "gloss": "saltério"
     },
     {
       "surface": "וכנור",
-      "english": "⟨e⟩ ⟨a⟩ harpa"
+      "gloss": "⟨e⟩ ⟨a⟩ harpa"
     },
     {
       "surface": "אעירה",
-      "english": "eu despertarei"
+      "gloss": "eu despertarei"
     },
     {
       "surface": "שחר",
-      "english": "⟨a⟩ alva"
+      "gloss": "⟨a⟩ alva"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:53:05.791995767Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

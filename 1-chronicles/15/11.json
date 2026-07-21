@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-chronicles 15:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 15,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:49:32.001829469Z",
+  "translation": "E Davidd chamou a Tsadok e a Eviatar ⟨os⟩ cohanim, e aos leviim: Uriel, Assaiá, e Yoel, Shemaiá, e Eliel, e Aminadav.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "E David chamou"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "a Tsadok"
+    },
+    {
+      "surface": "ולאביתר",
+      "gloss": "e a Eviatar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨os⟩ cohanim",
+      "marks": "a Tsadok e a Eviatar"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "e aos leviam"
+    },
+    {
+      "surface": "לאוריאל",
+      "gloss": "Uriel"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Assaiá"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "e Yoel"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemaiá"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "e Eliel"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "e Aminadav"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,73 +69,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57646,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58132
-  },
-  "translation": "E Davidd chamou a Tsadok e a Eviatar ⟨os⟩ cohanim, e aos leviim: Uriel, Assaiá, e Yoel, Shemaiá, e Eliel, e Aminadav.",
-  "tokens": [
-    {
-      "surface": "ויקרא",
-      "english": "E David chamou"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לצדוק",
-      "english": "a Tsadok"
-    },
-    {
-      "surface": "ולאביתר",
-      "english": "e a Eviatar"
-    },
-    {
-      "surface": "הכהנים",
-      "english": "⟨os⟩ cohanim",
-      "marks": "a Tsadok e a Eviatar"
-    },
-    {
-      "surface": "וללוים",
-      "english": "e aos leviam"
-    },
-    {
-      "surface": "לאוריאל",
-      "english": "Uriel"
-    },
-    {
-      "surface": "עשיה",
-      "english": "Assaiá"
-    },
-    {
-      "surface": "ויואל",
-      "english": "e Yoel"
-    },
-    {
-      "surface": "שמעיה",
-      "english": "Shemaiá"
-    },
-    {
-      "surface": "ואליאל",
-      "english": "e Eliel"
-    },
-    {
-      "surface": "ועמינדב",
-      "english": "e Aminadav"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:49:32.001829469Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

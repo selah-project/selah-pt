@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-kings 18:3",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24278,
-    "prompt_tokens_details": {
-      "cached_tokens": 23106
-    },
-    "total_tokens": 24623
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:07:06.837774992Z",
   "translation": "E ele fez ⟨o⟩ direito ⟨nos⟩ olhos de YHWH, ⟨como⟩ tudo o qual fez David, seu pai",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "E ele fez"
+      "gloss": "E ele fez"
     },
     {
       "surface": "הישר",
-      "english": "⟨o⟩ direito"
+      "gloss": "⟨o⟩ direito"
     },
     {
       "surface": "בעיני",
-      "english": "⟨nos⟩ olhos"
+      "gloss": "⟨nos⟩ olhos"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ככל",
-      "english": "⟨como⟩ tudo"
+      "gloss": "⟨como⟩ tudo"
     },
     {
       "surface": "אשר",
-      "english": "o qual"
+      "gloss": "o qual"
     },
     {
       "surface": "עשה",
-      "english": "fez"
+      "gloss": "fez"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "אביו",
-      "english": "seu pai"
+      "gloss": "seu pai"
     }
-  ],
-  "timestamp": "2026-06-13T06:07:06.837774992Z",
-  "model": "glm-4.5"
+  ]
 }

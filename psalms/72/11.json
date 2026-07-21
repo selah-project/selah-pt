@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 72:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62881,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63375
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:26:59.701340493Z",
   "translation": "E todos ⟨os⟩ reis se prostrarão diante ⟨dele⟩; todos ⟨os⟩ povos ⟨o⟩ servirão.",
   "tokens": [
     {
       "surface": "וישתחוו",
-      "english": "E todos ⟨os⟩ reis se prostrarão"
+      "gloss": "E todos ⟨os⟩ reis se prostrarão"
     },
     {
       "surface": "לו",
-      "english": "diante ⟨dele⟩"
+      "gloss": "diante ⟨dele⟩"
     },
     {
       "surface": "כל",
-      "english": "todos ⟨os⟩",
+      "gloss": "todos ⟨os⟩",
       "marks": "reis"
     },
     {
       "surface": "מלכים",
-      "english": "reis"
+      "gloss": "reis"
     },
     {
       "surface": "כל",
-      "english": "todos ⟨os⟩",
+      "gloss": "todos ⟨os⟩",
       "marks": "povos"
     },
     {
       "surface": "גוים",
-      "english": "povos"
+      "gloss": "povos"
     },
     {
       "surface": "יעבדוהו",
-      "english": "⟨o⟩ servirão"
+      "gloss": "⟨o⟩ servirão"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:26:59.701340493Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "2-samuel 6:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 6,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:48:34.207235048Z",
+  "translation": "E ele distribuiu a todo ⟨o⟩ povo, a toda ⟨a⟩ multidão de Yisrael, de homem até mulher, a cada um ⟨um⟩ bolo ⟨de⟩ pão, ⟨um⟩ bolinho ⟨de⟩ uvas passas, e ⟨um⟩ bolo ⟨de⟩ tâmaras, e todo ⟨o⟩ povo se foi, cada um para ⟨sua⟩ casa.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "E ele distribuiu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨o⟩ povo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a toda"
+    },
+    {
+      "surface": "המון",
+      "gloss": "⟨a⟩ multidão"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "de homem"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "até"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mulher"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "a cada um"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "⟨um⟩ bolo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨de⟩ pão"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "⟨um⟩ bolinho ⟨de⟩ uvas passas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "e ⟨um⟩ bolo ⟨de⟩ tâmaras"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "povo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "se foi"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "cada um para ⟨sua⟩ casa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,112 +108,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 839,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18481,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 19320
-  },
-  "translation": "E ele distribuiu a todo ⟨o⟩ povo, a toda ⟨a⟩ multidão de Yisrael, de homem até mulher, a cada um ⟨um⟩ bolo ⟨de⟩ pão, ⟨um⟩ bolinho ⟨de⟩ uvas passas, e ⟨um⟩ bolo ⟨de⟩ tâmaras, e todo ⟨o⟩ povo se foi, cada um para ⟨sua⟩ casa.",
-  "tokens": [
-    {
-      "surface": "ויחלק",
-      "english": "E ele distribuiu"
-    },
-    {
-      "surface": "לכל",
-      "english": "a todo"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨o⟩ povo"
-    },
-    {
-      "surface": "לכל",
-      "english": "a toda"
-    },
-    {
-      "surface": "המון",
-      "english": "⟨a⟩ multidão"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "למאיש",
-      "english": "de homem"
-    },
-    {
-      "surface": "ועד",
-      "english": "até"
-    },
-    {
-      "surface": "אשה",
-      "english": "mulher"
-    },
-    {
-      "surface": "לאיש",
-      "english": "a cada um"
-    },
-    {
-      "surface": "חלת",
-      "english": "⟨um⟩ bolo"
-    },
-    {
-      "surface": "לחם",
-      "english": "⟨de⟩ pão"
-    },
-    {
-      "surface": "אחת",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "ואשפר",
-      "english": "⟨um⟩ bolinho ⟨de⟩ uvas passas"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "ואשישה",
-      "english": "e ⟨um⟩ bolo ⟨de⟩ tâmaras"
-    },
-    {
-      "surface": "אחת",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "וילך",
-      "english": "e todo"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "העם",
-      "english": "povo"
-    },
-    {
-      "surface": "איש",
-      "english": "se foi"
-    },
-    {
-      "surface": "לביתו",
-      "english": "cada um para ⟨sua⟩ casa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:48:34.207235048Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

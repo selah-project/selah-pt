@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 124:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 124,
-  "usage": {
-    "completion_tokens": 468,
-    "prompt_tokens": 70282,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70750
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:59.035578737Z",
   "translation": "Então as águas ⟨teriam⟩ nos inundado, a torrente passara sobre ⟨a⟩ nossa alma.",
   "tokens": [
     {
       "surface": "אזי",
-      "english": "Então"
+      "gloss": "Então"
     },
     {
       "surface": "המים",
-      "english": "as águas"
+      "gloss": "as águas"
     },
     {
       "surface": "שטפונו",
-      "english": "⟨teriam⟩ nos inundado"
+      "gloss": "⟨teriam⟩ nos inundado"
     },
     {
       "surface": "נחלה",
-      "english": "a torrente"
+      "gloss": "a torrente"
     },
     {
       "surface": "עבר",
-      "english": "passara"
+      "gloss": "passara"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "נפשנו",
-      "english": "⟨a⟩ nossa alma"
+      "gloss": "⟨a⟩ nossa alma"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:59.035578737Z",
-  "model": "glm-4.5"
+  ]
 }

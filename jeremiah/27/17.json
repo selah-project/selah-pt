@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "jeremiah 27:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 27,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:30:22.982340654Z",
+  "translation": "Não ouçais ⟨a⟩ eles; servi ⟨ao⟩ rei de Bavel e vivei; por que esta cidade se tornará ⟨uma⟩ desolação?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Não"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ouçais"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "⟨a⟩ eles"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "servi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ao⟩",
+      "marks": "rei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "e vivei"
+    },
+    {
+      "surface": "למה",
+      "gloss": "por que"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "se tornará"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "esta cidade"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "⟨uma⟩"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "desolação"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,77 +73,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18012,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18526
-  },
-  "translation": "Não ouçais ⟨a⟩ eles; servi ⟨ao⟩ rei de Bavel e vivei; por que esta cidade se tornará ⟨uma⟩ desolação?",
-  "tokens": [
-    {
-      "surface": "אל",
-      "english": "Não"
-    },
-    {
-      "surface": "תשמעו",
-      "english": "ouçais"
-    },
-    {
-      "surface": "אליהם",
-      "english": "⟨a⟩ eles"
-    },
-    {
-      "surface": "עבדו",
-      "english": "servi"
-    },
-    {
-      "surface": "את",
-      "english": "⟨ao⟩",
-      "marks": "rei"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "וחיו",
-      "english": "e vivei"
-    },
-    {
-      "surface": "למה",
-      "english": "por que"
-    },
-    {
-      "surface": "תהיה",
-      "english": "se tornará"
-    },
-    {
-      "surface": "העיר",
-      "english": "esta cidade"
-    },
-    {
-      "surface": "הזאת",
-      "english": "⟨uma⟩"
-    },
-    {
-      "surface": "חרבה",
-      "english": "desolação"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:30:22.982340654Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 136:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 136,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:09:40.034118221Z",
+  "translation": "Ao que feriu ⟨o⟩ Mitzráyim ⟨com⟩ seus primogênitos: pois para ⟨o⟩ sempre ⟨é⟩ ⟨o⟩ seu ḥésed.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Ao que feriu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨o⟩ Mitzráyim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "⟨com⟩ seus primogênitos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "para ⟨o⟩ sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨é⟩ ⟨o⟩ seu ḥésed"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,48 +44,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 136,
-  "usage": {
-    "completion_tokens": 592,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62801,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63393
-  },
-  "translation": "Ao que feriu ⟨o⟩ Mitzráyim ⟨com⟩ seus primogênitos: pois para ⟨o⟩ sempre ⟨é⟩ ⟨o⟩ seu ḥésed.",
-  "tokens": [
-    {
-      "surface": "למכה",
-      "english": "Ao que feriu"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨o⟩ Mitzráyim"
-    },
-    {
-      "surface": "בבכוריהם",
-      "english": "⟨com⟩ seus primogênitos"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "לעולם",
-      "english": "para ⟨o⟩ sempre"
-    },
-    {
-      "surface": "חסדו",
-      "english": "⟨é⟩ ⟨o⟩ seu ḥésed"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:09:40.034118221Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

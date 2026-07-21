@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "exodus 23:32",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 332,
-    "prompt_tokens": 24045,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24377
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:54:43.182569009Z",
   "translation": "Não farás ⟨um⟩ pacto com ⟨eles⟩ e ⟨com os⟩ deuses deles",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תכרת",
-      "english": "farás"
+      "gloss": "farás"
     },
     {
       "surface": "להם",
-      "english": "com ⟨eles⟩"
+      "gloss": "com ⟨eles⟩"
     },
     {
       "surface": "ולאלהיהם",
-      "english": "e ⟨com os⟩ deuses deles"
+      "gloss": "e ⟨com os⟩ deuses deles"
     },
     {
       "surface": "ברית",
-      "english": "⟨um⟩ pacto"
+      "gloss": "⟨um⟩ pacto"
     }
-  ],
-  "timestamp": "2026-07-16T13:54:43.182569009Z",
-  "model": "glm-4.5"
+  ]
 }

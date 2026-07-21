@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 104:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62771,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63220
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:48:02.916207844Z",
   "translation": "Os leões jovens rugem ⟨por⟩ ⟨a⟩ presa, e buscam seu alimento de ⟨o⟩ Elohim.",
   "tokens": [
     {
       "surface": "הכפירים",
-      "english": "Os leões jovens"
+      "gloss": "Os leões jovens"
     },
     {
       "surface": "שאגים",
-      "english": "rugem"
+      "gloss": "rugem"
     },
     {
       "surface": "לטרף",
-      "english": "⟨por⟩ ⟨a⟩ presa",
+      "gloss": "⟨por⟩ ⟨a⟩ presa",
       "marks": "presa"
     },
     {
       "surface": "ולבקש",
-      "english": "e buscam"
+      "gloss": "e buscam"
     },
     {
       "surface": "מאל",
-      "english": "de ⟨o⟩",
+      "gloss": "de ⟨o⟩",
       "marks": "Elohim"
     },
     {
       "surface": "אכלם",
-      "english": "alimento"
+      "gloss": "alimento"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:48:02.916207844Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

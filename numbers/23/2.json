@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "numbers 23:2",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 666,
-    "prompt_tokens": 25750,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 26416
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:19:54.550745189Z",
   "translation": "E Balak fez como Bilaam ⟨tinha⟩ falado, e Balak e Bilaam ofereceram ⟨um⟩ novilho e ⟨um⟩ carneiro ⟨sobre⟩ ⟨o⟩ altar",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "E Balak fez"
+      "gloss": "E Balak fez"
     },
     {
       "surface": "בלק",
-      "english": "Balak"
+      "gloss": "Balak"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "דבר",
-      "english": "Bilaam ⟨tinha⟩ falado"
+      "gloss": "Bilaam ⟨tinha⟩ falado"
     },
     {
       "surface": "בלעם",
-      "english": "Bilaam"
+      "gloss": "Bilaam"
     },
     {
       "surface": "ויעל",
-      "english": "e Balak e Bilaam ofereceram"
+      "gloss": "e Balak e Bilaam ofereceram"
     },
     {
       "surface": "בלק",
-      "english": "Balak"
+      "gloss": "Balak"
     },
     {
       "surface": "ובלעם",
-      "english": "e Bilaam"
+      "gloss": "e Bilaam"
     },
     {
       "surface": "פר",
-      "english": "⟨um⟩ novilho"
+      "gloss": "⟨um⟩ novilho"
     },
     {
       "surface": "ואיל",
-      "english": "e ⟨um⟩ carneiro"
+      "gloss": "e ⟨um⟩ carneiro"
     },
     {
       "surface": "במזבח",
-      "english": "⟨sobre⟩ ⟨o⟩ altar"
+      "gloss": "⟨sobre⟩ ⟨o⟩ altar"
     }
-  ],
-  "timestamp": "2026-07-16T17:19:54.550745189Z",
-  "model": "glm-4.5"
+  ]
 }

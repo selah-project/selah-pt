@@ -1,9 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 43:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 43,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:27:13.092901813Z",
+  "translation": "E Yehudá disse-lhe, dizendo: ⟨O⟩ homem ⟨foi⟩ testemunhando entre nós, dizendo: 'Não vereis ⟨a⟩ minha face ⟨a⟩ ⟨não ser⟩ que ⟨o⟩ vosso irmão ⟨esteja⟩ ⟨com⟩ vós'.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... disse",
+      "marks": "Judá"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ ele",
+      "marks": "a Jacó"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ", dizendo"
+    },
+    {
+      "surface": "העד",
+      "gloss": "⟨O⟩ ... testemunhando",
+      "marks": "homem"
+    },
+    {
+      "surface": "העד",
+      "gloss": "testemunhando"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨entre⟩ nós"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨o⟩ homem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ", dizendo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "'Não"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "vereis"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨a⟩ minha face"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "⟨a⟩ ⟨não ser⟩ que"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "⟨o⟩ vosso irmão"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨com⟩ vós"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,87 +83,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 43,
-  "usage": {
-    "completion_tokens": 734,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21994,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22728
-  },
-  "translation": "E Yehudá disse-lhe, dizendo: ⟨O⟩ homem ⟨foi⟩ testemunhando entre nós, dizendo: 'Não vereis ⟨a⟩ minha face ⟨a⟩ ⟨não ser⟩ que ⟨o⟩ vosso irmão ⟨esteja⟩ ⟨com⟩ vós'.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ... disse",
-      "marks": "Judá"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ ele",
-      "marks": "a Jacó"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "לאמר",
-      "english": ", dizendo"
-    },
-    {
-      "surface": "העד",
-      "english": "⟨O⟩ ... testemunhando",
-      "marks": "homem"
-    },
-    {
-      "surface": "העד",
-      "english": "testemunhando"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨entre⟩ nós"
-    },
-    {
-      "surface": "האיש",
-      "english": "⟨o⟩ homem"
-    },
-    {
-      "surface": "לאמר",
-      "english": ", dizendo"
-    },
-    {
-      "surface": "לא",
-      "english": "'Não"
-    },
-    {
-      "surface": "תראו",
-      "english": "vereis"
-    },
-    {
-      "surface": "פני",
-      "english": "⟨a⟩ minha face"
-    },
-    {
-      "surface": "בלתי",
-      "english": "⟨a⟩ ⟨não ser⟩ que"
-    },
-    {
-      "surface": "אחיכם",
-      "english": "⟨o⟩ vosso irmão"
-    },
-    {
-      "surface": "אתכם",
-      "english": "⟨com⟩ vós"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:27:13.092901813Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

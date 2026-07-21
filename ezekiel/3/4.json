@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "ezekiel 3:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 3,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:00:36.169282367Z",
+  "translation": "E Ele disse ⟨a⟩ mim: Filho do homem, vai, entra ⟨na⟩ casa de Yisrael, e fala ⟨as⟩ minhas palavras ⟨a⟩ eles.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Ele disse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨a⟩ mim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Filho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "do homem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vai"
+    },
+    {
+      "surface": "בא",
+      "gloss": "entra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "e fala"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "⟨as⟩ minhas palavras"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "⟨a⟩ eles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17687,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18174
-  },
-  "translation": "E Ele disse ⟨a⟩ mim: Filho do homem, vai, entra ⟨na⟩ casa de Yisrael, e fala ⟨as⟩ minhas palavras ⟨a⟩ eles.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Ele disse"
-    },
-    {
-      "surface": "אלי",
-      "english": "⟨a⟩ mim"
-    },
-    {
-      "surface": "בן",
-      "english": "Filho"
-    },
-    {
-      "surface": "אדם",
-      "english": "do homem"
-    },
-    {
-      "surface": "לך",
-      "english": "vai"
-    },
-    {
-      "surface": "בא",
-      "english": "entra"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨na⟩"
-    },
-    {
-      "surface": "בית",
-      "english": "casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ודברת",
-      "english": "e fala"
-    },
-    {
-      "surface": "בדברי",
-      "english": "⟨as⟩ minhas palavras"
-    },
-    {
-      "surface": "אליהם",
-      "english": "⟨a⟩ eles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:00:36.169282367Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

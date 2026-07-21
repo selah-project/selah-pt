@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 8:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20125,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20490
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:51:09.201350033Z",
   "translation": "Ainda que ⟨esteja⟩ na ⟨sua⟩ verdura, e não ⟨seja⟩ cortado, seca-se diante de qualquer erva.",
   "tokens": [
     {
       "surface": "עדנו",
-      "english": "Ainda que"
+      "gloss": "Ainda que"
     },
     {
       "surface": "באבו",
-      "english": "⟨esteja⟩ na ⟨sua⟩ verdura"
+      "gloss": "⟨esteja⟩ na ⟨sua⟩ verdura"
     },
     {
       "surface": "לא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "יקטף",
-      "english": "⟨seja⟩ cortado"
+      "gloss": "⟨seja⟩ cortado"
     },
     {
       "surface": "ולפני",
-      "english": "seca-se diante de"
+      "gloss": "seca-se diante de"
     },
     {
       "surface": "כל",
-      "english": "qualquer"
+      "gloss": "qualquer"
     },
     {
       "surface": "חציר",
-      "english": "erva"
+      "gloss": "erva"
     },
     {
       "surface": "ייבש",
-      "english": "seca-se"
+      "gloss": "seca-se"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:51:09.201350033Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

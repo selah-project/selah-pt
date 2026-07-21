@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-kings 20:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 20,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:40:59.020092775Z",
+  "translation": "Eles golpearam homem ⟨por⟩ homem ⟨seu⟩, e os arameus fugiram, e Yisrael os perseguiu; e Ben-Hadade, rei de Aram, escapou ⟨em⟩ um cavalo e ⟨com⟩ cavalarianos.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "Eles golpearam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homem",
+      "marks": "cada um seu"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "⟨por⟩ homem ⟨seu⟩",
+      "marks": "seu próprio"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "e os arameus fugiram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "arameus"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "e Israel os perseguiu",
+      "marks": "os arameus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "e Ben-Hadade escapou",
+      "marks": "Ben-Hadade"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "de Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "um cavalo"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "e ⟨com⟩ cavalarianos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 797,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63049,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63846
-  },
-  "translation": "Eles golpearam homem ⟨por⟩ homem ⟨seu⟩, e os arameus fugiram, e Yisrael os perseguiu; e Ben-Hadade, rei de Aram, escapou ⟨em⟩ um cavalo e ⟨com⟩ cavalarianos.",
-  "tokens": [
-    {
-      "surface": "ויכו",
-      "english": "Eles golpearam"
-    },
-    {
-      "surface": "איש",
-      "english": "homem",
-      "marks": "cada um seu"
-    },
-    {
-      "surface": "אישו",
-      "english": "⟨por⟩ homem ⟨seu⟩",
-      "marks": "seu próprio"
-    },
-    {
-      "surface": "וינסו",
-      "english": "e os arameus fugiram"
-    },
-    {
-      "surface": "ארם",
-      "english": "arameus"
-    },
-    {
-      "surface": "וירדפם",
-      "english": "e Israel os perseguiu",
-      "marks": "os arameus"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "וימלט",
-      "english": "e Ben-Hadade escapou",
-      "marks": "Ben-Hadade"
-    },
-    {
-      "surface": "בן",
-      "english": "Ben-"
-    },
-    {
-      "surface": "הדד",
-      "english": "Hadade"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ארם",
-      "english": "de Aram"
-    },
-    {
-      "surface": "על",
-      "english": "⟨em⟩"
-    },
-    {
-      "surface": "סוס",
-      "english": "um cavalo"
-    },
-    {
-      "surface": "ופרשים",
-      "english": "e ⟨com⟩ cavalarianos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:40:59.020092775Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

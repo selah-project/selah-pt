@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-kings 13:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 13,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:58:54.711377271Z",
+  "translation": "No trigésimo sétimo ano de Joás, rei de Yehudá, Jeoás, filho de Jeoacaz, ⟨reinou⟩ sobre Yisrael em Samaria ⟨por⟩ dezesseis anos",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "No"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trigésimo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "sétimo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "de Joás"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Jeoás"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "filho de Jeoacaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "de Jeoacaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "em Samaria"
+    },
+    {
+      "surface": "שש",
+      "gloss": "dezesseis"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,92 +95,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17694,
-    "prompt_tokens_details": {
-      "cached_tokens": 15784
-    },
-    "total_tokens": 18186
-  },
-  "translation": "No trigésimo sétimo ano de Joás, rei de Yehudá, Jeoás, filho de Jeoacaz, ⟨reinou⟩ sobre Yisrael em Samaria ⟨por⟩ dezesseis anos",
-  "tokens": [
-    {
-      "surface": "בשנת",
-      "english": "No"
-    },
-    {
-      "surface": "שלשים",
-      "english": "trigésimo"
-    },
-    {
-      "surface": "ושבע",
-      "english": "sétimo"
-    },
-    {
-      "surface": "שנה",
-      "english": "ano"
-    },
-    {
-      "surface": "ליואש",
-      "english": "de Joás"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "מלך",
-      "english": "Jeoás"
-    },
-    {
-      "surface": "יהואש",
-      "english": "filho de Jeoacaz"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "יהואחז",
-      "english": "de Jeoacaz"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בשמרון",
-      "english": "em Samaria"
-    },
-    {
-      "surface": "שש",
-      "english": "dezesseis"
-    },
-    {
-      "surface": "עשרה",
-      "english": "anos"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:58:54.711377271Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

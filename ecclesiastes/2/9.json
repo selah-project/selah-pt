@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "ecclesiastes 2:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
+  "chapter": 2,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:29:26.694399767Z",
+  "translation": "E engrandeci-me e acrescentei mais ⟨do⟩ todos ⟨os⟩ que ⟨eram⟩ diante de mim em ⟨Yerushaláim⟩; também ⟨a⟩ minhJojmá permaneceu comigo",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "E engrandeci-me"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "e acrescentei mais"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨do⟩ todos ⟨os⟩"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨eram⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante de mim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em ⟨Yerushaláim⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "também"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "⟨a⟩ minhJojmá"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "permaneceu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "comigo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a sabedoria",
@@ -13,64 +60,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17628,
-    "prompt_tokens_details": {
-      "cached_tokens": 16387
-    },
-    "total_tokens": 18085
-  },
-  "translation": "E engrandeci-me e acrescentei mais ⟨do⟩ todos ⟨os⟩ que ⟨eram⟩ diante de mim em ⟨Yerushaláim⟩; também ⟨a⟩ minhJojmá permaneceu comigo",
-  "tokens": [
-    {
-      "surface": "וגדלתי",
-      "english": "E engrandeci-me"
-    },
-    {
-      "surface": "והוספתי",
-      "english": "e acrescentei mais"
-    },
-    {
-      "surface": "מכל",
-      "english": "⟨do⟩ todos ⟨os⟩"
-    },
-    {
-      "surface": "שהיה",
-      "english": "⟨eram⟩"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante de mim"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em ⟨Yerushaláim⟩"
-    },
-    {
-      "surface": "אף",
-      "english": "também"
-    },
-    {
-      "surface": "חכמתי",
-      "english": "⟨a⟩ minhJojmá"
-    },
-    {
-      "surface": "עמדה",
-      "english": "permaneceu"
-    },
-    {
-      "surface": "לי",
-      "english": "comigo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:29:26.694399767Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

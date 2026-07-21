@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 60:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70306,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70787
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:38:55.754817231Z",
   "translation": "⟨Para⟩ ⟨o⟩ Diretor sobre ⟨o⟩ Lírio ⟨do⟩ Testemunho, ⟨um⟩ poema ⟨de⟩ David, ⟨para⟩ ensinar",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Para⟩ ⟨o⟩ Diretor"
+      "gloss": "⟨Para⟩ ⟨o⟩ Diretor"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "שושן",
-      "english": "⟨o⟩ Lírio"
+      "gloss": "⟨o⟩ Lírio"
     },
     {
       "surface": "עדות",
-      "english": "⟨do⟩ Testemunho"
+      "gloss": "⟨do⟩ Testemunho"
     },
     {
       "surface": "מכתם",
-      "english": "⟨um⟩ poema"
+      "gloss": "⟨um⟩ poema"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David"
+      "gloss": "⟨de⟩ David"
     },
     {
       "surface": "ללמד",
-      "english": "⟨para⟩ ensinar"
+      "gloss": "⟨para⟩ ensinar"
     }
-  ],
-  "timestamp": "2026-06-13T06:38:55.754817231Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 124:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 124,
-  "usage": {
-    "completion_tokens": 630,
-    "prompt_tokens": 70503,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71133
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:35.121480652Z",
   "translation": "Um cântico ⟨dos⟩ degraus, ⟨de⟩ David; ⟨se⟩ não ⟨fosse⟩ YHWH, que esteve ⟨por⟩ nós, diga, agora, Israel:",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Um cântico"
+      "gloss": "Um cântico"
     },
     {
       "surface": "המעלות",
-      "english": "⟨dos⟩ degraus"
+      "gloss": "⟨dos⟩ degraus"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David"
+      "gloss": "⟨de⟩ David"
     },
     {
       "surface": "לולי",
-      "english": "⟨se⟩ não ⟨fosse⟩"
+      "gloss": "⟨se⟩ não ⟨fosse⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "שהיה",
-      "english": "que esteve"
+      "gloss": "que esteve"
     },
     {
       "surface": "לנו",
-      "english": "⟨por⟩ nós"
+      "gloss": "⟨por⟩ nós"
     },
     {
       "surface": "יאמר",
-      "english": "diga"
+      "gloss": "diga"
     },
     {
       "surface": "נא",
-      "english": ", agora,"
+      "gloss": ", agora,"
     },
     {
       "surface": "ישראל",
-      "english": "Israel:"
+      "gloss": "Israel:"
     }
-  ],
-  "timestamp": "2026-07-16T17:50:35.121480652Z",
-  "model": "glm-4.5"
+  ]
 }

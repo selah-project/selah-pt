@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "amos 5:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 5,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:08:28.843426912Z",
+  "translation": "Porque assim diz Adonai YHWH: ⟨a⟩ cidade ⟨que⟩ saiu ⟨com⟩ mil, deixará ⟨a⟩ cem; e ⟨a⟩ que saiu ⟨com⟩ cem, deixará dez ⟨para⟩ ⟨a⟩ casa de Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "כה",
+      "gloss": "assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨a⟩ cidade"
+    },
+    {
+      "surface": "היצאת",
+      "gloss": "⟨que⟩ saiu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨com⟩ mil"
+    },
+    {
+      "surface": "תשאיר",
+      "gloss": "deixará"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "⟨a⟩ cem"
+    },
+    {
+      "surface": "והיוצאת",
+      "gloss": "e ⟨a⟩ que saiu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "⟨com⟩ cem"
+    },
+    {
+      "surface": "תשאיר",
+      "gloss": "deixará"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dez"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨para⟩ ⟨a⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 594,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17211,
-    "prompt_tokens_details": {
-      "cached_tokens": 15413
-    },
-    "total_tokens": 17805
-  },
-  "translation": "Porque assim diz Adonai YHWH: ⟨a⟩ cidade ⟨que⟩ saiu ⟨com⟩ mil, deixará ⟨a⟩ cem; e ⟨a⟩ que saiu ⟨com⟩ cem, deixará dez ⟨para⟩ ⟨a⟩ casa de Yisrael.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "כה",
-      "english": "assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "העיר",
-      "english": "⟨a⟩ cidade"
-    },
-    {
-      "surface": "היצאת",
-      "english": "⟨que⟩ saiu"
-    },
-    {
-      "surface": "אלף",
-      "english": "⟨com⟩ mil"
-    },
-    {
-      "surface": "תשאיר",
-      "english": "deixará"
-    },
-    {
-      "surface": "מאה",
-      "english": "⟨a⟩ cem"
-    },
-    {
-      "surface": "והיוצאת",
-      "english": "e ⟨a⟩ que saiu"
-    },
-    {
-      "surface": "מאה",
-      "english": "⟨com⟩ cem"
-    },
-    {
-      "surface": "תשאיר",
-      "english": "deixará"
-    },
-    {
-      "surface": "עשרה",
-      "english": "dez"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨para⟩ ⟨a⟩ casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:08:28.843426912Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

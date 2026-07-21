@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 13:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 13,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:53:44.715977335Z",
+  "translation": "Então Avram ⟨armou⟩ ⟨a sua⟩ tenda, e veio, e habitou ⟨entre⟩ ⟨os⟩ carvalhos de Mamre, que ⟨estão⟩ em Hebrom; e edificou ali um altar a YHWH.",
+  "tokens": [
+    {
+      "surface": "ויאהל",
+      "gloss": "Então Abram ⟨armou⟩"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e veio"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e habitou"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "⟨entre⟩ ⟨os⟩ carvalhos"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "de Mamre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "⟨estão⟩ em Hebrom"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "e edificou"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "um altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Abram",
@@ -13,72 +68,6 @@
       "hebrew": "אברם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 653,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21698,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22351
-  },
-  "translation": "Então Avram ⟨armou⟩ ⟨a sua⟩ tenda, e veio, e habitou ⟨entre⟩ ⟨os⟩ carvalhos de Mamre, que ⟨estão⟩ em Hebrom; e edificou ali um altar a YHWH.",
-  "tokens": [
-    {
-      "surface": "ויאהל",
-      "english": "Então Abram ⟨armou⟩"
-    },
-    {
-      "surface": "אברם",
-      "english": "Avram"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e veio"
-    },
-    {
-      "surface": "וישב",
-      "english": "e habitou"
-    },
-    {
-      "surface": "באלני",
-      "english": "⟨entre⟩ ⟨os⟩ carvalhos"
-    },
-    {
-      "surface": "ממרא",
-      "english": "de Mamre"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בחברון",
-      "english": "⟨estão⟩ em Hebrom"
-    },
-    {
-      "surface": "ויבן",
-      "english": "e edificou"
-    },
-    {
-      "surface": "שם",
-      "english": "ali"
-    },
-    {
-      "surface": "מזבח",
-      "english": "um altar"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "a YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:53:44.715977335Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

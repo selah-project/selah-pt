@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 48:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 48,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:10:48.980454688Z",
+  "translation": "Com um vento ⟨do⟩ oriente ⟨você⟩ quebra ⟨as⟩ naus ⟨de⟩ Tarshish",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "Com um vento"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "⟨do⟩ oriente"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "⟨você⟩ quebra"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "⟨as⟩ naus"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "⟨de⟩ Tarshish"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Társis",
@@ -13,44 +40,6 @@
       "hebrew": "תרשיש"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62805,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63252
-  },
-  "translation": "Com um vento ⟨do⟩ oriente ⟨você⟩ quebra ⟨as⟩ naus ⟨de⟩ Tarshish",
-  "tokens": [
-    {
-      "surface": "ברוח",
-      "english": "Com um vento"
-    },
-    {
-      "surface": "קדים",
-      "english": "⟨do⟩ oriente"
-    },
-    {
-      "surface": "תשבר",
-      "english": "⟨você⟩ quebra"
-    },
-    {
-      "surface": "אניות",
-      "english": "⟨as⟩ naus"
-    },
-    {
-      "surface": "תרשיש",
-      "english": "⟨de⟩ Tarshish"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:10:48.980454688Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

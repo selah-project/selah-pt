@@ -1,77 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 12:3",
   "book": "job",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27750,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 28364
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:44:56.956203163Z",
   "translation": "Também ⟨para⟩ mim ⟨há⟩ coração, como ⟨para⟩ vós; ⟨eu⟩ não ⟨estou⟩ caído ⟨de⟩ vós, e ⟨a⟩ quem ⟨não há⟩ como ⟨estes⟩.",
   "tokens": [
     {
       "surface": "גם",
-      "english": "Também"
+      "gloss": "Também"
     },
     {
       "surface": "לי",
-      "english": "⟨para⟩ mim"
+      "gloss": "⟨para⟩ mim"
     },
     {
       "surface": "לבב",
-      "english": "⟨há⟩ coração"
+      "gloss": "⟨há⟩ coração"
     },
     {
       "surface": "כמוכם",
-      "english": "como ⟨para⟩ vós"
+      "gloss": "como ⟨para⟩ vós"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "נפל",
-      "english": "⟨estou⟩ caído"
+      "gloss": "⟨estou⟩ caído"
     },
     {
       "surface": "אנכי",
-      "english": "⟨eu⟩"
+      "gloss": "⟨eu⟩"
     },
     {
       "surface": "מכם",
-      "english": "⟨de⟩ vós"
+      "gloss": "⟨de⟩ vós"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨a⟩",
+      "gloss": "e ⟨a⟩",
       "marks": "quem"
     },
     {
       "surface": "מי",
-      "english": "quem"
+      "gloss": "quem"
     },
     {
       "surface": "אין",
-      "english": "⟨não há⟩"
+      "gloss": "⟨não há⟩"
     },
     {
       "surface": "כמו",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "אלה",
-      "english": "⟨estes⟩"
+      "gloss": "⟨estes⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:44:56.956203163Z",
-  "model": "glm-4.5"
+  ]
 }

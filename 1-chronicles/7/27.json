@@ -1,9 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "1-chronicles 7:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 7,
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:39:26.530089862Z",
+  "translation": "Non ⟨is⟩ seu filho, Yehoshua ⟨is⟩ seu filho",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "Non"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨é⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josué",
@@ -13,40 +36,6 @@
       "hebrew": "יהושע"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 160,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56689,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 56849
-  },
-  "translation": "Non ⟨is⟩ seu filho, Yehoshua ⟨is⟩ seu filho",
-  "tokens": [
-    {
-      "surface": "נון",
-      "english": "Non"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨é⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:39:26.530089862Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

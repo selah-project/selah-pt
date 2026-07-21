@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 50:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 50,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:12:11.802396049Z",
+  "translation": "Escuta, ó meu povo, ⟨e⟩ eu falarei, ó Yisrael, ⟨e⟩ eu testemunharei ⟨para⟩ ti: Elohim, teu Elohim, ⟨é⟩ eu.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Escuta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ó meu povo"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "⟨e⟩ eu falarei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ó Yisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "⟨e⟩ eu testemunharei ⟨para⟩ ti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨para⟩ ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "teu Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨é⟩ eu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 50,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63119,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63565
-  },
-  "translation": "Escuta, ó meu povo, ⟨e⟩ eu falarei, ó Yisrael, ⟨e⟩ eu testemunharei ⟨para⟩ ti: Elohim, teu Elohim, ⟨é⟩ eu.",
-  "tokens": [
-    {
-      "surface": "שמעה",
-      "english": "Escuta"
-    },
-    {
-      "surface": "עמי",
-      "english": "ó meu povo"
-    },
-    {
-      "surface": "ואדברה",
-      "english": "⟨e⟩ eu falarei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "ó Yisrael"
-    },
-    {
-      "surface": "ואעידה",
-      "english": "⟨e⟩ eu testemunharei ⟨para⟩ ti"
-    },
-    {
-      "surface": "בך",
-      "english": "⟨para⟩ ti"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "אלהיך",
-      "english": "teu Elohim"
-    },
-    {
-      "surface": "אנכי",
-      "english": "⟨é⟩ eu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:12:11.802396049Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

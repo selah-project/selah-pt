@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "genesis 9:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 9,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:50:07.859862743Z",
+  "translation": "E Elohim disse a Noaj: Esta ⟨é⟩ ⟨a⟩ marca ⟨do⟩ pacto que estabeleci entre mim e ⟨a⟩ toda carne que ⟨está⟩ sobre ⟨a⟩ terra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse",
+      "marks": null
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim",
+      "marks": null
+    },
+    {
+      "surface": "אל",
+      "gloss": "a",
+      "marks": "Noé"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj",
+      "marks": null
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Esta",
+      "marks": null
+    },
+    {
+      "surface": "אות",
+      "gloss": "marca",
+      "marks": null
+    },
+    {
+      "surface": "הברית",
+      "gloss": "⟨do⟩ pacto",
+      "marks": null
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "marks": null
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "estabeleci",
+      "marks": null
+    },
+    {
+      "surface": "ביני",
+      "gloss": "entre mim",
+      "marks": null
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e",
+      "marks": null
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨a⟩ toda",
+      "marks": null
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne",
+      "marks": null
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "marks": null
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre",
+      "marks": null
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ terra",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noé",
@@ -13,104 +100,6 @@
       "hebrew": "נח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 637,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22025,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22662
-  },
-  "translation": "E Elohim disse a Noaj: Esta ⟨é⟩ ⟨a⟩ marca ⟨do⟩ pacto que estabeleci entre mim e ⟨a⟩ toda carne que ⟨está⟩ sobre ⟨a⟩ terra.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse",
-      "marks": null
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim",
-      "marks": null
-    },
-    {
-      "surface": "אל",
-      "english": "a",
-      "marks": "Noé"
-    },
-    {
-      "surface": "נח",
-      "english": "Noaj",
-      "marks": null
-    },
-    {
-      "surface": "זאת",
-      "english": "Esta",
-      "marks": null
-    },
-    {
-      "surface": "אות",
-      "english": "marca",
-      "marks": null
-    },
-    {
-      "surface": "הברית",
-      "english": "⟨do⟩ pacto",
-      "marks": null
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "marks": null
-    },
-    {
-      "surface": "הקמתי",
-      "english": "estabeleci",
-      "marks": null
-    },
-    {
-      "surface": "ביני",
-      "english": "entre mim",
-      "marks": null
-    },
-    {
-      "surface": "ובין",
-      "english": "e",
-      "marks": null
-    },
-    {
-      "surface": "כל",
-      "english": "⟨a⟩ toda",
-      "marks": null
-    },
-    {
-      "surface": "בשר",
-      "english": "carne",
-      "marks": null
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "marks": null
-    },
-    {
-      "surface": "על",
-      "english": "sobre",
-      "marks": null
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨a⟩ terra",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:50:07.859862743Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

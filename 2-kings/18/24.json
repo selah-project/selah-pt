@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "2-kings 18:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 18,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:05:03.639889452Z",
+  "translation": "E como repelirás ⟨את⟩ a face de um único comandante ⟨o⟩ menor dos servos de meu senhor, e tu confias em ti sobre o Mitzráyim para carros e para cavaleiros?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "E como"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "repelirás"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "a face"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "de um único comandante"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "único"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dos servos"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "de meu senhor"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "⟨o⟩ menor"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "e tu confias"
+    },
+    {
+      "surface": "לך",
+      "gloss": "em ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "o Mitzráyim"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "para carros"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "e para cavaleiros"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,85 +81,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17587,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18166
-  },
-  "translation": "E como repelirás ⟨את⟩ a face de um único comandante ⟨o⟩ menor dos servos de meu senhor, e tu confias em ti sobre o Mitzráyim para carros e para cavaleiros?",
-  "tokens": [
-    {
-      "surface": "ואיך",
-      "english": "E como"
-    },
-    {
-      "surface": "תשיב",
-      "english": "repelirás"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "a face"
-    },
-    {
-      "surface": "פני",
-      "english": "a face"
-    },
-    {
-      "surface": "פחת",
-      "english": "de um único comandante"
-    },
-    {
-      "surface": "אחד",
-      "english": "único"
-    },
-    {
-      "surface": "עבדי",
-      "english": "dos servos"
-    },
-    {
-      "surface": "אדני",
-      "english": "de meu senhor"
-    },
-    {
-      "surface": "הקטנים",
-      "english": "⟨o⟩ menor"
-    },
-    {
-      "surface": "ותבטח",
-      "english": "e tu confias"
-    },
-    {
-      "surface": "לך",
-      "english": "em ti"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "מצרים",
-      "english": "o Mitzráyim"
-    },
-    {
-      "surface": "לרכב",
-      "english": "para carros"
-    },
-    {
-      "surface": "ולפרשים",
-      "english": "e para cavaleiros"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:05:03.639889452Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

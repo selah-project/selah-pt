@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "ezekiel 36:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 36,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:40:10.719542931Z",
+  "translation": "Mas vós, ó montes de Yisrael, dareis os vossos ramos e ⟨o⟩ vosso fruto carregareis para ⟨o⟩ meu povo, Yisrael; porque ⟨estão⟩ próximos para vir.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Mas vós"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ó montes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ענפכם",
+      "gloss": "os vossos ramos"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dareis"
+    },
+    {
+      "surface": "ופריכם",
+      "gloss": "e ⟨o⟩ vosso fruto"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "carregareis"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "para ⟨o⟩ meu povo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "⟨estão⟩ próximos"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "para vir"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,72 +75,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17815,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18364
-  },
-  "translation": "Mas vós, ó montes de Yisrael, dareis os vossos ramos e ⟨o⟩ vosso fruto carregareis para ⟨o⟩ meu povo, Yisrael; porque ⟨estão⟩ próximos para vir.",
-  "tokens": [
-    {
-      "surface": "ואתם",
-      "english": "Mas vós"
-    },
-    {
-      "surface": "הרי",
-      "english": "ó montes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ענפכם",
-      "english": "os vossos ramos"
-    },
-    {
-      "surface": "תתנו",
-      "english": "dareis"
-    },
-    {
-      "surface": "ופריכם",
-      "english": "e ⟨o⟩ vosso fruto"
-    },
-    {
-      "surface": "תשאו",
-      "english": "carregareis"
-    },
-    {
-      "surface": "לעמי",
-      "english": "para ⟨o⟩ meu povo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "קרבו",
-      "english": "⟨estão⟩ próximos"
-    },
-    {
-      "surface": "לבוא",
-      "english": "para vir"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:40:10.719542931Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

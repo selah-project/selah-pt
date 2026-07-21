@@ -1,9 +1,161 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-samuel 29:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 29,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:41:24.525291815Z",
+  "translation": "E disseram os príncipes ⟨dos⟩ filisteus: Que ⟨fazem⟩ estes hebreus aqui? E disse Aquis aos príncipes ⟨dos⟩ filisteus: Não ⟨é⟩ este Davidd, servo ⟨de⟩ Shaúl, rei ⟨de⟩ Yisrael, que esteve comigo estes dias ou estes anos, e não achei nele nada ⟨de mau⟩ desde o dia ⟨em⟩ que caiu ⟨para mim⟩ até este dia?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E disseram"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "os príncipes ⟨dos⟩",
+      "marks": "filisteus"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteus"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Que ⟨fazem⟩"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "estes hebreus"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aqui?"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Aquis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aos"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "príncipes ⟨dos⟩",
+      "marks": "filisteus"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteus"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Não ⟨é⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "este"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servo ⟨de⟩",
+      "marks": "Shaúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei ⟨de⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "היה",
+      "gloss": "esteve"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "comigo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "estes"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dias"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "זה",
+      "gloss": "estes"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "achei"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nele"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nada ⟨de mau⟩"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "desde o dia ⟨em⟩ que",
+      "marks": "caiu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "caiu ⟨para mim⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "היום",
+      "gloss": "este dia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "este"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,169 +172,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 1114,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18901,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 20015
-  },
-  "translation": "E disseram os príncipes ⟨dos⟩ filisteus: Que ⟨fazem⟩ estes hebreus aqui? E disse Aquis aos príncipes ⟨dos⟩ filisteus: Não ⟨é⟩ este Davidd, servo ⟨de⟩ Shaúl, rei ⟨de⟩ Yisrael, que esteve comigo estes dias ou estes anos, e não achei nele nada ⟨de mau⟩ desde o dia ⟨em⟩ que caiu ⟨para mim⟩ até este dia?",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "E disseram"
-    },
-    {
-      "surface": "שרי",
-      "english": "os príncipes ⟨dos⟩",
-      "marks": "filisteus"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "filisteus"
-    },
-    {
-      "surface": "מה",
-      "english": "Que ⟨fazem⟩"
-    },
-    {
-      "surface": "העברים",
-      "english": "estes hebreus"
-    },
-    {
-      "surface": "האלה",
-      "english": "aqui?"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "אכיש",
-      "english": "Aquis"
-    },
-    {
-      "surface": "אל",
-      "english": "aos"
-    },
-    {
-      "surface": "שרי",
-      "english": "príncipes ⟨dos⟩",
-      "marks": "filisteus"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "filisteus"
-    },
-    {
-      "surface": "הלוא",
-      "english": "Não ⟨é⟩"
-    },
-    {
-      "surface": "זה",
-      "english": "este"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "עבד",
-      "english": "servo ⟨de⟩",
-      "marks": "Shaúl"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei ⟨de⟩",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "היה",
-      "english": "esteve"
-    },
-    {
-      "surface": "אתי",
-      "english": "comigo"
-    },
-    {
-      "surface": "זה",
-      "english": "estes"
-    },
-    {
-      "surface": "ימים",
-      "english": "dias"
-    },
-    {
-      "surface": "או",
-      "english": "ou"
-    },
-    {
-      "surface": "זה",
-      "english": "estes"
-    },
-    {
-      "surface": "שנים",
-      "english": "anos"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "מצאתי",
-      "english": "achei"
-    },
-    {
-      "surface": "בו",
-      "english": "nele"
-    },
-    {
-      "surface": "מאומה",
-      "english": "nada ⟨de mau⟩"
-    },
-    {
-      "surface": "מיום",
-      "english": "desde o dia ⟨em⟩ que",
-      "marks": "caiu"
-    },
-    {
-      "surface": "נפלו",
-      "english": "caiu ⟨para mim⟩"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "היום",
-      "english": "este dia"
-    },
-    {
-      "surface": "הזה",
-      "english": "este"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:41:24.525291815Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,81 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "isaiah 8:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 8,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:19:10.352901564Z",
+  "translation": "E Ele será um santuário, mas ⟨é⟩ uma pedra de tropeço e uma rocha de tropeço para ambas ⟨as⟩ casas de Yisrael, e ⟨como⟩ um laço e uma armadilha para ⟨os⟩ moradores de Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E Ele será",
+      "marks": "Ele"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "um santuário",
+      "marks": "santuário"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "mas ⟨é⟩ uma pedra",
+      "marks": "pedra"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "de tropeço",
+      "marks": "tropeço"
+    },
+    {
+      "surface": "ולצור",
+      "gloss": "e uma rocha",
+      "marks": "rocha"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "de tropeço",
+      "marks": "tropeço"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "para ambas ⟨as⟩",
+      "marks": "ambas"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "casas",
+      "marks": "casas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael",
+      "marks": "Israel"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "e ⟨como⟩ um laço",
+      "marks": "laço"
+    },
+    {
+      "surface": "ולמוקש",
+      "gloss": "e uma armadilha",
+      "marks": "armadilha"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "para ⟨os⟩ moradores",
+      "marks": "moradores"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim",
+      "marks": "Jerusalém"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,89 +92,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 605,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19633,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20238
-  },
-  "translation": "E Ele será um santuário, mas ⟨é⟩ uma pedra de tropeço e uma rocha de tropeço para ambas ⟨as⟩ casas de Yisrael, e ⟨como⟩ um laço e uma armadilha para ⟨os⟩ moradores de Yerushalayim.",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "E Ele será",
-      "marks": "Ele"
-    },
-    {
-      "surface": "למקדש",
-      "english": "um santuário",
-      "marks": "santuário"
-    },
-    {
-      "surface": "ולאבן",
-      "english": "mas ⟨é⟩ uma pedra",
-      "marks": "pedra"
-    },
-    {
-      "surface": "נגף",
-      "english": "de tropeço",
-      "marks": "tropeço"
-    },
-    {
-      "surface": "ולצור",
-      "english": "e uma rocha",
-      "marks": "rocha"
-    },
-    {
-      "surface": "מכשול",
-      "english": "de tropeço",
-      "marks": "tropeço"
-    },
-    {
-      "surface": "לשני",
-      "english": "para ambas ⟨as⟩",
-      "marks": "ambas"
-    },
-    {
-      "surface": "בתי",
-      "english": "casas",
-      "marks": "casas"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael",
-      "marks": "Israel"
-    },
-    {
-      "surface": "לפח",
-      "english": "e ⟨como⟩ um laço",
-      "marks": "laço"
-    },
-    {
-      "surface": "ולמוקש",
-      "english": "e uma armadilha",
-      "marks": "armadilha"
-    },
-    {
-      "surface": "ליושב",
-      "english": "para ⟨os⟩ moradores",
-      "marks": "moradores"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim",
-      "marks": "Jerusalém"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:19:10.352901564Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

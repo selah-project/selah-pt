@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "exodus 15:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 15,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:56:41.139731807Z",
+  "translation": "Os Tehoms os cobriram; desceram ⟨ao⟩ fundo como uma pedra.",
+  "tokens": [
+    {
+      "surface": "תהמת",
+      "gloss": "Os Tehoms"
+    },
+    {
+      "surface": "יכסימו",
+      "gloss": "os cobriram"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "desceram"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "⟨ao⟩ fundo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "como"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "uma pedra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "abismo",
@@ -13,48 +44,6 @@
       "hebrew": "תהום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 276,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16734,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17010
-  },
-  "translation": "Os Tehoms os cobriram; desceram ⟨ao⟩ fundo como uma pedra.",
-  "tokens": [
-    {
-      "surface": "תהמת",
-      "english": "Os Tehoms"
-    },
-    {
-      "surface": "יכסימו",
-      "english": "os cobriram"
-    },
-    {
-      "surface": "ירדו",
-      "english": "desceram"
-    },
-    {
-      "surface": "במצולת",
-      "english": "⟨ao⟩ fundo"
-    },
-    {
-      "surface": "כמו",
-      "english": "como"
-    },
-    {
-      "surface": "אבן",
-      "english": "uma pedra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:56:41.139731807Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "esther 4:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 277,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17409,
-    "prompt_tokens_details": {
-      "cached_tokens": 16627
-    },
-    "total_tokens": 17686
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:39:52.175589769Z",
   "translation": "Então Ester ordenou ⟨para⟩ responder ⟨a⟩ Mordecai:",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "Então Ester ordenou"
+      "gloss": "Então Ester ordenou"
     },
     {
       "surface": "אסתר",
-      "english": "Ester"
+      "gloss": "Ester"
     },
     {
       "surface": "להשיב",
-      "english": "⟨para⟩ responder"
+      "gloss": "⟨para⟩ responder"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "מרדכי",
-      "english": "Mordecai"
+      "gloss": "Mordecai"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:39:52.175589769Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

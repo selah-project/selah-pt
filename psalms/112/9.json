@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 112:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 112,
-  "usage": {
-    "completion_tokens": 461,
-    "prompt_tokens": 70550,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71011
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:19.002243311Z",
   "translation": "Ele dispersou, deu aos necessitados; sua retidão permanece para sempre; seu chifre se exaltará em honra.",
   "tokens": [
     {
       "surface": "פזר",
-      "english": "dispersou"
+      "gloss": "dispersou"
     },
     {
       "surface": "נתן",
-      "english": "deu"
+      "gloss": "deu"
     },
     {
       "surface": "לאביונים",
-      "english": "aos necessitados"
+      "gloss": "aos necessitados"
     },
     {
       "surface": "צדקתו",
-      "english": "sua retidão"
+      "gloss": "sua retidão"
     },
     {
       "surface": "עמדת",
-      "english": "permanece"
+      "gloss": "permanece"
     },
     {
       "surface": "לעד",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "קרנו",
-      "english": "seu chifre"
+      "gloss": "seu chifre"
     },
     {
       "surface": "תרום",
-      "english": "se exaltará"
+      "gloss": "se exaltará"
     },
     {
       "surface": "בכבוד",
-      "english": "em honra"
+      "gloss": "em honra"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:19.002243311Z",
-  "model": "glm-4.5"
+  ]
 }

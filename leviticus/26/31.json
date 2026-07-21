@@ -1,9 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "leviticus 26:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 26,
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:05:20.093342971Z",
+  "translation": "E darei ⟨a⟩ vossas cidades ⟨como⟩ desolação e farei ⟨os⟩ vossos Mikdashs ⟨em⟩ desolação e não sentirei ⟨o⟩ suave aroma ⟨de⟩ ⟨vossos⟩ aromas tranquilizantes",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "E darei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "vossas cidades"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "vossas cidades"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "⟨como⟩ desolação"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "e farei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨os⟩",
+      "marks": "vossos santuários"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "vossos Mikdashs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não sentirei"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "⟨o⟩ suave aroma"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "⟨vossos⟩ aromas tranquilizantes"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "santuário",
@@ -13,70 +66,6 @@
       "hebrew": "מקדש"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 650,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18061,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 18711
-  },
-  "translation": "E darei ⟨a⟩ vossas cidades ⟨como⟩ desolação e farei ⟨os⟩ vossos Mikdashs ⟨em⟩ desolação e não sentirei ⟨o⟩ suave aroma ⟨de⟩ ⟨vossos⟩ aromas tranquilizantes",
-  "tokens": [
-    {
-      "surface": "ונתתי",
-      "english": "E darei"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "vossas cidades"
-    },
-    {
-      "surface": "עריכם",
-      "english": "vossas cidades"
-    },
-    {
-      "surface": "חרבה",
-      "english": "⟨como⟩ desolação"
-    },
-    {
-      "surface": "והשמותי",
-      "english": "e farei"
-    },
-    {
-      "surface": "את",
-      "english": "⟨os⟩",
-      "marks": "vossos santuários"
-    },
-    {
-      "surface": "מקדשיכם",
-      "english": "vossos Mikdashs"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não sentirei"
-    },
-    {
-      "surface": "אריח",
-      "english": "⟨o⟩ suave aroma"
-    },
-    {
-      "surface": "בריח",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "ניחחכם",
-      "english": "⟨vossos⟩ aromas tranquilizantes"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:05:20.093342971Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

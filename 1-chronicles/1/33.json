@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "1-chronicles 1:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 1,
+  "verse": 33,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:31:04.360750729Z",
+  "translation": "E os filhos de Midyan: Eifá, e Éfer, e Henóque, e Abidá, e Eldaá. Todos estes ⟨são⟩ filhos de Ketura.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "de Midyan"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "Eifá"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "e Éfer"
+    },
+    {
+      "surface": "וחנוך",
+      "gloss": "e Henóque"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "e Abidá"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "e Eldaá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Todos"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "de Ketura"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Midiã",
@@ -13,68 +64,6 @@
       "hebrew": "מדין"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57455,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57802
-  },
-  "translation": "E os filhos de Midyan: Eifá, e Éfer, e Henóque, e Abidá, e Eldaá. Todos estes ⟨são⟩ filhos de Ketura.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos"
-    },
-    {
-      "surface": "מדין",
-      "english": "de Midyan"
-    },
-    {
-      "surface": "עיפה",
-      "english": "Eifá"
-    },
-    {
-      "surface": "ועפר",
-      "english": "e Éfer"
-    },
-    {
-      "surface": "וחנוך",
-      "english": "e Henóque"
-    },
-    {
-      "surface": "ואבידע",
-      "english": "e Abidá"
-    },
-    {
-      "surface": "ואלדעה",
-      "english": "e Eldaá"
-    },
-    {
-      "surface": "כל",
-      "english": "Todos"
-    },
-    {
-      "surface": "אלה",
-      "english": "estes"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "קטורה",
-      "english": "de Ketura"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:31:04.360750729Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

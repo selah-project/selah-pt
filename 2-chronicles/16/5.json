@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-chronicles 16:5",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 373,
-    "prompt_tokens": 65842,
-    "prompt_tokens_details": {
-      "cached_tokens": 64384
-    },
-    "total_tokens": 66215
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:14:01.078256534Z",
   "translation": "E aconteceu, quando Baasha ouviu, que ele cessou de construir ⟨את⟩ Ramá, e desistiu de sua obra",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E aconteceu"
+      "gloss": "E aconteceu"
     },
     {
       "surface": "כשמע",
-      "english": "quando ouviu"
+      "gloss": "quando ouviu"
     },
     {
       "surface": "בעשא",
-      "english": "Baasha"
+      "gloss": "Baasha"
     },
     {
       "surface": "ויחדל",
-      "english": "que ele cessou"
+      "gloss": "que ele cessou"
     },
     {
       "surface": "מבנות",
-      "english": "de construir"
+      "gloss": "de construir"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Ramá"
     },
     {
       "surface": "הרמה",
-      "english": "Ramá"
+      "gloss": "Ramá"
     },
     {
       "surface": "וישבת",
-      "english": "e desistiu"
+      "gloss": "e desistiu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sua obra"
     },
     {
       "surface": "מלאכתו",
-      "english": "sua obra"
+      "gloss": "sua obra"
     }
-  ],
-  "timestamp": "2026-07-16T12:14:01.078256534Z",
-  "model": "glm-4.5"
+  ]
 }

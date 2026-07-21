@@ -1,9 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "jeremiah 41:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 41,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:45:54.951227148Z",
+  "translation": "E foram e habitaram em Gerut Quimão ⟨que⟩ ⟨está⟩ perto de ⟨a⟩ casa ⟨do⟩ pão para ir para vir ⟨ao⟩ Mitzráyim",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "E foram",
+      "marks": "o movimento do grupo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e habitaram",
+      "marks": "a permanência no local"
+    },
+    {
+      "surface": "בגרות",
+      "gloss": "em Gerut",
+      "marks": "lugar de permanência"
+    },
+    {
+      "surface": "כמוהם",
+      "gloss": "Quimão",
+      "marks": "israelita associado ao local"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩",
+      "marks": "localização relativa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "⟨está⟩ perto",
+      "marks": "proximidade geográfica"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa",
+      "marks": "primeiro componente do nome"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨do⟩ pão",
+      "marks": "segundo componente do nome"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "para ir",
+      "marks": "movimento intencional"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "para vir",
+      "marks": "movimento direcional"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨ao⟩ Mitzráyim",
+      "marks": "destino do movimento"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,79 +75,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 41,
-  "usage": {
-    "completion_tokens": 841,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17772,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18613
-  },
-  "translation": "E foram e habitaram em Gerut Quimão ⟨que⟩ ⟨está⟩ perto de ⟨a⟩ casa ⟨do⟩ pão para ir para vir ⟨ao⟩ Mitzráyim",
-  "tokens": [
-    {
-      "surface": "וילכו",
-      "english": "E foram",
-      "marks": "o movimento do grupo"
-    },
-    {
-      "surface": "וישבו",
-      "english": "e habitaram",
-      "marks": "a permanência no local"
-    },
-    {
-      "surface": "בגרות",
-      "english": "em Gerut",
-      "marks": "lugar de permanência"
-    },
-    {
-      "surface": "כמוהם",
-      "english": "Quimão",
-      "marks": "israelita associado ao local"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩",
-      "marks": "localização relativa"
-    },
-    {
-      "surface": "אצל",
-      "english": "⟨está⟩ perto",
-      "marks": "proximidade geográfica"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa",
-      "marks": "primeiro componente do nome"
-    },
-    {
-      "surface": "לחם",
-      "english": "⟨do⟩ pão",
-      "marks": "segundo componente do nome"
-    },
-    {
-      "surface": "ללכת",
-      "english": "para ir",
-      "marks": "movimento intencional"
-    },
-    {
-      "surface": "לבוא",
-      "english": "para vir",
-      "marks": "movimento direcional"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨ao⟩ Mitzráyim",
-      "marks": "destino do movimento"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:45:54.951227148Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

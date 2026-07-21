@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-samuel 6:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 6,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:48:11.055559493Z",
+  "translation": "E Davidd temeu ⟨a⟩ YHWH naquele dia e disse: Como virá ⟨a⟩ mim ⟨a⟩ Aron ⟨de⟩ YHWH?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E temeu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "naquele dia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "naquele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Como"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "virá"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨a⟩ mim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨a⟩ Aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,73 +76,6 @@
       "hebrew": "ארון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17593,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 17993
-  },
-  "translation": "E Davidd temeu ⟨a⟩ YHWH naquele dia e disse: Como virá ⟨a⟩ mim ⟨a⟩ Aron ⟨de⟩ YHWH?",
-  "tokens": [
-    {
-      "surface": "וירא",
-      "english": "E temeu"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "YHWH"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "ביום",
-      "english": "naquele dia"
-    },
-    {
-      "surface": "ההוא",
-      "english": "naquele"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "איך",
-      "english": "Como"
-    },
-    {
-      "surface": "יבוא",
-      "english": "virá"
-    },
-    {
-      "surface": "אלי",
-      "english": "⟨a⟩ mim"
-    },
-    {
-      "surface": "ארון",
-      "english": "⟨a⟩ Aron"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:48:11.055559493Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

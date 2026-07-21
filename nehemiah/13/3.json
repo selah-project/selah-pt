@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "nehemiah 13:3",
   "book": "nehemiah",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 328,
-    "prompt_tokens": 57077,
-    "prompt_tokens_details": {
-      "cached_tokens": 55808
-    },
-    "total_tokens": 57405
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:00:50.113142251Z",
   "translation": "E aconteceu, ao ouvirem ⟨את⟩ a Torá, que separaram todo o povo misto de Israel",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E aconteceu"
+      "gloss": "E aconteceu"
     },
     {
       "surface": "כשמעם",
-      "english": "ao ouvirem"
+      "gloss": "ao ouvirem"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "התורה (a Torá)"
     },
     {
       "surface": "התורה",
-      "english": "a Torá"
+      "gloss": "a Torá"
     },
     {
       "surface": "ויבדילו",
-      "english": "que separaram"
+      "gloss": "que separaram"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "ערב",
-      "english": "povo misto"
+      "gloss": "povo misto"
     },
     {
       "surface": "מישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     }
-  ],
-  "timestamp": "2026-07-16T17:00:50.113142251Z",
-  "model": "glm-4.5"
+  ]
 }

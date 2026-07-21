@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 72:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62701,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63092
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:27:01.898957142Z",
   "translation": "Ele julgará ⟨o⟩ teu povo com justiça ⟨e⟩ ⟨os⟩ teus necessitados com ⟨um⟩ julgamento ⟨justo⟩",
   "tokens": [
     {
       "surface": "ידין",
-      "english": "Ele julgará"
+      "gloss": "Ele julgará"
     },
     {
       "surface": "עמך",
-      "english": "⟨o⟩ teu povo"
+      "gloss": "⟨o⟩ teu povo"
     },
     {
       "surface": "בצדק",
-      "english": "com justiça"
+      "gloss": "com justiça"
     },
     {
       "surface": "וענייך",
-      "english": "⟨e⟩ ⟨os⟩ teus necessitados"
+      "gloss": "⟨e⟩ ⟨os⟩ teus necessitados"
     },
     {
       "surface": "במשפט",
-      "english": "com ⟨um⟩ julgamento ⟨justo⟩"
+      "gloss": "com ⟨um⟩ julgamento ⟨justo⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:27:01.898957142Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

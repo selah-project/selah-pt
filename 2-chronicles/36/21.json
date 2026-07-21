@@ -1,9 +1,85 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "2-chronicles 36:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 36,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:51:47.276043562Z",
+  "translation": "Para cumprir ⟨a⟩ palavra de YHWH pela boca de Yermiyahu, até ⟨a⟩ terra receber ⟨seus⟩ Shabbats ⟨את⟩ — todos os dias da desolação ela guardou shabat, para cumprir setenta anos.",
+  "tokens": [
+    {
+      "surface": "למלאות",
+      "gloss": "Para cumprir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨a⟩ palavra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "pela boca"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "de Yermiyahu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "⟨a⟩ terra receber"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨seus⟩",
+      "marks": "sábados"
+    },
+    {
+      "surface": "שבתותיה",
+      "gloss": "Shabbats"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "os dias"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "da desolação"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "ela guardou shabat"
+    },
+    {
+      "surface": "למלאות",
+      "gloss": "para cumprir"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "setenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sábado",
@@ -13,93 +89,6 @@
       "hebrew": "שבת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 853,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59139,
-    "prompt_tokens_details": {
-      "cached_tokens": 57025
-    },
-    "total_tokens": 59992
-  },
-  "translation": "Para cumprir ⟨a⟩ palavra de YHWH pela boca de Yermiyahu, até ⟨a⟩ terra receber ⟨seus⟩ Shabbats ⟨את⟩ — todos os dias da desolação ela guardou shabat, para cumprir setenta anos.",
-  "tokens": [
-    {
-      "surface": "למלאות",
-      "english": "Para cumprir"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨a⟩ palavra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "בפי",
-      "english": "pela boca"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "de Yermiyahu"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "רצתה",
-      "english": "⟨a⟩ terra receber"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨a⟩ terra"
-    },
-    {
-      "surface": "את",
-      "english": "⟨seus⟩",
-      "marks": "sábados"
-    },
-    {
-      "surface": "שבתותיה",
-      "english": "Shabbats"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "ימי",
-      "english": "os dias"
-    },
-    {
-      "surface": "השמה",
-      "english": "da desolação"
-    },
-    {
-      "surface": "שבתה",
-      "english": "ela guardou shabat"
-    },
-    {
-      "surface": "למלאות",
-      "english": "para cumprir"
-    },
-    {
-      "surface": "שבעים",
-      "english": "setenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:51:47.276043562Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

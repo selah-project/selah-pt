@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "exodus 16:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16514,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 16818
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:58:52.848688893Z",
   "translation": "E ⟨o⟩ povo descansou ⟨no⟩ sétimo dia",
   "tokens": [
     {
       "surface": "וישבתו",
-      "english": "E ⟨o⟩ povo descansou"
+      "gloss": "E ⟨o⟩ povo descansou"
     },
     {
       "surface": "העם",
-      "english": "⟨o⟩ povo"
+      "gloss": "⟨o⟩ povo"
     },
     {
       "surface": "ביום",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "השבעי",
-      "english": "sétimo dia"
+      "gloss": "sétimo dia"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:58:52.848688893Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

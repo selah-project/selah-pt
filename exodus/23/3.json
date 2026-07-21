@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 23:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16499,
-    "prompt_tokens_details": {
-      "cached_tokens": 15859
-    },
-    "total_tokens": 16805
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:09:11.584704672Z",
   "translation": "E ⟨ao⟩ pobre ⟨o⟩ não ⟨o⟩ honrarás em ⟨o⟩ seu litígio.",
   "tokens": [
     {
       "surface": "ודל",
-      "english": "E ⟨ao⟩ pobre",
+      "gloss": "E ⟨ao⟩ pobre",
       "marks": "pobre"
     },
     {
       "surface": "לא",
-      "english": "não ⟨o⟩",
+      "gloss": "não ⟨o⟩",
       "marks": "honrarás"
     },
     {
       "surface": "תהדר",
-      "english": "honrarás",
+      "gloss": "honrarás",
       "marks": ""
     },
     {
       "surface": "בריבו",
-      "english": "em ⟨o⟩ seu litígio",
+      "gloss": "em ⟨o⟩ seu litígio",
       "marks": ""
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:09:11.584704672Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 79:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 465,
-    "prompt_tokens": 70443,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70908
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:27.568583789Z",
   "translation": "Porque devoraram Yaakov, e ⟨את⟩ a morada dele devastaram.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אכל",
-      "english": "devoraram"
+      "gloss": "devoraram"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a morada dele"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "ואת",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "נוהו",
-      "english": "a morada dele"
+      "gloss": "a morada dele"
     },
     {
       "surface": "השמו",
-      "english": "devastaram"
+      "gloss": "devastaram"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:27.568583789Z",
-  "model": "glm-4.5"
+  ]
 }

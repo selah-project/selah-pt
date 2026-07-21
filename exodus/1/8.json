@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "exodus 1:8",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 24540,
-    "prompt_tokens_details": {
-      "cached_tokens": 21248
-    },
-    "total_tokens": 24925
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:42:18.107118926Z",
   "translation": "E ⟨um⟩ novo rei se levantou sobre Mitzráyim, que não conheceu ⟨את⟩ Yosef",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "E ... se levantou"
+      "gloss": "E ... se levantou"
     },
     {
       "surface": "מלך",
-      "english": "⟨um⟩ novo rei"
+      "gloss": "⟨um⟩ novo rei"
     },
     {
       "surface": "חדש",
-      "english": "novo"
+      "gloss": "novo"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מצרים",
-      "english": "Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "ידע",
-      "english": "conheceu"
+      "gloss": "conheceu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yosef"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     }
-  ],
-  "timestamp": "2026-07-16T13:42:18.107118926Z",
-  "model": "glm-4.5"
+  ]
 }

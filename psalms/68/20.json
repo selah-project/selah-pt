@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 68:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 68,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:22:53.619828832Z",
+  "translation": "Bendito ⟨seja⟩ Adonai dia a dia Ele carrega ⟨para⟩ nós ⟨o⟩ Elohi ⟨que é⟩ nossYeshuá Selah",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bendito"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dia"
+    },
+    {
+      "surface": "יום",
+      "gloss": "a dia"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "Ele carrega"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨para⟩ nós",
+      "marks": "nós"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨o⟩ Elohi"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "nossYeshuá"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a salvação",
@@ -13,61 +57,6 @@
       "hebrew": "ישועה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 68,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63063,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63497
-  },
-  "translation": "Bendito ⟨seja⟩ Adonai dia a dia Ele carrega ⟨para⟩ nós ⟨o⟩ Elohi ⟨que é⟩ nossYeshuá Selah",
-  "tokens": [
-    {
-      "surface": "ברוך",
-      "english": "Bendito"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יום",
-      "english": "dia"
-    },
-    {
-      "surface": "יום",
-      "english": "a dia"
-    },
-    {
-      "surface": "יעמס",
-      "english": "Ele carrega"
-    },
-    {
-      "surface": "לנו",
-      "english": "⟨para⟩ nós",
-      "marks": "nós"
-    },
-    {
-      "surface": "האל",
-      "english": "⟨o⟩ Elohi"
-    },
-    {
-      "surface": "ישועתנו",
-      "english": "nossYeshuá"
-    },
-    {
-      "surface": "סלה",
-      "english": "Selah"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:22:53.619828832Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

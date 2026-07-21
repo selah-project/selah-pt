@@ -1,69 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 50:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 670,
-    "prompt_tokens": 70760,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71430
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:38:42.344180437Z",
   "translation": "Um mizmor de Asaf: El Elohim, YHWH, ⟨o⟩ Davar ⟨falou⟩ e convocou ⟨a⟩ terra desde o nascente do sol até ao seu pôr do sol.",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "Um mizmor"
+      "gloss": "Um mizmor"
     },
     {
       "surface": "לאסף",
-      "english": "de Asaf"
+      "gloss": "de Asaf"
     },
     {
       "surface": "אל",
-      "english": "El"
+      "gloss": "El"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "דבר",
-      "english": "⟨o⟩ Davar ⟨falou⟩"
+      "gloss": "⟨o⟩ Davar ⟨falou⟩"
     },
     {
       "surface": "ויקרא",
-      "english": "e convocou"
+      "gloss": "e convocou"
     },
     {
       "surface": "ארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "ממזרח",
-      "english": "desde o nascente"
+      "gloss": "desde o nascente"
     },
     {
       "surface": "שמש",
-      "english": "do sol"
+      "gloss": "do sol"
     },
     {
       "surface": "עד",
-      "english": "até ao"
+      "gloss": "até ao"
     },
     {
       "surface": "מבאו",
-      "english": "seu pôr do sol"
+      "gloss": "seu pôr do sol"
     }
-  ],
-  "timestamp": "2026-07-16T17:38:42.344180437Z",
-  "model": "glm-4.5"
+  ]
 }

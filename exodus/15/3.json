@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 15:3",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 277,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23984,
-    "prompt_tokens_details": {
-      "cached_tokens": 23181
-    },
-    "total_tokens": 24261
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:17:50.592332868Z",
   "translation": "YHWH ⟨is⟩ homem de guerra, YHWH ⟨é⟩ o seu nome.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "איש",
-      "english": "homem"
+      "gloss": "homem"
     },
     {
       "surface": "מלחמה",
-      "english": "guerra"
+      "gloss": "guerra"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "שמו",
-      "english": "o seu nome"
+      "gloss": "o seu nome"
     }
-  ],
-  "timestamp": "2026-06-13T05:17:50.592332868Z",
-  "model": "glm-4.5"
+  ]
 }

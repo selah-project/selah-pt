@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 41:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 41,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:44:09.624902661Z",
+  "translation": "perseguiu-⟨os⟩ ⟨e⟩ passou ⟨em⟩ Shalom ⟨pelo⟩ caminho ⟨com⟩ ⟨os⟩ seus pés ⟨que⟩ não ⟨o⟩ haviam trilhado",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Perseguiu-⟨os⟩"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "⟨e⟩ passou"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨em⟩ Shalom"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "⟨pelo⟩ caminho"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "⟨com⟩ ⟨os⟩ seus pés"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨que⟩ não"
+    },
+    {
+      "surface": "י�בוא",
+      "gloss": "⟨o⟩ haviam trilhado"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,52 +48,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 41,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19027,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19556
-  },
-  "translation": "perseguiu-⟨os⟩ ⟨e⟩ passou ⟨em⟩ Shalom ⟨pelo⟩ caminho ⟨com⟩ ⟨os⟩ seus pés ⟨que⟩ não ⟨o⟩ haviam trilhado",
-  "tokens": [
-    {
-      "surface": "ירדפם",
-      "english": "Perseguiu-⟨os⟩"
-    },
-    {
-      "surface": "יעבור",
-      "english": "⟨e⟩ passou"
-    },
-    {
-      "surface": "שלום",
-      "english": "⟨em⟩ Shalom"
-    },
-    {
-      "surface": "ארח",
-      "english": "⟨pelo⟩ caminho"
-    },
-    {
-      "surface": "ברגליו",
-      "english": "⟨com⟩ ⟨os⟩ seus pés"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨que⟩ não"
-    },
-    {
-      "surface": "י�בוא",
-      "english": "⟨o⟩ haviam trilhado"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:44:09.624902661Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

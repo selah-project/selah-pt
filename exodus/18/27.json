@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "exodus 18:27",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 431,
-    "prompt_tokens": 24306,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24737
-  },
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:52:27.853896562Z",
   "translation": "E Moshé enviou ⟨את⟩ seu sogro, e ele foi para a sua própria terra.",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "E Moshé enviou"
+      "gloss": "E Moshé enviou"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "seu sogro"
     },
     {
       "surface": "חתנו",
-      "english": "seu sogro"
+      "gloss": "seu sogro"
     },
     {
       "surface": "וילך",
-      "english": "e ele foi"
+      "gloss": "e ele foi"
     },
     {
       "surface": "לו",
-      "english": "para a"
+      "gloss": "para a"
     },
     {
       "surface": "אל",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ארצו",
-      "english": "sua própria terra"
+      "gloss": "sua própria terra"
     }
-  ],
-  "timestamp": "2026-07-16T13:52:27.853896562Z",
-  "model": "glm-4.5"
+  ]
 }

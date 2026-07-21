@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 35:15",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 474,
-    "prompt_tokens": 29151,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29625
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:56:20.107364131Z",
   "translation": "E Yaakov chamou ⟨o⟩ nome ⟨do⟩ lugar onde Elohim havia falado com ele, Bet-El.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "E chamou"
+      "gloss": "E chamou"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "את",
-      "english": "⟨o⟩",
+      "gloss": "⟨o⟩",
       "marks": "nome"
     },
     {
       "surface": "שם",
-      "english": "nome"
+      "gloss": "nome"
     },
     {
       "surface": "המקום",
-      "english": "⟨do⟩ lugar"
+      "gloss": "⟨do⟩ lugar"
     },
     {
       "surface": "אשר",
-      "english": "onde"
+      "gloss": "onde"
     },
     {
       "surface": "דבר",
-      "english": "havia falado"
+      "gloss": "havia falado"
     },
     {
       "surface": "אתו",
-      "english": "com ele"
+      "gloss": "com ele"
     },
     {
       "surface": "שם",
-      "english": "lá"
+      "gloss": "lá"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בית",
-      "english": "Bet"
+      "gloss": "Bet"
     },
     {
       "surface": "אל",
-      "english": "-El"
+      "gloss": "-El"
     }
-  ],
-  "timestamp": "2026-07-16T14:56:20.107364131Z",
-  "model": "glm-4.5"
+  ]
 }

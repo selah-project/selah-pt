@@ -1,92 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-samuel 12:6",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 696,
-    "prompt_tokens": 24868,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 25564
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:47:07.453970135Z",
   "translation": "E Shmuel disse ao povo: YHWH, ⟨que⟩ fez ⟨את⟩ Moshé e ⟨את⟩ Aharon, e ⟨que⟩ fez subir ⟨את⟩ vossos pais da terra de Mitzráyim, é ⟨testemunha⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "שמואל",
-      "english": "Shmuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "העם",
-      "english": "o povo"
+      "gloss": "o povo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "עשה",
-      "english": "fez"
+      "gloss": "fez"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Moshé"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Aharon"
     },
     {
       "surface": "אהרן",
-      "english": "Aharon"
+      "gloss": "Aharon"
     },
     {
       "surface": "ואשר",
-      "english": "e ⟨que⟩"
+      "gloss": "e ⟨que⟩"
     },
     {
       "surface": "העלה",
-      "english": "fez subir"
+      "gloss": "fez subir"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vossos pais"
     },
     {
       "surface": "אבתיכם",
-      "english": "vossos pais"
+      "gloss": "vossos pais"
     },
     {
       "surface": "מארץ",
-      "english": "da terra"
+      "gloss": "da terra"
     },
     {
       "surface": "מצרים",
-      "english": "de Mitzráyim"
+      "gloss": "de Mitzráyim"
     }
-  ],
-  "timestamp": "2026-07-16T11:47:07.453970135Z",
-  "model": "glm-4.5"
+  ]
 }

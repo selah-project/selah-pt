@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 44:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 484,
-    "prompt_tokens": 70255,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70739
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:38:40.300614791Z",
   "translation": "Mas tu rejeitaste e nos envergonhaste, e não saíste com ⟨os nossos⟩ exércitos.",
   "tokens": [
     {
       "surface": "אף",
-      "english": "Mas"
+      "gloss": "Mas"
     },
     {
       "surface": "זנחת",
-      "english": "rejeitaste"
+      "gloss": "rejeitaste"
     },
     {
       "surface": "ותכלימנו",
-      "english": "e nos envergonhaste"
+      "gloss": "e nos envergonhaste"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "תצא",
-      "english": "saíste"
+      "gloss": "saíste"
     },
     {
       "surface": "בצבאותינו",
-      "english": "com ⟨os nossos⟩ exércitos"
+      "gloss": "com ⟨os nossos⟩ exércitos"
     }
-  ],
-  "timestamp": "2026-07-16T17:38:40.300614791Z",
-  "model": "glm-4.5"
+  ]
 }

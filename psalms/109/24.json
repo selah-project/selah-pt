@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 109:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62772,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63229
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:53:32.682736440Z",
   "translation": "Meus joelhos tropeçam ⟨de⟩ jejum e minha carne ⟨está⟩ magra ⟨por⟩ falta ⟨de⟩ gordura.",
   "tokens": [
     {
       "surface": "ברכי",
-      "english": "Meus joelhos tropeçam"
+      "gloss": "Meus joelhos tropeçam"
     },
     {
       "surface": "כשלו",
-      "english": "⟨de⟩ jejum"
+      "gloss": "⟨de⟩ jejum"
     },
     {
       "surface": "מצום",
-      "english": "e minha carne"
+      "gloss": "e minha carne"
     },
     {
       "surface": "ובשרי",
-      "english": "⟨está⟩ magra"
+      "gloss": "⟨está⟩ magra"
     },
     {
       "surface": "כחש",
-      "english": "⟨por⟩ falta ⟨de⟩"
+      "gloss": "⟨por⟩ falta ⟨de⟩"
     },
     {
       "surface": "משמן",
-      "english": "gordura"
+      "gloss": "gordura"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:53:32.682736440Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

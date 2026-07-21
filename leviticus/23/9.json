@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "leviticus 23:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 215,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17116,
-    "prompt_tokens_details": {
-      "cached_tokens": 16414
-    },
-    "total_tokens": 17331
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:00:50.694905181Z",
   "translation": "E YHWH falou a Moshé ⟨para⟩ dizer",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "E YHWH falou"
+      "gloss": "E YHWH falou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ dizer"
+      "gloss": "⟨para⟩ dizer"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:00:50.694905181Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

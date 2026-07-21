@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "exodus 6:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 6,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:41:22.017183283Z",
+  "translation": "E os filhos de Jitsar ⟨são⟩ Koraj, ⟨e⟩ Nefeg, ⟨e⟩ Zicri.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "de Jitsar"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraj"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "⟨e⟩ Nefeg"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "⟨e⟩ Zicri"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Corá",
@@ -13,44 +40,6 @@
       "hebrew": "קרח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 192,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16639,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 16831
-  },
-  "translation": "E os filhos de Jitsar ⟨são⟩ Koraj, ⟨e⟩ Nefeg, ⟨e⟩ Zicri.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos"
-    },
-    {
-      "surface": "יצהר",
-      "english": "de Jitsar"
-    },
-    {
-      "surface": "קרח",
-      "english": "Koraj"
-    },
-    {
-      "surface": "ונפג",
-      "english": "⟨e⟩ Nefeg"
-    },
-    {
-      "surface": "וזכרי",
-      "english": "⟨e⟩ Zicri"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:41:22.017183283Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

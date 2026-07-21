@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 107:18",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 362,
-    "prompt_tokens": 70356,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70718
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:46:30.709525351Z",
   "translation": "Toda a comida a alma deles abomina, e eles ⟨se⟩ aproximam até as portas da morte",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Toda"
+      "gloss": "Toda"
     },
     {
       "surface": "אכל",
-      "english": "a comida"
+      "gloss": "a comida"
     },
     {
       "surface": "תתעב",
-      "english": "abomina"
+      "gloss": "abomina"
     },
     {
       "surface": "נפשם",
-      "english": "a alma deles"
+      "gloss": "a alma deles"
     },
     {
       "surface": "ויגיעו",
-      "english": "e eles ⟨se⟩ aproximam"
+      "gloss": "e eles ⟨se⟩ aproximam"
     },
     {
       "surface": "עד",
-      "english": "até"
+      "gloss": "até"
     },
     {
       "surface": "שערי",
-      "english": "as portas"
+      "gloss": "as portas"
     },
     {
       "surface": "מות",
-      "english": "da morte"
+      "gloss": "da morte"
     }
-  ],
-  "timestamp": "2026-07-16T17:46:30.709525351Z",
-  "model": "glm-4.5"
+  ]
 }

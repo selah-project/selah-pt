@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 46:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62775,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63172
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:09:42.479853484Z",
   "translation": "YHWH Tzevaot ⟨está⟩ conosco; ⟨o⟩ Elohim de Ya'akov ⟨é⟩ nosso abrigo alto. Selah",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "עמנו",
-      "english": "conosco"
+      "gloss": "conosco"
     },
     {
       "surface": "משגב",
-      "english": "abrigo alto"
+      "gloss": "abrigo alto"
     },
     {
       "surface": "לנו",
-      "english": "nosso"
+      "gloss": "nosso"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יעקב",
-      "english": "de Ya'akov"
+      "gloss": "de Ya'akov"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:09:42.479853484Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

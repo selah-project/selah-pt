@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "judges 20:9",
   "book": "judges",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 458,
-    "prompt_tokens": 23626,
-    "prompt_tokens_details": {
-      "cached_tokens": 22528
-    },
-    "total_tokens": 24084
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:31:44.255693273Z",
   "translation": "E agora, este ⟨é⟩ ⟨o⟩ davar que faremos a Guivá: contra ela, por góral.",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "E agora"
+      "gloss": "E agora"
     },
     {
       "surface": "זה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "הדבר",
-      "english": "⟨o⟩ davar"
+      "gloss": "⟨o⟩ davar"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "נעשה",
-      "english": "faremos"
+      "gloss": "faremos"
     },
     {
       "surface": "לגבעה",
-      "english": "a Guivá"
+      "gloss": "a Guivá"
     },
     {
       "surface": "עליה",
-      "english": "contra ela"
+      "gloss": "contra ela"
     },
     {
       "surface": "בגורל",
-      "english": "por góral"
+      "gloss": "por góral"
     }
-  ],
-  "timestamp": "2026-07-16T16:31:44.255693273Z",
-  "model": "glm-4.5"
+  ]
 }

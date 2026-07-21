@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "song-of-songs 5:3",
   "book": "song-of-songs",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 455,
-    "prompt_tokens": 28446,
-    "prompt_tokens_details": {
-      "cached_tokens": 26752
-    },
-    "total_tokens": 28901
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:55:24.178292963Z",
   "translation": "Despi ⟨את⟩ a minha túnica, como ⟨a⟩ porei ⟨a⟩ ela? Lavei ⟨את⟩ os meus pés, como ⟨a⟩ os sujarei?",
   "tokens": [
     {
       "surface": "פשטתי",
-      "english": "Despi"
+      "gloss": "Despi"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a minha túnica"
     },
     {
       "surface": "כתנתי",
-      "english": "a minha túnica"
+      "gloss": "a minha túnica"
     },
     {
       "surface": "איככה",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "אלבשנה",
-      "english": "porei ⟨a⟩ ela"
+      "gloss": "porei ⟨a⟩ ela"
     },
     {
       "surface": "רחצתי",
-      "english": "Lavei"
+      "gloss": "Lavei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os meus pés"
     },
     {
       "surface": "רגלי",
-      "english": "os meus pés"
+      "gloss": "os meus pés"
     },
     {
       "surface": "איככה",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "אטנפם",
-      "english": "sujarei"
+      "gloss": "sujarei"
     }
-  ],
-  "timestamp": "2026-07-16T17:55:24.178292963Z",
-  "model": "glm-4.5"
+  ]
 }

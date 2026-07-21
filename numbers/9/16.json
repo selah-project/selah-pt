@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "numbers 9:16",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25412,
-    "prompt_tokens_details": {
-      "cached_tokens": 24319
-    },
-    "total_tokens": 25782
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:48:09.685598888Z",
   "translation": "Assim ⟨é⟩ perpetuamente: ⟨o⟩ nuvem ⟨o⟩ cobrirá de dia e ⟨o⟩ aspeto de fogo ⟨estará sobre ele⟩ ⟨por⟩ noite.",
   "tokens": [
     {
       "surface": "כן",
-      "english": "Assim"
+      "gloss": "Assim"
     },
     {
       "surface": "יהיה",
-      "english": "⟨é⟩"
+      "gloss": "⟨é⟩"
     },
     {
       "surface": "תמיד",
-      "english": "perpetuamente"
+      "gloss": "perpetuamente"
     },
     {
       "surface": "הענן",
-      "english": "⟨o⟩ nuvem"
+      "gloss": "⟨o⟩ nuvem"
     },
     {
       "surface": "יכסנו",
-      "english": "⟨o⟩ cobrirá"
+      "gloss": "⟨o⟩ cobrirá"
     },
     {
       "surface": "ומראה",
-      "english": "e ⟨o⟩ aspeto"
+      "gloss": "e ⟨o⟩ aspeto"
     },
     {
       "surface": "אש",
-      "english": "de fogo"
+      "gloss": "de fogo"
     },
     {
       "surface": "לילה",
-      "english": "⟨por⟩ noite"
+      "gloss": "⟨por⟩ noite"
     }
-  ],
-  "timestamp": "2026-06-13T02:48:09.685598888Z",
-  "model": "glm-4.5"
+  ]
 }

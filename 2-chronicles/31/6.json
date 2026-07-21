@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-chronicles 31:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 31,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:45:10.174513943Z",
+  "translation": "E os filhos de Yisrael e Yehudá, ⟨que⟩ habitavam nas cidades de Yehudá, também eles ⟨trouxeram⟩ o dízimo do gado ⟨e⟩ do rebanho, e o dízimo das coisas santas ⟨que foram⟩ consagradas a ⟨YHWH⟩ seu Elohim, e trouxeram e deram — montes, montes.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Judá"
+    },
+    {
+      "surface": "היושבים",
+      "gloss": "⟨que⟩ habitavam"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "nas cidades de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "הם",
+      "gloss": "eles"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "o dízimo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "do gado"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "⟨e⟩ do rebanho"
+    },
+    {
+      "surface": "ומעשר",
+      "gloss": "e o dízimo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "das coisas santas"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "⟨que foram⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a ⟨YHWH⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "seu Elohim"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "⟨trouxeram⟩"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "e deram"
+    },
+    {
+      "surface": "ערמות",
+      "gloss": "— montes"
+    },
+    {
+      "surface": "ערמות",
+      "gloss": "montes"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,104 +107,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 722,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59351,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 60073
-  },
-  "translation": "E os filhos de Yisrael e Yehudá, ⟨que⟩ habitavam nas cidades de Yehudá, também eles ⟨trouxeram⟩ o dízimo do gado ⟨e⟩ do rebanho, e o dízimo das coisas santas ⟨que foram⟩ consagradas a ⟨YHWH⟩ seu Elohim, e trouxeram e deram — montes, montes.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "e Judá"
-    },
-    {
-      "surface": "היושבים",
-      "english": "⟨que⟩ habitavam"
-    },
-    {
-      "surface": "בערי",
-      "english": "nas cidades de"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "הם",
-      "english": "eles"
-    },
-    {
-      "surface": "מעשר",
-      "english": "o dízimo"
-    },
-    {
-      "surface": "בקר",
-      "english": "do gado"
-    },
-    {
-      "surface": "וצאן",
-      "english": "⟨e⟩ do rebanho"
-    },
-    {
-      "surface": "ומעשר",
-      "english": "e o dízimo"
-    },
-    {
-      "surface": "קדשים",
-      "english": "das coisas santas"
-    },
-    {
-      "surface": "המקדשים",
-      "english": "⟨que foram⟩"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "a ⟨YHWH⟩"
-    },
-    {
-      "surface": "אלהיהם",
-      "english": "seu Elohim"
-    },
-    {
-      "surface": "הביאו",
-      "english": "⟨trouxeram⟩"
-    },
-    {
-      "surface": "ויתנו",
-      "english": "e deram"
-    },
-    {
-      "surface": "ערמות",
-      "english": "— montes"
-    },
-    {
-      "surface": "ערמות",
-      "english": "montes"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:45:10.174513943Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

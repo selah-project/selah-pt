@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "exodus 20:23",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24380,
-    "prompt_tokens_details": {
-      "cached_tokens": 23183
-    },
-    "total_tokens": 24853
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:18:57.670442169Z",
   "translation": "Não fareis ⟨com⟩ ⟨mim⟩ deuses de ⟨prata⟩, ⟨nem⟩ fareis ⟨para⟩ ⟨vós⟩ deuses de ⟨ouro⟩",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תעשון",
-      "english": "fareis"
+      "gloss": "fareis"
     },
     {
       "surface": "אתי",
-      "english": "⟨com⟩ ⟨mim⟩"
+      "gloss": "⟨com⟩ ⟨mim⟩"
     },
     {
       "surface": "אלהי",
-      "english": "deuses de ⟨prata⟩"
+      "gloss": "deuses de ⟨prata⟩"
     },
     {
       "surface": "כסף",
-      "english": "⟨prata⟩"
+      "gloss": "⟨prata⟩"
     },
     {
       "surface": "ואלהי",
-      "english": "⟨nem⟩ deuses de ⟨ouro⟩"
+      "gloss": "⟨nem⟩ deuses de ⟨ouro⟩"
     },
     {
       "surface": "זהב",
-      "english": "⟨ouro⟩"
+      "gloss": "⟨ouro⟩"
     },
     {
       "surface": "לא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תעשו",
-      "english": "fareis ⟨para⟩ ⟨vós⟩"
+      "gloss": "fareis ⟨para⟩ ⟨vós⟩"
     },
     {
       "surface": "לכם",
-      "english": "⟨para⟩ ⟨vós⟩"
+      "gloss": "⟨para⟩ ⟨vós⟩"
     }
-  ],
-  "timestamp": "2026-06-13T05:18:57.670442169Z",
-  "model": "glm-4.5"
+  ]
 }

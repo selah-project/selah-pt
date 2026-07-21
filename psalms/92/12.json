@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 92:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 554,
-    "prompt_tokens": 70398,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70952
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:44:53.789978823Z",
   "translation": "e ⟨o⟩ meu olho verá ⟨os⟩ que descansam em paz; e ⟨os⟩ meus ouvidos ouvirão ⟨sobre⟩ eles que se levantam contra mim malfeitores",
   "tokens": [
     {
       "surface": "ותבט",
-      "english": "e ⟨o⟩... verá"
+      "gloss": "e ⟨o⟩... verá"
     },
     {
       "surface": "עיני",
-      "english": "meu olho"
+      "gloss": "meu olho"
     },
     {
       "surface": "בשורי",
-      "english": "⟨os⟩ que descansam em paz"
+      "gloss": "⟨os⟩ que descansam em paz"
     },
     {
       "surface": "בקמים",
-      "english": "⟨os⟩ que se levantam"
+      "gloss": "⟨os⟩ que se levantam"
     },
     {
       "surface": "עלי",
-      "english": "⟨sobre⟩... mim"
+      "gloss": "⟨sobre⟩... mim"
     },
     {
       "surface": "מרעים",
-      "english": "malfeitores"
+      "gloss": "malfeitores"
     },
     {
       "surface": "תשמענה",
-      "english": "ouvirão"
+      "gloss": "ouvirão"
     },
     {
       "surface": "אזני",
-      "english": "meus ouvidos"
+      "gloss": "meus ouvidos"
     }
-  ],
-  "timestamp": "2026-07-16T17:44:53.789978823Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,78 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 40:15",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 580,
-    "prompt_tokens": 29446,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 30026
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:59:08.674303017Z",
   "translation": "porque furtivamente roubado ⟨fui⟩ da terra dos Hebreus, e também aqui nada fiz que ⟨eles⟩ me pusessem ⟨את⟩ no fosso",
   "tokens": [
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "גנב",
-      "english": "furtivamente"
+      "gloss": "furtivamente"
     },
     {
       "surface": "גנבתי",
-      "english": "roubado ⟨fui⟩"
+      "gloss": "roubado ⟨fui⟩"
     },
     {
       "surface": "מארץ",
-      "english": "da terra"
+      "gloss": "da terra"
     },
     {
       "surface": "העברים",
-      "english": "dos Hebreus"
+      "gloss": "dos Hebreus"
     },
     {
       "surface": "וגם",
-      "english": "e também"
+      "gloss": "e também"
     },
     {
       "surface": "פה",
-      "english": "aqui"
+      "gloss": "aqui"
     },
     {
       "surface": "לא",
-      "english": "nada"
+      "gloss": "nada"
     },
     {
       "surface": "עשיתי",
-      "english": "fiz"
+      "gloss": "fiz"
     },
     {
       "surface": "מאומה",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "כי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "שמו",
-      "english": "⟨eles⟩ me pusessem"
+      "gloss": "⟨eles⟩ me pusessem"
     },
     {
       "surface": "אתי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "בבור"
     },
     {
       "surface": "בבור",
-      "english": "no fosso"
+      "gloss": "no fosso"
     }
-  ],
-  "timestamp": "2026-07-16T14:59:08.674303017Z",
-  "model": "glm-4.5"
+  ]
 }

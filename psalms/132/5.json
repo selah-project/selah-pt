@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 132:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 352,
-    "prompt_tokens": 70292,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70644
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:45.715369115Z",
   "translation": "Até que eu encontre um lugar para YHWH, moradas para o Poderoso de Yaakov.",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Até que"
+      "gloss": "Até que"
     },
     {
       "surface": "אמצא",
-      "english": "eu encontre"
+      "gloss": "eu encontre"
     },
     {
       "surface": "מקום",
-      "english": "um lugar"
+      "gloss": "um lugar"
     },
     {
       "surface": "ליהוה",
-      "english": "para YHWH"
+      "gloss": "para YHWH"
     },
     {
       "surface": "משכנות",
-      "english": "moradas"
+      "gloss": "moradas"
     },
     {
       "surface": "לאביר",
-      "english": "para o Poderoso"
+      "gloss": "para o Poderoso"
     },
     {
       "surface": "יעקב",
-      "english": "de Yaakov"
+      "gloss": "de Yaakov"
     }
-  ],
-  "timestamp": "2026-07-16T17:50:45.715369115Z",
-  "model": "glm-4.5"
+  ]
 }

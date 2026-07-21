@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 6:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 748,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52852,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53600
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:22:45.882116011Z",
   "translation": "Não ⟨desejes⟩ a beleza ⟨dela⟩ em ⟨teu⟩ coração; nem ⟨ela te⟩ ⟨tome⟩ com ⟨suas⟩ pálpebras.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Não ⟨desejes⟩"
+      "gloss": "Não ⟨desejes⟩"
     },
     {
       "surface": "תחמד",
-      "english": "desejes"
+      "gloss": "desejes"
     },
     {
       "surface": "יפיה",
-      "english": "beleza ⟨dela⟩",
+      "gloss": "beleza ⟨dela⟩",
       "marks": "beleza dela"
     },
     {
       "surface": "בלבבך",
-      "english": "em ⟨teu⟩ coração",
+      "gloss": "em ⟨teu⟩ coração",
       "marks": "teu coração"
     },
     {
       "surface": "ואל",
-      "english": "nem ⟨ela te⟩"
+      "gloss": "nem ⟨ela te⟩"
     },
     {
       "surface": "תקחך",
-      "english": "⟨tome⟩"
+      "gloss": "⟨tome⟩"
     },
     {
       "surface": "בעפעפיה",
-      "english": "com ⟨suas⟩ pálpebras",
+      "gloss": "com ⟨suas⟩ pálpebras",
       "marks": "suas pálpebras"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:22:45.882116011Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

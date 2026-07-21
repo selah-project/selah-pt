@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-chronicles 27:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 27,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:02:20.036809766Z",
+  "translation": "Para ⟨os⟩ filhos de Efráyim: Hoshea ⟨o⟩ filho de Azazias; para ⟨o⟩ meio ⟨da⟩ tribo de Menashé: Yoel ⟨o⟩ filho de Pedaías",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Para ⟨os⟩ filhos de"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho de"
+    },
+    {
+      "surface": "עזזיהו",
+      "gloss": "Azazias"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "para ⟨o⟩ meio"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "⟨da⟩ tribo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho de"
+    },
+    {
+      "surface": "פדיהו",
+      "gloss": "Pedaías"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -27,68 +78,6 @@
       "hebrew": "יואל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57474,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57881
-  },
-  "translation": "Para ⟨os⟩ filhos de Efráyim: Hoshea ⟨o⟩ filho de Azazias; para ⟨o⟩ meio ⟨da⟩ tribo de Menashé: Yoel ⟨o⟩ filho de Pedaías",
-  "tokens": [
-    {
-      "surface": "לבני",
-      "english": "Para ⟨os⟩ filhos de"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "הושע",
-      "english": "Hoshea"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho de"
-    },
-    {
-      "surface": "עזזיהו",
-      "english": "Azazias"
-    },
-    {
-      "surface": "לחצי",
-      "english": "para ⟨o⟩ meio"
-    },
-    {
-      "surface": "שבט",
-      "english": "⟨da⟩ tribo"
-    },
-    {
-      "surface": "מנשה",
-      "english": "Menashé"
-    },
-    {
-      "surface": "יואל",
-      "english": "Yoel"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho de"
-    },
-    {
-      "surface": "פדיהו",
-      "english": "Pedaías"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:02:20.036809766Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

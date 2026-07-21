@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "job 33:27",
   "book": "job",
-  "lang": "pt",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 661,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27659,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 28320
-  },
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:46:15.137704844Z",
   "translation": "Ele⟨é⟩⟨que⟩⟨o⟩espreita⟨em⟩⟨os⟩homens e ⟨diz⟩: Pequei e ⟨o⟩caminho reto eu⟨o⟩perverti e não⟨se⟩assemelhou⟨a⟩mim",
   "tokens": [
     {
       "surface": "ישר",
-      "english": "espreita"
+      "gloss": "espreita"
     },
     {
       "surface": "על",
-      "english": "⟨em⟩"
+      "gloss": "⟨em⟩"
     },
     {
       "surface": "אנשים",
-      "english": "⟨os⟩homens"
+      "gloss": "⟨os⟩homens"
     },
     {
       "surface": "ויאמר",
-      "english": "e ⟨diz⟩"
+      "gloss": "e ⟨diz⟩"
     },
     {
       "surface": "חטאתי",
-      "english": "Pequei"
+      "gloss": "Pequei"
     },
     {
       "surface": "וישר",
-      "english": "e ⟨o⟩caminho reto"
+      "gloss": "e ⟨o⟩caminho reto"
     },
     {
       "surface": "העויתי",
-      "english": "eu⟨o⟩perverti"
+      "gloss": "eu⟨o⟩perverti"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "שוה",
-      "english": "⟨se⟩assemelhou"
+      "gloss": "⟨se⟩assemelhou"
     },
     {
       "surface": "לי",
-      "english": "⟨a⟩mim"
+      "gloss": "⟨a⟩mim"
     }
-  ],
-  "timestamp": "2026-06-13T06:46:15.137704844Z",
-  "model": "glm-4.5"
+  ]
 }

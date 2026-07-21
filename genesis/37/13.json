@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "genesis 37:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 37,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:19:37.110037881Z",
+  "translation": "E Yisrael disse a Yosef: Não ⟨estão⟩ teus irmãos apascentando ⟨o⟩ rebanho em Siquém? Vem, e eu te enviarei a eles. E ele disse a ele: Eis-me aqui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Israel disse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Não ⟨estão⟩"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "teus irmãos"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "apascentando"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "em Siquém"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "e eu te enviarei"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "a eles"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E ele disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Eis-me aqui"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,80 +83,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21927,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22434
-  },
-  "translation": "E Yisrael disse a Yosef: Não ⟨estão⟩ teus irmãos apascentando ⟨o⟩ rebanho em Siquém? Vem, e eu te enviarei a eles. E ele disse a ele: Eis-me aqui.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Israel disse"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    },
-    {
-      "surface": "הלוא",
-      "english": "Não ⟨estão⟩"
-    },
-    {
-      "surface": "אחיך",
-      "english": "teus irmãos"
-    },
-    {
-      "surface": "רעים",
-      "english": "apascentando"
-    },
-    {
-      "surface": "בשכם",
-      "english": "em Siquém"
-    },
-    {
-      "surface": "לכה",
-      "english": "Vem"
-    },
-    {
-      "surface": "ואשלחך",
-      "english": "e eu te enviarei"
-    },
-    {
-      "surface": "אליהם",
-      "english": "a eles"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E ele disse"
-    },
-    {
-      "surface": "לו",
-      "english": "a ele"
-    },
-    {
-      "surface": "הנני",
-      "english": "Eis-me aqui"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:19:37.110037881Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

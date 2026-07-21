@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "jonah 4:3",
   "book": "jonah",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 522,
-    "prompt_tokens": 27413,
-    "prompt_tokens_details": {
-      "cached_tokens": 25856
-    },
-    "total_tokens": 27935
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:05:47.408156447Z",
   "translation": "E agora, YHWH, toma, peço-te, ⟨את⟩ a minha alma de mim, pois ⟨é⟩ bom ⟨o⟩ meu morrer do ⟨o⟩ meu viver.",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "E agora"
+      "gloss": "E agora"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "קח",
-      "english": "toma"
+      "gloss": "toma"
     },
     {
       "surface": "נא",
-      "english": "peço-te"
+      "gloss": "peço-te"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a minha alma"
     },
     {
       "surface": "נפשי",
-      "english": "a minha alma"
+      "gloss": "a minha alma"
     },
     {
       "surface": "ממני",
-      "english": "de mim"
+      "gloss": "de mim"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "טוב",
-      "english": "⟨é⟩ bom"
+      "gloss": "⟨é⟩ bom"
     },
     {
       "surface": "מותי",
-      "english": "⟨o⟩ meu morrer"
+      "gloss": "⟨o⟩ meu morrer"
     },
     {
       "surface": "מחיי",
-      "english": "do ⟨o⟩ meu viver"
+      "gloss": "do ⟨o⟩ meu viver"
     }
-  ],
-  "timestamp": "2026-07-16T16:05:47.408156447Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 130:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62756,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63159
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:07:11.139617776Z",
   "translation": "Canto ⟨das⟩ subidas — das profundezas clamei ⟨a⟩ ti, ⟨ó⟩ YHWH",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Canto"
+      "gloss": "Canto"
     },
     {
       "surface": "המעלות",
-      "english": "⟨das⟩ subidas"
+      "gloss": "⟨das⟩ subidas"
     },
     {
       "surface": "ממעמקים",
-      "english": "das profundezas"
+      "gloss": "das profundezas"
     },
     {
       "surface": "קראתיך",
-      "english": "clamei ⟨a⟩ ti"
+      "gloss": "clamei ⟨a⟩ ti"
     },
     {
       "surface": "יהוה",
-      "english": "⟨ó⟩ YHWH"
+      "gloss": "⟨ó⟩ YHWH"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:07:11.139617776Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

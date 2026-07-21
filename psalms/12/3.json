@@ -1,78 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 12:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 928,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63212,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 64140
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:46:58.404662029Z",
   "translation": "Eles falam ⟨com⟩ ⟨vaidade⟩, um homem ⟨com⟩ ⟨o⟩ seu próximo ⟨com⟩ lábios lisonjeiros ⟨e⟩ ⟨com⟩ um coração duplo falam.",
   "tokens": [
     {
       "surface": "שוא",
-      "english": "⟨Com⟩ ⟨vaidade⟩",
+      "gloss": "⟨Com⟩ ⟨vaidade⟩",
       "rationale": "Conceito hebraico que engloba ruína, mal moral e palavras vazias; traduzido com duas palavras para capturar a amplitude."
     },
     {
       "surface": "ידברו",
-      "english": "Eles falam",
+      "gloss": "Eles falam",
       "rationale": "3ª pessoa plural masculino, 'falam'."
     },
     {
       "surface": "איש",
-      "english": "um homem",
+      "gloss": "um homem",
       "rationale": "Indivíduo, ser humano masculino; aqui no sentido de 'cada um' ou 'qualquer um'."
     },
     {
       "surface": "את",
-      "english": "⟨com⟩ ⟨o⟩",
+      "gloss": "⟨com⟩ ⟨o⟩",
       "marks": "o seu próximo"
     },
     {
       "surface": "רעהו",
-      "english": "o seu próximo",
+      "gloss": "o seu próximo",
       "rationale": "Associado, companheiro, vizinho; 'seu' indica posse (3ª masc. sing.)."
     },
     {
       "surface": "שפת",
-      "english": "lábios",
+      "gloss": "lábios",
       "rationale": "Lit. 'lábio'; por metonímia, a linguagem ou o que é falado."
     },
     {
       "surface": "חלקות",
-      "english": "lisonjeiros",
+      "gloss": "lisonjeiros",
       "rationale": "Literalmente 'lisuras', 'suavidades'; figurativamente, lisonjas, bajulações."
     },
     {
       "surface": "בלב",
-      "english": "⟨com⟩ ⟨um⟩",
+      "gloss": "⟨com⟩ ⟨um⟩",
       "rationale": "Preposição 'em\/com' + 'coração'; o artigo 'um' é acrescentado em português."
     },
     {
       "surface": "ולב",
-      "english": "coração duplo",
+      "gloss": "coração duplo",
       "rationale": "'e' + 'coração'; 'duplo' traduz a ideia implícita de dois corações ou hipocrisia."
     },
     {
       "surface": "ידברו",
-      "english": "falam",
+      "gloss": "falam",
       "rationale": "Repetição do verbo 'falar' para ênfase e para completar a frase."
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:46:58.404662029Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

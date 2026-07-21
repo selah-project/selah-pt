@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 71:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 521,
-    "prompt_tokens": 70371,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70892
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:40:06.016725072Z",
   "translation": "Porque me falam os meus inimigos, e os que vigiam a minha alma deliberam unidos",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אמרו",
-      "english": "me falam"
+      "gloss": "me falam"
     },
     {
       "surface": "אויבי",
-      "english": "os meus inimigos"
+      "gloss": "os meus inimigos"
     },
     {
       "surface": "לי",
-      "english": "me"
+      "gloss": "me"
     },
     {
       "surface": "ושמרי",
-      "english": "e os que vigiam"
+      "gloss": "e os que vigiam"
     },
     {
       "surface": "נפשי",
-      "english": "a minha alma"
+      "gloss": "a minha alma"
     },
     {
       "surface": "נועצו",
-      "english": "deliberam"
+      "gloss": "deliberam"
     },
     {
       "surface": "יחדו",
-      "english": "unidos"
+      "gloss": "unidos"
     }
-  ],
-  "timestamp": "2026-07-16T17:40:06.016725072Z",
-  "model": "glm-4.5"
+  ]
 }

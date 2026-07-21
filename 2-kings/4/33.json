@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "2-kings 4:33",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 440,
-    "prompt_tokens": 24247,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24687
-  },
+  "verse": 33,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:30:38.079978751Z",
   "translation": "E entrou, e fechou ⟨a⟩ porta sobre ⟨os⟩ dois deles, e orou a YHWH",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "E entrou"
+      "gloss": "E entrou"
     },
     {
       "surface": "ויסגר",
-      "english": "e fechou"
+      "gloss": "e fechou"
     },
     {
       "surface": "הדלת",
-      "english": "⟨a⟩ porta"
+      "gloss": "⟨a⟩ porta"
     },
     {
       "surface": "בעד",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "שניהם",
-      "english": "⟨os⟩ dois deles"
+      "gloss": "⟨os⟩ dois deles"
     },
     {
       "surface": "ויתפלל",
-      "english": "e orou"
+      "gloss": "e orou"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T12:30:38.079978751Z",
-  "model": "glm-4.5"
+  ]
 }

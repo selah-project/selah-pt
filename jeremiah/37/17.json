@@ -1,9 +1,101 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "jeremiah 37:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 37,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:42:13.981304445Z",
+  "translation": "E o rei Tsidkijahu ⟨o⟩ enviou e ⟨o⟩ tomou, e o interrogou o rei em sua casa em segredo, e disse: ⟨Existe⟩ ⟨palavra⟩ ⟨de⟩ ⟨YHWH⟩? E ⟨disse⟩ Yirmeyahu: ⟨Existe⟩. E disse: Na mão do rei de Bavel ⟨serás⟩ entregue.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E ⟨o⟩ enviou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahu"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "e ⟨o⟩ tomou"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "e o interrogou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "em sua casa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "em segredo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "היש",
+      "gloss": "⟨Existe⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨palavra⟩"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨de⟩",
+      "marks": "palavra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨YHWH⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e ⟨disse⟩"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨Existe⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na mão"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "do rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "⟨serás⟩ entregue"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,109 +105,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 765,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18722,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 19487
-  },
-  "translation": "E o rei Tsidkijahu ⟨o⟩ enviou e ⟨o⟩ tomou, e o interrogou o rei em sua casa em segredo, e disse: ⟨Existe⟩ ⟨palavra⟩ ⟨de⟩ ⟨YHWH⟩? E ⟨disse⟩ Yirmeyahu: ⟨Existe⟩. E disse: Na mão do rei de Bavel ⟨serás⟩ entregue.",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "E ⟨o⟩ enviou"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "צדקיהו",
-      "english": "Tsidkijahu"
-    },
-    {
-      "surface": "ויקחהו",
-      "english": "e ⟨o⟩ tomou"
-    },
-    {
-      "surface": "וישאלהו",
-      "english": "e o interrogou"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "בביתו",
-      "english": "em sua casa"
-    },
-    {
-      "surface": "בסתר",
-      "english": "em segredo"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "היש",
-      "english": "⟨Existe⟩"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨palavra⟩"
-    },
-    {
-      "surface": "מאת",
-      "english": "⟨de⟩",
-      "marks": "palavra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨YHWH⟩"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e ⟨disse⟩"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "Yirmeyahu"
-    },
-    {
-      "surface": "יש",
-      "english": "⟨Existe⟩"
-    },
-    {
-      "surface": "ואמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "ביד",
-      "english": "na mão"
-    },
-    {
-      "surface": "מלך",
-      "english": "do rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "תנתן",
-      "english": "⟨serás⟩ entregue"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:42:13.981304445Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

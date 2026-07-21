@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 5:4",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 365,
-    "prompt_tokens": 65582,
-    "prompt_tokens_details": {
-      "cached_tokens": 64384
-    },
-    "total_tokens": 65947
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:08:27.883173231Z",
   "translation": "E vieram todos ⟨os⟩ anciãos de Yisrael, e os levitas ergueram ⟨את⟩ a Aron",
   "tokens": [
     {
       "surface": "ויבאו",
-      "english": "E vieram"
+      "gloss": "E vieram"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "זקני",
-      "english": "⟨os⟩ anciãos"
+      "gloss": "⟨os⟩ anciãos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "וישאו",
-      "english": "e os levitas ergueram"
+      "gloss": "e os levitas ergueram"
     },
     {
       "surface": "הלוים",
-      "english": "e os levitas ergueram"
+      "gloss": "e os levitas ergueram"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Aron"
     },
     {
       "surface": "הארון",
-      "english": "a Aron"
+      "gloss": "a Aron"
     }
-  ],
-  "timestamp": "2026-07-16T12:08:27.883173231Z",
-  "model": "glm-4.5"
+  ]
 }

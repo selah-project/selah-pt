@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 106:26",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 439,
-    "prompt_tokens": 70290,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70729
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:46:34.761849046Z",
   "translation": "Então YHWH levantou ⟨a⟩ mão contra eles, para os fazer cair ⟨את⟩ no deserto,",
   "tokens": [
     {
       "surface": "וישא",
-      "english": "Então YHWH levantou"
+      "gloss": "Então YHWH levantou"
     },
     {
       "surface": "ידו",
-      "english": "⟨a⟩ mão"
+      "gloss": "⟨a⟩ mão"
     },
     {
       "surface": "להם",
-      "english": "contra eles,"
+      "gloss": "contra eles,"
     },
     {
       "surface": "להפיל",
-      "english": "para os fazer cair"
+      "gloss": "para os fazer cair"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "no deserto"
     },
     {
       "surface": "במדבר",
-      "english": "no deserto,"
+      "gloss": "no deserto,"
     }
-  ],
-  "timestamp": "2026-07-16T17:46:34.761849046Z",
-  "model": "glm-4.5"
+  ]
 }

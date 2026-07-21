@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 117:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 117,
-  "usage": {
-    "completion_tokens": 326,
-    "prompt_tokens": 70503,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70829
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:08.980568449Z",
   "translation": "Louvai ⟨את⟩ YHWH, todos ⟨os⟩ povos; louvai-o, todos ⟨os⟩ povos.",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "Louvai"
+      "gloss": "Louvai"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "גוים",
-      "english": "povos"
+      "gloss": "povos"
     },
     {
       "surface": "שבחוהו",
-      "english": "louvai-o"
+      "gloss": "louvai-o"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "האמים",
-      "english": "povos"
+      "gloss": "povos"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:08.980568449Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 2:15",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 472,
-    "prompt_tokens": 29068,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29540
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:38:00.007467833Z",
   "translation": "E YHWH Elohim tomou ⟨את⟩ ⟨o⟩ homem e o colocou no jardim de Éden para lavrá-lo e para guardá-lo.",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "E ... tomou"
+      "gloss": "E ... tomou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o homem"
     },
     {
       "surface": "האדם",
-      "english": "o homem"
+      "gloss": "o homem"
     },
     {
       "surface": "וינחהו",
-      "english": "e o colocou"
+      "gloss": "e o colocou"
     },
     {
       "surface": "בגן",
-      "english": "no jardim"
+      "gloss": "no jardim"
     },
     {
       "surface": "עדן",
-      "english": "de Éden"
+      "gloss": "de Éden"
     },
     {
       "surface": "לעבדה",
-      "english": "para lavrá-lo"
+      "gloss": "para lavrá-lo"
     },
     {
       "surface": "ולשמרה",
-      "english": "e para guardá-lo"
+      "gloss": "e para guardá-lo"
     }
-  ],
-  "timestamp": "2026-07-16T14:38:00.007467833Z",
-  "model": "glm-4.5"
+  ]
 }

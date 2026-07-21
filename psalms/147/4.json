@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 147:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 443,
-    "prompt_tokens": 70231,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70674
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:52:59.490654328Z",
   "translation": "Ele ⟨é⟩ quem conta o número das estrelas; a todas elas ⟨ele⟩ chama por seus nomes.",
   "tokens": [
     {
       "surface": "מונה",
-      "english": "Ele ⟨é⟩ quem conta"
+      "gloss": "Ele ⟨é⟩ quem conta"
     },
     {
       "surface": "מספר",
-      "english": "o número"
+      "gloss": "o número"
     },
     {
       "surface": "לכוכבים",
-      "english": "das estrelas"
+      "gloss": "das estrelas"
     },
     {
       "surface": "לכלם",
-      "english": "a todas elas"
+      "gloss": "a todas elas"
     },
     {
       "surface": "שמות",
-      "english": "por seus nomes"
+      "gloss": "por seus nomes"
     },
     {
       "surface": "יקרא",
-      "english": "⟨ele⟩ chama"
+      "gloss": "⟨ele⟩ chama"
     }
-  ],
-  "timestamp": "2026-07-16T17:52:59.490654328Z",
-  "model": "glm-4.5"
+  ]
 }

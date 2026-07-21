@@ -1,9 +1,168 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-chronicles 22:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 22,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:32:06.469533857Z",
+  "translation": "Então Yehoshabáat, filha ⟨do⟩ rei, pegou ⟨a⟩ Yoash filho de Acazias e roubou-o ⟨de⟩ dentre os filhos ⟨do⟩ rei que estavam ⟨para ser⟩ mortos, e pôs ⟨a⟩ ele e ⟨a⟩ sua ama em ⟨um⟩ quarto ⟨de⟩ camas. E Yehoshabáat, filha ⟨do⟩ rei Yehorã, esposa de Yehoiada ⟨o⟩ kohen, porquanto ela ⟨era⟩ irmã de Acazias, escondeu-o ⟨de⟩ diante de Atalyá, e ⟨a⟩ ela não ⟨o⟩ matou.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Então pegou"
+    },
+    {
+      "surface": "יהושבעת",
+      "gloss": "Yehoshabáat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "filha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨do⟩ rei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Yoash filho de Acazias"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Acazias"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "e roubou-o"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨a⟩",
+      "marks": "dentre os filhos"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "⟨de⟩ dentre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨do⟩ rei"
+    },
+    {
+      "surface": "המומתים",
+      "gloss": "que estavam ⟨para ser⟩ mortos"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "e pôs ⟨a⟩ ele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨a⟩",
+      "marks": "ele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨a⟩",
+      "marks": "sua ama"
+    },
+    {
+      "surface": "מינקתו",
+      "gloss": "sua ama"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "em ⟨um⟩ quarto"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "⟨de⟩ camas"
+    },
+    {
+      "surface": "ותסתירהו",
+      "gloss": "e escondeu-o"
+    },
+    {
+      "surface": "יהושבעת",
+      "gloss": "E Yehoshabáat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "filha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨do⟩ rei"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorã"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "esposa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "de Yehoiada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨o⟩ kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porquanto"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ela ⟨era⟩"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "irmã"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "de Acazias"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨de⟩ diante"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "de Atalyá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ⟨a⟩ ela não"
+    },
+    {
+      "surface": "המיתתהו",
+      "gloss": "⟨o⟩ matou"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Atalia",
@@ -13,176 +172,6 @@
       "hebrew": "עתליה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 1359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 61268,
-    "prompt_tokens_details": {
-      "cached_tokens": 57025
-    },
-    "total_tokens": 62627
-  },
-  "translation": "Então Yehoshabáat, filha ⟨do⟩ rei, pegou ⟨a⟩ Yoash filho de Acazias e roubou-o ⟨de⟩ dentre os filhos ⟨do⟩ rei que estavam ⟨para ser⟩ mortos, e pôs ⟨a⟩ ele e ⟨a⟩ sua ama em ⟨um⟩ quarto ⟨de⟩ camas. E Yehoshabáat, filha ⟨do⟩ rei Yehorã, esposa de Yehoiada ⟨o⟩ kohen, porquanto ela ⟨era⟩ irmã de Acazias, escondeu-o ⟨de⟩ diante de Atalyá, e ⟨a⟩ ela não ⟨o⟩ matou.",
-  "tokens": [
-    {
-      "surface": "ותקח",
-      "english": "Então pegou"
-    },
-    {
-      "surface": "יהושבעת",
-      "english": "Yehoshabáat"
-    },
-    {
-      "surface": "בת",
-      "english": "filha"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨do⟩ rei"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Yoash filho de Acazias"
-    },
-    {
-      "surface": "יואש",
-      "english": "Yoash"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "אחזיהו",
-      "english": "Acazias"
-    },
-    {
-      "surface": "ותגנב",
-      "english": "e roubou-o"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨a⟩",
-      "marks": "dentre os filhos"
-    },
-    {
-      "surface": "מתוך",
-      "english": "⟨de⟩ dentre"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨do⟩ rei"
-    },
-    {
-      "surface": "המומתים",
-      "english": "que estavam ⟨para ser⟩ mortos"
-    },
-    {
-      "surface": "ותתן",
-      "english": "e pôs ⟨a⟩ ele"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨a⟩",
-      "marks": "ele"
-    },
-    {
-      "surface": "ואת",
-      "english": "e ⟨a⟩",
-      "marks": "sua ama"
-    },
-    {
-      "surface": "מינקתו",
-      "english": "sua ama"
-    },
-    {
-      "surface": "בחדר",
-      "english": "em ⟨um⟩ quarto"
-    },
-    {
-      "surface": "המטות",
-      "english": "⟨de⟩ camas"
-    },
-    {
-      "surface": "ותסתירהו",
-      "english": "e escondeu-o"
-    },
-    {
-      "surface": "יהושבעת",
-      "english": "E Yehoshabáat"
-    },
-    {
-      "surface": "בת",
-      "english": "filha"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨do⟩ rei"
-    },
-    {
-      "surface": "יהורם",
-      "english": "Yehorã"
-    },
-    {
-      "surface": "אשת",
-      "english": "esposa"
-    },
-    {
-      "surface": "יהוידע",
-      "english": "de Yehoiada"
-    },
-    {
-      "surface": "הכהן",
-      "english": "⟨o⟩ kohen"
-    },
-    {
-      "surface": "כי",
-      "english": "porquanto"
-    },
-    {
-      "surface": "היא",
-      "english": "ela ⟨era⟩"
-    },
-    {
-      "surface": "היתה",
-      "english": "⟨era⟩"
-    },
-    {
-      "surface": "אחות",
-      "english": "irmã"
-    },
-    {
-      "surface": "אחזיהו",
-      "english": "de Acazias"
-    },
-    {
-      "surface": "מפני",
-      "english": "⟨de⟩ diante"
-    },
-    {
-      "surface": "עתליהו",
-      "english": "de Atalyá"
-    },
-    {
-      "surface": "ולא",
-      "english": "e ⟨a⟩ ela não"
-    },
-    {
-      "surface": "המיתתהו",
-      "english": "⟨o⟩ matou"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:32:06.469533857Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

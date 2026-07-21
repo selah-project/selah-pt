@@ -1,9 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "amos 7:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 7,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:09:53.611576563Z",
+  "translation": "E eu disse: Adonai YHWH, cessa, ⟨peço⟩: quem ⟨poderá⟩ se levantar Yaakov, pois ⟨ele⟩ ⟨é⟩ pequeno?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "E eu disse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "cessa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨peço⟩",
+      "marks": "cessa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "quem"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "⟨poderá⟩ se levantar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "pequeno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ele⟩ ⟨é⟩",
+      "marks": "Jacó"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacó",
@@ -13,70 +66,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16717,
-    "prompt_tokens_details": {
-      "cached_tokens": 15413
-    },
-    "total_tokens": 17120
-  },
-  "translation": "E eu disse: Adonai YHWH, cessa, ⟨peço⟩: quem ⟨poderá⟩ se levantar Yaakov, pois ⟨ele⟩ ⟨é⟩ pequeno?",
-  "tokens": [
-    {
-      "surface": "ואמר",
-      "english": "E eu disse"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "חדל",
-      "english": "cessa"
-    },
-    {
-      "surface": "נא",
-      "english": "⟨peço⟩",
-      "marks": "cessa"
-    },
-    {
-      "surface": "מי",
-      "english": "quem"
-    },
-    {
-      "surface": "יקום",
-      "english": "⟨poderá⟩ se levantar"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "קטן",
-      "english": "pequeno"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨ele⟩ ⟨é⟩",
-      "marks": "Jacó"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:09:53.611576563Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

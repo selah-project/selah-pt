@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "numbers 1:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 1,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:08:08.157458124Z",
+  "translation": "Para ⟨os⟩ filhos de Shimon, seus descendentes, ⟨para⟩ suas famílias, ⟨para⟩ ⟨a⟩ casa de seus pais, ⟨os⟩ contados ⟨destes⟩, segundo ⟨o⟩ número ⟨dos⟩ nomes, ⟨para⟩ suas cabeças, todo macho de vinte anos ⟨para⟩ cima, todo ⟨aquele que⟩ sai ⟨para⟩ ⟨o⟩ exército ⟨de⟩ guerra",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Para ⟨os⟩ filhos de"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "seus descendentes"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨para⟩ suas famílias"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨para⟩ ⟨a⟩ casa de"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "⟨os⟩ contados ⟨destes⟩"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "segundo ⟨o⟩ número ⟨dos⟩"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nomes"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "⟨para⟩ suas cabeças"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "macho"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vinte anos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨para⟩ cima"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "todo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨aquele que⟩"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sai"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨para⟩ ⟨o⟩ exército ⟨de⟩ guerra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Simeão",
@@ -13,100 +96,6 @@
       "hebrew": "שמעון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 763,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19241,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 20004
-  },
-  "translation": "Para ⟨os⟩ filhos de Shimon, seus descendentes, ⟨para⟩ suas famílias, ⟨para⟩ ⟨a⟩ casa de seus pais, ⟨os⟩ contados ⟨destes⟩, segundo ⟨o⟩ número ⟨dos⟩ nomes, ⟨para⟩ suas cabeças, todo macho de vinte anos ⟨para⟩ cima, todo ⟨aquele que⟩ sai ⟨para⟩ ⟨o⟩ exército ⟨de⟩ guerra",
-  "tokens": [
-    {
-      "surface": "לבני",
-      "english": "Para ⟨os⟩ filhos de"
-    },
-    {
-      "surface": "שמעון",
-      "english": "Shimon"
-    },
-    {
-      "surface": "תולדתם",
-      "english": "seus descendentes"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "⟨para⟩ suas famílias"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨para⟩ ⟨a⟩ casa de"
-    },
-    {
-      "surface": "אבתם",
-      "english": "seus pais"
-    },
-    {
-      "surface": "פקדיו",
-      "english": "⟨os⟩ contados ⟨destes⟩"
-    },
-    {
-      "surface": "במספר",
-      "english": "segundo ⟨o⟩ número ⟨dos⟩"
-    },
-    {
-      "surface": "שמות",
-      "english": "nomes"
-    },
-    {
-      "surface": "לגלגלתם",
-      "english": "⟨para⟩ suas cabeças"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "זכר",
-      "english": "macho"
-    },
-    {
-      "surface": "מבן",
-      "english": "de"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vinte anos"
-    },
-    {
-      "surface": "שנה",
-      "english": "⟨para⟩ cima"
-    },
-    {
-      "surface": "ומעלה",
-      "english": "todo"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨aquele que⟩"
-    },
-    {
-      "surface": "יצא",
-      "english": "sai"
-    },
-    {
-      "surface": "צבא",
-      "english": "⟨para⟩ ⟨o⟩ exército ⟨de⟩ guerra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:08:08.157458124Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

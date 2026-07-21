@@ -1,64 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 22:10",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 486,
-    "prompt_tokens": 29125,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29611
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:47:54.249806504Z",
   "translation": "E Avraham estendeu ⟨a⟩ sua mão, e tomou ⟨את⟩ a faca para sacrificar ⟨את⟩ seu filho",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "E ... estendeu"
+      "gloss": "E ... estendeu"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a faca"
     },
     {
       "surface": "ידו",
-      "english": "sua mão"
+      "gloss": "sua mão"
     },
     {
       "surface": "ויקח",
-      "english": "e tomou"
+      "gloss": "e tomou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a faca"
     },
     {
       "surface": "המאכלת",
-      "english": "a faca"
+      "gloss": "a faca"
     },
     {
       "surface": "לשחט",
-      "english": "para sacrificar"
+      "gloss": "para sacrificar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "seu filho"
     },
     {
       "surface": "בנו",
-      "english": "seu filho"
+      "gloss": "seu filho"
     }
-  ],
-  "timestamp": "2026-07-16T14:47:54.249806504Z",
-  "model": "glm-4.5"
+  ]
 }

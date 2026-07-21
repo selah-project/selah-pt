@@ -1,9 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "joshua 13:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 13,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:39:01.198422485Z",
+  "translation": "Estes ⟨são⟩ ⟨os⟩ que Moshé fez herdar nas planícies de Moav, ⟨além⟩ do Jordão, ⟨próximo⟩ ⟨a⟩ Yerijó, ⟨para⟩ ⟨o⟩ oriente.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Estes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨os⟩"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "fez herdar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "nas planícies de Moabe",
+      "marks": "planícies de Moabe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "⟨além⟩"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "do Jordão"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "⟨próximo⟩ ⟨a⟩ Yerijó"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "⟨para⟩ ⟨o⟩ oriente"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -27,65 +75,6 @@
       "hebrew": "יריחו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16539,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 17009
-  },
-  "translation": "Estes ⟨são⟩ ⟨os⟩ que Moshé fez herdar nas planícies de Moav, ⟨além⟩ do Jordão, ⟨próximo⟩ ⟨a⟩ Yerijó, ⟨para⟩ ⟨o⟩ oriente.",
-  "tokens": [
-    {
-      "surface": "אלה",
-      "english": "Estes"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨os⟩"
-    },
-    {
-      "surface": "נחל",
-      "english": "fez herdar"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "בערבות",
-      "english": "nas planícies de Moabe",
-      "marks": "planícies de Moabe"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "מעבר",
-      "english": "⟨além⟩"
-    },
-    {
-      "surface": "לירדן",
-      "english": "do Jordão"
-    },
-    {
-      "surface": "יריחו",
-      "english": "⟨próximo⟩ ⟨a⟩ Yerijó"
-    },
-    {
-      "surface": "מזרחה",
-      "english": "⟨para⟩ ⟨o⟩ oriente"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:39:01.198422485Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

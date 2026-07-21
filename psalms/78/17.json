@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 78:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 78,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:31:11.017309598Z",
+  "translation": "e ⟨eles⟩ ainda acrescentaram ⟨para⟩ pecar ⟨contra⟩ ele, ⟨para⟩ rebelar-se contra ⟨o⟩ Elyon ⟨no⟩ deserto",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "E ⟨eles⟩ ainda acrescentaram"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ainda"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "⟨para⟩ pecar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨contra⟩ ele"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "⟨para⟩ rebelar-se contra"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨o⟩ Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "⟨no⟩ deserto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Altíssimo",
@@ -13,52 +48,6 @@
       "hebrew": "עליון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 78,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62797,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63191
-  },
-  "translation": "e ⟨eles⟩ ainda acrescentaram ⟨para⟩ pecar ⟨contra⟩ ele, ⟨para⟩ rebelar-se contra ⟨o⟩ Elyon ⟨no⟩ deserto",
-  "tokens": [
-    {
-      "surface": "ויוסיפו",
-      "english": "E ⟨eles⟩ ainda acrescentaram"
-    },
-    {
-      "surface": "עוד",
-      "english": "ainda"
-    },
-    {
-      "surface": "לחטא",
-      "english": "⟨para⟩ pecar"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨contra⟩ ele"
-    },
-    {
-      "surface": "למרות",
-      "english": "⟨para⟩ rebelar-se contra"
-    },
-    {
-      "surface": "עליון",
-      "english": "⟨o⟩ Elyon"
-    },
-    {
-      "surface": "בציה",
-      "english": "⟨no⟩ deserto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:31:11.017309598Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

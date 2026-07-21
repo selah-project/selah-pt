@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-chronicles 30:20",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 380,
-    "prompt_tokens": 65495,
-    "prompt_tokens_details": {
-      "cached_tokens": 64384
-    },
-    "total_tokens": 65875
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:23:38.147076026Z",
   "translation": "E YHWH ouviu a Jizkiyahu e curou ⟨o⟩ povo",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "E ... ouviu"
+      "gloss": "E ... ouviu"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יחזקיהו",
-      "english": "Jizkiyahu"
+      "gloss": "Jizkiyahu"
     },
     {
       "surface": "וירפא",
-      "english": "e curou"
+      "gloss": "e curou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o povo"
     },
     {
       "surface": "העם",
-      "english": "povo"
+      "gloss": "povo"
     }
-  ],
-  "timestamp": "2026-07-16T12:23:38.147076026Z",
-  "model": "glm-4.5"
+  ]
 }

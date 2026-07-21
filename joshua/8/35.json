@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "joshua 8:35",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 8,
+  "verse": 35,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:33:10.338008050Z",
+  "translation": "Não houve ⟨um⟩ ⟨palavra⟩ de tudo que Moshé ordenara ⟨que⟩ Iehoshúa não leu diante de ⟨toda⟩ a assembleia de Yisrael, e ⟨as⟩ mulheres, e ⟨as⟩ crianças de peito, e ⟨o⟩ estrangeiro ⟨que⟩ andava no meio deles.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "היה",
+      "gloss": "houve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨palavra⟩ de tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Moshe ordenara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "leu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Iehoshúa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "diante de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨toda⟩"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "assembleia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "e ⟨as⟩ mulheres"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "e ⟨as⟩ crianças de peito"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "e ⟨o⟩ estrangeiro"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "⟨que⟩ andava"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "no meio deles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshe",
@@ -20,104 +107,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 744,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17405,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 18149
-  },
-  "translation": "Não houve ⟨um⟩ ⟨palavra⟩ de tudo que Moshé ordenara ⟨que⟩ Iehoshúa não leu diante de ⟨toda⟩ a assembleia de Yisrael, e ⟨as⟩ mulheres, e ⟨as⟩ crianças de peito, e ⟨o⟩ estrangeiro ⟨que⟩ andava no meio deles.",
-  "tokens": [
-    {
-      "surface": "לא",
-      "english": "Não"
-    },
-    {
-      "surface": "היה",
-      "english": "houve"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "מכל",
-      "english": "⟨palavra⟩ de tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "צוה",
-      "english": "Moshe ordenara"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "קרא",
-      "english": "leu"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Iehoshúa"
-    },
-    {
-      "surface": "נגד",
-      "english": "diante de"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨toda⟩"
-    },
-    {
-      "surface": "קהל",
-      "english": "assembleia"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "והנשים",
-      "english": "e ⟨as⟩ mulheres"
-    },
-    {
-      "surface": "והטף",
-      "english": "e ⟨as⟩ crianças de peito"
-    },
-    {
-      "surface": "והגר",
-      "english": "e ⟨o⟩ estrangeiro"
-    },
-    {
-      "surface": "ההלך",
-      "english": "⟨que⟩ andava"
-    },
-    {
-      "surface": "בקרבם",
-      "english": "no meio deles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:33:10.338008050Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

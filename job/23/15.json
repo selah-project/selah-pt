@@ -1,56 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 23:15",
   "book": "job",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 536,
-    "prompt_tokens": 27456,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27992
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:59:19.662658396Z",
   "translation": "Por isso, diante da sua face, estou apavorado; considero, e temo ⟨dele⟩.",
   "tokens": [
     {
       "surface": "על",
-      "english": "Por isso",
+      "gloss": "Por isso",
       "lemma": "עַל"
     },
     {
       "surface": "כן",
-      "english": "",
+      "gloss": "",
       "lemma": "כֵּן"
     },
     {
       "surface": "מפניו",
-      "english": "diante da sua face",
+      "gloss": "diante da sua face",
       "lemma": "מִפְּנֵה"
     },
     {
       "surface": "אבהל",
-      "english": "estou apavorado",
+      "gloss": "estou apavorado",
       "lemma": "בָּהַל"
     },
     {
       "surface": "אתבונן",
-      "english": "considero",
+      "gloss": "considero",
       "lemma": "בִּין"
     },
     {
       "surface": "ואפחד",
-      "english": "e temo",
+      "gloss": "e temo",
       "lemma": "פָּחַד"
     },
     {
       "surface": "ממנו",
-      "english": "⟨dele⟩",
+      "gloss": "⟨dele⟩",
       "lemma": "מִן"
     }
-  ],
-  "timestamp": "2026-07-16T15:59:19.662658396Z",
-  "model": "glm-4.5"
+  ]
 }

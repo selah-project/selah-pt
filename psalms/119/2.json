@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 119:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 70210,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70614
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:47:37.594319173Z",
   "translation": "Felizes ⟨são⟩ os que guardam ⟨את⟩ ⟨os⟩ Seus testemunhos, e que O buscam com todo ⟨o⟩ coração.",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "Felizes"
+      "gloss": "Felizes"
     },
     {
       "surface": "נצרי",
-      "english": "os que guardam"
+      "gloss": "os que guardam"
     },
     {
       "surface": "עדתיו",
-      "english": "⟨os⟩ Seus testemunhos"
+      "gloss": "⟨os⟩ Seus testemunhos"
     },
     {
       "surface": "בכל",
-      "english": "com todo ⟨o⟩"
+      "gloss": "com todo ⟨o⟩"
     },
     {
       "surface": "לב",
-      "english": "coração"
+      "gloss": "coração"
     },
     {
       "surface": "ידרשוהו",
-      "english": "que O buscam"
+      "gloss": "que O buscam"
     }
-  ],
-  "timestamp": "2026-07-16T17:47:37.594319173Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "numbers 23:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 23,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:35:11.478399317Z",
+  "translation": "E YHWH encontrou ⟨o⟩ Bilam e pôs ⟨uma⟩ palavra em sua boca e disse: Volta para Balac e assim falarás",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "E encontrou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e pôs"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨uma⟩ palavra"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "em sua boca"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Volta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balac"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "e assim"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "falarás"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Balaão",
@@ -13,76 +72,6 @@
       "hebrew": "בלעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18468,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18879
-  },
-  "translation": "E YHWH encontrou ⟨o⟩ Bilam e pôs ⟨uma⟩ palavra em sua boca e disse: Volta para Balac e assim falarás",
-  "tokens": [
-    {
-      "surface": "ויקר",
-      "english": "E encontrou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "בלעם",
-      "english": "Bilam"
-    },
-    {
-      "surface": "וישם",
-      "english": "e pôs"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨uma⟩ palavra"
-    },
-    {
-      "surface": "בפיו",
-      "english": "em sua boca"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "שוב",
-      "english": "Volta"
-    },
-    {
-      "surface": "אל",
-      "english": "para"
-    },
-    {
-      "surface": "בלק",
-      "english": "Balac"
-    },
-    {
-      "surface": "וכה",
-      "english": "e assim"
-    },
-    {
-      "surface": "תדבר",
-      "english": "falarás"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:35:11.478399317Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

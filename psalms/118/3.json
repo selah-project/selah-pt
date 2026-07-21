@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 118:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 118,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:57:55.179165635Z",
+  "translation": "Diga ⟨agora⟩ a casa ⟨de⟩ Aharon que ⟨o⟩ Seu hesed é para sempre.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Diga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨agora⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa ⟨de⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨o⟩ ... é para sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Seu hesed"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Arão",
@@ -13,52 +48,6 @@
       "hebrew": "אהרן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 118,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62848,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63190
-  },
-  "translation": "Diga ⟨agora⟩ a casa ⟨de⟩ Aharon que ⟨o⟩ Seu hesed é para sempre.",
-  "tokens": [
-    {
-      "surface": "יאמרו",
-      "english": "Diga"
-    },
-    {
-      "surface": "נא",
-      "english": "⟨agora⟩"
-    },
-    {
-      "surface": "בית",
-      "english": "casa ⟨de⟩"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharon"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "לעולם",
-      "english": "⟨o⟩ ... é para sempre"
-    },
-    {
-      "surface": "חסדו",
-      "english": "Seu hesed"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:57:55.179165635Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

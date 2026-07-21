@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 10:15",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60163,
-    "prompt_tokens_details": {
-      "cached_tokens": 59213
-    },
-    "total_tokens": 60518
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:42:55.646617659Z",
   "translation": "A riqueza do rico ⟨é⟩ a sua cidade forte; ⟨a⟩ ruína dos pobres ⟨é⟩ ⟨a⟩ sua pobreza.",
   "tokens": [
     {
       "surface": "הון",
-      "english": "A riqueza do rico"
+      "gloss": "A riqueza do rico"
     },
     {
       "surface": "עשיר",
-      "english": "do rico"
+      "gloss": "do rico"
     },
     {
       "surface": "קרית",
-      "english": "cidade forte"
+      "gloss": "cidade forte"
     },
     {
       "surface": "עזו",
-      "english": "forte"
+      "gloss": "forte"
     },
     {
       "surface": "מחתת",
-      "english": "⟨a⟩ ruína dos pobres"
+      "gloss": "⟨a⟩ ruína dos pobres"
     },
     {
       "surface": "דלים",
-      "english": "dos pobres"
+      "gloss": "dos pobres"
     },
     {
       "surface": "רישם",
-      "english": "⟨a⟩ sua pobreza"
+      "gloss": "⟨a⟩ sua pobreza"
     }
-  ],
-  "timestamp": "2026-06-13T06:42:55.646617659Z",
-  "model": "glm-4.5"
+  ]
 }

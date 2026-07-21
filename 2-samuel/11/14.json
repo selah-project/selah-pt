@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "2-samuel 11:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 11,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:52:09.255100938Z",
+  "translation": "E aconteceu ⟨pela⟩ manhã, que Davidd escreveu ⟨um⟩ livro para Joabe, e enviou ⟨por⟩ ⟨a⟩ mão ⟨de⟩ Uriá ⟨com ele⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨pela⟩ manhã"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "que Davide escreveu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "⟨um⟩ livro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e enviou"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨por⟩ ⟨a⟩ mão"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "⟨de⟩ Uriá ⟨com ele⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davide",
@@ -20,64 +67,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 574,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17375,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 17949
-  },
-  "translation": "E aconteceu ⟨pela⟩ manhã, que Davidd escreveu ⟨um⟩ livro para Joabe, e enviou ⟨por⟩ ⟨a⟩ mão ⟨de⟩ Uriá ⟨com ele⟩",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "בבקר",
-      "english": "⟨pela⟩ manhã"
-    },
-    {
-      "surface": "ויכתב",
-      "english": "que Davide escreveu"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ספר",
-      "english": "⟨um⟩ livro"
-    },
-    {
-      "surface": "אל",
-      "english": "para"
-    },
-    {
-      "surface": "יואב",
-      "english": "Joabe"
-    },
-    {
-      "surface": "וישלח",
-      "english": "e enviou"
-    },
-    {
-      "surface": "ביד",
-      "english": "⟨por⟩ ⟨a⟩ mão"
-    },
-    {
-      "surface": "אוריה",
-      "english": "⟨de⟩ Uriá ⟨com ele⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:52:09.255100938Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

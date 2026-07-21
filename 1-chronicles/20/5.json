@@ -1,9 +1,90 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-chronicles 20:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 20,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:55:18.362609579Z",
+  "translation": "E ⟨houve⟩ ainda batalha ⟨com⟩ ⟨os⟩ filisteus ⟨את⟩ e Elchanan ben Jaur ⟨feriu⟩ ⟨את⟩ Lachmi, irmão de Golyat, ⟨o⟩ geteu, e ⟨o⟩ pau de sua lança ⟨era⟩ como ⟨um⟩ tear ⟨de⟩ ⟨o⟩ tecelão",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "E"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨houve⟩ ainda"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "batalha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨com⟩ ⟨os⟩",
+      "marks": "filisteus"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteus"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elchanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Jaur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨feriu⟩",
+      "marks": "Lachmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lachmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "irmão de"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "⟨o⟩ geteu"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "e"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "⟨o⟩ pau de sua lança"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "⟨um⟩ tear ⟨de⟩ ⟨o⟩ tecelão"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Golias",
@@ -13,98 +94,6 @@
       "hebrew": "גלית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 817,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58262,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 59079
-  },
-  "translation": "E ⟨houve⟩ ainda batalha ⟨com⟩ ⟨os⟩ filisteus ⟨את⟩ e Elchanan ben Jaur ⟨feriu⟩ ⟨את⟩ Lachmi, irmão de Golyat, ⟨o⟩ geteu, e ⟨o⟩ pau de sua lança ⟨era⟩ como ⟨um⟩ tear ⟨de⟩ ⟨o⟩ tecelão",
-  "tokens": [
-    {
-      "surface": "ותהי",
-      "english": "E"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨houve⟩ ainda"
-    },
-    {
-      "surface": "מלחמה",
-      "english": "batalha"
-    },
-    {
-      "surface": "את",
-      "english": "⟨com⟩ ⟨os⟩",
-      "marks": "filisteus"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "filisteus"
-    },
-    {
-      "surface": "ויך",
-      "english": "e"
-    },
-    {
-      "surface": "אלחנן",
-      "english": "Elchanan"
-    },
-    {
-      "surface": "בן",
-      "english": "ben"
-    },
-    {
-      "surface": "יעור",
-      "english": "Jaur"
-    },
-    {
-      "surface": "את",
-      "english": "⟨feriu⟩",
-      "marks": "Lachmi"
-    },
-    {
-      "surface": "לחמי",
-      "english": "Lachmi"
-    },
-    {
-      "surface": "אחי",
-      "english": "irmão de"
-    },
-    {
-      "surface": "גלית",
-      "english": "Golyat"
-    },
-    {
-      "surface": "הגתי",
-      "english": "⟨o⟩ geteu"
-    },
-    {
-      "surface": "ועץ",
-      "english": "e"
-    },
-    {
-      "surface": "חניתו",
-      "english": "⟨o⟩ pau de sua lança"
-    },
-    {
-      "surface": "כמנור",
-      "english": "⟨era⟩"
-    },
-    {
-      "surface": "ארגים",
-      "english": "⟨um⟩ tear ⟨de⟩ ⟨o⟩ tecelão"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:55:18.362609579Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

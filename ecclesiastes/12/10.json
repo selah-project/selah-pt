@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "ecclesiastes 12:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
+  "chapter": 12,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:36:24.829407338Z",
+  "translation": "O Pregador procurou ⟨para⟩ achar palavras de prazer, e ⟨o⟩ que ⟨está⟩ escrito ⟨é⟩ reto, palavras de Emet.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "Procurou"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "O Pregador"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "⟨para⟩ achar"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "palavras"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "de prazer"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "e ⟨o⟩ que ⟨está⟩ escrito"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨é⟩ reto"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "palavras"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "de Emet"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "verdade",
@@ -13,60 +56,6 @@
       "hebrew": "אמת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17551,
-    "prompt_tokens_details": {
-      "cached_tokens": 16387
-    },
-    "total_tokens": 18031
-  },
-  "translation": "O Pregador procurou ⟨para⟩ achar palavras de prazer, e ⟨o⟩ que ⟨está⟩ escrito ⟨é⟩ reto, palavras de Emet.",
-  "tokens": [
-    {
-      "surface": "בקש",
-      "english": "Procurou"
-    },
-    {
-      "surface": "קהלת",
-      "english": "O Pregador"
-    },
-    {
-      "surface": "למצא",
-      "english": "⟨para⟩ achar"
-    },
-    {
-      "surface": "דברי",
-      "english": "palavras"
-    },
-    {
-      "surface": "חפץ",
-      "english": "de prazer"
-    },
-    {
-      "surface": "וכתוב",
-      "english": "e ⟨o⟩ que ⟨está⟩ escrito"
-    },
-    {
-      "surface": "ישר",
-      "english": "⟨é⟩ reto"
-    },
-    {
-      "surface": "דברי",
-      "english": "palavras"
-    },
-    {
-      "surface": "אמת",
-      "english": "de Emet"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:36:24.829407338Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

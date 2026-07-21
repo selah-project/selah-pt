@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "song-of-songs 2:11",
   "book": "song-of-songs",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27702,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 28158
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:55:49.057122708Z",
   "translation": "Porque ⟨é⟩ assim, ⟨o⟩ inverno ⟨é⟩ passado, ⟨a⟩ chuva ⟨é⟩ ida ⟨e⟩ ⟨está⟩ caminhando para ⟨sua⟩ parte.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "הנה",
-      "english": "⟨é⟩ assim"
+      "gloss": "⟨é⟩ assim"
     },
     {
       "surface": "הסתו",
-      "english": "⟨o⟩ inverno"
+      "gloss": "⟨o⟩ inverno"
     },
     {
       "surface": "עבר",
-      "english": "⟨é⟩ passado"
+      "gloss": "⟨é⟩ passado"
     },
     {
       "surface": "הגשם",
-      "english": "⟨a⟩ chuva"
+      "gloss": "⟨a⟩ chuva"
     },
     {
       "surface": "חלף",
-      "english": "⟨é⟩ ida"
+      "gloss": "⟨é⟩ ida"
     },
     {
       "surface": "הלך",
-      "english": "⟨está⟩ caminhando"
+      "gloss": "⟨está⟩ caminhando"
     },
     {
       "surface": "לו",
-      "english": "para ⟨sua⟩ parte"
+      "gloss": "para ⟨sua⟩ parte"
     }
-  ],
-  "timestamp": "2026-06-14T04:55:49.057122708Z",
-  "model": "glm-4.5"
+  ]
 }

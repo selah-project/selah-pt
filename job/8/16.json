@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 8:16",
   "book": "job",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27414,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 27793
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:44:33.791394993Z",
   "translation": "Úmido ⟨é⟩ ⟨את⟩ diante do sol e sobre ⟨o⟩ seu jardim ⟨o⟩ seu broto sairá",
   "tokens": [
     {
       "surface": "רטב",
-      "english": "Úmido"
+      "gloss": "Úmido"
     },
     {
       "surface": "הוא",
-      "english": "⟨é⟩"
+      "gloss": "⟨é⟩"
     },
     {
       "surface": "לפני",
-      "english": "diante"
+      "gloss": "diante"
     },
     {
       "surface": "שמש",
-      "english": "do sol"
+      "gloss": "do sol"
     },
     {
       "surface": "ועל",
-      "english": "e sobre"
+      "gloss": "e sobre"
     },
     {
       "surface": "גנתו",
-      "english": "⟨o⟩ seu jardim",
+      "gloss": "⟨o⟩ seu jardim",
       "marks": "⟨o⟩ seu jardim"
     },
     {
       "surface": "ינקתו",
-      "english": "⟨o⟩ seu broto",
+      "gloss": "⟨o⟩ seu broto",
       "marks": "⟨o⟩ seu broto"
     },
     {
       "surface": "תצא",
-      "english": "sairá"
+      "gloss": "sairá"
     }
-  ],
-  "timestamp": "2026-06-13T06:44:33.791394993Z",
-  "model": "glm-4.5"
+  ]
 }

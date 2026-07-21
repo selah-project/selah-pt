@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "numbers 26:42",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 26,
+  "verse": 42,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:38:16.811061077Z",
+  "translation": "Estes ⟨são⟩ os filhos de Dan, segundo as suas famílias: de Shuham ⟨é⟩ a família dos Shuhamitas. Estes ⟨são⟩ as famílias de Dan, segundo as suas famílias.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Estes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "דן",
+      "gloss": "de Dan"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segundo as suas famílias"
+    },
+    {
+      "surface": "לשוחם",
+      "gloss": "de Shuham"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "a família"
+    },
+    {
+      "surface": "השוחמי",
+      "gloss": "dos Shuhamitas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Estes"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨são⟩ as famílias"
+    },
+    {
+      "surface": "דן",
+      "gloss": "de Dan"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segundo as suas famílias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Dã",
@@ -20,68 +71,6 @@
       "hebrew": "דן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18423,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18854
-  },
-  "translation": "Estes ⟨são⟩ os filhos de Dan, segundo as suas famílias: de Shuham ⟨é⟩ a família dos Shuhamitas. Estes ⟨são⟩ as famílias de Dan, segundo as suas famílias.",
-  "tokens": [
-    {
-      "surface": "אלה",
-      "english": "Estes"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "דן",
-      "english": "de Dan"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "segundo as suas famílias"
-    },
-    {
-      "surface": "לשוחם",
-      "english": "de Shuham"
-    },
-    {
-      "surface": "משפחת",
-      "english": "a família"
-    },
-    {
-      "surface": "השוחמי",
-      "english": "dos Shuhamitas"
-    },
-    {
-      "surface": "אלה",
-      "english": "Estes"
-    },
-    {
-      "surface": "משפחת",
-      "english": "⟨são⟩ as famílias"
-    },
-    {
-      "surface": "דן",
-      "english": "de Dan"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "segundo as suas famílias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:38:16.811061077Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

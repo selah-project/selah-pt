@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 121:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 121,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62747,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63064
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:03:56.043397162Z",
   "translation": "⟨por⟩ dia o sol não te ferirá, e ⟨a⟩ lua ⟨por⟩ noite",
   "tokens": [
     {
       "surface": "יומם",
-      "english": "⟨Por⟩ dia"
+      "gloss": "⟨Por⟩ dia"
     },
     {
       "surface": "השמש",
-      "english": "o sol"
+      "gloss": "o sol"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יככה",
-      "english": "te ferirá"
+      "gloss": "te ferirá"
     },
     {
       "surface": "וארח",
-      "english": "e ⟨a⟩ lua"
+      "gloss": "e ⟨a⟩ lua"
     },
     {
       "surface": "בלילה",
-      "english": "⟨por⟩ noite"
+      "gloss": "⟨por⟩ noite"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:03:56.043397162Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

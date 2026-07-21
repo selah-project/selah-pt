@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "lamentations 2:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "lamentations",
+  "chapter": 2,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:24:52.037501231Z",
+  "translation": "Veja, YHWH, e olha atentamente para quem agiste assim ⟨⟩: acaso as mulheres comerão ⟨o⟩ seu fruto, ⟨os⟩ filhotes de uma palmada? acaso ⟨o⟩ Kohen e ⟨o⟩ profeta serão mortos no santuário de Adonai?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Veja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והביטה",
+      "gloss": "e olha atentamente"
+    },
+    {
+      "surface": "למי",
+      "gloss": "para quem"
+    },
+    {
+      "surface": "עוללת",
+      "gloss": "agiste assim"
+    },
+    {
+      "surface": "כה",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "acaso"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "comerão"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "as mulheres"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "⟨o⟩ seu fruto"
+    },
+    {
+      "surface": "עללי",
+      "gloss": "⟨os⟩ filhotes"
+    },
+    {
+      "surface": "טפחים",
+      "gloss": "de uma palmada"
+    },
+    {
+      "surface": "אם",
+      "gloss": "acaso"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "serão mortos"
+    },
+    {
+      "surface": "במקדש",
+      "gloss": "no santuário"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "de Adonai"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "⟨o⟩ Kohen"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "e ⟨o⟩ profeta"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,96 +92,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 659,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33173,
-    "prompt_tokens_details": {
-      "cached_tokens": 31099
-    },
-    "total_tokens": 33832
-  },
-  "translation": "Veja, YHWH, e olha atentamente para quem agiste assim ⟨⟩: acaso as mulheres comerão ⟨o⟩ seu fruto, ⟨os⟩ filhotes de uma palmada? acaso ⟨o⟩ Kohen e ⟨o⟩ profeta serão mortos no santuário de Adonai?",
-  "tokens": [
-    {
-      "surface": "ראה",
-      "english": "Veja"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "והביטה",
-      "english": "e olha atentamente"
-    },
-    {
-      "surface": "למי",
-      "english": "para quem"
-    },
-    {
-      "surface": "עוללת",
-      "english": "agiste assim"
-    },
-    {
-      "surface": "כה",
-      "english": "⟨⟩"
-    },
-    {
-      "surface": "אם",
-      "english": "acaso"
-    },
-    {
-      "surface": "תאכלנה",
-      "english": "comerão"
-    },
-    {
-      "surface": "נשים",
-      "english": "as mulheres"
-    },
-    {
-      "surface": "פרים",
-      "english": "⟨o⟩ seu fruto"
-    },
-    {
-      "surface": "עללי",
-      "english": "⟨os⟩ filhotes"
-    },
-    {
-      "surface": "טפחים",
-      "english": "de uma palmada"
-    },
-    {
-      "surface": "אם",
-      "english": "acaso"
-    },
-    {
-      "surface": "יהרג",
-      "english": "serão mortos"
-    },
-    {
-      "surface": "במקדש",
-      "english": "no santuário"
-    },
-    {
-      "surface": "אדני",
-      "english": "de Adonai"
-    },
-    {
-      "surface": "כהן",
-      "english": "⟨o⟩ Kohen"
-    },
-    {
-      "surface": "ונביא",
-      "english": "e ⟨o⟩ profeta"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:24:52.037501231Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

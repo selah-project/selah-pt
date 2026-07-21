@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-kings 4:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 4,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:14:30.119265330Z",
+  "translation": "Yehudá e Israel ⟨eram⟩ numerosos como a areia ⟨que está⟩ ⟨ao⟩ mar em multidão, comendo, bebendo e alegrando-se",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "e Israel"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "numerosos"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "como a areia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que está⟩",
+      "marks": "areia"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mar"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "em multidão"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "comendo"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "bebendo"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "alegrando-se"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,69 +65,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62610,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63078
-  },
-  "translation": "Yehudá e Israel ⟨eram⟩ numerosos como a areia ⟨que está⟩ ⟨ao⟩ mar em multidão, comendo, bebendo e alegrando-se",
-  "tokens": [
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "וישראל",
-      "english": "e Israel"
-    },
-    {
-      "surface": "רבים",
-      "english": "numerosos"
-    },
-    {
-      "surface": "כחול",
-      "english": "como a areia"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que está⟩",
-      "marks": "areia"
-    },
-    {
-      "surface": "על",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "הים",
-      "english": "mar"
-    },
-    {
-      "surface": "לרב",
-      "english": "em multidão"
-    },
-    {
-      "surface": "אכלים",
-      "english": "comendo"
-    },
-    {
-      "surface": "ושתים",
-      "english": "bebendo"
-    },
-    {
-      "surface": "ושמחים",
-      "english": "alegrando-se"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:14:30.119265330Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

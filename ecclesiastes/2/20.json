@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "ecclesiastes 2:20",
   "book": "ecclesiastes",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 586,
-    "prompt_tokens": 25191,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 25777
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:35:01.504228313Z",
   "translation": "Por isso eu me virei para desesperar ⟨את⟩ meu coração sobre todo o trabalho em que trabalhei sob o sol",
   "tokens": [
     {
       "surface": "וסבותי",
-      "english": "Por isso eu me virei"
+      "gloss": "Por isso eu me virei"
     },
     {
       "surface": "אני",
-      "english": "eu"
+      "gloss": "eu"
     },
     {
       "surface": "ליאש",
-      "english": "para desesperar"
+      "gloss": "para desesperar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "meu coração"
     },
     {
       "surface": "לבי",
-      "english": "meu coração"
+      "gloss": "meu coração"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "העמל",
-      "english": "o trabalho"
+      "gloss": "o trabalho"
     },
     {
       "surface": "שעמלתי",
-      "english": "em que trabalhei"
+      "gloss": "em que trabalhei"
     },
     {
       "surface": "תחת",
-      "english": "sob"
+      "gloss": "sob"
     },
     {
       "surface": "השמש",
-      "english": "o sol"
+      "gloss": "o sol"
     }
-  ],
-  "timestamp": "2026-07-16T13:35:01.504228313Z",
-  "model": "glm-4.5"
+  ]
 }

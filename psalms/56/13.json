@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 56:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 654,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62810,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63464
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:16:03.522725199Z",
   "translation": "Sobre mim ⟨estão⟩ ⟨os⟩ votos, Elohim: pagarei ⟨as⟩ tuas promessas com confissões ⟨de louvor⟩ a ti.",
   "tokens": [
     {
       "surface": "עלי",
-      "english": "Sobre mim",
+      "gloss": "Sobre mim",
       "rationale": "עלי usually means 'upon me' or 'over me', here indicating the vows rest upon the speaker"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim",
+      "gloss": "Elohim",
       "rationale": "Preserving the Hebrew divine name Elohim rather than translating as 'Deus' to maintain Tanaj-primeiro discipline"
     },
     {
       "surface": "נדריך",
-      "english": "⟨os⟩ votos",
+      "gloss": "⟨os⟩ votos",
       "rationale": "Literally 'tuas promessas' or 'teus votos'; English requires article"
     },
     {
       "surface": "אשלם",
-      "english": "pagarei ⟨as⟩ tuas promessas",
+      "gloss": "pagarei ⟨as⟩ tuas promessas",
       "rationale": "Shallam means to pay, complete, or make whole; here fulfilling vows. English article added"
     },
     {
       "surface": "תודת",
-      "english": "com confissões ⟨de louvor⟩",
+      "gloss": "com confissões ⟨de louvor⟩",
       "rationale": "Todah literally means 'thanksgiving' or 'confession'; implies praise offerings"
     },
     {
       "surface": "לך",
-      "english": "a ti",
+      "gloss": "a ti",
       "rationale": "Prepositional suffix 'to you', direct object of the praise"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:16:03.522725199Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

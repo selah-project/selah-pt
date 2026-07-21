@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 11:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 11,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:44:25.594655409Z",
+  "translation": "E David e todo Yisrael foram ⟨para⟩ Yerushalayim — ela ⟨é⟩ Jebus — e ali os jebuseus, os habitantes ⟨da⟩ terra.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "E ... foram"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨para⟩ Yerushalayim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "— ela ⟨é⟩"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Jebus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "— e ali"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "os jebuseus"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "os habitantes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨da⟩ terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,68 +78,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57434,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57780
-  },
-  "translation": "E David e todo Yisrael foram ⟨para⟩ Yerushalayim — ela ⟨é⟩ Jebus — e ali os jebuseus, os habitantes ⟨da⟩ terra.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "E ... foram"
-    },
-    {
-      "surface": "דויד",
-      "english": "David"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨para⟩ Yerushalayim"
-    },
-    {
-      "surface": "היא",
-      "english": "— ela ⟨é⟩"
-    },
-    {
-      "surface": "יבוס",
-      "english": "Jebus"
-    },
-    {
-      "surface": "ושם",
-      "english": "— e ali"
-    },
-    {
-      "surface": "היבוסי",
-      "english": "os jebuseus"
-    },
-    {
-      "surface": "ישבי",
-      "english": "os habitantes"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨da⟩ terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:44:25.594655409Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-kings 9:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 9,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:23:54.410062264Z",
+  "translation": "Todo ⟨o⟩ povo que restava dos amorreus, hititas, perizeus, heveus e jebuseus, que não ⟨eram⟩ dos filhos de Yisrael, ⟨eles⟩",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨o⟩ povo"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "que restava"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dos"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amorreus"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititas"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perizeus"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "heveus"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e jebuseus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "⟨eram⟩ dos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "filhos de Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨eles⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,80 +76,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62977,
-    "prompt_tokens_details": {
-      "cached_tokens": 61312
-    },
-    "total_tokens": 63493
-  },
-  "translation": "Todo ⟨o⟩ povo que restava dos amorreus, hititas, perizeus, heveus e jebuseus, que não ⟨eram⟩ dos filhos de Yisrael, ⟨eles⟩",
-  "tokens": [
-    {
-      "surface": "כל",
-      "english": "Todo"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨o⟩ povo"
-    },
-    {
-      "surface": "הנותר",
-      "english": "que restava"
-    },
-    {
-      "surface": "מן",
-      "english": "dos"
-    },
-    {
-      "surface": "האמרי",
-      "english": "amorreus"
-    },
-    {
-      "surface": "החתי",
-      "english": "hititas"
-    },
-    {
-      "surface": "הפרזי",
-      "english": "perizeus"
-    },
-    {
-      "surface": "החוי",
-      "english": "heveus"
-    },
-    {
-      "surface": "והיבוסי",
-      "english": "e jebuseus"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "מבני",
-      "english": "⟨eram⟩ dos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "filhos de Yisrael"
-    },
-    {
-      "surface": "המה",
-      "english": "⟨eles⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:23:54.410062264Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "exodus 2:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 2,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:36:45.443184792Z",
+  "translation": "E aconteceu naqueles dias que ⟨é⟩ Moshé ⟨foi⟩ grande e saiu para seus irmãos e viu em seus fardos e viu ⟨um⟩ homem egípcio batendo ⟨um⟩ homem hebreu de seus irmãos",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "naqueles dias"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "que"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "Moisés ⟨foi⟩ grande"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e saiu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seus irmãos"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e viu"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "em seus fardos"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e viu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨um⟩ homem"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "egípcio"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "batendo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨um⟩ homem"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "hebreu"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "de seus irmãos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moisés",
@@ -13,92 +88,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17718,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18281
-  },
-  "translation": "E aconteceu naqueles dias que ⟨é⟩ Moshé ⟨foi⟩ grande e saiu para seus irmãos e viu em seus fardos e viu ⟨um⟩ homem egípcio batendo ⟨um⟩ homem hebreu de seus irmãos",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "בימים",
-      "english": "naqueles dias"
-    },
-    {
-      "surface": "ההם",
-      "english": "que"
-    },
-    {
-      "surface": "ויגדל",
-      "english": "Moisés ⟨foi⟩ grande"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ויצא",
-      "english": "e saiu"
-    },
-    {
-      "surface": "אל",
-      "english": "para"
-    },
-    {
-      "surface": "אחיו",
-      "english": "seus irmãos"
-    },
-    {
-      "surface": "וירא",
-      "english": "e viu"
-    },
-    {
-      "surface": "בסבלתם",
-      "english": "em seus fardos"
-    },
-    {
-      "surface": "וירא",
-      "english": "e viu"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨um⟩ homem"
-    },
-    {
-      "surface": "מצרי",
-      "english": "egípcio"
-    },
-    {
-      "surface": "מכה",
-      "english": "batendo"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨um⟩ homem"
-    },
-    {
-      "surface": "עברי",
-      "english": "hebreu"
-    },
-    {
-      "surface": "מאחיו",
-      "english": "de seus irmãos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:36:45.443184792Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

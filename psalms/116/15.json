@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 116:15",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 481,
-    "prompt_tokens": 70087,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70568
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:18.539996647Z",
   "translation": "Precioso ⟨é⟩ aos olhos de YHWH ⟨a⟩ morte dos ⟨seus⟩ hassidim",
   "tokens": [
     {
       "surface": "יקר",
-      "english": "Precioso"
+      "gloss": "Precioso"
     },
     {
       "surface": "בעיני",
-      "english": "aos olhos"
+      "gloss": "aos olhos"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "המותה",
-      "english": "⟨a⟩ morte"
+      "gloss": "⟨a⟩ morte"
     },
     {
       "surface": "לחסידיו",
-      "english": "dos ⟨seus⟩ hassidim"
+      "gloss": "dos ⟨seus⟩ hassidim"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:18.539996647Z",
-  "model": "glm-4.5"
+  ]
 }

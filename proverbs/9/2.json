@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 9:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52846,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53204
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:25:19.189386543Z",
   "translation": "She has slaughtered ⟨her⟩ slaughter, she has mingled ⟨her⟩ wine, ⟨and⟩ ⟨she⟩ ⟨has⟩ ⟨also⟩ arranged ⟨her⟩ table.",
   "tokens": [
     {
       "surface": "טבחה",
-      "english": "Slaughtered"
+      "gloss": "Slaughtered"
     },
     {
       "surface": "טבחה",
-      "english": "slaughter",
+      "gloss": "slaughter",
       "marks": "slaughter"
     },
     {
       "surface": "מסכה",
-      "english": "mingled"
+      "gloss": "mingled"
     },
     {
       "surface": "יינה",
-      "english": "wine",
+      "gloss": "wine",
       "marks": "wine"
     },
     {
       "surface": "אף",
-      "english": "⟨and⟩"
+      "gloss": "⟨and⟩"
     },
     {
       "surface": "ערכה",
-      "english": "arranged"
+      "gloss": "arranged"
     },
     {
       "surface": "שלחנה",
-      "english": "table",
+      "gloss": "table",
       "marks": "table"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:25:19.189386543Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

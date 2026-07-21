@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 149:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 149,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:16:58.247602819Z",
+  "translation": "Yisrael regozije ⟨se⟩ em seu Criador, ⟨e⟩ os filhos de Tzion se regozijem em seu ⟨Rei⟩",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Regozije"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "em seu Criador"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "de Tzion"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "se regozijem"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "em seu ⟨Rei⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,52 +55,6 @@
       "hebrew": "ציון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 149,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62958,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63289
-  },
-  "translation": "Yisrael regozije ⟨se⟩ em seu Criador, ⟨e⟩ os filhos de Tzion se regozijem em seu ⟨Rei⟩",
-  "tokens": [
-    {
-      "surface": "ישמח",
-      "english": "Regozije"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בעשיו",
-      "english": "em seu Criador"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "ציון",
-      "english": "de Tzion"
-    },
-    {
-      "surface": "יגילו",
-      "english": "se regozijem"
-    },
-    {
-      "surface": "במלכם",
-      "english": "em seu ⟨Rei⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:16:58.247602819Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

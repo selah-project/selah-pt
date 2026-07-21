@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 48:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 48,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:32:40.402619968Z",
+  "translation": "E ⟨foi⟩ dito a Yaakov, ⟨e⟩ disse: Eis-que teu filho Yoséf está vindo a ti; ⟨e⟩ Yisrael ⟨se⟩ fortaleceu, ⟨e⟩ sentou ⟨sobre⟩ ⟨o⟩ leito.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "E ⟨foi⟩ dito"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "a Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨e⟩ disse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis-que"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "teu filho"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "בא",
+      "gloss": "está vindo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "⟨e⟩ Israel ⟨se⟩ fortaleceu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "⟨e⟩ sentou"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "⟨o⟩ leito"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 658,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21817,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 22475
-  },
-  "translation": "E ⟨foi⟩ dito a Yaakov, ⟨e⟩ disse: Eis-que teu filho Yoséf está vindo a ti; ⟨e⟩ Yisrael ⟨se⟩ fortaleceu, ⟨e⟩ sentou ⟨sobre⟩ ⟨o⟩ leito.",
-  "tokens": [
-    {
-      "surface": "ויגד",
-      "english": "E ⟨foi⟩ dito"
-    },
-    {
-      "surface": "ליעקב",
-      "english": "a Yaakov"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "⟨e⟩ disse"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis-que"
-    },
-    {
-      "surface": "בנך",
-      "english": "teu filho"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yoséf"
-    },
-    {
-      "surface": "בא",
-      "english": "está vindo"
-    },
-    {
-      "surface": "אליך",
-      "english": "a ti"
-    },
-    {
-      "surface": "ויתחזק",
-      "english": "⟨e⟩ Israel ⟨se⟩ fortaleceu"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "וישב",
-      "english": "⟨e⟩ sentou"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "המטה",
-      "english": "⟨o⟩ leito"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:32:40.402619968Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

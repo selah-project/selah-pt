@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 34:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62861,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63277
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:00:53.558926939Z",
   "translation": "Quem guarda todos ⟨os⟩ seus ossos ⟨dele⟩, um ⟨deles⟩ dentre estes não ⟨é⟩ quebrado",
   "tokens": [
     {
       "surface": "שמר",
-      "english": "Quem guarda"
+      "gloss": "Quem guarda"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "עצמותיו",
-      "english": "⟨os⟩ seus ossos ⟨dele⟩",
+      "gloss": "⟨os⟩ seus ossos ⟨dele⟩",
       "marks": "seus ossos"
     },
     {
       "surface": "אחת",
-      "english": "um ⟨deles⟩"
+      "gloss": "um ⟨deles⟩"
     },
     {
       "surface": "מהנה",
-      "english": "dentre estes"
+      "gloss": "dentre estes"
     },
     {
       "surface": "לא",
-      "english": "não ⟨é⟩"
+      "gloss": "não ⟨é⟩"
     },
     {
       "surface": "נשברה",
-      "english": "quebrado"
+      "gloss": "quebrado"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:00:53.558926939Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 42:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 42,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:07:17.038093184Z",
+  "translation": "⟨Ao⟩ Diretor ⟨do⟩ Coro ⟨um⟩ Poema Didático ⟨para⟩ ⟨os⟩ Filhos ⟨de⟩ Koraj",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "⟨Ao⟩ Diretor ⟨do⟩ Coro"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "⟨um⟩ Poema Didático"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨para⟩ ⟨os⟩ Filhos ⟨de⟩"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraj"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Corá",
@@ -13,40 +36,6 @@
       "hebrew": "קרח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 42,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62667,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63070
-  },
-  "translation": "⟨Ao⟩ Diretor ⟨do⟩ Coro ⟨um⟩ Poema Didático ⟨para⟩ ⟨os⟩ Filhos ⟨de⟩ Koraj",
-  "tokens": [
-    {
-      "surface": "למנצח",
-      "english": "⟨Ao⟩ Diretor ⟨do⟩ Coro"
-    },
-    {
-      "surface": "משכיל",
-      "english": "⟨um⟩ Poema Didático"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨para⟩ ⟨os⟩ Filhos ⟨de⟩"
-    },
-    {
-      "surface": "קרח",
-      "english": "Koraj"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:07:17.038093184Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

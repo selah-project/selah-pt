@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 13:20",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 467,
-    "prompt_tokens": 60371,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60838
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:29:55.373322345Z",
   "translation": "Quem caminha ⟨את⟩ os sábios será sábio, mas o companheiro dos insensatos sofrerá mal.",
   "tokens": [
     {
       "surface": "הלוך",
-      "english": "Quem caminha"
+      "gloss": "Quem caminha"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os sábios"
     },
     {
       "surface": "חכמים",
-      "english": "os sábios"
+      "gloss": "os sábios"
     },
     {
       "surface": "וחכם",
-      "english": "será sábio"
+      "gloss": "será sábio"
     },
     {
       "surface": "ורעה",
-      "english": "mas o companheiro"
+      "gloss": "mas o companheiro"
     },
     {
       "surface": "כסילים",
-      "english": "dos insensatos"
+      "gloss": "dos insensatos"
     },
     {
       "surface": "ירוע",
-      "english": "sofrerá mal"
+      "gloss": "sofrerá mal"
     }
-  ],
-  "timestamp": "2026-07-16T17:29:55.373322345Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 146:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 818,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63129,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63947
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:15:33.622767693Z",
   "translation": "Fazendo julgamento ⟨para⟩ ⟨os⟩ oprimidos, dando pão ⟨aos⟩ famintos; YHWH liberta ⟨os⟩ prisioneiros.",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "Fazendo",
+      "gloss": "Fazendo",
       "rationale": "Particípio ativo, particípio presente de 'fazer\/make' — ação contínua de Elohim"
     },
     {
       "surface": "משפט",
-      "english": "julgamento",
+      "gloss": "julgamento",
       "rationale": "Veredito judicial, justiça, não apenas 'juízo' abstrato"
     },
     {
       "surface": "לעשוקים",
-      "english": "⟨para⟩ ⟨os⟩ oprimidos",
+      "gloss": "⟨para⟩ ⟨os⟩ oprimidos",
       "rationale": "Preposição 'para' + particípio passivo 'os oprimidos\/vitimados' — hapax legomenon"
     },
     {
       "surface": "נתן",
-      "english": "dando",
+      "gloss": "dando",
       "rationale": "Particípio ativo — ação contínua de 'dar'"
     },
     {
       "surface": "לחם",
-      "english": "pão",
+      "gloss": "pão",
       "rationale": "'Comida' em geral, especialmente pão — símbolo básico de sustento"
     },
     {
       "surface": "לרעבים",
-      "english": "⟨aos⟩ famintos",
+      "gloss": "⟨aos⟩ famintos",
       "rationale": "Preposição 'para' + 'famintos' — hapax legomenon"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "rationale": "Nome divino — usa-se a forma transliterada conforme disciplina"
     },
     {
       "surface": "מתיר",
-      "english": "liberta",
+      "gloss": "liberta",
       "rationale": "Causativo de 'soltar\/desatar' — 'fazer ser solto, libertar' — hapax legomenon"
     },
     {
       "surface": "אסורים",
-      "english": "⟨os⟩ prisioneiros",
+      "gloss": "⟨os⟩ prisioneiros",
       "rationale": "Particípio passivo de 'prender\/atar' — 'os amarrados, os presos'"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:15:33.622767693Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

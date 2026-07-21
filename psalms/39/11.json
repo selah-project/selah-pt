@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 39:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63012,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63439
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:05:28.254915767Z",
   "translation": "Remove ⟨the⟩ affliction from me; I am consumed by ⟨the⟩ blow of ⟨your⟩ hand.",
   "tokens": [
     {
       "surface": "הסר",
-      "english": "Remove"
+      "gloss": "Remove"
     },
     {
       "surface": "מעלי",
-      "english": "from me"
+      "gloss": "from me"
     },
     {
       "surface": "נגעך",
-      "english": "⟨the⟩ affliction"
+      "gloss": "⟨the⟩ affliction"
     },
     {
       "surface": "מתגרת",
-      "english": "of ⟨your⟩ hand"
+      "gloss": "of ⟨your⟩ hand"
     },
     {
       "surface": "ידך",
-      "english": "⟨the⟩ blow"
+      "gloss": "⟨the⟩ blow"
     },
     {
       "surface": "אני",
-      "english": "I am"
+      "gloss": "I am"
     },
     {
       "surface": "כליתי",
-      "english": "consumed"
+      "gloss": "consumed"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:05:28.254915767Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 54:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62873,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63256
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:14:45.560353489Z",
   "translation": "Eis que Elohim ⟨é⟩ meu ajudador; ⟨o⟩ Eterno ⟨é⟩ ⟨o⟩ que sustenta minh'alma.",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "Eis que"
+      "gloss": "Eis que"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "עזר",
-      "english": "⟨é⟩ meu ajudador"
+      "gloss": "⟨é⟩ meu ajudador"
     },
     {
       "surface": "לי",
-      "english": "meu"
+      "gloss": "meu"
     },
     {
       "surface": "אדני",
-      "english": "⟨o⟩ Eterno"
+      "gloss": "⟨o⟩ Eterno"
     },
     {
       "surface": "בסמכי",
-      "english": "⟨é⟩ ⟨o⟩ que sustenta"
+      "gloss": "⟨é⟩ ⟨o⟩ que sustenta"
     },
     {
       "surface": "נפשי",
-      "english": "minh'alma"
+      "gloss": "minh'alma"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:14:45.560353489Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

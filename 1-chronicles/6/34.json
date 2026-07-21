@@ -1,9 +1,105 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "1-chronicles 6:34",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 6,
+  "verse": 34,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:38:39.207007030Z",
+  "translation": "E Aharon e seus filhos ⟨estão⟩ queimando incenso sobre o altar da oferta queimada e sobre o altar ⟨do⟩ incenso por todo ⟨o⟩ ministério das coisas santas, ⟨as⟩ santidades, e para cobrir sobre Yisrael conforme tudo que ordenou Moshé, servo ⟨de⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "E Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e seus filhos"
+    },
+    {
+      "surface": "מקטירים",
+      "gloss": "⟨estão⟩ queimando incenso"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "o altar"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "da oferta queimada"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sobre"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "o altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "⟨do⟩ incenso"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "por todo"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "⟨o⟩ ministério"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "das coisas santas"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "⟨as⟩ santidades"
+    },
+    {
+      "surface": "ולכפר",
+      "gloss": "e para cobrir"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "conforme tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ordenou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨de⟩ Elohim",
+      "marks": "servo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,113 +109,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 1372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58271,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 59643
-  },
-  "translation": "E Aharon e seus filhos ⟨estão⟩ queimando incenso sobre o altar da oferta queimada e sobre o altar ⟨do⟩ incenso por todo ⟨o⟩ ministério das coisas santas, ⟨as⟩ santidades, e para cobrir sobre Yisrael conforme tudo que ordenou Moshé, servo ⟨de⟩ Elohim.",
-  "tokens": [
-    {
-      "surface": "ואהרן",
-      "english": "E Aharon"
-    },
-    {
-      "surface": "ובניו",
-      "english": "e seus filhos"
-    },
-    {
-      "surface": "מקטירים",
-      "english": "⟨estão⟩ queimando incenso"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "מזבח",
-      "english": "o altar"
-    },
-    {
-      "surface": "העולה",
-      "english": "da oferta queimada"
-    },
-    {
-      "surface": "ועל",
-      "english": "e sobre"
-    },
-    {
-      "surface": "מזבח",
-      "english": "o altar"
-    },
-    {
-      "surface": "הקטרת",
-      "english": "⟨do⟩ incenso"
-    },
-    {
-      "surface": "לכל",
-      "english": "por todo"
-    },
-    {
-      "surface": "מלאכת",
-      "english": "⟨o⟩ ministério"
-    },
-    {
-      "surface": "קדש",
-      "english": "das coisas santas"
-    },
-    {
-      "surface": "הקדשים",
-      "english": "⟨as⟩ santidades"
-    },
-    {
-      "surface": "ולכפר",
-      "english": "e para cobrir"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ככל",
-      "english": "conforme tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "צוה",
-      "english": "ordenou"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "עבד",
-      "english": "servo"
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨de⟩ Elohim",
-      "marks": "servo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:38:39.207007030Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

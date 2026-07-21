@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "numbers 20:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 20,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:31:19.027168290Z",
+  "translation": "e ⟨os⟩ nossos pais desceram ⟨ao⟩ Mitzráyim, e ⟨nós⟩ habitamos ⟨no⟩ Mitzráyim muitos dias; e ⟨os⟩ egípcios nos fizeram mal ⟨a⟩ nós e ⟨aos⟩ nossos pais",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "E ⟨os⟩ nossos pais desceram"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "⟨os⟩ nossos pais"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "⟨ao⟩ Mitzráyim"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "e ⟨nós⟩ habitamos"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "⟨no⟩ Egito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "muitos dias"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "muitos"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "e ⟨os⟩ egípcios nos fizeram mal"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨a⟩ nós"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨os⟩ egípcios"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "e ⟨aos⟩ nossos pais"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,68 +64,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18416,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18934
-  },
-  "translation": "e ⟨os⟩ nossos pais desceram ⟨ao⟩ Mitzráyim, e ⟨nós⟩ habitamos ⟨no⟩ Mitzráyim muitos dias; e ⟨os⟩ egípcios nos fizeram mal ⟨a⟩ nós e ⟨aos⟩ nossos pais",
-  "tokens": [
-    {
-      "surface": "וירדו",
-      "english": "E ⟨os⟩ nossos pais desceram"
-    },
-    {
-      "surface": "אבתינו",
-      "english": "⟨os⟩ nossos pais"
-    },
-    {
-      "surface": "מצרימה",
-      "english": "⟨ao⟩ Mitzráyim"
-    },
-    {
-      "surface": "ונשב",
-      "english": "e ⟨nós⟩ habitamos"
-    },
-    {
-      "surface": "במצרים",
-      "english": "⟨no⟩ Egito"
-    },
-    {
-      "surface": "ימים",
-      "english": "muitos dias"
-    },
-    {
-      "surface": "רבים",
-      "english": "muitos"
-    },
-    {
-      "surface": "וירעו",
-      "english": "e ⟨os⟩ egípcios nos fizeram mal"
-    },
-    {
-      "surface": "לנו",
-      "english": "⟨a⟩ nós"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨os⟩ egípcios"
-    },
-    {
-      "surface": "ולאבתינו",
-      "english": "e ⟨aos⟩ nossos pais"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:31:19.027168290Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

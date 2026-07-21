@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-kings 18:9",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 70202,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 70604
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:34:45.280886576Z",
   "translation": "E ele disse: Em que pequei, que tu estás entregando ⟨את⟩ teu servo na mão de Ajáv para me matar?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ele disse"
+      "gloss": "E ele disse"
     },
     {
       "surface": "מה",
-      "english": "Em que"
+      "gloss": "Em que"
     },
     {
       "surface": "חטאתי",
-      "english": "pequei"
+      "gloss": "pequei"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אתה",
-      "english": "tu estás"
+      "gloss": "tu estás"
     },
     {
       "surface": "נתן",
-      "english": "entregando"
+      "gloss": "entregando"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "teu servo"
     },
     {
       "surface": "עבדך",
-      "english": "teu servo"
+      "gloss": "teu servo"
     },
     {
       "surface": "ביד",
-      "english": "na mão"
+      "gloss": "na mão"
     },
     {
       "surface": "אחאב",
-      "english": "de Ajáv"
+      "gloss": "de Ajáv"
     },
     {
       "surface": "להמיתני",
-      "english": "para me matar"
+      "gloss": "para me matar"
     }
-  ],
-  "timestamp": "2026-07-16T11:34:45.280886576Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-kings 16:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 16,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:34:23.098261840Z",
+  "translation": "E o resto ⟨das⟩ palavras de Elah, e tudo que fez, ⟨⟩ não ⟨estão⟩ escritos no livro ⟨das⟩ palavras ⟨dos⟩ dias ⟨dos⟩ reis de Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "E o resto ⟨das⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "palavras"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "de Elah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fez"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "הם",
+      "gloss": "não ⟨estão⟩"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "no"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "livro ⟨das⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "palavras ⟨dos⟩"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dias ⟨dos⟩"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "reis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 589,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63023,
-    "prompt_tokens_details": {
-      "cached_tokens": 61312
-    },
-    "total_tokens": 63612
-  },
-  "translation": "E o resto ⟨das⟩ palavras de Elah, e tudo que fez, ⟨⟩ não ⟨estão⟩ escritos no livro ⟨das⟩ palavras ⟨dos⟩ dias ⟨dos⟩ reis de Yisrael?",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "E o resto ⟨das⟩"
-    },
-    {
-      "surface": "דברי",
-      "english": "palavras"
-    },
-    {
-      "surface": "אלה",
-      "english": "de Elah"
-    },
-    {
-      "surface": "וכל",
-      "english": "e tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עשה",
-      "english": "fez"
-    },
-    {
-      "surface": "הלוא",
-      "english": "⟨⟩"
-    },
-    {
-      "surface": "הם",
-      "english": "não ⟨estão⟩"
-    },
-    {
-      "surface": "כתובים",
-      "english": "escritos"
-    },
-    {
-      "surface": "על",
-      "english": "no"
-    },
-    {
-      "surface": "ספר",
-      "english": "livro ⟨das⟩"
-    },
-    {
-      "surface": "דברי",
-      "english": "palavras ⟨dos⟩"
-    },
-    {
-      "surface": "הימים",
-      "english": "dias ⟨dos⟩"
-    },
-    {
-      "surface": "למלכי",
-      "english": "reis"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:34:23.098261840Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

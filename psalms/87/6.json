@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 87:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 87,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63004,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63427
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:37:26.339389651Z",
   "translation": "YHWH ⟨will⟩ count ⟨in⟩ ⟨the⟩ writing ⟨of⟩ ⟨the⟩ peoples: *este* nasceu lá. Selá.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יספר",
-      "english": "⟨will⟩ count"
+      "gloss": "⟨will⟩ count"
     },
     {
       "surface": "בכתוב",
-      "english": "⟨in⟩ ⟨the⟩ writing"
+      "gloss": "⟨in⟩ ⟨the⟩ writing"
     },
     {
       "surface": "עמים",
-      "english": "⟨of⟩ ⟨the⟩ peoples"
+      "gloss": "⟨of⟩ ⟨the⟩ peoples"
     },
     {
       "surface": "זה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "ילד",
-      "english": "nasceu"
+      "gloss": "nasceu"
     },
     {
       "surface": "שם",
-      "english": "lá"
+      "gloss": "lá"
     },
     {
       "surface": "סלה",
-      "english": "Selá"
+      "gloss": "Selá"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:37:26.339389651Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

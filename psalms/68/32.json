@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "psalms 68:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 68,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:23:24.292919870Z",
+  "translation": "Cheguem ⟨os⟩ nobres ⟨de⟩ o Mitzráyim; ⟨a⟩ Etiópia apressará ⟨a⟩ estender ⟨as⟩ suas mãos ⟨a⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "Cheguem"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "⟨os⟩ nobres"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "o Mitzráyim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "⟨a⟩ Etiópia"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "apressará"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "⟨a⟩ estender ⟨as⟩ suas mãos"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨a⟩ Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,56 +52,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 68,
-  "usage": {
-    "completion_tokens": 585,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63003,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63588
-  },
-  "translation": "Cheguem ⟨os⟩ nobres ⟨de⟩ o Mitzráyim; ⟨a⟩ Etiópia apressará ⟨a⟩ estender ⟨as⟩ suas mãos ⟨a⟩ Elohim.",
-  "tokens": [
-    {
-      "surface": "יאתיו",
-      "english": "Cheguem"
-    },
-    {
-      "surface": "חשמנים",
-      "english": "⟨os⟩ nobres"
-    },
-    {
-      "surface": "מני",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "מצרים",
-      "english": "o Mitzráyim"
-    },
-    {
-      "surface": "כוש",
-      "english": "⟨a⟩ Etiópia"
-    },
-    {
-      "surface": "תריץ",
-      "english": "apressará"
-    },
-    {
-      "surface": "ידיו",
-      "english": "⟨a⟩ estender ⟨as⟩ suas mãos"
-    },
-    {
-      "surface": "לאלהים",
-      "english": "⟨a⟩ Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:23:24.292919870Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

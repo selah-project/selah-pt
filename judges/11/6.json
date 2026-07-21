@@ -1,9 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "judges 11:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 11,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:01:55.194276828Z",
+  "translation": "E disseram a Yiftah: 'Vem e ⟨serás⟩ nosso ⟨príncipe⟩, e lutaremos contra os ⟨filhos⟩ de Ammon.'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E disseram"
+    },
+    {
+      "surface": "ליפתח",
+      "gloss": "a Yiftah"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "'Vem"
+    },
+    {
+      "surface": "והייתה",
+      "gloss": "e ⟨serás⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nosso"
+    },
+    {
+      "surface": "לקצין",
+      "gloss": "⟨príncipe⟩",
+      "marks": "nosso ⟨príncipe⟩"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "e lutaremos"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "contra os ⟨filhos⟩",
+      "marks": "contra os ⟨filhos⟩ de Amom"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Ammon.'"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amom",
@@ -13,62 +58,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16328,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 16895
-  },
-  "translation": "E disseram a Yiftah: 'Vem e ⟨serás⟩ nosso ⟨príncipe⟩, e lutaremos contra os ⟨filhos⟩ de Ammon.'",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "E disseram"
-    },
-    {
-      "surface": "ליפתח",
-      "english": "a Yiftah"
-    },
-    {
-      "surface": "לכה",
-      "english": "'Vem"
-    },
-    {
-      "surface": "והייתה",
-      "english": "e ⟨serás⟩"
-    },
-    {
-      "surface": "לנו",
-      "english": "nosso"
-    },
-    {
-      "surface": "לקצין",
-      "english": "⟨príncipe⟩",
-      "marks": "nosso ⟨príncipe⟩"
-    },
-    {
-      "surface": "ונלחמה",
-      "english": "e lutaremos"
-    },
-    {
-      "surface": "בבני",
-      "english": "contra os ⟨filhos⟩",
-      "marks": "contra os ⟨filhos⟩ de Amom"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Ammon.'"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:01:55.194276828Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

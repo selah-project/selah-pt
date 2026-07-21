@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "ezra 10:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 10,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:13:06.444742403Z",
+  "translation": "Então se ajuntaram todos os homens de Yehudá e de Benjamim ⟨em⟩ Yerushalayim dentro de três dias, ⟨que era⟩ o nono mês, aos vinte dias do mês; e todo ⟨o⟩ povo ⟨estava⟩ sentado na praça ⟨de⟩ ⟨a⟩ casa ⟨de⟩ Elohim, tremendo ⟨por⟩ ⟨o⟩ assunto e ⟨por⟩ ⟨as⟩ grandes chuvas.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Então se ajuntaram"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "homens"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "e de Benjamim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨em⟩ Yerushalayim"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "dentro de três"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dias"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨que era⟩"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mês"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "nono"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "aos vinte"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dias do mês"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e todo ⟨o⟩ povo ⟨estava⟩ sentado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨o⟩ povo"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "na praça"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨de⟩ ⟨a⟩ casa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨de⟩ Elohim"
+    },
+    {
+      "surface": "מרעידים",
+      "gloss": "tremendo"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨o⟩ assunto"
+    },
+    {
+      "surface": "ומהגשמים",
+      "gloss": "e ⟨por⟩ ⟨as⟩ grandes chuvas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,116 +119,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 943,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46439,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 47382
-  },
-  "translation": "Então se ajuntaram todos os homens de Yehudá e de Benjamim ⟨em⟩ Yerushalayim dentro de três dias, ⟨que era⟩ o nono mês, aos vinte dias do mês; e todo ⟨o⟩ povo ⟨estava⟩ sentado na praça ⟨de⟩ ⟨a⟩ casa ⟨de⟩ Elohim, tremendo ⟨por⟩ ⟨o⟩ assunto e ⟨por⟩ ⟨as⟩ grandes chuvas.",
-  "tokens": [
-    {
-      "surface": "ויקבצו",
-      "english": "Então se ajuntaram"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "אנשי",
-      "english": "homens"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ובנימן",
-      "english": "e de Benjamim"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨em⟩ Yerushalayim"
-    },
-    {
-      "surface": "לשלשת",
-      "english": "dentro de três"
-    },
-    {
-      "surface": "הימים",
-      "english": "dias"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨que era⟩"
-    },
-    {
-      "surface": "חדש",
-      "english": "mês"
-    },
-    {
-      "surface": "התשיעי",
-      "english": "nono"
-    },
-    {
-      "surface": "בעשרים",
-      "english": "aos vinte"
-    },
-    {
-      "surface": "בחדש",
-      "english": "dias do mês"
-    },
-    {
-      "surface": "וישבו",
-      "english": "e todo ⟨o⟩ povo ⟨estava⟩ sentado"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨o⟩ povo"
-    },
-    {
-      "surface": "ברחוב",
-      "english": "na praça"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨de⟩ ⟨a⟩ casa"
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨de⟩ Elohim"
-    },
-    {
-      "surface": "מרעידים",
-      "english": "tremendo"
-    },
-    {
-      "surface": "על",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "הדבר",
-      "english": "⟨o⟩ assunto"
-    },
-    {
-      "surface": "ומהגשמים",
-      "english": "e ⟨por⟩ ⟨as⟩ grandes chuvas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:13:06.444742403Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

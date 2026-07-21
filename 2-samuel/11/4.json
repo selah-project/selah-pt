@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-samuel 11:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 11,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:52:24.152818262Z",
+  "translation": "E David enviou mensageiros e ⟨a⟩ tomou e ela veio a ele e ele se deitou com ela e ela ⟨estava⟩ purificando-se de sua impureza e ela voltou para sua casa",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E enviou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mensageiros"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "e ⟨a⟩ tomou"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "e ela veio"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "e ele se deitou"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "com ela"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "e ela"
+    },
+    {
+      "surface": "מתקדשת",
+      "gloss": "⟨estava⟩ purificando-se"
+    },
+    {
+      "surface": "מטמאתה",
+      "gloss": "de sua impureza"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "e ela voltou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sua casa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,80 +76,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17876,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18405
-  },
-  "translation": "E David enviou mensageiros e ⟨a⟩ tomou e ela veio a ele e ele se deitou com ela e ela ⟨estava⟩ purificando-se de sua impureza e ela voltou para sua casa",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "E enviou"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "מלאכים",
-      "english": "mensageiros"
-    },
-    {
-      "surface": "ויקחה",
-      "english": "e ⟨a⟩ tomou"
-    },
-    {
-      "surface": "ותבוא",
-      "english": "e ela veio"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ele"
-    },
-    {
-      "surface": "וישכב",
-      "english": "e ele se deitou"
-    },
-    {
-      "surface": "עמה",
-      "english": "com ela"
-    },
-    {
-      "surface": "והיא",
-      "english": "e ela"
-    },
-    {
-      "surface": "מתקדשת",
-      "english": "⟨estava⟩ purificando-se"
-    },
-    {
-      "surface": "מטמאתה",
-      "english": "de sua impureza"
-    },
-    {
-      "surface": "ותשב",
-      "english": "e ela voltou"
-    },
-    {
-      "surface": "אל",
-      "english": "para"
-    },
-    {
-      "surface": "ביתה",
-      "english": "sua casa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:52:24.152818262Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

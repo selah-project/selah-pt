@@ -1,9 +1,101 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "genesis 4:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 4,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:45:54.061823617Z",
+  "translation": "E Lémej disse ⟨a⟩ suas mulheres: Ada e Zila, ouvi minha voz, mulheres de Lémej, ⟨a⟩prestai atenção ⟨a⟩ meu ⟨dito⟩: pois ⟨um⟩ homem matei ⟨por⟩ ⟨minha⟩ ferida, e ⟨um⟩ moço ⟨por⟩ ⟨minha⟩ contusão",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Lameque disse",
+      "marks": null
+    },
+    {
+      "surface": "למך",
+      "gloss": "⟨a⟩",
+      "marks": "suas mulheres"
+    },
+    {
+      "surface": "לנשיו",
+      "gloss": "suas mulheres:",
+      "marks": null
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada",
+      "marks": null
+    },
+    {
+      "surface": "וצלה",
+      "gloss": "e Zila,",
+      "marks": null
+    },
+    {
+      "surface": "שמען",
+      "gloss": "ouvi",
+      "marks": null
+    },
+    {
+      "surface": "קולי",
+      "gloss": "minha voz,",
+      "marks": null
+    },
+    {
+      "surface": "נשי",
+      "gloss": "mulheres",
+      "marks": null
+    },
+    {
+      "surface": "למך",
+      "gloss": "de Lémej,",
+      "marks": null
+    },
+    {
+      "surface": "האזנה",
+      "gloss": "⟨a⟩prestai atenção",
+      "marks": null
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "⟨a⟩ meu ⟨dito⟩:",
+      "marks": null
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois",
+      "marks": null
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨um⟩ homem",
+      "marks": null
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "matei",
+      "marks": null
+    },
+    {
+      "surface": "לפצעי",
+      "gloss": "⟨por⟩ ⟨minha⟩ ferida,",
+      "marks": null
+    },
+    {
+      "surface": "וילד",
+      "gloss": "e ⟨um⟩ moço",
+      "marks": null
+    },
+    {
+      "surface": "לחברתי",
+      "gloss": "⟨por⟩ ⟨minha⟩ contusão",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Lameque",
@@ -13,109 +105,6 @@
       "hebrew": "למך"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 833,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22307,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 23140
-  },
-  "translation": "E Lémej disse ⟨a⟩ suas mulheres: Ada e Zila, ouvi minha voz, mulheres de Lémej, ⟨a⟩prestai atenção ⟨a⟩ meu ⟨dito⟩: pois ⟨um⟩ homem matei ⟨por⟩ ⟨minha⟩ ferida, e ⟨um⟩ moço ⟨por⟩ ⟨minha⟩ contusão",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Lameque disse",
-      "marks": null
-    },
-    {
-      "surface": "למך",
-      "english": "⟨a⟩",
-      "marks": "suas mulheres"
-    },
-    {
-      "surface": "לנשיו",
-      "english": "suas mulheres:",
-      "marks": null
-    },
-    {
-      "surface": "עדה",
-      "english": "Ada",
-      "marks": null
-    },
-    {
-      "surface": "וצלה",
-      "english": "e Zila,",
-      "marks": null
-    },
-    {
-      "surface": "שמען",
-      "english": "ouvi",
-      "marks": null
-    },
-    {
-      "surface": "קולי",
-      "english": "minha voz,",
-      "marks": null
-    },
-    {
-      "surface": "נשי",
-      "english": "mulheres",
-      "marks": null
-    },
-    {
-      "surface": "למך",
-      "english": "de Lémej,",
-      "marks": null
-    },
-    {
-      "surface": "האזנה",
-      "english": "⟨a⟩prestai atenção",
-      "marks": null
-    },
-    {
-      "surface": "אמרתי",
-      "english": "⟨a⟩ meu ⟨dito⟩:",
-      "marks": null
-    },
-    {
-      "surface": "כי",
-      "english": "pois",
-      "marks": null
-    },
-    {
-      "surface": "איש",
-      "english": "⟨um⟩ homem",
-      "marks": null
-    },
-    {
-      "surface": "הרגתי",
-      "english": "matei",
-      "marks": null
-    },
-    {
-      "surface": "לפצעי",
-      "english": "⟨por⟩ ⟨minha⟩ ferida,",
-      "marks": null
-    },
-    {
-      "surface": "וילד",
-      "english": "e ⟨um⟩ moço",
-      "marks": null
-    },
-    {
-      "surface": "לחברתי",
-      "english": "⟨por⟩ ⟨minha⟩ contusão",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:45:54.061823617Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

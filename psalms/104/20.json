@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 104:20",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 429,
-    "prompt_tokens": 70445,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70874
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:39.594753894Z",
   "translation": "Tu pões ⟨a⟩ escuridão, e ⟨é⟩ noite; nela todos ⟨os⟩ animais ⟨da⟩ floresta se movem.",
   "tokens": [
     {
       "surface": "תשת",
-      "english": "Tu pões"
+      "gloss": "Tu pões"
     },
     {
       "surface": "חשך",
-      "english": "⟨a⟩ escuridão"
+      "gloss": "⟨a⟩ escuridão"
     },
     {
       "surface": "ויהי",
-      "english": "e ⟨é⟩"
+      "gloss": "e ⟨é⟩"
     },
     {
       "surface": "לילה",
-      "english": "noite"
+      "gloss": "noite"
     },
     {
       "surface": "בו",
-      "english": "nela"
+      "gloss": "nela"
     },
     {
       "surface": "תרמש",
-      "english": "se movem"
+      "gloss": "se movem"
     },
     {
       "surface": "כל",
-      "english": "todos ⟨os⟩"
+      "gloss": "todos ⟨os⟩"
     },
     {
       "surface": "חיתו",
-      "english": "animais ⟨da⟩"
+      "gloss": "animais ⟨da⟩"
     },
     {
       "surface": "יער",
-      "english": "floresta"
+      "gloss": "floresta"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:39.594753894Z",
-  "model": "glm-4.5"
+  ]
 }

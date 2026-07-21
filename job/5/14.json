@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 5:14",
   "book": "job",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 427,
-    "prompt_tokens": 27442,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27869
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:56:08.174114411Z",
   "translation": "De dia encontram ⟨a⟩ escuridão e à noite tateiam ⟨ao⟩ meio-dia.",
   "tokens": [
     {
       "surface": "יומם",
-      "english": "De dia"
+      "gloss": "De dia"
     },
     {
       "surface": "יפגשו",
-      "english": "encontram"
+      "gloss": "encontram"
     },
     {
       "surface": "חשך",
-      "english": "⟨a⟩ escuridão"
+      "gloss": "⟨a⟩ escuridão"
     },
     {
       "surface": "וכלילה",
-      "english": "e à noite"
+      "gloss": "e à noite"
     },
     {
       "surface": "ימששו",
-      "english": "tateiam"
+      "gloss": "tateiam"
     },
     {
       "surface": "בצהרים",
-      "english": "⟨ao⟩ meio-dia"
+      "gloss": "⟨ao⟩ meio-dia"
     }
-  ],
-  "timestamp": "2026-07-16T15:56:08.174114411Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-samuel 8:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 8,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:19:10.982247136Z",
+  "translation": "E todos ⟨os⟩ anciãos de Yisrael se ajuntaram e vieram a Shmuel ⟨em⟩ Ramá",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "E se ajuntaram"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "⟨os⟩ anciãos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e vieram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "⟨em⟩ Ramá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,56 +59,6 @@
       "hebrew": "שמואל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16437,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 16794
-  },
-  "translation": "E todos ⟨os⟩ anciãos de Yisrael se ajuntaram e vieram a Shmuel ⟨em⟩ Ramá",
-  "tokens": [
-    {
-      "surface": "ויתקבצו",
-      "english": "E se ajuntaram"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "זקני",
-      "english": "⟨os⟩ anciãos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויבאו",
-      "english": "e vieram"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shmuel"
-    },
-    {
-      "surface": "הרמתה",
-      "english": "⟨em⟩ Ramá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:19:10.982247136Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

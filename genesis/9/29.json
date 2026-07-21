@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "genesis 9:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 9,
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:50:16.833585010Z",
+  "translation": "E foram todos os dias de Noaj novecentos e cinquenta anos, e ⟨ele⟩ morreu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E foram"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "os dias"
+    },
+    {
+      "surface": "נח",
+      "gloss": "de Noaj"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "novecentos"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "e"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "cinquenta anos"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "cinquenta anos"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e ⟨ele⟩ morreu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noé",
@@ -13,64 +60,6 @@
       "hebrew": "נח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 288,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21399,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21687
-  },
-  "translation": "E foram todos os dias de Noaj novecentos e cinquenta anos, e ⟨ele⟩ morreu.",
-  "tokens": [
-    {
-      "surface": "ויהיו",
-      "english": "E foram"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "ימי",
-      "english": "os dias"
-    },
-    {
-      "surface": "נח",
-      "english": "de Noaj"
-    },
-    {
-      "surface": "תשע",
-      "english": "novecentos"
-    },
-    {
-      "surface": "מאות",
-      "english": "e"
-    },
-    {
-      "surface": "שנה",
-      "english": "cinquenta anos"
-    },
-    {
-      "surface": "וחמשים",
-      "english": "e"
-    },
-    {
-      "surface": "שנה",
-      "english": "cinquenta anos"
-    },
-    {
-      "surface": "וימת",
-      "english": "e ⟨ele⟩ morreu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:50:16.833585010Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 38:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 38,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:20:47.916280692Z",
+  "translation": "E ⟨Yehudá⟩ a viu e ⟨a⟩ contou como ⟨uma⟩ ⟨prostituta⟩ porque ⟨ela⟩ ⟨cobriu⟩ ⟨seu⟩ ⟨rosto⟩",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "E ⟨Judá⟩ a viu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "e ⟨a⟩ contou como"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "⟨uma⟩ ⟨prostituta⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "⟨ela⟩ ⟨cobriu⟩"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "⟨seu⟩ ⟨rosto⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,52 +48,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 38,
-  "usage": {
-    "completion_tokens": 557,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21402,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21959
-  },
-  "translation": "E ⟨Yehudá⟩ a viu e ⟨a⟩ contou como ⟨uma⟩ ⟨prostituta⟩ porque ⟨ela⟩ ⟨cobriu⟩ ⟨seu⟩ ⟨rosto⟩",
-  "tokens": [
-    {
-      "surface": "ויראה",
-      "english": "E ⟨Judá⟩ a viu"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "ויחשבה",
-      "english": "e ⟨a⟩ contou como"
-    },
-    {
-      "surface": "לזונה",
-      "english": "⟨uma⟩ ⟨prostituta⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "כסתה",
-      "english": "⟨ela⟩ ⟨cobriu⟩"
-    },
-    {
-      "surface": "פניה",
-      "english": "⟨seu⟩ ⟨rosto⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:20:47.916280692Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

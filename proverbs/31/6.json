@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "proverbs 31:6",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 470,
-    "prompt_tokens": 60125,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60595
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:32:38.654067084Z",
   "translation": "Dai bebida forte ao que está perecendo, e vinho aos amargos de nefesh",
   "tokens": [
     {
       "surface": "תנו",
-      "english": "Dai"
+      "gloss": "Dai"
     },
     {
       "surface": "שכר",
-      "english": "bebida forte"
+      "gloss": "bebida forte"
     },
     {
       "surface": "לאובד",
-      "english": "ao que está perecendo"
+      "gloss": "ao que está perecendo"
     },
     {
       "surface": "ויין",
-      "english": "e vinho"
+      "gloss": "e vinho"
     },
     {
       "surface": "למרי",
-      "english": "aos amargos"
+      "gloss": "aos amargos"
     },
     {
       "surface": "נפש",
-      "english": "de nefesh"
+      "gloss": "de nefesh"
     }
-  ],
-  "timestamp": "2026-07-16T17:32:38.654067084Z",
-  "model": "glm-4.5"
+  ]
 }

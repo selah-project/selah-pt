@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 88:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 499,
-    "prompt_tokens": 70248,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70747
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:27.546492954Z",
   "translation": "Venha ⟨a⟩ oração minha ⟨perante⟩ a tua face; inclina ⟨a⟩ o teu ouvido ⟨ao⟩ meu clamor.",
   "tokens": [
     {
       "surface": "תבוא",
-      "english": "Venha"
+      "gloss": "Venha"
     },
     {
       "surface": "לפניך",
-      "english": "⟨perante⟩ a tua face"
+      "gloss": "⟨perante⟩ a tua face"
     },
     {
       "surface": "תפלתי",
-      "english": "oração minha"
+      "gloss": "oração minha"
     },
     {
       "surface": "הטה",
-      "english": "inclina"
+      "gloss": "inclina"
     },
     {
       "surface": "אזנך",
-      "english": "⟨a⟩ o teu ouvido"
+      "gloss": "⟨a⟩ o teu ouvido"
     },
     {
       "surface": "לרנתי",
-      "english": "⟨ao⟩ meu clamor"
+      "gloss": "⟨ao⟩ meu clamor"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:27.546492954Z",
-  "model": "glm-4.5"
+  ]
 }

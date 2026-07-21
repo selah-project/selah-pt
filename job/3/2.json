@@ -1,9 +1,28 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 3:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 3,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:47:38.663146755Z",
+  "translation": "E Iyov respondeu e disse",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "E respondeu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jó",
@@ -13,36 +32,6 @@
       "hebrew": "איוב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 88,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19605,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 19693
-  },
-  "translation": "E Iyov respondeu e disse",
-  "tokens": [
-    {
-      "surface": "ויען",
-      "english": "E respondeu"
-    },
-    {
-      "surface": "איוב",
-      "english": "Iyov"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:47:38.663146755Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

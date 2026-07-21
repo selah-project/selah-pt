@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "genesis 36:40",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 36,
+  "verse": 40,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:19:21.883624286Z",
+  "translation": "E estes ⟨são⟩ ⟨os⟩ nomes ⟨dos⟩ alufes ⟨de⟩ Esav, segundo ⟨as⟩ suas famílias, segundo ⟨os⟩ seus lugares, por ⟨os⟩ seus nomes: alufe Timná, alufe Alva, alufe Jetete.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E estes"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "⟨são⟩ ⟨os⟩ nomes"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "⟨dos⟩ alufes"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "⟨de⟩ Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segundo ⟨as⟩ suas famílias"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "segundo ⟨os⟩ seus lugares"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "por ⟨os⟩ seus nomes"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "alufe"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timná"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "alufe"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "alufe"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Jetete"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Esaú",
@@ -13,76 +72,6 @@
       "hebrew": "עשו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 662,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21959,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22621
-  },
-  "translation": "E estes ⟨são⟩ ⟨os⟩ nomes ⟨dos⟩ alufes ⟨de⟩ Esav, segundo ⟨as⟩ suas famílias, segundo ⟨os⟩ seus lugares, por ⟨os⟩ seus nomes: alufe Timná, alufe Alva, alufe Jetete.",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E estes"
-    },
-    {
-      "surface": "שמות",
-      "english": "⟨são⟩ ⟨os⟩ nomes"
-    },
-    {
-      "surface": "אלופי",
-      "english": "⟨dos⟩ alufes"
-    },
-    {
-      "surface": "עשו",
-      "english": "⟨de⟩ Esav"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "segundo ⟨as⟩ suas famílias"
-    },
-    {
-      "surface": "למקמתם",
-      "english": "segundo ⟨os⟩ seus lugares"
-    },
-    {
-      "surface": "בשמתם",
-      "english": "por ⟨os⟩ seus nomes"
-    },
-    {
-      "surface": "אלוף",
-      "english": "alufe"
-    },
-    {
-      "surface": "תמנע",
-      "english": "Timná"
-    },
-    {
-      "surface": "אלוף",
-      "english": "alufe"
-    },
-    {
-      "surface": "עלוה",
-      "english": "Alva"
-    },
-    {
-      "surface": "אלוף",
-      "english": "alufe"
-    },
-    {
-      "surface": "יתת",
-      "english": "Jetete"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:19:21.883624286Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

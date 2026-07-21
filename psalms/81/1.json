@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 81:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 307,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62619,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 62926
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:34:06.290719778Z",
   "translation": "⟨Ao⟩ mestre de canto ⟨em⟩ Gittite ⟨para⟩ Asafe",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Ao⟩ mestre de canto",
+      "gloss": "⟨Ao⟩ mestre de canto",
       "marks": "mestre de canto"
     },
     {
       "surface": "על",
-      "english": "⟨em⟩"
+      "gloss": "⟨em⟩"
     },
     {
       "surface": "הגתית",
-      "english": "Gittite"
+      "gloss": "Gittite"
     },
     {
       "surface": "לאסף",
-      "english": "⟨para⟩ Asafe"
+      "gloss": "⟨para⟩ Asafe"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:34:06.290719778Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

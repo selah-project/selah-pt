@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 28:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 485,
-    "prompt_tokens": 70730,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71215
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:36:50.753845681Z",
   "translation": "Salva o ⟨teu⟩ povo, e abençoa a ⟨tua⟩ herança; e apascenta-os, e ergue-os ⟨para⟩ sempre.",
   "tokens": [
     {
       "surface": "הושיעה",
-      "english": "Salva"
+      "gloss": "Salva"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o ⟨teu⟩ povo"
     },
     {
       "surface": "עמך",
-      "english": "o ⟨teu⟩ povo"
+      "gloss": "o ⟨teu⟩ povo"
     },
     {
       "surface": "וברך",
-      "english": "e abençoa"
+      "gloss": "e abençoa"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a ⟨tua⟩ herança"
     },
     {
       "surface": "נחלתך",
-      "english": "a ⟨tua⟩ herança"
+      "gloss": "a ⟨tua⟩ herança"
     },
     {
       "surface": "ורעם",
-      "english": "e apascenta-os"
+      "gloss": "e apascenta-os"
     },
     {
       "surface": "ונשאם",
-      "english": "e ergue-os"
+      "gloss": "e ergue-os"
     },
     {
       "surface": "עד",
-      "english": "⟨para⟩"
+      "gloss": "⟨para⟩"
     },
     {
       "surface": "העולם",
-      "english": "sempre"
+      "gloss": "sempre"
     }
-  ],
-  "timestamp": "2026-07-16T17:36:50.753845681Z",
-  "model": "glm-4.5"
+  ]
 }

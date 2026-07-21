@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 56,
   "ref": "psalms 78:56",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 78,
+  "verse": 56,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:31:59.535595822Z",
+  "translation": "Eles tentaram e se rebelaram contra ⟨o⟩ Elohim, ⟨o⟩ Elyon, e ⟨seus⟩ testemunhos não guardaram.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "Eles tentaram"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "e se rebelaram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨o⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨o⟩ Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "e ⟨seus⟩ testemunhos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "guardaram"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Altíssimo",
@@ -13,57 +53,6 @@
       "hebrew": "עליון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 78,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63065,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63429
-  },
-  "translation": "Eles tentaram e se rebelaram contra ⟨o⟩ Elohim, ⟨o⟩ Elyon, e ⟨seus⟩ testemunhos não guardaram.",
-  "tokens": [
-    {
-      "surface": "וינסו",
-      "english": "Eles tentaram"
-    },
-    {
-      "surface": "וימרו",
-      "english": "e se rebelaram"
-    },
-    {
-      "surface": "את",
-      "english": "⟨o⟩",
-      "marks": "Elohim"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "עליון",
-      "english": "⟨o⟩ Elyon"
-    },
-    {
-      "surface": "ועדותיו",
-      "english": "e ⟨seus⟩ testemunhos"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "שמרו",
-      "english": "guardaram"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:31:59.535595822Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

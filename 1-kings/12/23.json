@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "1-kings 12:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 12,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:28:47.833519127Z",
+  "translation": "Dize a Rejavam, filho de Shlomó, rei de Yehudá, e a ⟨o⟩ todo ⟨a⟩ casa de Yehudá e a Benjamim, e ao restante ⟨do⟩ povo, dizendo",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Dize"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨o⟩ todo ⟨a⟩",
+      "marks": "casa de Judá e a Benjamim e o restante do povo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ובנימין",
+      "gloss": "e a Benjamim"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "e ao restante ⟨do⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "povo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboão",
@@ -34,85 +102,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62992,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63523
-  },
-  "translation": "Dize a Rejavam, filho de Shlomó, rei de Yehudá, e a ⟨o⟩ todo ⟨a⟩ casa de Yehudá e a Benjamim, e ao restante ⟨do⟩ povo, dizendo",
-  "tokens": [
-    {
-      "surface": "אמר",
-      "english": "Dize"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ואל",
-      "english": "e a"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨o⟩ todo ⟨a⟩",
-      "marks": "casa de Judá e a Benjamim e o restante do povo"
-    },
-    {
-      "surface": "בית",
-      "english": "casa"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ובנימין",
-      "english": "e a Benjamim"
-    },
-    {
-      "surface": "ויתר",
-      "english": "e ao restante ⟨do⟩"
-    },
-    {
-      "surface": "העם",
-      "english": "povo"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:28:47.833519127Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 33:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 33,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:37:40.708709484Z",
+  "translation": "Nas estradas ⟨estão⟩ devastados, o viajante ⟨está⟩ cessado; ⟨o⟩ Brit ⟨foi⟩ violado, ⟨as⟩ cidades ⟨são⟩ desprezadas, ⟨o⟩ homem ⟨não⟩ ⟨é⟩ considerado.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "Nas estradas ⟨estão⟩ devastados"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "estradas"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "o viajante ⟨está⟩ cessado"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "viajante"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "cessado"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "⟨o⟩ pacto ⟨foi⟩ violado"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Brit"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "⟨as⟩ cidades ⟨são⟩ desprezadas"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cidades"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "considerado"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "homem"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,72 +68,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19480,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19930
-  },
-  "translation": "Nas estradas ⟨estão⟩ devastados, o viajante ⟨está⟩ cessado; ⟨o⟩ Brit ⟨foi⟩ violado, ⟨as⟩ cidades ⟨são⟩ desprezadas, ⟨o⟩ homem ⟨não⟩ ⟨é⟩ considerado.",
-  "tokens": [
-    {
-      "surface": "נשמו",
-      "english": "Nas estradas ⟨estão⟩ devastados"
-    },
-    {
-      "surface": "מסלות",
-      "english": "estradas"
-    },
-    {
-      "surface": "שבת",
-      "english": "o viajante ⟨está⟩ cessado"
-    },
-    {
-      "surface": "עבר",
-      "english": "viajante"
-    },
-    {
-      "surface": "ארח",
-      "english": "cessado"
-    },
-    {
-      "surface": "הפר",
-      "english": "⟨o⟩ pacto ⟨foi⟩ violado"
-    },
-    {
-      "surface": "ברית",
-      "english": "Brit"
-    },
-    {
-      "surface": "מאס",
-      "english": "⟨as⟩ cidades ⟨são⟩ desprezadas"
-    },
-    {
-      "surface": "ערים",
-      "english": "cidades"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "חשב",
-      "english": "considerado"
-    },
-    {
-      "surface": "אנוש",
-      "english": "homem"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:37:40.708709484Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

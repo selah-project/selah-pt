@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 137:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 378,
-    "prompt_tokens": 70325,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70703
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:46.482699696Z",
   "translation": "Feliz aquele que segura e esmaga ⟨את⟩ teus infantes contra a rocha.",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "Feliz"
+      "gloss": "Feliz"
     },
     {
       "surface": "שיאחז",
-      "english": "aquele que segura"
+      "gloss": "aquele que segura"
     },
     {
       "surface": "ונפץ",
-      "english": "e esmaga"
+      "gloss": "e esmaga"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "teus infantes"
     },
     {
       "surface": "עלליך",
-      "english": "teus infantes"
+      "gloss": "teus infantes"
     },
     {
       "surface": "אל",
-      "english": "contra"
+      "gloss": "contra"
     },
     {
       "surface": "הסלע",
-      "english": "a rocha"
+      "gloss": "a rocha"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:46.482699696Z",
-  "model": "glm-4.5"
+  ]
 }

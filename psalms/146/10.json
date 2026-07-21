@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 146:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70353,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70795
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:42:09.005082034Z",
   "translation": "YHWH ⟨shall⟩ reign ⟨to⟩ eternity ⟨as⟩ your Elohim, O Tzion — ⟨for⟩ generation ⟨and⟩ generation — ⟨halal⟩ to Jah!",
   "tokens": [
     {
       "surface": "ימלך",
-      "english": "reign"
+      "gloss": "reign"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לעולם",
-      "english": "⟨to⟩ eternity"
+      "gloss": "⟨to⟩ eternity"
     },
     {
       "surface": "אלהיך",
-      "english": "⟨as⟩ your Elohim"
+      "gloss": "⟨as⟩ your Elohim"
     },
     {
       "surface": "ציון",
-      "english": "O Tzion"
+      "gloss": "O Tzion"
     },
     {
       "surface": "לדר",
-      "english": "⟨for⟩ generation"
+      "gloss": "⟨for⟩ generation"
     },
     {
       "surface": "ודר",
-      "english": "⟨and⟩ generation"
+      "gloss": "⟨and⟩ generation"
     },
     {
       "surface": "הללו",
-      "english": "⟨halal⟩ to"
+      "gloss": "⟨halal⟩ to"
     },
     {
       "surface": "יה",
-      "english": "Jah"
+      "gloss": "Jah"
     }
-  ],
-  "timestamp": "2026-06-13T06:42:09.005082034Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 25:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 25,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:36:35.087384243Z",
+  "translation": "E ⟨את⟩ YHWH falou com Moshé, dizendo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E ⟨o⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "falou com"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo:"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,45 +41,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17672,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 17950
-  },
-  "translation": "E ⟨את⟩ YHWH falou com Moshé, dizendo:",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E ⟨o⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH",
-      "marks": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "falou com"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo:"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:36:35.087384243Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

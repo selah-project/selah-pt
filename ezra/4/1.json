@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "ezra 4:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 4,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:05:29.552441857Z",
+  "translation": "E os adversários de Yehudá ⟨e⟩ Benjamim ouviram que os ⟨filhos do⟩ exílio ⟨estão⟩ edificando um ⟨o⟩ Templo ⟨para⟩ YHWH, ⟨o⟩ Elohim de Yisrael",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "E ouviram"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "os adversários"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "⟨e⟩ Benjamim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨filhos do⟩"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "exílio"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "⟨estão⟩ edificando"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "⟨o⟩ Templo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨para⟩ YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨o⟩ Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,72 +75,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45300,
-    "prompt_tokens_details": {
-      "cached_tokens": 43863
-    },
-    "total_tokens": 45926
-  },
-  "translation": "E os adversários de Yehudá ⟨e⟩ Benjamim ouviram que os ⟨filhos do⟩ exílio ⟨estão⟩ edificando um ⟨o⟩ Templo ⟨para⟩ YHWH, ⟨o⟩ Elohim de Yisrael",
-  "tokens": [
-    {
-      "surface": "וישמעו",
-      "english": "E ouviram"
-    },
-    {
-      "surface": "צרי",
-      "english": "os adversários"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ובנימן",
-      "english": "⟨e⟩ Benjamim"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨filhos do⟩"
-    },
-    {
-      "surface": "הגולה",
-      "english": "exílio"
-    },
-    {
-      "surface": "בונים",
-      "english": "⟨estão⟩ edificando"
-    },
-    {
-      "surface": "היכל",
-      "english": "⟨o⟩ Templo"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "⟨para⟩ YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "⟨o⟩ Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:05:29.552441857Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

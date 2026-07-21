@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "obadiah 1:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "obadiah",
+  "chapter": 1,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:12:31.047023202Z",
+  "translation": "Porventura ⟨não⟩ ⟨em⟩ ⟨aquele⟩ dia ⟨é⟩ oráculo ⟨de⟩ YHWH ⟨que⟩ destruirei ⟨os⟩ sábios ⟨de⟩ Edom e ⟨o⟩ entendimento ⟨do⟩ monte ⟨de⟩ Esav?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Porventura ⟨não⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨em⟩ ⟨aquele⟩ dia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨aquele⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oráculo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "⟨que⟩ destruirei"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "⟨os⟩ sábios"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "⟨de⟩ Edom"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "e ⟨o⟩ entendimento"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "⟨do⟩ monte"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "⟨de⟩ Esav"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Esaú",
@@ -13,68 +64,6 @@
       "hebrew": "עשו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 927,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19400,
-    "prompt_tokens_details": {
-      "cached_tokens": 18076
-    },
-    "total_tokens": 20327
-  },
-  "translation": "Porventura ⟨não⟩ ⟨em⟩ ⟨aquele⟩ dia ⟨é⟩ oráculo ⟨de⟩ YHWH ⟨que⟩ destruirei ⟨os⟩ sábios ⟨de⟩ Edom e ⟨o⟩ entendimento ⟨do⟩ monte ⟨de⟩ Esav?",
-  "tokens": [
-    {
-      "surface": "הלוא",
-      "english": "Porventura ⟨não⟩"
-    },
-    {
-      "surface": "ביום",
-      "english": "⟨em⟩ ⟨aquele⟩ dia"
-    },
-    {
-      "surface": "ההוא",
-      "english": "⟨aquele⟩"
-    },
-    {
-      "surface": "נאם",
-      "english": "oráculo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    },
-    {
-      "surface": "והאבדתי",
-      "english": "⟨que⟩ destruirei"
-    },
-    {
-      "surface": "חכמים",
-      "english": "⟨os⟩ sábios"
-    },
-    {
-      "surface": "מאדום",
-      "english": "⟨de⟩ Edom"
-    },
-    {
-      "surface": "ותבונה",
-      "english": "e ⟨o⟩ entendimento"
-    },
-    {
-      "surface": "מהר",
-      "english": "⟨do⟩ monte"
-    },
-    {
-      "surface": "עשו",
-      "english": "⟨de⟩ Esav"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:12:31.047023202Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

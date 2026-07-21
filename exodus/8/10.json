@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "exodus 8:10",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 482,
-    "prompt_tokens": 24438,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24920
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:46:02.387359512Z",
   "translation": "E eles os ajuntaram ⟨את⟩ em montes, montes, e a terra fedeu.",
   "tokens": [
     {
       "surface": "ויצברו",
-      "english": "E eles os ajuntaram"
+      "gloss": "E eles os ajuntaram"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "em montes, montes"
     },
     {
       "surface": "חמרם",
-      "english": "em montes"
+      "gloss": "em montes"
     },
     {
       "surface": "חמרם",
-      "english": "montes"
+      "gloss": "montes"
     },
     {
       "surface": "ותבאש",
-      "english": "e a terra fedeu"
+      "gloss": "e a terra fedeu"
     },
     {
       "surface": "הארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     }
-  ],
-  "timestamp": "2026-07-16T13:46:02.387359512Z",
-  "model": "glm-4.5"
+  ]
 }

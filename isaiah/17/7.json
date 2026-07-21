@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 17:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 17,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:25:46.412860365Z",
+  "translation": "Naquele dia ⟨o⟩ homem ⟨o⟩ olhará para ⟨o⟩ seu Criador, e seus olhos ⟨o⟩ verão ⟨o⟩ Santo de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Naquele dia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "olhará"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨o⟩ homem"
+    },
+    {
+      "surface": "על",
+      "gloss": "para"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "⟨o⟩ seu Criador"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "e seus olhos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "⟨o⟩ verão"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19333,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19739
-  },
-  "translation": "Naquele dia ⟨o⟩ homem ⟨o⟩ olhará para ⟨o⟩ seu Criador, e seus olhos ⟨o⟩ verão ⟨o⟩ Santo de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ביום",
-      "english": "Naquele dia"
-    },
-    {
-      "surface": "ההוא",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "ישעה",
-      "english": "olhará"
-    },
-    {
-      "surface": "האדם",
-      "english": "⟨o⟩ homem"
-    },
-    {
-      "surface": "על",
-      "english": "para"
-    },
-    {
-      "surface": "עשהו",
-      "english": "⟨o⟩ seu Criador"
-    },
-    {
-      "surface": "ועיניו",
-      "english": "e seus olhos"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "קדוש",
-      "english": "Santo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "תראינה",
-      "english": "⟨o⟩ verão"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:25:46.412860365Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 44:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62721,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63059
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:08:10.309535708Z",
   "translation": "⟨To⟩ the Preeminent ⟨for⟩ the sons of Korah ⟨as⟩ a Maschil.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨To⟩ the Preeminent",
+      "gloss": "⟨To⟩ the Preeminent",
       "marks": null
     },
     {
       "surface": "לבני",
-      "english": "⟨for⟩ the sons",
+      "gloss": "⟨for⟩ the sons",
       "marks": null
     },
     {
       "surface": "קרח",
-      "english": "Korah",
+      "gloss": "Korah",
       "marks": null
     },
     {
       "surface": "משכיל",
-      "english": "⟨as⟩ a Maschil",
+      "gloss": "⟨as⟩ a Maschil",
       "marks": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:08:10.309535708Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

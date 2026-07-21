@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 5:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 5,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:46:23.675927104Z",
+  "translation": "E todos os dias que Adam viveu foram novecentos e trinta anos, e ele morreu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E todos os dias que"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dias que"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "חי",
+      "gloss": "viveu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "novecentos"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "centos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "e trinta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e ele morreu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Adão",
@@ -13,72 +68,6 @@
       "hebrew": "אדם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 296,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21608,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21904
-  },
-  "translation": "E todos os dias que Adam viveu foram novecentos e trinta anos, e ele morreu.",
-  "tokens": [
-    {
-      "surface": "ויהיו",
-      "english": "E todos os dias que"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "ימי",
-      "english": "dias que"
-    },
-    {
-      "surface": "אדם",
-      "english": "Adam"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "חי",
-      "english": "viveu"
-    },
-    {
-      "surface": "תשע",
-      "english": "novecentos"
-    },
-    {
-      "surface": "מאות",
-      "english": "centos"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "ושלשים",
-      "english": "e trinta"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "וימת",
-      "english": "e ele morreu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:46:23.675927104Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

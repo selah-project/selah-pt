@@ -1,9 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 17:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 17,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:23:59.757592981Z",
+  "translation": "Pois ⟨ao⟩ Elohim de seu pai buscou, e nos Seus mandamentos andou, e não ⟨como⟩ ⟨as⟩ ações ⟨de⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "⟨ao⟩ Elohim",
+      "marks": "Elohim de seu pai"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de seu pai"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "buscou"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "e nos Seus mandamentos",
+      "marks": "Seus mandamentos"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "andou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não ⟨como⟩"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "⟨as⟩ ações"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,62 +58,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58206,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58719
-  },
-  "translation": "Pois ⟨ao⟩ Elohim de seu pai buscou, e nos Seus mandamentos andou, e não ⟨como⟩ ⟨as⟩ ações ⟨de⟩ Yisrael.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "לאלהי",
-      "english": "⟨ao⟩ Elohim",
-      "marks": "Elohim de seu pai"
-    },
-    {
-      "surface": "אביו",
-      "english": "de seu pai"
-    },
-    {
-      "surface": "דרש",
-      "english": "buscou"
-    },
-    {
-      "surface": "ובמצותיו",
-      "english": "e nos Seus mandamentos",
-      "marks": "Seus mandamentos"
-    },
-    {
-      "surface": "הלך",
-      "english": "andou"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não ⟨como⟩"
-    },
-    {
-      "surface": "כמעשה",
-      "english": "⟨as⟩ ações"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:23:59.757592981Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

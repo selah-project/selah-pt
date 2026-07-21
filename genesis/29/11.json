@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 29:11",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 340,
-    "prompt_tokens": 28753,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29093
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:51:34.129637722Z",
   "translation": "E Yaakov beijou Rajel, e levantou ⟨את⟩ a sua voz, e chorou.",
   "tokens": [
     {
       "surface": "וישק",
-      "english": "e beijou"
+      "gloss": "e beijou"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "לרחל",
-      "english": "Rajel"
+      "gloss": "Rajel"
     },
     {
       "surface": "וישא",
-      "english": "e levantou"
+      "gloss": "e levantou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a sua voz"
     },
     {
       "surface": "קלו",
-      "english": "a sua voz"
+      "gloss": "a sua voz"
     },
     {
       "surface": "ויבך",
-      "english": "e chorou"
+      "gloss": "e chorou"
     }
-  ],
-  "timestamp": "2026-07-16T14:51:34.129637722Z",
-  "model": "glm-4.5"
+  ]
 }

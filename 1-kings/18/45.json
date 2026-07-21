@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "1-kings 18:45",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 18,
+  "verse": 45,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:38:42.509561140Z",
+  "translation": "E aconteceu até assim e até assim, e o céu ⟨se⟩ escureceu ⟨com⟩ nuvens e vento, e ⟨houve⟩ uma grande chuva; e Ajáv cavalgou e foi para Jizreel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "כה",
+      "gloss": "assim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e até"
+    },
+    {
+      "surface": "כה",
+      "gloss": "assim"
+    },
+    {
+      "surface": "והשמים",
+      "gloss": "e o céu"
+    },
+    {
+      "surface": "התקדרו",
+      "gloss": "⟨se⟩ escureceu"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "⟨com⟩ nuvens"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e vento"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ⟨houve⟩"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "uma grande chuva"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "e Acabe cavalgou"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajáv"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e foi"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "para Jizreel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Acabe",
@@ -13,88 +84,6 @@
       "hebrew": "אחאב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 638,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63207,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63845
-  },
-  "translation": "E aconteceu até assim e até assim, e o céu ⟨se⟩ escureceu ⟨com⟩ nuvens e vento, e ⟨houve⟩ uma grande chuva; e Ajáv cavalgou e foi para Jizreel.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "כה",
-      "english": "assim"
-    },
-    {
-      "surface": "ועד",
-      "english": "e até"
-    },
-    {
-      "surface": "כה",
-      "english": "assim"
-    },
-    {
-      "surface": "והשמים",
-      "english": "e o céu"
-    },
-    {
-      "surface": "התקדרו",
-      "english": "⟨se⟩ escureceu"
-    },
-    {
-      "surface": "עבים",
-      "english": "⟨com⟩ nuvens"
-    },
-    {
-      "surface": "ורוח",
-      "english": "e vento"
-    },
-    {
-      "surface": "ויהי",
-      "english": "e ⟨houve⟩"
-    },
-    {
-      "surface": "גשם",
-      "english": "uma grande chuva"
-    },
-    {
-      "surface": "גדול",
-      "english": "grande"
-    },
-    {
-      "surface": "וירכב",
-      "english": "e Acabe cavalgou"
-    },
-    {
-      "surface": "אחאב",
-      "english": "Ajáv"
-    },
-    {
-      "surface": "וילך",
-      "english": "e foi"
-    },
-    {
-      "surface": "יזרעאלה",
-      "english": "para Jizreel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:38:42.509561140Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

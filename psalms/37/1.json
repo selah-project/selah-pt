@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 37:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 596,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62974,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63570
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:03:31.638206588Z",
   "translation": "⟨To⟩ David: não ⟨te⟩ agites por causa dos malfeitores, nem ⟨tenhas⟩ inveja dos que praticam ⟨a⟩ iniquidade.",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "⟨To⟩ David",
+      "gloss": "⟨To⟩ David",
       "rationale": "Prepositional phrase often introducing the psalm's author or recipient"
     },
     {
       "surface": "אל",
-      "english": "não",
+      "gloss": "não",
       "rationale": "Qualified negation particle, stronger than simple 'lo'"
     },
     {
       "surface": "תתחר",
-      "english": "⟨te⟩ agites",
+      "gloss": "⟨te⟩ agites",
       "rationale": "Verb meaning to blaze up with anger or zeal, reflexive here"
     },
     {
       "surface": "במרעים",
-      "english": "por causa dos malfeitores",
+      "gloss": "por causa dos malfeitores",
       "rationale": "Preposition + noun 'doers of evil'"
     },
     {
       "surface": "אל",
-      "english": "nem",
+      "gloss": "nem",
       "rationale": "Second qualified negation, parallel to the first"
     },
     {
       "surface": "תקנא",
-      "english": "⟨tenhas⟩ inveja",
+      "gloss": "⟨tenhas⟩ inveja",
       "rationale": "Verb for zealousness or envy, here in negative command"
     },
     {
       "surface": "בעשי",
-      "english": "dos que praticam",
+      "gloss": "dos que praticam",
       "rationale": "Participle 'doers' with preposition"
     },
     {
       "surface": "עולה",
-      "english": "⟨a⟩ iniquidade",
+      "gloss": "⟨a⟩ iniquidade",
       "rationale": "Noun meaning evil, unrighteousness, or injustice"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:03:31.638206588Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

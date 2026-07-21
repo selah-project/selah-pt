@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "deuteronomy 15:3",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 524,
-    "prompt_tokens": 25422,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25946
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:21:39.086913639Z",
   "translation": "Do ⟨a⟩ estrangeiro o exigirás; mas o que ⟨estiver⟩ com teu irmão, a tua mão ⟨o⟩ remitirá.",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨o⟩",
+      "gloss": "⟨o⟩",
       "marks": "הנכרי"
     },
     {
       "surface": "הנכרי",
-      "english": "o estrangeiro"
+      "gloss": "o estrangeiro"
     },
     {
       "surface": "תגש",
-      "english": "o exigirás"
+      "gloss": "o exigirás"
     },
     {
       "surface": "ואשר",
-      "english": "mas o que"
+      "gloss": "mas o que"
     },
     {
       "surface": "יהיה",
-      "english": "⟨estiver⟩"
+      "gloss": "⟨estiver⟩"
     },
     {
       "surface": "לך",
-      "english": "com"
+      "gloss": "com"
     },
     {
       "surface": "את",
-      "english": "⟨o⟩",
+      "gloss": "⟨o⟩",
       "marks": "אחיך"
     },
     {
       "surface": "אחיך",
-      "english": "teu irmão"
+      "gloss": "teu irmão"
     },
     {
       "surface": "תשמט",
-      "english": "a tua mão ⟨o⟩ remitirá"
+      "gloss": "a tua mão ⟨o⟩ remitirá"
     },
     {
       "surface": "ידך",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T13:21:39.086913639Z",
-  "model": "glm-4.5"
+  ]
 }

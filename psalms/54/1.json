@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 54:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62699,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63047
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:14:50.100145022Z",
   "translation": "Ao maestro ⟨com⟩ instrumentos de cordas ⟨um⟩ ensino ⟨de⟩ David ⟨com⟩ música ⟨um⟩ didático ⟨para⟩ David.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Ao maestro"
+      "gloss": "Ao maestro"
     },
     {
       "surface": "בנגינת",
-      "english": "⟨com⟩ instrumentos de cordas"
+      "gloss": "⟨com⟩ instrumentos de cordas"
     },
     {
       "surface": "משכיל",
-      "english": "⟨um⟩ ensino"
+      "gloss": "⟨um⟩ ensino"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David"
+      "gloss": "⟨de⟩ David"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:14:50.100145022Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

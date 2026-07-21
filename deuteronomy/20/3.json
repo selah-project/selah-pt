@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "deuteronomy 20:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 20,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:10:27.736359339Z",
+  "translation": "E dirá a eles ⟨o⟩ que ⟨é⟩: Escuta, Yisrael, vós ⟨estais⟩ próximos ⟨ao⟩ combate ⟨naquele⟩ dia ⟨contra⟩ ⟨os⟩ vossos inimigos: ⟨seu⟩ coração ⟨se⟩ desfaleça ⟨não⟩, nem temais, e ⟨não⟩ vos apresseis, e ⟨não⟩ temais ⟨a⟩ ⟨presença⟩ deles.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "E dirá"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "a eles"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Escuta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vós"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "⟨estais⟩ próximos"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨naquele⟩ dia"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨ao⟩ combate"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨contra⟩"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "⟨os⟩ vossos inimigos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨não⟩"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "⟨se⟩ desfaleça"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "⟨seu⟩ coração"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨não⟩"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temais"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ⟨não⟩"
+    },
+    {
+      "surface": "תחפזו",
+      "gloss": "vos apresseis"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ⟨não⟩"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "temais"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "⟨a⟩ ⟨presença⟩ deles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,104 +100,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 1035,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18755,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 19790
-  },
-  "translation": "E dirá a eles ⟨o⟩ que ⟨é⟩: Escuta, Yisrael, vós ⟨estais⟩ próximos ⟨ao⟩ combate ⟨naquele⟩ dia ⟨contra⟩ ⟨os⟩ vossos inimigos: ⟨seu⟩ coração ⟨se⟩ desfaleça ⟨não⟩, nem temais, e ⟨não⟩ vos apresseis, e ⟨não⟩ temais ⟨a⟩ ⟨presença⟩ deles.",
-  "tokens": [
-    {
-      "surface": "ואמר",
-      "english": "E dirá"
-    },
-    {
-      "surface": "אלהם",
-      "english": "a eles"
-    },
-    {
-      "surface": "שמע",
-      "english": "Escuta"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אתם",
-      "english": "vós"
-    },
-    {
-      "surface": "קרבים",
-      "english": "⟨estais⟩ próximos"
-    },
-    {
-      "surface": "היום",
-      "english": "⟨naquele⟩ dia"
-    },
-    {
-      "surface": "למלחמה",
-      "english": "⟨ao⟩ combate"
-    },
-    {
-      "surface": "על",
-      "english": "⟨contra⟩"
-    },
-    {
-      "surface": "איביכם",
-      "english": "⟨os⟩ vossos inimigos"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨não⟩"
-    },
-    {
-      "surface": "ירך",
-      "english": "⟨se⟩ desfaleça"
-    },
-    {
-      "surface": "לבבכם",
-      "english": "⟨seu⟩ coração"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨não⟩"
-    },
-    {
-      "surface": "תיראו",
-      "english": "temais"
-    },
-    {
-      "surface": "ואל",
-      "english": "e ⟨não⟩"
-    },
-    {
-      "surface": "תחפזו",
-      "english": "vos apresseis"
-    },
-    {
-      "surface": "ואל",
-      "english": "e ⟨não⟩"
-    },
-    {
-      "surface": "תערצו",
-      "english": "temais"
-    },
-    {
-      "surface": "מפניהם",
-      "english": "⟨a⟩ ⟨presença⟩ deles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:10:27.736359339Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

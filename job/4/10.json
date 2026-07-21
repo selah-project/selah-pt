@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 4:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20047,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20503
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:48:36.154732415Z",
   "translation": "O rugido ⟨do⟩ leão e ⟨o⟩ bramido ⟨do⟩ leão feroz e ⟨os⟩ dentes ⟨dos⟩ filhotes de leão foram quebrados",
   "tokens": [
     {
       "surface": "שאגת",
-      "english": "O rugido ⟨do⟩",
+      "gloss": "O rugido ⟨do⟩",
       "marks": "leão"
     },
     {
       "surface": "אריה",
-      "english": "leão"
+      "gloss": "leão"
     },
     {
       "surface": "וקול",
-      "english": "e ⟨o⟩ bramido ⟨do⟩",
+      "gloss": "e ⟨o⟩ bramido ⟨do⟩",
       "marks": "leão feroz"
     },
     {
       "surface": "שחל",
-      "english": "leão feroz"
+      "gloss": "leão feroz"
     },
     {
       "surface": "ושני",
-      "english": "e ⟨os⟩ dentes ⟨dos⟩",
+      "gloss": "e ⟨os⟩ dentes ⟨dos⟩",
       "marks": "filhotes de leão"
     },
     {
       "surface": "כפירים",
-      "english": "filhotes de leão"
+      "gloss": "filhotes de leão"
     },
     {
       "surface": "נתעו",
-      "english": "foram quebrados"
+      "gloss": "foram quebrados"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:48:36.154732415Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

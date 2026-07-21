@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 9:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 9,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:50:06.372280206Z",
+  "translation": "E os filhos de Noaj que saíram ⟨da⟩ arca foram: Shem, e Cham, e Yafet; e Cham, ele ⟨é⟩ pai de Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos de"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "que saíram"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arca"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "e Cham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "e Yafet"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "e Cham"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele ⟨é⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "pai de"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noé",
@@ -13,76 +72,6 @@
       "hebrew": "נח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21762,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22199
-  },
-  "translation": "E os filhos de Noaj que saíram ⟨da⟩ arca foram: Shem, e Cham, e Yafet; e Cham, ele ⟨é⟩ pai de Kenaan.",
-  "tokens": [
-    {
-      "surface": "ויהיו",
-      "english": "E"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos de"
-    },
-    {
-      "surface": "נח",
-      "english": "Noaj"
-    },
-    {
-      "surface": "היצאים",
-      "english": "que saíram"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨da⟩"
-    },
-    {
-      "surface": "התבה",
-      "english": "arca"
-    },
-    {
-      "surface": "שם",
-      "english": "Shem"
-    },
-    {
-      "surface": "וחם",
-      "english": "e Cham"
-    },
-    {
-      "surface": "ויפת",
-      "english": "e Yafet"
-    },
-    {
-      "surface": "וחם",
-      "english": "e Cham"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele ⟨é⟩"
-    },
-    {
-      "surface": "אבי",
-      "english": "pai de"
-    },
-    {
-      "surface": "כנען",
-      "english": "Kenaan"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:50:06.372280206Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

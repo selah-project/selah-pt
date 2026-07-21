@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "genesis 32:28",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 329,
-    "prompt_tokens": 28666,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28995
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:54:03.034239216Z",
   "translation": "E disse a ele: Qual ⟨é⟩ o teu nome? E disse: Yaakov.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "אליו",
-      "english": "a ele"
+      "gloss": "a ele"
     },
     {
       "surface": "מה",
-      "english": "Qual"
+      "gloss": "Qual"
     },
     {
       "surface": "שמך",
-      "english": "o teu nome"
+      "gloss": "o teu nome"
     },
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     }
-  ],
-  "timestamp": "2026-07-16T14:54:03.034239216Z",
-  "model": "glm-4.5"
+  ]
 }

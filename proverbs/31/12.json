@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 31:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52816,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53293
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:45:34.594728197Z",
   "translation": "Ela ⟨faz⟩ bem a ele, e ⟨não⟩ ⟨o⟩ mal, por todos os dias da sua vida.",
   "tokens": [
     {
       "surface": "גמלתהו",
-      "english": "Ela faz bem a ele"
+      "gloss": "Ela faz bem a ele"
     },
     {
       "surface": "טוב",
-      "english": "bem"
+      "gloss": "bem"
     },
     {
       "surface": "ולא",
-      "english": "e ⟨não⟩"
+      "gloss": "e ⟨não⟩"
     },
     {
       "surface": "רע",
-      "english": "⟨o⟩ mal"
+      "gloss": "⟨o⟩ mal"
     },
     {
       "surface": "כל",
-      "english": "por todos"
+      "gloss": "por todos"
     },
     {
       "surface": "ימי",
-      "english": "os dias"
+      "gloss": "os dias"
     },
     {
       "surface": "חייה",
-      "english": "da sua vida"
+      "gloss": "da sua vida"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:45:34.594728197Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

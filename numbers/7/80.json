@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 80,
   "ref": "numbers 7:80",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 319,
-    "prompt_tokens": 25267,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25586
-  },
+  "verse": 80,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:08:02.198598495Z",
   "translation": "um ⟨o⟩ copo de ouro ⟨de⟩ dez siclos, cheio de incenso:",
   "tokens": [
     {
       "surface": "כף",
-      "english": "copo"
+      "gloss": "copo"
     },
     {
       "surface": "אחת",
-      "english": "um"
+      "gloss": "um"
     },
     {
       "surface": "עשרה",
-      "english": "dez"
+      "gloss": "dez"
     },
     {
       "surface": "זהב",
-      "english": "ouro"
+      "gloss": "ouro"
     },
     {
       "surface": "מלאה",
-      "english": "cheio"
+      "gloss": "cheio"
     },
     {
       "surface": "קטרת",
-      "english": "incenso"
+      "gloss": "incenso"
     }
-  ],
-  "timestamp": "2026-07-16T17:08:02.198598495Z",
-  "model": "glm-4.5"
+  ]
 }

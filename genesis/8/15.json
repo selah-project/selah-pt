@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 8:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 8,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:49:03.464971863Z",
+  "translation": "E Elohim falou a Noaj, ⟨para⟩ dizer:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E falou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨para⟩ dizer"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noé",
@@ -13,44 +40,6 @@
       "hebrew": "נח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 290,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20992,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21282
-  },
-  "translation": "E Elohim falou a Noaj, ⟨para⟩ dizer:",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E falou"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "נח",
-      "english": "Noaj"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨para⟩ dizer"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:49:03.464971863Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

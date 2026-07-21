@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 136:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 136,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:09:53.925377711Z",
+  "translation": "e ⟨fez⟩ Yisrael passar ⟨por⟩ ⟨o⟩ ⟨meio⟩ ⟨dele⟩ porque ⟨para⟩ sempre ⟨é⟩ ⟨o⟩ seu ⟨hesed⟩",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "E ⟨fez⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "passar ⟨por⟩ ⟨o⟩ ⟨meio⟩ ⟨dele⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨para⟩ sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨é⟩ ⟨o⟩ seu ⟨hesed⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,48 +44,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 136,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62801,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63314
-  },
-  "translation": "e ⟨fez⟩ Yisrael passar ⟨por⟩ ⟨o⟩ ⟨meio⟩ ⟨dele⟩ porque ⟨para⟩ sempre ⟨é⟩ ⟨o⟩ seu ⟨hesed⟩",
-  "tokens": [
-    {
-      "surface": "והעביר",
-      "english": "E ⟨fez⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בתוכו",
-      "english": "passar ⟨por⟩ ⟨o⟩ ⟨meio⟩ ⟨dele⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "לעולם",
-      "english": "⟨para⟩ sempre"
-    },
-    {
-      "surface": "חסדו",
-      "english": "⟨é⟩ ⟨o⟩ seu ⟨hesed⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:09:53.925377711Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

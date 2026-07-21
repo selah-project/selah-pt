@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 44,
   "ref": "numbers 7:44",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 44,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:16:27.927755096Z",
+  "translation": "um ⟨o⟩ cavalete ⟨de⟩ ouro ⟨de⟩ dez ⟨shekels⟩ cheio ⟨de⟩ Ketoret",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "Um ⟨o⟩ cavalete"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ouro ⟨de⟩ dez"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨shekels⟩"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "cheio ⟨de⟩"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "Ketoret"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "incenso",
@@ -13,48 +44,6 @@
       "hebrew": "קטרת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17840,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18194
-  },
-  "translation": "um ⟨o⟩ cavalete ⟨de⟩ ouro ⟨de⟩ dez ⟨shekels⟩ cheio ⟨de⟩ Ketoret",
-  "tokens": [
-    {
-      "surface": "כף",
-      "english": "Um ⟨o⟩ cavalete"
-    },
-    {
-      "surface": "אחת",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "עשרה",
-      "english": "ouro ⟨de⟩ dez"
-    },
-    {
-      "surface": "זהב",
-      "english": "⟨shekels⟩"
-    },
-    {
-      "surface": "מלאה",
-      "english": "cheio ⟨de⟩"
-    },
-    {
-      "surface": "קטרת",
-      "english": "Ketoret"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:16:27.927755096Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

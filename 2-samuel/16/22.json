@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "2-samuel 16:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 16,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:58:52.936654687Z",
+  "translation": "Então estenderam para Avshalom ⟨o⟩ tenda sobre ⟨o⟩ telhado; e Avshalom veio ⟨às⟩ concubinas de seu pai ⟨perante⟩ os olhos de todo o Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויטו",
+      "gloss": "Então estenderam"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "para Avshalom"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "⟨o⟩ tenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "⟨o⟩ telhado"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e Avshalom veio"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨às⟩"
+    },
+    {
+      "surface": "פלגשי",
+      "gloss": "concubinas"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de seu pai"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "⟨perante⟩ os olhos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 644,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17740,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18384
-  },
-  "translation": "Então estenderam para Avshalom ⟨o⟩ tenda sobre ⟨o⟩ telhado; e Avshalom veio ⟨às⟩ concubinas de seu pai ⟨perante⟩ os olhos de todo o Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויטו",
-      "english": "Então estenderam"
-    },
-    {
-      "surface": "לאבשלום",
-      "english": "para Avshalom"
-    },
-    {
-      "surface": "האהל",
-      "english": "⟨o⟩ tenda"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "הגג",
-      "english": "⟨o⟩ telhado"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e Avshalom veio"
-    },
-    {
-      "surface": "אבשלום",
-      "english": "Avshalom"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨às⟩"
-    },
-    {
-      "surface": "פלגשי",
-      "english": "concubinas"
-    },
-    {
-      "surface": "אביו",
-      "english": "de seu pai"
-    },
-    {
-      "surface": "לעיני",
-      "english": "⟨perante⟩ os olhos"
-    },
-    {
-      "surface": "כל",
-      "english": "de todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:58:52.936654687Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

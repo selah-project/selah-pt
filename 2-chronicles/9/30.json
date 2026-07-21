@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "2-chronicles 9:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 9,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:16:48.046777648Z",
+  "translation": "E Shlomá ⟨reinou⟩ em Jerusalém sobre todo Yisrael ⟨por⟩ quarenta anos",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "E ⟨reinou⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomá"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Jerusalém"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58101,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58506
-  },
-  "translation": "E Shlomá ⟨reinou⟩ em Jerusalém sobre todo Yisrael ⟨por⟩ quarenta anos",
-  "tokens": [
-    {
-      "surface": "וימלך",
-      "english": "E ⟨reinou⟩"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomá"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Jerusalém"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ארבעים",
-      "english": "quarenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:16:48.046777648Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

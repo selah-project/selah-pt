@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "jeremiah 46:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 46,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:49:35.486789935Z",
+  "translation": "Clamaram lá: Paró rei do Mitzráyim ⟨é⟩ ⟨um⟩ tumulto; ele ultrapassou ⟨o⟩ tempo designado ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "Clamaram"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lá"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "⟨um⟩ tumulto"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ultrapassou"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "⟨o⟩ tempo designado",
+      "marks": "⟨o⟩ tempo designado"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraó",
@@ -20,57 +60,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17479,
-    "prompt_tokens_details": {
-      "cached_tokens": 16391
-    },
-    "total_tokens": 17940
-  },
-  "translation": "Clamaram lá: Paró rei do Mitzráyim ⟨é⟩ ⟨um⟩ tumulto; ele ultrapassou ⟨o⟩ tempo designado ⟨את⟩",
-  "tokens": [
-    {
-      "surface": "קראו",
-      "english": "Clamaram"
-    },
-    {
-      "surface": "שם",
-      "english": "lá"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "שאון",
-      "english": "⟨um⟩ tumulto"
-    },
-    {
-      "surface": "העביר",
-      "english": "ultrapassou"
-    },
-    {
-      "surface": "המועד",
-      "english": "⟨o⟩ tempo designado",
-      "marks": "⟨o⟩ tempo designado"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:49:35.486789935Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

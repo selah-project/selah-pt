@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "exodus 18:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 18,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:01:42.701360600Z",
+  "translation": "E disse o sogro de Moshé ⟨a⟩ ele: Não ⟨é⟩ bom ⟨o⟩ assunto que tu fazes.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "o sogro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshé"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ ele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨é⟩ bom"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨o⟩ assunto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fazes"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,64 +60,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17027,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17411
-  },
-  "translation": "E disse o sogro de Moshé ⟨a⟩ ele: Não ⟨é⟩ bom ⟨o⟩ assunto que tu fazes.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "חתן",
-      "english": "o sogro"
-    },
-    {
-      "surface": "משה",
-      "english": "de Moshé"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ ele"
-    },
-    {
-      "surface": "לא",
-      "english": "Não"
-    },
-    {
-      "surface": "טוב",
-      "english": "⟨é⟩ bom"
-    },
-    {
-      "surface": "הדבר",
-      "english": "⟨o⟩ assunto"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "אתה",
-      "english": "tu"
-    },
-    {
-      "surface": "עשה",
-      "english": "fazes"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:01:42.701360600Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

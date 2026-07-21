@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 25:16",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 475,
-    "prompt_tokens": 24327,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24802
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:55:37.223857433Z",
   "translation": "E colocarás ⟨את⟩ ⟨o⟩ Testemunho ⟨que⟩ Eu te dou dentro ⟨do⟩ Aron",
   "tokens": [
     {
       "surface": "ונתת",
-      "english": "E colocarás"
+      "gloss": "E colocarás"
     },
     {
       "surface": "אל",
-      "english": "dentro"
+      "gloss": "dentro"
     },
     {
       "surface": "הארן",
-      "english": "⟨do⟩ Aron"
+      "gloss": "⟨do⟩ Aron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o Testemunho"
     },
     {
       "surface": "העדת",
-      "english": "⟨o⟩ Testemunho"
+      "gloss": "⟨o⟩ Testemunho"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "אתן",
-      "english": "Eu te dou"
+      "gloss": "Eu te dou"
     },
     {
       "surface": "אליך",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T13:55:37.223857433Z",
-  "model": "glm-4.5"
+  ]
 }

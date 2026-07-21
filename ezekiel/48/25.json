@@ -1,9 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "ezekiel 48:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 48,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:54:14.537017214Z",
+  "translation": "e ⟨sobre⟩ ⟨o⟩ limite de Shimon, desde ⟨a⟩ extremidade ⟨do⟩ oriente até ⟨a⟩ extremidade ⟨do⟩ ocidente, ⟨uma⟩ porção ⟨para⟩ Yissacar",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E ⟨sobre⟩",
+      "marks": "limite de Simeão"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨o⟩ limite"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "desde ⟨a⟩ extremidade",
+      "marks": "oriente"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "⟨do⟩ oriente"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até ⟨a⟩ extremidade",
+      "marks": "ocidente"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨do⟩ ocidente"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ocidente"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissacar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨uma⟩ porção ⟨para⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Simeão",
@@ -20,67 +70,6 @@
       "hebrew": "יששכר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17534,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18160
-  },
-  "translation": "e ⟨sobre⟩ ⟨o⟩ limite de Shimon, desde ⟨a⟩ extremidade ⟨do⟩ oriente até ⟨a⟩ extremidade ⟨do⟩ ocidente, ⟨uma⟩ porção ⟨para⟩ Yissacar",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "E ⟨sobre⟩",
-      "marks": "limite de Simeão"
-    },
-    {
-      "surface": "גבול",
-      "english": "⟨o⟩ limite"
-    },
-    {
-      "surface": "שמעון",
-      "english": "Shimon"
-    },
-    {
-      "surface": "מפאת",
-      "english": "desde ⟨a⟩ extremidade",
-      "marks": "oriente"
-    },
-    {
-      "surface": "קדימה",
-      "english": "⟨do⟩ oriente"
-    },
-    {
-      "surface": "עד",
-      "english": "até ⟨a⟩ extremidade",
-      "marks": "ocidente"
-    },
-    {
-      "surface": "פאת",
-      "english": "⟨do⟩ ocidente"
-    },
-    {
-      "surface": "ימה",
-      "english": "ocidente"
-    },
-    {
-      "surface": "יששכר",
-      "english": "Yissacar"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨uma⟩ porção ⟨para⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:54:14.537017214Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

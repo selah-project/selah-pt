@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-samuel 18:9",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 353,
-    "prompt_tokens": 23878,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24231
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:53:18.917836906Z",
   "translation": "E Shaul olhava com ⟨את⟩ malícia ⟨para⟩ David daquele dia em diante",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E"
+      "gloss": "E"
     },
     {
       "surface": "שאול",
-      "english": "Shaul"
+      "gloss": "Shaul"
     },
     {
       "surface": "עון",
-      "english": "olhava com malícia"
+      "gloss": "olhava com malícia"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "David"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "מהיום",
-      "english": "daquele dia"
+      "gloss": "daquele dia"
     },
     {
       "surface": "ההוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "והלאה",
-      "english": "em diante"
+      "gloss": "em diante"
     }
-  ],
-  "timestamp": "2026-07-16T11:53:18.917836906Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-kings 6:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62247,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62607
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:17:14.512399846Z",
   "translation": "E quarenta côvados ⟨era⟩ ⟨o⟩ ⟨casa⟩, ⟨este⟩ ⟨o⟩ Templo, diante de ⟨ele⟩",
   "tokens": [
     {
       "surface": "וארבעים",
-      "english": "E quarenta côvados"
+      "gloss": "E quarenta côvados"
     },
     {
       "surface": "באמה",
-      "english": "côvados",
+      "gloss": "côvados",
       "marks": "quarenta"
     },
     {
       "surface": "היה",
-      "english": "⟨era⟩"
+      "gloss": "⟨era⟩"
     },
     {
       "surface": "הבית",
-      "english": "⟨o⟩ ⟨casa⟩"
+      "gloss": "⟨o⟩ ⟨casa⟩"
     },
     {
       "surface": "הוא",
-      "english": "⟨este⟩"
+      "gloss": "⟨este⟩"
     },
     {
       "surface": "ההיכל",
-      "english": "⟨o⟩ Templo"
+      "gloss": "⟨o⟩ Templo"
     },
     {
       "surface": "לפני",
-      "english": "diante de ⟨ele⟩",
+      "gloss": "diante de ⟨ele⟩",
       "marks": "Templo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:17:14.512399846Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

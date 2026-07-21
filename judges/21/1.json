@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "judges 21:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 21,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:12:35.871583596Z",
+  "translation": "E os homens de Yisrael juraram em Mitspá, dizendo: ⟨Nenhum⟩ de nós ⟨dará⟩ ⟨a⟩ sua filha ⟨a⟩ Benjamim ⟨como⟩ mulher.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "E os homens de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "juraram"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "em Mitspá"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Nenhum"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de nós"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dará"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sua filha"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "a Benjamim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "como mulher"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 612,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16566,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17178
-  },
-  "translation": "E os homens de Yisrael juraram em Mitspá, dizendo: ⟨Nenhum⟩ de nós ⟨dará⟩ ⟨a⟩ sua filha ⟨a⟩ Benjamim ⟨como⟩ mulher.",
-  "tokens": [
-    {
-      "surface": "ואיש",
-      "english": "E os homens de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "נשבע",
-      "english": "juraram"
-    },
-    {
-      "surface": "במצפה",
-      "english": "em Mitspá"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "איש",
-      "english": "Nenhum"
-    },
-    {
-      "surface": "ממנו",
-      "english": "de nós"
-    },
-    {
-      "surface": "לא",
-      "english": "dará"
-    },
-    {
-      "surface": "יתן",
-      "english": "a"
-    },
-    {
-      "surface": "בתו",
-      "english": "sua filha"
-    },
-    {
-      "surface": "לבנימן",
-      "english": "a Benjamim"
-    },
-    {
-      "surface": "לאשה",
-      "english": "como mulher"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:12:35.871583596Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

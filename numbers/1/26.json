@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "numbers 1:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 1,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:08:17.858784129Z",
+  "translation": "Dos filhos de Yehudá, suas gerações, ⟨por⟩ suas famílias, ⟨pela⟩ casa de seus pais, ⟨pelo⟩ número de ⟨seus⟩ nomes, de vinte anos ⟨de idade⟩ e acima, todo ⟨aquele que⟩ sai ⟨para⟩ o exército.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Dos filhos de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "suas gerações"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨por⟩ suas famílias"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨pela⟩ casa de"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "⟨pelo⟩ número de"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "⟨seus⟩ nomes"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vinte anos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨de idade⟩"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e acima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "⟨aquele que⟩ sai"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨para⟩ o exército"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,84 +80,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 725,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18782,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19507
-  },
-  "translation": "Dos filhos de Yehudá, suas gerações, ⟨por⟩ suas famílias, ⟨pela⟩ casa de seus pais, ⟨pelo⟩ número de ⟨seus⟩ nomes, de vinte anos ⟨de idade⟩ e acima, todo ⟨aquele que⟩ sai ⟨para⟩ o exército.",
-  "tokens": [
-    {
-      "surface": "לבני",
-      "english": "Dos filhos de"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "תולדתם",
-      "english": "suas gerações"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "⟨por⟩ suas famílias"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨pela⟩ casa de"
-    },
-    {
-      "surface": "אבתם",
-      "english": "seus pais"
-    },
-    {
-      "surface": "במספר",
-      "english": "⟨pelo⟩ número de"
-    },
-    {
-      "surface": "שמת",
-      "english": "⟨seus⟩ nomes"
-    },
-    {
-      "surface": "מבן",
-      "english": "de"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vinte anos"
-    },
-    {
-      "surface": "שנה",
-      "english": "⟨de idade⟩"
-    },
-    {
-      "surface": "ומעלה",
-      "english": "e acima"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "יצא",
-      "english": "⟨aquele que⟩ sai"
-    },
-    {
-      "surface": "צבא",
-      "english": "⟨para⟩ o exército"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:08:17.858784129Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

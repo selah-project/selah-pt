@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "lamentations 3:21",
   "book": "lamentations",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 39255,
-    "prompt_tokens_details": {
-      "cached_tokens": 38421
-    },
-    "total_tokens": 39620
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:48:08.047258390Z",
   "translation": "I ⟨turn⟩ this to my heart ⟨on⟩ ⟨account of⟩ this I ⟨shall hope⟩.",
   "tokens": [
     {
       "surface": "זאת",
-      "english": "this"
+      "gloss": "this"
     },
     {
       "surface": "אשיב",
-      "english": "⟨turn⟩"
+      "gloss": "⟨turn⟩"
     },
     {
       "surface": "אל",
-      "english": "to"
+      "gloss": "to"
     },
     {
       "surface": "לבי",
-      "english": "my heart"
+      "gloss": "my heart"
     },
     {
       "surface": "על",
-      "english": "⟨on⟩"
+      "gloss": "⟨on⟩"
     },
     {
       "surface": "כן",
-      "english": "⟨account of⟩ this"
+      "gloss": "⟨account of⟩ this"
     },
     {
       "surface": "אוחיל",
-      "english": "⟨shall hope⟩"
+      "gloss": "⟨shall hope⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:48:08.047258390Z",
-  "model": "glm-4.5"
+  ]
 }

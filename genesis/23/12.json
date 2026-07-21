@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 23:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 200,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21100,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21300
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:02:59.180065839Z",
   "translation": "E Avraham ⟨se⟩ curvou diante do povo ⟨da⟩ terra",
   "tokens": [
     {
       "surface": "וישתחו",
-      "english": "E Avraham ⟨se⟩ curvou"
+      "gloss": "E Avraham ⟨se⟩ curvou"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "לפני",
-      "english": "diante"
+      "gloss": "diante"
     },
     {
       "surface": "עם",
-      "english": "do povo"
+      "gloss": "do povo"
     },
     {
       "surface": "הארץ",
-      "english": "⟨da⟩ terra"
+      "gloss": "⟨da⟩ terra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:02:59.180065839Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

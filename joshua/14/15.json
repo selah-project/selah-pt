@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "joshua 14:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 14,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:39:23.309207037Z",
+  "translation": "E o nome de Jevron anteriormente ⟨era⟩ Quiriate-Arba — Arba ⟨era⟩ o maior ⟨dos⟩ homens entre ⟨os⟩ anaquins; e ⟨a⟩ terra estava tranquila ⟨da⟩ guerra.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "E o nome"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Jevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "anteriormente"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Quiriate"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨o⟩ homem"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "o maior"
+    },
+    {
+      "surface": "בענקים",
+      "gloss": "entre ⟨os⟩ anaquins"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "e ⟨a⟩ terra"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "estava tranquila"
+    },
+    {
+      "surface": "ממלחמה",
+      "gloss": "⟨da⟩ guerra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Hebrom",
@@ -13,72 +68,6 @@
       "hebrew": "חברון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16741,
-    "prompt_tokens_details": {
-      "cached_tokens": 15287
-    },
-    "total_tokens": 17345
-  },
-  "translation": "E o nome de Jevron anteriormente ⟨era⟩ Quiriate-Arba — Arba ⟨era⟩ o maior ⟨dos⟩ homens entre ⟨os⟩ anaquins; e ⟨a⟩ terra estava tranquila ⟨da⟩ guerra.",
-  "tokens": [
-    {
-      "surface": "ושם",
-      "english": "E o nome"
-    },
-    {
-      "surface": "חברון",
-      "english": "Jevron"
-    },
-    {
-      "surface": "לפנים",
-      "english": "anteriormente"
-    },
-    {
-      "surface": "קרית",
-      "english": "Quiriate"
-    },
-    {
-      "surface": "ארבע",
-      "english": "Arba"
-    },
-    {
-      "surface": "האדם",
-      "english": "⟨o⟩ homem"
-    },
-    {
-      "surface": "הגדול",
-      "english": "o maior"
-    },
-    {
-      "surface": "בענקים",
-      "english": "entre ⟨os⟩ anaquins"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨era⟩"
-    },
-    {
-      "surface": "והארץ",
-      "english": "e ⟨a⟩ terra"
-    },
-    {
-      "surface": "שקטה",
-      "english": "estava tranquila"
-    },
-    {
-      "surface": "ממלחמה",
-      "english": "⟨da⟩ guerra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:39:23.309207037Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 104:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 104,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:47:48.368384560Z",
+  "translation": "⟨O⟩ Tehom ⟨como com⟩ um vestido ⟨o⟩ cobriste; ⟨sobre⟩ os montes ⟨as⟩ águas se puseram.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "⟨O⟩ Tehom"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "⟨como com⟩ um vestido"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "⟨o⟩ cobriste"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "os montes"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "⟨as⟩ águas se puseram"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨as⟩ águas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "abismo",
@@ -13,52 +48,6 @@
       "hebrew": "תהום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 104,
-  "usage": {
-    "completion_tokens": 557,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62908,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63465
-  },
-  "translation": "⟨O⟩ Tehom ⟨como com⟩ um vestido ⟨o⟩ cobriste; ⟨sobre⟩ os montes ⟨as⟩ águas se puseram.",
-  "tokens": [
-    {
-      "surface": "תהום",
-      "english": "⟨O⟩ Tehom"
-    },
-    {
-      "surface": "כלבוש",
-      "english": "⟨como com⟩ um vestido"
-    },
-    {
-      "surface": "כסיתו",
-      "english": "⟨o⟩ cobriste"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "הרים",
-      "english": "os montes"
-    },
-    {
-      "surface": "יעמדו",
-      "english": "⟨as⟩ águas se puseram"
-    },
-    {
-      "surface": "מים",
-      "english": "⟨as⟩ águas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:47:48.368384560Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

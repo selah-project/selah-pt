@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 72:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62885,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63337
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:26:55.244315393Z",
   "translation": "Ele ⟨descerá⟩ ⟨como⟩ chuva sobre ⟨a⟩ tosquia, ⟨como⟩ aguaceiros que regam ⟨a⟩ terra.",
   "tokens": [
     {
       "surface": "ירד",
-      "english": "Descerá",
+      "gloss": "Descerá",
       "marks": "Ele"
     },
     {
       "surface": "כמטר",
-      "english": "⟨como⟩ chuva"
+      "gloss": "⟨como⟩ chuva"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "גז",
-      "english": "⟨a⟩ tosquia"
+      "gloss": "⟨a⟩ tosquia"
     },
     {
       "surface": "כרביבים",
-      "english": "⟨como⟩ aguaceiros",
+      "gloss": "⟨como⟩ aguaceiros",
       "marks": "que regam"
     },
     {
       "surface": "זרזיף",
-      "english": "que regam",
+      "gloss": "que regam",
       "marks": "aguaceiros"
     },
     {
       "surface": "ארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:26:55.244315393Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

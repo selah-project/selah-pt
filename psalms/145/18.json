@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 145:18",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70261,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70732
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:42:09.566999279Z",
   "translation": "YHWH ⟨está⟩ ⟨o⟩ próximo ⟨para⟩ todos ⟨os⟩ que clamam ⟨a⟩ Ele, para todos ⟨os⟩ que clamam ⟨a⟩ Ele ⟨em⟩ verdade",
   "tokens": [
     {
       "surface": "קרוב",
-      "english": "próximo"
+      "gloss": "próximo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לכל",
-      "english": "⟨para⟩ todos ⟨os⟩"
+      "gloss": "⟨para⟩ todos ⟨os⟩"
     },
     {
       "surface": "קראיו",
-      "english": "que clamam ⟨a⟩ Ele"
+      "gloss": "que clamam ⟨a⟩ Ele"
     },
     {
       "surface": "לכל",
-      "english": "⟨para⟩ todos ⟨os⟩"
+      "gloss": "⟨para⟩ todos ⟨os⟩"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יקראהו",
-      "english": "clamam ⟨a⟩ Ele"
+      "gloss": "clamam ⟨a⟩ Ele"
     },
     {
       "surface": "באמת",
-      "english": "⟨em⟩ verdade"
+      "gloss": "⟨em⟩ verdade"
     }
-  ],
-  "timestamp": "2026-06-13T06:42:09.566999279Z",
-  "model": "glm-4.5"
+  ]
 }

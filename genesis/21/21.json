@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "genesis 21:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 21,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:01:19.375887014Z",
+  "translation": "E ⟨ele⟩ habitou ⟨no⟩ deserto de Parã, e ⟨a⟩ sua mãe tomou-lhe ⟨uma⟩ esposa ⟨da⟩ terra do Mitzráyim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E ⟨ele⟩ habitou"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨no⟩ deserto"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "de Parã"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "e ⟨a⟩ sua mãe tomou"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lhe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua mãe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "⟨uma⟩ esposa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨da⟩ terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,60 +56,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21428,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21796
-  },
-  "translation": "E ⟨ele⟩ habitou ⟨no⟩ deserto de Parã, e ⟨a⟩ sua mãe tomou-lhe ⟨uma⟩ esposa ⟨da⟩ terra do Mitzráyim.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E ⟨ele⟩ habitou"
-    },
-    {
-      "surface": "במדבר",
-      "english": "⟨no⟩ deserto"
-    },
-    {
-      "surface": "פארן",
-      "english": "de Parã"
-    },
-    {
-      "surface": "ותקח",
-      "english": "e ⟨a⟩ sua mãe tomou"
-    },
-    {
-      "surface": "לו",
-      "english": "-lhe"
-    },
-    {
-      "surface": "אמו",
-      "english": "sua mãe"
-    },
-    {
-      "surface": "אשה",
-      "english": "⟨uma⟩ esposa"
-    },
-    {
-      "surface": "מארץ",
-      "english": "⟨da⟩ terra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:01:19.375887014Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

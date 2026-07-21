@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "jeremiah 51:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 51,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:55:54.039137510Z",
+  "translation": "Subitamente caiu Bavel, ⟨e⟩ ⟨foi⟩ despedaçada; lamentai ⟨por⟩ ela, tomai bálsamo para ⟨o⟩ seu ⟨d⟩or, ⟨talvez⟩ seja curada.",
+  "tokens": [
+    {
+      "surface": "פתאם",
+      "gloss": "Subitamente"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "caiu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "⟨e⟩ ⟨foi⟩ despedaçada"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "lamentai ⟨por⟩"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ela"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "tomai"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "bálsamo"
+    },
+    {
+      "surface": "למכאובה",
+      "gloss": "para ⟨o⟩ seu ⟨d⟩or"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "⟨talvez⟩"
+    },
+    {
+      "surface": "תרפא",
+      "gloss": "seja curada"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babilônia",
@@ -13,68 +64,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 51,
-  "usage": {
-    "completion_tokens": 571,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17786,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18357
-  },
-  "translation": "Subitamente caiu Bavel, ⟨e⟩ ⟨foi⟩ despedaçada; lamentai ⟨por⟩ ela, tomai bálsamo para ⟨o⟩ seu ⟨d⟩or, ⟨talvez⟩ seja curada.",
-  "tokens": [
-    {
-      "surface": "פתאם",
-      "english": "Subitamente"
-    },
-    {
-      "surface": "נפלה",
-      "english": "caiu"
-    },
-    {
-      "surface": "בבל",
-      "english": "Bavel"
-    },
-    {
-      "surface": "ותשבר",
-      "english": "⟨e⟩ ⟨foi⟩ despedaçada"
-    },
-    {
-      "surface": "הילילו",
-      "english": "lamentai ⟨por⟩"
-    },
-    {
-      "surface": "עליה",
-      "english": "ela"
-    },
-    {
-      "surface": "קחו",
-      "english": "tomai"
-    },
-    {
-      "surface": "צרי",
-      "english": "bálsamo"
-    },
-    {
-      "surface": "למכאובה",
-      "english": "para ⟨o⟩ seu ⟨d⟩or"
-    },
-    {
-      "surface": "אולי",
-      "english": "⟨talvez⟩"
-    },
-    {
-      "surface": "תרפא",
-      "english": "seja curada"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:55:54.039137510Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

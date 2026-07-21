@@ -1,9 +1,85 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "lamentations 1:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "lamentations",
+  "chapter": 1,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:24:30.167538949Z",
+  "translation": "Sua mão ⟨está⟩ espalhada ⟨por⟩ o adversário sobre todas ⟨as⟩ suas coisas desejáveis; pois ela viu ⟨os⟩ povos entrarem em seu Mikdash, ⟨o⟩ qual tu ordenaste que não entrassem em ⟨o⟩ teu ⟨⟨את⟩⟩ congregação ⟨dele⟩.",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "Sua mão"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "⟨está⟩ espalhada ⟨por⟩"
+    },
+    {
+      "surface": "צר",
+      "gloss": "o adversário"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todas ⟨as⟩"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "suas coisas desejáveis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ela viu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨os⟩ povos"
+    },
+    {
+      "surface": "באו",
+      "gloss": "entraram"
+    },
+    {
+      "surface": "מקדשה",
+      "gloss": "em seu Mikdash"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨o⟩ qual"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "tu ordenaste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "que não"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "entrassem"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "em ⟨o⟩",
+      "marks": "teu ⟨⟨את⟩⟩ congregação ⟨dele⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "teu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "santuário",
@@ -13,93 +89,6 @@
       "hebrew": "מקדש"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 848,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33031,
-    "prompt_tokens_details": {
-      "cached_tokens": 31099
-    },
-    "total_tokens": 33879
-  },
-  "translation": "Sua mão ⟨está⟩ espalhada ⟨por⟩ o adversário sobre todas ⟨as⟩ suas coisas desejáveis; pois ela viu ⟨os⟩ povos entrarem em seu Mikdash, ⟨o⟩ qual tu ordenaste que não entrassem em ⟨o⟩ teu ⟨⟨את⟩⟩ congregação ⟨dele⟩.",
-  "tokens": [
-    {
-      "surface": "ידו",
-      "english": "Sua mão"
-    },
-    {
-      "surface": "פרש",
-      "english": "⟨está⟩ espalhada ⟨por⟩"
-    },
-    {
-      "surface": "צר",
-      "english": "o adversário"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "todas ⟨as⟩"
-    },
-    {
-      "surface": "מחמדיה",
-      "english": "suas coisas desejáveis"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "ראתה",
-      "english": "ela viu"
-    },
-    {
-      "surface": "גוים",
-      "english": "⟨os⟩ povos"
-    },
-    {
-      "surface": "באו",
-      "english": "entraram"
-    },
-    {
-      "surface": "מקדשה",
-      "english": "em seu Mikdash"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨o⟩ qual"
-    },
-    {
-      "surface": "צויתה",
-      "english": "tu ordenaste"
-    },
-    {
-      "surface": "לא",
-      "english": "que não"
-    },
-    {
-      "surface": "יבאו",
-      "english": "entrassem"
-    },
-    {
-      "surface": "בקהל",
-      "english": "em ⟨o⟩",
-      "marks": "teu ⟨⟨את⟩⟩ congregação ⟨dele⟩"
-    },
-    {
-      "surface": "לך",
-      "english": "teu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:24:30.167538949Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

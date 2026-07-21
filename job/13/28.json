@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "job 13:28",
   "book": "job",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27213,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 27565
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:44:52.255744597Z",
   "translation": "E ele ⟨é⟩ como ⟨uma⟩ podridão que se consome, como ⟨um⟩ vestido ⟨que⟩ uma traça come.",
   "tokens": [
     {
       "surface": "והוא",
-      "english": "E ele"
+      "gloss": "E ele"
     },
     {
       "surface": "כרקב",
-      "english": "como ⟨uma⟩ podridão"
+      "gloss": "como ⟨uma⟩ podridão"
     },
     {
       "surface": "יבלה",
-      "english": "que se consome"
+      "gloss": "que se consome"
     },
     {
       "surface": "כבגד",
-      "english": "como ⟨um⟩ vestido"
+      "gloss": "como ⟨um⟩ vestido"
     },
     {
       "surface": "אכלו",
-      "english": "⟨que⟩ uma traça come"
+      "gloss": "⟨que⟩ uma traça come"
     },
     {
       "surface": "עש",
-      "english": "traça"
+      "gloss": "traça"
     }
-  ],
-  "timestamp": "2026-06-13T06:44:52.255744597Z",
-  "model": "glm-4.5"
+  ]
 }

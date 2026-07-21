@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-samuel 13:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 13,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:23:49.564921512Z",
+  "translation": "E Shaúl e Yonatán seu filho, e ⟨o⟩ povo que ⟨se⟩ encontrava com eles, ⟨estavam⟩ habitando em Gibeá de Binyamim; e ⟨os⟩ filisteus ⟨haviam⟩ acampado em Micmás.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "E Shaúl"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "e Yonatán"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "e ⟨o⟩ povo"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "que ⟨se⟩ encontrava"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "com eles"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "⟨estavam⟩ habitando"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "em Gibeá"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "de Binyamim"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "e ⟨os⟩ filisteus"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "⟨haviam⟩ acampado"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "em Micmás"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Benjamim",
@@ -13,72 +68,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 586,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16943,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17529
-  },
-  "translation": "E Shaúl e Yonatán seu filho, e ⟨o⟩ povo que ⟨se⟩ encontrava com eles, ⟨estavam⟩ habitando em Gibeá de Binyamim; e ⟨os⟩ filisteus ⟨haviam⟩ acampado em Micmás.",
-  "tokens": [
-    {
-      "surface": "ושאול",
-      "english": "E Shaúl"
-    },
-    {
-      "surface": "ויונתן",
-      "english": "e Yonatán"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "והעם",
-      "english": "e ⟨o⟩ povo"
-    },
-    {
-      "surface": "הנמצא",
-      "english": "que ⟨se⟩ encontrava"
-    },
-    {
-      "surface": "עמם",
-      "english": "com eles"
-    },
-    {
-      "surface": "ישבים",
-      "english": "⟨estavam⟩ habitando"
-    },
-    {
-      "surface": "בגבע",
-      "english": "em Gibeá"
-    },
-    {
-      "surface": "בנימן",
-      "english": "de Binyamim"
-    },
-    {
-      "surface": "ופלשתים",
-      "english": "e ⟨os⟩ filisteus"
-    },
-    {
-      "surface": "חנו",
-      "english": "⟨haviam⟩ acampado"
-    },
-    {
-      "surface": "במכמש",
-      "english": "em Micmás"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:23:49.564921512Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

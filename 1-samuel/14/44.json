@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 44,
   "ref": "1-samuel 14:44",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 14,
+  "verse": 44,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:25:16.634713711Z",
+  "translation": "E disse Shaul: Assim faça Elohim ⟨e⟩ assim ⟨o⟩ adicione, porque certamente morrerás ⟨em⟩ morte, Jônatas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "faça"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "⟨e⟩ assim"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "⟨o⟩ adicione"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morrerás"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "⟨em⟩ morte"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jônatas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -13,68 +64,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16745,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17156
-  },
-  "translation": "E disse Shaul: Assim faça Elohim ⟨e⟩ assim ⟨o⟩ adicione, porque certamente morrerás ⟨em⟩ morte, Jônatas.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "יעשה",
-      "english": "faça"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "וכה",
-      "english": "⟨e⟩ assim"
-    },
-    {
-      "surface": "יוסף",
-      "english": "⟨o⟩ adicione"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "מות",
-      "english": "morrerás"
-    },
-    {
-      "surface": "תמות",
-      "english": "⟨em⟩ morte"
-    },
-    {
-      "surface": "יונתן",
-      "english": "Jônatas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:25:16.634713711Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

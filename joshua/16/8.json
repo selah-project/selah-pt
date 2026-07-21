@@ -1,9 +1,91 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "joshua 16:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 16,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:41:32.903356260Z",
+  "translation": "Desde Tafuá ⟨ir⟩ ⟨o⟩ limite ⟨o⟩ mar ⟨o⟩ vale ⟨de⟩ Caná e ⟨ser⟩ ⟨suas⟩ saídas ⟨o⟩ mar; esta ⟨é⟩ ⟨a⟩ herança ⟨da⟩ tribo ⟨dos⟩ filhos ⟨de⟩ Efráyim ⟨para⟩ ⟨suas⟩ famílias.",
+  "tokens": [
+    {
+      "surface": "מתפוח",
+      "gloss": "Desde Tafuá",
+      "marks": "starting point of the border"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "⟨ir⟩",
+      "rationale": "verb 'to go\/walk'"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "⟨o⟩ limite",
+      "rationale": "Hebrew article required in English"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "⟨o⟩ mar",
+      "rationale": "Hebrew article required in English"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "⟨o⟩ vale",
+      "rationale": "Hebrew article required in English"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "⟨de⟩ Caná",
+      "rationale": "proper name of a stream"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e ⟨ser⟩",
+      "rationale": "copula added in English"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "⟨suas⟩ saídas",
+      "rationale": "plural collective for boundaries"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "⟨o⟩ mar",
+      "rationale": "Hebrew article required in English"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "esta",
+      "rationale": "demonstrative pronoun"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "⟨a⟩ herança",
+      "rationale": "Hebrew article required in English"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨da⟩ tribo",
+      "rationale": "Hebrew article required in English"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos",
+      "rationale": "Hebrew article required in English"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "⟨de⟩ Efráyim",
+      "rationale": "proper name"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨para⟩ ⟨suas⟩ famílias",
+      "rationale": "Hebrew preposition and article required in English"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,99 +95,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 791,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17141,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 17932
-  },
-  "translation": "Desde Tafuá ⟨ir⟩ ⟨o⟩ limite ⟨o⟩ mar ⟨o⟩ vale ⟨de⟩ Caná e ⟨ser⟩ ⟨suas⟩ saídas ⟨o⟩ mar; esta ⟨é⟩ ⟨a⟩ herança ⟨da⟩ tribo ⟨dos⟩ filhos ⟨de⟩ Efráyim ⟨para⟩ ⟨suas⟩ famílias.",
-  "tokens": [
-    {
-      "surface": "מתפוח",
-      "english": "Desde Tafuá",
-      "marks": "starting point of the border"
-    },
-    {
-      "surface": "ילך",
-      "english": "⟨ir⟩",
-      "rationale": "verb 'to go\/walk'"
-    },
-    {
-      "surface": "הגבול",
-      "english": "⟨o⟩ limite",
-      "rationale": "Hebrew article required in English"
-    },
-    {
-      "surface": "ימה",
-      "english": "⟨o⟩ mar",
-      "rationale": "Hebrew article required in English"
-    },
-    {
-      "surface": "נחל",
-      "english": "⟨o⟩ vale",
-      "rationale": "Hebrew article required in English"
-    },
-    {
-      "surface": "קנה",
-      "english": "⟨de⟩ Caná",
-      "rationale": "proper name of a stream"
-    },
-    {
-      "surface": "והיו",
-      "english": "e ⟨ser⟩",
-      "rationale": "copula added in English"
-    },
-    {
-      "surface": "תצאתיו",
-      "english": "⟨suas⟩ saídas",
-      "rationale": "plural collective for boundaries"
-    },
-    {
-      "surface": "הימה",
-      "english": "⟨o⟩ mar",
-      "rationale": "Hebrew article required in English"
-    },
-    {
-      "surface": "זאת",
-      "english": "esta",
-      "rationale": "demonstrative pronoun"
-    },
-    {
-      "surface": "נחלת",
-      "english": "⟨a⟩ herança",
-      "rationale": "Hebrew article required in English"
-    },
-    {
-      "surface": "מטה",
-      "english": "⟨da⟩ tribo",
-      "rationale": "Hebrew article required in English"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos",
-      "rationale": "Hebrew article required in English"
-    },
-    {
-      "surface": "אפרים",
-      "english": "⟨de⟩ Efráyim",
-      "rationale": "proper name"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "⟨para⟩ ⟨suas⟩ famílias",
-      "rationale": "Hebrew preposition and article required in English"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:41:32.903356260Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 15:20",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60210,
-    "prompt_tokens_details": {
-      "cached_tokens": 59213
-    },
-    "total_tokens": 60687
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:43:10.207554037Z",
   "translation": "Um filho sábio ⟨alegra⟩ ⟨o⟩ pai, e ⟨um⟩ homem tolo ⟨despreza⟩ ⟨a⟩ sua mãe.",
   "tokens": [
     {
       "surface": "בן",
-      "english": "Um filho"
+      "gloss": "Um filho"
     },
     {
       "surface": "חכם",
-      "english": "sábio"
+      "gloss": "sábio"
     },
     {
       "surface": "ישמח",
-      "english": "⟨alegra⟩"
+      "gloss": "⟨alegra⟩"
     },
     {
       "surface": "אב",
-      "english": "⟨o⟩ pai"
+      "gloss": "⟨o⟩ pai"
     },
     {
       "surface": "וכסיל",
-      "english": "e ⟨um⟩ homem tolo"
+      "gloss": "e ⟨um⟩ homem tolo"
     },
     {
       "surface": "אדם",
-      "english": "homem"
+      "gloss": "homem"
     },
     {
       "surface": "בוזה",
-      "english": "⟨despreza⟩"
+      "gloss": "⟨despreza⟩"
     },
     {
       "surface": "אמו",
-      "english": "⟨a⟩ sua mãe"
+      "gloss": "⟨a⟩ sua mãe"
     }
-  ],
-  "timestamp": "2026-06-13T06:43:10.207554037Z",
-  "model": "glm-4.5"
+  ]
 }

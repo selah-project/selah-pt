@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 51,
   "ref": "psalms 18:51",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 18,
+  "verse": 51,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:50:27.008417074Z",
+  "translation": "Grande ⟨é⟩ Yeshuá ⟨do⟩ seu rei; e faz hesed ⟨ao⟩ seu mashíaj, a David e ⟨à⟩ sua semente para sempre.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "Grande"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "⟨é⟩ Yeshuá",
+      "marks": "salvação"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "⟨do⟩ seu rei",
+      "marks": "seu rei"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e faz"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "⟨ao⟩ seu mashíaj",
+      "marks": "seu mashíaj"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "e ⟨à⟩ sua semente",
+      "marks": "sua semente"
+    },
+    {
+      "surface": "עד",
+      "gloss": "para"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sempre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a salvação",
@@ -13,68 +64,6 @@
       "hebrew": "ישועה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 566,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62981,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63547
-  },
-  "translation": "Grande ⟨é⟩ Yeshuá ⟨do⟩ seu rei; e faz hesed ⟨ao⟩ seu mashíaj, a David e ⟨à⟩ sua semente para sempre.",
-  "tokens": [
-    {
-      "surface": "מגדל",
-      "english": "Grande"
-    },
-    {
-      "surface": "ישועות",
-      "english": "⟨é⟩ Yeshuá",
-      "marks": "salvação"
-    },
-    {
-      "surface": "מלכו",
-      "english": "⟨do⟩ seu rei",
-      "marks": "seu rei"
-    },
-    {
-      "surface": "ועשה",
-      "english": "e faz"
-    },
-    {
-      "surface": "חסד",
-      "english": "hesed"
-    },
-    {
-      "surface": "למשיחו",
-      "english": "⟨ao⟩ seu mashíaj",
-      "marks": "seu mashíaj"
-    },
-    {
-      "surface": "לדוד",
-      "english": "a David"
-    },
-    {
-      "surface": "ולזרעו",
-      "english": "e ⟨à⟩ sua semente",
-      "marks": "sua semente"
-    },
-    {
-      "surface": "עד",
-      "english": "para"
-    },
-    {
-      "surface": "עולם",
-      "english": "sempre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:50:27.008417074Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

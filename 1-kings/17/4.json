@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-kings 17:4",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 446,
-    "prompt_tokens": 69911,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 70357
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:34:35.988892910Z",
   "translation": "E será, que do ribeiro beberás, e ⟨את⟩ aos corvos tenho ordenado que te sustentem ali.",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "E será"
+      "gloss": "E será"
     },
     {
       "surface": "מהנחל",
-      "english": "do ribeiro"
+      "gloss": "do ribeiro"
     },
     {
       "surface": "תשתה",
-      "english": "beberás"
+      "gloss": "beberás"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "aos corvos"
     },
     {
       "surface": "הערבים",
-      "english": "aos corvos"
+      "gloss": "aos corvos"
     },
     {
       "surface": "צויתי",
-      "english": "tenho ordenado"
+      "gloss": "tenho ordenado"
     },
     {
       "surface": "לכלכלך",
-      "english": "que te sustentem"
+      "gloss": "que te sustentem"
     },
     {
       "surface": "שם",
-      "english": "ali"
+      "gloss": "ali"
     }
-  ],
-  "timestamp": "2026-07-16T11:34:35.988892910Z",
-  "model": "glm-4.5"
+  ]
 }

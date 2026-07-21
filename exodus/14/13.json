@@ -1,9 +1,126 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "exodus 14:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 14,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:55:03.247250634Z",
+  "translation": "E Moshé disse ao povo: Não temais, estai ⟨firmes⟩, e vede ⟨a⟩ Yeshuá de YHWH, que Ele fará por vós hoje; porque ⟨a⟩ Mitsrayim que vistes hoje, nunca mais ⟨a⟩ vereis para sempre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "povo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Não"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temais"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "estai"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "e vede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "salvação de YHWH"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "Yeshuá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "Ele fará"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "por vós"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "Mitsrayim que vistes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "תסיפו",
+      "gloss": "mais"
+    },
+    {
+      "surface": "לראתם",
+      "gloss": "⟨a⟩ vereis"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nunca"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mais"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "para sempre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "salvação",
@@ -13,134 +130,6 @@
       "hebrew": "ישועה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 827,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18803,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 19630
-  },
-  "translation": "E Moshé disse ao povo: Não temais, estai ⟨firmes⟩, e vede ⟨a⟩ Yeshuá de YHWH, que Ele fará por vós hoje; porque ⟨a⟩ Mitsrayim que vistes hoje, nunca mais ⟨a⟩ vereis para sempre.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "העם",
-      "english": "povo"
-    },
-    {
-      "surface": "אל",
-      "english": "Não"
-    },
-    {
-      "surface": "תיראו",
-      "english": "temais"
-    },
-    {
-      "surface": "התיצבו",
-      "english": "estai"
-    },
-    {
-      "surface": "וראו",
-      "english": "e vede"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "salvação de YHWH"
-    },
-    {
-      "surface": "ישועת",
-      "english": "Yeshuá"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "יעשה",
-      "english": "Ele fará"
-    },
-    {
-      "surface": "לכם",
-      "english": "por vós"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "ראיתם",
-      "english": "Mitsrayim que vistes"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Mitsrayim"
-    },
-    {
-      "surface": "מצרים",
-      "english": "Mitsrayim"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "תסיפו",
-      "english": "mais"
-    },
-    {
-      "surface": "לראתם",
-      "english": "⟨a⟩ vereis"
-    },
-    {
-      "surface": "עוד",
-      "english": "nunca"
-    },
-    {
-      "surface": "עד",
-      "english": "mais"
-    },
-    {
-      "surface": "עולם",
-      "english": "para sempre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:55:03.247250634Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

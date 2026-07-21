@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "proverbs 10:24",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60180,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 60743
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:55:06.067107020Z",
   "translation": "⟨O⟩ temor do ímpio ⟨é⟩ o que lhe há de vir ⟨את⟩; ⟨e⟩ ⟨o⟩ desejo dos justos será dado ⟨את⟩",
   "tokens": [
     {
       "surface": "מגורת",
-      "english": "temor"
+      "gloss": "temor"
     },
     {
       "surface": "רשע",
-      "english": "do ímpio"
+      "gloss": "do ímpio"
     },
     {
       "surface": "היא",
-      "english": "⟨é⟩"
+      "gloss": "⟨é⟩"
     },
     {
       "surface": "תבואנו",
-      "english": "⟨o⟩ que lhe há de vir"
+      "gloss": "⟨o⟩ que lhe há de vir"
     },
     {
       "surface": "ותאות",
-      "english": "⟨e⟩ ⟨o⟩ desejo"
+      "gloss": "⟨e⟩ ⟨o⟩ desejo"
     },
     {
       "surface": "צדיקים",
-      "english": "dos justos"
+      "gloss": "dos justos"
     },
     {
       "surface": "יתן",
-      "english": "será dado"
+      "gloss": "será dado"
     }
-  ],
-  "timestamp": "2026-06-14T04:55:06.067107020Z",
-  "model": "glm-4.5"
+  ]
 }

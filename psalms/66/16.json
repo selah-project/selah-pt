@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 66:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63052,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63521
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:21:33.387867095Z",
   "translation": "Vinde ⟨e⟩ ouvi, todos ⟨os⟩ que temem ⟨a⟩ Elohim, e eu contarei o que ⟨Ele⟩ fez ⟨por⟩ minha alma.",
   "tokens": [
     {
       "surface": "לכו",
-      "english": "Vinde"
+      "gloss": "Vinde"
     },
     {
       "surface": "שמעו",
-      "english": "⟨e⟩ ouvi"
+      "gloss": "⟨e⟩ ouvi"
     },
     {
       "surface": "ואספרה",
-      "english": "e eu contarei"
+      "gloss": "e eu contarei"
     },
     {
       "surface": "כל",
-      "english": "todos ⟨os⟩"
+      "gloss": "todos ⟨os⟩"
     },
     {
       "surface": "יראי",
-      "english": "que temem ⟨a⟩"
+      "gloss": "que temem ⟨a⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אשר",
-      "english": "o que"
+      "gloss": "o que"
     },
     {
       "surface": "עשה",
-      "english": "fez"
+      "gloss": "fez"
     },
     {
       "surface": "לנפשי",
-      "english": "⟨por⟩ minha alma"
+      "gloss": "⟨por⟩ minha alma"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:21:33.387867095Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

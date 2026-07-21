@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "genesis 18:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 18,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:58:32.263042406Z",
+  "translation": "e YHWH disse a Avraham: ⟨por⟩ que ⟨isso⟩ riu-se Sara, dizendo: ⟨será⟩ que ⟨de⟩ fato ⟨darei⟩ à luz ⟨e⟩ eu ⟨sou⟩ velha?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "למה",
+      "gloss": "⟨por⟩ que"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨isso⟩"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "riu-se"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "האף",
+      "gloss": "⟨será⟩ que"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "⟨de⟩ fato"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "⟨darei⟩ à luz"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "⟨e⟩ eu"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "⟨sou⟩ velha"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Abraão",
@@ -13,80 +76,6 @@
       "hebrew": "אברהם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 842,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21824,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22666
-  },
-  "translation": "e YHWH disse a Avraham: ⟨por⟩ que ⟨isso⟩ riu-se Sara, dizendo: ⟨será⟩ que ⟨de⟩ fato ⟨darei⟩ à luz ⟨e⟩ eu ⟨sou⟩ velha?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אברהם",
-      "english": "Avraham"
-    },
-    {
-      "surface": "למה",
-      "english": "⟨por⟩ que"
-    },
-    {
-      "surface": "זה",
-      "english": "⟨isso⟩"
-    },
-    {
-      "surface": "צחקה",
-      "english": "riu-se"
-    },
-    {
-      "surface": "שרה",
-      "english": "Sara"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "האף",
-      "english": "⟨será⟩ que"
-    },
-    {
-      "surface": "אמנם",
-      "english": "⟨de⟩ fato"
-    },
-    {
-      "surface": "אלד",
-      "english": "⟨darei⟩ à luz"
-    },
-    {
-      "surface": "ואני",
-      "english": "⟨e⟩ eu"
-    },
-    {
-      "surface": "זקנתי",
-      "english": "⟨sou⟩ velha"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:58:32.263042406Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

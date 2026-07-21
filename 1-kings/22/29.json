@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "1-kings 22:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 22,
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:43:36.341542999Z",
+  "translation": "Então ⟨o⟩ rei de Yisrael subiu, e Yehoshafat, rei de Yehudá, ⟨até⟩ Ramot-Guilad.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Então subiu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨o⟩ rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "e Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "⟨até⟩ Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Guilad"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62423,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62813
-  },
-  "translation": "Então ⟨o⟩ rei de Yisrael subiu, e Yehoshafat, rei de Yehudá, ⟨até⟩ Ramot-Guilad.",
-  "tokens": [
-    {
-      "surface": "ויעל",
-      "english": "Então subiu"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨o⟩ rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויהושפט",
-      "english": "e Yehoshafat"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "רמת",
-      "english": "⟨até⟩ Ramot"
-    },
-    {
-      "surface": "גלעד",
-      "english": "Guilad"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:43:36.341542999Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

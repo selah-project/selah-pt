@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-chronicles 6:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 6,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:37:57.385496277Z",
+  "translation": "filho de Tahate, filho de Assir, filho de Ebiasafe, filho de Koraj",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Filho de"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Tahate"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Assir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "Ebiasafe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraj"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Corá",
@@ -13,56 +52,6 @@
       "hebrew": "קרח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 217,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57051,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57268
-  },
-  "translation": "filho de Tahate, filho de Assir, filho de Ebiasafe, filho de Koraj",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Filho de"
-    },
-    {
-      "surface": "תחת",
-      "english": "Tahate"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "אסיר",
-      "english": "Assir"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "אביסף",
-      "english": "Ebiasafe"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "קרח",
-      "english": "Koraj"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:37:57.385496277Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

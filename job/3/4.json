@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 3:4",
   "book": "job",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27767,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 28189
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:55:19.529205951Z",
   "translation": "Aquele dia ⟨seja⟩ trevas; ⟨que⟩ Elohim ⟨não⟩ ⟨o⟩ procure ⟨do⟩ alto, e ⟨não⟩ ⟨seja⟩ iluminado ⟨por⟩ luz sobre ele.",
   "tokens": [
     {
       "surface": "היום",
-      "english": "aquele dia"
+      "gloss": "aquele dia"
     },
     {
       "surface": "ההוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יהי",
-      "english": "⟨seja⟩"
+      "gloss": "⟨seja⟩"
     },
     {
       "surface": "חשך",
-      "english": "trevas"
+      "gloss": "trevas"
     },
     {
       "surface": "אל",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "ידרשהו",
-      "english": "⟨o⟩ procure"
+      "gloss": "⟨o⟩ procure"
     },
     {
       "surface": "אלוה",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ממעל",
-      "english": "⟨do⟩ alto"
+      "gloss": "⟨do⟩ alto"
     },
     {
       "surface": "ואל",
-      "english": "e ⟨não⟩"
+      "gloss": "e ⟨não⟩"
     },
     {
       "surface": "תופע",
-      "english": "⟨seja⟩ iluminado"
+      "gloss": "⟨seja⟩ iluminado"
     },
     {
       "surface": "עליו",
-      "english": "⟨por⟩ luz"
+      "gloss": "⟨por⟩ luz"
     },
     {
       "surface": "נהרה",
-      "english": "sobre ele"
+      "gloss": "sobre ele"
     }
-  ],
-  "timestamp": "2026-06-14T04:55:19.529205951Z",
-  "model": "glm-4.5"
+  ]
 }

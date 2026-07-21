@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "1-kings 15:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 15,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:33:46.852762913Z",
+  "translation": "E ⟨no⟩ terceiro ano de Asa, rei de Yehudá, Baasha ⟨o⟩ matou e reinou em seu lugar.",
+  "tokens": [
+    {
+      "surface": "וימתהו",
+      "gloss": "⟨O⟩ matou"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "no"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "terceiro"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "de Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e reinou"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "em seu lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,60 +56,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62538,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62912
-  },
-  "translation": "E ⟨no⟩ terceiro ano de Asa, rei de Yehudá, Baasha ⟨o⟩ matou e reinou em seu lugar.",
-  "tokens": [
-    {
-      "surface": "וימתהו",
-      "english": "⟨O⟩ matou"
-    },
-    {
-      "surface": "בעשא",
-      "english": "Baasha"
-    },
-    {
-      "surface": "בשנת",
-      "english": "no"
-    },
-    {
-      "surface": "שלש",
-      "english": "terceiro"
-    },
-    {
-      "surface": "לאסא",
-      "english": "de Asa"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e reinou"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "em seu lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:33:46.852762913Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

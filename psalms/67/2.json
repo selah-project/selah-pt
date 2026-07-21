@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 67:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 67,
-  "usage": {
-    "completion_tokens": 597,
-    "prompt_tokens": 70329,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70926
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:40:24.987889652Z",
   "translation": "Elohim ⟨nos⟩ favoreça e ⟨nos⟩ abençoe, faça resplandecer ⟨o⟩ rosto ⟨dele⟩ ⟨את⟩ nós, Selá",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יחננו",
-      "english": "⟨nos⟩ favoreça"
+      "gloss": "⟨nos⟩ favoreça"
     },
     {
       "surface": "ויברכנו",
-      "english": "e ⟨nos⟩ abençoe"
+      "gloss": "e ⟨nos⟩ abençoe"
     },
     {
       "surface": "יאר",
-      "english": "faça resplandecer"
+      "gloss": "faça resplandecer"
     },
     {
       "surface": "פניו",
-      "english": "⟨o⟩ rosto ⟨dele⟩"
+      "gloss": "⟨o⟩ rosto ⟨dele⟩"
     },
     {
       "surface": "אתנו",
-      "english": "⟨את⟩ nós",
+      "gloss": "⟨את⟩ nós",
       "marks": "nós"
     },
     {
       "surface": "סלה",
-      "english": "Selá"
+      "gloss": "Selá"
     }
-  ],
-  "timestamp": "2026-07-16T17:40:24.987889652Z",
-  "model": "glm-4.5"
+  ]
 }

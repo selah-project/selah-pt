@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-kings 21:12",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 427,
-    "prompt_tokens": 69777,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 70204
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:38:28.967105210Z",
   "translation": "Proclamai um jejum e fazei sentar ⟨את⟩ Nabote à cabeça do povo",
   "tokens": [
     {
       "surface": "קראו",
-      "english": "Proclamai"
+      "gloss": "Proclamai"
     },
     {
       "surface": "צום",
-      "english": "um jejum"
+      "gloss": "um jejum"
     },
     {
       "surface": "והשיבו",
-      "english": "e fazei sentar"
+      "gloss": "e fazei sentar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Nabote"
     },
     {
       "surface": "נבות",
-      "english": "Nabote"
+      "gloss": "Nabote"
     },
     {
       "surface": "בראש",
-      "english": "à cabeça"
+      "gloss": "à cabeça"
     },
     {
       "surface": "העם",
-      "english": "do povo"
+      "gloss": "do povo"
     }
-  ],
-  "timestamp": "2026-07-16T11:38:28.967105210Z",
-  "model": "glm-4.5"
+  ]
 }

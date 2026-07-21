@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "hosea 5:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 5,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:57:13.430388831Z",
+  "translation": "Efráyim ⟨é⟩ oprimido, ⟨é⟩ esmagado no julgamento, porque voluntariamente andou após ⟨um⟩ mandamento ⟨ídolo⟩",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "Oprimido"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "⟨é⟩ esmagado"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "no julgamento"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "voluntariamente"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "andou"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "após"
+    },
+    {
+      "surface": "צו",
+      "gloss": "⟨um⟩ mandamento ⟨ídolo⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,60 +56,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19596,
-    "prompt_tokens_details": {
-      "cached_tokens": 18473
-    },
-    "total_tokens": 19979
-  },
-  "translation": "Efráyim ⟨é⟩ oprimido, ⟨é⟩ esmagado no julgamento, porque voluntariamente andou após ⟨um⟩ mandamento ⟨ídolo⟩",
-  "tokens": [
-    {
-      "surface": "עשוק",
-      "english": "Oprimido"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "רצוץ",
-      "english": "⟨é⟩ esmagado"
-    },
-    {
-      "surface": "משפט",
-      "english": "no julgamento"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "הואיל",
-      "english": "voluntariamente"
-    },
-    {
-      "surface": "הלך",
-      "english": "andou"
-    },
-    {
-      "surface": "אחרי",
-      "english": "após"
-    },
-    {
-      "surface": "צו",
-      "english": "⟨um⟩ mandamento ⟨ídolo⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:57:13.430388831Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 135:14",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 350,
-    "prompt_tokens": 70284,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70634
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:29.343632695Z",
   "translation": "Porque YHWH julgará ⟨o⟩ Seu povo, e Se compadecerá ⟨por⟩ Seus servos.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "ידין",
-      "english": "julgará"
+      "gloss": "julgará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עמו",
-      "english": "⟨o⟩ Seu povo",
+      "gloss": "⟨o⟩ Seu povo",
       "marks": "povo"
     },
     {
       "surface": "ועל",
-      "english": "e Se compadecerá ⟨por⟩"
+      "gloss": "e Se compadecerá ⟨por⟩"
     },
     {
       "surface": "עבדיו",
-      "english": "Seus servos"
+      "gloss": "Seus servos"
     },
     {
       "surface": "יתנחם",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T17:50:29.343632695Z",
-  "model": "glm-4.5"
+  ]
 }

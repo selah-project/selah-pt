@@ -1,9 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-samuel 17:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 17,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:28:09.007718075Z",
+  "translation": "e Shaúl e os homens de Yisrael foram reunidos e acamparam no vale ⟨do⟩ Elá e se puseram em ordem ⟨de⟩ batalha para ⟨encontrar⟩ ⟨os⟩ filisteus",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "E Shaúl"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e os homens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "foram reunidos"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e acamparam"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "no vale"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨do⟩ Elá",
+      "marks": "Elá"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "e se puseram em ordem"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "⟨de⟩ batalha",
+      "marks": "ordem"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "para ⟨encontrar⟩"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨os⟩ filisteus"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,70 +66,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16865,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17335
-  },
-  "translation": "e Shaúl e os homens de Yisrael foram reunidos e acamparam no vale ⟨do⟩ Elá e se puseram em ordem ⟨de⟩ batalha para ⟨encontrar⟩ ⟨os⟩ filisteus",
-  "tokens": [
-    {
-      "surface": "ושאול",
-      "english": "E Shaúl"
-    },
-    {
-      "surface": "ואיש",
-      "english": "e os homens"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "נאספו",
-      "english": "foram reunidos"
-    },
-    {
-      "surface": "ויחנו",
-      "english": "e acamparam"
-    },
-    {
-      "surface": "בעמק",
-      "english": "no vale"
-    },
-    {
-      "surface": "האלה",
-      "english": "⟨do⟩ Elá",
-      "marks": "Elá"
-    },
-    {
-      "surface": "ויערכו",
-      "english": "e se puseram em ordem"
-    },
-    {
-      "surface": "מלחמה",
-      "english": "⟨de⟩ batalha",
-      "marks": "ordem"
-    },
-    {
-      "surface": "לקראת",
-      "english": "para ⟨encontrar⟩"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨os⟩ filisteus"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:28:09.007718075Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

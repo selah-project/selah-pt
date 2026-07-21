@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 69:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62734,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63157
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:24:12.627364992Z",
   "translation": "E eu coloquei ⟨o⟩ saco como ⟨o⟩ meu vestido, e eu me tornei ⟨um⟩ provérbio ⟨para⟩ eles ⟨para⟩ ⟨um⟩ ditado.",
   "tokens": [
     {
       "surface": "ואתנה",
-      "english": "E eu coloquei"
+      "gloss": "E eu coloquei"
     },
     {
       "surface": "לבושי",
-      "english": "⟨o⟩ meu vestido"
+      "gloss": "⟨o⟩ meu vestido"
     },
     {
       "surface": "שק",
-      "english": "⟨o⟩ saco"
+      "gloss": "⟨o⟩ saco"
     },
     {
       "surface": "ואהי",
-      "english": "e eu me tornei"
+      "gloss": "e eu me tornei"
     },
     {
       "surface": "להם",
-      "english": "⟨para⟩ eles"
+      "gloss": "⟨para⟩ eles"
     },
     {
       "surface": "למשל",
-      "english": "⟨para⟩ ⟨um⟩ ditado"
+      "gloss": "⟨para⟩ ⟨um⟩ ditado"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:24:12.627364992Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

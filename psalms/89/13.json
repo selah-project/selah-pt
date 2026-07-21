@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 89:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 89,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:38:26.926335640Z",
+  "translation": "Norte e sul ⟨tu⟩ criaste ⟨eles⟩; Tavor e Hermon ⟨em teu⟩ nome ⟨se⟩ regozijam",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Norte"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "e sul"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨tu⟩"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "criaste ⟨eles⟩"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "e Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "⟨em teu⟩ nome"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "⟨se⟩ regozijam"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Tabor",
@@ -13,56 +52,6 @@
       "hebrew": "תבור"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 89,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62997,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63346
-  },
-  "translation": "Norte e sul ⟨tu⟩ criaste ⟨eles⟩; Tavor e Hermon ⟨em teu⟩ nome ⟨se⟩ regozijam",
-  "tokens": [
-    {
-      "surface": "צפון",
-      "english": "Norte"
-    },
-    {
-      "surface": "וימין",
-      "english": "e sul"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨tu⟩"
-    },
-    {
-      "surface": "בראתם",
-      "english": "criaste ⟨eles⟩"
-    },
-    {
-      "surface": "תבור",
-      "english": "Tavor"
-    },
-    {
-      "surface": "וחרמון",
-      "english": "e Hermon"
-    },
-    {
-      "surface": "בשמך",
-      "english": "⟨em teu⟩ nome"
-    },
-    {
-      "surface": "ירננו",
-      "english": "⟨se⟩ regozijam"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:38:26.926335640Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

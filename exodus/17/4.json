@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "exodus 17:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 17,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:00:33.734275953Z",
+  "translation": "E Moshé clama a ⟨YHWH⟩, dizendo: O que farei a ⟨este povo⟩? ⟨ainda⟩ um pouco e ⟨eles⟩ me apedrejarão.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "E clama"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨YHWH⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ", dizendo:"
+    },
+    {
+      "surface": "מה",
+      "gloss": "O que"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "farei"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a ⟨este povo⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ainda⟩"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "um pouco"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "e ⟨eles⟩ me apedrejarão"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,72 +68,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 607,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17235,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17842
-  },
-  "translation": "E Moshé clama a ⟨YHWH⟩, dizendo: O que farei a ⟨este povo⟩? ⟨ainda⟩ um pouco e ⟨eles⟩ me apedrejarão.",
-  "tokens": [
-    {
-      "surface": "ויצעק",
-      "english": "E clama"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨YHWH⟩"
-    },
-    {
-      "surface": "לאמר",
-      "english": ", dizendo:"
-    },
-    {
-      "surface": "מה",
-      "english": "O que"
-    },
-    {
-      "surface": "אעשה",
-      "english": "farei"
-    },
-    {
-      "surface": "לעם",
-      "english": "a ⟨este povo⟩"
-    },
-    {
-      "surface": "הזה",
-      "english": "⟨este⟩"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨ainda⟩"
-    },
-    {
-      "surface": "מעט",
-      "english": "um pouco"
-    },
-    {
-      "surface": "וסקלני",
-      "english": "e ⟨eles⟩ me apedrejarão"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:00:33.734275953Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

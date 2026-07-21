@@ -1,9 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "2-chronicles 28:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 28,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:39:34.443097810Z",
+  "translation": "e ele andou ⟨nos⟩ caminhos ⟨dos⟩ reis de Yisrael e também ⟨fez⟩ imagens fundidas ⟨para⟩ ⟨os⟩ Baalins",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "E ele andou"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "⟨nos⟩ caminhos ⟨dos⟩",
+      "marks": "caminhos ⟨dos⟩ reis de Israel"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "reis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e também"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "imagens fundidas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨fez⟩"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "⟨para⟩ ⟨os⟩ Baalins",
+      "marks": "imagens fundidas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,58 +54,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58153,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58626
-  },
-  "translation": "e ele andou ⟨nos⟩ caminhos ⟨dos⟩ reis de Yisrael e também ⟨fez⟩ imagens fundidas ⟨para⟩ ⟨os⟩ Baalins",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "E ele andou"
-    },
-    {
-      "surface": "בדרכי",
-      "english": "⟨nos⟩ caminhos ⟨dos⟩",
-      "marks": "caminhos ⟨dos⟩ reis de Israel"
-    },
-    {
-      "surface": "מלכי",
-      "english": "reis"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "וגם",
-      "english": "e também"
-    },
-    {
-      "surface": "מסכות",
-      "english": "imagens fundidas"
-    },
-    {
-      "surface": "עשה",
-      "english": "⟨fez⟩"
-    },
-    {
-      "surface": "לבעלים",
-      "english": "⟨para⟩ ⟨os⟩ Baalins",
-      "marks": "imagens fundidas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:39:34.443097810Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

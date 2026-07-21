@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 120,
   "ref": "psalms 119:120",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62740,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63207
-  },
+  "verse": 120,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:01:07.658666371Z",
   "translation": "⟨minha⟩ carne tremeu de ⟨pavor⟩ ⟨de⟩ ti, e ⟨de⟩ teus juízos temi",
   "tokens": [
     {
       "surface": "סמר",
-      "english": "Tremeu"
+      "gloss": "Tremeu"
     },
     {
       "surface": "מפחדך",
-      "english": "de ⟨pavor⟩ ⟨de⟩ ti",
+      "gloss": "de ⟨pavor⟩ ⟨de⟩ ti",
       "marks": "ti"
     },
     {
       "surface": "בשרי",
-      "english": "⟨minha⟩ carne"
+      "gloss": "⟨minha⟩ carne"
     },
     {
       "surface": "וממשפטיך",
-      "english": "e ⟨de⟩ teus juízos",
+      "gloss": "e ⟨de⟩ teus juízos",
       "marks": "teus juízos"
     },
     {
       "surface": "יראתי",
-      "english": "temi"
+      "gloss": "temi"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:01:07.658666371Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

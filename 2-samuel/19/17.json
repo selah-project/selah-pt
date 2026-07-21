@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "2-samuel 19:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 19,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:01:33.152804263Z",
+  "translation": "E Shim'i ⟨o⟩ filho de Gera, ⟨o⟩ Benjamita, que ⟨era⟩ de Bachurim, apressou-se e desceu com os homens de Yehudá ao encontro ⟨do⟩ rei Davidd.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Apressou-se"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "E Shim'i"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "גרא",
+      "gloss": "de Gera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Benjamita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que ⟨era⟩"
+    },
+    {
+      "surface": "מבחורים",
+      "gloss": "de Bachurim"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "e desceu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "איש",
+      "gloss": "os homens"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ao encontro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨do⟩ rei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,84 +87,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17935,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18440
-  },
-  "translation": "E Shim'i ⟨o⟩ filho de Gera, ⟨o⟩ Benjamita, que ⟨era⟩ de Bachurim, apressou-se e desceu com os homens de Yehudá ao encontro ⟨do⟩ rei Davidd.",
-  "tokens": [
-    {
-      "surface": "וימהר",
-      "english": "Apressou-se"
-    },
-    {
-      "surface": "שמעי",
-      "english": "E Shim'i"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "גרא",
-      "english": "de Gera"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "הימיני",
-      "english": "Benjamita"
-    },
-    {
-      "surface": "אשר",
-      "english": "que ⟨era⟩"
-    },
-    {
-      "surface": "מבחורים",
-      "english": "de Bachurim"
-    },
-    {
-      "surface": "וירד",
-      "english": "e desceu"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "איש",
-      "english": "os homens"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "לקראת",
-      "english": "ao encontro"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨do⟩ rei"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:01:33.152804263Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

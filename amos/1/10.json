@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "amos 1:10",
   "book": "amos",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 373,
-    "prompt_tokens": 23725,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24098
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:01:14.840835179Z",
   "translation": "e enviarei fogo ⟨contra⟩ a muralha de Tsor, e ela devorará ⟨את⟩ os palácios dela",
   "tokens": [
     {
       "surface": "ושלחתי",
-      "english": "e enviarei"
+      "gloss": "e enviarei"
     },
     {
       "surface": "אש",
-      "english": "fogo"
+      "gloss": "fogo"
     },
     {
       "surface": "בחומת",
-      "english": "⟨contra⟩ a muralha"
+      "gloss": "⟨contra⟩ a muralha"
     },
     {
       "surface": "צר",
-      "english": "de Tsor"
+      "gloss": "de Tsor"
     },
     {
       "surface": "ואכלה",
-      "english": "e ela devorará"
+      "gloss": "e ela devorará"
     },
     {
       "surface": "ארמנתיה",
-      "english": "⟨את⟩ os palácios dela",
+      "gloss": "⟨את⟩ os palácios dela",
       "marks": "os palácios dela"
     }
-  ],
-  "timestamp": "2026-07-16T13:01:14.840835179Z",
-  "model": "glm-4.5"
+  ]
 }

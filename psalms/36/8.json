@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 36:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 36,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:02:54.842553914Z",
+  "translation": "Como ⟨é⟩ preciosa ⟨a⟩ tua Jésed, ó Elohim, e os filhos de Adão ⟨no⟩ abrigo de tuas asas se abrigam.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Como"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "⟨é⟩ preciosa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "⟨a⟩ tua Jésed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ó Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e os filhos"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de Adão"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "⟨no⟩ abrigo"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "de tuas asas"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "se abrigam"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "bondade",
@@ -13,60 +56,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63122,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63558
-  },
-  "translation": "Como ⟨é⟩ preciosa ⟨a⟩ tua Jésed, ó Elohim, e os filhos de Adão ⟨no⟩ abrigo de tuas asas se abrigam.",
-  "tokens": [
-    {
-      "surface": "מה",
-      "english": "Como"
-    },
-    {
-      "surface": "יקר",
-      "english": "⟨é⟩ preciosa"
-    },
-    {
-      "surface": "חסדך",
-      "english": "⟨a⟩ tua Jésed"
-    },
-    {
-      "surface": "אלהים",
-      "english": "ó Elohim"
-    },
-    {
-      "surface": "ובני",
-      "english": "e os filhos"
-    },
-    {
-      "surface": "אדם",
-      "english": "de Adão"
-    },
-    {
-      "surface": "בצל",
-      "english": "⟨no⟩ abrigo"
-    },
-    {
-      "surface": "כנפיך",
-      "english": "de tuas asas"
-    },
-    {
-      "surface": "יחסיון",
-      "english": "se abrigam"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:02:54.842553914Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

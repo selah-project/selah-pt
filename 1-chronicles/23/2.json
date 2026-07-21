@@ -1,9 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 23:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 23,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:57:46.336322660Z",
+  "translation": "e congregou ⟨את⟩ todos os príncipes de Yisrael e ⟨os⟩ sacerdotes e ⟨os⟩ levitas",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "E congregou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "todos os príncipes de Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos os"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "príncipes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "e ⟨os⟩ sacerdotes"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e ⟨os⟩ levitas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,53 +49,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 258,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57126,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 57384
-  },
-  "translation": "e congregou ⟨את⟩ todos os príncipes de Yisrael e ⟨os⟩ sacerdotes e ⟨os⟩ levitas",
-  "tokens": [
-    {
-      "surface": "ויאסף",
-      "english": "E congregou"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "todos os príncipes de Israel"
-    },
-    {
-      "surface": "כל",
-      "english": "todos os"
-    },
-    {
-      "surface": "שרי",
-      "english": "príncipes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "והכהנים",
-      "english": "e ⟨os⟩ sacerdotes"
-    },
-    {
-      "surface": "והלוים",
-      "english": "e ⟨os⟩ levitas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:57:46.336322660Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

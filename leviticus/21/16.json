@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "leviticus 21:16",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 223,
-    "prompt_tokens": 24492,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 24715
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:49:15.861262236Z",
   "translation": "E YHWH falou a Moshé, ⟨para⟩ dizer:",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "E ... falou"
+      "gloss": "E ... falou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ dizer"
+      "gloss": "⟨para⟩ dizer"
     }
-  ],
-  "timestamp": "2026-07-16T16:49:15.861262236Z",
-  "model": "glm-4.5"
+  ]
 }

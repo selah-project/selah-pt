@@ -1,80 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 4:1",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 479,
-    "prompt_tokens": 29492,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29971
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:38:57.438078329Z",
   "translation": "E Adam conheceu ⟨את⟩ Chavah, sua mulher, e ela concebeu e deu à luz ⟨את⟩ Caim, e disse: Adquiri ⟨את⟩ um homem ⟨com⟩ YHWH",
   "tokens": [
     {
       "surface": "והאדם",
-      "english": "E Adam"
+      "gloss": "E Adam"
     },
     {
       "surface": "ידע",
-      "english": "conheceu"
+      "gloss": "conheceu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Chavah"
     },
     {
       "surface": "חוה",
-      "english": "Chavah"
+      "gloss": "Chavah"
     },
     {
       "surface": "אשתו",
-      "english": "sua mulher"
+      "gloss": "sua mulher"
     },
     {
       "surface": "ותהר",
-      "english": "e ela concebeu"
+      "gloss": "e ela concebeu"
     },
     {
       "surface": "ותלד",
-      "english": "e deu à luz"
+      "gloss": "e deu à luz"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Caim"
     },
     {
       "surface": "קין",
-      "english": "Caim"
+      "gloss": "Caim"
     },
     {
       "surface": "ותאמר",
-      "english": "e disse"
+      "gloss": "e disse"
     },
     {
       "surface": "קניתי",
-      "english": "Adquiri"
+      "gloss": "Adquiri"
     },
     {
       "surface": "איש",
-      "english": "um homem"
+      "gloss": "um homem"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "um homem ⟨com⟩ YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T14:38:57.438078329Z",
-  "model": "glm-4.5"
+  ]
 }

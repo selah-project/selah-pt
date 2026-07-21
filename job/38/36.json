@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "job 38:36",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 38,
+  "verse": 36,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:12:27.407470280Z",
+  "translation": "Quem colocou ⟨a⟩ Jojmá nas partes internas ⟨את⟩, ou quem deu ⟨o⟩ Biná à mente ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Quem"
+    },
+    {
+      "surface": "שת",
+      "gloss": "colocou"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "⟨a⟩ sabedoria nas partes internas"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מי",
+      "gloss": "quem"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deu"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": "⟨o⟩ entendimento à mente"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "Biná"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -20,60 +63,6 @@
       "hebrew": "בינה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 38,
-  "usage": {
-    "completion_tokens": 581,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20122,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20703
-  },
-  "translation": "Quem colocou ⟨a⟩ Jojmá nas partes internas ⟨את⟩, ou quem deu ⟨o⟩ Biná à mente ⟨את⟩?",
-  "tokens": [
-    {
-      "surface": "מי",
-      "english": "Quem"
-    },
-    {
-      "surface": "שת",
-      "english": "colocou"
-    },
-    {
-      "surface": "בטחות",
-      "english": "⟨a⟩ sabedoria nas partes internas"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "או",
-      "english": "ou"
-    },
-    {
-      "surface": "מי",
-      "english": "quem"
-    },
-    {
-      "surface": "נתן",
-      "english": "deu"
-    },
-    {
-      "surface": "לשכוי",
-      "english": "⟨o⟩ entendimento à mente"
-    },
-    {
-      "surface": "בינה",
-      "english": "Biná"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:12:27.407470280Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

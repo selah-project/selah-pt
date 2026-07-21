@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "numbers 32:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 32,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:44:33.724260124Z",
+  "translation": "E eis que ⟨vocês⟩ se levantaram em lugar ⟨de⟩ seus pais, uma multiplicação de homens pecadores, para ⟨aumentar⟩ ainda mais a ira ardente ⟨de⟩ YHWH sobre Yisrael",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "E eis que"
+    },
+    {
+      "surface": "קמתם",
+      "gloss": "⟨vocês⟩ se levantaram"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "em lugar ⟨de⟩"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "תרבות",
+      "gloss": "uma multiplicação"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "de homens"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "pecadores"
+    },
+    {
+      "surface": "לספות",
+      "gloss": "para ⟨aumentar⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ainda mais"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "a ira ardente"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 645,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18771,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19416
-  },
-  "translation": "E eis que ⟨vocês⟩ se levantaram em lugar ⟨de⟩ seus pais, uma multiplicação de homens pecadores, para ⟨aumentar⟩ ainda mais a ira ardente ⟨de⟩ YHWH sobre Yisrael",
-  "tokens": [
-    {
-      "surface": "והנה",
-      "english": "E eis que"
-    },
-    {
-      "surface": "קמתם",
-      "english": "⟨vocês⟩ se levantaram"
-    },
-    {
-      "surface": "תחת",
-      "english": "em lugar ⟨de⟩"
-    },
-    {
-      "surface": "אבתיכם",
-      "english": "seus pais"
-    },
-    {
-      "surface": "תרבות",
-      "english": "uma multiplicação"
-    },
-    {
-      "surface": "אנשים",
-      "english": "de homens"
-    },
-    {
-      "surface": "חטאים",
-      "english": "pecadores"
-    },
-    {
-      "surface": "לספות",
-      "english": "para ⟨aumentar⟩"
-    },
-    {
-      "surface": "עוד",
-      "english": "ainda mais"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "חרון",
-      "english": "a ira ardente"
-    },
-    {
-      "surface": "אף",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:44:33.724260124Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

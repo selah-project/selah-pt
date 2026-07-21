@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 3:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62958,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63388
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:41:24.411183062Z",
   "translation": "Eu me deitei e dormi; ⟨eu⟩ despertei, porque YHWH me sustenta.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Eu"
+      "gloss": "Eu"
     },
     {
       "surface": "שכבתי",
-      "english": "me deitei"
+      "gloss": "me deitei"
     },
     {
       "surface": "ואישנה",
-      "english": "e dormi"
+      "gloss": "e dormi"
     },
     {
       "surface": "הקיצותי",
-      "english": "⟨eu⟩ despertei"
+      "gloss": "⟨eu⟩ despertei"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יסמכני",
-      "english": "me sustenta"
+      "gloss": "me sustenta"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:41:24.411183062Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

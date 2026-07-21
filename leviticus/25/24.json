@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "leviticus 25:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 25,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:03:47.540610237Z",
+  "translation": "E em toda ⟨a⟩ terra de vossa possessão, Gueulá concedereis ⟨את⟩ ⟨à⟩ terra.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "E em toda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨a⟩ terra"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "de vossa possessão"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "Gueulá"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "concedereis"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨את⟩ ⟨à⟩ terra",
+      "marks": "a terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "redenção",
@@ -13,49 +45,6 @@
       "hebrew": "גאולה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17302,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 17657
-  },
-  "translation": "E em toda ⟨a⟩ terra de vossa possessão, Gueulá concedereis ⟨את⟩ ⟨à⟩ terra.",
-  "tokens": [
-    {
-      "surface": "ובכל",
-      "english": "E em toda"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨a⟩ terra"
-    },
-    {
-      "surface": "אחזתכם",
-      "english": "de vossa possessão"
-    },
-    {
-      "surface": "גאלה",
-      "english": "Gueulá"
-    },
-    {
-      "surface": "תתנו",
-      "english": "concedereis"
-    },
-    {
-      "surface": "לארץ",
-      "english": "⟨את⟩ ⟨à⟩ terra",
-      "marks": "a terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:03:47.540610237Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

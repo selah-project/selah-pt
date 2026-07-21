@@ -1,9 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 43,
   "ref": "1-kings 20:43",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 20,
+  "verse": 43,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:41:57.728864339Z",
+  "translation": "Então o rei de Yisrael foi ⟨para⟩ ⟨a⟩ casa de si mesmo ⟨irritado⟩ e ⟨irado⟩, e chegou ⟨a⟩ Shomeron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Então ... foi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨a⟩ casa de si mesmo",
+      "marks": "a casa de si mesmo"
+    },
+    {
+      "surface": "סר",
+      "gloss": "⟨irritado⟩"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "e ⟨irrado⟩"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e chegou"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "⟨a⟩ Shomeron",
+      "marks": "Shomeron"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,62 +58,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 677,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62394,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63071
-  },
-  "translation": "Então o rei de Yisrael foi ⟨para⟩ ⟨a⟩ casa de si mesmo ⟨irritado⟩ e ⟨irado⟩, e chegou ⟨a⟩ Shomeron.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "Então ... foi"
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "על",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "ביתו",
-      "english": "⟨a⟩ casa de si mesmo",
-      "marks": "a casa de si mesmo"
-    },
-    {
-      "surface": "סר",
-      "english": "⟨irritado⟩"
-    },
-    {
-      "surface": "וזעף",
-      "english": "e ⟨irrado⟩"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e chegou"
-    },
-    {
-      "surface": "שמרונה",
-      "english": "⟨a⟩ Shomeron",
-      "marks": "Shomeron"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:41:57.728864339Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

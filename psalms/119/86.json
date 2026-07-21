@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 86,
   "ref": "psalms 119:86",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 119,
+  "verse": 86,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:00:28.596320359Z",
+  "translation": "Todos os teus Mitzvás são ⟨em⟩ fidelidade; com falsidade me perseguem, socorre-me.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Todos"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "os teus Mitzvás"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "são ⟨em⟩ fidelidade"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "com falsidade"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "me perseguem"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "socorre-me"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamento",
@@ -13,48 +44,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 119,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62796,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63180
-  },
-  "translation": "Todos os teus Mitzvás são ⟨em⟩ fidelidade; com falsidade me perseguem, socorre-me.",
-  "tokens": [
-    {
-      "surface": "כל",
-      "english": "Todos"
-    },
-    {
-      "surface": "מצותיך",
-      "english": "os teus Mitzvás"
-    },
-    {
-      "surface": "אמונה",
-      "english": "são ⟨em⟩ fidelidade"
-    },
-    {
-      "surface": "שקר",
-      "english": "com falsidade"
-    },
-    {
-      "surface": "רדפוני",
-      "english": "me perseguem"
-    },
-    {
-      "surface": "עזרני",
-      "english": "socorre-me"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:00:28.596320359Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

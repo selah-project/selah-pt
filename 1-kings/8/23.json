@@ -1,9 +1,98 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "1-kings 8:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 8,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:21:37.549163581Z",
+  "translation": "E ⟨o⟩ disse: YHWH Elohim de Yisrael, ⟨não⟩ há ⟨como⟩ ti, Elohim nos ⟨céus⟩ ⟨acima⟩ e ⟨sobre⟩ ⟨a⟩ terra ⟨abaixo⟩, guardando ⟨a⟩ brit ⟨e⟩ ⟨o⟩ hesed ⟨para⟩ teus servos, os que caminham ⟨diante⟩ de ti com ⟨todo⟩ ⟨o⟩ coração deles.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ⟨o⟩ disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨não⟩ há"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "⟨como⟩ ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nos ⟨céus⟩"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "⟨acima⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "⟨e⟩ ⟨sobre⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ terra"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "⟨abaixo⟩"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "guardando"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "⟨a⟩ brit",
+      "marks": "a brit"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "⟨e⟩ ⟨o⟩ hesed",
+      "marks": "o hesed"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "⟨para⟩ teus servos"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "os que caminham"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "⟨diante⟩ de ti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "com ⟨todo⟩ ⟨o⟩"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "coração deles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,106 +102,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 841,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63505,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 64346
-  },
-  "translation": "E ⟨o⟩ disse: YHWH Elohim de Yisrael, ⟨não⟩ há ⟨como⟩ ti, Elohim nos ⟨céus⟩ ⟨acima⟩ e ⟨sobre⟩ ⟨a⟩ terra ⟨abaixo⟩, guardando ⟨a⟩ brit ⟨e⟩ ⟨o⟩ hesed ⟨para⟩ teus servos, os que caminham ⟨diante⟩ de ti com ⟨todo⟩ ⟨o⟩ coração deles.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ⟨o⟩ disse"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אין",
-      "english": "⟨não⟩ há"
-    },
-    {
-      "surface": "כמוך",
-      "english": "⟨como⟩ ti"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "בשמים",
-      "english": "nos ⟨céus⟩"
-    },
-    {
-      "surface": "ממעל",
-      "english": "⟨acima⟩"
-    },
-    {
-      "surface": "ועל",
-      "english": "⟨e⟩ ⟨sobre⟩"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨a⟩ terra"
-    },
-    {
-      "surface": "מתחת",
-      "english": "⟨abaixo⟩"
-    },
-    {
-      "surface": "שמר",
-      "english": "guardando"
-    },
-    {
-      "surface": "הברית",
-      "english": "⟨a⟩ brit",
-      "marks": "a brit"
-    },
-    {
-      "surface": "והחסד",
-      "english": "⟨e⟩ ⟨o⟩ hesed",
-      "marks": "o hesed"
-    },
-    {
-      "surface": "לעבדיך",
-      "english": "⟨para⟩ teus servos"
-    },
-    {
-      "surface": "ההלכים",
-      "english": "os que caminham"
-    },
-    {
-      "surface": "לפניך",
-      "english": "⟨diante⟩ de ti"
-    },
-    {
-      "surface": "בכל",
-      "english": "com ⟨todo⟩ ⟨o⟩"
-    },
-    {
-      "surface": "לבם",
-      "english": "coração deles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:21:37.549163581Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

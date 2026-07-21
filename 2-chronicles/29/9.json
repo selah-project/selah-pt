@@ -1,78 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-chronicles 29:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 808,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58318,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59126
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:41:50.852047378Z",
   "translation": "Porque ⟨eis⟩ que nossos pais caíram ⟨pela⟩ espada e nossos filhos e nossas filhas e nossas mulheres ⟨estão⟩ em cativeio por causa ⟨desta⟩",
   "tokens": [
     {
       "surface": "והנה",
-      "english": "Porque ⟨eis⟩ que",
+      "gloss": "Porque ⟨eis⟩ que",
       "rationale": "Interjeição de atenção; ⟨eis⟩ marca a tradução da partícula hebraica"
     },
     {
       "surface": "נפלו",
-      "english": "caíram",
+      "gloss": "caíram",
       "rationale": "Verbo no plural perfeito; indica ação completa no passado"
     },
     {
       "surface": "אבותינו",
-      "english": "nossos pais",
+      "gloss": "nossos pais",
       "rationale": "Possessivo plural, 'pais de nós'"
     },
     {
       "surface": "בחרב",
-      "english": "⟨pela⟩ espada",
+      "gloss": "⟨pela⟩ espada",
       "rationale": "Preposição ב ('em, com, por') com בית ('em'); requerida em português"
     },
     {
       "surface": "ובנינו",
-      "english": "e nossos filhos",
+      "gloss": "e nossos filhos",
       "rationale": "Conjunção ו ('e') + possessivo plural"
     },
     {
       "surface": "ובנותינו",
-      "english": "e nossas filhas",
+      "gloss": "e nossas filhas",
       "rationale": "Conjunção ו ('e') + possessivo plural feminino"
     },
     {
       "surface": "ונשינו",
-      "english": "e nossas mulheres",
+      "gloss": "e nossas mulheres",
       "rationale": "Conjunção ו ('e') + possessivo plural de 'mulheres'"
     },
     {
       "surface": "בשבי",
-      "english": "⟨estão⟩ em cativeiro",
+      "gloss": "⟨estão⟩ em cativeiro",
       "rationale": "Preposição ב ('em') + estado; ⟨estão⟩ acrescentada para concordância verbal em português"
     },
     {
       "surface": "על",
-      "english": "por causa ⟨de⟩",
+      "gloss": "por causa ⟨de⟩",
       "rationale": "Preposição hebraica על com sentido causal; exige preposição em português"
     },
     {
       "surface": "זאת",
-      "english": "⟨desta⟩",
+      "gloss": "⟨desta⟩",
       "rationale": "Pronome demonstrativo feminino 'esta'; ⟨desta⟩ para concordância com causa implícita"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:41:50.852047378Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

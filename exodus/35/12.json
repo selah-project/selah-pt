@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 35:12",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 732,
-    "prompt_tokens": 24645,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25377
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:03:10.985433259Z",
   "translation": "⟨את⟩ o Aron e ⟨את⟩ os seus badim ⟨את⟩ a Kapporet e ⟨את⟩ o parochet ⟨do⟩ Mishkán",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o Aron"
     },
     {
       "surface": "הארן",
-      "english": "o Aron"
+      "gloss": "o Aron"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "os seus badim"
     },
     {
       "surface": "בדיו",
-      "english": "os seus badim"
+      "gloss": "os seus badim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Kapporet"
     },
     {
       "surface": "הכפרת",
-      "english": "a Kapporet"
+      "gloss": "a Kapporet"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o parochet"
     },
     {
       "surface": "פרכת",
-      "english": "o parochet"
+      "gloss": "o parochet"
     },
     {
       "surface": "המסך",
-      "english": "⟨do⟩ Mishkán"
+      "gloss": "⟨do⟩ Mishkán"
     }
-  ],
-  "timestamp": "2026-07-16T14:03:10.985433259Z",
-  "model": "glm-4.5"
+  ]
 }

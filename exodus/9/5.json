@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "exodus 9:5",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 531,
-    "prompt_tokens": 24473,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25004
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:47:01.736114296Z",
   "translation": "E YHWH designou ⟨um⟩ tempo designado, dizendo: Amanhã YHWH fará ⟨esta⟩ palavra na terra.",
   "tokens": [
     {
       "surface": "וישם",
-      "english": "E YHWH designou"
+      "gloss": "E YHWH designou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מועד",
-      "english": "⟨um⟩ tempo designado"
+      "gloss": "⟨um⟩ tempo designado"
     },
     {
       "surface": "לאמר",
-      "english": "dizendo:"
+      "gloss": "dizendo:"
     },
     {
       "surface": "מחר",
-      "english": "Amanhã"
+      "gloss": "Amanhã"
     },
     {
       "surface": "יעשה",
-      "english": "fará"
+      "gloss": "fará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הדבר",
-      "english": "⟨esta⟩ palavra"
+      "gloss": "⟨esta⟩ palavra"
     },
     {
       "surface": "הזה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "בארץ",
-      "english": "na terra"
+      "gloss": "na terra"
     }
-  ],
-  "timestamp": "2026-07-16T13:47:01.736114296Z",
-  "model": "glm-4.5"
+  ]
 }

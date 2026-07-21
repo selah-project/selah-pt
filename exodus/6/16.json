@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 6:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 6,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:41:42.107477420Z",
+  "translation": "E estes ⟨são⟩ ⟨os⟩ nomes dos filhos de Leví, segundo ⟨as⟩ suas gerações: Gérson, e Coate, e Merári; e ⟨os⟩ anos da vida de Leví ⟨foram⟩ cento e trinta e sete anos.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E estes"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "⟨os⟩ nomes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "de Leví"
+    },
+    {
+      "surface": "לתלדתם",
+      "gloss": ", segundo ⟨as⟩ suas gerações"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": ": Gérson"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": ", e Coate"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": ", e Merári"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "; e ⟨os⟩"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "anos da vida"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "de Leví"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "cento e trinta e"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "sete"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "e ⟨os⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Levi",
@@ -20,84 +87,6 @@
       "hebrew": "לוי"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17604,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18130
-  },
-  "translation": "E estes ⟨são⟩ ⟨os⟩ nomes dos filhos de Leví, segundo ⟨as⟩ suas gerações: Gérson, e Coate, e Merári; e ⟨os⟩ anos da vida de Leví ⟨foram⟩ cento e trinta e sete anos.",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E estes"
-    },
-    {
-      "surface": "שמות",
-      "english": "⟨os⟩ nomes"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "לוי",
-      "english": "de Leví"
-    },
-    {
-      "surface": "לתלדתם",
-      "english": ", segundo ⟨as⟩ suas gerações"
-    },
-    {
-      "surface": "גרשון",
-      "english": ": Gérson"
-    },
-    {
-      "surface": "וקהת",
-      "english": ", e Coate"
-    },
-    {
-      "surface": "ומררי",
-      "english": ", e Merári"
-    },
-    {
-      "surface": "ושני",
-      "english": "; e ⟨os⟩"
-    },
-    {
-      "surface": "חיי",
-      "english": "anos da vida"
-    },
-    {
-      "surface": "לוי",
-      "english": "de Leví"
-    },
-    {
-      "surface": "שבע",
-      "english": "cento e trinta e"
-    },
-    {
-      "surface": "ושלשים",
-      "english": "sete"
-    },
-    {
-      "surface": "ומאת",
-      "english": "e ⟨os⟩"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:41:42.107477420Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

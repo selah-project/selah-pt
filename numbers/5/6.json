@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "numbers 5:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 5,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:13:24.036143215Z",
+  "translation": "Fala aos filhos de Yisrael: homem ou mulher, quando cometer qualquer ⟨é⟩ transgressão ⟨que⟩ os homens cometem ⟨por⟩ agir traiçoeiramente ⟨contra⟩ YHWH, e ⟨a⟩ alma ⟨desta⟩ ⟨for⟩ culpada",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Fala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homem"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mulher"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "cometer"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "qualquer"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "⟨é⟩ transgressão"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨que⟩ os homens"
+    },
+    {
+      "surface": "למעל",
+      "gloss": "cometem ⟨por⟩"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "agir traiçoeiramente"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "⟨contra⟩ YHWH"
+    },
+    {
+      "surface": "ואשמה",
+      "gloss": "e ⟨a⟩ alma"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨desta⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨for⟩ culpada"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,96 +92,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 751,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18858,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 19609
-  },
-  "translation": "Fala aos filhos de Yisrael: homem ou mulher, quando cometer qualquer ⟨é⟩ transgressão ⟨que⟩ os homens cometem ⟨por⟩ agir traiçoeiramente ⟨contra⟩ YHWH, e ⟨a⟩ alma ⟨desta⟩ ⟨for⟩ culpada",
-  "tokens": [
-    {
-      "surface": "דבר",
-      "english": "Fala"
-    },
-    {
-      "surface": "אל",
-      "english": "aos"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "איש",
-      "english": "homem"
-    },
-    {
-      "surface": "או",
-      "english": "ou"
-    },
-    {
-      "surface": "אשה",
-      "english": "mulher"
-    },
-    {
-      "surface": "כי",
-      "english": "quando"
-    },
-    {
-      "surface": "יעשו",
-      "english": "cometer"
-    },
-    {
-      "surface": "מכל",
-      "english": "qualquer"
-    },
-    {
-      "surface": "חטאת",
-      "english": "⟨é⟩ transgressão"
-    },
-    {
-      "surface": "האדם",
-      "english": "⟨que⟩ os homens"
-    },
-    {
-      "surface": "למעל",
-      "english": "cometem ⟨por⟩"
-    },
-    {
-      "surface": "מעל",
-      "english": "agir traiçoeiramente"
-    },
-    {
-      "surface": "ביהוה",
-      "english": "⟨contra⟩ YHWH"
-    },
-    {
-      "surface": "ואשמה",
-      "english": "e ⟨a⟩ alma"
-    },
-    {
-      "surface": "הנפש",
-      "english": "⟨desta⟩"
-    },
-    {
-      "surface": "ההוא",
-      "english": "⟨for⟩ culpada"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:13:24.036143215Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

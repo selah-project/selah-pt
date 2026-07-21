@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-kings 2:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 2,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:11:07.700576347Z",
+  "translation": "E Shlomó sentou-se ⟨sobre⟩ o trono de Davidd, seu pai, e seu reino ⟨foi⟩ estabelecido ⟨com⟩ grande ⟨vigor⟩.",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "E Shlomó"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sentou-se"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩",
+      "marks": "o trono"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "o trono"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "⟨foi⟩ estabelecido"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "seu reino"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨com⟩ grande ⟨vigor⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,61 +57,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62445,
-    "prompt_tokens_details": {
-      "cached_tokens": 61312
-    },
-    "total_tokens": 62826
-  },
-  "translation": "E Shlomó sentou-se ⟨sobre⟩ o trono de Davidd, seu pai, e seu reino ⟨foi⟩ estabelecido ⟨com⟩ grande ⟨vigor⟩.",
-  "tokens": [
-    {
-      "surface": "ושלמה",
-      "english": "E Shlomó"
-    },
-    {
-      "surface": "ישב",
-      "english": "sentou-se"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩",
-      "marks": "o trono"
-    },
-    {
-      "surface": "כסא",
-      "english": "o trono"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    },
-    {
-      "surface": "ותכן",
-      "english": "⟨foi⟩ estabelecido"
-    },
-    {
-      "surface": "מלכתו",
-      "english": "seu reino"
-    },
-    {
-      "surface": "מאד",
-      "english": "⟨com⟩ grande ⟨vigor⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:11:07.700576347Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

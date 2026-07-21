@@ -1,9 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "job 29:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 29,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:04:33.081023280Z",
+  "translation": "E Iyov ⟨continuou⟩ ⟨levando⟩ ⟨את⟩ a ⟨sua⟩ parábola, e disse:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "E Jó ⟨continuou⟩"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "⟨levando⟩"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "⟨a⟩ ⟨sua⟩ parábola",
+      "marks": "a sua parábola"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jó",
@@ -13,45 +41,6 @@
       "hebrew": "איוב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19760,
-    "prompt_tokens_details": {
-      "cached_tokens": 19084
-    },
-    "total_tokens": 20151
-  },
-  "translation": "E Iyov ⟨continuou⟩ ⟨levando⟩ ⟨את⟩ a ⟨sua⟩ parábola, e disse:",
-  "tokens": [
-    {
-      "surface": "ויסף",
-      "english": "E Jó ⟨continuou⟩"
-    },
-    {
-      "surface": "איוב",
-      "english": "Iyov"
-    },
-    {
-      "surface": "שאת",
-      "english": "⟨levando⟩"
-    },
-    {
-      "surface": "משלו",
-      "english": "⟨a⟩ ⟨sua⟩ parábola",
-      "marks": "a sua parábola"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:04:33.081023280Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

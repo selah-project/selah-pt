@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-samuel 31:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 31,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:42:39.970440878Z",
+  "translation": "E os filisteus lutaram contra ⟨o⟩ Yisrael e ⟨os⟩ homens de Yisrael fugiram da presença dos filisteus e caíram ⟨como⟩ feridos no monte Gilboa",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "E os filisteus"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "lutaram"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "contra ⟨o⟩ Israel"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "e ⟨os⟩ homens de Israel fugiram"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "⟨os⟩ homens de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "da presença de"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "os filisteus"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "e caíram ⟨como⟩"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "feridos"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "no monte"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16889,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 17435
-  },
-  "translation": "E os filisteus lutaram contra ⟨o⟩ Yisrael e ⟨os⟩ homens de Yisrael fugiram da presença dos filisteus e caíram ⟨como⟩ feridos no monte Gilboa",
-  "tokens": [
-    {
-      "surface": "ופלשתים",
-      "english": "E os filisteus"
-    },
-    {
-      "surface": "נלחמים",
-      "english": "lutaram"
-    },
-    {
-      "surface": "בישראל",
-      "english": "contra ⟨o⟩ Israel"
-    },
-    {
-      "surface": "וינסו",
-      "english": "e ⟨os⟩ homens de Israel fugiram"
-    },
-    {
-      "surface": "אנשי",
-      "english": "⟨os⟩ homens de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מפני",
-      "english": "da presença de"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "os filisteus"
-    },
-    {
-      "surface": "ויפלו",
-      "english": "e caíram ⟨como⟩"
-    },
-    {
-      "surface": "חללים",
-      "english": "feridos"
-    },
-    {
-      "surface": "בהר",
-      "english": "no monte"
-    },
-    {
-      "surface": "הגלבע",
-      "english": "Gilboa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:42:39.970440878Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 3:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 314,
-    "prompt_tokens": 70291,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70605
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:33:55.375217125Z",
   "translation": "YHWH, como são numerosos ⟨os⟩ meus adversários! Muitos se levantam contra mim.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מה",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "רבו",
-      "english": "são numerosos"
+      "gloss": "são numerosos"
     },
     {
       "surface": "צרי",
-      "english": "⟨os⟩ meus adversários"
+      "gloss": "⟨os⟩ meus adversários"
     },
     {
       "surface": "רבים",
-      "english": "Muitos"
+      "gloss": "Muitos"
     },
     {
       "surface": "קמים",
-      "english": "se levantam"
+      "gloss": "se levantam"
     },
     {
       "surface": "עלי",
-      "english": "contra mim"
+      "gloss": "contra mim"
     }
-  ],
-  "timestamp": "2026-07-16T17:33:55.375217125Z",
-  "model": "glm-4.5"
+  ]
 }

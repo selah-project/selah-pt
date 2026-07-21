@@ -1,9 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "nehemiah 7:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 7,
+  "verse": 33,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:21:25.374124685Z",
+  "translation": "Os homens ⟨do⟩ outro Nevo, cinquenta e dois.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Os homens"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "outro",
+      "marks": "Nebo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquenta"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "e dois"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nebo",
@@ -13,45 +41,6 @@
       "hebrew": "נבו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 211,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 49202,
-    "prompt_tokens_details": {
-      "cached_tokens": 48509
-    },
-    "total_tokens": 49413
-  },
-  "translation": "Os homens ⟨do⟩ outro Nevo, cinquenta e dois.",
-  "tokens": [
-    {
-      "surface": "אנשי",
-      "english": "Os homens"
-    },
-    {
-      "surface": "נבו",
-      "english": "Nevo"
-    },
-    {
-      "surface": "אחר",
-      "english": "outro",
-      "marks": "Nebo"
-    },
-    {
-      "surface": "חמשים",
-      "english": "cinquenta"
-    },
-    {
-      "surface": "ושנים",
-      "english": "e dois"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:21:25.374124685Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

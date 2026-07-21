@@ -1,99 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "exodus 20:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 893,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17042,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17935
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:05:20.169062872Z",
   "translation": "E não subirás ⟨por⟩ degraus ⟨até⟩ ⟨o⟩ ⟨meu⟩ altar, ⟨para que⟩ não se descubra tua nudez ⟨sobre⟩ ele",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "E não",
+      "gloss": "E não",
       "lemma": "c\/3808",
       "gv": 37,
       "freq": 1596
     },
     {
       "surface": "תעלה",
-      "english": "subirás",
+      "gloss": "subirás",
       "lemma": "5927",
       "gv": 505,
       "freq": 18
     },
     {
       "surface": "במעלת",
-      "english": "⟨por⟩ degraus",
+      "gloss": "⟨por⟩ degraus",
       "lemma": "b\/4609 b",
       "gv": 542,
       "freq": 1
     },
     {
       "surface": "על",
-      "english": "⟨até⟩",
+      "gloss": "⟨até⟩",
       "lemma": "5921 a",
       "gv": 100,
       "freq": 3567
     },
     {
       "surface": "מזבחי",
-      "english": "⟨o⟩ ⟨meu⟩ altar",
+      "gloss": "⟨o⟩ ⟨meu⟩ altar",
+      "marks": "meu altar",
       "lemma": "4196",
       "gv": 67,
-      "freq": 13,
-      "marks": "meu altar"
+      "freq": 13
     },
     {
       "surface": "אשר",
-      "english": "⟨para que⟩",
+      "gloss": "⟨para que⟩",
       "lemma": "834 a",
       "gv": 501,
       "freq": 4837
     },
     {
       "surface": "לא",
-      "english": "não",
+      "gloss": "não",
       "lemma": "3808",
       "gv": 31,
       "freq": 3321
     },
     {
       "surface": "תגלה",
-      "english": "se descubra",
+      "gloss": "se descubra",
       "lemma": "1540",
       "gv": 438,
       "freq": 17
     },
     {
       "surface": "ערותך",
-      "english": "tua nudez",
+      "gloss": "tua nudez",
       "lemma": "6172",
       "gv": 696,
       "freq": 7
     },
     {
       "surface": "עליו",
-      "english": "⟨sobre⟩ ele",
+      "gloss": "⟨sobre⟩ ele",
       "lemma": "5921 a",
       "gv": 116,
       "freq": 403
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:05:20.169062872Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

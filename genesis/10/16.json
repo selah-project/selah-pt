@@ -1,48 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 10:16",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 375,
-    "prompt_tokens": 28758,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29133
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:42:34.302033765Z",
   "translation": "e ⟨את⟩ o jebuseu e ⟨את⟩ o emori e ⟨את⟩ o girgashi",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o jebuseu"
     },
     {
       "surface": "היבוסי",
-      "english": "o jebuseu"
+      "gloss": "o jebuseu"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o emori"
     },
     {
       "surface": "האמרי",
-      "english": "o emori"
+      "gloss": "o emori"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o girgashi"
     },
     {
       "surface": "הגרגשי",
-      "english": "o girgashi"
+      "gloss": "o girgashi"
     }
-  ],
-  "timestamp": "2026-07-16T14:42:34.302033765Z",
-  "model": "glm-4.5"
+  ]
 }

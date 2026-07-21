@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "numbers 20:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 20,
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:31:40.138449711Z",
+  "translation": "E Moshé fez conforme ⟨את⟩ YHWH havia ordenado, e eles subiram ao monte Hor, perante os olhos de toda ⟨את⟩ congregação.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E Mosheh fez"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "conforme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havia ordenado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "e eles subiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "perante os olhos de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "congregação",
+      "marks": "congregação"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,73 +69,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18279,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18793
-  },
-  "translation": "E Moshé fez conforme ⟨את⟩ YHWH havia ordenado, e eles subiram ao monte Hor, perante os olhos de toda ⟨את⟩ congregação.",
-  "tokens": [
-    {
-      "surface": "ויעש",
-      "english": "E Mosheh fez"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "כאשר",
-      "english": "conforme"
-    },
-    {
-      "surface": "צוה",
-      "english": "havia ordenado"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "ויעלו",
-      "english": "e eles subiram"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "הר",
-      "english": "monte"
-    },
-    {
-      "surface": "ההר",
-      "english": "Hor"
-    },
-    {
-      "surface": "לעיני",
-      "english": "perante os olhos de"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "העדה",
-      "english": "congregação",
-      "marks": "congregação"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:31:40.138449711Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

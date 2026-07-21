@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "lamentations 5:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "lamentations",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 31873,
-    "prompt_tokens_details": {
-      "cached_tokens": 31099
-    },
-    "total_tokens": 32263
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:28:25.156826313Z",
   "translation": "Servos têm governado ⟨sobre⟩ nós; não há ⟨um⟩ resgate da mão ⟨deles⟩",
   "tokens": [
     {
       "surface": "עבדים",
-      "english": "Servos"
+      "gloss": "Servos"
     },
     {
       "surface": "משלו",
-      "english": "têm governado"
+      "gloss": "têm governado"
     },
     {
       "surface": "בנו",
-      "english": "⟨sobre⟩ nós",
+      "gloss": "⟨sobre⟩ nós",
       "marks": "nós"
     },
     {
       "surface": "פרק",
-      "english": "não há ⟨um⟩ resgate",
+      "gloss": "não há ⟨um⟩ resgate",
       "rationale": "פרק pode significar 'quebrar' ou 'resgatar\/libertar' - contexto de escravidão exige o segundo sentido"
     },
     {
       "surface": "אין",
-      "english": "não há"
+      "gloss": "não há"
     },
     {
       "surface": "מידם",
-      "english": "da mão ⟨deles⟩",
+      "gloss": "da mão ⟨deles⟩",
       "marks": "da mão deles"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:28:25.156826313Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

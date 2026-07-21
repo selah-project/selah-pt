@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "2-kings 21:23",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 415,
-    "prompt_tokens": 24328,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24743
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:42:38.049448596Z",
   "translation": "E conspiraram ⟨os⟩ servos de Amon contra ele, e mataram ⟨את⟩ o rei em sua casa",
   "tokens": [
     {
       "surface": "ויקשרו",
-      "english": "E conspiraram"
+      "gloss": "E conspiraram"
     },
     {
       "surface": "עבדי",
-      "english": "⟨os⟩ servos"
+      "gloss": "⟨os⟩ servos"
     },
     {
       "surface": "אמון",
-      "english": "de Amon"
+      "gloss": "de Amon"
     },
     {
       "surface": "עליו",
-      "english": "contra ele"
+      "gloss": "contra ele"
     },
     {
       "surface": "וימיתו",
-      "english": "e mataram"
+      "gloss": "e mataram"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o rei"
     },
     {
       "surface": "המלך",
-      "english": "o rei"
+      "gloss": "o rei"
     },
     {
       "surface": "בביתו",
-      "english": "em sua casa"
+      "gloss": "em sua casa"
     }
-  ],
-  "timestamp": "2026-07-16T12:42:38.049448596Z",
-  "model": "glm-4.5"
+  ]
 }

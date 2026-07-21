@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 51:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62837,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63334
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:13:14.928760375Z",
   "translation": "Ensina, ⟨o⟩ transgressor ⟨os⟩ teus caminhos e ⟨os⟩ pecadores ⟨a⟩ ti se voltarão",
   "tokens": [
     {
       "surface": "אלמדה",
-      "english": "Ensina"
+      "gloss": "Ensina"
     },
     {
       "surface": "פשעים",
-      "english": "⟨o⟩ transgressor"
+      "gloss": "⟨o⟩ transgressor"
     },
     {
       "surface": "דרכיך",
-      "english": "⟨os⟩ teus caminhos"
+      "gloss": "⟨os⟩ teus caminhos"
     },
     {
       "surface": "וחטאים",
-      "english": "e ⟨os⟩ pecadores"
+      "gloss": "e ⟨os⟩ pecadores"
     },
     {
       "surface": "אליך",
-      "english": "⟨a⟩ ti"
+      "gloss": "⟨a⟩ ti"
     },
     {
       "surface": "ישובו",
-      "english": "se voltarão"
+      "gloss": "se voltarão"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:13:14.928760375Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

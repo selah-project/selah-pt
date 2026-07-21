@@ -1,68 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "leviticus 8:8",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 457,
-    "prompt_tokens": 25334,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25791
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:39:09.666237834Z",
   "translation": "e pôs ⟨sobre⟩ ele ⟨את⟩ o peitoral, e pôs no peitoral ⟨את⟩ o Urim e ⟨את⟩ o Tummim",
   "tokens": [
     {
       "surface": "וישם",
-      "english": "e pôs"
+      "gloss": "e pôs"
     },
     {
       "surface": "עליו",
-      "english": "⟨sobre⟩ ele"
+      "gloss": "⟨sobre⟩ ele"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o peitoral"
     },
     {
       "surface": "החשן",
-      "english": "o peitoral"
+      "gloss": "o peitoral"
     },
     {
       "surface": "ויתן",
-      "english": "e pôs"
+      "gloss": "e pôs"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "החשן",
-      "english": "peitoral"
+      "gloss": "peitoral"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o Urim"
     },
     {
       "surface": "האורים",
-      "english": "o Urim"
+      "gloss": "o Urim"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o Tummim"
     },
     {
       "surface": "התמים",
-      "english": "o Tummim"
+      "gloss": "o Tummim"
     }
-  ],
-  "timestamp": "2026-07-16T16:39:09.666237834Z",
-  "model": "glm-4.5"
+  ]
 }

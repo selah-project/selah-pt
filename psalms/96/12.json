@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 96:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63135,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63671
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:43:34.540005019Z",
   "translation": "⟨O⟩ campo exultará, e ⟨o⟩ que ⟨está⟩ nele: então cantarão de júbilo ⟨o⟩s árvores da floresta",
   "tokens": [
     {
       "surface": "יעלז",
-      "english": "Exultará"
+      "gloss": "Exultará"
     },
     {
       "surface": "שדי",
-      "english": "⟨O⟩ campo"
+      "gloss": "⟨O⟩ campo"
     },
     {
       "surface": "וכל",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "אשר",
-      "english": "⟨o⟩ que ⟨está⟩"
+      "gloss": "⟨o⟩ que ⟨está⟩"
     },
     {
       "surface": "בו",
-      "english": "nele"
+      "gloss": "nele"
     },
     {
       "surface": "אז",
-      "english": "então"
+      "gloss": "então"
     },
     {
       "surface": "ירננו",
-      "english": "cantarão de júbilo"
+      "gloss": "cantarão de júbilo"
     },
     {
       "surface": "כל",
-      "english": "⟨o⟩s"
+      "gloss": "⟨o⟩s"
     },
     {
       "surface": "עצי",
-      "english": "árvores"
+      "gloss": "árvores"
     },
     {
       "surface": "יער",
-      "english": "da floresta"
+      "gloss": "da floresta"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:43:34.540005019Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

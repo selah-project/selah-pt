@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 9:10",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 506,
-    "prompt_tokens": 26835,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 27341
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:10:49.348729227Z",
   "translation": "YHWH ⟨את⟩ adversários de Retzin levantará contra ele, e ⟨את⟩ seus inimigos juntará",
   "tokens": [
     {
       "surface": "וישגב",
-      "english": "levantará"
+      "gloss": "levantará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "adversários de Retzin"
     },
     {
       "surface": "צרי",
-      "english": "adversários"
+      "gloss": "adversários"
     },
     {
       "surface": "רצין",
-      "english": "de Retzin"
+      "gloss": "de Retzin"
     },
     {
       "surface": "עליו",
-      "english": "contra ele"
+      "gloss": "contra ele"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "seus inimigos"
     },
     {
       "surface": "איביו",
-      "english": "seus inimigos"
+      "gloss": "seus inimigos"
     },
     {
       "surface": "יסכסך",
-      "english": "juntará"
+      "gloss": "juntará"
     }
-  ],
-  "timestamp": "2026-07-16T15:10:49.348729227Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,43 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-chronicles 14:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 251,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56649,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 56900
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:48:24.643868791Z",
   "translation": "e Ibar ⟨e⟩ Elisuá ⟨e⟩ Eliflete",
   "tokens": [
     {
       "surface": "ויבחר",
-      "english": "E Ibar",
+      "gloss": "E Ibar",
       "marks": null
     },
     {
       "surface": "ואלישוע",
-      "english": "⟨e⟩ Elisuá",
+      "gloss": "⟨e⟩ Elisuá",
       "marks": "Eliflete"
     },
     {
       "surface": "ואלפלט",
-      "english": "⟨e⟩ Eliflete",
+      "gloss": "⟨e⟩ Eliflete",
       "marks": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:48:24.643868791Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

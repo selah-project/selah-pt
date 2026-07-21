@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "job 34:26",
   "book": "job",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 388,
-    "prompt_tokens": 27274,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27662
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:01:14.797946897Z",
   "translation": "Ele ⟨os⟩ fere como ímpios no lugar de ⟨que os⟩ veem",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "רשעים",
-      "english": "ímpios"
+      "gloss": "ímpios"
     },
     {
       "surface": "ספקם",
-      "english": "⟨os⟩ fere",
+      "gloss": "⟨os⟩ fere",
       "marks": "ímpios"
     },
     {
       "surface": "במקום",
-      "english": "no lugar"
+      "gloss": "no lugar"
     },
     {
       "surface": "ראים",
-      "english": "de ⟨que os⟩ veem"
+      "gloss": "de ⟨que os⟩ veem"
     }
-  ],
-  "timestamp": "2026-07-16T16:01:14.797946897Z",
-  "model": "glm-4.5"
+  ]
 }

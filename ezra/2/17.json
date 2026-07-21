@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "ezra 2:17",
   "book": "ezra",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 175,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51959,
-    "prompt_tokens_details": {
-      "cached_tokens": 51185
-    },
-    "total_tokens": 52134
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:58:36.519280730Z",
   "translation": "Os filhos de Betsai: trezentos e vinte e três",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Os filhos"
+      "gloss": "Os filhos"
     },
     {
       "surface": "בצי",
-      "english": "de Betsai"
+      "gloss": "de Betsai"
     },
     {
       "surface": "שלש",
-      "english": "trezentos"
+      "gloss": "trezentos"
     },
     {
       "surface": "מאות",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "עשרים",
-      "english": "vinte"
+      "gloss": "vinte"
     },
     {
       "surface": "ושלשה",
-      "english": "e três"
+      "gloss": "e três"
     }
-  ],
-  "timestamp": "2026-06-14T04:58:36.519280730Z",
-  "model": "glm-4.5"
+  ]
 }

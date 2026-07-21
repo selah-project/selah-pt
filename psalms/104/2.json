@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 104:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 318,
-    "prompt_tokens": 70260,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70578
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:37.138030245Z",
   "translation": "quem se cobre com luz como ⟨um⟩ manto, quem estende os céus como uma cortina",
   "tokens": [
     {
       "surface": "עטה",
-      "english": "quem se cobre"
+      "gloss": "quem se cobre"
     },
     {
       "surface": "אור",
-      "english": "com luz"
+      "gloss": "com luz"
     },
     {
       "surface": "כשלמה",
-      "english": "como ⟨um⟩ manto"
+      "gloss": "como ⟨um⟩ manto"
     },
     {
       "surface": "נוטה",
-      "english": "quem estende"
+      "gloss": "quem estende"
     },
     {
       "surface": "שמים",
-      "english": "os céus"
+      "gloss": "os céus"
     },
     {
       "surface": "כיריעה",
-      "english": "como uma cortina"
+      "gloss": "como uma cortina"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:37.138030245Z",
-  "model": "glm-4.5"
+  ]
 }

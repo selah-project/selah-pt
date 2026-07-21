@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "genesis 26:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 215,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21093,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21308
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:07:03.018924904Z",
   "translation": "E ele fez para ⟨eles⟩ ⟨um⟩ banquete e eles comeram e beberam",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "E ele fez"
+      "gloss": "E ele fez"
     },
     {
       "surface": "להם",
-      "english": "para ⟨eles⟩"
+      "gloss": "para ⟨eles⟩"
     },
     {
       "surface": "משתה",
-      "english": "⟨um⟩ banquete"
+      "gloss": "⟨um⟩ banquete"
     },
     {
       "surface": "ויאכלו",
-      "english": "e eles comeram"
+      "gloss": "e eles comeram"
     },
     {
       "surface": "וישתו",
-      "english": "e beberam"
+      "gloss": "e beberam"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:07:03.018924904Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

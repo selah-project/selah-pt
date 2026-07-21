@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 145:15",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 577,
-    "prompt_tokens": 70590,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71167
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:53:17.904870452Z",
   "translation": "Os olhos de todos ⟨se voltam⟩ para ti, e tu ⟨és⟩ quem lhes dá ⟨את⟩ o seu alimento no seu tempo",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "Os olhos de"
+      "gloss": "Os olhos de"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "אליך",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "ישברו",
-      "english": "⟨se voltam⟩"
+      "gloss": "⟨se voltam⟩"
     },
     {
       "surface": "ואתה",
-      "english": "e tu"
+      "gloss": "e tu"
     },
     {
       "surface": "נותן",
-      "english": "⟨és⟩ quem dá"
+      "gloss": "⟨és⟩ quem dá"
     },
     {
       "surface": "להם",
-      "english": "lhes"
+      "gloss": "lhes"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o seu alimento"
     },
     {
       "surface": "אכלם",
-      "english": "o seu alimento"
+      "gloss": "o seu alimento"
     },
     {
       "surface": "בעתו",
-      "english": "no seu tempo"
+      "gloss": "no seu tempo"
     }
-  ],
-  "timestamp": "2026-07-16T17:53:17.904870452Z",
-  "model": "glm-4.5"
+  ]
 }

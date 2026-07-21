@@ -1,9 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-chronicles 12:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 12,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:46:37.476125166Z",
+  "translation": "Mishmannah ⟨o⟩ quarto, Yirmeyahu ⟨o⟩ quinto",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "Mishmannah"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "⟨o⟩ quarto"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "⟨o⟩ quinto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeremias",
@@ -13,40 +36,6 @@
       "hebrew": "ירמיה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 224,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56676,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 56900
-  },
-  "translation": "Mishmannah ⟨o⟩ quarto, Yirmeyahu ⟨o⟩ quinto",
-  "tokens": [
-    {
-      "surface": "משמנה",
-      "english": "Mishmannah"
-    },
-    {
-      "surface": "הרביעי",
-      "english": "⟨o⟩ quarto"
-    },
-    {
-      "surface": "ירמיה",
-      "english": "Yirmeyahu"
-    },
-    {
-      "surface": "החמשי",
-      "english": "⟨o⟩ quinto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:46:37.476125166Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

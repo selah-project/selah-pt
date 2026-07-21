@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 51,
   "ref": "psalms 78:51",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 78,
+  "verse": 51,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:32:01.109685853Z",
+  "translation": "E feriu ⟨a⟩ todo primogênito ⟨no⟩ Egito, ⟨as⟩ primícias ⟨de⟩ ⟨o⟩ vigor ⟨nas⟩ tendas ⟨de⟩ Jam.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "E feriu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨a⟩ todo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "primogênito"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "⟨no⟩ Egito"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "⟨as⟩ primícias"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "⟨de⟩ ⟨o⟩ vigor"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "⟨nas⟩ tendas"
+    },
+    {
+      "surface": "חם",
+      "gloss": "⟨de⟩ Jam"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Cam",
@@ -13,56 +52,6 @@
       "hebrew": "חם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 78,
-  "usage": {
-    "completion_tokens": 571,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62928,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63499
-  },
-  "translation": "E feriu ⟨a⟩ todo primogênito ⟨no⟩ Egito, ⟨as⟩ primícias ⟨de⟩ ⟨o⟩ vigor ⟨nas⟩ tendas ⟨de⟩ Jam.",
-  "tokens": [
-    {
-      "surface": "ויך",
-      "english": "E feriu"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨a⟩ todo"
-    },
-    {
-      "surface": "בכור",
-      "english": "primogênito"
-    },
-    {
-      "surface": "במצרים",
-      "english": "⟨no⟩ Egito"
-    },
-    {
-      "surface": "ראשית",
-      "english": "⟨as⟩ primícias"
-    },
-    {
-      "surface": "אונים",
-      "english": "⟨de⟩ ⟨o⟩ vigor"
-    },
-    {
-      "surface": "באהלי",
-      "english": "⟨nas⟩ tendas"
-    },
-    {
-      "surface": "חם",
-      "english": "⟨de⟩ Jam"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:32:01.109685853Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

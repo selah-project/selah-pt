@@ -1,9 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 16:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 16,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:51:05.264258108Z",
+  "translation": "Ele colocou ⟨antes⟩ ⟨do⟩ ⟨את⟩ arco de YHWH, ⟨a⟩ partir ⟨dos⟩ levtas — ministros ⟨para⟩ mencionar, e ⟨para⟩ agradecer, e ⟨para⟩ louvar a YHWH, ⟨o⟩ Elohim ⟨de⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ele colocou"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨antes⟩"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨a⟩ partir ⟨dos⟩"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levtas"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "— ministros"
+    },
+    {
+      "surface": "ולהזכיר",
+      "gloss": "⟨para⟩ mencionar",
+      "marks": "levtas — ministros"
+    },
+    {
+      "surface": "ולהודות",
+      "gloss": "e ⟨para⟩ agradecer",
+      "marks": "YHWH, o Elohim de Israel"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "e ⟨para⟩ louvar",
+      "marks": "YHWH, o Elohim de Israel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨o⟩ Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,79 +75,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 785,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57688,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58473
-  },
-  "translation": "Ele colocou ⟨antes⟩ ⟨do⟩ ⟨את⟩ arco de YHWH, ⟨a⟩ partir ⟨dos⟩ levtas — ministros ⟨para⟩ mencionar, e ⟨para⟩ agradecer, e ⟨para⟩ louvar a YHWH, ⟨o⟩ Elohim ⟨de⟩ Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויתן",
-      "english": "Ele colocou"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨antes⟩"
-    },
-    {
-      "surface": "ארון",
-      "english": "⟨do⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨a⟩ partir ⟨dos⟩"
-    },
-    {
-      "surface": "הלוים",
-      "english": "levtas"
-    },
-    {
-      "surface": "משרתים",
-      "english": "— ministros"
-    },
-    {
-      "surface": "ולהזכיר",
-      "english": "⟨para⟩ mencionar",
-      "marks": "levtas — ministros"
-    },
-    {
-      "surface": "ולהודות",
-      "english": "e ⟨para⟩ agradecer",
-      "marks": "YHWH, o Elohim de Israel"
-    },
-    {
-      "surface": "ולהלל",
-      "english": "e ⟨para⟩ louvar",
-      "marks": "YHWH, o Elohim de Israel"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "a YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "⟨o⟩ Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:51:05.264258108Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

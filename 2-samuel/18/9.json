@@ -1,9 +1,124 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-samuel 18:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 18,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:00:28.814190318Z",
+  "translation": "E Abshalom ⟨encontrou⟩ os servos de Davidd, e Abshalom ⟨estava⟩ montado ⟨no⟩ mulo, e o mulo veio ⟨por⟩ baixo ⟨dos⟩ ramos espessos ⟨da⟩ grande terebinta, e ⟨a⟩ cabeça dele ⟨se⟩ prendeu ⟨na⟩ terebinta, e ele ⟨foi⟩ suspenso entre ⟨o⟩ céu e ⟨a⟩ terra, e o mulo que ⟨estava⟩ debaixo dele passou.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "E Abshalom ⟨encontrou⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "os servos de"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ואבשלום",
+      "gloss": "e Abshalom"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "⟨estava⟩ montado"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "mulo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e o mulo veio"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "o mulo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨por⟩ baixo"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "⟨dos⟩ ramos espessos"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨da⟩ grande"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "terebinta"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "e ⟨a⟩ cabeça dele ⟨se⟩ prendeu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "cabeça dele"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "⟨na⟩ terebinta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e ele ⟨foi⟩ suspenso"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨o⟩ céu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ terra"
+    },
+    {
+      "surface": "והפרד",
+      "gloss": "e o mulo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨estava⟩ debaixo dele"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passou"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,132 +128,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 1079,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19080,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 20159
-  },
-  "translation": "E Abshalom ⟨encontrou⟩ os servos de Davidd, e Abshalom ⟨estava⟩ montado ⟨no⟩ mulo, e o mulo veio ⟨por⟩ baixo ⟨dos⟩ ramos espessos ⟨da⟩ grande terebinta, e ⟨a⟩ cabeça dele ⟨se⟩ prendeu ⟨na⟩ terebinta, e ele ⟨foi⟩ suspenso entre ⟨o⟩ céu e ⟨a⟩ terra, e o mulo que ⟨estava⟩ debaixo dele passou.",
-  "tokens": [
-    {
-      "surface": "ויקרא",
-      "english": "E Abshalom ⟨encontrou⟩"
-    },
-    {
-      "surface": "אבשלום",
-      "english": "Abshalom"
-    },
-    {
-      "surface": "לפני",
-      "english": "os servos de"
-    },
-    {
-      "surface": "עבדי",
-      "english": "David"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ואבשלום",
-      "english": "e Abshalom"
-    },
-    {
-      "surface": "רכב",
-      "english": "⟨estava⟩ montado"
-    },
-    {
-      "surface": "על",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "הפרד",
-      "english": "mulo"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e o mulo veio"
-    },
-    {
-      "surface": "הפרד",
-      "english": "o mulo"
-    },
-    {
-      "surface": "תחת",
-      "english": "⟨por⟩ baixo"
-    },
-    {
-      "surface": "שובך",
-      "english": "⟨dos⟩ ramos espessos"
-    },
-    {
-      "surface": "האלה",
-      "english": "⟨da⟩ grande"
-    },
-    {
-      "surface": "הגדולה",
-      "english": "terebinta"
-    },
-    {
-      "surface": "ויחזק",
-      "english": "e ⟨a⟩ cabeça dele ⟨se⟩ prendeu"
-    },
-    {
-      "surface": "ראשו",
-      "english": "cabeça dele"
-    },
-    {
-      "surface": "באלה",
-      "english": "⟨na⟩ terebinta"
-    },
-    {
-      "surface": "ויתן",
-      "english": "e ele ⟨foi⟩ suspenso"
-    },
-    {
-      "surface": "בין",
-      "english": "entre"
-    },
-    {
-      "surface": "השמים",
-      "english": "⟨o⟩ céu"
-    },
-    {
-      "surface": "ובין",
-      "english": "e"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨a⟩ terra"
-    },
-    {
-      "surface": "והפרד",
-      "english": "e o mulo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "⟨estava⟩ debaixo dele"
-    },
-    {
-      "surface": "עבר",
-      "english": "passou"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:00:28.814190318Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

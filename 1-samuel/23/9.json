@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-samuel 23:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 23,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:35:08.623145636Z",
+  "translation": "E Davidd soube que Shaúl maquinava ⟨o⟩ mal contra ele, e disse a Eviatar ⟨o⟩ kohen: 'Traze ⟨o⟩ efode ⟨para⟩ cá'.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "E David soube"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "contra ele"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "maquinava"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "⟨o⟩ mal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Eviatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨o⟩ kohen"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "'Traze"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "⟨o⟩ efode ⟨para⟩ cá'"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,76 +72,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16891,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17403
-  },
-  "translation": "E Davidd soube que Shaúl maquinava ⟨o⟩ mal contra ele, e disse a Eviatar ⟨o⟩ kohen: 'Traze ⟨o⟩ efode ⟨para⟩ cá'.",
-  "tokens": [
-    {
-      "surface": "וידע",
-      "english": "E David soube"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "עליו",
-      "english": "contra ele"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "מחריש",
-      "english": "maquinava"
-    },
-    {
-      "surface": "הרעה",
-      "english": "⟨o⟩ mal"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אביתר",
-      "english": "Eviatar"
-    },
-    {
-      "surface": "הכהן",
-      "english": "⟨o⟩ kohen"
-    },
-    {
-      "surface": "הגישה",
-      "english": "'Traze"
-    },
-    {
-      "surface": "האפוד",
-      "english": "⟨o⟩ efode ⟨para⟩ cá'"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:35:08.623145636Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

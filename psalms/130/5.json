@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 130:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 410,
-    "prompt_tokens": 70274,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70684
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:25.094409989Z",
   "translation": "Eu esperei por YHWH; minha alma esperou, e em ⟨o⟩ seu palavra eu esperei",
   "tokens": [
     {
       "surface": "קויתי",
-      "english": "Eu esperei"
+      "gloss": "Eu esperei"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "קותה",
-      "english": "minha alma esperou"
+      "gloss": "minha alma esperou"
     },
     {
       "surface": "נפשי",
-      "english": "minha alma esperou"
+      "gloss": "minha alma esperou"
     },
     {
       "surface": "ולדברו",
-      "english": "e em ⟨o⟩ seu palavra"
+      "gloss": "e em ⟨o⟩ seu palavra"
     },
     {
       "surface": "הוחלתי",
-      "english": "eu esperei"
+      "gloss": "eu esperei"
     }
-  ],
-  "timestamp": "2026-07-16T17:50:25.094409989Z",
-  "model": "glm-4.5"
+  ]
 }

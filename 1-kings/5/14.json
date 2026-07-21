@@ -1,9 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-kings 5:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 5,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:15:36.451191219Z",
+  "translation": "E vieram ⟨de⟩ todos os povos ⟨para⟩ ouvir ⟨a⟩ Jojmá de Shlomó, ⟨de⟩ ⟨o⟩ ⟨a⟩ todo ⟨o⟩s reis ⟨da⟩ terra que ouviram ⟨a⟩ Jojmá dele",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "E vieram"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨de⟩ todos"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "os povos"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "⟨para⟩ ouvir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "sabedoria"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shlomó"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "⟨a⟩ todo ⟨o⟩s reis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨da⟩ terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ouviram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "sabedoria dele"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "Jojmá dele"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -20,86 +89,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63127,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63710
-  },
-  "translation": "E vieram ⟨de⟩ todos os povos ⟨para⟩ ouvir ⟨a⟩ Jojmá de Shlomó, ⟨de⟩ ⟨o⟩ ⟨a⟩ todo ⟨o⟩s reis ⟨da⟩ terra que ouviram ⟨a⟩ Jojmá dele",
-  "tokens": [
-    {
-      "surface": "ויבאו",
-      "english": "E vieram"
-    },
-    {
-      "surface": "מכל",
-      "english": "⟨de⟩ todos"
-    },
-    {
-      "surface": "העמים",
-      "english": "os povos"
-    },
-    {
-      "surface": "לשמע",
-      "english": "⟨para⟩ ouvir"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "sabedoria"
-    },
-    {
-      "surface": "חכמת",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "שלמה",
-      "english": "de Shlomó"
-    },
-    {
-      "surface": "מאת",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "מלכי",
-      "english": "⟨a⟩ todo ⟨o⟩s reis"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨da⟩ terra"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "שמעו",
-      "english": "ouviram"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "sabedoria dele"
-    },
-    {
-      "surface": "חכמתו",
-      "english": "Jojmá dele"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:15:36.451191219Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

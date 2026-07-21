@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 139:22",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 70136,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70521
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:50.366887503Z",
   "translation": "Odeio-os com ódio consumado; inimigos tornaram-se para mim.",
   "tokens": [
     {
       "surface": "תכלית",
-      "english": "consumado"
+      "gloss": "consumado"
     },
     {
       "surface": "שנאה",
-      "english": "ódio"
+      "gloss": "ódio"
     },
     {
       "surface": "שנאתים",
-      "english": "Odeio-os"
+      "gloss": "Odeio-os"
     },
     {
       "surface": "לאויבים",
-      "english": "inimigos"
+      "gloss": "inimigos"
     },
     {
       "surface": "היו",
-      "english": "tornaram-se"
+      "gloss": "tornaram-se"
     },
     {
       "surface": "לי",
-      "english": "para mim"
+      "gloss": "para mim"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:50.366887503Z",
-  "model": "glm-4.5"
+  ]
 }

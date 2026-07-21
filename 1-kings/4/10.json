@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-kings 4:10",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 495,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69631,
-    "prompt_tokens_details": {
-      "cached_tokens": 68636
-    },
-    "total_tokens": 70126
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:50:28.415137485Z",
   "translation": "filho de Jésed ⟨em⟩ Arubote ⟨para⟩ ele ⟨está⟩ Socho e ⟨a⟩ toda terra de Héfer",
   "tokens": [
     {
       "surface": "בן",
-      "english": "filho"
+      "gloss": "filho"
     },
     {
       "surface": "חסד",
-      "english": "de Jésed"
+      "gloss": "de Jésed"
     },
     {
       "surface": "בארבות",
-      "english": "⟨em⟩ Arubote"
+      "gloss": "⟨em⟩ Arubote"
     },
     {
       "surface": "לו",
-      "english": "⟨para⟩ ele"
+      "gloss": "⟨para⟩ ele"
     },
     {
       "surface": "שכה",
-      "english": "⟨está⟩ Socho"
+      "gloss": "⟨está⟩ Socho"
     },
     {
       "surface": "וכל",
-      "english": "e ⟨a⟩ toda"
+      "gloss": "e ⟨a⟩ toda"
     },
     {
       "surface": "ארץ",
-      "english": "terra"
+      "gloss": "terra"
     },
     {
       "surface": "חפר",
-      "english": "de Héfer"
+      "gloss": "de Héfer"
     }
-  ],
-  "timestamp": "2026-06-13T02:50:28.415137485Z",
-  "model": "glm-4.5"
+  ]
 }

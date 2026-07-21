@@ -1,9 +1,101 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-chronicles 31:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 31,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:44:42.075522798Z",
+  "translation": "E ⟨com⟩ a divulgação ⟨da⟩ palavra, os filhos de Yisrael multiplicaram em abundância ⟨as⟩ primícias de cereal, mosto novo ⟨e⟩ azeite, ⟨e⟩ mel, ⟨e⟩ todo produto ⟨do⟩ campo; ⟨e⟩ ⟨o⟩ dízimo de tudo, em abundância, trouxeram.",
+  "tokens": [
+    {
+      "surface": "וכפרץ",
+      "gloss": "E ⟨com⟩ a divulgação",
+      "marks": "a palavra"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨da⟩ palavra",
+      "marks": null
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "multiplicaram em abundância",
+      "marks": null
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos",
+      "marks": null
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael",
+      "marks": null
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "⟨as⟩ primícias",
+      "marks": "cereal, mosto novo, azeite, mel"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "de cereal",
+      "marks": null
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "mosto novo",
+      "marks": null
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "⟨e⟩ azeite",
+      "marks": null
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "⟨e⟩ mel",
+      "marks": null
+    },
+    {
+      "surface": "וכל",
+      "gloss": "⟨e⟩ todo",
+      "marks": null
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "produto",
+      "marks": null
+    },
+    {
+      "surface": "שדה",
+      "gloss": "⟨do⟩ campo",
+      "marks": null
+    },
+    {
+      "surface": "ומעשר",
+      "gloss": "⟨e⟩ ⟨o⟩ dízimo",
+      "marks": "de tudo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "de tudo",
+      "marks": null
+    },
+    {
+      "surface": "לרב",
+      "gloss": "em abundância",
+      "marks": null
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "trouxeram",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,109 +105,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 754,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59045,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59799
-  },
-  "translation": "E ⟨com⟩ a divulgação ⟨da⟩ palavra, os filhos de Yisrael multiplicaram em abundância ⟨as⟩ primícias de cereal, mosto novo ⟨e⟩ azeite, ⟨e⟩ mel, ⟨e⟩ todo produto ⟨do⟩ campo; ⟨e⟩ ⟨o⟩ dízimo de tudo, em abundância, trouxeram.",
-  "tokens": [
-    {
-      "surface": "וכפרץ",
-      "english": "E ⟨com⟩ a divulgação",
-      "marks": "a palavra"
-    },
-    {
-      "surface": "הדבר",
-      "english": "⟨da⟩ palavra",
-      "marks": null
-    },
-    {
-      "surface": "הרבו",
-      "english": "multiplicaram em abundância",
-      "marks": null
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos",
-      "marks": null
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael",
-      "marks": null
-    },
-    {
-      "surface": "ראשית",
-      "english": "⟨as⟩ primícias",
-      "marks": "cereal, mosto novo, azeite, mel"
-    },
-    {
-      "surface": "דגן",
-      "english": "de cereal",
-      "marks": null
-    },
-    {
-      "surface": "תירוש",
-      "english": "mosto novo",
-      "marks": null
-    },
-    {
-      "surface": "ויצהר",
-      "english": "⟨e⟩ azeite",
-      "marks": null
-    },
-    {
-      "surface": "ודבש",
-      "english": "⟨e⟩ mel",
-      "marks": null
-    },
-    {
-      "surface": "וכל",
-      "english": "⟨e⟩ todo",
-      "marks": null
-    },
-    {
-      "surface": "תבואת",
-      "english": "produto",
-      "marks": null
-    },
-    {
-      "surface": "שדה",
-      "english": "⟨do⟩ campo",
-      "marks": null
-    },
-    {
-      "surface": "ומעשר",
-      "english": "⟨e⟩ ⟨o⟩ dízimo",
-      "marks": "de tudo"
-    },
-    {
-      "surface": "הכל",
-      "english": "de tudo",
-      "marks": null
-    },
-    {
-      "surface": "לרב",
-      "english": "em abundância",
-      "marks": null
-    },
-    {
-      "surface": "הביאו",
-      "english": "trouxeram",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:44:42.075522798Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-chronicles 15:10",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64428,
-    "prompt_tokens_details": {
-      "cached_tokens": 63368
-    },
-    "total_tokens": 64795
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T07:02:21.184435849Z",
   "translation": "Para os filhos de Uziel: Amminadab ⟨o⟩ príncipe, e seus irmãos, cento e doze.",
   "tokens": [
     {
       "surface": "לבני",
-      "english": "Para os filhos de"
+      "gloss": "Para os filhos de"
     },
     {
       "surface": "עזיאל",
-      "english": "Uziel"
+      "gloss": "Uziel"
     },
     {
       "surface": "עמינדב",
-      "english": "Amminadab"
+      "gloss": "Amminadab"
     },
     {
       "surface": "השר",
-      "english": "⟨o⟩ príncipe",
+      "gloss": "⟨o⟩ príncipe",
       "marks": "Amminadab"
     },
     {
       "surface": "ואחיו",
-      "english": "e seus irmãos"
+      "gloss": "e seus irmãos"
     },
     {
       "surface": "מאה",
-      "english": "cento"
+      "gloss": "cento"
     },
     {
       "surface": "ושנים",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "עשר",
-      "english": "doze"
+      "gloss": "doze"
     }
-  ],
-  "timestamp": "2026-06-13T07:02:21.184435849Z",
-  "model": "glm-4.5"
+  ]
 }

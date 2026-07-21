@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 9:6",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 491,
-    "prompt_tokens": 29284,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29775
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:41:52.848041688Z",
   "translation": "Quem derramar ⟨o⟩ sangue de ⟨o⟩ adam, pelo adam ⟨o⟩ seu sangue será derramado; pois na imagem de Elohim fez ⟨את⟩ ⟨o⟩ adam",
   "tokens": [
     {
       "surface": "שפך",
-      "english": "Quem derramar"
+      "gloss": "Quem derramar"
     },
     {
       "surface": "דם",
-      "english": "sangue"
+      "gloss": "sangue"
     },
     {
       "surface": "האדם",
-      "english": "de ⟨o⟩ adam"
+      "gloss": "de ⟨o⟩ adam"
     },
     {
       "surface": "באדם",
-      "english": "pelo adam"
+      "gloss": "pelo adam"
     },
     {
       "surface": "דמו",
-      "english": "⟨o⟩ seu sangue"
+      "gloss": "⟨o⟩ seu sangue"
     },
     {
       "surface": "ישפך",
-      "english": "será derramado"
+      "gloss": "será derramado"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "בצלם",
-      "english": "na imagem"
+      "gloss": "na imagem"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     },
     {
       "surface": "עשה",
-      "english": "fez"
+      "gloss": "fez"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨o⟩ adam"
     },
     {
       "surface": "האדם",
-      "english": "⟨o⟩ adam"
+      "gloss": "⟨o⟩ adam"
     }
-  ],
-  "timestamp": "2026-07-16T14:41:52.848041688Z",
-  "model": "glm-4.5"
+  ]
 }

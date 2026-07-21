@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ezekiel 12:5",
   "book": "ezekiel",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 423,
-    "prompt_tokens": 24525,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 24948
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:13:21.109118499Z",
   "translation": "Diante ⟨dos⟩ olhos deles escava ⟨a⟩ parede para ti e sai ⟨por⟩ ela",
   "tokens": [
     {
       "surface": "לְ\/עֵינֵי\/הֶ֖ם",
-      "english": "Diante ⟨dos⟩ olhos deles"
+      "gloss": "Diante ⟨dos⟩ olhos deles"
     },
     {
       "surface": "חֲתָר",
-      "english": "escava"
+      "gloss": "escava"
     },
     {
       "surface": "לְ\/ךָ֣",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "בַ\/קִּ֑יר",
-      "english": "⟨a⟩ parede"
+      "gloss": "⟨a⟩ parede"
     },
     {
       "surface": "וְ\/הוֹצֵאתָ֖",
-      "english": "e sai"
+      "gloss": "e sai"
     },
     {
       "surface": "בּֽ\/וֹ",
-      "english": "⟨por⟩ ela"
+      "gloss": "⟨por⟩ ela"
     }
-  ],
-  "timestamp": "2026-07-16T14:13:21.109118499Z",
-  "model": "glm-4.5"
+  ]
 }

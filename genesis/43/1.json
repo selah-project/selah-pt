@@ -1,42 +1,31 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 43:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 237,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20856,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21093
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:26:45.177565183Z",
   "translation": "⟨E⟩ a fome ⟨era⟩ grave na terra",
   "tokens": [
     {
       "surface": "והרעב",
-      "english": "⟨E⟩ a fome",
+      "gloss": "⟨E⟩ a fome",
       "marks": "grave na terra"
     },
     {
       "surface": "כבד",
-      "english": "⟨era⟩ grave",
+      "gloss": "⟨era⟩ grave",
       "marks": "a fome"
     },
     {
       "surface": "בארץ",
-      "english": "na terra"
+      "gloss": "na terra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:26:45.177565183Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

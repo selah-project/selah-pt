@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "genesis 19:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21194,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21523
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:59:26.883753288Z",
   "translation": "O sol ⟨foi⟩ sobre ⟨a⟩ terra, e Ló veio a ⟨a⟩ Zoar.",
   "tokens": [
     {
       "surface": "השמש",
-      "english": "O sol",
+      "gloss": "O sol",
       "marks": ""
     },
     {
       "surface": "יצא",
-      "english": "⟨foi⟩",
+      "gloss": "⟨foi⟩",
       "marks": "sobre"
     },
     {
       "surface": "על",
-      "english": "sobre",
+      "gloss": "sobre",
       "marks": ""
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra",
+      "gloss": "⟨a⟩ terra",
       "marks": ""
     },
     {
       "surface": "ולוט",
-      "english": "e Ló",
+      "gloss": "e Ló",
       "marks": ""
     },
     {
       "surface": "בא",
-      "english": "veio a",
+      "gloss": "veio a",
       "marks": ""
     },
     {
       "surface": "צערה",
-      "english": "⟨a⟩ Zoar",
+      "gloss": "⟨a⟩ Zoar",
       "marks": ""
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:59:26.883753288Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

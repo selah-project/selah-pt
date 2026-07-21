@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "ezra 2:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44644,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 44922
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:03:05.939704997Z",
   "translation": "Os filhos de Zatu ⟨são⟩ novecentos e quarenta ⟨e⟩ cinco.",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Os filhos de"
+      "gloss": "Os filhos de"
     },
     {
       "surface": "זתוא",
-      "english": "Zatu"
+      "gloss": "Zatu"
     },
     {
       "surface": "תשע",
-      "english": "nove"
+      "gloss": "nove"
     },
     {
       "surface": "מאות",
-      "english": "centos"
+      "gloss": "centos"
     },
     {
       "surface": "וארבעים",
-      "english": "e quarenta"
+      "gloss": "e quarenta"
     },
     {
       "surface": "וחמשה",
-      "english": "⟨e⟩ cinco"
+      "gloss": "⟨e⟩ cinco"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:03:05.939704997Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

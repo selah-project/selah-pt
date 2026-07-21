@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 77:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62943,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63386
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:30:23.376500257Z",
   "translation": "⟨Is it⟩ forgotten ⟨the⟩ supplication of ⟨the⟩ Mighty? ⟨if⟩ ⟨He⟩ has closed ⟨in⟩ anger ⟨His⟩ compassions? Selah",
   "tokens": [
     {
       "surface": "השכח",
-      "english": "⟨Is it⟩ forgotten"
+      "gloss": "⟨Is it⟩ forgotten"
     },
     {
       "surface": "חנות",
-      "english": "⟨the⟩ supplication"
+      "gloss": "⟨the⟩ supplication"
     },
     {
       "surface": "אל",
-      "english": "⟨the⟩ Mighty",
+      "gloss": "⟨the⟩ Mighty",
       "marks": "Elohim"
     },
     {
       "surface": "אם",
-      "english": "⟨if⟩"
+      "gloss": "⟨if⟩"
     },
     {
       "surface": "קפץ",
-      "english": "⟨He⟩ has closed"
+      "gloss": "⟨He⟩ has closed"
     },
     {
       "surface": "באף",
-      "english": "⟨in⟩ anger"
+      "gloss": "⟨in⟩ anger"
     },
     {
       "surface": "רחמיו",
-      "english": "⟨His⟩ compassions"
+      "gloss": "⟨His⟩ compassions"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:30:23.376500257Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

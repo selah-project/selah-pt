@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "esther 9:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17667,
-    "prompt_tokens_details": {
-      "cached_tokens": 16627
-    },
-    "total_tokens": 18115
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:44:14.565011759Z",
   "translation": "E ⟨o⟩ palavra de Ester confirmou ⟨as⟩ palavras ⟨destes⟩ Purim, e ⟨foi⟩ escrito no livro",
   "tokens": [
     {
       "surface": "ומאמר",
-      "english": "E ⟨o⟩ palavra",
+      "gloss": "E ⟨o⟩ palavra",
       "marks": "palavra de Ester"
     },
     {
       "surface": "אסתר",
-      "english": "de Ester"
+      "gloss": "de Ester"
     },
     {
       "surface": "קים",
-      "english": "confirmou"
+      "gloss": "confirmou"
     },
     {
       "surface": "דברי",
-      "english": "⟨as⟩ palavras"
+      "gloss": "⟨as⟩ palavras"
     },
     {
       "surface": "הפרים",
-      "english": "⟨destes⟩ Purim"
+      "gloss": "⟨destes⟩ Purim"
     },
     {
       "surface": "האלה",
-      "english": "⟨destes⟩",
+      "gloss": "⟨destes⟩",
       "marks": "Purim"
     },
     {
       "surface": "ונכתב",
-      "english": "e ⟨foi⟩ escrito"
+      "gloss": "e ⟨foi⟩ escrito"
     },
     {
       "surface": "בספר",
-      "english": "no livro"
+      "gloss": "no livro"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:44:14.565011759Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

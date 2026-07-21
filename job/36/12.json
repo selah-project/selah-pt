@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 36:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 36,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:09:57.249525062Z",
+  "translation": "E ⟨se⟩ não ⟨a⟩ ouvirem, ⟨no⟩ castigo passarão e expirarão sem ⟨o⟩ Daat.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E ⟨se⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "⟨a⟩ ouvirem"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "⟨no⟩ castigo"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "passarão"
+    },
+    {
+      "surface": "ויגועו",
+      "gloss": "e expirarão"
+    },
+    {
+      "surface": "כבלי",
+      "gloss": "sem"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "⟨o⟩ Daat"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "conhecimento",
@@ -13,56 +52,6 @@
       "hebrew": "דעת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20086,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20456
-  },
-  "translation": "E ⟨se⟩ não ⟨a⟩ ouvirem, ⟨no⟩ castigo passarão e expirarão sem ⟨o⟩ Daat.",
-  "tokens": [
-    {
-      "surface": "ואם",
-      "english": "E ⟨se⟩"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "ישמעו",
-      "english": "⟨a⟩ ouvirem"
-    },
-    {
-      "surface": "בשלח",
-      "english": "⟨no⟩ castigo"
-    },
-    {
-      "surface": "יעברו",
-      "english": "passarão"
-    },
-    {
-      "surface": "ויגועו",
-      "english": "e expirarão"
-    },
-    {
-      "surface": "כבלי",
-      "english": "sem"
-    },
-    {
-      "surface": "דעת",
-      "english": "⟨o⟩ Daat"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:09:57.249525062Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

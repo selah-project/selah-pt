@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "judges 20:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 20,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:10:53.687153825Z",
+  "translation": "E os filhos de Yisrael se aproximaram ⟨contra⟩ ⟨את⟩ os filhos de Binyamin no segundo dia",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "E se aproximaram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨contra⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "de Binyamin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "no"
+    },
+    {
+      "surface": "השני",
+      "gloss": "segundo dia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16192,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 16521
-  },
-  "translation": "E os filhos de Yisrael se aproximaram ⟨contra⟩ ⟨את⟩ os filhos de Binyamin no segundo dia",
-  "tokens": [
-    {
-      "surface": "ויקרבו",
-      "english": "E se aproximaram"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨contra⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "בנימן",
-      "english": "de Binyamin"
-    },
-    {
-      "surface": "ביום",
-      "english": "no"
-    },
-    {
-      "surface": "השני",
-      "english": "segundo dia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:10:53.687153825Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

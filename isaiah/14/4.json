@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 14:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 14,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:23:20.771313212Z",
+  "translation": "E tomarás ⟨este⟩ provérbio ⟨sobre⟩ o rei ⟨de⟩ Bavel e dirás: Como cessou ⟨o⟩ opressor? Cessou ⟨a⟩ exatora ⟨de⟩ ouro!",
+  "tokens": [
+    {
+      "surface": "ונשאת",
+      "gloss": "E tomarás"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "⟨este⟩ provérbio"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "⟨de⟩ Bavel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e dirás"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Como"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "cessou"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "⟨o⟩ opressor"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "Cessou"
+    },
+    {
+      "surface": "מדהבה",
+      "gloss": "⟨a⟩ exatora ⟨de⟩ ouro"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babilônia",
@@ -13,72 +68,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 590,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19385,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19975
-  },
-  "translation": "E tomarás ⟨este⟩ provérbio ⟨sobre⟩ o rei ⟨de⟩ Bavel e dirás: Como cessou ⟨o⟩ opressor? Cessou ⟨a⟩ exatora ⟨de⟩ ouro!",
-  "tokens": [
-    {
-      "surface": "ונשאת",
-      "english": "E tomarás"
-    },
-    {
-      "surface": "המשל",
-      "english": "⟨este⟩ provérbio"
-    },
-    {
-      "surface": "הזה",
-      "english": "⟨este⟩"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "⟨de⟩ Bavel"
-    },
-    {
-      "surface": "ואמרת",
-      "english": "e dirás"
-    },
-    {
-      "surface": "איך",
-      "english": "Como"
-    },
-    {
-      "surface": "שבת",
-      "english": "cessou"
-    },
-    {
-      "surface": "נגש",
-      "english": "⟨o⟩ opressor"
-    },
-    {
-      "surface": "שבתה",
-      "english": "Cessou"
-    },
-    {
-      "surface": "מדהבה",
-      "english": "⟨a⟩ exatora ⟨de⟩ ouro"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:23:20.771313212Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

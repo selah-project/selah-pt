@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-samuel 18:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 18,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:00:15.001886890Z",
+  "translation": "E o povo saiu ⟨ao⟩ campo ⟨para⟩ encontrar ⟨com⟩ Yisrael, e a batalha foi na floresta de Efráyim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E saiu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "o povo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨ao⟩ campo"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "⟨para⟩ encontrar ⟨com⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e foi"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "a batalha"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "na floresta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,60 +63,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17344,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 17813
-  },
-  "translation": "E o povo saiu ⟨ao⟩ campo ⟨para⟩ encontrar ⟨com⟩ Yisrael, e a batalha foi na floresta de Efráyim.",
-  "tokens": [
-    {
-      "surface": "ויצא",
-      "english": "E saiu"
-    },
-    {
-      "surface": "העם",
-      "english": "o povo"
-    },
-    {
-      "surface": "השדה",
-      "english": "⟨ao⟩ campo"
-    },
-    {
-      "surface": "לקראת",
-      "english": "⟨para⟩ encontrar ⟨com⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ותהי",
-      "english": "e foi"
-    },
-    {
-      "surface": "המלחמה",
-      "english": "a batalha"
-    },
-    {
-      "surface": "ביער",
-      "english": "na floresta"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:00:15.001886890Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

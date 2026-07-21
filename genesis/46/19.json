@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "genesis 46:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 46,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:30:23.687065962Z",
+  "translation": "Os filhos ⟨de⟩ Rajel, ⟨a⟩ esposa ⟨de⟩ Yaakov, ⟨são⟩ Yosef e ⟨o⟩ Benjamim.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Os filhos"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨a⟩ esposa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "e ⟨o⟩ Benjamim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Raquel",
@@ -27,48 +58,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21129,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21465
-  },
-  "translation": "Os filhos ⟨de⟩ Rajel, ⟨a⟩ esposa ⟨de⟩ Yaakov, ⟨são⟩ Yosef e ⟨o⟩ Benjamim.",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Os filhos"
-    },
-    {
-      "surface": "רחל",
-      "english": "Rajel"
-    },
-    {
-      "surface": "אשת",
-      "english": "⟨a⟩ esposa"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    },
-    {
-      "surface": "ובנימן",
-      "english": "e ⟨o⟩ Benjamim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:30:23.687065962Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

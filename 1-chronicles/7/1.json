@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 7:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 7,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:39:40.054543655Z",
+  "translation": "E ⟨para⟩ ⟨os⟩ filhos ⟨de⟩ Yissacar ⟨foram⟩ Tola ⟨e⟩ Puá, Jashub ⟨e⟩ Shimrom — quatro.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "E ⟨para⟩ ⟨os⟩ filhos ⟨de⟩"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissacar"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "⟨e⟩ Puá"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Jashub"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "⟨e⟩ Shimrom"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "— quatro"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Issacar",
@@ -13,52 +48,6 @@
       "hebrew": "יששכר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57049,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57412
-  },
-  "translation": "E ⟨para⟩ ⟨os⟩ filhos ⟨de⟩ Yissacar ⟨foram⟩ Tola ⟨e⟩ Puá, Jashub ⟨e⟩ Shimrom — quatro.",
-  "tokens": [
-    {
-      "surface": "ולבני",
-      "english": "E ⟨para⟩ ⟨os⟩ filhos ⟨de⟩"
-    },
-    {
-      "surface": "יששכר",
-      "english": "Yissacar"
-    },
-    {
-      "surface": "תולע",
-      "english": "Tola"
-    },
-    {
-      "surface": "ופואה",
-      "english": "⟨e⟩ Puá"
-    },
-    {
-      "surface": "ישיב",
-      "english": "Jashub"
-    },
-    {
-      "surface": "ושמרון",
-      "english": "⟨e⟩ Shimrom"
-    },
-    {
-      "surface": "ארבעה",
-      "english": "— quatro"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:39:40.054543655Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

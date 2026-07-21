@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 37:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 464,
-    "prompt_tokens": 70428,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70892
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:35.093793237Z",
   "translation": "E ainda ⟨um⟩ pouco, e o iníquo ⟨é⟩ inexistente, e tu ⟨o⟩ considerarás diligentemente sobre ⟨o⟩ seu lugar, e ele ⟨é⟩ inexistente.",
   "tokens": [
     {
       "surface": "ועוד",
-      "english": "E ainda"
+      "gloss": "E ainda"
     },
     {
       "surface": "מעט",
-      "english": "⟨um⟩ pouco"
+      "gloss": "⟨um⟩ pouco"
     },
     {
       "surface": "ואין",
-      "english": "e o iníquo ⟨é⟩ inexistente"
+      "gloss": "e o iníquo ⟨é⟩ inexistente"
     },
     {
       "surface": "רשע",
-      "english": "iníquo"
+      "gloss": "iníquo"
     },
     {
       "surface": "והתבוננת",
-      "english": "e tu ⟨o⟩ considerarás diligentemente"
+      "gloss": "e tu ⟨o⟩ considerarás diligentemente"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מקומו",
-      "english": "⟨o⟩ seu lugar"
+      "gloss": "⟨o⟩ seu lugar"
     },
     {
       "surface": "ואיננו",
-      "english": "e ele ⟨é⟩ inexistente"
+      "gloss": "e ele ⟨é⟩ inexistente"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:35.093793237Z",
-  "model": "glm-4.5"
+  ]
 }

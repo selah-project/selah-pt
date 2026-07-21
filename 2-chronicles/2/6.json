@@ -1,9 +1,120 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-chronicles 2:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 2,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:07:48.594687019Z",
+  "translation": "E agora envia-me ⟨um⟩ homem hábil para trabalhar em ouro, e em prata, e em bronze, e em ferro, e em púrpura, e carmesim, e azul, e que saiba esculpir entalhes com ⟨os⟩ homens hábeis que ⟨estão⟩ comigo em Judá e em Jerusalém, que Davidd meu pai proveu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E agora"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "envia-me"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨um⟩ homem"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hábil"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "para trabalhar"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "em ouro"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "e em prata"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "e em bronze"
+    },
+    {
+      "surface": "ובברזל",
+      "gloss": "e em ferro"
+    },
+    {
+      "surface": "ובארגון",
+      "gloss": "e em púrpura"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "e carmesim"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "e azul"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "e que saiba"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "esculpir"
+    },
+    {
+      "surface": "פתוחים",
+      "gloss": "entalhes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "⟨os⟩ homens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨estão⟩ comigo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "em Judá"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "e em Jerusalém"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "proveu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meu pai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,128 +124,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 846,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59851,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 60697
-  },
-  "translation": "E agora envia-me ⟨um⟩ homem hábil para trabalhar em ouro, e em prata, e em bronze, e em ferro, e em púrpura, e carmesim, e azul, e que saiba esculpir entalhes com ⟨os⟩ homens hábeis que ⟨estão⟩ comigo em Judá e em Jerusalém, que Davidd meu pai proveu.",
-  "tokens": [
-    {
-      "surface": "ועתה",
-      "english": "E agora"
-    },
-    {
-      "surface": "שלח",
-      "english": "envia-me"
-    },
-    {
-      "surface": "לי",
-      "english": "me"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨um⟩ homem"
-    },
-    {
-      "surface": "חכם",
-      "english": "hábil"
-    },
-    {
-      "surface": "לעשות",
-      "english": "para trabalhar"
-    },
-    {
-      "surface": "בזהב",
-      "english": "em ouro"
-    },
-    {
-      "surface": "ובכסף",
-      "english": "e em prata"
-    },
-    {
-      "surface": "ובנחשת",
-      "english": "e em bronze"
-    },
-    {
-      "surface": "ובברזל",
-      "english": "e em ferro"
-    },
-    {
-      "surface": "ובארגון",
-      "english": "e em púrpura"
-    },
-    {
-      "surface": "וכרמיל",
-      "english": "e carmesim"
-    },
-    {
-      "surface": "ותכלת",
-      "english": "e azul"
-    },
-    {
-      "surface": "וידע",
-      "english": "e que saiba"
-    },
-    {
-      "surface": "לפתח",
-      "english": "esculpir"
-    },
-    {
-      "surface": "פתוחים",
-      "english": "entalhes"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "החכמים",
-      "english": "⟨os⟩ homens"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עמי",
-      "english": "⟨estão⟩ comigo"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "em Judá"
-    },
-    {
-      "surface": "ובירושלם",
-      "english": "e em Jerusalém"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "הכין",
-      "english": "proveu"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אבי",
-      "english": "meu pai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:07:48.594687019Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

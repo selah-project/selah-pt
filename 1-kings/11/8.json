@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-kings 11:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62405,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62908
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:26:39.363233204Z",
   "translation": "E assim fez para todas as ⟨esposas⟩ ⟨estranhas⟩ dele, que ⟨estavam⟩ queimando incenso e oferecendo sacrifícios aos ⟨seus⟩ deuses.",
   "tokens": [
     {
       "surface": "וכן",
-      "english": "E assim"
+      "gloss": "E assim"
     },
     {
       "surface": "עשה",
-      "english": "fez"
+      "gloss": "fez"
     },
     {
       "surface": "לכל",
-      "english": "para todas as"
+      "gloss": "para todas as"
     },
     {
       "surface": "נשיו",
-      "english": "⟨esposas⟩",
+      "gloss": "⟨esposas⟩",
       "marks": "todas as ⟨esposas⟩ dele"
     },
     {
       "surface": "הנכריות",
-      "english": "⟨estranhas⟩",
+      "gloss": "⟨estranhas⟩",
       "marks": "todas as ⟨esposas⟩ ⟨estranhas⟩ dele"
     },
     {
       "surface": "מקטירות",
-      "english": "que ⟨estavam⟩ queimando incenso"
+      "gloss": "que ⟨estavam⟩ queimando incenso"
     },
     {
       "surface": "ומזבחות",
-      "english": "e oferecendo sacrifícios"
+      "gloss": "e oferecendo sacrifícios"
     },
     {
       "surface": "לאלהיהן",
-      "english": "aos ⟨seus⟩ deuses",
+      "gloss": "aos ⟨seus⟩ deuses",
       "marks": "aos deuses ⟨delas⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:26:39.363233204Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

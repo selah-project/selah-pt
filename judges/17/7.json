@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "judges 17:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 17,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:07:39.249481419Z",
+  "translation": "E ⟨havia⟩ um ⟨jovem⟩ de Bet-Léjem ⟨de⟩ Yehudá, da ⟨família⟩ ⟨de⟩ Yehudá, e ⟨ele⟩ ⟨era⟩ um levita, e ⟨ele⟩ ⟨era⟩ ⟨um⟩ estrangeiro ⟨residente⟩ ⟨lá⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E ⟨havia⟩"
+    },
+    {
+      "surface": "נער",
+      "gloss": "⟨jovem⟩"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de Belém ⟨de⟩",
+      "marks": "Belém"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Léjem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "da ⟨família⟩ ⟨de⟩",
+      "marks": "família"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e ⟨ele⟩ ⟨era⟩"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "um levita"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e ⟨ele⟩ ⟨era⟩"
+    },
+    {
+      "surface": "גר",
+      "gloss": "⟨um⟩ estrangeiro ⟨residente⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨lá⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Belém",
@@ -27,74 +84,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 717,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16586,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17303
-  },
-  "translation": "E ⟨havia⟩ um ⟨jovem⟩ de Bet-Léjem ⟨de⟩ Yehudá, da ⟨família⟩ ⟨de⟩ Yehudá, e ⟨ele⟩ ⟨era⟩ um levita, e ⟨ele⟩ ⟨era⟩ ⟨um⟩ estrangeiro ⟨residente⟩ ⟨lá⟩",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E ⟨havia⟩"
-    },
-    {
-      "surface": "נער",
-      "english": "⟨jovem⟩"
-    },
-    {
-      "surface": "מבית",
-      "english": "de Belém ⟨de⟩",
-      "marks": "Belém"
-    },
-    {
-      "surface": "לחם",
-      "english": "Bet-Léjem"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "ממשפחת",
-      "english": "da ⟨família⟩ ⟨de⟩",
-      "marks": "família"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "והוא",
-      "english": "e ⟨ele⟩ ⟨era⟩"
-    },
-    {
-      "surface": "לוי",
-      "english": "um levita"
-    },
-    {
-      "surface": "והוא",
-      "english": "e ⟨ele⟩ ⟨era⟩"
-    },
-    {
-      "surface": "גר",
-      "english": "⟨um⟩ estrangeiro ⟨residente⟩"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨lá⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:07:39.249481419Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

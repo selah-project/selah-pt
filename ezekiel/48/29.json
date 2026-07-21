@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "ezekiel 48:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 48,
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:54:25.435903998Z",
+  "translation": "Esta é ⟨a⟩ terra que haveis de distribuir por herança ⟨por⟩ sorte às tribos de Yisrael, e estas são ⟨as⟩ suas porções, diz Adonai YHWH.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Esta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "haveis de distribuir"
+    },
+    {
+      "surface": "מנחלה",
+      "gloss": "por herança"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "tribos de Yisrael"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "e estas"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "são ⟨as⟩ suas porções"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "diz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17771,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18253
-  },
-  "translation": "Esta é ⟨a⟩ terra que haveis de distribuir por herança ⟨por⟩ sorte às tribos de Yisrael, e estas são ⟨as⟩ suas porções, diz Adonai YHWH.",
-  "tokens": [
-    {
-      "surface": "זאת",
-      "english": "Esta"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨a⟩ terra"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "תפילו",
-      "english": "haveis de distribuir"
-    },
-    {
-      "surface": "מנחלה",
-      "english": "por herança"
-    },
-    {
-      "surface": "לשבטי",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "tribos de Yisrael"
-    },
-    {
-      "surface": "ואלה",
-      "english": "e estas"
-    },
-    {
-      "surface": "מחלקותם",
-      "english": "são ⟨as⟩ suas porções"
-    },
-    {
-      "surface": "נאם",
-      "english": "diz"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:54:25.435903998Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

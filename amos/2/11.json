@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "amos 2:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 2,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:06:06.662584195Z",
+  "translation": "E estabeleci ⟨a partir de⟩ ⟨os⟩ vossos filhos como profetas e ⟨a partir de⟩ ⟨os⟩ vossos jovens como nazireus. ⟨Não⟩ ⟨é⟩ assim, ⟨ó⟩ filhos de Yisrael? declara YHWH.",
+  "tokens": [
+    {
+      "surface": "ואקים",
+      "gloss": "E estabeleci"
+    },
+    {
+      "surface": "מבניכם",
+      "gloss": "⟨a partir de⟩ ⟨os⟩ vossos filhos",
+      "marks": "vossos filhos"
+    },
+    {
+      "surface": "לנביאים",
+      "gloss": "como profetas"
+    },
+    {
+      "surface": "ומבחוריכם",
+      "gloss": "e ⟨a partir de⟩ ⟨os⟩ vossos jovens",
+      "marks": "vossos jovens"
+    },
+    {
+      "surface": "לנזרים",
+      "gloss": "como nazireus"
+    },
+    {
+      "surface": "האף",
+      "gloss": "⟨Não⟩ ⟨é⟩ assim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨não⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "assim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨ó⟩ filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "declara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,74 +70,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16917,
-    "prompt_tokens_details": {
-      "cached_tokens": 15413
-    },
-    "total_tokens": 17531
-  },
-  "translation": "E estabeleci ⟨a partir de⟩ ⟨os⟩ vossos filhos como profetas e ⟨a partir de⟩ ⟨os⟩ vossos jovens como nazireus. ⟨Não⟩ ⟨é⟩ assim, ⟨ó⟩ filhos de Yisrael? declara YHWH.",
-  "tokens": [
-    {
-      "surface": "ואקים",
-      "english": "E estabeleci"
-    },
-    {
-      "surface": "מבניכם",
-      "english": "⟨a partir de⟩ ⟨os⟩ vossos filhos",
-      "marks": "vossos filhos"
-    },
-    {
-      "surface": "לנביאים",
-      "english": "como profetas"
-    },
-    {
-      "surface": "ומבחוריכם",
-      "english": "e ⟨a partir de⟩ ⟨os⟩ vossos jovens",
-      "marks": "vossos jovens"
-    },
-    {
-      "surface": "לנזרים",
-      "english": "como nazireus"
-    },
-    {
-      "surface": "האף",
-      "english": "⟨Não⟩ ⟨é⟩ assim"
-    },
-    {
-      "surface": "אין",
-      "english": "⟨não⟩"
-    },
-    {
-      "surface": "זאת",
-      "english": "assim"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨ó⟩ filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "נאם",
-      "english": "declara"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:06:06.662584195Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

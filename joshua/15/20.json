@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "joshua 15:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 15,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:40:25.080204367Z",
+  "translation": "Esta ⟨é⟩ ⟨a⟩ herança da tribo dos filhos de Yehudá segundo ⟨as⟩ suas famílias.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Esta"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "herança"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segundo ⟨as⟩ suas famílias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,48 +44,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16203,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 16533
-  },
-  "translation": "Esta ⟨é⟩ ⟨a⟩ herança da tribo dos filhos de Yehudá segundo ⟨as⟩ suas famílias.",
-  "tokens": [
-    {
-      "surface": "זאת",
-      "english": "Esta"
-    },
-    {
-      "surface": "נחלת",
-      "english": "herança"
-    },
-    {
-      "surface": "מטה",
-      "english": "tribo"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "segundo ⟨as⟩ suas famílias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:40:25.080204367Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

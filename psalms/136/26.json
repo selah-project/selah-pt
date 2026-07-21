@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 136:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62706,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63015
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:10:02.450364464Z",
   "translation": "Give thanks ⟨to⟩ the God of ⟨the⟩ heavens, for to forever ⟨is⟩ His kindness.",
   "tokens": [
     {
       "surface": "הודו",
-      "english": "Give thanks",
+      "gloss": "Give thanks",
       "marks": "God of the heavens"
     },
     {
       "surface": "לאל",
-      "english": "⟨to⟩ the God"
+      "gloss": "⟨to⟩ the God"
     },
     {
       "surface": "השמים",
-      "english": "of ⟨the⟩ heavens"
+      "gloss": "of ⟨the⟩ heavens"
     },
     {
       "surface": "כי",
-      "english": "for"
+      "gloss": "for"
     },
     {
       "surface": "לעולם",
-      "english": "to forever"
+      "gloss": "to forever"
     },
     {
       "surface": "חסדו",
-      "english": "⟨is⟩ His kindness"
+      "gloss": "⟨is⟩ His kindness"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:10:02.450364464Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

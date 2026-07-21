@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "numbers 34:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 34,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:47:31.643412682Z",
+  "translation": "Porque ⟨o⟩ ramo ⟨de⟩ filhos ⟨dos⟩ reubenitas, ⟨para a⟩ casa ⟨de seus⟩ pais, e ⟨o⟩ ramo ⟨de⟩ filhos ⟨dos⟩ gaditas, ⟨para a⟩ casa ⟨de seus⟩ pais, e ⟨a⟩ metade ⟨do⟩ ramo ⟨de⟩ Menashé receberam ⟨a⟩ sua herança.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "receberam"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨o⟩ ramo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨de⟩ filhos"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "⟨dos⟩ reubenitas"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨para a⟩ casa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "⟨de seus⟩ pais"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "e ⟨o⟩ ramo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨de⟩ filhos"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "⟨dos⟩ gaditas"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨para a⟩ casa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "⟨de seus⟩ pais"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e ⟨a⟩ metade"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨do⟩ ramo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "⟨de⟩ Menashé"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "receberam"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "⟨a⟩ sua herança"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Manassés",
@@ -13,92 +88,6 @@
       "hebrew": "מנשה־מלך"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 703,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18924,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19627
-  },
-  "translation": "Porque ⟨o⟩ ramo ⟨de⟩ filhos ⟨dos⟩ reubenitas, ⟨para a⟩ casa ⟨de seus⟩ pais, e ⟨o⟩ ramo ⟨de⟩ filhos ⟨dos⟩ gaditas, ⟨para a⟩ casa ⟨de seus⟩ pais, e ⟨a⟩ metade ⟨do⟩ ramo ⟨de⟩ Menashé receberam ⟨a⟩ sua herança.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "לקחו",
-      "english": "receberam"
-    },
-    {
-      "surface": "מטה",
-      "english": "⟨o⟩ ramo"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨de⟩ filhos"
-    },
-    {
-      "surface": "הראובני",
-      "english": "⟨dos⟩ reubenitas"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨para a⟩ casa"
-    },
-    {
-      "surface": "אבתם",
-      "english": "⟨de seus⟩ pais"
-    },
-    {
-      "surface": "ומטה",
-      "english": "e ⟨o⟩ ramo"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨de⟩ filhos"
-    },
-    {
-      "surface": "הגדי",
-      "english": "⟨dos⟩ gaditas"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨para a⟩ casa"
-    },
-    {
-      "surface": "אבתם",
-      "english": "⟨de seus⟩ pais"
-    },
-    {
-      "surface": "וחצי",
-      "english": "e ⟨a⟩ metade"
-    },
-    {
-      "surface": "מטה",
-      "english": "⟨do⟩ ramo"
-    },
-    {
-      "surface": "מנשה",
-      "english": "⟨de⟩ Menashé"
-    },
-    {
-      "surface": "לקחו",
-      "english": "receberam"
-    },
-    {
-      "surface": "נחלתם",
-      "english": "⟨a⟩ sua herança"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:47:31.643412682Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

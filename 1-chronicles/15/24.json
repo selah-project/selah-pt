@@ -1,9 +1,106 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "1-chronicles 15:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 15,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:50:19.837938181Z",
+  "translation": "e Shevanias, e Josafá, e Natanael, e Amasias, e Zacarias, e Benaías, e Eleazar ⟨os⟩ cohanim, ⟨estavam⟩ tocando ⟨com⟩ trombetas ⟨em⟩ ⟨as⟩ trombetas ⟨diante⟩ ⟨da⟩ Aron ⟨de⟩ Elohim, e ⟨o⟩ servo Edom e Jaiá ⟨eram⟩ porteiros ⟨para⟩ ⟨a⟩ Aron",
+  "tokens": [
+    {
+      "surface": "ושבניהו",
+      "gloss": "E Shevanias",
+      "marks": null
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "e Josafá",
+      "marks": null
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "e Natanael",
+      "marks": null
+    },
+    {
+      "surface": "ועמשי",
+      "gloss": "e Amasias",
+      "marks": null
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "e Zacarias",
+      "marks": null
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "e Benaías",
+      "marks": null
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "e Eleazar",
+      "marks": null
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨os⟩ cohanim",
+      "marks": "Shevanias, Josafá, Natanael, Amasias, Zacarias, Benaías, e Eleazar"
+    },
+    {
+      "surface": "מחצצרים",
+      "gloss": "⟨estavam⟩ tocando ⟨com⟩ trombetas",
+      "marks": "⟨com⟩ trombetas ⟨em⟩ ⟨as⟩ trombetas"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "⟨em⟩ ⟨as⟩ trombetas",
+      "marks": null
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨diante⟩ ⟨da⟩",
+      "marks": null
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron",
+      "marks": null
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨de⟩ Elohim",
+      "marks": null
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "e ⟨o⟩ servo",
+      "marks": null
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom",
+      "marks": null
+    },
+    {
+      "surface": "ויחיה",
+      "gloss": "e Jaiá",
+      "marks": null
+    },
+    {
+      "surface": "שערים",
+      "gloss": "⟨eram⟩ porteiros",
+      "marks": null
+    },
+    {
+      "surface": "לארון",
+      "gloss": "⟨para⟩ ⟨a⟩ arca",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "arca",
@@ -13,114 +110,6 @@
       "hebrew": "ארון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 1329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58268,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 59597
-  },
-  "translation": "e Shevanias, e Josafá, e Natanael, e Amasias, e Zacarias, e Benaías, e Eleazar ⟨os⟩ cohanim, ⟨estavam⟩ tocando ⟨com⟩ trombetas ⟨em⟩ ⟨as⟩ trombetas ⟨diante⟩ ⟨da⟩ Aron ⟨de⟩ Elohim, e ⟨o⟩ servo Edom e Jaiá ⟨eram⟩ porteiros ⟨para⟩ ⟨a⟩ Aron",
-  "tokens": [
-    {
-      "surface": "ושבניהו",
-      "english": "E Shevanias",
-      "marks": null
-    },
-    {
-      "surface": "ויושפט",
-      "english": "e Josafá",
-      "marks": null
-    },
-    {
-      "surface": "ונתנאל",
-      "english": "e Natanael",
-      "marks": null
-    },
-    {
-      "surface": "ועמשי",
-      "english": "e Amasias",
-      "marks": null
-    },
-    {
-      "surface": "וזכריהו",
-      "english": "e Zacarias",
-      "marks": null
-    },
-    {
-      "surface": "ובניהו",
-      "english": "e Benaías",
-      "marks": null
-    },
-    {
-      "surface": "ואליעזר",
-      "english": "e Eleazar",
-      "marks": null
-    },
-    {
-      "surface": "הכהנים",
-      "english": "⟨os⟩ cohanim",
-      "marks": "Shevanias, Josafá, Natanael, Amasias, Zacarias, Benaías, e Eleazar"
-    },
-    {
-      "surface": "מחצצרים",
-      "english": "⟨estavam⟩ tocando ⟨com⟩ trombetas",
-      "marks": "⟨com⟩ trombetas ⟨em⟩ ⟨as⟩ trombetas"
-    },
-    {
-      "surface": "בחצצרות",
-      "english": "⟨em⟩ ⟨as⟩ trombetas",
-      "marks": null
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨diante⟩ ⟨da⟩",
-      "marks": null
-    },
-    {
-      "surface": "ארון",
-      "english": "Aron",
-      "marks": null
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨de⟩ Elohim",
-      "marks": null
-    },
-    {
-      "surface": "ועבד",
-      "english": "e ⟨o⟩ servo",
-      "marks": null
-    },
-    {
-      "surface": "אדם",
-      "english": "Edom",
-      "marks": null
-    },
-    {
-      "surface": "ויחיה",
-      "english": "e Jaiá",
-      "marks": null
-    },
-    {
-      "surface": "שערים",
-      "english": "⟨eram⟩ porteiros",
-      "marks": null
-    },
-    {
-      "surface": "לארון",
-      "english": "⟨para⟩ ⟨a⟩ arca",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:50:19.837938181Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

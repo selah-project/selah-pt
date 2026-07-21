@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 75:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 75,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63040,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63559
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:29:11.295016925Z",
   "translation": "Porque Elohim ⟨é⟩ juiz: este ⟨ele⟩ ⟨o⟩ abaixa, e este ⟨ele⟩ exalta.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "שפט",
-      "english": "⟨é⟩ juiz"
+      "gloss": "⟨é⟩ juiz"
     },
     {
       "surface": "זה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "ישפיל",
-      "english": "⟨ele⟩ ⟨o⟩ abaixa"
+      "gloss": "⟨ele⟩ ⟨o⟩ abaixa"
     },
     {
       "surface": "וזה",
-      "english": "e este"
+      "gloss": "e este"
     },
     {
       "surface": "ירים",
-      "english": "⟨ele⟩ exalta"
+      "gloss": "⟨ele⟩ exalta"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:29:11.295016925Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

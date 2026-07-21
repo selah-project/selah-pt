@@ -1,70 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "deuteronomy 8:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17841,
-    "prompt_tokens_details": {
-      "cached_tokens": 16575
-    },
-    "total_tokens": 18408
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:59:03.246469261Z",
   "translation": "uma terra ⟨de⟩ trigo e cevada, ⟨e⟩ videiras, ⟨e⟩ figos, ⟨e⟩ romãs; uma terra ⟨de⟩ azeitonas ⟨de⟩ azeite ⟨e⟩ mel;",
   "tokens": [
     {
       "surface": "ארץ",
-      "english": "Uma terra ⟨de⟩",
+      "gloss": "Uma terra ⟨de⟩",
       "marks": "trigo e cevada, e videiras, e figos, e romãs"
     },
     {
       "surface": "חטה",
-      "english": "trigo"
+      "gloss": "trigo"
     },
     {
       "surface": "ושערה",
-      "english": "e cevada"
+      "gloss": "e cevada"
     },
     {
       "surface": "וגפן",
-      "english": "e videiras"
+      "gloss": "e videiras"
     },
     {
       "surface": "ותאנה",
-      "english": "e figos"
+      "gloss": "e figos"
     },
     {
       "surface": "ורמון",
-      "english": "e romãs"
+      "gloss": "e romãs"
     },
     {
       "surface": "ארץ",
-      "english": "uma terra ⟨de⟩",
+      "gloss": "uma terra ⟨de⟩",
       "marks": "azeitonas de azeite e mel"
     },
     {
       "surface": "זית",
-      "english": "azeitonas"
+      "gloss": "azeitonas"
     },
     {
       "surface": "שמן",
-      "english": "⟨de⟩ azeite"
+      "gloss": "⟨de⟩ azeite"
     },
     {
       "surface": "ודבש",
-      "english": "e mel"
+      "gloss": "e mel"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:59:03.246469261Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

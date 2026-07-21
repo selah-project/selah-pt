@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 108:6",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 364,
-    "prompt_tokens": 70389,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70753
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:46:42.432144521Z",
   "translation": "Sê exaltado, Elohim, ⟨sobre⟩ os céus, e ⟨sobre⟩ toda a terra, ⟨é⟩ a tua glória.",
   "tokens": [
     {
       "surface": "רומה",
-      "english": "Sê exaltado"
+      "gloss": "Sê exaltado"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "שמים",
-      "english": "os céus"
+      "gloss": "os céus"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ועל",
-      "english": "e ⟨sobre⟩"
+      "gloss": "e ⟨sobre⟩"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "הארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     },
     {
       "surface": "כבודך",
-      "english": "a tua glória"
+      "gloss": "a tua glória"
     }
-  ],
-  "timestamp": "2026-07-16T17:46:42.432144521Z",
-  "model": "glm-4.5"
+  ]
 }

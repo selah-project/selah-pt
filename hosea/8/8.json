@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "hosea 8:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 8,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:59:06.231987792Z",
+  "translation": "Yisrael ⟨é⟩ devorado; agora ⟨estarão⟩ entre as nações como um vaso ⟨em⟩ que ⟨há⟩ nenhum prazer ⟨nele⟩",
+  "tokens": [
+    {
+      "surface": "נבלע",
+      "gloss": "Devorado",
+      "lemma": 1104,
+      "freq": 1,
+      "gv": 152,
+      "notes": "Hapax - occurs only once in Tanakh; intensified form meaning 'swallowed up\/devoured completely'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael",
+      "lemma": 3478,
+      "freq": 2266,
+      "gv": 541,
+      "notes": "Proper name; no alternate rendering needed"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "agora",
+      "lemma": 6258,
+      "freq": 150,
+      "gv": 475,
+      "notes": "Temporal adverb marking immediate consequence"
+    },
+    {
+      "surface": "היו",
+      "gloss": "estarão",
+      "lemma": 1961,
+      "freq": 172,
+      "gv": 21,
+      "notes": "Hebrew lacks future tense marker - English requires auxiliary verb"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "entre as nações",
+      "lemma": "ב\/גוים",
+      "freq": 75,
+      "gv": 61,
+      "notes": "Prepositional phrase; 'in the nations' - ב indicates location among"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "como um vaso",
+      "lemma": "כ\/כלי",
+      "freq": 7,
+      "gv": 80,
+      "notes": "Simile marker כ (as\/like) + noun כלי (vessel\/container)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nenhum",
+      "lemma": 369,
+      "freq": 383,
+      "gv": 61,
+      "notes": "Negative existential particle - stronger than simple 'not'"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "prazer",
+      "lemma": 2656,
+      "freq": 46,
+      "gv": 178,
+      "notes": "Root meaning 'desire\/pleasure' - can also mean 'valuable thing'"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nele",
+      "lemma": "ב",
+      "freq": 364,
+      "gv": 8,
+      "notes": "Pronominal suffix - refers back to the vessel (כלי)"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,96 +92,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 913,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19574,
-    "prompt_tokens_details": {
-      "cached_tokens": 18473
-    },
-    "total_tokens": 20487
-  },
-  "translation": "Yisrael ⟨é⟩ devorado; agora ⟨estarão⟩ entre as nações como um vaso ⟨em⟩ que ⟨há⟩ nenhum prazer ⟨nele⟩",
-  "tokens": [
-    {
-      "surface": "נבלע",
-      "english": "Devorado",
-      "lemma": 1104,
-      "freq": 1,
-      "gv": 152,
-      "notes": "Hapax - occurs only once in Tanakh; intensified form meaning 'swallowed up\/devoured completely'"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael",
-      "lemma": 3478,
-      "freq": 2266,
-      "gv": 541,
-      "notes": "Proper name; no alternate rendering needed"
-    },
-    {
-      "surface": "עתה",
-      "english": "agora",
-      "lemma": 6258,
-      "freq": 150,
-      "gv": 475,
-      "notes": "Temporal adverb marking immediate consequence"
-    },
-    {
-      "surface": "היו",
-      "english": "estarão",
-      "lemma": 1961,
-      "freq": 172,
-      "gv": 21,
-      "notes": "Hebrew lacks future tense marker - English requires auxiliary verb"
-    },
-    {
-      "surface": "בגוים",
-      "english": "entre as nações",
-      "lemma": "ב\/גוים",
-      "freq": 75,
-      "gv": 61,
-      "notes": "Prepositional phrase; 'in the nations' - ב indicates location among"
-    },
-    {
-      "surface": "ככלי",
-      "english": "como um vaso",
-      "lemma": "כ\/כלי",
-      "freq": 7,
-      "gv": 80,
-      "notes": "Simile marker כ (as\/like) + noun כלי (vessel\/container)"
-    },
-    {
-      "surface": "אין",
-      "english": "nenhum",
-      "lemma": 369,
-      "freq": 383,
-      "gv": 61,
-      "notes": "Negative existential particle - stronger than simple 'not'"
-    },
-    {
-      "surface": "חפץ",
-      "english": "prazer",
-      "lemma": 2656,
-      "freq": 46,
-      "gv": 178,
-      "notes": "Root meaning 'desire\/pleasure' - can also mean 'valuable thing'"
-    },
-    {
-      "surface": "בו",
-      "english": "nele",
-      "lemma": "ב",
-      "freq": 364,
-      "gv": 8,
-      "notes": "Pronominal suffix - refers back to the vessel (כלי)"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:59:06.231987792Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 136:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 136,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:10:04.565792146Z",
+  "translation": "Louvai ⟨a⟩ ⟨o⟩ Adonai ⟨dos⟩ Adonim porque para ⟨o⟩ sempre ⟨é⟩ ⟨a⟩ sua Jésed amorosa",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Louvai"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "⟨a⟩ ⟨o⟩ Adonai"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "⟨dos⟩ Adonim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "para ⟨o⟩ sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨é⟩ ⟨a⟩ sua Jésed amorosa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "bondade",
@@ -13,48 +44,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 136,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62807,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63212
-  },
-  "translation": "Louvai ⟨a⟩ ⟨o⟩ Adonai ⟨dos⟩ Adonim porque para ⟨o⟩ sempre ⟨é⟩ ⟨a⟩ sua Jésed amorosa",
-  "tokens": [
-    {
-      "surface": "הודו",
-      "english": "Louvai"
-    },
-    {
-      "surface": "לאדני",
-      "english": "⟨a⟩ ⟨o⟩ Adonai"
-    },
-    {
-      "surface": "האדנים",
-      "english": "⟨dos⟩ Adonim"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "לעלם",
-      "english": "para ⟨o⟩ sempre"
-    },
-    {
-      "surface": "חסדו",
-      "english": "⟨é⟩ ⟨a⟩ sua Jésed amorosa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:10:04.565792146Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

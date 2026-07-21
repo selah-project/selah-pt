@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "exodus 22:18",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 453,
-    "prompt_tokens": 24049,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24502
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:54:26.425133465Z",
   "translation": "Todo aquele que se deita com ⟨את⟩ animal certamente ⟨será⟩ morto",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo aquele que"
+      "gloss": "Todo aquele que"
     },
     {
       "surface": "שכב",
-      "english": "se deita"
+      "gloss": "se deita"
     },
     {
       "surface": "עם",
-      "english": "com"
+      "gloss": "com"
     },
     {
       "surface": "בהמה",
-      "english": "animal"
+      "gloss": "animal"
     },
     {
       "surface": "מות",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יומת",
-      "english": "certamente ⟨será⟩ morto"
+      "gloss": "certamente ⟨será⟩ morto"
     }
-  ],
-  "timestamp": "2026-07-16T13:54:26.425133465Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 94:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62745,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63085
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:42:20.211483148Z",
   "translation": "Teu povo, ó ⟨את⟩ YHWH, esmagam ⟨e⟩ a tua herança oprimem",
   "tokens": [
     {
       "surface": "עמך",
-      "english": "Teu povo"
+      "gloss": "Teu povo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ידכאו",
-      "english": "esmagam"
+      "gloss": "esmagam"
     },
     {
       "surface": "ונחלתך",
-      "english": "⟨e⟩ a tua herança",
+      "gloss": "⟨e⟩ a tua herança",
       "marks": "a tua herança"
     },
     {
       "surface": "יענו",
-      "english": "oprimem"
+      "gloss": "oprimem"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:42:20.211483148Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

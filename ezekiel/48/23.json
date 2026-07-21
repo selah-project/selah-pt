@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "ezekiel 48:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 48,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:54:09.952986689Z",
+  "translation": "E ⟨as⟩ ⟨o⟩ resto ⟨dos⟩ tribos, da ⟨a⟩ extremidade leste até ⟨a⟩ extremidade oeste, ⟨a⟩ Binyamim ⟨é⟩ um.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "E ⟨as⟩ ⟨o⟩ resto"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "⟨dos⟩ tribos"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "da ⟨a⟩ extremidade"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "leste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨a⟩ extremidade"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "oeste"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "⟨a⟩ Binyamim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨é⟩ um"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Benjamim",
@@ -13,60 +56,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17472,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 17921
-  },
-  "translation": "E ⟨as⟩ ⟨o⟩ resto ⟨dos⟩ tribos, da ⟨a⟩ extremidade leste até ⟨a⟩ extremidade oeste, ⟨a⟩ Binyamim ⟨é⟩ um.",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "E ⟨as⟩ ⟨o⟩ resto"
-    },
-    {
-      "surface": "השבטים",
-      "english": "⟨dos⟩ tribos"
-    },
-    {
-      "surface": "מפאת",
-      "english": "da ⟨a⟩ extremidade"
-    },
-    {
-      "surface": "קדימה",
-      "english": "leste"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "פאת",
-      "english": "⟨a⟩ extremidade"
-    },
-    {
-      "surface": "ימה",
-      "english": "oeste"
-    },
-    {
-      "surface": "בנימן",
-      "english": "⟨a⟩ Binyamim"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨é⟩ um"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:54:09.952986689Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

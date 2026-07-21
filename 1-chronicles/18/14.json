@@ -1,9 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-chronicles 18:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 18,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:53:25.785403250Z",
+  "translation": "E Davidd reinou ⟨sobre⟩ todo Yisrael, ⟨e⟩ fez juízo e justiça ⟨para⟩ todo seu povo.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "E ... reinou",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd",
+      "marks": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩",
+      "marks": "todo Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo",
+      "marks": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael",
+      "marks": ""
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨e⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fez",
+      "marks": ""
+    },
+    {
+      "surface": "משפט",
+      "gloss": "juízo",
+      "marks": ""
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "e justiça",
+      "marks": ""
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨para⟩ todo",
+      "marks": "povo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "seu povo",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,79 +82,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57340,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57811
-  },
-  "translation": "E Davidd reinou ⟨sobre⟩ todo Yisrael, ⟨e⟩ fez juízo e justiça ⟨para⟩ todo seu povo.",
-  "tokens": [
-    {
-      "surface": "וימלך",
-      "english": "E ... reinou",
-      "marks": "David"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd",
-      "marks": ""
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩",
-      "marks": "todo Israel"
-    },
-    {
-      "surface": "כל",
-      "english": "todo",
-      "marks": ""
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael",
-      "marks": ""
-    },
-    {
-      "surface": "ויהי",
-      "english": "⟨e⟩",
-      "marks": "David"
-    },
-    {
-      "surface": "עשה",
-      "english": "fez",
-      "marks": ""
-    },
-    {
-      "surface": "משפט",
-      "english": "juízo",
-      "marks": ""
-    },
-    {
-      "surface": "וצדקה",
-      "english": "e justiça",
-      "marks": ""
-    },
-    {
-      "surface": "לכל",
-      "english": "⟨para⟩ todo",
-      "marks": "povo"
-    },
-    {
-      "surface": "עמו",
-      "english": "seu povo",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:53:25.785403250Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

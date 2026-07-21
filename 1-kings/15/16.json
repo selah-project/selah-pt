@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-kings 15:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 15,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:33:02.008338142Z",
+  "translation": "E ⟨houve⟩ guerra entre Asa e ⟨o⟩ rei Baasha de Yisrael ⟨por todos⟩ os dias deles",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "E guerra"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨houve⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "⟨o⟩ rei Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨por todos⟩"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "os dias deles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62516,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62875
-  },
-  "translation": "E ⟨houve⟩ guerra entre Asa e ⟨o⟩ rei Baasha de Yisrael ⟨por todos⟩ os dias deles",
-  "tokens": [
-    {
-      "surface": "ומלחמה",
-      "english": "E guerra"
-    },
-    {
-      "surface": "היתה",
-      "english": "⟨houve⟩"
-    },
-    {
-      "surface": "בין",
-      "english": "entre"
-    },
-    {
-      "surface": "אסא",
-      "english": "Asa"
-    },
-    {
-      "surface": "ובין",
-      "english": "e"
-    },
-    {
-      "surface": "בעשא",
-      "english": "⟨o⟩ rei Baasha"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨por todos⟩"
-    },
-    {
-      "surface": "ימיהם",
-      "english": "os dias deles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:33:02.008338142Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

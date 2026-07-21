@@ -1,48 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-chronicles 1:15",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 348,
-    "prompt_tokens": 64454,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64802
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:05:17.996184367Z",
   "translation": "e ⟨את⟩ o Hivita, e ⟨את⟩ o Arquita, e ⟨את⟩ o Sinita",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o Hivita"
     },
     {
       "surface": "החוי",
-      "english": "o Hivita"
+      "gloss": "o Hivita"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o Arquita"
     },
     {
       "surface": "הערקי",
-      "english": "o Arquita"
+      "gloss": "o Arquita"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o Sinita"
     },
     {
       "surface": "הסיני",
-      "english": "o Sinita"
+      "gloss": "o Sinita"
     }
-  ],
-  "timestamp": "2026-07-16T11:05:17.996184367Z",
-  "model": "glm-4.5"
+  ]
 }

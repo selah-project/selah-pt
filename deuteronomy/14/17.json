@@ -1,43 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "deuteronomy 14:17",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 424,
-    "prompt_tokens": 24903,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25327
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:20:40.436646760Z",
   "translation": "e o pelicano, e ⟨את⟩ o abutre, e ⟨את⟩ o corvo-marinho",
   "tokens": [
     {
       "surface": "והקאת",
-      "english": "e o pelicano"
+      "gloss": "e o pelicano"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o abutre"
     },
     {
       "surface": "הרחמה",
-      "english": "o abutre"
+      "gloss": "o abutre"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o corvo-marinho"
     },
     {
       "surface": "השלך",
-      "english": "o corvo-marinho"
+      "gloss": "o corvo-marinho"
     }
-  ],
-  "timestamp": "2026-07-16T13:20:40.436646760Z",
-  "model": "glm-4.5"
+  ]
 }

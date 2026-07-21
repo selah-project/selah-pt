@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "2-kings 15:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 15,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:00:52.045363261Z",
+  "translation": "No ano cinquenta ⟨do⟩ reinado ⟨de⟩ Azariah, rei de Yehudá, ⟨o⟩ Pekahiah, filho ⟨de⟩ Menahem, começou a reinar sobre Yisrael em Samaria ⟨por⟩ dois anos",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "No ano"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "לעזריה",
+      "gloss": "reinado ⟨de⟩ Azariah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "começou a reinar"
+    },
+    {
+      "surface": "פקחיה",
+      "gloss": "⟨o⟩ Pekahiah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho ⟨de⟩"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menahem"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "em Samaria"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "⟨por⟩ dois anos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,80 +83,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17448,
-    "prompt_tokens_details": {
-      "cached_tokens": 15784
-    },
-    "total_tokens": 17986
-  },
-  "translation": "No ano cinquenta ⟨do⟩ reinado ⟨de⟩ Azariah, rei de Yehudá, ⟨o⟩ Pekahiah, filho ⟨de⟩ Menahem, começou a reinar sobre Yisrael em Samaria ⟨por⟩ dois anos",
-  "tokens": [
-    {
-      "surface": "בשנת",
-      "english": "No ano"
-    },
-    {
-      "surface": "חמשים",
-      "english": "cinquenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "⟨do⟩"
-    },
-    {
-      "surface": "לעזריה",
-      "english": "reinado ⟨de⟩ Azariah"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "מלך",
-      "english": "começou a reinar"
-    },
-    {
-      "surface": "פקחיה",
-      "english": "⟨o⟩ Pekahiah"
-    },
-    {
-      "surface": "בן",
-      "english": "filho ⟨de⟩"
-    },
-    {
-      "surface": "מנחם",
-      "english": "Menahem"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בשמרון",
-      "english": "em Samaria"
-    },
-    {
-      "surface": "שנתים",
-      "english": "⟨por⟩ dois anos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:00:52.045363261Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

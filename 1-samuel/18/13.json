@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-samuel 18:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 18,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:29:59.839411532Z",
+  "translation": "Então Shaul removeu ⟨את⟩ David de sua presença e o fez ⟨para si⟩ comandante de mil; e ele saiu e entrou diante do povo.",
+  "tokens": [
+    {
+      "surface": "ויסרהו",
+      "gloss": "Então removeu ⟨o⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "de sua presença"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "e o fez"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para si⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "comandante"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e saiu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e entrou"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante de"
+    },
+    {
+      "surface": "העם",
+      "gloss": "o povo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -13,68 +64,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16643,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 17042
-  },
-  "translation": "Então Shaul removeu ⟨את⟩ David de sua presença e o fez ⟨para si⟩ comandante de mil; e ele saiu e entrou diante do povo.",
-  "tokens": [
-    {
-      "surface": "ויסרהו",
-      "english": "Então removeu ⟨o⟩"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "מעמו",
-      "english": "de sua presença"
-    },
-    {
-      "surface": "וישמהו",
-      "english": "e o fez"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para si⟩"
-    },
-    {
-      "surface": "שר",
-      "english": "comandante"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil"
-    },
-    {
-      "surface": "ויצא",
-      "english": "e saiu"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e entrou"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante de"
-    },
-    {
-      "surface": "העם",
-      "english": "o povo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:29:59.839411532Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

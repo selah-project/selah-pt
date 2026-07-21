@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "job 19:23",
   "book": "job",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 580,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27492,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 28072
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:45:21.685531257Z",
   "translation": "Quem dera ⟨fossem⟩ agora escritas ⟨as⟩ minhas palavras! Quem dera ⟨fossem⟩ gravadas ⟨num⟩ livro!",
   "tokens": [
     {
       "surface": "מי",
-      "english": "Quem dera",
+      "gloss": "Quem dera",
       "marks": "desejo expresso"
     },
     {
       "surface": "יתן",
-      "english": "⟨fossem⟩",
+      "gloss": "⟨fossem⟩",
       "marks": "desejo expresso"
     },
     {
       "surface": "אפו",
-      "english": "agora"
+      "gloss": "agora"
     },
     {
       "surface": "ויכתבון",
-      "english": "escritas",
+      "gloss": "escritas",
       "marks": "as minhas palavras"
     },
     {
       "surface": "מלי",
-      "english": "⟨as⟩ minhas palavras"
+      "gloss": "⟨as⟩ minhas palavras"
     },
     {
       "surface": "מי",
-      "english": "Quem dera",
+      "gloss": "Quem dera",
       "marks": "desejo expresso"
     },
     {
       "surface": "יתן",
-      "english": "⟨fossem⟩",
+      "gloss": "⟨fossem⟩",
       "marks": "desejo expresso"
     },
     {
       "surface": "בספר",
-      "english": "⟨num⟩ livro"
+      "gloss": "⟨num⟩ livro"
     },
     {
       "surface": "ויחקו",
-      "english": "gravadas"
+      "gloss": "gravadas"
     }
-  ],
-  "timestamp": "2026-06-13T06:45:21.685531257Z",
-  "model": "glm-4.5"
+  ]
 }

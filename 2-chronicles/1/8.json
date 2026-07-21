@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-chronicles 1:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 1,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:06:51.093265063Z",
+  "translation": "E Shelomah disse a Elohim: ⟨Tu⟩ fizeste com Davidd, meu pai, ⟨um⟩ hesed (Jésed) grande, e fizeste-me reinar ⟨em⟩ ⟨seu⟩ lugar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Shelomah disse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨Tu⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "fizeste"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meu pai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "⟨um⟩ hesed (Jésed)"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "e fizeste-me reinar"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨em⟩ ⟨seu⟩ lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,72 +75,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 617,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58462,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59079
-  },
-  "translation": "E Shelomah disse a Elohim: ⟨Tu⟩ fizeste com Davidd, meu pai, ⟨um⟩ hesed (Jésed) grande, e fizeste-me reinar ⟨em⟩ ⟨seu⟩ lugar.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Shelomah disse"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomah"
-    },
-    {
-      "surface": "לאלהים",
-      "english": "a Elohim"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨Tu⟩"
-    },
-    {
-      "surface": "עשית",
-      "english": "fizeste"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אבי",
-      "english": "meu pai"
-    },
-    {
-      "surface": "חסד",
-      "english": "⟨um⟩ hesed (Jésed)"
-    },
-    {
-      "surface": "גדול",
-      "english": "grande"
-    },
-    {
-      "surface": "והמלכתני",
-      "english": "e fizeste-me reinar"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "⟨em⟩ ⟨seu⟩ lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:06:51.093265063Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

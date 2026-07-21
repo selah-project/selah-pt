@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "numbers 10:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 10,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:20:19.257036449Z",
+  "translation": "e sobre ⟨o⟩ ⟨את⟩ exército ⟨do⟩ pavilhão dos filhos de Asher ⟨estava⟩ Pagiel filho de Ochran",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E sobre"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "exército"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "pavilhão"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Pagiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Ochran"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Aser",
@@ -13,56 +52,6 @@
       "hebrew": "אשר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18049,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18420
-  },
-  "translation": "e sobre ⟨o⟩ ⟨את⟩ exército ⟨do⟩ pavilhão dos filhos de Asher ⟨estava⟩ Pagiel filho de Ochran",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "E sobre"
-    },
-    {
-      "surface": "צבא",
-      "english": "exército"
-    },
-    {
-      "surface": "מטה",
-      "english": "pavilhão"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "אשר",
-      "english": "Asher"
-    },
-    {
-      "surface": "פגעיאל",
-      "english": "Pagiel"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "עכרן",
-      "english": "Ochran"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:20:19.257036449Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

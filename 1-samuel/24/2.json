@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-samuel 24:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 24,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:36:04.530377191Z",
+  "translation": "E aconteceu que, quando Shaul ⟨retornou⟩ de após ⟨os⟩ Pelishtim, ⟨o⟩ disseram-lhe, dizendo: Eis ⟨que⟩ Davidd ⟨está⟩ no deserto de En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu que"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Saul ⟨retornou⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "de após"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨os⟩ Pelishtim"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "⟨o⟩ disseram-lhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lhe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis ⟨que⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd ⟨está⟩"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "no deserto"
+    },
+    {
+      "surface": "עין",
+      "gloss": "de"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "En-Gedi"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -27,80 +90,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16910,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17436
-  },
-  "translation": "E aconteceu que, quando Shaul ⟨retornou⟩ de após ⟨os⟩ Pelishtim, ⟨o⟩ disseram-lhe, dizendo: Eis ⟨que⟩ Davidd ⟨está⟩ no deserto de En-Gedi.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu que"
-    },
-    {
-      "surface": "כאשר",
-      "english": "quando"
-    },
-    {
-      "surface": "שב",
-      "english": "Saul ⟨retornou⟩"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "מאחרי",
-      "english": "de após"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨os⟩ Pelishtim"
-    },
-    {
-      "surface": "ויגדו",
-      "english": "⟨o⟩ disseram-lhe"
-    },
-    {
-      "surface": "לו",
-      "english": "-lhe"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis ⟨que⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd ⟨está⟩"
-    },
-    {
-      "surface": "במדבר",
-      "english": "no deserto"
-    },
-    {
-      "surface": "עין",
-      "english": "de"
-    },
-    {
-      "surface": "גדי",
-      "english": "En-Gedi"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:36:04.530377191Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

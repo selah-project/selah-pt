@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 2:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62819,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63349
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:40:12.318420993Z",
   "translation": "E agora, reis, sede prudentes; ⟨sede⟩ ⟨admoestados⟩, juízes ⟨da⟩ terra.",
   "tokens": [
     {
       "surface": "וְעַתָּה",
-      "english": "E agora"
+      "gloss": "E agora"
     },
     {
       "surface": "מְלָכִים",
-      "english": "reis"
+      "gloss": "reis"
     },
     {
       "surface": "הַשְׂכִּ֑ילוּ",
-      "english": "sede prudentes"
+      "gloss": "sede prudentes"
     },
     {
       "surface": "הִ֝וָּסְר֗וּ",
-      "english": "⟨sede⟩ ⟨admoestados⟩"
+      "gloss": "⟨sede⟩ ⟨admoestados⟩"
     },
     {
       "surface": "שֹׁ֣פְטֵי",
-      "english": "juízes"
+      "gloss": "juízes"
     },
     {
       "surface": "אָֽרֶץ",
-      "english": "terra",
+      "gloss": "terra",
       "marks": "terra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:40:12.318420993Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

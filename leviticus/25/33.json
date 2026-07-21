@@ -1,9 +1,111 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "leviticus 25:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 25,
+  "verse": 33,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:04:39.455090514Z",
+  "translation": "E ⟨o que⟩ ⟨ser⟩ resgatado dos levitas ⟨את⟩ ⟨a⟩ saída ⟨de⟩ venda ⟨de⟩ casa e cidade ⟨de sua⟩ possessão ⟨no⟩ jubileu, porque ⟨as⟩ casas ⟨das⟩ cidades dos levitas ⟨são⟩ possessão ⟨deles⟩ ⟨no⟩ meio ⟨dos⟩ filhos de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "E ⟨o que⟩",
+      "marks": null
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "⟨ser⟩ resgatado",
+      "marks": null
+    },
+    {
+      "surface": "מן",
+      "gloss": "dos",
+      "marks": null
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitas",
+      "marks": null
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "⟨a⟩ saída",
+      "marks": null
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "⟨de⟩ venda",
+      "marks": null
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨de⟩ casa",
+      "marks": null
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "e cidade",
+      "marks": null
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "⟨de sua⟩ possessão",
+      "marks": null
+    },
+    {
+      "surface": "ביבל",
+      "gloss": "⟨no⟩ jubileu",
+      "marks": null
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque",
+      "marks": null
+    },
+    {
+      "surface": "בתי",
+      "gloss": "⟨as⟩ casas",
+      "marks": null
+    },
+    {
+      "surface": "ערי",
+      "gloss": "⟨das⟩ cidades",
+      "marks": null
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dos levitas",
+      "marks": null
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨são⟩",
+      "marks": null
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "possessão ⟨deles⟩",
+      "marks": null
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "⟨no⟩ meio",
+      "marks": null
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos",
+      "marks": null
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,119 +115,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 907,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18504,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 19411
-  },
-  "translation": "E ⟨o que⟩ ⟨ser⟩ resgatado dos levitas ⟨את⟩ ⟨a⟩ saída ⟨de⟩ venda ⟨de⟩ casa e cidade ⟨de sua⟩ possessão ⟨no⟩ jubileu, porque ⟨as⟩ casas ⟨das⟩ cidades dos levitas ⟨são⟩ possessão ⟨deles⟩ ⟨no⟩ meio ⟨dos⟩ filhos de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ואשר",
-      "english": "E ⟨o que⟩",
-      "marks": null
-    },
-    {
-      "surface": "יגאל",
-      "english": "⟨ser⟩ resgatado",
-      "marks": null
-    },
-    {
-      "surface": "מן",
-      "english": "dos",
-      "marks": null
-    },
-    {
-      "surface": "הלוים",
-      "english": "levitas",
-      "marks": null
-    },
-    {
-      "surface": "ויצא",
-      "english": "⟨a⟩ saída",
-      "marks": null
-    },
-    {
-      "surface": "ממכר",
-      "english": "⟨de⟩ venda",
-      "marks": null
-    },
-    {
-      "surface": "בית",
-      "english": "⟨de⟩ casa",
-      "marks": null
-    },
-    {
-      "surface": "ועיר",
-      "english": "e cidade",
-      "marks": null
-    },
-    {
-      "surface": "אחזתו",
-      "english": "⟨de sua⟩ possessão",
-      "marks": null
-    },
-    {
-      "surface": "ביבל",
-      "english": "⟨no⟩ jubileu",
-      "marks": null
-    },
-    {
-      "surface": "כי",
-      "english": "porque",
-      "marks": null
-    },
-    {
-      "surface": "בתי",
-      "english": "⟨as⟩ casas",
-      "marks": null
-    },
-    {
-      "surface": "ערי",
-      "english": "⟨das⟩ cidades",
-      "marks": null
-    },
-    {
-      "surface": "הלוים",
-      "english": "dos levitas",
-      "marks": null
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨são⟩",
-      "marks": null
-    },
-    {
-      "surface": "אחזתם",
-      "english": "possessão ⟨deles⟩",
-      "marks": null
-    },
-    {
-      "surface": "בתוך",
-      "english": "⟨no⟩ meio",
-      "marks": null
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos",
-      "marks": null
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:04:39.455090514Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

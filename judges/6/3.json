@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "judges 6:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 6,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:55:37.232833546Z",
+  "translation": "E acontecerá ⟨que⟩, quando Yisrael ⟨tiver⟩ semeado, os midianitas ⟨subirão⟩, ⟨e⟩ os amalequitas, ⟨e⟩ os filhos ⟨do⟩ leste, ⟨e⟩ subirão contra ⟨ele⟩",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E acontecerá"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨que⟩, quando"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "Israel ⟨tiver⟩ semeado"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "os midianitas ⟨subirão⟩"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "midianitas"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "⟨e⟩ os amalequitas"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "⟨e⟩ os filhos"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "⟨do⟩ leste"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "⟨e⟩ subirão"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "contra ⟨ele⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 547,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16553,
-    "prompt_tokens_details": {
-      "cached_tokens": 15157
-    },
-    "total_tokens": 17100
-  },
-  "translation": "E acontecerá ⟨que⟩, quando Yisrael ⟨tiver⟩ semeado, os midianitas ⟨subirão⟩, ⟨e⟩ os amalequitas, ⟨e⟩ os filhos ⟨do⟩ leste, ⟨e⟩ subirão contra ⟨ele⟩",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "E acontecerá"
-    },
-    {
-      "surface": "אם",
-      "english": "⟨que⟩, quando"
-    },
-    {
-      "surface": "זרע",
-      "english": "Israel ⟨tiver⟩ semeado"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ועלה",
-      "english": "os midianitas ⟨subirão⟩"
-    },
-    {
-      "surface": "מדין",
-      "english": "midianitas"
-    },
-    {
-      "surface": "ועמלק",
-      "english": "⟨e⟩ os amalequitas"
-    },
-    {
-      "surface": "ובני",
-      "english": "⟨e⟩ os filhos"
-    },
-    {
-      "surface": "קדם",
-      "english": "⟨do⟩ leste"
-    },
-    {
-      "surface": "ועלו",
-      "english": "⟨e⟩ subirão"
-    },
-    {
-      "surface": "עליו",
-      "english": "contra ⟨ele⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:55:37.232833546Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

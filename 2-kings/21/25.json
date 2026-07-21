@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "2-kings 21:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 21,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:08:40.262176405Z",
+  "translation": "E o restante das palavras de Amon que ⟨ele⟩ fez, porventura não estão elas ⟨escritas⟩ no livro das palavras dos dias ⟨pertencentes⟩ aos reis de Yehudá?",
+  "tokens": [
+    {
+      "surface": "והתר",
+      "gloss": "E o restante"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "das palavras"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "de Amon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨ele⟩ fez"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "porventura não"
+    },
+    {
+      "surface": "הם",
+      "gloss": "elas"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "⟨escritas⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "no"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "livro"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "das palavras"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dos dias"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "⟨pertencentes⟩ aos"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "reis de Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,80 +76,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17378,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17934
-  },
-  "translation": "E o restante das palavras de Amon que ⟨ele⟩ fez, porventura não estão elas ⟨escritas⟩ no livro das palavras dos dias ⟨pertencentes⟩ aos reis de Yehudá?",
-  "tokens": [
-    {
-      "surface": "והתר",
-      "english": "E o restante"
-    },
-    {
-      "surface": "דברי",
-      "english": "das palavras"
-    },
-    {
-      "surface": "אמון",
-      "english": "de Amon"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עשה",
-      "english": "⟨ele⟩ fez"
-    },
-    {
-      "surface": "הלא",
-      "english": "porventura não"
-    },
-    {
-      "surface": "הם",
-      "english": "elas"
-    },
-    {
-      "surface": "כתובים",
-      "english": "⟨escritas⟩"
-    },
-    {
-      "surface": "על",
-      "english": "no"
-    },
-    {
-      "surface": "ספר",
-      "english": "livro"
-    },
-    {
-      "surface": "דברי",
-      "english": "das palavras"
-    },
-    {
-      "surface": "הימים",
-      "english": "dos dias"
-    },
-    {
-      "surface": "למלכי",
-      "english": "⟨pertencentes⟩ aos"
-    },
-    {
-      "surface": "יהודה",
-      "english": "reis de Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:08:40.262176405Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

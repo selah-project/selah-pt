@@ -1,9 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-chronicles 3:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 3,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:33:37.603269333Z",
+  "translation": "Amon ⟨o⟩ seu filho, Yoshiyahu ⟨o⟩ seu filho",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨o⟩ seu filho"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨o⟩ seu filho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josias",
@@ -13,40 +36,6 @@
       "hebrew": "יאשיהו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 187,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56696,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 56883
-  },
-  "translation": "Amon ⟨o⟩ seu filho, Yoshiyahu ⟨o⟩ seu filho",
-  "tokens": [
-    {
-      "surface": "אמון",
-      "english": "Amon"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨o⟩ seu filho"
-    },
-    {
-      "surface": "יאשיהו",
-      "english": "Yoshiyahu"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨o⟩ seu filho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:33:37.603269333Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

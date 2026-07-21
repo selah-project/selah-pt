@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "deuteronomy 5:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 5,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:55:49.500227953Z",
+  "translation": "YHWH nosso Elohim fez ⟨um⟩ Brit conosco em Horeb",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nosso Elohim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "fez"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "conosco"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨um⟩ Brit"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "em Horeb"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,48 +44,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 192,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17432,
-    "prompt_tokens_details": {
-      "cached_tokens": 16575
-    },
-    "total_tokens": 17624
-  },
-  "translation": "YHWH nosso Elohim fez ⟨um⟩ Brit conosco em Horeb",
-  "tokens": [
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהינו",
-      "english": "nosso Elohim"
-    },
-    {
-      "surface": "כרת",
-      "english": "fez"
-    },
-    {
-      "surface": "עמנו",
-      "english": "conosco"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨um⟩ Brit"
-    },
-    {
-      "surface": "בחרב",
-      "english": "em Horeb"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:55:49.500227953Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

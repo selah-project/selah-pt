@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "numbers 16:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 16,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:27:16.878644244Z",
+  "translation": "E Moshé ⟨se⟩ levantou e foi ⟨a⟩ Datã e ⟨a⟩ Abirão; e foram após ele os anciãos ⟨de⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "E ⟨se⟩ levantou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e foi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datã"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "e ⟨a⟩ Abirão"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e foram"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "após ele"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "os anciãos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18212,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18599
-  },
-  "translation": "E Moshé ⟨se⟩ levantou e foi ⟨a⟩ Datã e ⟨a⟩ Abirão; e foram após ele os anciãos ⟨de⟩ Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "E ⟨se⟩ levantou"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "וילך",
-      "english": "e foi"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "דתן",
-      "english": "Datã"
-    },
-    {
-      "surface": "ואבירם",
-      "english": "e ⟨a⟩ Abirão"
-    },
-    {
-      "surface": "וילכו",
-      "english": "e foram"
-    },
-    {
-      "surface": "אחריו",
-      "english": "após ele"
-    },
-    {
-      "surface": "זקני",
-      "english": "os anciãos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:27:16.878644244Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

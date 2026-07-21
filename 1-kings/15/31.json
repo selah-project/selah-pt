@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "1-kings 15:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 15,
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:33:46.159217884Z",
+  "translation": "E o restante ⟨dos⟩ atos de Nadab e tudo que ele fez, não ⟨estão⟩ eles escritos no Livro ⟨dos⟩ Atos ⟨dos⟩ Reis de Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "E o restante"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨dos⟩ atos",
+      "marks": "Nadab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "de Nadab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ele fez"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "não"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨estão⟩ eles"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "no"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Livro ⟨dos⟩",
+      "marks": "Atos"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨dos⟩ Atos",
+      "marks": "Reis"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "⟨dos⟩ Reis"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "⟨dos⟩ Reis",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62975,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63500
-  },
-  "translation": "E o restante ⟨dos⟩ atos de Nadab e tudo que ele fez, não ⟨estão⟩ eles escritos no Livro ⟨dos⟩ Atos ⟨dos⟩ Reis de Yisrael?",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "E o restante"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨dos⟩ atos",
-      "marks": "Nadab"
-    },
-    {
-      "surface": "נדב",
-      "english": "de Nadab"
-    },
-    {
-      "surface": "וכל",
-      "english": "e tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עשה",
-      "english": "ele fez"
-    },
-    {
-      "surface": "הלא",
-      "english": "não"
-    },
-    {
-      "surface": "הם",
-      "english": "⟨estão⟩ eles"
-    },
-    {
-      "surface": "כתובים",
-      "english": "escritos"
-    },
-    {
-      "surface": "על",
-      "english": "no"
-    },
-    {
-      "surface": "ספר",
-      "english": "Livro ⟨dos⟩",
-      "marks": "Atos"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨dos⟩ Atos",
-      "marks": "Reis"
-    },
-    {
-      "surface": "הימים",
-      "english": "⟨dos⟩ Reis"
-    },
-    {
-      "surface": "למלכי",
-      "english": "⟨dos⟩ Reis",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:33:46.159217884Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

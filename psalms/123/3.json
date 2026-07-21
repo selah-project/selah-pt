@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 123:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 123,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62913,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63385
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:04:36.389319925Z",
   "translation": "Gracifica-nos, YHWH, gracifica-nos, ⟨por⟩⟩ ⟨estar⟩⟩ excessivamente ⟨fartos⟩⟩ ⟨de⟩⟩ desprezo.",
   "tokens": [
     {
       "surface": "חננו",
-      "english": "Gracifica-nos"
+      "gloss": "Gracifica-nos"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חננו",
-      "english": "gracifica-nos"
+      "gloss": "gracifica-nos"
     },
     {
       "surface": "כי",
-      "english": "⟨por⟩⟩"
+      "gloss": "⟨por⟩⟩"
     },
     {
       "surface": "רב",
-      "english": "excessivamente"
+      "gloss": "excessivamente"
     },
     {
       "surface": "שבענו",
-      "english": "⟨fartos⟩⟩"
+      "gloss": "⟨fartos⟩⟩"
     },
     {
       "surface": "בוז",
-      "english": "⟨de⟩⟩ desprezo"
+      "gloss": "⟨de⟩⟩ desprezo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:04:36.389319925Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

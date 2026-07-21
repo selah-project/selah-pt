@@ -1,9 +1,91 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-samuel 17:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 17,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:59:14.109335402Z",
+  "translation": "E Ahitofel disse a Absalom: Escolha para mim ⟨agora⟩ doze mil homens, e me levantarei e perseguirei ⟨através de⟩ Davidd ⟨esta⟩ noite.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse",
+      "marks": "Ahitofel"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahitofel",
+      "marks": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "a",
+      "marks": "Absalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Absalom",
+      "marks": ""
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "Escolha",
+      "marks": "doze mil homens"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨agora⟩",
+      "marks": ""
+    },
+    {
+      "surface": "שנים",
+      "gloss": "doze",
+      "marks": ""
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mil",
+      "marks": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "homens",
+      "marks": ""
+    },
+    {
+      "surface": "איש",
+      "gloss": "homens",
+      "marks": ""
+    },
+    {
+      "surface": "ואקומה",
+      "gloss": "e me levantarei",
+      "marks": ""
+    },
+    {
+      "surface": "וארדפה",
+      "gloss": "e perseguirei",
+      "marks": "David"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨através de⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd",
+      "marks": ""
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨esta⟩ noite",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,99 +95,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 649,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17843,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18492
-  },
-  "translation": "E Ahitofel disse a Absalom: Escolha para mim ⟨agora⟩ doze mil homens, e me levantarei e perseguirei ⟨através de⟩ Davidd ⟨esta⟩ noite.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse",
-      "marks": "Ahitofel"
-    },
-    {
-      "surface": "אחיתפל",
-      "english": "Ahitofel",
-      "marks": ""
-    },
-    {
-      "surface": "אל",
-      "english": "a",
-      "marks": "Absalom"
-    },
-    {
-      "surface": "אבשלם",
-      "english": "Absalom",
-      "marks": ""
-    },
-    {
-      "surface": "אבחרה",
-      "english": "Escolha",
-      "marks": "doze mil homens"
-    },
-    {
-      "surface": "נא",
-      "english": "⟨agora⟩",
-      "marks": ""
-    },
-    {
-      "surface": "שנים",
-      "english": "doze",
-      "marks": ""
-    },
-    {
-      "surface": "עשר",
-      "english": "mil",
-      "marks": ""
-    },
-    {
-      "surface": "אלף",
-      "english": "homens",
-      "marks": ""
-    },
-    {
-      "surface": "איש",
-      "english": "homens",
-      "marks": ""
-    },
-    {
-      "surface": "ואקומה",
-      "english": "e me levantarei",
-      "marks": ""
-    },
-    {
-      "surface": "וארדפה",
-      "english": "e perseguirei",
-      "marks": "David"
-    },
-    {
-      "surface": "אחרי",
-      "english": "⟨através de⟩",
-      "marks": "David"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd",
-      "marks": ""
-    },
-    {
-      "surface": "הלילה",
-      "english": "⟨esta⟩ noite",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:59:14.109335402Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

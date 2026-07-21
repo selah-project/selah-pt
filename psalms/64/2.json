@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 64:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62958,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63421
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:20:33.741230983Z",
   "translation": "Escuta, Elohim, ⟨o⟩ meu clamor em minha fala; da ameaça do inimigo guarda ⟨a⟩ minha vida",
   "tokens": [
     {
       "surface": "שמע",
-      "english": "Escuta"
+      "gloss": "Escuta"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "קולי",
-      "english": "⟨o⟩ meu clamor"
+      "gloss": "⟨o⟩ meu clamor"
     },
     {
       "surface": "בשיחי",
-      "english": "em minha fala"
+      "gloss": "em minha fala"
     },
     {
       "surface": "מפחד",
-      "english": "da ameaça"
+      "gloss": "da ameaça"
     },
     {
       "surface": "אויב",
-      "english": "do inimigo"
+      "gloss": "do inimigo"
     },
     {
       "surface": "תצר",
-      "english": "guarda"
+      "gloss": "guarda"
     },
     {
       "surface": "חיי",
-      "english": "⟨a⟩ minha vida"
+      "gloss": "⟨a⟩ minha vida"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:20:33.741230983Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 50:6",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 28927,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29329
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:05:39.050292992Z",
   "translation": "E Paró disse: Sobe e enterra ⟨את⟩ teu pai, como ele te fez jurar.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "עלה",
-      "english": "sobe"
+      "gloss": "sobe"
     },
     {
       "surface": "וקבר",
-      "english": "e enterra"
+      "gloss": "e enterra"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "teu pai"
     },
     {
       "surface": "אביך",
-      "english": "teu pai"
+      "gloss": "teu pai"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "השביעך",
-      "english": "ele te fez jurar"
+      "gloss": "ele te fez jurar"
     }
-  ],
-  "timestamp": "2026-07-16T15:05:39.050292992Z",
-  "model": "glm-4.5"
+  ]
 }

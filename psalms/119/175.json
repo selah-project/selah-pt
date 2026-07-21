@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 175,
   "ref": "psalms 119:175",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 370,
-    "prompt_tokens": 70175,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70545
-  },
+  "verse": 175,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:16.870915424Z",
   "translation": "Minha alma viva, e ⟨ela⟩ te louvará; e teus juízos me ajudem.",
   "tokens": [
     {
       "surface": "תחי",
-      "english": "Minha alma viva"
+      "gloss": "Minha alma viva"
     },
     {
       "surface": "נפשי",
-      "english": "minha alma"
+      "gloss": "minha alma"
     },
     {
       "surface": "ותהללך",
-      "english": "e ⟨ela⟩ te louvará"
+      "gloss": "e ⟨ela⟩ te louvará"
     },
     {
       "surface": "ומשפטך",
-      "english": "e teus juízos"
+      "gloss": "e teus juízos"
     },
     {
       "surface": "יעזרני",
-      "english": "me ajudem"
+      "gloss": "me ajudem"
     }
-  ],
-  "timestamp": "2026-07-16T17:50:16.870915424Z",
-  "model": "glm-4.5"
+  ]
 }

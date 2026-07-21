@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "amos 5:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 5,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:08:48.360226870Z",
+  "translation": "⟨Did⟩ ye bring ⟨to⟩ me ⟨the⟩ sacrifices ⟨and⟩ ⟨the⟩ offering in ⟨the⟩ wilderness forty ⟨years⟩, ⟨O⟩ house ⟨of⟩ Yisrael?",
+  "tokens": [
+    {
+      "surface": "הזבחים",
+      "gloss": "⟨The⟩ sacrifices"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "⟨and⟩ ⟨the⟩ offering"
+    },
+    {
+      "surface": "הגשתם",
+      "gloss": "⟨Did⟩ ye bring ⟨to⟩ me"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨to⟩ me"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in ⟨the⟩ wilderness"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨years⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨O⟩ house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨of⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16545,
-    "prompt_tokens_details": {
-      "cached_tokens": 15413
-    },
-    "total_tokens": 17107
-  },
-  "translation": "⟨Did⟩ ye bring ⟨to⟩ me ⟨the⟩ sacrifices ⟨and⟩ ⟨the⟩ offering in ⟨the⟩ wilderness forty ⟨years⟩, ⟨O⟩ house ⟨of⟩ Yisrael?",
-  "tokens": [
-    {
-      "surface": "הזבחים",
-      "english": "⟨The⟩ sacrifices"
-    },
-    {
-      "surface": "ומנחה",
-      "english": "⟨and⟩ ⟨the⟩ offering"
-    },
-    {
-      "surface": "הגשתם",
-      "english": "⟨Did⟩ ye bring ⟨to⟩ me"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨to⟩ me"
-    },
-    {
-      "surface": "במדבר",
-      "english": "in ⟨the⟩ wilderness"
-    },
-    {
-      "surface": "ארבעים",
-      "english": "forty"
-    },
-    {
-      "surface": "שנה",
-      "english": "⟨years⟩"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨O⟩ house"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨of⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:08:48.360226870Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

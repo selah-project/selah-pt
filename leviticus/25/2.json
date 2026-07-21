@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "leviticus 25:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 25,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:03:25.688569323Z",
+  "translation": "Fala ⟨para⟩ os filhos de Yisrael e diz-lhes: Quando vierdes ⟨à⟩ terra que Eu ⟨estou dando⟩ ⟨para⟩ vós, ⟨e⟩ a terra guardará um shabat ⟨para⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Fala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e diz-lhes"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "a eles"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Quando"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "vierdes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨estou dando⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨para⟩ vós"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "⟨e⟩ a terra guardará"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "um shabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨para⟩ YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,96 +92,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 711,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18295,
-    "prompt_tokens_details": {
-      "cached_tokens": 16414
-    },
-    "total_tokens": 19006
-  },
-  "translation": "Fala ⟨para⟩ os filhos de Yisrael e diz-lhes: Quando vierdes ⟨à⟩ terra que Eu ⟨estou dando⟩ ⟨para⟩ vós, ⟨e⟩ a terra guardará um shabat ⟨para⟩ YHWH",
-  "tokens": [
-    {
-      "surface": "דבר",
-      "english": "Fala"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ואמרת",
-      "english": "e diz-lhes"
-    },
-    {
-      "surface": "אלהם",
-      "english": "a eles"
-    },
-    {
-      "surface": "כי",
-      "english": "Quando"
-    },
-    {
-      "surface": "תבאו",
-      "english": "vierdes"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨à⟩"
-    },
-    {
-      "surface": "הארץ",
-      "english": "terra"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "אני",
-      "english": "Eu"
-    },
-    {
-      "surface": "נתן",
-      "english": "⟨estou dando⟩"
-    },
-    {
-      "surface": "לכם",
-      "english": "⟨para⟩ vós"
-    },
-    {
-      "surface": "ושבתה",
-      "english": "⟨e⟩ a terra guardará"
-    },
-    {
-      "surface": "הארץ",
-      "english": "a terra"
-    },
-    {
-      "surface": "שבת",
-      "english": "um shabat"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "⟨para⟩ YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:03:25.688569323Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

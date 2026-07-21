@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 51,
   "ref": "2-samuel 22:51",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 22,
+  "verse": 51,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:06:09.216478757Z",
+  "translation": "Ele ⟨é⟩ torre de Yeshuá ⟨para⟩ seu rei; e ⟨faz⟩ Jésed ⟨para⟩ seu ungido, ⟨para⟩ Dawid e ⟨para⟩ sua semente ⟨até⟩ ⟨o⟩ mundo.",
+  "tokens": [
+    {
+      "surface": "מגדיל",
+      "gloss": "Ele ⟨é⟩ torre de salvação",
+      "rationale": "Hapax; causativamente 'faz grande' — aqui tornado predicado"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "de Yeshuá",
+      "rationale": "Plural abstrato para 'salvações\/vitórias'; tratado como singular em português"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "⟨para⟩ seu rei",
+      "rationale": "Sufixo possessivo 3ms; 'de seu rei'"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e ⟨faz⟩",
+      "rationale": "Conj. + verbo Qal; presente histórico"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Jésed",
+      "rationale": "Lema 2617a; 'bondade\/piedade' em contexto relacional com o ungido"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "⟨para⟩ seu ungido",
+      "rationale": "Prep. + sufixo 3ms + lama 4899; 'para seu ungido' (Mashíaj)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨para⟩ Dawid",
+      "rationale": "Prep. + 'Dawid' (transliteração padrão)"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "e ⟨para⟩ sua semente",
+      "rationale": "Conj. + prep. + 'semente' com sufixo 3ms"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨até⟩",
+      "rationale": "Preposição de tempo\/espaco"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨o⟩ mundo",
+      "rationale": "Lema 5769; 'perpetuidade' ou 'mundo' segundo contexto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "salvação",
@@ -20,74 +77,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 875,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17447,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18322
-  },
-  "translation": "Ele ⟨é⟩ torre de Yeshuá ⟨para⟩ seu rei; e ⟨faz⟩ Jésed ⟨para⟩ seu ungido, ⟨para⟩ Dawid e ⟨para⟩ sua semente ⟨até⟩ ⟨o⟩ mundo.",
-  "tokens": [
-    {
-      "surface": "מגדיל",
-      "english": "Ele ⟨é⟩ torre de salvação",
-      "rationale": "Hapax; causativamente 'faz grande' — aqui tornado predicado"
-    },
-    {
-      "surface": "ישועות",
-      "english": "de Yeshuá",
-      "rationale": "Plural abstrato para 'salvações\/vitórias'; tratado como singular em português"
-    },
-    {
-      "surface": "מלכו",
-      "english": "⟨para⟩ seu rei",
-      "rationale": "Sufixo possessivo 3ms; 'de seu rei'"
-    },
-    {
-      "surface": "ועשה",
-      "english": "e ⟨faz⟩",
-      "rationale": "Conj. + verbo Qal; presente histórico"
-    },
-    {
-      "surface": "חסד",
-      "english": "Jésed",
-      "rationale": "Lema 2617a; 'bondade\/piedade' em contexto relacional com o ungido"
-    },
-    {
-      "surface": "למשיחו",
-      "english": "⟨para⟩ seu ungido",
-      "rationale": "Prep. + sufixo 3ms + lama 4899; 'para seu ungido' (Mashíaj)"
-    },
-    {
-      "surface": "לדוד",
-      "english": "⟨para⟩ Dawid",
-      "rationale": "Prep. + 'Dawid' (transliteração padrão)"
-    },
-    {
-      "surface": "ולזרעו",
-      "english": "e ⟨para⟩ sua semente",
-      "rationale": "Conj. + prep. + 'semente' com sufixo 3ms"
-    },
-    {
-      "surface": "עד",
-      "english": "⟨até⟩",
-      "rationale": "Preposição de tempo\/espaco"
-    },
-    {
-      "surface": "עולם",
-      "english": "⟨o⟩ mundo",
-      "rationale": "Lema 5769; 'perpetuidade' ou 'mundo' segundo contexto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:06:09.216478757Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

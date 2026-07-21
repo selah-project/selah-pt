@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 32:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 32,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:15:11.455448376Z",
+  "translation": "E disse Jaakob: Elohim de meu pai Avraham e Elohim de meu pai Yitzjak, YHWH, ⟨o⟩ que disse a mim: Volta à tua terra e ⟨ao⟩ teu nascimento e Eu farei bem contigo",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim de"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meu pai"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e Elohim de"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meu pai"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitzjak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "⟨o⟩ que disse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mim"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Volta"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "à tua terra"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "e ⟨ao⟩ teu nascimento"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "e Eu farei bem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "contigo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Itzjak",
@@ -13,88 +84,6 @@
       "hebrew": "יצחק"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 533,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22227,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22760
-  },
-  "translation": "E disse Jaakob: Elohim de meu pai Avraham e Elohim de meu pai Yitzjak, YHWH, ⟨o⟩ que disse a mim: Volta à tua terra e ⟨ao⟩ teu nascimento e Eu farei bem contigo",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Jaakob"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim de"
-    },
-    {
-      "surface": "אבי",
-      "english": "meu pai"
-    },
-    {
-      "surface": "אברהם",
-      "english": "Avraham"
-    },
-    {
-      "surface": "ואלהי",
-      "english": "e Elohim de"
-    },
-    {
-      "surface": "אבי",
-      "english": "meu pai"
-    },
-    {
-      "surface": "יצחק",
-      "english": "Yitzjak"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "האמר",
-      "english": "⟨o⟩ que disse"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mim"
-    },
-    {
-      "surface": "שוב",
-      "english": "Volta"
-    },
-    {
-      "surface": "לארצך",
-      "english": "à tua terra"
-    },
-    {
-      "surface": "ולמולדתך",
-      "english": "e ⟨ao⟩ teu nascimento"
-    },
-    {
-      "surface": "ואיטיבה",
-      "english": "e Eu farei bem"
-    },
-    {
-      "surface": "עמך",
-      "english": "contigo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:15:11.455448376Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

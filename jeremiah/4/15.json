@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "jeremiah 4:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 4,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:06:56.458625804Z",
+  "translation": "Pois ⟨é⟩ uma voz ⟨que⟩ declara desde Dan, e ⟨que⟩ anuncia iniquidade desde o monte de Efráyim",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "קול",
+      "gloss": "uma voz"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "que declara"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "desde Dan"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "e que anuncia"
+    },
+    {
+      "surface": "און",
+      "gloss": "iniquidade"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "desde o monte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,56 +52,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17404,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 17763
-  },
-  "translation": "Pois ⟨é⟩ uma voz ⟨que⟩ declara desde Dan, e ⟨que⟩ anuncia iniquidade desde o monte de Efráyim",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "קול",
-      "english": "uma voz"
-    },
-    {
-      "surface": "מגיד",
-      "english": "que declara"
-    },
-    {
-      "surface": "מדן",
-      "english": "desde Dan"
-    },
-    {
-      "surface": "ומשמיע",
-      "english": "e que anuncia"
-    },
-    {
-      "surface": "און",
-      "english": "iniquidade"
-    },
-    {
-      "surface": "מהר",
-      "english": "desde o monte"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:06:56.458625804Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

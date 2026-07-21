@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 34:20",
   "book": "job",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27765,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 28227
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:46:20.643360706Z",
   "translation": "⟨In a⟩ moment ⟨they⟩ die, and ⟨at⟩ midnight ⟨the⟩ people ⟨are⟩ agitated violently and ⟨will⟩ pass away, and ⟨they⟩ shall take away ⟨the⟩ mighty without hand.",
   "tokens": [
     {
       "surface": "רגע",
-      "english": "moment"
+      "gloss": "moment"
     },
     {
       "surface": "ימתו",
-      "english": "die"
+      "gloss": "die"
     },
     {
       "surface": "וחצות",
-      "english": "and at midnight"
+      "gloss": "and at midnight"
     },
     {
       "surface": "לילה",
-      "english": "midnight"
+      "gloss": "midnight"
     },
     {
       "surface": "יגעשו",
-      "english": "agitated violently"
+      "gloss": "agitated violently"
     },
     {
       "surface": "עם",
-      "english": "people"
+      "gloss": "people"
     },
     {
       "surface": "ויעברו",
-      "english": "and will pass away"
+      "gloss": "and will pass away"
     },
     {
       "surface": "ויסירו",
-      "english": "and they shall take away"
+      "gloss": "and they shall take away"
     },
     {
       "surface": "אביר",
-      "english": "mighty"
+      "gloss": "mighty"
     },
     {
       "surface": "לא",
-      "english": "without"
+      "gloss": "without"
     },
     {
       "surface": "ביד",
-      "english": "hand"
+      "gloss": "hand"
     }
-  ],
-  "timestamp": "2026-06-13T06:46:20.643360706Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,86 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-samuel 8:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 8,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:19:26.212049298Z",
+  "translation": "E YHWH disse a Shemuel: 'Escuta ⟨a⟩ voz deles e faze-lhes ⟨um⟩ rei.' E Shemuel disse aos homens de Yisrael: 'Vai ⟨cada⟩ homem para ⟨a⟩ sua cidade.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Escuta"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "⟨a⟩ voz deles"
+    },
+    {
+      "surface": "והמלכת",
+      "gloss": "e faze-lhes"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aos"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "homens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "'Vai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨cada⟩ homem"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "para ⟨a⟩ sua cidade'"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,94 +90,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 683,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17213,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17896
-  },
-  "translation": "E YHWH disse a Shemuel: 'Escuta ⟨a⟩ voz deles e faze-lhes ⟨um⟩ rei.' E Shemuel disse aos homens de Yisrael: 'Vai ⟨cada⟩ homem para ⟨a⟩ sua cidade.'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse",
-      "marks": "YHWH"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shemuel"
-    },
-    {
-      "surface": "שמע",
-      "english": "Escuta"
-    },
-    {
-      "surface": "בקולם",
-      "english": "⟨a⟩ voz deles"
-    },
-    {
-      "surface": "והמלכת",
-      "english": "e faze-lhes"
-    },
-    {
-      "surface": "להם",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E disse",
-      "marks": "Shemuel"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shemuel"
-    },
-    {
-      "surface": "אל",
-      "english": "aos"
-    },
-    {
-      "surface": "אנשי",
-      "english": "homens"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לכו",
-      "english": "'Vai"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨cada⟩ homem"
-    },
-    {
-      "surface": "לעירו",
-      "english": "para ⟨a⟩ sua cidade'"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:19:26.212049298Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

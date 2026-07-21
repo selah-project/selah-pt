@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "leviticus 17:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 17,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:55:08.440684320Z",
+  "translation": "Portanto, eu disse aos filhos de Yisrael: Nenhuma alma ⟨de⟩ vós comerá sangue, e ⟨o⟩ estrangeiro que peregrina ⟨entre⟩ vós não comerá sangue.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Portanto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "disse"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aos filhos ⟨de⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Nenhuma"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "alma"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "⟨de⟩ vós"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "comerá"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sangue"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "e ⟨o⟩"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "estrangeiro"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "que peregrina ⟨entre⟩ vós"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "comerá"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sangue"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,92 +88,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 661,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18274,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 18935
-  },
-  "translation": "Portanto, eu disse aos filhos de Yisrael: Nenhuma alma ⟨de⟩ vós comerá sangue, e ⟨o⟩ estrangeiro que peregrina ⟨entre⟩ vós não comerá sangue.",
-  "tokens": [
-    {
-      "surface": "על",
-      "english": "Portanto"
-    },
-    {
-      "surface": "כן",
-      "english": "eu"
-    },
-    {
-      "surface": "אמרתי",
-      "english": "disse"
-    },
-    {
-      "surface": "לבני",
-      "english": "aos filhos ⟨de⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "כל",
-      "english": "Nenhuma"
-    },
-    {
-      "surface": "נפש",
-      "english": "alma"
-    },
-    {
-      "surface": "מכם",
-      "english": "⟨de⟩ vós"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "תאכל",
-      "english": "comerá"
-    },
-    {
-      "surface": "דם",
-      "english": "sangue"
-    },
-    {
-      "surface": "והגר",
-      "english": "e ⟨o⟩"
-    },
-    {
-      "surface": "הגר",
-      "english": "estrangeiro"
-    },
-    {
-      "surface": "בתוככם",
-      "english": "que peregrina ⟨entre⟩ vós"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "יאכל",
-      "english": "comerá"
-    },
-    {
-      "surface": "דם",
-      "english": "sangue"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:55:08.440684320Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

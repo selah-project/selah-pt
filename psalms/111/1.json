@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 111:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 603,
-    "prompt_tokens": 70441,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71044
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:29.239193247Z",
   "translation": "Louvem ⟨a⟩ YH, eu darei graças a YHWH com ⟨o⟩ coração todo, no conselho ⟨dos⟩ retos e na congregação.",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "Louvem"
+      "gloss": "Louvem"
     },
     {
       "surface": "יה",
-      "english": "⟨a⟩ YH"
+      "gloss": "⟨a⟩ YH"
     },
     {
       "surface": "אודה",
-      "english": "eu darei graças"
+      "gloss": "eu darei graças"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH",
+      "gloss": "a YHWH",
       "marks": "a YHWH"
     },
     {
       "surface": "בכל",
-      "english": "com ⟨o⟩ coração todo"
+      "gloss": "com ⟨o⟩ coração todo"
     },
     {
       "surface": "לבב",
-      "english": "coração"
+      "gloss": "coração"
     },
     {
       "surface": "בסוד",
-      "english": "no conselho"
+      "gloss": "no conselho"
     },
     {
       "surface": "ישרים",
-      "english": "⟨dos⟩ retos"
+      "gloss": "⟨dos⟩ retos"
     },
     {
       "surface": "ועדה",
-      "english": "e na congregação."
+      "gloss": "e na congregação."
     }
-  ],
-  "timestamp": "2026-07-16T17:48:29.239193247Z",
-  "model": "glm-4.5"
+  ]
 }

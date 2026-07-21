@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 105:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 105,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:49:23.210745160Z",
+  "translation": "E estabeleceu ⟨a⟩ Ya'akov como estatuto, ⟨para⟩ Yisra'el ⟨um⟩ Brit perpétuo.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "E estabeleceu"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "⟨a⟩ Ya'akov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "como estatuto"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "⟨para⟩ Yisra'el"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨um⟩ Brit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpétuo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,48 +44,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 105,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62806,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63240
-  },
-  "translation": "E estabeleceu ⟨a⟩ Ya'akov como estatuto, ⟨para⟩ Yisra'el ⟨um⟩ Brit perpétuo.",
-  "tokens": [
-    {
-      "surface": "ויעמידה",
-      "english": "E estabeleceu"
-    },
-    {
-      "surface": "ליעקב",
-      "english": "⟨a⟩ Ya'akov"
-    },
-    {
-      "surface": "לחק",
-      "english": "como estatuto"
-    },
-    {
-      "surface": "לישראל",
-      "english": "⟨para⟩ Yisra'el"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨um⟩ Brit"
-    },
-    {
-      "surface": "עולם",
-      "english": "perpétuo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:49:23.210745160Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

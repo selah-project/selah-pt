@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "isaiah 23:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 23,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:29:51.032101515Z",
+  "translation": "Uivai, navios ⟨de⟩ Tarshish, porque ⟨a⟩ vossa fortaleza ⟨está⟩ devastada.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Uivai"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "navios ⟨de⟩"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "devastada"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "⟨a⟩ vossa fortaleza ⟨está⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Társis",
@@ -13,48 +44,6 @@
       "hebrew": "תרשיש"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18932,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19370
-  },
-  "translation": "Uivai, navios ⟨de⟩ Tarshish, porque ⟨a⟩ vossa fortaleza ⟨está⟩ devastada.",
-  "tokens": [
-    {
-      "surface": "הילילו",
-      "english": "Uivai"
-    },
-    {
-      "surface": "אניות",
-      "english": "navios ⟨de⟩"
-    },
-    {
-      "surface": "תרשיש",
-      "english": "Tarshish"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "שדד",
-      "english": "devastada"
-    },
-    {
-      "surface": "מעזכן",
-      "english": "⟨a⟩ vossa fortaleza ⟨está⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:29:51.032101515Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "malachi 3:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "malachi",
+  "chapter": 3,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:38:27.734391385Z",
+  "translation": "Porque eu ⟨sou⟩ YHWH, não mudei; e vós, filhos de Yaakov, não ⟨estais⟩ acabados.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "mudei"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e vós"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Yaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "acabados"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacó",
@@ -13,64 +60,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16863,
-    "prompt_tokens_details": {
-      "cached_tokens": 15587
-    },
-    "total_tokens": 17222
-  },
-  "translation": "Porque eu ⟨sou⟩ YHWH, não mudei; e vós, filhos de Yaakov, não ⟨estais⟩ acabados.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "אני",
-      "english": "eu"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "שניתי",
-      "english": "mudei"
-    },
-    {
-      "surface": "ואתם",
-      "english": "e vós"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "יעקב",
-      "english": "de Yaakov"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "כליתם",
-      "english": "acabados"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:38:27.734391385Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

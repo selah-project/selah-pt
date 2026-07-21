@@ -1,9 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-kings 4:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 4,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:49:13.149567822Z",
+  "translation": "Agora corre, peço-te, ao encontro ⟨dela⟩ e diz-lhe: Há Shalom para ti? Há Shalom para teu marido? Há Shalom para a criança? E ela disse: Há Shalom.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Agora"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "corre"
+    },
+    {
+      "surface": "נא",
+      "gloss": "peço-te"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "ao encontro ⟨dela⟩",
+      "marks": "dela"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e diz"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-lhe"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Há paz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ti"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Há paz"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "para teu marido"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Há paz"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "para a criança"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "E ela disse"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Há Shalom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,81 +77,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 565,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17451,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18016
-  },
-  "translation": "Agora corre, peço-te, ao encontro ⟨dela⟩ e diz-lhe: Há Shalom para ti? Há Shalom para teu marido? Há Shalom para a criança? E ela disse: Há Shalom.",
-  "tokens": [
-    {
-      "surface": "עתה",
-      "english": "Agora"
-    },
-    {
-      "surface": "רוץ",
-      "english": "corre"
-    },
-    {
-      "surface": "נא",
-      "english": "peço-te"
-    },
-    {
-      "surface": "לקראתה",
-      "english": "ao encontro ⟨dela⟩",
-      "marks": "dela"
-    },
-    {
-      "surface": "ואמר",
-      "english": "e diz"
-    },
-    {
-      "surface": "לה",
-      "english": "-lhe"
-    },
-    {
-      "surface": "השלום",
-      "english": "Há paz"
-    },
-    {
-      "surface": "לך",
-      "english": "para ti"
-    },
-    {
-      "surface": "השלום",
-      "english": "Há paz"
-    },
-    {
-      "surface": "לאישך",
-      "english": "para teu marido"
-    },
-    {
-      "surface": "השלום",
-      "english": "Há paz"
-    },
-    {
-      "surface": "לילד",
-      "english": "para a criança"
-    },
-    {
-      "surface": "ותאמר",
-      "english": "E ela disse"
-    },
-    {
-      "surface": "שלום",
-      "english": "Há Shalom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:49:13.149567822Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

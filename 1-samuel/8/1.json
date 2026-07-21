@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-samuel 8:1",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 464,
-    "prompt_tokens": 24002,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24466
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:45:01.392937796Z",
   "translation": "E aconteceu, quando Shmuel envelheceu, que ele pôs ⟨את⟩ seus filhos como juízes sobre Yisrael",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E aconteceu"
+      "gloss": "E aconteceu"
     },
     {
       "surface": "כאשר",
-      "english": "quando"
+      "gloss": "quando"
     },
     {
       "surface": "זקן",
-      "english": "envelheceu"
+      "gloss": "envelheceu"
     },
     {
       "surface": "שמואל",
-      "english": "Shmuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "וישם",
-      "english": "que ele pôs"
+      "gloss": "que ele pôs"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "seus filhos"
     },
     {
       "surface": "בניו",
-      "english": "seus filhos"
+      "gloss": "seus filhos"
     },
     {
       "surface": "שפטים",
-      "english": "como juízes"
+      "gloss": "como juízes"
     },
     {
       "surface": "לישראל",
-      "english": "sobre Yisrael"
+      "gloss": "sobre Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T11:45:01.392937796Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 34:10",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 464,
-    "prompt_tokens": 28946,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29410
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:56:05.605139568Z",
   "translation": "E conosco habitareis, e ⟨a⟩ terra ⟨será⟩ diante de vós; habitai e ⟨negociai⟩ nela, e ⟨adquiri⟩ possessões nela.",
   "tokens": [
     {
       "surface": "ואתנו",
-      "english": "E conosco"
+      "gloss": "E conosco"
     },
     {
       "surface": "תשבו",
-      "english": "habitareis"
+      "gloss": "habitareis"
     },
     {
       "surface": "והארץ",
-      "english": "e ⟨a⟩ terra"
+      "gloss": "e ⟨a⟩ terra"
     },
     {
       "surface": "תהיה",
-      "english": "⟨será⟩"
+      "gloss": "⟨será⟩"
     },
     {
       "surface": "לפניכם",
-      "english": "diante de vós"
+      "gloss": "diante de vós"
     },
     {
       "surface": "שבו",
-      "english": "habitai"
+      "gloss": "habitai"
     },
     {
       "surface": "וסחרוה",
-      "english": "e ⟨negociai⟩"
+      "gloss": "e ⟨negociai⟩"
     },
     {
       "surface": "והאחזו",
-      "english": "e ⟨adquiri⟩"
+      "gloss": "e ⟨adquiri⟩"
     },
     {
       "surface": "בה",
-      "english": "nela"
+      "gloss": "nela"
     }
-  ],
-  "timestamp": "2026-07-16T14:56:05.605139568Z",
-  "model": "glm-4.5"
+  ]
 }

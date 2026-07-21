@@ -1,70 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 62:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 586,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70665,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 71251
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:39:25.712591085Z",
   "translation": "Até quando ⟨vós⟩ assaltareis ⟨um⟩ homem? ⟨todos⟩ vós ⟨o⟩ matareis como ⟨um⟩ muro inclinado ⟨uma⟩ cerca derrubada.",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Até quando"
+      "gloss": "Até quando"
     },
     {
       "surface": "אנה",
-      "english": "⟨vós⟩",
+      "gloss": "⟨vós⟩",
       "marks": "assaltareis"
     },
     {
       "surface": "תהותתו",
-      "english": "assaltareis"
+      "gloss": "assaltareis"
     },
     {
       "surface": "על",
-      "english": "⟨um⟩",
+      "gloss": "⟨um⟩",
       "marks": "homem"
     },
     {
       "surface": "איש",
-      "english": "homem"
+      "gloss": "homem"
     },
     {
       "surface": "תרצחו",
-      "english": "matareis"
+      "gloss": "matareis"
     },
     {
       "surface": "כלכם",
-      "english": "⟨todos⟩ vós"
+      "gloss": "⟨todos⟩ vós"
     },
     {
       "surface": "כקיר",
-      "english": "como ⟨um⟩ muro"
+      "gloss": "como ⟨um⟩ muro"
     },
     {
       "surface": "נטוי",
-      "english": "inclinado"
+      "gloss": "inclinado"
     },
     {
       "surface": "גדר",
-      "english": "⟨uma⟩ cerca"
+      "gloss": "⟨uma⟩ cerca"
     },
     {
       "surface": "הדחויה",
-      "english": "derrubada"
+      "gloss": "derrubada"
     }
-  ],
-  "timestamp": "2026-06-13T06:39:25.712591085Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 21:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 21,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:30:13.839100628Z",
+  "translation": "E Yehoshafat ⟨se deitou⟩ com seus pais, e ⟨foi⟩ sepultado com seus pais na ⟨cidade⟩ de Davidd; e Yehoram, seu filho, reinou ⟨em⟩ ⟨seu⟩ lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "E Yehoshafat ⟨se deitou⟩"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e ⟨foi⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na ⟨cidade⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e Yehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨em⟩ ⟨seu⟩ lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,76 +72,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58604,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59230
-  },
-  "translation": "E Yehoshafat ⟨se deitou⟩ com seus pais, e ⟨foi⟩ sepultado com seus pais na ⟨cidade⟩ de Davidd; e Yehoram, seu filho, reinou ⟨em⟩ ⟨seu⟩ lugar.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "E Yehoshafat ⟨se deitou⟩"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "e ⟨foi⟩"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "בעיר",
-      "english": "na ⟨cidade⟩"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e Yehoram"
-    },
-    {
-      "surface": "יהורם",
-      "english": "Yehoram"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "⟨em⟩ ⟨seu⟩ lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:30:13.839100628Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

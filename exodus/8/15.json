@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "exodus 8:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 8,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:44:27.110692317Z",
+  "translation": "E disseram os sacerdotes-magos a Paró: ⟨Este é⟩ o dedo de Elohim; mas Paró endureceu seu coração e não os ouviu, como YHWH ⟨havia⟩ dito.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E disseram"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "os sacerdotes-magos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "אצבע",
+      "gloss": "o dedo de"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Este é⟩"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "mas endureceu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "seu coração"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ouviu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "os"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraó",
@@ -20,88 +91,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 636,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17612,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18248
-  },
-  "translation": "E disseram os sacerdotes-magos a Paró: ⟨Este é⟩ o dedo de Elohim; mas Paró endureceu seu coração e não os ouviu, como YHWH ⟨havia⟩ dito.",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "E disseram"
-    },
-    {
-      "surface": "החרטמים",
-      "english": "os sacerdotes-magos"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "אצבע",
-      "english": "o dedo de"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨Este é⟩"
-    },
-    {
-      "surface": "ויחזק",
-      "english": "mas endureceu"
-    },
-    {
-      "surface": "לב",
-      "english": "seu coração"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "שמע",
-      "english": "ouviu"
-    },
-    {
-      "surface": "אלהם",
-      "english": "os"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como"
-    },
-    {
-      "surface": "דבר",
-      "english": "dito"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:44:27.110692317Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

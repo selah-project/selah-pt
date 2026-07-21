@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 51:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 51,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:13:05.264743622Z",
+  "translation": "Então te agradarás ⟨com⟩ ⟨os⟩ sacrifícios ⟨da⟩ justiça, ⟨em⟩ Olá e ⟨em⟩ oferta total; então ⟨os⟩ novilhos subirão sobre o teu altar",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Então"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "te agradarás"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "⟨com⟩ ⟨os⟩ sacrifícios"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨da⟩ justiça"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "⟨em⟩ Olá"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "e ⟨em⟩ oferta total"
+    },
+    {
+      "surface": "אז",
+      "gloss": "então"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "⟨os⟩ novilhos subirão"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "o teu altar"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "novilhos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "holocausto",
@@ -13,68 +64,6 @@
       "hebrew": "עלה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 51,
-  "usage": {
-    "completion_tokens": 685,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63003,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63688
-  },
-  "translation": "Então te agradarás ⟨com⟩ ⟨os⟩ sacrifícios ⟨da⟩ justiça, ⟨em⟩ Olá e ⟨em⟩ oferta total; então ⟨os⟩ novilhos subirão sobre o teu altar",
-  "tokens": [
-    {
-      "surface": "אז",
-      "english": "Então"
-    },
-    {
-      "surface": "תחפץ",
-      "english": "te agradarás"
-    },
-    {
-      "surface": "זבחי",
-      "english": "⟨com⟩ ⟨os⟩ sacrifícios"
-    },
-    {
-      "surface": "צדק",
-      "english": "⟨da⟩ justiça"
-    },
-    {
-      "surface": "עולה",
-      "english": "⟨em⟩ Olá"
-    },
-    {
-      "surface": "וכליל",
-      "english": "e ⟨em⟩ oferta total"
-    },
-    {
-      "surface": "אז",
-      "english": "então"
-    },
-    {
-      "surface": "יעלו",
-      "english": "⟨os⟩ novilhos subirão"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "מזבחך",
-      "english": "o teu altar"
-    },
-    {
-      "surface": "פרים",
-      "english": "novilhos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:13:05.264743622Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,80 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "exodus 21:5",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 525,
-    "prompt_tokens": 24999,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25524
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:53:49.564938017Z",
   "translation": "E se o servo disser abertamente: Amei ⟨o⟩ ⟨את⟩ meu senhor, ⟨a⟩ ⟨את⟩ minha mulher e ⟨os⟩ ⟨את⟩ meus filhos; não sairei livre.",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "E se"
+      "gloss": "E se"
     },
     {
       "surface": "אמר",
-      "english": "disser"
+      "gloss": "disser"
     },
     {
       "surface": "יאמר",
-      "english": "abertamente"
+      "gloss": "abertamente"
     },
     {
       "surface": "העבד",
-      "english": "o servo"
+      "gloss": "o servo"
     },
     {
       "surface": "אהבתי",
-      "english": "Amei"
+      "gloss": "Amei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "meu senhor"
     },
     {
       "surface": "אדני",
-      "english": "meu senhor"
+      "gloss": "meu senhor"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "minha mulher"
     },
     {
       "surface": "אשתי",
-      "english": "minha mulher"
+      "gloss": "minha mulher"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "meus filhos"
     },
     {
       "surface": "בני",
-      "english": "meus filhos"
+      "gloss": "meus filhos"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "אצא",
-      "english": "sairei"
+      "gloss": "sairei"
     },
     {
       "surface": "חפשי",
-      "english": "livre"
+      "gloss": "livre"
     }
-  ],
-  "timestamp": "2026-07-16T13:53:49.564938017Z",
-  "model": "glm-4.5"
+  ]
 }

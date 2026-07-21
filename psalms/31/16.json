@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 31:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62782,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63303
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:58:14.139968726Z",
   "translation": "em tua mão ⟨estão⟩ meus tempos; salva-me ⟨da⟩ mão ⟨dos⟩ meus adversários e ⟨dos⟩ meus perseguidores",
   "tokens": [
     {
       "surface": "בידך",
-      "english": "Em tua mão",
+      "gloss": "Em tua mão",
       "marks": "meus tempos"
     },
     {
       "surface": "עתתי",
-      "english": "meus tempos"
+      "gloss": "meus tempos"
     },
     {
       "surface": "הצילני",
-      "english": "salva-me"
+      "gloss": "salva-me"
     },
     {
       "surface": "מיד",
-      "english": "⟨da⟩ mão",
+      "gloss": "⟨da⟩ mão",
       "marks": "dos meus adversários"
     },
     {
       "surface": "אויבי",
-      "english": "⟨dos⟩ meus adversários"
+      "gloss": "⟨dos⟩ meus adversários"
     },
     {
       "surface": "ומרדפי",
-      "english": "e ⟨dos⟩ meus perseguidores"
+      "gloss": "e ⟨dos⟩ meus perseguidores"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:58:14.139968726Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

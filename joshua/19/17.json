@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "joshua 19:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 19,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:44:09.706815854Z",
+  "translation": "Para Yissacar ⟨saiu⟩ ⟨o⟩ quarto ⟨lote⟩, ⟨para⟩ ⟨os⟩ filhos de Yissacar ⟨para⟩ ⟨as⟩ suas famílias",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Para Issacar"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "⟨saiu⟩"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "⟨o⟩ quarto ⟨lote⟩"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "quarto"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨para⟩ ⟨os⟩ filhos"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "de Yissacar"
+    },
+    {
+      "surface": "למשפחותם",
+      "gloss": "⟨para⟩ ⟨as⟩ suas famílias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Issacar",
@@ -13,52 +48,6 @@
       "hebrew": "יששכר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16302,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 16715
-  },
-  "translation": "Para Yissacar ⟨saiu⟩ ⟨o⟩ quarto ⟨lote⟩, ⟨para⟩ ⟨os⟩ filhos de Yissacar ⟨para⟩ ⟨as⟩ suas famílias",
-  "tokens": [
-    {
-      "surface": "ליששכר",
-      "english": "Para Issacar"
-    },
-    {
-      "surface": "יצא",
-      "english": "⟨saiu⟩"
-    },
-    {
-      "surface": "הגורל",
-      "english": "⟨o⟩ quarto ⟨lote⟩"
-    },
-    {
-      "surface": "הרביעי",
-      "english": "quarto"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨para⟩ ⟨os⟩ filhos"
-    },
-    {
-      "surface": "יששכר",
-      "english": "de Yissacar"
-    },
-    {
-      "surface": "למשפחותם",
-      "english": "⟨para⟩ ⟨as⟩ suas famílias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:44:09.706815854Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

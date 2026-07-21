@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "ezekiel 48:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 48,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:53:41.486343708Z",
+  "translation": "E ⟨por⟩ ⟨a⟩ fronteira de ⟨o⟩ Reuvén ⟨desde⟩ ⟨a⟩ extremidade oriental até ⟨a⟩ extremidade ocidental ⟨o⟩ Yehudá ⟨um⟩",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E ⟨por⟩"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨a⟩ fronteira"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "de ⟨o⟩ Reuvén"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "⟨desde⟩ ⟨a⟩"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "extremidade oriental"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨a⟩ extremidade"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ocidental"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "⟨o⟩ Yehudá"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨um⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Rúben",
@@ -20,64 +67,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17560,
-    "prompt_tokens_details": {
-      "cached_tokens": 16310
-    },
-    "total_tokens": 18106
-  },
-  "translation": "E ⟨por⟩ ⟨a⟩ fronteira de ⟨o⟩ Reuvén ⟨desde⟩ ⟨a⟩ extremidade oriental até ⟨a⟩ extremidade ocidental ⟨o⟩ Yehudá ⟨um⟩",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "E ⟨por⟩"
-    },
-    {
-      "surface": "גבול",
-      "english": "⟨a⟩ fronteira"
-    },
-    {
-      "surface": "ראובן",
-      "english": "de ⟨o⟩ Reuvén"
-    },
-    {
-      "surface": "מפאת",
-      "english": "⟨desde⟩ ⟨a⟩"
-    },
-    {
-      "surface": "קדים",
-      "english": "extremidade oriental"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "פאת",
-      "english": "⟨a⟩ extremidade"
-    },
-    {
-      "surface": "ימה",
-      "english": "ocidental"
-    },
-    {
-      "surface": "יהודה",
-      "english": "⟨o⟩ Yehudá"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨um⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:53:41.486343708Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

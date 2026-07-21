@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 2:6",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 434,
-    "prompt_tokens": 70273,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70707
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:34:17.350308752Z",
   "translation": "Porém eu ⟨estou⟩ ungindo meu rei sobre Tsion, ⟨a⟩ montanha de minha santidade.",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "Porém eu"
+      "gloss": "Porém eu"
     },
     {
       "surface": "נסכתי",
-      "english": "⟨estou⟩ ungindo"
+      "gloss": "⟨estou⟩ ungindo"
     },
     {
       "surface": "מלכי",
-      "english": "meu rei"
+      "gloss": "meu rei"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ציון",
-      "english": "Tsion"
+      "gloss": "Tsion"
     },
     {
       "surface": "הר",
-      "english": "⟨a⟩ montanha"
+      "gloss": "⟨a⟩ montanha"
     },
     {
       "surface": "קדשי",
-      "english": "de minha santidade"
+      "gloss": "de minha santidade"
     }
-  ],
-  "timestamp": "2026-07-16T17:34:17.350308752Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 37:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 37,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:19:33.770535861Z",
+  "translation": "E Yaakov habitou na terra das peregrinações de ⟨seu⟩ pai, na terra ⟨de⟩ Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E habitou"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "das peregrinações"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de ⟨seu⟩ pai",
+      "marks": "pai"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "⟨de⟩ Kenaan",
+      "marks": "Canaã"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacó",
@@ -20,54 +57,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21294,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21641
-  },
-  "translation": "E Yaakov habitou na terra das peregrinações de ⟨seu⟩ pai, na terra ⟨de⟩ Kenaan.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E habitou"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra"
-    },
-    {
-      "surface": "מגורי",
-      "english": "das peregrinações"
-    },
-    {
-      "surface": "אביו",
-      "english": "de ⟨seu⟩ pai",
-      "marks": "pai"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra"
-    },
-    {
-      "surface": "כנען",
-      "english": "⟨de⟩ Kenaan",
-      "marks": "Canaã"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:19:33.770535861Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

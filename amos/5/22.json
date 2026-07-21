@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "amos 5:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 5,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:08:48.667915245Z",
+  "translation": "Porque se fizerdes ⟨את⟩ subir a mim Olás e ⟨as⟩ vossas ofertas de cereal, não me ⟨serei⟩ aceitável, e ⟨a⟩ oferta de paz ⟨dos⟩ vossos animais cevados não ⟨será⟩ olhada por mim",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "fizerdes ⟨את⟩ subir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a mim"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "Olás"
+    },
+    {
+      "surface": "ומנחתיכם",
+      "gloss": "e ⟨as⟩ vossas ofertas de cereal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "me ⟨serei⟩ aceitável"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "e ⟨a⟩ oferta de paz"
+    },
+    {
+      "surface": "מריאיכם",
+      "gloss": "⟨dos⟩ vossos animais cevados"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "⟨será⟩ olhada por mim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "holocausto",
@@ -13,72 +68,6 @@
       "hebrew": "עלה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 726,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16864,
-    "prompt_tokens_details": {
-      "cached_tokens": 15413
-    },
-    "total_tokens": 17590
-  },
-  "translation": "Porque se fizerdes ⟨את⟩ subir a mim Olás e ⟨as⟩ vossas ofertas de cereal, não me ⟨serei⟩ aceitável, e ⟨a⟩ oferta de paz ⟨dos⟩ vossos animais cevados não ⟨será⟩ olhada por mim",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "אם",
-      "english": "se"
-    },
-    {
-      "surface": "תעלו",
-      "english": "fizerdes ⟨את⟩ subir"
-    },
-    {
-      "surface": "לי",
-      "english": "a mim"
-    },
-    {
-      "surface": "עלות",
-      "english": "Olás"
-    },
-    {
-      "surface": "ומנחתיכם",
-      "english": "e ⟨as⟩ vossas ofertas de cereal"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "ארצה",
-      "english": "me ⟨serei⟩ aceitável"
-    },
-    {
-      "surface": "ושלם",
-      "english": "e ⟨a⟩ oferta de paz"
-    },
-    {
-      "surface": "מריאיכם",
-      "english": "⟨dos⟩ vossos animais cevados"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "אביט",
-      "english": "⟨será⟩ olhada por mim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:08:48.667915245Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

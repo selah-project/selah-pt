@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "joshua 24:10",
   "book": "joshua",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 543,
-    "prompt_tokens": 24186,
-    "prompt_tokens_details": {
-      "cached_tokens": 22656
-    },
-    "total_tokens": 24729
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:17:25.592203203Z",
   "translation": "Mas eu não quis ouvir a Bilam; então ele vos abençoou grandemente, e eu vos livrei da sua mão.",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "Mas eu não"
+      "gloss": "Mas eu não"
     },
     {
       "surface": "אביתי",
-      "english": "quis"
+      "gloss": "quis"
     },
     {
       "surface": "לשמע",
-      "english": "ouvir"
+      "gloss": "ouvir"
     },
     {
       "surface": "לבלעם",
-      "english": "a Bilam"
+      "gloss": "a Bilam"
     },
     {
       "surface": "ויברך",
-      "english": "então ele abençoou"
+      "gloss": "então ele abençoou"
     },
     {
       "surface": "ברוך",
-      "english": "grandemente"
+      "gloss": "grandemente"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vos"
     },
     {
       "surface": "ואצל",
-      "english": "e eu vos livrei"
+      "gloss": "e eu vos livrei"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vos"
     },
     {
       "surface": "מידו",
-      "english": "da sua mão"
+      "gloss": "da sua mão"
     }
-  ],
-  "timestamp": "2026-07-16T16:17:25.592203203Z",
-  "model": "glm-4.5"
+  ]
 }

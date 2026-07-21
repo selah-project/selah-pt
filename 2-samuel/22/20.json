@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-samuel 22:20",
   "book": "2-samuel",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 425,
-    "prompt_tokens": 24662,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25087
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:59:47.071678889Z",
   "translation": "E ele me trouxe para ⟨um⟩ lugar espaçoso; ele me livrou, porque se agradou em mim.",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "E ele me trouxe"
+      "gloss": "E ele me trouxe"
     },
     {
       "surface": "למרחב",
-      "english": "para ⟨um⟩ lugar espaçoso"
+      "gloss": "para ⟨um⟩ lugar espaçoso"
     },
     {
       "surface": "אתי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "me livrou"
     },
     {
       "surface": "יחלצני",
-      "english": "ele me livrou"
+      "gloss": "ele me livrou"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "חפץ",
-      "english": "se agradou"
+      "gloss": "se agradou"
     },
     {
       "surface": "בי",
-      "english": "em mim"
+      "gloss": "em mim"
     }
-  ],
-  "timestamp": "2026-07-16T12:59:47.071678889Z",
-  "model": "glm-4.5"
+  ]
 }

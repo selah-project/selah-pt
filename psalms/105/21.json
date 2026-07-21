@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 105:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62727,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63073
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:49:20.360023422Z",
   "translation": "Ele o fez ⟨o⟩ senhor de ⟨a⟩ sua casa e ⟨o⟩ governante sobre toda ⟨a⟩ sua possessão",
   "tokens": [
     {
       "surface": "שמו",
-      "english": "Ele o fez"
+      "gloss": "Ele o fez"
     },
     {
       "surface": "אדון",
-      "english": "⟨o⟩ senhor"
+      "gloss": "⟨o⟩ senhor"
     },
     {
       "surface": "לביתו",
-      "english": "de ⟨a⟩ sua casa"
+      "gloss": "de ⟨a⟩ sua casa"
     },
     {
       "surface": "ומשל",
-      "english": "e ⟨o⟩ governante"
+      "gloss": "e ⟨o⟩ governante"
     },
     {
       "surface": "בכל",
-      "english": "sobre toda ⟨a⟩"
+      "gloss": "sobre toda ⟨a⟩"
     },
     {
       "surface": "קנינו",
-      "english": "sua possessão"
+      "gloss": "sua possessão"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:49:20.360023422Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

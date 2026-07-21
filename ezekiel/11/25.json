@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "ezekiel 11:25",
   "book": "ezekiel",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 387,
-    "prompt_tokens": 24905,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25292
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:13:18.399615731Z",
   "translation": "E falei aos ⟨do⟩ exílio ⟨את⟩ todas as palavras de YHWH que Ele me mostrou",
   "tokens": [
     {
       "surface": "ואדבר",
-      "english": "E falei"
+      "gloss": "E falei"
     },
     {
       "surface": "אל",
-      "english": "aos"
+      "gloss": "aos"
     },
     {
       "surface": "הגולה",
-      "english": "⟨do⟩ exílio"
+      "gloss": "⟨do⟩ exílio"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todas as palavras"
     },
     {
       "surface": "כל",
-      "english": "todas as"
+      "gloss": "todas as"
     },
     {
       "surface": "דברי",
-      "english": "palavras"
+      "gloss": "palavras"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "הראני",
-      "english": "Ele me mostrou"
+      "gloss": "Ele me mostrou"
     }
-  ],
-  "timestamp": "2026-07-16T14:13:18.399615731Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 43,
   "ref": "1-samuel 25:43",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 25,
+  "verse": 43,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:37:52.443376323Z",
+  "translation": "E também Davidd tomou ⟨את⟩ Ainoã de Jezreel, e ⟨elas⟩ se tornaram também ambas ⟨para⟩ ele ⟨como⟩ esposas",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E também",
+      "marks": "Ainoã"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ainoã"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tomou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "de Jezreel"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "e ⟨elas⟩ se tornaram"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "ambas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩ ele"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "⟨como⟩ esposas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,65 +61,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16706,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17234
-  },
-  "translation": "E também Davidd tomou ⟨את⟩ Ainoã de Jezreel, e ⟨elas⟩ se tornaram também ambas ⟨para⟩ ele ⟨como⟩ esposas",
-  "tokens": [
-    {
-      "surface": "ואת",
-      "english": "E também",
-      "marks": "Ainoã"
-    },
-    {
-      "surface": "אחינעם",
-      "english": "Ainoã"
-    },
-    {
-      "surface": "לקח",
-      "english": "tomou"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מיזרעאל",
-      "english": "de Jezreel"
-    },
-    {
-      "surface": "ותהיין",
-      "english": "e ⟨elas⟩ se tornaram"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "שתיהן",
-      "english": "ambas"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩ ele"
-    },
-    {
-      "surface": "לנשים",
-      "english": "⟨como⟩ esposas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:37:52.443376323Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "exodus 21:23",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 24198,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24602
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:54:01.349826287Z",
   "translation": "E se houver dano, então darás vida por vida",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "E se"
+      "gloss": "E se"
     },
     {
       "surface": "אסון",
-      "english": "dano"
+      "gloss": "dano"
     },
     {
       "surface": "יהיה",
-      "english": "houver"
+      "gloss": "houver"
     },
     {
       "surface": "ונתתה",
-      "english": "então darás"
+      "gloss": "então darás"
     },
     {
       "surface": "נפש",
-      "english": "vida"
+      "gloss": "vida"
     },
     {
       "surface": "תחת",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "נפש",
-      "english": "vida"
+      "gloss": "vida"
     }
-  ],
-  "timestamp": "2026-07-16T13:54:01.349826287Z",
-  "model": "glm-4.5"
+  ]
 }

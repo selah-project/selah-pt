@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 9:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
+  "chapter": 9,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:25:22.335233532Z",
+  "translation": "O princípio dJojmá ⟨é⟩ Yirá de YHWH, e ⟨o⟩ conhecimento ⟨dos⟩ santos ⟨é⟩ Biná.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "O princípio"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "dJojmá"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "Yirá de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "e ⟨o⟩ conhecimento ⟨dos⟩"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "santos"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "⟨é⟩ Biná"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a sabedoria",
@@ -27,52 +62,6 @@
       "hebrew": "בינה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52851,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53303
-  },
-  "translation": "O princípio dJojmá ⟨é⟩ Yirá de YHWH, e ⟨o⟩ conhecimento ⟨dos⟩ santos ⟨é⟩ Biná.",
-  "tokens": [
-    {
-      "surface": "תחלת",
-      "english": "O princípio"
-    },
-    {
-      "surface": "חכמה",
-      "english": "dJojmá"
-    },
-    {
-      "surface": "יראת",
-      "english": "Yirá de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "ודעת",
-      "english": "e ⟨o⟩ conhecimento ⟨dos⟩"
-    },
-    {
-      "surface": "קדשים",
-      "english": "santos"
-    },
-    {
-      "surface": "בינה",
-      "english": "⟨é⟩ Biná"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:25:22.335233532Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

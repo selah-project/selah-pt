@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 10:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 303,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18785,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19088
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:20:22.465330046Z",
   "translation": "Porque dirá: Acaso meus príncipes ⟨não⟩ ⟨são⟩ todos reis ⟨juntos⟩?",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יאמר",
-      "english": "dirá"
+      "gloss": "dirá"
     },
     {
       "surface": "הלא",
-      "english": "Acaso"
+      "gloss": "Acaso"
     },
     {
       "surface": "שרי",
-      "english": "meus príncipes"
+      "gloss": "meus príncipes"
     },
     {
       "surface": "יחדו",
-      "english": "⟨juntos⟩"
+      "gloss": "⟨juntos⟩"
     },
     {
       "surface": "מלכים",
-      "english": "reais"
+      "gloss": "reais"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:20:22.465330046Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

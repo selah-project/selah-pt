@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 103:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 466,
-    "prompt_tokens": 70514,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70980
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:22.701045300Z",
   "translation": "Bendita, ó minha alma, YHWH, e não te esqueças de todos ⟨os⟩ seus benefícios",
   "tokens": [
     {
       "surface": "ברכי",
-      "english": "Bendita"
+      "gloss": "Bendita"
     },
     {
       "surface": "נפשי",
-      "english": "ó minha alma"
+      "gloss": "ó minha alma"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ואל",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "תשכחי",
-      "english": "te esqueças"
+      "gloss": "te esqueças"
     },
     {
       "surface": "כל",
-      "english": "de todos"
+      "gloss": "de todos"
     },
     {
       "surface": "גמוליו",
-      "english": "⟨os⟩ seus benefícios"
+      "gloss": "⟨os⟩ seus benefícios"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:22.701045300Z",
-  "model": "glm-4.5"
+  ]
 }

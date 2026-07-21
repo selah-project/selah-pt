@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-samuel 18:3",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 377,
-    "prompt_tokens": 23919,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24296
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:52:41.144915875Z",
   "translation": "E Yonatan e David cortaram uma brit, no amor dele ⟨את⟩ ele como nefesh dele",
   "tokens": [
     {
       "surface": "ויכרת",
-      "english": "E ... cortaram"
+      "gloss": "E ... cortaram"
     },
     {
       "surface": "יהונתן",
-      "english": "Yonatan"
+      "gloss": "Yonatan"
     },
     {
       "surface": "ודוד",
-      "english": "e David"
+      "gloss": "e David"
     },
     {
       "surface": "ברית",
-      "english": "uma brit"
+      "gloss": "uma brit"
     },
     {
       "surface": "באהבתו",
-      "english": "no amor dele"
+      "gloss": "no amor dele"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ele"
     },
     {
       "surface": "כנפשו",
-      "english": "como nefesh dele"
+      "gloss": "como nefesh dele"
     }
-  ],
-  "timestamp": "2026-07-16T11:52:41.144915875Z",
-  "model": "glm-4.5"
+  ]
 }

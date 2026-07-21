@@ -1,9 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 120:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 120,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:03:37.468434748Z",
+  "translation": "Muito tem ⟨a⟩ minha alma habitado com quem odeia a Shalom.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Muito",
+      "lemma": "7227",
+      "strong": "H7227"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "tem ⟨a⟩... habitado",
+      "lemma": "7931",
+      "strong": "H7931"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨a⟩",
+      "lemma": "l",
+      "strong": ""
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "minha alma",
+      "lemma": "5315",
+      "strong": "H5315"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com",
+      "lemma": "5973",
+      "strong": "H5973"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "quem odeia",
+      "lemma": "8130",
+      "strong": "H8130"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "a Shalom",
+      "lemma": "7965",
+      "strong": "H7965"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,70 +62,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 120,
-  "usage": {
-    "completion_tokens": 756,
-    "prompt_tokens": 62827,
-    "prompt_tokens_details": {
-      "cached_tokens": 49152
-    },
-    "total_tokens": 63583
-  },
-  "translation": "Muito tem ⟨a⟩ minha alma habitado com quem odeia a Shalom.",
-  "tokens": [
-    {
-      "surface": "רבת",
-      "english": "Muito",
-      "lemma": "7227",
-      "strong": "H7227",
-      "gloss": "abundante"
-    },
-    {
-      "surface": "שכנה",
-      "english": "tem ⟨a⟩... habitado",
-      "lemma": "7931",
-      "strong": "H7931",
-      "gloss": "residir"
-    },
-    {
-      "surface": "לה",
-      "english": "⟨a⟩",
-      "lemma": "l",
-      "strong": "",
-      "gloss": "para ela"
-    },
-    {
-      "surface": "נפשי",
-      "english": "minha alma",
-      "lemma": "5315",
-      "strong": "H5315",
-      "gloss": "alma\/fôlego"
-    },
-    {
-      "surface": "עם",
-      "english": "com",
-      "lemma": "5973",
-      "strong": "H5973",
-      "gloss": "com"
-    },
-    {
-      "surface": "שונא",
-      "english": "quem odeia",
-      "lemma": "8130",
-      "strong": "H8130",
-      "gloss": "odiar"
-    },
-    {
-      "surface": "שלום",
-      "english": "a Shalom",
-      "lemma": "7965",
-      "strong": "H7965",
-      "gloss": "paz"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:03:37.468434748Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

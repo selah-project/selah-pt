@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "2-kings 10:28",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 313,
-    "prompt_tokens": 24008,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24321
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:34:53.713891917Z",
   "translation": "Assim Yehu destruiu ⟨את⟩ Baal de Yisrael",
   "tokens": [
     {
       "surface": "וישמד",
-      "english": "Assim ... destruiu"
+      "gloss": "Assim ... destruiu"
     },
     {
       "surface": "יהוא",
-      "english": "Yehu"
+      "gloss": "Yehu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Baal"
     },
     {
       "surface": "הבעל",
-      "english": "Baal"
+      "gloss": "Baal"
     },
     {
       "surface": "מישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T12:34:53.713891917Z",
-  "model": "glm-4.5"
+  ]
 }

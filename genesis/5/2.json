@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 5:2",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 469,
-    "prompt_tokens": 29277,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29746
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:39:50.352378245Z",
   "translation": "macho e fêmea Ele ⟨os⟩ criou, e ⟨os⟩ abençoou, e chamou ⟨את⟩ o nome deles Adam, no dia em que foram criados",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "macho"
+      "gloss": "macho"
     },
     {
       "surface": "ונקבה",
-      "english": "e fêmea"
+      "gloss": "e fêmea"
     },
     {
       "surface": "בראם",
-      "english": "Ele ⟨os⟩ criou"
+      "gloss": "Ele ⟨os⟩ criou"
     },
     {
       "surface": "ויברך",
-      "english": "e ⟨os⟩ abençoou"
+      "gloss": "e ⟨os⟩ abençoou"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ויקרא"
     },
     {
       "surface": "ויקרא",
-      "english": "e chamou"
+      "gloss": "e chamou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o nome deles"
     },
     {
       "surface": "שמם",
-      "english": "o nome deles"
+      "gloss": "o nome deles"
     },
     {
       "surface": "אדם",
-      "english": "Adam"
+      "gloss": "Adam"
     },
     {
       "surface": "ביום",
-      "english": "no dia"
+      "gloss": "no dia"
     },
     {
       "surface": "הבראם",
-      "english": "em que foram criados"
+      "gloss": "em que foram criados"
     }
-  ],
-  "timestamp": "2026-07-16T14:39:50.352378245Z",
-  "model": "glm-4.5"
+  ]
 }

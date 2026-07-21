@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 95,
   "ref": "psalms 119:95",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 318,
-    "prompt_tokens": 70155,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70473
-  },
+  "verse": 95,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:46.653172922Z",
   "translation": "Os ímpios esperaram-me para ⟨o⟩ destruir; mas eu ⟨me⟩ ocuparei das tuas testemunhas.",
   "tokens": [
     {
       "surface": "לי",
-      "english": "⟨para⟩ mim"
+      "gloss": "⟨para⟩ mim"
     },
     {
       "surface": "קוו",
-      "english": "esperaram"
+      "gloss": "esperaram"
     },
     {
       "surface": "רשעים",
-      "english": "os ímpios"
+      "gloss": "os ímpios"
     },
     {
       "surface": "לאבדני",
-      "english": "para ⟨o⟩ destruir"
+      "gloss": "para ⟨o⟩ destruir"
     },
     {
       "surface": "עדתיך",
-      "english": "das tuas testemunhas"
+      "gloss": "das tuas testemunhas"
     },
     {
       "surface": "אתבונן",
-      "english": "eu ⟨me⟩ ocuparei"
+      "gloss": "eu ⟨me⟩ ocuparei"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:46.653172922Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 10:6",
   "book": "job",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27200,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 27554
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:44:43.130099364Z",
   "translation": "Porque ⟨tu⟩ buscas ⟨a⟩ minha iniquidade, e ⟨a⟩ minha transgressão ⟨tu⟩ perscrutas",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "תבקש",
-      "english": "⟨tu⟩ buscas"
+      "gloss": "⟨tu⟩ buscas"
     },
     {
       "surface": "לעוני",
-      "english": "⟨a⟩ minha iniquidade"
+      "gloss": "⟨a⟩ minha iniquidade"
     },
     {
       "surface": "ולחטאתי",
-      "english": "e ⟨a⟩ minha transgressão"
+      "gloss": "e ⟨a⟩ minha transgressão"
     },
     {
       "surface": "תדרוש",
-      "english": "⟨tu⟩ perscrutas"
+      "gloss": "⟨tu⟩ perscrutas"
     }
-  ],
-  "timestamp": "2026-06-13T06:44:43.130099364Z",
-  "model": "glm-4.5"
+  ]
 }

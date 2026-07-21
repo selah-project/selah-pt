@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 119:19",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 423,
-    "prompt_tokens": 70235,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70658
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:51.711952172Z",
   "translation": "Sou ⟨um⟩ estrangeiro ⟨na⟩ terra; não escondas de mim ⟨os⟩ teus mandamentos.",
   "tokens": [
     {
       "surface": "גר",
-      "english": "⟨um⟩ estrangeiro"
+      "gloss": "⟨um⟩ estrangeiro"
     },
     {
       "surface": "אנכי",
-      "english": "Sou"
+      "gloss": "Sou"
     },
     {
       "surface": "בארץ",
-      "english": "⟨na⟩ terra"
+      "gloss": "⟨na⟩ terra"
     },
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תסתר",
-      "english": "escondas"
+      "gloss": "escondas"
     },
     {
       "surface": "ממני",
-      "english": "de mim"
+      "gloss": "de mim"
     },
     {
       "surface": "מצותיך",
-      "english": "⟨os⟩ teus mandamentos"
+      "gloss": "⟨os⟩ teus mandamentos"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:51.711952172Z",
-  "model": "glm-4.5"
+  ]
 }

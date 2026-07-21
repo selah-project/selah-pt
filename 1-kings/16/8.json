@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-kings 16:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 16,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:34:30.709606857Z",
+  "translation": "No vigésimo sexto ano ⟨de⟩ Asa ⟨como⟩ rei de Yehudá, Elah ⟨o⟩ filho de Baasa reinou sobre Yisrael ⟨em⟩ Tirzah, ⟨por⟩ dois anos.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "No"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vigésimo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sexto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "⟨de⟩ Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨como⟩ rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinou"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "de Baasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "⟨em⟩ Tirzah"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "⟨por⟩ dois anos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,84 +87,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63060,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63653
-  },
-  "translation": "No vigésimo sexto ano ⟨de⟩ Asa ⟨como⟩ rei de Yehudá, Elah ⟨o⟩ filho de Baasa reinou sobre Yisrael ⟨em⟩ Tirzah, ⟨por⟩ dois anos.",
-  "tokens": [
-    {
-      "surface": "בשנת",
-      "english": "No"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vigésimo"
-    },
-    {
-      "surface": "ושש",
-      "english": "sexto"
-    },
-    {
-      "surface": "שנה",
-      "english": "ano"
-    },
-    {
-      "surface": "לאסא",
-      "english": "⟨de⟩ Asa"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨como⟩ rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinou"
-    },
-    {
-      "surface": "אלה",
-      "english": "Elah"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "בעשא",
-      "english": "de Baasa"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בתרצה",
-      "english": "⟨em⟩ Tirzah"
-    },
-    {
-      "surface": "שנתים",
-      "english": "⟨por⟩ dois anos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:34:30.709606857Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

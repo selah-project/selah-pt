@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 135:20",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 368,
-    "prompt_tokens": 70702,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71070
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:06.423550061Z",
   "translation": "Casa de Levi, bendizei ⟨a⟩ YHWH, os que temem ⟨a⟩ YHWH, bendizei ⟨a⟩ YHWH",
   "tokens": [
     {
       "surface": "בית",
-      "english": "Casa"
+      "gloss": "Casa"
     },
     {
       "surface": "הלוי",
-      "english": "de Levi"
+      "gloss": "de Levi"
     },
     {
       "surface": "ברכו",
-      "english": "bendizei"
+      "gloss": "bendizei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יראי",
-      "english": "os que temem"
+      "gloss": "os que temem"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ברכו",
-      "english": "bendizei"
+      "gloss": "bendizei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:06.423550061Z",
-  "model": "glm-4.5"
+  ]
 }

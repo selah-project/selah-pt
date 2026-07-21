@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "genesis 10:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 10,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:51:04.928034741Z",
+  "translation": "E também para Shem ⟨foi⟩ gerado ⟨o⟩ pai de todos ⟨os⟩ filhos de Héber, irmão de Yéfet ⟨o⟩ maior.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "E também para Shem"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "⟨foi⟩ gerado"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de todos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨os⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "de Héber"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "irmão"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "de Yéfet"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "⟨o⟩ maior"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jafé",
@@ -13,68 +64,6 @@
       "hebrew": "יפת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21603,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22056
-  },
-  "translation": "E também para Shem ⟨foi⟩ gerado ⟨o⟩ pai de todos ⟨os⟩ filhos de Héber, irmão de Yéfet ⟨o⟩ maior.",
-  "tokens": [
-    {
-      "surface": "ולשם",
-      "english": "E também para Shem"
-    },
-    {
-      "surface": "ילד",
-      "english": "⟨foi⟩ gerado"
-    },
-    {
-      "surface": "גם",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "הוא",
-      "english": "pai"
-    },
-    {
-      "surface": "אבי",
-      "english": "de todos"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨os⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "עבר",
-      "english": "de Héber"
-    },
-    {
-      "surface": "אחי",
-      "english": "irmão"
-    },
-    {
-      "surface": "יפת",
-      "english": "de Yéfet"
-    },
-    {
-      "surface": "הגדול",
-      "english": "⟨o⟩ maior"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:51:04.928034741Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

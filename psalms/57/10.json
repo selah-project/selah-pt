@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 57:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62800,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63345
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:16:50.785196956Z",
   "translation": "Eu ⟨te⟩ darei graças, HaShem, entre ⟨os⟩ povos; eu ⟨te⟩ cantarei entre ⟨as⟩ nações.",
   "tokens": [
     {
       "surface": "אודך",
-      "english": "Eu ⟨te⟩ darei graças",
+      "gloss": "Eu ⟨te⟩ darei graças",
       "rationale": "Verbo de agradecimento\/lançar louvores em direção a"
     },
     {
       "surface": "בעמים",
-      "english": "entre ⟨os⟩ povos",
+      "gloss": "entre ⟨os⟩ povos",
       "rationale": "Preposição 'em' + 'povos\/comunidades'"
     },
     {
       "surface": "אדני",
-      "english": "HaShem",
+      "gloss": "HaShem",
       "rationale": "Título divino 'meu Senhor\/Adonai', forma respeitosa do Nome"
     },
     {
       "surface": "אזמרך",
-      "english": "eu ⟨te⟩ cantarei",
+      "gloss": "eu ⟨te⟩ cantarei",
       "rationale": "Verbo de cantar\/tocar instrumentos em direção a"
     },
     {
       "surface": "בל",
-      "english": "entre",
+      "gloss": "entre",
       "rationale": "Preposição de separação, aqui indicando 'no meio de'"
     },
     {
       "surface": "אמים",
-      "english": "⟨as⟩ nações",
+      "gloss": "⟨as⟩ nações",
       "rationale": "Comunidades\/grupos humanos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:16:50.785196956Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

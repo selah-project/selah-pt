@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-samuel 27:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 27,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:39:27.565538138Z",
+  "translation": "E ⟨foi⟩ ⟨o⟩ número dos dias que Davidd habitou no campo dos filisteus, dias e quatro meses",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E ⟨foi⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨o⟩ número"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dos dias"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "habitou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "no campo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dos filisteus"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dias"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "e quatro"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "meses"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,68 +64,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16768,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 17164
-  },
-  "translation": "E ⟨foi⟩ ⟨o⟩ número dos dias que Davidd habitou no campo dos filisteus, dias e quatro meses",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E ⟨foi⟩"
-    },
-    {
-      "surface": "מספר",
-      "english": "⟨o⟩ número"
-    },
-    {
-      "surface": "הימים",
-      "english": "dos dias"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "ישב",
-      "english": "habitou"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בשדה",
-      "english": "no campo"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "dos filisteus"
-    },
-    {
-      "surface": "ימים",
-      "english": "dias"
-    },
-    {
-      "surface": "וארבעה",
-      "english": "e quatro"
-    },
-    {
-      "surface": "חדשים",
-      "english": "meses"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:39:27.565538138Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

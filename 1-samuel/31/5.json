@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-samuel 31:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 31,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:42:42.266695135Z",
+  "translation": "E ⟨quando⟩ o ⟨que⟩ carregava ⟨as⟩ ⟨suas⟩ ⟨armas⟩ viu ⟨que⟩ Shaul ⟨estava⟩ morto, ⟨então⟩ também ⟨ele⟩ caiu sobre ⟨a⟩ ⟨sua⟩ espada e morreu com ⟨ele⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E quando"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "o que carregava"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "as suas armas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מת",
+      "gloss": "Saul estava morto"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "então também ele caiu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "a sua espada"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morreu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "com ele"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -13,76 +72,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16871,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 17475
-  },
-  "translation": "E ⟨quando⟩ o ⟨que⟩ carregava ⟨as⟩ ⟨suas⟩ ⟨armas⟩ viu ⟨que⟩ Shaul ⟨estava⟩ morto, ⟨então⟩ também ⟨ele⟩ caiu sobre ⟨a⟩ ⟨sua⟩ espada e morreu com ⟨ele⟩.",
-  "tokens": [
-    {
-      "surface": "וירא",
-      "english": "E quando"
-    },
-    {
-      "surface": "נשא",
-      "english": "o que carregava"
-    },
-    {
-      "surface": "כליו",
-      "english": "as suas armas"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "מת",
-      "english": "Saul estava morto"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "ויפל",
-      "english": "então também ele caiu"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "חרבו",
-      "english": "a sua espada"
-    },
-    {
-      "surface": "וימת",
-      "english": "e morreu"
-    },
-    {
-      "surface": "עמו",
-      "english": "com ele"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:42:42.266695135Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

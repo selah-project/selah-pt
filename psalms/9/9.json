@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 9:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 450,
-    "prompt_tokens": 70293,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70743
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:34:19.206636880Z",
   "translation": "E ⟨YHWH⟩ julgará o mundo com justiça, e ministrará juízo aos povos com equidade.",
   "tokens": [
     {
       "surface": "והוא",
-      "english": "E ⟨YHWH⟩"
+      "gloss": "E ⟨YHWH⟩"
     },
     {
       "surface": "ישפט",
-      "english": "julgará"
+      "gloss": "julgará"
     },
     {
       "surface": "תבל",
-      "english": "o mundo"
+      "gloss": "o mundo"
     },
     {
       "surface": "בצדק",
-      "english": "com justiça"
+      "gloss": "com justiça"
     },
     {
       "surface": "ידין",
-      "english": "e ministrará juízo"
+      "gloss": "e ministrará juízo"
     },
     {
       "surface": "לאמים",
-      "english": "aos povos"
+      "gloss": "aos povos"
     },
     {
       "surface": "במישרים",
-      "english": "com equidade"
+      "gloss": "com equidade"
     }
-  ],
-  "timestamp": "2026-07-16T17:34:19.206636880Z",
-  "model": "glm-4.5"
+  ]
 }

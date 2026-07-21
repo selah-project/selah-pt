@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 51:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70242,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70733
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:55:49.820427391Z",
   "translation": "Na vinda ⟨de⟩ Natan ⟨o⟩ profeta ⟨a⟩ ele ⟨como⟩ veio ⟨a⟩ Bath-Sheba",
   "tokens": [
     {
       "surface": "בבוא",
-      "english": "Na vinda"
+      "gloss": "Na vinda"
     },
     {
       "surface": "אליו",
-      "english": "⟨de⟩",
+      "gloss": "⟨de⟩",
       "marks": "Natan"
     },
     {
       "surface": "נתן",
-      "english": "Natan"
+      "gloss": "Natan"
     },
     {
       "surface": "הנביא",
-      "english": "⟨o⟩ profeta"
+      "gloss": "⟨o⟩ profeta"
     },
     {
       "surface": "כאשר",
-      "english": "⟨a⟩ ele"
+      "gloss": "⟨a⟩ ele"
     },
     {
       "surface": "בא",
-      "english": "⟨como⟩ veio"
+      "gloss": "⟨como⟩ veio"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "בת",
-      "english": "Bath-Sheba"
+      "gloss": "Bath-Sheba"
     },
     {
       "surface": "שבע",
-      "english": "Bath-Sheba"
+      "gloss": "Bath-Sheba"
     }
-  ],
-  "timestamp": "2026-06-13T02:55:49.820427391Z",
-  "model": "glm-4.5"
+  ]
 }

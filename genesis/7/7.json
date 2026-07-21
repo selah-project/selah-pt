@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "genesis 7:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 7,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:48:09.599887175Z",
+  "translation": "E veio Noaj e seus filhos e sua esposa e as esposas de seus filhos com ⟨ele⟩ ⟨para⟩ ⟨a⟩ arca por causa das águas do dilúvio",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E veio"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e seus filhos"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e sua esposa"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "e as esposas"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "de seus filhos"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "com ⟨ele⟩",
+      "marks": "Noé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "⟨a⟩ arca"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "por causa de"
+    },
+    {
+      "surface": "מי",
+      "gloss": "das águas"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "do dilúvio"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noé",
@@ -13,73 +69,6 @@
       "hebrew": "נח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21669,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22064
-  },
-  "translation": "E veio Noaj e seus filhos e sua esposa e as esposas de seus filhos com ⟨ele⟩ ⟨para⟩ ⟨a⟩ arca por causa das águas do dilúvio",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E veio"
-    },
-    {
-      "surface": "נח",
-      "english": "Noaj"
-    },
-    {
-      "surface": "ובניו",
-      "english": "e seus filhos"
-    },
-    {
-      "surface": "ואשתו",
-      "english": "e sua esposa"
-    },
-    {
-      "surface": "ונשי",
-      "english": "e as esposas"
-    },
-    {
-      "surface": "בניו",
-      "english": "de seus filhos"
-    },
-    {
-      "surface": "אתו",
-      "english": "com ⟨ele⟩",
-      "marks": "Noé"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "התבה",
-      "english": "⟨a⟩ arca"
-    },
-    {
-      "surface": "מפני",
-      "english": "por causa de"
-    },
-    {
-      "surface": "מי",
-      "english": "das águas"
-    },
-    {
-      "surface": "המבול",
-      "english": "do dilúvio"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:48:09.599887175Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 72:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 72,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:26:36.393542164Z",
+  "translation": "Os reis de Tarshish ⟨e⟩ ⟨as⟩ ilhas Minjás trarão; os reis de Sabá ⟨e⟩ Seba Minjá darão.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Os reis de"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "⟨e⟩ ⟨as⟩ ilhas"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "Minjás"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "trarão"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "os reis de"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sabá"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "presente"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "darão"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Társis",
@@ -20,64 +67,6 @@
       "hebrew": "מנחה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 72,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63181,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63573
-  },
-  "translation": "Os reis de Tarshish ⟨e⟩ ⟨as⟩ ilhas Minjás trarão; os reis de Sabá ⟨e⟩ Seba Minjá darão.",
-  "tokens": [
-    {
-      "surface": "מלכי",
-      "english": "Os reis de"
-    },
-    {
-      "surface": "תרשיש",
-      "english": "Tarshish"
-    },
-    {
-      "surface": "ואיים",
-      "english": "⟨e⟩ ⟨as⟩ ilhas"
-    },
-    {
-      "surface": "מנחה",
-      "english": "Minjás"
-    },
-    {
-      "surface": "ישיבו",
-      "english": "trarão"
-    },
-    {
-      "surface": "מלכי",
-      "english": "os reis de"
-    },
-    {
-      "surface": "שבא",
-      "english": "Sabá"
-    },
-    {
-      "surface": "וסבא",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "אשכר",
-      "english": "presente"
-    },
-    {
-      "surface": "יקריבו",
-      "english": "darão"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:26:36.393542164Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

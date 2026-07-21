@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "hosea 9:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 9,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:59:35.933377345Z",
+  "translation": "Vieram ⟨os⟩ dias ⟨da⟩ visitação, vieram ⟨os⟩ dias ⟨do⟩ retribuição. Saiba, Yisrael, ⟨o⟩ profeta ⟨é⟩ ⟨um⟩ tolo, ⟨o⟩ homem ⟨do⟩ espírito ⟨está⟩ endoidecido, por ⟨a⟩ multidão ⟨da⟩ tua perversidade, e grande ⟨é⟩ ⟨a⟩ hostilidade.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Vieram"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "⟨os⟩ dias"
+    },
+    {
+      "surface": "הפקדה",
+      "gloss": "⟨da⟩ visitação"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vieram"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "⟨os⟩ dias"
+    },
+    {
+      "surface": "השלם",
+      "gloss": "⟨do⟩ retribuição"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "Saiba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "⟨o⟩ profeta"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨é⟩ ⟨um⟩ tolo"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "⟨o⟩ homem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨do⟩ espírito"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "⟨está⟩ endoidecido"
+    },
+    {
+      "surface": "על",
+      "gloss": "por"
+    },
+    {
+      "surface": "רב",
+      "gloss": "⟨a⟩ multidão"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "⟨da⟩ tua perversidade"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "e grande"
+    },
+    {
+      "surface": "משטמה",
+      "gloss": "⟨é⟩ ⟨a⟩ hostilidade"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,96 +92,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 920,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20524,
-    "prompt_tokens_details": {
-      "cached_tokens": 18473
-    },
-    "total_tokens": 21444
-  },
-  "translation": "Vieram ⟨os⟩ dias ⟨da⟩ visitação, vieram ⟨os⟩ dias ⟨do⟩ retribuição. Saiba, Yisrael, ⟨o⟩ profeta ⟨é⟩ ⟨um⟩ tolo, ⟨o⟩ homem ⟨do⟩ espírito ⟨está⟩ endoidecido, por ⟨a⟩ multidão ⟨da⟩ tua perversidade, e grande ⟨é⟩ ⟨a⟩ hostilidade.",
-  "tokens": [
-    {
-      "surface": "באו",
-      "english": "Vieram"
-    },
-    {
-      "surface": "ימי",
-      "english": "⟨os⟩ dias"
-    },
-    {
-      "surface": "הפקדה",
-      "english": "⟨da⟩ visitação"
-    },
-    {
-      "surface": "באו",
-      "english": "vieram"
-    },
-    {
-      "surface": "ימי",
-      "english": "⟨os⟩ dias"
-    },
-    {
-      "surface": "השלם",
-      "english": "⟨do⟩ retribuição"
-    },
-    {
-      "surface": "ידעו",
-      "english": "Saiba"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אויל",
-      "english": "⟨o⟩ profeta"
-    },
-    {
-      "surface": "הנביא",
-      "english": "⟨é⟩ ⟨um⟩ tolo"
-    },
-    {
-      "surface": "משגע",
-      "english": "⟨o⟩ homem"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨do⟩ espírito"
-    },
-    {
-      "surface": "הרוח",
-      "english": "⟨está⟩ endoidecido"
-    },
-    {
-      "surface": "על",
-      "english": "por"
-    },
-    {
-      "surface": "רב",
-      "english": "⟨a⟩ multidão"
-    },
-    {
-      "surface": "עונך",
-      "english": "⟨da⟩ tua perversidade"
-    },
-    {
-      "surface": "ורבה",
-      "english": "e grande"
-    },
-    {
-      "surface": "משטמה",
-      "english": "⟨é⟩ ⟨a⟩ hostilidade"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:59:35.933377345Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

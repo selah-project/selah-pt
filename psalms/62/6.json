@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 62:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62932,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63455
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:19:33.131798498Z",
   "translation": "Apenas ⟨é⟩ para Elohim silenciosa ⟨a⟩ minháalma ⟨é⟩, pois ⟨a⟩ minha esperança ⟨vem⟩ ⟨dele⟩",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Apenas"
+      "gloss": "Apenas"
     },
     {
       "surface": "לאלהים",
-      "english": "para Elohim"
+      "gloss": "para Elohim"
     },
     {
       "surface": "דומי",
-      "english": "silenciosa ⟨a⟩ minháalma ⟨é⟩",
+      "gloss": "silenciosa ⟨a⟩ minháalma ⟨é⟩",
       "marks": "minháalma"
     },
     {
       "surface": "נפשי",
-      "english": "minháalma"
+      "gloss": "minháalma"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "ממנו",
-      "english": "⟨dele⟩",
+      "gloss": "⟨dele⟩",
       "marks": "⟨a⟩ minháalma silenciosa"
     },
     {
       "surface": "תקותי",
-      "english": "⟨a⟩ minha esperança ⟨vem⟩"
+      "gloss": "⟨a⟩ minha esperança ⟨vem⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:19:33.131798498Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "jeremiah 35:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 35,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:40:07.444062110Z",
+  "translation": "Assim diz YHWH Tzevaot, o Elohim de Yisrael: Vá e diga ⟨ao⟩ homem de Yehudá e ⟨aos⟩ moradores de Yerushalayim: Não ⟨vocês⟩ receberão ⟨o⟩ ⟨moral⟩ para ouvir ⟨as⟩ minhas palavras? — declaração de YHWH.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "Vá"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e diga"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨ao⟩ homem",
+      "marks": "homem de Judá e aos moradores de Jerusalém"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "וליושבי",
+      "gloss": "e ⟨aos⟩ moradores",
+      "marks": "moradores de Jerusalém"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "⟨vocês⟩ receberão"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "⟨o⟩ ⟨moral⟩",
+      "marks": "instrução\/disciplina moral para ouvir as minhas palavras"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "para ouvir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨as⟩",
+      "marks": "minhas palavras"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "minhas palavras"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "declaração"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -27,108 +118,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 870,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18631,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 19501
-  },
-  "translation": "Assim diz YHWH Tzevaot, o Elohim de Yisrael: Vá e diga ⟨ao⟩ homem de Yehudá e ⟨aos⟩ moradores de Yerushalayim: Não ⟨vocês⟩ receberão ⟨o⟩ ⟨moral⟩ para ouvir ⟨as⟩ minhas palavras? — declaração de YHWH.",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "צבאות",
-      "english": "Tzevaot"
-    },
-    {
-      "surface": "אלהי",
-      "english": "o Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "הלך",
-      "english": "Vá"
-    },
-    {
-      "surface": "ואמרת",
-      "english": "e diga"
-    },
-    {
-      "surface": "לאיש",
-      "english": "⟨ao⟩ homem",
-      "marks": "homem de Judá e aos moradores de Jerusalém"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "וליושבי",
-      "english": "e ⟨aos⟩ moradores",
-      "marks": "moradores de Jerusalém"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    },
-    {
-      "surface": "הלוא",
-      "english": "Não"
-    },
-    {
-      "surface": "תקחו",
-      "english": "⟨vocês⟩ receberão"
-    },
-    {
-      "surface": "מוסר",
-      "english": "⟨o⟩ ⟨moral⟩",
-      "marks": "instrução\/disciplina moral para ouvir as minhas palavras"
-    },
-    {
-      "surface": "לשמע",
-      "english": "para ouvir"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨as⟩",
-      "marks": "minhas palavras"
-    },
-    {
-      "surface": "דברי",
-      "english": "minhas palavras"
-    },
-    {
-      "surface": "נאם",
-      "english": "declaração"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:40:07.444062110Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

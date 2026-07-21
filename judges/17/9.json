@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "judges 17:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 17,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:07:48.609310561Z",
+  "translation": "E Micá disse-lhe: ⟨De onde⟩ vens? E ⟨ele⟩ disse-lhe: ⟨Eu⟩ sou ⟨um⟩ Levita ⟨de⟩ Bet-Léjem ⟨de⟩ Yehudá, e eu vou para peregrinar ⟨onde⟩ eu encontrar ⟨um⟩ lugar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Micá disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lhe"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Micá"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "⟨De onde⟩"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "vens"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E ⟨ele⟩ disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "-lhe"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levita"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨Eu⟩"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨de⟩ Belém"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Léjem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "⟨de⟩ Yehudá"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e eu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "vou"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "para peregrinar"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "⟨onde⟩"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "eu encontrar ⟨um⟩ lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Belém",
@@ -20,92 +95,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 659,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17021,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17680
-  },
-  "translation": "E Micá disse-lhe: ⟨De onde⟩ vens? E ⟨ele⟩ disse-lhe: ⟨Eu⟩ sou ⟨um⟩ Levita ⟨de⟩ Bet-Léjem ⟨de⟩ Yehudá, e eu vou para peregrinar ⟨onde⟩ eu encontrar ⟨um⟩ lugar.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Micá disse"
-    },
-    {
-      "surface": "לו",
-      "english": "-lhe"
-    },
-    {
-      "surface": "מיכה",
-      "english": "Micá"
-    },
-    {
-      "surface": "מאין",
-      "english": "⟨De onde⟩"
-    },
-    {
-      "surface": "תבוא",
-      "english": "vens"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E ⟨ele⟩ disse"
-    },
-    {
-      "surface": "אליו",
-      "english": "-lhe"
-    },
-    {
-      "surface": "לוי",
-      "english": "Levita"
-    },
-    {
-      "surface": "אנכי",
-      "english": "⟨Eu⟩"
-    },
-    {
-      "surface": "מבית",
-      "english": "⟨de⟩ Belém"
-    },
-    {
-      "surface": "לחם",
-      "english": "Bet-Léjem"
-    },
-    {
-      "surface": "יהודה",
-      "english": "⟨de⟩ Yehudá"
-    },
-    {
-      "surface": "ואנכי",
-      "english": "e eu"
-    },
-    {
-      "surface": "הלך",
-      "english": "vou"
-    },
-    {
-      "surface": "לגור",
-      "english": "para peregrinar"
-    },
-    {
-      "surface": "באשר",
-      "english": "⟨onde⟩"
-    },
-    {
-      "surface": "אמצא",
-      "english": "eu encontrar ⟨um⟩ lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:07:48.609310561Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

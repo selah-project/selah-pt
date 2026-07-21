@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 140:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 461,
-    "prompt_tokens": 70444,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70905
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:07.807969787Z",
   "translation": "YHWH, Adonai, ⟨o⟩ vigor da minha salvação, Tu ⟨o⟩ cobriste ⟨a⟩ minha cabeça no dia ⟨do⟩ armamento.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "עז",
-      "english": "⟨o⟩ vigor"
+      "gloss": "⟨o⟩ vigor"
     },
     {
       "surface": "ישועתי",
-      "english": "da minha salvação"
+      "gloss": "da minha salvação"
     },
     {
       "surface": "סכתה",
-      "english": "Tu ⟨o⟩ cobriste"
+      "gloss": "Tu ⟨o⟩ cobriste"
     },
     {
       "surface": "לראשי",
-      "english": "⟨a⟩ minha cabeça"
+      "gloss": "⟨a⟩ minha cabeça"
     },
     {
       "surface": "ביום",
-      "english": "no dia ⟨do⟩"
+      "gloss": "no dia ⟨do⟩"
     },
     {
       "surface": "נשק",
-      "english": "armamento"
+      "gloss": "armamento"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:07.807969787Z",
-  "model": "glm-4.5"
+  ]
 }

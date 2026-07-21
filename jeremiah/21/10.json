@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "jeremiah 21:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 21,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:23:03.081345976Z",
+  "translation": "Porque ⟨eu⟩ coloquei meu rosto sobre esta cidade para mal e não para bem ⟨diz⟩ YHWH ⟨ela⟩ será entregue na mão do rei de Bavel e ⟨a⟩ queimará com fogo",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "⟨eu⟩ coloquei"
+    },
+    {
+      "surface": "פני",
+      "gloss": "meu rosto"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sobre esta cidade"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "esta"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "para mal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "para bem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "⟨diz⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na mão"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "do rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "⟨ela⟩ será entregue"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "e ⟨a⟩ queimará"
+    },
+    {
+      "surface": "באש",
+      "gloss": "com fogo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,88 +84,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18172,
-    "prompt_tokens_details": {
-      "cached_tokens": 16391
-    },
-    "total_tokens": 18698
-  },
-  "translation": "Porque ⟨eu⟩ coloquei meu rosto sobre esta cidade para mal e não para bem ⟨diz⟩ YHWH ⟨ela⟩ será entregue na mão do rei de Bavel e ⟨a⟩ queimará com fogo",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "שמתי",
-      "english": "⟨eu⟩ coloquei"
-    },
-    {
-      "surface": "פני",
-      "english": "meu rosto"
-    },
-    {
-      "surface": "בעיר",
-      "english": "sobre esta cidade"
-    },
-    {
-      "surface": "הזאת",
-      "english": "esta"
-    },
-    {
-      "surface": "לרעה",
-      "english": "para mal"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "לטובה",
-      "english": "para bem"
-    },
-    {
-      "surface": "נאם",
-      "english": "⟨diz⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "ביד",
-      "english": "na mão"
-    },
-    {
-      "surface": "מלך",
-      "english": "do rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "תנתן",
-      "english": "⟨ela⟩ será entregue"
-    },
-    {
-      "surface": "ושרפה",
-      "english": "e ⟨a⟩ queimará"
-    },
-    {
-      "surface": "באש",
-      "english": "com fogo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:23:03.081345976Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

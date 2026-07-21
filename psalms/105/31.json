@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "psalms 105:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 625,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62744,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63369
-  },
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:49:03.699902748Z",
   "translation": "Ele ⟨disse⟩ e ⟨veio⟩ ⟨את⟩ insetos ⟨e⟩ piolhos em ⟨a⟩ fronteira ⟨deles⟩",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "Disse",
+      "gloss": "Disse",
       "rationale": "אמר - to say (used with great latitude)"
     },
     {
       "surface": "ויבא",
-      "english": "e ⟨veio⟩",
+      "gloss": "e ⟨veio⟩",
       "rationale": "ויבא - vav-consecutive imperfect of בוא (to come); requires 'e' in Portuguese sequence"
     },
     {
       "surface": "ערב",
-      "english": "insetos",
+      "gloss": "insetos",
       "rationale": "ערב - 'swarm' (here specifically mosquitoes\/flies); translated generically as 'insetos' to include gnats"
     },
     {
       "surface": "כנים",
-      "english": "piolhos",
+      "gloss": "piolhos",
       "rationale": "כנים - 'gnats' (small flying insects); 'piolhos' captures the infestation context"
     },
     {
       "surface": "בכל",
-      "english": "em ⟨a⟩",
+      "gloss": "em ⟨a⟩",
       "rationale": "בכל - 'in all'; requires article in Portuguese"
     },
     {
       "surface": "גבולם",
-      "english": "fronteira ⟨deles⟩",
+      "gloss": "fronteira ⟨deles⟩",
       "rationale": "גבולם - 'their border\/coast'; 'fronteira' with 'deles' clarifies possession"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:49:03.699902748Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

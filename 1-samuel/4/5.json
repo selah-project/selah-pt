@@ -1,9 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-samuel 4:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 4,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:15:52.151535968Z",
+  "translation": "E aconteceu, ⟨com⟩ a entrada ⟨do⟩ arco ⟨da⟩ Brit ⟨de⟩ YHWH ⟨no⟩ acampamento, ⟨que⟩ todo ⟨o⟩ Yisrael gritou ⟨com⟩ grande clamor, ⟨e⟩ ⟨a⟩ terra ressoou",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "⟨com⟩ a entrada",
+      "marks": "a entrada ⟨do⟩ arco"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨do⟩ arco"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨da⟩ Brit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "acampamento"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "⟨que⟩ gritou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨todo⟩ ⟨o⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "⟨com⟩ grande clamor"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "⟨e⟩ ⟨a⟩ terra ressoou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "aliança",
@@ -20,81 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 587,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17015,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17602
-  },
-  "translation": "E aconteceu, ⟨com⟩ a entrada ⟨do⟩ arco ⟨da⟩ Brit ⟨de⟩ YHWH ⟨no⟩ acampamento, ⟨que⟩ todo ⟨o⟩ Yisrael gritou ⟨com⟩ grande clamor, ⟨e⟩ ⟨a⟩ terra ressoou",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "כבוא",
-      "english": "⟨com⟩ a entrada",
-      "marks": "a entrada ⟨do⟩ arco"
-    },
-    {
-      "surface": "ארון",
-      "english": "⟨do⟩ arco"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨da⟩ Brit"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "המחנה",
-      "english": "acampamento"
-    },
-    {
-      "surface": "וירעו",
-      "english": "⟨que⟩ gritou"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨todo⟩ ⟨o⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "תרועה",
-      "english": "⟨com⟩ grande clamor"
-    },
-    {
-      "surface": "גדולה",
-      "english": "grande"
-    },
-    {
-      "surface": "ותהם",
-      "english": "⟨e⟩ ⟨a⟩ terra ressoou"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨a⟩ terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:15:52.151535968Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

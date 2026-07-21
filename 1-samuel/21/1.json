@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-samuel 21:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 265,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16311,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 16576
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:33:21.050752697Z",
   "translation": "E ⟨ele⟩ se levantou e foi, e Jonathan ⟨foi⟩ ⟨para⟩ ⟨a⟩ cidade.",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "E ⟨ele⟩ se levantou"
+      "gloss": "E ⟨ele⟩ se levantou"
     },
     {
       "surface": "וילך",
-      "english": "e foi"
+      "gloss": "e foi"
     },
     {
       "surface": "ויהונתן",
-      "english": "e Jonathan"
+      "gloss": "e Jonathan"
     },
     {
       "surface": "בא",
-      "english": "⟨foi⟩ ⟨para⟩"
+      "gloss": "⟨foi⟩ ⟨para⟩"
     },
     {
       "surface": "העיר",
-      "english": "⟨a⟩ cidade"
+      "gloss": "⟨a⟩ cidade"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:33:21.050752697Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

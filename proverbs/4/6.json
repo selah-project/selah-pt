@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "proverbs 4:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52731,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53140
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:20:30.034640585Z",
   "translation": "Do not forsake ⟨it⟩ and ⟨it⟩ will preserve you; love ⟨it⟩ and ⟨it⟩ will keep you",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Do not"
+      "gloss": "Do not"
     },
     {
       "surface": "תעזבה",
-      "english": "forsake"
+      "gloss": "forsake"
     },
     {
       "surface": "ותשמרך",
-      "english": "and ⟨it⟩ will preserve you",
+      "gloss": "and ⟨it⟩ will preserve you",
       "marks": "it"
     },
     {
       "surface": "אהבה",
-      "english": "love"
+      "gloss": "love"
     },
     {
       "surface": "ותצרך",
-      "english": "and ⟨it⟩ will keep you",
+      "gloss": "and ⟨it⟩ will keep you",
       "marks": "it"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:20:30.034640585Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

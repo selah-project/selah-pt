@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 38,
   "ref": "joshua 10:38",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 10,
+  "verse": 38,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:36:10.251757524Z",
+  "translation": "E Yehoshua voltou e todo Yisrael com ele ⟨para⟩ Debir, e guerreou contra ela",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E voltou"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "com ele"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "e guerreou"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contra ela"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josué",
@@ -20,56 +59,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 223,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16443,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 16666
-  },
-  "translation": "E Yehoshua voltou e todo Yisrael com ele ⟨para⟩ Debir, e guerreou contra ela",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E voltou"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "עמו",
-      "english": "com ele"
-    },
-    {
-      "surface": "דברה",
-      "english": "Debir"
-    },
-    {
-      "surface": "ולחם",
-      "english": "e guerreou"
-    },
-    {
-      "surface": "עליה",
-      "english": "contra ela"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:36:10.251757524Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

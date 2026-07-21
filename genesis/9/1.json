@@ -1,76 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 9:1",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 609,
-    "prompt_tokens": 29333,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29942
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:41:47.014542114Z",
   "translation": "E Elohim abençoou ⟨את⟩ Noaj e ⟨את⟩ seus filhos e disse-lhes: frutificai e multiplicai-vos e enchei ⟨את⟩ a terra",
   "tokens": [
     {
       "surface": "ויברך",
-      "english": "E abençoou"
+      "gloss": "E abençoou"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Noaj"
     },
     {
       "surface": "נח",
-      "english": "Noaj"
+      "gloss": "Noaj"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "seus filhos"
     },
     {
       "surface": "בניו",
-      "english": "seus filhos"
+      "gloss": "seus filhos"
     },
     {
       "surface": "ויאמר",
-      "english": "e disse"
+      "gloss": "e disse"
     },
     {
       "surface": "להם",
-      "english": "-lhes"
+      "gloss": "-lhes"
     },
     {
       "surface": "פרו",
-      "english": "frutificai"
+      "gloss": "frutificai"
     },
     {
       "surface": "ורבו",
-      "english": "e multiplicai-vos"
+      "gloss": "e multiplicai-vos"
     },
     {
       "surface": "ומלאו",
-      "english": "e enchei"
+      "gloss": "e enchei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a terra"
     },
     {
       "surface": "הארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     }
-  ],
-  "timestamp": "2026-07-16T14:41:47.014542114Z",
-  "model": "glm-4.5"
+  ]
 }

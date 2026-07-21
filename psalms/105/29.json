@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "psalms 105:29",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 345,
-    "prompt_tokens": 70388,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70733
-  },
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:46:31.125172951Z",
   "translation": "Ele virou ⟨as⟩ águas deles em sangue e matou ⟨os⟩ peixes deles",
   "tokens": [
     {
       "surface": "הפך",
-      "english": "Ele virou"
+      "gloss": "Ele virou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨as⟩ águas deles"
     },
     {
       "surface": "מימיהם",
-      "english": "as águas deles"
+      "gloss": "as águas deles"
     },
     {
       "surface": "לדם",
-      "english": "em sangue"
+      "gloss": "em sangue"
     },
     {
       "surface": "וימת",
-      "english": "e matou"
+      "gloss": "e matou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨os⟩ peixes deles"
     },
     {
       "surface": "דגתם",
-      "english": "os peixes deles"
+      "gloss": "os peixes deles"
     }
-  ],
-  "timestamp": "2026-07-16T17:46:31.125172951Z",
-  "model": "glm-4.5"
+  ]
 }

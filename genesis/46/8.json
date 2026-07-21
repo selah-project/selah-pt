@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "genesis 46:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 46,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:30:31.690271349Z",
+  "translation": "E estes ⟨são⟩ os nomes dos filhos de Yisrael que vieram ⟨para⟩ o Mitzráyim: Yaakov e seus filhos; o primogênito de Yaakov, Reuven.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E estes"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "os nomes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "que vieram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "⟨para⟩ o Mitzráyim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e seus filhos"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "o primogênito de"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,68 +71,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21677,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22086
-  },
-  "translation": "E estes ⟨são⟩ os nomes dos filhos de Yisrael que vieram ⟨para⟩ o Mitzráyim: Yaakov e seus filhos; o primogênito de Yaakov, Reuven.",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E estes"
-    },
-    {
-      "surface": "שמות",
-      "english": "os nomes"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "הבאים",
-      "english": "que vieram"
-    },
-    {
-      "surface": "מצרימה",
-      "english": "⟨para⟩ o Mitzráyim"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "ובניו",
-      "english": "e seus filhos"
-    },
-    {
-      "surface": "בכר",
-      "english": "o primogênito de"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "ראובן",
-      "english": "Reuven"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:30:31.690271349Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 11:1",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28503,
-    "prompt_tokens_details": {
-      "cached_tokens": 27646
-    },
-    "total_tokens": 28889
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:21:47.381589496Z",
   "translation": "E aconteceu que ⟨a⟩ terra ⟨era⟩ toda ⟨de⟩ uma ⟨só⟩ língua e ⟨de⟩ palavras ⟨unas⟩",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E aconteceu que"
+      "gloss": "E aconteceu que"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "שפה",
-      "english": "língua"
+      "gloss": "língua"
     },
     {
       "surface": "אחת",
-      "english": "⟨só⟩"
+      "gloss": "⟨só⟩"
     },
     {
       "surface": "ודברים",
-      "english": "e ⟨de⟩ palavras"
+      "gloss": "e ⟨de⟩ palavras"
     },
     {
       "surface": "אחדים",
-      "english": "⟨unas⟩"
+      "gloss": "⟨unas⟩"
     }
-  ],
-  "timestamp": "2026-06-14T04:21:47.381589496Z",
-  "model": "glm-4.5"
+  ]
 }

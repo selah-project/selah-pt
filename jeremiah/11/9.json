@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "jeremiah 11:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 11,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:14:23.830645135Z",
+  "translation": "E YHWH disse a mim: 'Encontrou-se ⟨um⟩ conselho ⟨pernicioso⟩ entre ⟨os⟩ homens de Yehudá e ⟨os⟩ habitantes de Yerushalayim.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mim"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "Encontrou-se"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "conselho ⟨pernicioso⟩"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "entre ⟨os⟩ homens"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "e ⟨os⟩ habitantes"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,60 +63,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17593,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 17978
-  },
-  "translation": "E YHWH disse a mim: 'Encontrou-se ⟨um⟩ conselho ⟨pernicioso⟩ entre ⟨os⟩ homens de Yehudá e ⟨os⟩ habitantes de Yerushalayim.'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mim"
-    },
-    {
-      "surface": "נמצא",
-      "english": "Encontrou-se"
-    },
-    {
-      "surface": "קשר",
-      "english": "conselho ⟨pernicioso⟩"
-    },
-    {
-      "surface": "באיש",
-      "english": "entre ⟨os⟩ homens"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ובישבי",
-      "english": "e ⟨os⟩ habitantes"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:14:23.830645135Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

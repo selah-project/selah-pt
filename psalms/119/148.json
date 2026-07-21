@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 148,
   "ref": "psalms 119:148",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 411,
-    "prompt_tokens": 70106,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70517
-  },
+  "verse": 148,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:36.999486488Z",
   "translation": "Meus olhos antecipam as vigias ⟨da⟩ noite, para meditar ⟨em⟩ tua palavra.",
   "tokens": [
     {
       "surface": "קדמו",
-      "english": "Meus olhos antecipam",
+      "gloss": "Meus olhos antecipam",
       "lemma": "קָדַם",
       "strong": 6923
     },
     {
       "surface": "עיני",
-      "english": "",
+      "gloss": "",
       "lemma": "עַיִן",
       "strong": 5869
     },
     {
       "surface": "אשמרות",
-      "english": "as vigias ⟨da⟩ noite",
+      "gloss": "as vigias ⟨da⟩ noite",
       "lemma": "אַשְׁמֻרָה",
       "strong": 821
     },
     {
       "surface": "לשיח",
-      "english": "para meditar ⟨em⟩",
+      "gloss": "para meditar ⟨em⟩",
       "lemma": "שִׂיחַ",
       "strong": 7879
     },
     {
       "surface": "באמרתך",
-      "english": "tua palavra",
+      "gloss": "tua palavra",
       "lemma": "אָמְרָה",
       "strong": 565
     }
-  ],
-  "timestamp": "2026-07-16T17:50:36.999486488Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 56:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63119,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63563
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:16:27.595602456Z",
   "translation": "Sê propício a mim, Elohim, pois homem ⟨é⟩ quem me traga ⟨o⟩ dia todo; ele lutando diariamente oprime a mim",
   "tokens": [
     {
       "surface": "חנני",
-      "english": "Sê propício a mim"
+      "gloss": "Sê propício a mim"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "שאפני",
-      "english": "homem ⟨é⟩ quem me traga"
+      "gloss": "homem ⟨é⟩ quem me traga"
     },
     {
       "surface": "אנוש",
-      "english": "homem"
+      "gloss": "homem"
     },
     {
       "surface": "כל",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "היום",
-      "english": "dia todo"
+      "gloss": "dia todo"
     },
     {
       "surface": "לחם",
-      "english": "lutando"
+      "gloss": "lutando"
     },
     {
       "surface": "ילחצני",
-      "english": "oprime a mim"
+      "gloss": "oprime a mim"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:16:27.595602456Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

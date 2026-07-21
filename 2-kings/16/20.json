@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-kings 16:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 16,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:02:07.367210879Z",
+  "translation": "E Achaz dormiu ⟨com⟩ seus pais e foi sepultado ⟨com⟩ seus pais na cidade de David; e Jizkiyahu, seu filho, reinou em seu lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "E Achaz dormiu"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e foi sepultado"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na cidade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e reinou"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Jizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "em seu lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,76 +79,6 @@
       "hebrew": "חזקיהו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17321,
-    "prompt_tokens_details": {
-      "cached_tokens": 15784
-    },
-    "total_tokens": 17771
-  },
-  "translation": "E Achaz dormiu ⟨com⟩ seus pais e foi sepultado ⟨com⟩ seus pais na cidade de David; e Jizkiyahu, seu filho, reinou em seu lugar.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "E Achaz dormiu"
-    },
-    {
-      "surface": "אחז",
-      "english": "Achaz"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "e foi sepultado"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "בעיר",
-      "english": "na cidade"
-    },
-    {
-      "surface": "דוד",
-      "english": "de David"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e reinou"
-    },
-    {
-      "surface": "חזקיהו",
-      "english": "Jizkiyahu"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "em seu lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:02:07.367210879Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

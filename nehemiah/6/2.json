@@ -1,92 +1,81 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "nehemiah 6:2",
   "book": "nehemiah",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 715,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57711,
-    "prompt_tokens_details": {
-      "cached_tokens": 55831
-    },
-    "total_tokens": 58426
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:58:58.468649620Z",
   "translation": "E Sanballat e Geshem enviaram ⟨a⟩ mim, dizendo: Vem, e nos encontremos ⟨juntos⟩ nas vilas na planície de Ono; mas eles estavam planejando ⟨para⟩ me fazer mal.",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "E... enviaram"
+      "gloss": "E... enviaram"
     },
     {
       "surface": "סנבלט",
-      "english": "Sanballat"
+      "gloss": "Sanballat"
     },
     {
       "surface": "וגשם",
-      "english": "e Geshem"
+      "gloss": "e Geshem"
     },
     {
       "surface": "אלי",
-      "english": "⟨a⟩ mim",
+      "gloss": "⟨a⟩ mim",
       "marks": "mim"
     },
     {
       "surface": "לאמר",
-      "english": "dizendo"
+      "gloss": "dizendo"
     },
     {
       "surface": "לכה",
-      "english": "Vem"
+      "gloss": "Vem"
     },
     {
       "surface": "ונועדה",
-      "english": "e nos encontremos"
+      "gloss": "e nos encontremos"
     },
     {
       "surface": "יחדו",
-      "english": "⟨juntos⟩",
+      "gloss": "⟨juntos⟩",
       "rationale": "Hebraico adverbial 'unidamente'"
     },
     {
       "surface": "בכפירים",
-      "english": "nas vilas"
+      "gloss": "nas vilas"
     },
     {
       "surface": "בבקעת",
-      "english": "na planície"
+      "gloss": "na planície"
     },
     {
       "surface": "אונו",
-      "english": "de Ono"
+      "gloss": "de Ono"
     },
     {
       "surface": "והמה",
-      "english": "mas eles"
+      "gloss": "mas eles"
     },
     {
       "surface": "חשבים",
-      "english": "estavam planejando"
+      "gloss": "estavam planejando"
     },
     {
       "surface": "לעשות",
-      "english": "⟨para⟩ fazer",
+      "gloss": "⟨para⟩ fazer",
       "rationale": "Infinitivo hebraico requer preposição em português"
     },
     {
       "surface": "לי",
-      "english": "⟨para⟩ mim",
+      "gloss": "⟨para⟩ mim",
       "rationale": "Preposição incluída na tradução natural"
     },
     {
       "surface": "רעה",
-      "english": "mal"
+      "gloss": "mal"
     }
-  ],
-  "timestamp": "2026-06-13T06:58:58.468649620Z",
-  "model": "glm-4.5"
+  ]
 }

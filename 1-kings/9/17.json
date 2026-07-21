@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-kings 9:17",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 337,
-    "prompt_tokens": 69844,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 70181
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:27:14.897239155Z",
   "translation": "E Shlomó construiu ⟨את⟩ Gezer e ⟨את⟩ Bet-Jorom ⟨o⟩ Tahton",
   "tokens": [
     {
       "surface": "ויבן",
-      "english": "E Shlomó construiu"
+      "gloss": "E Shlomó construiu"
     },
     {
       "surface": "שלמה",
-      "english": "Shlomó"
+      "gloss": "Shlomó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Gezer"
     },
     {
       "surface": "גזר",
-      "english": "Gezer"
+      "gloss": "Gezer"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Bet"
     },
     {
       "surface": "בית",
-      "english": "Bet"
+      "gloss": "Bet"
     },
     {
       "surface": "חרן",
-      "english": "-Jorom"
+      "gloss": "-Jorom"
     },
     {
       "surface": "תחתון",
-      "english": "⟨o⟩ Tahton"
+      "gloss": "⟨o⟩ Tahton"
     }
-  ],
-  "timestamp": "2026-07-16T11:27:14.897239155Z",
-  "model": "glm-4.5"
+  ]
 }

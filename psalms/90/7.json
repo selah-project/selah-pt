@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 90:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 389,
-    "prompt_tokens": 70185,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70574
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:44:04.270299168Z",
   "translation": "Pois somos consumidos ⟨pelo⟩ teu furor, e ⟨pela⟩ tua ira somos perturbados.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "כלינו",
-      "english": "somos consumidos"
+      "gloss": "somos consumidos"
     },
     {
       "surface": "באפך",
-      "english": "⟨pelo⟩ teu furor"
+      "gloss": "⟨pelo⟩ teu furor"
     },
     {
       "surface": "ובחמתך",
-      "english": "e ⟨pela⟩ tua ira"
+      "gloss": "e ⟨pela⟩ tua ira"
     },
     {
       "surface": "נבהלנו",
-      "english": "somos perturbados"
+      "gloss": "somos perturbados"
     }
-  ],
-  "timestamp": "2026-07-16T17:44:04.270299168Z",
-  "model": "glm-4.5"
+  ]
 }

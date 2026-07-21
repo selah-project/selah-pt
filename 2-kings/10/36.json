@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "2-kings 10:36",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 10,
+  "verse": 36,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:56:45.408873021Z",
+  "translation": "E os dias que Ieú reinou ⟨sobre⟩ Yisrael ⟨em⟩ Samaria ⟨foram⟩ vinte e oito anos",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "E os dias"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinou"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Ieú"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vinte"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "e oito"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "⟨em⟩ Samaria"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16979,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17379
-  },
-  "translation": "E os dias que Ieú reinou ⟨sobre⟩ Yisrael ⟨em⟩ Samaria ⟨foram⟩ vinte e oito anos",
-  "tokens": [
-    {
-      "surface": "והימים",
-      "english": "E os dias"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinou"
-    },
-    {
-      "surface": "יהוא",
-      "english": "Ieú"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vinte"
-    },
-    {
-      "surface": "ושמנה",
-      "english": "e oito"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "בשמרון",
-      "english": "⟨em⟩ Samaria"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:56:45.408873021Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "2-kings 14:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 14,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:00:05.208342556Z",
+  "translation": "E Yehoash se deitou com ⟨seus⟩ pais, e ⟨foi⟩ sepultado em Shomron com ⟨os⟩ reis de Yisrael; e Jeroboam, seu filho, reinou em ⟨seu⟩ lugar",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "E Yehoash se deitou"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "⟨seus⟩ pais"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e ⟨foi⟩ sepultado"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "em Shomron"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "⟨os⟩ reis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "reinou em ⟨seu⟩ lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17411,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17925
-  },
-  "translation": "E Yehoash se deitou com ⟨seus⟩ pais, e ⟨foi⟩ sepultado em Shomron com ⟨os⟩ reis de Yisrael; e Jeroboam, seu filho, reinou em ⟨seu⟩ lugar",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "E Yehoash se deitou"
-    },
-    {
-      "surface": "יהואש",
-      "english": "Yehoash"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "⟨seus⟩ pais"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "e ⟨foi⟩ sepultado"
-    },
-    {
-      "surface": "בשמרון",
-      "english": "em Shomron"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "מלכי",
-      "english": "⟨os⟩ reis"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Jeroboam"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "reinou em ⟨seu⟩ lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:00:05.208342556Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

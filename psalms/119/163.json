@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 163,
   "ref": "psalms 119:163",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 339,
-    "prompt_tokens": 70090,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70429
-  },
+  "verse": 163,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:44.105462915Z",
   "translation": "Mentira eu odiei e abominei; a tua Torá eu amei.",
   "tokens": [
     {
       "surface": "שקר",
-      "english": "Mentira"
+      "gloss": "Mentira"
     },
     {
       "surface": "שנאתי",
-      "english": "eu odiei"
+      "gloss": "eu odiei"
     },
     {
       "surface": "ואתעבה",
-      "english": "e abominei"
+      "gloss": "e abominei"
     },
     {
       "surface": "תורתך",
-      "english": "a tua Torá"
+      "gloss": "a tua Torá"
     },
     {
       "surface": "אהבתי",
-      "english": "eu amei"
+      "gloss": "eu amei"
     }
-  ],
-  "timestamp": "2026-07-16T17:50:44.105462915Z",
-  "model": "glm-4.5"
+  ]
 }

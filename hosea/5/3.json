@@ -1,9 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "hosea 5:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 5,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:57:32.298426789Z",
+  "translation": "Eu conheço Efráyim e ⟨o⟩ Yisrael não ⟨está⟩ escondido de mim porque agora ⟨tu⟩ prostituíste ⟨a⟩ Efráyim ⟨o⟩ Yisrael ⟨está⟩ contaminado",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "conheço"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "ו�ישראל",
+      "gloss": "e ⟨o⟩ Israel",
+      "marks": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "⟨está⟩ escondido"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "agora"
+    },
+    {
+      "surface": "הזנית",
+      "gloss": "⟨tu⟩ prostituíste ⟨a⟩",
+      "marks": "Efraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "⟨o⟩ Israel ⟨está⟩ contaminado",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -27,79 +89,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 758,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20087,
-    "prompt_tokens_details": {
-      "cached_tokens": 18475
-    },
-    "total_tokens": 20845
-  },
-  "translation": "Eu conheço Efráyim e ⟨o⟩ Yisrael não ⟨está⟩ escondido de mim porque agora ⟨tu⟩ prostituíste ⟨a⟩ Efráyim ⟨o⟩ Yisrael ⟨está⟩ contaminado",
-  "tokens": [
-    {
-      "surface": "אני",
-      "english": "Eu"
-    },
-    {
-      "surface": "ידעתי",
-      "english": "conheço"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "ו�ישראל",
-      "english": "e ⟨o⟩ Israel",
-      "marks": "Israel"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "נכחד",
-      "english": "⟨está⟩ escondido"
-    },
-    {
-      "surface": "ממני",
-      "english": "de mim"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "עתה",
-      "english": "agora"
-    },
-    {
-      "surface": "הזנית",
-      "english": "⟨tu⟩ prostituíste ⟨a⟩",
-      "marks": "Efraim"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "נטמא",
-      "english": "⟨o⟩ Israel ⟨está⟩ contaminado",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:57:32.298426789Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

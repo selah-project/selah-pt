@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 48,
   "ref": "deuteronomy 4:48",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 4,
+  "verse": 48,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:55:37.061269672Z",
+  "translation": "De Aroer, que ⟨está⟩ ⟨sobre⟩ ⟨a⟩ ⟨margem⟩ ⟨do⟩ ⟨torrente⟩ ⟨do⟩ Arnon, e até ⟨o⟩ monte Sion, que ⟨é⟩ ⟨o⟩ Jermon",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "De Aroer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "⟨a⟩ ⟨margem⟩"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "⟨do⟩ ⟨torrente⟩"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "⟨do⟩ Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e até"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨o⟩ monte"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "que ⟨é⟩"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "⟨o⟩ Jermon"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Hermom",
@@ -13,68 +64,6 @@
       "hebrew": "חרמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 630,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17895,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 18525
-  },
-  "translation": "De Aroer, que ⟨está⟩ ⟨sobre⟩ ⟨a⟩ ⟨margem⟩ ⟨do⟩ ⟨torrente⟩ ⟨do⟩ Arnon, e até ⟨o⟩ monte Sion, que ⟨é⟩ ⟨o⟩ Jermon",
-  "tokens": [
-    {
-      "surface": "מערער",
-      "english": "De Aroer"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "שפת",
-      "english": "⟨a⟩ ⟨margem⟩"
-    },
-    {
-      "surface": "נחל",
-      "english": "⟨do⟩ ⟨torrente⟩"
-    },
-    {
-      "surface": "ארנן",
-      "english": "⟨do⟩ Arnon"
-    },
-    {
-      "surface": "ועד",
-      "english": "e até"
-    },
-    {
-      "surface": "הר",
-      "english": "⟨o⟩ monte"
-    },
-    {
-      "surface": "שיאן",
-      "english": "Sion"
-    },
-    {
-      "surface": "הוא",
-      "english": "que ⟨é⟩"
-    },
-    {
-      "surface": "חרמון",
-      "english": "⟨o⟩ Jermon"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:55:37.061269672Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

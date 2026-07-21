@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 17:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 17,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:52:30.910505907Z",
+  "translation": "Then Nathan said to Davidd: 'Do all that ⟨is⟩ in your heart, for ha-Elohim ⟨is⟩ with you.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Then... said"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "that"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "in your heart"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Do"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "with you"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,68 +64,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57331,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57651
-  },
-  "translation": "Then Nathan said to Davidd: 'Do all that ⟨is⟩ in your heart, for ha-Elohim ⟨is⟩ with you.'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Then... said"
-    },
-    {
-      "surface": "נתן",
-      "english": "Nathan"
-    },
-    {
-      "surface": "אל",
-      "english": "to"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "כל",
-      "english": "all"
-    },
-    {
-      "surface": "אשר",
-      "english": "that"
-    },
-    {
-      "surface": "בלבבך",
-      "english": "in your heart"
-    },
-    {
-      "surface": "עשה",
-      "english": "Do"
-    },
-    {
-      "surface": "כי",
-      "english": "for"
-    },
-    {
-      "surface": "האלהים",
-      "english": "ha-Elohim"
-    },
-    {
-      "surface": "עמך",
-      "english": "with you"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:52:30.910505907Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 35:5",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 411,
-    "prompt_tokens": 26474,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 26885
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T01:03:10.854653624Z",
   "translation": "Então ⟨as⟩ עיני עורים se abrirão, e ⟨as⟩ ואזני חרשים se desimpedirão.",
   "tokens": [
     {
       "surface": "אז",
-      "english": "Então"
+      "gloss": "Então"
     },
     {
       "surface": "תפקחנה",
-      "english": "se abrirão"
+      "gloss": "se abrirão"
     },
     {
       "surface": "עיני",
-      "english": "⟨as⟩ עיני עורים",
+      "gloss": "⟨as⟩ עיני עורים",
       "marks": "os olhos dos cegos"
     },
     {
       "surface": "עורים",
-      "english": "עיני עורים",
+      "gloss": "עיני עורים",
       "marks": "dos cegos"
     },
     {
       "surface": "ואזני",
-      "english": "e ⟨as⟩ ואזני חרשים",
+      "gloss": "e ⟨as⟩ ואזני חרשים",
       "marks": "e os ouvidos dos surdos"
     },
     {
       "surface": "חרשים",
-      "english": "ואזני חרשים",
+      "gloss": "ואזני חרשים",
       "marks": "dos surdos"
     },
     {
       "surface": "תפתחנה",
-      "english": "se desimpedirão"
+      "gloss": "se desimpedirão"
     }
-  ],
-  "timestamp": "2026-07-17T01:03:10.854653624Z",
-  "model": "glm-4.5"
+  ]
 }

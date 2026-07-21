@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "genesis 9:9",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 483,
-    "prompt_tokens": 28976,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29459
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:41:50.457022276Z",
   "translation": "E eu, eis que estabeleço ⟨את⟩ a minha brit com vocês e com ⟨את⟩ a semente de vocês depois de vocês",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "E eu"
+      "gloss": "E eu"
     },
     {
       "surface": "הנני",
-      "english": "eis que"
+      "gloss": "eis que"
     },
     {
       "surface": "מקים",
-      "english": "estabeleço"
+      "gloss": "estabeleço"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a minha brit"
     },
     {
       "surface": "בריתי",
-      "english": "a minha brit"
+      "gloss": "a minha brit"
     },
     {
       "surface": "אתכם",
-      "english": "com vocês"
+      "gloss": "com vocês"
     },
     {
       "surface": "ואת",
-      "english": "e com ⟨את⟩",
+      "gloss": "e com ⟨את⟩",
       "marks": "a semente de vocês"
     },
     {
       "surface": "זרעכם",
-      "english": "a semente de vocês"
+      "gloss": "a semente de vocês"
     },
     {
       "surface": "אחריכם",
-      "english": "depois de vocês"
+      "gloss": "depois de vocês"
     }
-  ],
-  "timestamp": "2026-07-16T14:41:50.457022276Z",
-  "model": "glm-4.5"
+  ]
 }

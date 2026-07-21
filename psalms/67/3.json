@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 67:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 67,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:22:18.081483037Z",
+  "translation": "para ⟨que se conheça⟩ ⟨o⟩ teu caminho ⟨na⟩ terra, ⟨a⟩ tuYeshuá ⟨em⟩ todos ⟨os⟩ povos",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Para ⟨que se conheça⟩",
+      "marks": "teu caminho ⟨na⟩ terra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ terra",
+      "marks": ""
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "teu caminho",
+      "marks": ""
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨em⟩ todos",
+      "marks": ""
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨os⟩ povos",
+      "marks": ""
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "⟨a⟩ tuYeshuá",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a salvação",
@@ -13,54 +50,6 @@
       "hebrew": "ישועה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 67,
-  "usage": {
-    "completion_tokens": 602,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62827,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63429
-  },
-  "translation": "para ⟨que se conheça⟩ ⟨o⟩ teu caminho ⟨na⟩ terra, ⟨a⟩ tuYeshuá ⟨em⟩ todos ⟨os⟩ povos",
-  "tokens": [
-    {
-      "surface": "לדעת",
-      "english": "Para ⟨que se conheça⟩",
-      "marks": "teu caminho ⟨na⟩ terra"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨na⟩ terra",
-      "marks": ""
-    },
-    {
-      "surface": "דרכך",
-      "english": "teu caminho",
-      "marks": ""
-    },
-    {
-      "surface": "בכל",
-      "english": "⟨em⟩ todos",
-      "marks": ""
-    },
-    {
-      "surface": "גוים",
-      "english": "⟨os⟩ povos",
-      "marks": ""
-    },
-    {
-      "surface": "ישועתך",
-      "english": "⟨a⟩ tuYeshuá",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:22:18.081483037Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

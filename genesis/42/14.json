@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "genesis 42:14",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28895,
-    "prompt_tokens_details": {
-      "cached_tokens": 27646
-    },
-    "total_tokens": 29225
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:13:26.081293430Z",
   "translation": "E Yosé disse a eles: ⟨É⟩ isso que eu vos disse, dizendo: ⟨vós sois⟩ espias.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E Yosé disse"
+      "gloss": "E Yosé disse"
     },
     {
       "surface": "אלהם",
-      "english": "a eles"
+      "gloss": "a eles"
     },
     {
       "surface": "יוסף",
-      "english": "Yosé"
+      "gloss": "Yosé"
     },
     {
       "surface": "הוא",
-      "english": "⟨É⟩"
+      "gloss": "⟨É⟩"
     },
     {
       "surface": "אשר",
-      "english": "isso que"
+      "gloss": "isso que"
     },
     {
       "surface": "דברתי",
-      "english": "eu vos disse"
+      "gloss": "eu vos disse"
     },
     {
       "surface": "אלכם",
-      "english": "a vós"
+      "gloss": "a vós"
     },
     {
       "surface": "לאמר",
-      "english": "dizendo"
+      "gloss": "dizendo"
     },
     {
       "surface": "מרגלים",
-      "english": "espias"
+      "gloss": "espias"
     },
     {
       "surface": "אתם",
-      "english": "⟨vós sois⟩"
+      "gloss": "⟨vós sois⟩"
     }
-  ],
-  "timestamp": "2026-06-13T05:13:26.081293430Z",
-  "model": "glm-4.5"
+  ]
 }

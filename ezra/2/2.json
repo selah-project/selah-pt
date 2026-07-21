@@ -1,9 +1,89 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "ezra 2:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 2,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:03:24.431858644Z",
+  "translation": "que vieram com Zerubbabel: Ieshua, Nejemyá, Seraías, Reelaías, Mordecai, Bilshã, Mispar, Bigvai, Reum, Baaná ⟨o⟩ número ⟨dos⟩ homens ⟨do⟩ povo ⟨de⟩ Yisrael:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Que"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vieram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Ieshua"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nejemyá"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraías"
+    },
+    {
+      "surface": "רעליה",
+      "gloss": "Reelaías"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "בלשן",
+      "gloss": "Bilshã"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "Mispar"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Bigvai"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "Reum"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Baaná"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨o⟩ número",
+      "marks": "homens do povo de Israel"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "⟨dos⟩ homens"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨do⟩ povo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Neemias",
@@ -20,97 +100,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 640,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46014,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 46654
-  },
-  "translation": "que vieram com Zerubbabel: Ieshua, Nejemyá, Seraías, Reelaías, Mordecai, Bilshã, Mispar, Bigvai, Reum, Baaná ⟨o⟩ número ⟨dos⟩ homens ⟨do⟩ povo ⟨de⟩ Yisrael:",
-  "tokens": [
-    {
-      "surface": "אשר",
-      "english": "Que"
-    },
-    {
-      "surface": "באו",
-      "english": "vieram"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "זרבבל",
-      "english": "Zerubbabel"
-    },
-    {
-      "surface": "ישוע",
-      "english": "Ieshua"
-    },
-    {
-      "surface": "נחמיה",
-      "english": "Nejemyá"
-    },
-    {
-      "surface": "שריה",
-      "english": "Seraías"
-    },
-    {
-      "surface": "רעליה",
-      "english": "Reelaías"
-    },
-    {
-      "surface": "מרדכי",
-      "english": "Mordecai"
-    },
-    {
-      "surface": "בלשן",
-      "english": "Bilshã"
-    },
-    {
-      "surface": "מספר",
-      "english": "Mispar"
-    },
-    {
-      "surface": "בגוי",
-      "english": "Bigvai"
-    },
-    {
-      "surface": "רחום",
-      "english": "Reum"
-    },
-    {
-      "surface": "בענה",
-      "english": "Baaná"
-    },
-    {
-      "surface": "מספר",
-      "english": "⟨o⟩ número",
-      "marks": "homens do povo de Israel"
-    },
-    {
-      "surface": "אנשי",
-      "english": "⟨dos⟩ homens"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨do⟩ povo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:03:24.431858644Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

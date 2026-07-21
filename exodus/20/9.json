@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "exodus 20:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16744,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17078
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:03:57.335491730Z",
   "translation": "seis dias trabalharás e farás ⟨o⟩ trabalho ⟨de ti⟩",
   "tokens": [
     {
       "surface": "ששת",
-      "english": "Seis"
+      "gloss": "Seis"
     },
     {
       "surface": "ימים",
-      "english": "dias"
+      "gloss": "dias"
     },
     {
       "surface": "תעבד",
-      "english": "trabalharás"
+      "gloss": "trabalharás"
     },
     {
       "surface": "ועשית",
-      "english": "e farás"
+      "gloss": "e farás"
     },
     {
       "surface": "כל",
-      "english": "⟨o⟩ trabalho"
+      "gloss": "⟨o⟩ trabalho"
     },
     {
       "surface": "מלאכתך",
-      "english": "⟨de ti⟩"
+      "gloss": "⟨de ti⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:03:57.335491730Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

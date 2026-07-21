@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-kings 18:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 18,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:04:48.646544739Z",
+  "translation": "E aconteceu ⟨no⟩ terceiro ano de Hoshea, filho de Elá, rei de Yisrael, ⟨que⟩ começou a reinar Chizkijah, filho de Ajaz, rei de Yehudá.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "terceiro"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ano de Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "começou a reinar"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -27,80 +90,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17375,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17889
-  },
-  "translation": "E aconteceu ⟨no⟩ terceiro ano de Hoshea, filho de Elá, rei de Yisrael, ⟨que⟩ começou a reinar Chizkijah, filho de Ajaz, rei de Yehudá.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "בשנת",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "שלש",
-      "english": "terceiro"
-    },
-    {
-      "surface": "להושע",
-      "english": "ano de Hoshea"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "אלה",
-      "english": "Elá"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מלך",
-      "english": "começou a reinar"
-    },
-    {
-      "surface": "חזקיה",
-      "english": "Chizkijah"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "אחז",
-      "english": "Ajaz"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei de"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:04:48.646544739Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

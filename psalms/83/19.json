@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 83:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 83,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:35:17.447362230Z",
+  "translation": "e saibam que ⟨tu⟩, ⟨cujo⟩ nome ⟨é⟩ YHWH, ⟨és⟩ Elyon sobre toda ⟨a⟩ terra.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "E saibam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨tu⟩"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "⟨cujo⟩ nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "o Altíssimo",
@@ -13,64 +60,6 @@
       "hebrew": "עליון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 83,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62927,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63334
-  },
-  "translation": "e saibam que ⟨tu⟩, ⟨cujo⟩ nome ⟨é⟩ YHWH, ⟨és⟩ Elyon sobre toda ⟨a⟩ terra.",
-  "tokens": [
-    {
-      "surface": "וידעו",
-      "english": "E saibam"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨tu⟩"
-    },
-    {
-      "surface": "שמך",
-      "english": "⟨cujo⟩ nome"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לבדך",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "עליון",
-      "english": "Elyon"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨a⟩ terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:35:17.447362230Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

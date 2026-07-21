@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-samuel 10:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 10,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:21:19.637532804Z",
+  "translation": "E Shemuel trouxe ⟨את⟩ todas as tribos de Yisrael ⟨para⟩ ⟨junto⟩, e ⟨a⟩ tribo de Binyamim foi capturada.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "E Shemuel trouxe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "todas as tribos de Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todas as"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tribos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "e ⟨a⟩"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribo de"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamim foi capturada"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,61 +64,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16715,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17072
-  },
-  "translation": "E Shemuel trouxe ⟨את⟩ todas as tribos de Yisrael ⟨para⟩ ⟨junto⟩, e ⟨a⟩ tribo de Binyamim foi capturada.",
-  "tokens": [
-    {
-      "surface": "ויקרב",
-      "english": "E Shemuel trouxe"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shemuel"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "todas as tribos de Israel"
-    },
-    {
-      "surface": "כל",
-      "english": "todas as"
-    },
-    {
-      "surface": "שבטי",
-      "english": "tribos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "וילכד",
-      "english": "e ⟨a⟩"
-    },
-    {
-      "surface": "שבט",
-      "english": "tribo de"
-    },
-    {
-      "surface": "בנימן",
-      "english": "Binyamim foi capturada"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:21:19.637532804Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

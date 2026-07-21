@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 103:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70297,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70808
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:38.987142436Z",
   "translation": "Não ⟨é⟩ segundo ⟨as⟩ nossas transgressões que Ele nos fez, nem segundo ⟨os⟩ nossos pecados Ele nos recompensou.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "כחטאינו",
-      "english": "⟨é⟩ segundo ⟨as⟩ nossas transgressões"
+      "gloss": "⟨é⟩ segundo ⟨as⟩ nossas transgressões"
     },
     {
       "surface": "עשה",
-      "english": "que Ele nos fez"
+      "gloss": "que Ele nos fez"
     },
     {
       "surface": "לנו",
-      "english": "nos"
+      "gloss": "nos"
     },
     {
       "surface": "ולא",
-      "english": "nem"
+      "gloss": "nem"
     },
     {
       "surface": "כעונתינו",
-      "english": "segundo ⟨os⟩ nossos pecados"
+      "gloss": "segundo ⟨os⟩ nossos pecados"
     },
     {
       "surface": "גמל",
-      "english": "Ele nos recompensou"
+      "gloss": "Ele nos recompensou"
     },
     {
       "surface": "עלינו",
-      "english": "nos"
+      "gloss": "nos"
     }
-  ],
-  "timestamp": "2026-06-13T06:40:38.987142436Z",
-  "model": "glm-4.5"
+  ]
 }

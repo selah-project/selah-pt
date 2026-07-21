@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 137:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 414,
-    "prompt_tokens": 70708,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71122
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:29.152619248Z",
   "translation": "Filha de Bavel, ⟨a⟩ devastada, feliz ⟨é⟩ quem retribuir a ti ⟨o teu⟩ tratamento, que trataste a nós.",
   "tokens": [
     {
       "surface": "בת",
-      "english": "Filha"
+      "gloss": "Filha"
     },
     {
       "surface": "בבל",
-      "english": "de Bavel"
+      "gloss": "de Bavel"
     },
     {
       "surface": "השדודה",
-      "english": "⟨a⟩ devastada"
+      "gloss": "⟨a⟩ devastada"
     },
     {
       "surface": "אשרי",
-      "english": "feliz"
+      "gloss": "feliz"
     },
     {
       "surface": "שישלם",
-      "english": "⟨é⟩ quem retribuir"
+      "gloss": "⟨é⟩ quem retribuir"
     },
     {
       "surface": "לך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o teu tratamento"
     },
     {
       "surface": "גמולך",
-      "english": "⟨o teu⟩ tratamento"
+      "gloss": "⟨o teu⟩ tratamento"
     },
     {
       "surface": "שגמלת",
-      "english": "que trataste"
+      "gloss": "que trataste"
     },
     {
       "surface": "לנו",
-      "english": "a nós"
+      "gloss": "a nós"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:29.152619248Z",
-  "model": "glm-4.5"
+  ]
 }

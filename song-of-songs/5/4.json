@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "song-of-songs 5:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "song-of-songs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20461,
-    "prompt_tokens_details": {
-      "cached_tokens": 19433
-    },
-    "total_tokens": 21010
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:18:05.648300313Z",
   "translation": "Meu amado ⟨enviou⟩ ⟨a⟩ mão ⟨dele⟩ ⟨a partir⟩ ⟨da⟩ fenda ⟨e⟩ ⟨o⟩ meu ⟨interior⟩ ⟨estremeceu⟩ ⟨por⟩ ⟨ele⟩",
   "tokens": [
     {
       "surface": "דודי",
-      "english": "Meu amado"
+      "gloss": "Meu amado"
     },
     {
       "surface": "שלח",
-      "english": "⟨enviou⟩",
+      "gloss": "⟨enviou⟩",
       "rationale": "Literally 'enviou', mas o contexto sugere 'colocou' ou 'introduziu'"
     },
     {
       "surface": "ידו",
-      "english": "⟨a⟩ mão ⟨dele⟩"
+      "gloss": "⟨a⟩ mão ⟨dele⟩"
     },
     {
       "surface": "מן",
-      "english": "⟨a partir⟩"
+      "gloss": "⟨a partir⟩"
     },
     {
       "surface": "החר",
-      "english": "⟨da⟩ fenda",
+      "gloss": "⟨da⟩ fenda",
       "rationale": "Hapax. Traduzido como 'fenda' ou 'abertura' na fechadura"
     },
     {
       "surface": "ומעי",
-      "english": "⟨e⟩ ⟨o⟩ meu ⟨interior⟩",
+      "gloss": "⟨e⟩ ⟨o⟩ meu ⟨interior⟩",
       "rationale": "Literalmente 'meus intestinos', metáfora hebraica para emoções profundas"
     },
     {
       "surface": "המו",
-      "english": "⟨estremeceu⟩",
+      "gloss": "⟨estremeceu⟩",
       "rationale": "Verbo raro, literalmente 'rugiu' ou 'moveu violentamente'"
     },
     {
       "surface": "עליו",
-      "english": "⟨por⟩ ⟨ele⟩"
+      "gloss": "⟨por⟩ ⟨ele⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:18:05.648300313Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "isaiah 43:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 43,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:46:33.970561057Z",
+  "translation": "Assim ⟨diz⟩ YHWH vosso redentor, o Santo de Yisrael: Por vossa causa enviei ⟨a⟩ Bavel e ⟨a⟩ fiz descer ⟨com⟩ ⟨as⟩ barras ⟨d⟩eles todas; e ⟨os⟩ caldeus ⟨com⟩ ⟨o⟩ ⟨seu⟩ ⟨grito⟩ nas ⟨suas⟩ naves.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨diz⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "גאלכם",
+      "gloss": "vosso redentor"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "o Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "Por vossa causa"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "enviei"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "⟨a⟩ Bavel",
+      "marks": "enviei ⟨a⟩ Babilônia"
+    },
+    {
+      "surface": "והורדתי",
+      "gloss": "e ⟨a⟩ fiz descer"
+    },
+    {
+      "surface": "בריחים",
+      "gloss": "⟨com⟩ ⟨as⟩ barras ⟨d⟩eles",
+      "marks": "⟨a⟩ fiz descer ⟨com⟩ ⟨as⟩ barras ⟨d⟩eles"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "todas"
+    },
+    {
+      "surface": "וכשדים",
+      "gloss": "e ⟨os⟩ caldeus"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "⟨com⟩ ⟨o⟩ ⟨seu⟩ ⟨grito⟩ nas ⟨suas⟩ naves",
+      "marks": "⟨o⟩ ⟨seu⟩ ⟨grito⟩ nas ⟨suas⟩ naves"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "⟨grito⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,87 +90,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 43,
-  "usage": {
-    "completion_tokens": 836,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19972,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20808
-  },
-  "translation": "Assim ⟨diz⟩ YHWH vosso redentor, o Santo de Yisrael: Por vossa causa enviei ⟨a⟩ Bavel e ⟨a⟩ fiz descer ⟨com⟩ ⟨as⟩ barras ⟨d⟩eles todas; e ⟨os⟩ caldeus ⟨com⟩ ⟨o⟩ ⟨seu⟩ ⟨grito⟩ nas ⟨suas⟩ naves.",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "⟨diz⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "גאלכם",
-      "english": "vosso redentor"
-    },
-    {
-      "surface": "קדוש",
-      "english": "o Santo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "למענכם",
-      "english": "Por vossa causa"
-    },
-    {
-      "surface": "שלחתי",
-      "english": "enviei"
-    },
-    {
-      "surface": "בבלה",
-      "english": "⟨a⟩ Bavel",
-      "marks": "enviei ⟨a⟩ Babilônia"
-    },
-    {
-      "surface": "והורדתי",
-      "english": "e ⟨a⟩ fiz descer"
-    },
-    {
-      "surface": "בריחים",
-      "english": "⟨com⟩ ⟨as⟩ barras ⟨d⟩eles",
-      "marks": "⟨a⟩ fiz descer ⟨com⟩ ⟨as⟩ barras ⟨d⟩eles"
-    },
-    {
-      "surface": "כלם",
-      "english": "todas"
-    },
-    {
-      "surface": "וכשדים",
-      "english": "e ⟨os⟩ caldeus"
-    },
-    {
-      "surface": "באניות",
-      "english": "⟨com⟩ ⟨o⟩ ⟨seu⟩ ⟨grito⟩ nas ⟨suas⟩ naves",
-      "marks": "⟨o⟩ ⟨seu⟩ ⟨grito⟩ nas ⟨suas⟩ naves"
-    },
-    {
-      "surface": "רנתם",
-      "english": "⟨grito⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:46:33.970561057Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

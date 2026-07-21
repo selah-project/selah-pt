@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-chronicles 8:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 8,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:15:09.188133587Z",
+  "translation": "E dos filhos ⟨de⟩ Yisrael, a quem Shlomó não deu ⟨para⟩ servos ⟨para⟩ o seu trabalho, porque eles ⟨são⟩ homens de guerra, e ⟨os⟩ príncipes ⟨de⟩ seus capitães, e ⟨os⟩ príncipes ⟨de⟩ seus carros ⟨e⟩ ⟨os⟩ príncipes ⟨de⟩ sua cavalaria.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "E dos",
+      "marks": "E"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a quem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "⟨para⟩ servos",
+      "marks": "servos"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "⟨para⟩ o seu trabalho",
+      "marks": "o seu trabalho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eles"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "homens"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "de guerra"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e ⟨os⟩ príncipes",
+      "marks": "príncipes"
+    },
+    {
+      "surface": "שלישיו",
+      "gloss": "⟨de⟩ seus capitães",
+      "marks": "seus capitães"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e ⟨os⟩ príncipes",
+      "marks": "príncipes"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "⟨de⟩ seus carros",
+      "marks": "seus carros"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "e ⟨os⟩ príncipes ⟨de⟩ sua cavalaria",
+      "marks": "sua cavalaria"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,104 +100,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 835,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59081,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59916
-  },
-  "translation": "E dos filhos ⟨de⟩ Yisrael, a quem Shlomó não deu ⟨para⟩ servos ⟨para⟩ o seu trabalho, porque eles ⟨são⟩ homens de guerra, e ⟨os⟩ príncipes ⟨de⟩ seus capitães, e ⟨os⟩ príncipes ⟨de⟩ seus carros ⟨e⟩ ⟨os⟩ príncipes ⟨de⟩ sua cavalaria.",
-  "tokens": [
-    {
-      "surface": "ומן",
-      "english": "E dos",
-      "marks": "E"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "a quem"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "נתן",
-      "english": "deu"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "לעבדים",
-      "english": "⟨para⟩ servos",
-      "marks": "servos"
-    },
-    {
-      "surface": "למלאכתו",
-      "english": "⟨para⟩ o seu trabalho",
-      "marks": "o seu trabalho"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "המה",
-      "english": "eles"
-    },
-    {
-      "surface": "אנשי",
-      "english": "homens"
-    },
-    {
-      "surface": "מלחמה",
-      "english": "de guerra"
-    },
-    {
-      "surface": "ושרי",
-      "english": "e ⟨os⟩ príncipes",
-      "marks": "príncipes"
-    },
-    {
-      "surface": "שלישיו",
-      "english": "⟨de⟩ seus capitães",
-      "marks": "seus capitães"
-    },
-    {
-      "surface": "ושרי",
-      "english": "e ⟨os⟩ príncipes",
-      "marks": "príncipes"
-    },
-    {
-      "surface": "רכבו",
-      "english": "⟨de⟩ seus carros",
-      "marks": "seus carros"
-    },
-    {
-      "surface": "ופרשיו",
-      "english": "e ⟨os⟩ príncipes ⟨de⟩ sua cavalaria",
-      "marks": "sua cavalaria"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:15:09.188133587Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

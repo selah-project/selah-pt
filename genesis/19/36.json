@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "genesis 19:36",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 19,
+  "verse": 36,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:59:52.403666469Z",
+  "translation": "E ⟨as⟩ duas filhas de Lot conceberam ⟨por⟩ ⟨o⟩ ⟨seu⟩ pai.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "E ⟨as⟩...conceberam"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duas"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "filhas"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "de Lot"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "⟨por⟩ ⟨o⟩ ⟨seu⟩ pai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Ló",
@@ -13,44 +40,6 @@
       "hebrew": "לוט"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 252,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21067,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21319
-  },
-  "translation": "E ⟨as⟩ duas filhas de Lot conceberam ⟨por⟩ ⟨o⟩ ⟨seu⟩ pai.",
-  "tokens": [
-    {
-      "surface": "ותהרין",
-      "english": "E ⟨as⟩...conceberam"
-    },
-    {
-      "surface": "שתי",
-      "english": "duas"
-    },
-    {
-      "surface": "בנות",
-      "english": "filhas"
-    },
-    {
-      "surface": "לוט",
-      "english": "de Lot"
-    },
-    {
-      "surface": "מאביהן",
-      "english": "⟨por⟩ ⟨o⟩ ⟨seu⟩ pai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:59:52.403666469Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

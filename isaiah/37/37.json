@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 37,
   "ref": "isaiah 37:37",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 37,
+  "verse": 37,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:41:24.563092312Z",
+  "translation": "E viajou, e foi, e retornou Sancheribe ⟨o⟩ rei da Ashshur, e habitou em Nínive",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "E viajou"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e foi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e retornou"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancheribe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨o⟩ rei",
+      "marks": "rei da Assíria"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "da Ashshur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e habitou"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "em Nínive"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Assíria",
@@ -13,57 +53,6 @@
       "hebrew": "אשור"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 263,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19118,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19381
-  },
-  "translation": "E viajou, e foi, e retornou Sancheribe ⟨o⟩ rei da Ashshur, e habitou em Nínive",
-  "tokens": [
-    {
-      "surface": "ויסע",
-      "english": "E viajou"
-    },
-    {
-      "surface": "וילך",
-      "english": "e foi"
-    },
-    {
-      "surface": "וישב",
-      "english": "e retornou"
-    },
-    {
-      "surface": "סנחריב",
-      "english": "Sancheribe"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨o⟩ rei",
-      "marks": "rei da Assíria"
-    },
-    {
-      "surface": "אשור",
-      "english": "da Ashshur"
-    },
-    {
-      "surface": "וישב",
-      "english": "e habitou"
-    },
-    {
-      "surface": "בנינוה",
-      "english": "em Nínive"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:41:24.563092312Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

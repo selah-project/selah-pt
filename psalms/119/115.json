@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 115,
   "ref": "psalms 119:115",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 119,
+  "verse": 115,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:01:04.981222580Z",
+  "translation": "Apartai-vos de mim, malfeitores, pois guardarei ⟨os⟩ Mitzvás de ⟨o⟩ meu Elohim.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Apartai-vos"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de mim"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "malfeitores"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "pois guardarei"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "⟨os⟩ Mitzvás"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de ⟨o⟩ meu Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamento",
@@ -13,48 +44,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 119,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62795,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63140
-  },
-  "translation": "Apartai-vos de mim, malfeitores, pois guardarei ⟨os⟩ Mitzvás de ⟨o⟩ meu Elohim.",
-  "tokens": [
-    {
-      "surface": "סורו",
-      "english": "Apartai-vos"
-    },
-    {
-      "surface": "ממני",
-      "english": "de mim"
-    },
-    {
-      "surface": "מרעים",
-      "english": "malfeitores"
-    },
-    {
-      "surface": "ואצרה",
-      "english": "pois guardarei"
-    },
-    {
-      "surface": "מצות",
-      "english": "⟨os⟩ Mitzvás"
-    },
-    {
-      "surface": "אלהי",
-      "english": "de ⟨o⟩ meu Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:01:04.981222580Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

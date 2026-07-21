@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "joshua 7:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 7,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:30:59.355879023Z",
+  "translation": "E YHWH disse a Yehoshua: Levanta-te; por que ⟨estás⟩ ⟨assim⟩ caído sobre ⟨o⟩ teu rosto?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "disse a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Levanta-te"
+    },
+    {
+      "surface": "לך",
+      "gloss": ";"
+    },
+    {
+      "surface": "למה",
+      "gloss": "por que"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨assim⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨estás⟩"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "caído"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨o⟩ teu rosto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josué",
@@ -13,72 +68,6 @@
       "hebrew": "יהושע"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16645,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 17037
-  },
-  "translation": "E YHWH disse a Yehoshua: Levanta-te; por que ⟨estás⟩ ⟨assim⟩ caído sobre ⟨o⟩ teu rosto?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "disse a"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua"
-    },
-    {
-      "surface": "קם",
-      "english": "Levanta-te"
-    },
-    {
-      "surface": "לך",
-      "english": ";"
-    },
-    {
-      "surface": "למה",
-      "english": "por que"
-    },
-    {
-      "surface": "זה",
-      "english": "⟨assim⟩"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨estás⟩"
-    },
-    {
-      "surface": "נפל",
-      "english": "caído"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "פניך",
-      "english": "⟨o⟩ teu rosto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:30:59.355879023Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

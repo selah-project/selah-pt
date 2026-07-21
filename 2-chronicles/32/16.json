@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "2-chronicles 32:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58213,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58726
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:46:22.074299694Z",
   "translation": "E ainda os servos ⟨dele⟩ falaram mais ⟨acerca de⟩ ⟨את⟩ YHWH ⟨o⟩ Elohim e ⟨acerca de⟩ ⟨את⟩ Jeconias, servo ⟨dele⟩",
   "tokens": [
     {
       "surface": "ועוד",
-      "english": "E ainda"
+      "gloss": "E ainda"
     },
     {
       "surface": "דברו",
-      "english": "os servos"
+      "gloss": "os servos"
     },
     {
       "surface": "עבדיו",
-      "english": "⟨dele⟩",
+      "gloss": "⟨dele⟩",
       "marks": "servos"
     },
     {
       "surface": "על",
-      "english": "⟨acerca de⟩",
+      "gloss": "⟨acerca de⟩",
       "rationale": "Hebrew 'al' here means 'against\/ concerning', rendered idiomatically"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "האלהים",
-      "english": "⟨o⟩ Elohim",
+      "gloss": "⟨o⟩ Elohim",
       "rationale": "Hebrew article required in English"
     },
     {
       "surface": "ועל",
-      "english": "e ⟨acerca de⟩",
+      "gloss": "e ⟨acerca de⟩",
       "rationale": "Second instance of 'al' with same meaning"
     },
     {
       "surface": "יחזקיהו",
-      "english": "Jeconias"
+      "gloss": "Jeconias"
     },
     {
       "surface": "עבדו",
-      "english": "servo ⟨dele⟩",
+      "gloss": "servo ⟨dele⟩",
       "marks": "Jeconias"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:46:22.074299694Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "lamentations 5:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "lamentations",
+  "chapter": 5,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:28:11.966494163Z",
+  "translation": "Ao Mitzráyim demos ⟨a⟩ mão, e ⟨a⟩ Ashshur, para ficarmos saciados de pão.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Ao Mitzráyim",
+      "marks": "destinatário da ação de dar a mão"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "demos ⟨a⟩ mão",
+      "rationale": "ןתנו - verbo 'dar' no plural perfeito, aqui com o sentido idiomático de 'submeter-se' ou 'fazer aliança', exigindo 'a mão' como objeto em português"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mão",
+      "rationale": "יד - literalmente 'mão', parte do hebraísmo 'dar a mão' indicando submissão ou pacto"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "e ⟨a⟩ Ashshur",
+      "rationale": "אשור - Assíria, segunda potência mencionada; o 'e' conecta-a paralelamente ao Egito; 'a' artigo exigido em português"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "para ficarmos saciados",
+      "rationale": "לשבע - preposição ל + שבע 'estar saciado\/farto', forma verbal de propósito\/consequência"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pão",
+      "rationale": "לחם - literalmente 'pão', metonímia para alimento ou sustento básico"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -20,54 +57,6 @@
       "hebrew": "אשור"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 680,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 31961,
-    "prompt_tokens_details": {
-      "cached_tokens": 31099
-    },
-    "total_tokens": 32641
-  },
-  "translation": "Ao Mitzráyim demos ⟨a⟩ mão, e ⟨a⟩ Ashshur, para ficarmos saciados de pão.",
-  "tokens": [
-    {
-      "surface": "מצרים",
-      "english": "Ao Mitzráyim",
-      "marks": "destinatário da ação de dar a mão"
-    },
-    {
-      "surface": "נתנו",
-      "english": "demos ⟨a⟩ mão",
-      "rationale": "ןתנו - verbo 'dar' no plural perfeito, aqui com o sentido idiomático de 'submeter-se' ou 'fazer aliança', exigindo 'a mão' como objeto em português"
-    },
-    {
-      "surface": "יד",
-      "english": "mão",
-      "rationale": "יד - literalmente 'mão', parte do hebraísmo 'dar a mão' indicando submissão ou pacto"
-    },
-    {
-      "surface": "אשור",
-      "english": "e ⟨a⟩ Ashshur",
-      "rationale": "אשור - Assíria, segunda potência mencionada; o 'e' conecta-a paralelamente ao Egito; 'a' artigo exigido em português"
-    },
-    {
-      "surface": "לשבע",
-      "english": "para ficarmos saciados",
-      "rationale": "לשבע - preposição ל + שבע 'estar saciado\/farto', forma verbal de propósito\/consequência"
-    },
-    {
-      "surface": "לחם",
-      "english": "de pão",
-      "rationale": "לחם - literalmente 'pão', metonímia para alimento ou sustento básico"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:28:11.966494163Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

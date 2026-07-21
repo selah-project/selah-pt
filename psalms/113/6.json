@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 113:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 113,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62636,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63034
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:55:31.322997838Z",
   "translation": "Quem ⟨se humilha⟩ para ver ⟨o que há⟩ nos céus e ⟨na⟩ terra",
   "tokens": [
     {
       "surface": "המשפילי",
-      "english": "Quem ⟨se humilha⟩",
+      "gloss": "Quem ⟨se humilha⟩",
       "marks": ""
     },
     {
       "surface": "לראות",
-      "english": "para ver",
+      "gloss": "para ver",
       "marks": ""
     },
     {
       "surface": "בשמים",
-      "english": "⟨o que há⟩ nos céus",
+      "gloss": "⟨o que há⟩ nos céus",
       "marks": ""
     },
     {
       "surface": "ובארץ",
-      "english": "e ⟨na⟩ terra",
+      "gloss": "e ⟨na⟩ terra",
       "marks": ""
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:55:31.322997838Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

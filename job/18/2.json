@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 18:2",
   "book": "job",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27430,
-    "prompt_tokens_details": {
-      "cached_tokens": 25363
-    },
-    "total_tokens": 27854
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:55:26.536692819Z",
   "translation": "Até ⟨quando⟩ poreis ⟨palavras⟩ perversas? ⟨Entendei⟩ e ⟨depois⟩ falaremos.",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Até"
+      "gloss": "Até"
     },
     {
       "surface": "אנה",
-      "english": "⟨quando⟩"
+      "gloss": "⟨quando⟩"
     },
     {
       "surface": "תשימון",
-      "english": "poreis",
+      "gloss": "poreis",
       "marks": "⟨palavras⟩ perversas"
     },
     {
       "surface": "קנצי",
-      "english": "perversas"
+      "gloss": "perversas"
     },
     {
       "surface": "למלין",
-      "english": "⟨palavras⟩"
+      "gloss": "⟨palavras⟩"
     },
     {
       "surface": "תבינו",
-      "english": "⟨Entendei⟩"
+      "gloss": "⟨Entendei⟩"
     },
     {
       "surface": "ואחר",
-      "english": "⟨depois⟩"
+      "gloss": "⟨depois⟩"
     },
     {
       "surface": "נדבר",
-      "english": "falaremos"
+      "gloss": "falaremos"
     }
-  ],
-  "timestamp": "2026-06-14T04:55:26.536692819Z",
-  "model": "glm-4.5"
+  ]
 }

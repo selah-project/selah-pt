@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "1-kings 17:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 17,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:36:21.713020624Z",
+  "translation": "E ⟨a⟩ mulher disse a Eliyahu: agora, ⟨⟩ por este ⟨⟩ eu ⟨tenho⟩ conhecido que ⟨é⟩ ⟨⟩ homem ⟨de⟩ Elohim ⟨⟩ tu ⟨és⟩ e ⟨a⟩ palavra ⟨de⟩ YHWH ⟨na⟩ tua boca ⟨é⟩ Emet.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E ⟨a⟩ mulher disse"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mulher"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "agora,"
+    },
+    {
+      "surface": "זה",
+      "gloss": "por este"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "eu ⟨tenho⟩ conhecido"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu ⟨és⟩"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e ⟨a⟩ palavra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "⟨na⟩ tua boca"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨é⟩ Emet"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "verdade",
@@ -13,84 +80,6 @@
       "hebrew": "אמת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 818,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62923,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63741
-  },
-  "translation": "E ⟨a⟩ mulher disse a Eliyahu: agora, ⟨⟩ por este ⟨⟩ eu ⟨tenho⟩ conhecido que ⟨é⟩ ⟨⟩ homem ⟨de⟩ Elohim ⟨⟩ tu ⟨és⟩ e ⟨a⟩ palavra ⟨de⟩ YHWH ⟨na⟩ tua boca ⟨é⟩ Emet.",
-  "tokens": [
-    {
-      "surface": "ותאמר",
-      "english": "E ⟨a⟩ mulher disse"
-    },
-    {
-      "surface": "האשה",
-      "english": "mulher"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אליהו",
-      "english": "Eliyahu"
-    },
-    {
-      "surface": "עתה",
-      "english": "agora,"
-    },
-    {
-      "surface": "זה",
-      "english": "por este"
-    },
-    {
-      "surface": "ידעתי",
-      "english": "eu ⟨tenho⟩ conhecido"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "איש",
-      "english": "homem"
-    },
-    {
-      "surface": "אלהים",
-      "english": "de Elohim"
-    },
-    {
-      "surface": "אתה",
-      "english": "tu ⟨és⟩"
-    },
-    {
-      "surface": "ודבר",
-      "english": "e ⟨a⟩ palavra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "בפיך",
-      "english": "⟨na⟩ tua boca"
-    },
-    {
-      "surface": "אמת",
-      "english": "⟨é⟩ Emet"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:36:21.713020624Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

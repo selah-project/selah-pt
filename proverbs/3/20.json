@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 3:20",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 542,
-    "prompt_tokens": 60171,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60713
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:28:54.351108255Z",
   "translation": "Pelo seu ⟨conhecimento⟩ ⟨os⟩ abismos foram abertos, e ⟨as⟩ nuvens destilam ⟨o⟩ orvalho.",
   "tokens": [
     {
       "surface": "בדעתו",
-      "english": "Pelo seu ⟨conhecimento⟩"
+      "gloss": "Pelo seu ⟨conhecimento⟩"
     },
     {
       "surface": "תהומות",
-      "english": "⟨os⟩ abismos"
+      "gloss": "⟨os⟩ abismos"
     },
     {
       "surface": "נבקעו",
-      "english": "foram abertos"
+      "gloss": "foram abertos"
     },
     {
       "surface": "ושחקים",
-      "english": "e ⟨as⟩ nuvens"
+      "gloss": "e ⟨as⟩ nuvens"
     },
     {
       "surface": "ירעפו",
-      "english": "destilam"
+      "gloss": "destilam"
     },
     {
       "surface": "טל",
-      "english": "⟨o⟩ orvalho"
+      "gloss": "⟨o⟩ orvalho"
     }
-  ],
-  "timestamp": "2026-07-16T17:28:54.351108255Z",
-  "model": "glm-4.5"
+  ]
 }

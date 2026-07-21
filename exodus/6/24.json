@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "exodus 6:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 6,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:41:14.600184059Z",
+  "translation": "E os filhos de Koraj: Assir, e Elcana, e Abiasafe: estes ⟨são⟩ as famílias dos coraítas.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos de"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraj"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Assir"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "e Elcana"
+    },
+    {
+      "surface": "ואביאסף",
+      "gloss": "e Abiasafe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estes"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "as famílias"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "dos coraítas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Corá",
@@ -13,56 +52,6 @@
       "hebrew": "קרח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 289,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17004,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17293
-  },
-  "translation": "E os filhos de Koraj: Assir, e Elcana, e Abiasafe: estes ⟨são⟩ as famílias dos coraítas.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos de"
-    },
-    {
-      "surface": "קרח",
-      "english": "Koraj"
-    },
-    {
-      "surface": "אסיר",
-      "english": "Assir"
-    },
-    {
-      "surface": "ואלקנה",
-      "english": "e Elcana"
-    },
-    {
-      "surface": "ואביאסף",
-      "english": "e Abiasafe"
-    },
-    {
-      "surface": "אלה",
-      "english": "estes"
-    },
-    {
-      "surface": "משפחת",
-      "english": "as famílias"
-    },
-    {
-      "surface": "הקרחי",
-      "english": "dos coraítas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:41:14.600184059Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

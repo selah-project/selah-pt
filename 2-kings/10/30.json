@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "2-kings 10:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 10,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:56:48.015493914Z",
+  "translation": "E YHWH disse a Yehu: porquanto fizeste ⟨o que é⟩ reto aos meus olhos, ⟨e⟩ fizeste ⟨conforme⟩ tudo ⟨que estava⟩ no meu coração ⟨para⟩ a casa de Ajáv, ⟨os⟩ filhos da quarta geração se assentarão para ti sobre o trono de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "disse a"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יען",
+      "gloss": "porquanto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "הטיבת",
+      "gloss": "fizeste"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨o que é⟩"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "reto"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aos meus olhos"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨e⟩ fizeste ⟨conforme⟩ tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "⟨estava⟩ no meu coração"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "a casa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "de Ajáv"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "da quarta geração"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "se assentarão"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "o trono"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Acabe",
@@ -20,116 +119,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 771,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18316,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 19087
-  },
-  "translation": "E YHWH disse a Yehu: porquanto fizeste ⟨o que é⟩ reto aos meus olhos, ⟨e⟩ fizeste ⟨conforme⟩ tudo ⟨que estava⟩ no meu coração ⟨para⟩ a casa de Ajáv, ⟨os⟩ filhos da quarta geração se assentarão para ti sobre o trono de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "disse a"
-    },
-    {
-      "surface": "יהוא",
-      "english": "Yehu"
-    },
-    {
-      "surface": "יען",
-      "english": "porquanto"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "הטיבת",
-      "english": "fizeste"
-    },
-    {
-      "surface": "לעשות",
-      "english": "⟨o que é⟩"
-    },
-    {
-      "surface": "הישר",
-      "english": "reto"
-    },
-    {
-      "surface": "בעיני",
-      "english": "aos meus olhos"
-    },
-    {
-      "surface": "ככל",
-      "english": "⟨e⟩ fizeste ⟨conforme⟩ tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "בלבבי",
-      "english": "⟨estava⟩ no meu coração"
-    },
-    {
-      "surface": "עשית",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "לבית",
-      "english": "a casa"
-    },
-    {
-      "surface": "אחאב",
-      "english": "de Ajáv"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "רבעים",
-      "english": "da quarta geração"
-    },
-    {
-      "surface": "ישבו",
-      "english": "se assentarão"
-    },
-    {
-      "surface": "לך",
-      "english": "para ti"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כסא",
-      "english": "o trono"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:56:48.015493914Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

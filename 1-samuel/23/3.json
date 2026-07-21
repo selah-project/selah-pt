@@ -1,9 +1,81 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-samuel 23:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 23,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:35:29.369867205Z",
+  "translation": "E os homens de David disseram a ele: Eis que estamos aqui em Judá temerosos; e quanto mais se formos a Queila contra os acampamentos dos filisteus?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E disseram",
+      "marks": "os homens de Davi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "os homens de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "estamos"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aqui"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "em Judá"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "temerosos"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "e quanto mais"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "formos"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "a Queila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contra"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "os acampamentos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dos filisteus"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,89 +85,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 605,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17202,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17807
-  },
-  "translation": "E os homens de David disseram a ele: Eis que estamos aqui em Judá temerosos; e quanto mais se formos a Queila contra os acampamentos dos filisteus?",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "E disseram",
-      "marks": "os homens de Davi"
-    },
-    {
-      "surface": "אנשי",
-      "english": "os homens de"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ele"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis que"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "estamos"
-    },
-    {
-      "surface": "פה",
-      "english": "aqui"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "em Judá"
-    },
-    {
-      "surface": "יראים",
-      "english": "temerosos"
-    },
-    {
-      "surface": "ואף",
-      "english": "e quanto mais"
-    },
-    {
-      "surface": "כי",
-      "english": "se"
-    },
-    {
-      "surface": "נלך",
-      "english": "formos"
-    },
-    {
-      "surface": "קעלה",
-      "english": "a Queila"
-    },
-    {
-      "surface": "אל",
-      "english": "contra"
-    },
-    {
-      "surface": "מערכות",
-      "english": "os acampamentos"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "dos filisteus"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:35:29.369867205Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

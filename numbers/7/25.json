@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "numbers 7:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:16:16.694069579Z",
+  "translation": "Sua ⟨era⟩ ⟨a⟩ Korban ⟨de⟩ קרבנו: uma bacia ⟨de⟩ prata ⟨de⟩ cento e trinta ⟨e⟩ um ⟨em⟩ peso שקל, um jorro ⟨de⟩ prata ⟨de⟩ setenta shekels, ⟨de⟩ acordo ⟨com⟩ ⟨o⟩ shekel ⟨do⟩ santuário; ambos ⟨estavam⟩ cheios ⟨de⟩ farinha ⟨de⟩ trigo, misturada ⟨com⟩ óleo, ⟨como⟩ ⟨um⟩ ⟨oferecimento⟩ de cereal ⟨de⟩ מנחה",
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "⟨Era⟩ ⟨a⟩ Korban ⟨de⟩"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "bacia"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨de⟩ prata"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "uma"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trinta"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "cento"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "⟨em⟩ peso"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "jorro"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "um"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨de⟩ prata"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "setenta"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "⟨de⟩ acordo ⟨com⟩ ⟨o⟩ shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨do⟩ santuário"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ambos"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "⟨estavam⟩ cheios"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "⟨de⟩ farinha ⟨de⟩ trigo"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "misturada"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "⟨com⟩ óleo"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "⟨como⟩ ⟨um⟩ ⟨oferecimento⟩ de cereal ⟨de⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "oferta",
@@ -13,104 +100,6 @@
       "hebrew": "קרבן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 1057,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19230,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 20287
-  },
-  "translation": "Sua ⟨era⟩ ⟨a⟩ Korban ⟨de⟩ קרבנו: uma bacia ⟨de⟩ prata ⟨de⟩ cento e trinta ⟨e⟩ um ⟨em⟩ peso שקל, um jorro ⟨de⟩ prata ⟨de⟩ setenta shekels, ⟨de⟩ acordo ⟨com⟩ ⟨o⟩ shekel ⟨do⟩ santuário; ambos ⟨estavam⟩ cheios ⟨de⟩ farinha ⟨de⟩ trigo, misturada ⟨com⟩ óleo, ⟨como⟩ ⟨um⟩ ⟨oferecimento⟩ de cereal ⟨de⟩ מנחה",
-  "tokens": [
-    {
-      "surface": "קרבנו",
-      "english": "⟨Era⟩ ⟨a⟩ Korban ⟨de⟩"
-    },
-    {
-      "surface": "קערת",
-      "english": "bacia"
-    },
-    {
-      "surface": "כסף",
-      "english": "⟨de⟩ prata"
-    },
-    {
-      "surface": "אחת",
-      "english": "uma"
-    },
-    {
-      "surface": "שלשים",
-      "english": "trinta"
-    },
-    {
-      "surface": "ומאה",
-      "english": "cento"
-    },
-    {
-      "surface": "משקלה",
-      "english": "⟨em⟩ peso"
-    },
-    {
-      "surface": "מזרק",
-      "english": "jorro"
-    },
-    {
-      "surface": "אחד",
-      "english": "um"
-    },
-    {
-      "surface": "כסף",
-      "english": "⟨de⟩ prata"
-    },
-    {
-      "surface": "שבעים",
-      "english": "setenta"
-    },
-    {
-      "surface": "שקל",
-      "english": "shekel"
-    },
-    {
-      "surface": "בשקל",
-      "english": "⟨de⟩ acordo ⟨com⟩ ⟨o⟩ shekel"
-    },
-    {
-      "surface": "הקדש",
-      "english": "⟨do⟩ santuário"
-    },
-    {
-      "surface": "שניהם",
-      "english": "ambos"
-    },
-    {
-      "surface": "מלאים",
-      "english": "⟨estavam⟩ cheios"
-    },
-    {
-      "surface": "סלת",
-      "english": "⟨de⟩ farinha ⟨de⟩ trigo"
-    },
-    {
-      "surface": "בלולה",
-      "english": "misturada"
-    },
-    {
-      "surface": "בשמן",
-      "english": "⟨com⟩ óleo"
-    },
-    {
-      "surface": "למנחה",
-      "english": "⟨como⟩ ⟨um⟩ ⟨oferecimento⟩ de cereal ⟨de⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:16:16.694069579Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

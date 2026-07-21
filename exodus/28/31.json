@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "exodus 28:31",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 353,
-    "prompt_tokens": 24275,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24628
-  },
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:57:29.825396344Z",
   "translation": "E farás ⟨o⟩ manto do Efod, inteiramente, ⟨de⟩ azul",
   "tokens": [
     {
       "surface": "ועשית",
-      "english": "E farás"
+      "gloss": "E farás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o manto"
     },
     {
       "surface": "מעיל",
-      "english": "manto"
+      "gloss": "manto"
     },
     {
       "surface": "האפוד",
-      "english": "do Efod"
+      "gloss": "do Efod"
     },
     {
       "surface": "כליל",
-      "english": "inteiramente"
+      "gloss": "inteiramente"
     },
     {
       "surface": "תכלת",
-      "english": "azul"
+      "gloss": "azul"
     }
-  ],
-  "timestamp": "2026-07-16T13:57:29.825396344Z",
-  "model": "glm-4.5"
+  ]
 }

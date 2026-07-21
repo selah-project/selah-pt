@@ -1,9 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "job 40:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 40,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:13:56.516770167Z",
+  "translation": "Porventura farás umBrit ⟨com⟩ ⟨את⟩ ele para ⟨o⟩ tomares por servo ⟨para⟩ sempre?",
+  "tokens": [
+    {
+      "surface": "היכרת",
+      "gloss": "Porventura farás"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "umBrit"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨com⟩",
+      "marks": "ele"
+    },
+    {
+      "surface": "תקחנו",
+      "gloss": "⟨o⟩ tomares",
+      "marks": "ele"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "por servo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨para⟩ sempre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a aliança",
@@ -13,50 +46,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 40,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19768,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20147
-  },
-  "translation": "Porventura farás umBrit ⟨com⟩ ⟨את⟩ ele para ⟨o⟩ tomares por servo ⟨para⟩ sempre?",
-  "tokens": [
-    {
-      "surface": "היכרת",
-      "english": "Porventura farás"
-    },
-    {
-      "surface": "ברית",
-      "english": "umBrit"
-    },
-    {
-      "surface": "עמך",
-      "english": "⟨com⟩",
-      "marks": "ele"
-    },
-    {
-      "surface": "תקחנו",
-      "english": "⟨o⟩ tomares",
-      "marks": "ele"
-    },
-    {
-      "surface": "לעבד",
-      "english": "por servo"
-    },
-    {
-      "surface": "עולם",
-      "english": "⟨para⟩ sempre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:13:56.516770167Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

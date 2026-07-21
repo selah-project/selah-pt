@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "ezekiel 39:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 39,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:43:53.164103130Z",
+  "translation": "E a casa de Yisrael saberá que eu ⟨sou⟩ YHWH seu Elohim, daquele dia ⟨em⟩ diante ⟨e⟩ para sempre.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "E saberá"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a casa de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "seu Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aquele dia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨em⟩ diante"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "⟨e⟩ para sempre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 39,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17613,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18059
-  },
-  "translation": "E a casa de Yisrael saberá que eu ⟨sou⟩ YHWH seu Elohim, daquele dia ⟨em⟩ diante ⟨e⟩ para sempre.",
-  "tokens": [
-    {
-      "surface": "וידעו",
-      "english": "E saberá"
-    },
-    {
-      "surface": "בית",
-      "english": "a casa de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "אני",
-      "english": "eu"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיהם",
-      "english": "seu Elohim"
-    },
-    {
-      "surface": "מן",
-      "english": "de"
-    },
-    {
-      "surface": "היום",
-      "english": "aquele dia"
-    },
-    {
-      "surface": "ההוא",
-      "english": "⟨em⟩ diante"
-    },
-    {
-      "surface": "והלאה",
-      "english": "⟨e⟩ para sempre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:43:53.164103130Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

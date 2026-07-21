@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "ruth 1:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ruth",
+  "chapter": 1,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:20:50.066734071Z",
+  "translation": "E as duas foram até que vieram ⟨a⟩ Bet-Léjem, e aconteceu que, quando vieram ⟨a⟩ Bet-Léjem, toda ⟨a⟩ cidade se comoveu por causa delas, e disseram: ⟨É⟩ esta Naomi?",
+  "tokens": [
+    {
+      "surface": "ותלכנה",
+      "gloss": "E as duas foram"
+    },
+    {
+      "surface": "שתיהם",
+      "gloss": "as duas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até que"
+    },
+    {
+      "surface": "באנה",
+      "gloss": "vieram"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Léjem",
+      "marks": "⟨a⟩ Belém"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e aconteceu que"
+    },
+    {
+      "surface": "כבאנה",
+      "gloss": "quando vieram"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Léjem",
+      "marks": "⟨a⟩ Belém"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "toda ⟨a⟩ cidade se comoveu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda ⟨a⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cidade",
+      "marks": "toda ⟨a⟩"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "por causa delas"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "e disseram"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "⟨É⟩ esta"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi",
+      "marks": "⟨É⟩ esta"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Belém",
@@ -20,96 +99,6 @@
       "hebrew": "בית־לחם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 645,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21806,
-    "prompt_tokens_details": {
-      "cached_tokens": 19951
-    },
-    "total_tokens": 22451
-  },
-  "translation": "E as duas foram até que vieram ⟨a⟩ Bet-Léjem, e aconteceu que, quando vieram ⟨a⟩ Bet-Léjem, toda ⟨a⟩ cidade se comoveu por causa delas, e disseram: ⟨É⟩ esta Naomi?",
-  "tokens": [
-    {
-      "surface": "ותלכנה",
-      "english": "E as duas foram"
-    },
-    {
-      "surface": "שתיהם",
-      "english": "as duas"
-    },
-    {
-      "surface": "עד",
-      "english": "até que"
-    },
-    {
-      "surface": "באנה",
-      "english": "vieram"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "לחם",
-      "english": "Bet-Léjem",
-      "marks": "⟨a⟩ Belém"
-    },
-    {
-      "surface": "ויהי",
-      "english": "e aconteceu que"
-    },
-    {
-      "surface": "כבאנה",
-      "english": "quando vieram"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "לחם",
-      "english": "Bet-Léjem",
-      "marks": "⟨a⟩ Belém"
-    },
-    {
-      "surface": "ותהם",
-      "english": "toda ⟨a⟩ cidade se comoveu"
-    },
-    {
-      "surface": "כל",
-      "english": "toda ⟨a⟩"
-    },
-    {
-      "surface": "העיר",
-      "english": "cidade",
-      "marks": "toda ⟨a⟩"
-    },
-    {
-      "surface": "עליהן",
-      "english": "por causa delas"
-    },
-    {
-      "surface": "ותאמרנה",
-      "english": "e disseram"
-    },
-    {
-      "surface": "הזאת",
-      "english": "⟨É⟩ esta"
-    },
-    {
-      "surface": "נעמי",
-      "english": "Naomi",
-      "marks": "⟨É⟩ esta"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:20:50.066734071Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 11:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 11,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:53:06.291350836Z",
+  "translation": "E declarará a ti ⟨os⟩ segredos ⟨da⟩ Jojmá, pois dobrados são ⟨para⟩ a compreensão; e saberás que Elohmá ⟨é⟩ esquecido de ti ⟨por⟩ tua iniquidade.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "E declarará"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "⟨os⟩ segredos"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "⟨da⟩ Jojmá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "כפלים",
+      "gloss": "dobrados são"
+    },
+    {
+      "surface": "לתושיה",
+      "gloss": "⟨para⟩ a compreensão"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "e saberás"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "Elohmá ⟨é⟩ esquecido"
+    },
+    {
+      "surface": "לך",
+      "gloss": "de ti"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohmá"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "⟨por⟩ tua iniquidade"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -13,76 +72,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 699,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20576,
-    "prompt_tokens_details": {
-      "cached_tokens": 19084
-    },
-    "total_tokens": 21275
-  },
-  "translation": "E declarará a ti ⟨os⟩ segredos ⟨da⟩ Jojmá, pois dobrados são ⟨para⟩ a compreensão; e saberás que Elohmá ⟨é⟩ esquecido de ti ⟨por⟩ tua iniquidade.",
-  "tokens": [
-    {
-      "surface": "ויגד",
-      "english": "E declarará"
-    },
-    {
-      "surface": "לך",
-      "english": "a ti"
-    },
-    {
-      "surface": "תעלמות",
-      "english": "⟨os⟩ segredos"
-    },
-    {
-      "surface": "חכמה",
-      "english": "⟨da⟩ Jojmá"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "כפלים",
-      "english": "dobrados são"
-    },
-    {
-      "surface": "לתושיה",
-      "english": "⟨para⟩ a compreensão"
-    },
-    {
-      "surface": "ודע",
-      "english": "e saberás"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "ישה",
-      "english": "Elohmá ⟨é⟩ esquecido"
-    },
-    {
-      "surface": "לך",
-      "english": "de ti"
-    },
-    {
-      "surface": "אלוה",
-      "english": "Elohmá"
-    },
-    {
-      "surface": "מעונך",
-      "english": "⟨por⟩ tua iniquidade"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:53:06.291350836Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

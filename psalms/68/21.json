@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 68:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 68,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:22:57.000197987Z",
+  "translation": "El ⟨é⟩ nosso El ⟨um⟩ El de livramentos; e a YHWH ⟨o⟩ Senhor pertencem ⟨as⟩ saídas da morte.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El ⟨é⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nosso Deus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨um⟩ El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "de livramentos"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "e a YHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "⟨o⟩ Senhor"
+    },
+    {
+      "surface": "למות",
+      "gloss": "pertencem"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "⟨as⟩ saídas da morte"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Deus",
@@ -13,56 +52,6 @@
       "hebrew": "אל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 68,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63010,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63419
-  },
-  "translation": "El ⟨é⟩ nosso El ⟨um⟩ El de livramentos; e a YHWH ⟨o⟩ Senhor pertencem ⟨as⟩ saídas da morte.",
-  "tokens": [
-    {
-      "surface": "האל",
-      "english": "El ⟨é⟩"
-    },
-    {
-      "surface": "לנו",
-      "english": "nosso Deus"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨um⟩ El"
-    },
-    {
-      "surface": "למושעות",
-      "english": "de livramentos"
-    },
-    {
-      "surface": "וליהוה",
-      "english": "e a YHWH"
-    },
-    {
-      "surface": "אדני",
-      "english": "⟨o⟩ Senhor"
-    },
-    {
-      "surface": "למות",
-      "english": "pertencem"
-    },
-    {
-      "surface": "תוצאות",
-      "english": "⟨as⟩ saídas da morte"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:22:57.000197987Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

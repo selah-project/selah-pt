@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "deuteronomy 25:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 25,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:14:53.690451326Z",
+  "translation": "Lembra-te ⟨de⟩ o que Amalek te fez no caminho, quando saístes ⟨do⟩ Egito",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Lembra-te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨de⟩",
+      "marks": "o que Amaleque te fez"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fez"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "no caminho"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "quando saístes"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "⟨do⟩ Egito"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amaleque",
@@ -13,61 +57,6 @@
       "hebrew": "עמלק"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17814,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 18276
-  },
-  "translation": "Lembra-te ⟨de⟩ o que Amalek te fez no caminho, quando saístes ⟨do⟩ Egito",
-  "tokens": [
-    {
-      "surface": "זכור",
-      "english": "Lembra-te"
-    },
-    {
-      "surface": "את",
-      "english": "⟨de⟩",
-      "marks": "o que Amaleque te fez"
-    },
-    {
-      "surface": "אשר",
-      "english": "o que"
-    },
-    {
-      "surface": "עשה",
-      "english": "fez"
-    },
-    {
-      "surface": "לך",
-      "english": "te"
-    },
-    {
-      "surface": "עמלק",
-      "english": "Amalek"
-    },
-    {
-      "surface": "בדרך",
-      "english": "no caminho"
-    },
-    {
-      "surface": "בצאתכם",
-      "english": "quando saístes"
-    },
-    {
-      "surface": "ממצרים",
-      "english": "⟨do⟩ Egito"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:14:53.690451326Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

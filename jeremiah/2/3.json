@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "jeremiah 2:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 2,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:04:55.586663698Z",
+  "translation": "Yisrael ⟨is⟩ santidade ⟨para⟩ YHWH, ⟨o⟩ primeiro-fruto de ⟨seu⟩ aumento; todos que devoram ⟨a⟩ ele serão culpados; mal virá sobre eles, ⟨declaração⟩ de YHWH",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Santidade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨para⟩ YHWH"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "⟨o⟩ primeiro-fruto"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "de ⟨seu⟩ aumento"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "que devoram ⟨a⟩ ele"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "serão culpados"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "virá"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sobre eles"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "⟨declaração⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17986,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18508
-  },
-  "translation": "Yisrael ⟨is⟩ santidade ⟨para⟩ YHWH, ⟨o⟩ primeiro-fruto de ⟨seu⟩ aumento; todos que devoram ⟨a⟩ ele serão culpados; mal virá sobre eles, ⟨declaração⟩ de YHWH",
-  "tokens": [
-    {
-      "surface": "קדש",
-      "english": "Santidade"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "⟨para⟩ YHWH"
-    },
-    {
-      "surface": "ראשית",
-      "english": "⟨o⟩ primeiro-fruto"
-    },
-    {
-      "surface": "תבואתה",
-      "english": "de ⟨seu⟩ aumento"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "אכליו",
-      "english": "que devoram ⟨a⟩ ele"
-    },
-    {
-      "surface": "יאשמו",
-      "english": "serão culpados"
-    },
-    {
-      "surface": "רעה",
-      "english": "mal"
-    },
-    {
-      "surface": "תבא",
-      "english": "virá"
-    },
-    {
-      "surface": "אליהם",
-      "english": "sobre eles"
-    },
-    {
-      "surface": "נאם",
-      "english": "⟨declaração⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:04:55.586663698Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

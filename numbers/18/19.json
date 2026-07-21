@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "numbers 18:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 18,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:29:32.196350277Z",
+  "translation": "Todos ⟨os⟩ levantamentos das coisas sagradas ⟨que⟩ os filhos de Yisra'el levantarem a YHWH, dei a ti, e a teus filhos, e a tuas filhas contigo, ⟨como⟩ estatuto perpétuo — Brit de sal perpétuo ⟨é⟩ diante de YHWH, para ti e para tua descendência contigo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Todos"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "⟨os⟩ levantamentos"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "das coisas sagradas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "levantarem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisra'el"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "e a teus filhos"
+    },
+    {
+      "surface": "ולבנתיך",
+      "gloss": "e a tuas filhas"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "contigo"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "⟨como⟩ estatuto"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpétuo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Brit"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "de sal"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpétuo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ti"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "e para tua descendência"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "contigo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,120 +116,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 855,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19685,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 20540
-  },
-  "translation": "Todos ⟨os⟩ levantamentos das coisas sagradas ⟨que⟩ os filhos de Yisra'el levantarem a YHWH, dei a ti, e a teus filhos, e a tuas filhas contigo, ⟨como⟩ estatuto perpétuo — Brit de sal perpétuo ⟨é⟩ diante de YHWH, para ti e para tua descendência contigo.",
-  "tokens": [
-    {
-      "surface": "כל",
-      "english": "Todos"
-    },
-    {
-      "surface": "תרומת",
-      "english": "⟨os⟩ levantamentos"
-    },
-    {
-      "surface": "הקדשים",
-      "english": "das coisas sagradas"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "ירימו",
-      "english": "levantarem"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisra'el"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "a YHWH"
-    },
-    {
-      "surface": "נתתי",
-      "english": "dei"
-    },
-    {
-      "surface": "לך",
-      "english": "a ti"
-    },
-    {
-      "surface": "ולבניך",
-      "english": "e a teus filhos"
-    },
-    {
-      "surface": "ולבנתיך",
-      "english": "e a tuas filhas"
-    },
-    {
-      "surface": "אתך",
-      "english": "contigo"
-    },
-    {
-      "surface": "לחק",
-      "english": "⟨como⟩ estatuto"
-    },
-    {
-      "surface": "עולם",
-      "english": "perpétuo"
-    },
-    {
-      "surface": "ברית",
-      "english": "Brit"
-    },
-    {
-      "surface": "מלח",
-      "english": "de sal"
-    },
-    {
-      "surface": "עולם",
-      "english": "perpétuo"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לך",
-      "english": "para ti"
-    },
-    {
-      "surface": "ולזרעך",
-      "english": "e para tua descendência"
-    },
-    {
-      "surface": "אתך",
-      "english": "contigo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:29:32.196350277Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

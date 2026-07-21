@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "numbers 23:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 23,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:35:26.077006895Z",
+  "translation": "E ⟨ele⟩ veio a ⟨ele⟩ e eis que ⟨ele⟩ estava ⟨em pé⟩ sobre ⟨sua⟩ ⟨oferta queimada⟩ e ⟨os⟩ ⟨príncipes⟩ de Moav ⟨com⟩ ⟨ele⟩. E disse-lhe Balaque: ⟨O⟩ que ⟨disse⟩ YHWH?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E ⟨ele⟩ veio"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ⟨ele⟩"
+    },
+    {
+      "surface": "והנו",
+      "gloss": "e eis que"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "⟨ele⟩ estava ⟨em pé⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "⟨sua⟩ ⟨oferta queimada⟩"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e ⟨os⟩ ⟨príncipes⟩"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨com⟩ ⟨ele⟩",
+      "marks": "ele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse-lhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a⟩ ⟨ele⟩"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaque"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨O⟩ que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨disse⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -13,85 +81,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 746,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18670,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19416
-  },
-  "translation": "E ⟨ele⟩ veio a ⟨ele⟩ e eis que ⟨ele⟩ estava ⟨em pé⟩ sobre ⟨sua⟩ ⟨oferta queimada⟩ e ⟨os⟩ ⟨príncipes⟩ de Moav ⟨com⟩ ⟨ele⟩. E disse-lhe Balaque: ⟨O⟩ que ⟨disse⟩ YHWH?",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E ⟨ele⟩ veio"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ⟨ele⟩"
-    },
-    {
-      "surface": "והנו",
-      "english": "e eis que"
-    },
-    {
-      "surface": "נצב",
-      "english": "⟨ele⟩ estava ⟨em pé⟩"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "עלתו",
-      "english": "⟨sua⟩ ⟨oferta queimada⟩"
-    },
-    {
-      "surface": "ושרי",
-      "english": "e ⟨os⟩ ⟨príncipes⟩"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨com⟩ ⟨ele⟩",
-      "marks": "ele"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E disse-lhe"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨a⟩ ⟨ele⟩"
-    },
-    {
-      "surface": "בלק",
-      "english": "Balaque"
-    },
-    {
-      "surface": "מה",
-      "english": "⟨O⟩ que"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨disse⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:35:26.077006895Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

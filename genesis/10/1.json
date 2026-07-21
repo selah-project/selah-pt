@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 10:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 10,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:51:05.667641056Z",
+  "translation": "E estes ⟨são⟩ ⟨as⟩ gerações dos filhos de Noaj, Shem, Cham e Jafé; e filhos lhes nasceram depois ⟨do⟩ dilúvio.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E estes"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "⟨as⟩ gerações"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "נח",
+      "gloss": "de Noaj"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "e Jafé"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "e filhos lhes nasceram"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lhes"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "depois"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "⟨do⟩ dilúvio"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noé",
@@ -13,72 +68,6 @@
       "hebrew": "נח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21669,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22150
-  },
-  "translation": "E estes ⟨são⟩ ⟨as⟩ gerações dos filhos de Noaj, Shem, Cham e Jafé; e filhos lhes nasceram depois ⟨do⟩ dilúvio.",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E estes"
-    },
-    {
-      "surface": "תולדת",
-      "english": "⟨as⟩ gerações"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "נח",
-      "english": "de Noaj"
-    },
-    {
-      "surface": "שם",
-      "english": "Shem"
-    },
-    {
-      "surface": "חם",
-      "english": "Cham"
-    },
-    {
-      "surface": "ויפת",
-      "english": "e Jafé"
-    },
-    {
-      "surface": "ויולדו",
-      "english": "e filhos lhes nasceram"
-    },
-    {
-      "surface": "להם",
-      "english": "lhes"
-    },
-    {
-      "surface": "בנים",
-      "english": "filhos"
-    },
-    {
-      "surface": "אחר",
-      "english": "depois"
-    },
-    {
-      "surface": "המבול",
-      "english": "⟨do⟩ dilúvio"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:51:05.667641056Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 25:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21099,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 21445
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:05:41.679015325Z",
   "translation": "E Avraham adicionou e tomou ⟨a⟩ mulher, e ⟨o⟩ nome dela ⟨era⟩ Ketura",
   "tokens": [
     {
       "surface": "ויסף",
-      "english": "E Avraham adicionou"
+      "gloss": "E Avraham adicionou"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "ויקח",
-      "english": "e tomou"
+      "gloss": "e tomou"
     },
     {
       "surface": "אשה",
-      "english": "⟨a⟩ mulher"
+      "gloss": "⟨a⟩ mulher"
     },
     {
       "surface": "ושמה",
-      "english": "e ⟨o⟩ nome dela"
+      "gloss": "e ⟨o⟩ nome dela"
     },
     {
       "surface": "קטורה",
-      "english": "Ketura"
+      "gloss": "Ketura"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:05:41.679015325Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

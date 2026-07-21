@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "genesis 35:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 35,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:18:01.585285815Z",
+  "translation": "E Yisrael ⟨foi⟩ e ⟨estendeu⟩ ⟨sua⟩ tenda ⟨além⟩ de Migdal-Éder",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "E ⟨foi⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "e ⟨estendeu⟩"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "⟨sua⟩ tenda"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "⟨além⟩"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "de Migdal"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Éder"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,52 +48,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21245,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21637
-  },
-  "translation": "E Yisrael ⟨foi⟩ e ⟨estendeu⟩ ⟨sua⟩ tenda ⟨além⟩ de Migdal-Éder",
-  "tokens": [
-    {
-      "surface": "ויסע",
-      "english": "E ⟨foi⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויט",
-      "english": "e ⟨estendeu⟩"
-    },
-    {
-      "surface": "אהלה",
-      "english": "⟨sua⟩ tenda"
-    },
-    {
-      "surface": "מהלאה",
-      "english": "⟨além⟩"
-    },
-    {
-      "surface": "למגדל",
-      "english": "de Migdal"
-    },
-    {
-      "surface": "עדר",
-      "english": "Éder"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:18:01.585285815Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

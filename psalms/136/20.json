@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 136:20",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 288,
-    "prompt_tokens": 70137,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70425
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:02.609098230Z",
   "translation": "E a Og, rei de Bashan, pois ⟨para⟩ sempre ⟨é⟩ o seu Jésed.",
   "tokens": [
     {
       "surface": "ולעוג",
-      "english": "E a Og"
+      "gloss": "E a Og"
     },
     {
       "surface": "מלך",
-      "english": "rei"
+      "gloss": "rei"
     },
     {
       "surface": "הבשן",
-      "english": "de Bashan"
+      "gloss": "de Bashan"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "לעולם",
-      "english": "⟨para⟩ sempre"
+      "gloss": "⟨para⟩ sempre"
     },
     {
       "surface": "חסדו",
-      "english": "o seu Jésed"
+      "gloss": "o seu Jésed"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:02.609098230Z",
-  "model": "glm-4.5"
+  ]
 }

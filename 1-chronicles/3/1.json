@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 3:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 3,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:33:59.863048699Z",
+  "translation": "E estes ⟨são⟩ os filhos de Davidd, que nasceram ⟨a⟩ ele em Hebron: ⟨o⟩ primogênito, Amnon, de Ainoã, ⟨a⟩ jezreelita; ⟨o⟩ segundo, Daniel, de Abigail, ⟨a⟩ carmelita;",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E estes"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨são⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "nasceram"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a⟩ ele"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "em Hebron"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "⟨o⟩ primogênito"
+    },
+    {
+      "surface": "אמנן",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "de Ainoã"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "⟨a⟩ jezreelita"
+    },
+    {
+      "surface": "שני",
+      "gloss": "⟨o⟩ segundo"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לאביגיל",
+      "gloss": "de Abigail"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "⟨a⟩ carmelita"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,88 +84,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 691,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57912,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58603
-  },
-  "translation": "E estes ⟨são⟩ os filhos de Davidd, que nasceram ⟨a⟩ ele em Hebron: ⟨o⟩ primogênito, Amnon, de Ainoã, ⟨a⟩ jezreelita; ⟨o⟩ segundo, Daniel, de Abigail, ⟨a⟩ carmelita;",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E estes"
-    },
-    {
-      "surface": "היו",
-      "english": "⟨são⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "נולד",
-      "english": "nasceram"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨a⟩ ele"
-    },
-    {
-      "surface": "בחברון",
-      "english": "em Hebron"
-    },
-    {
-      "surface": "הבכור",
-      "english": "⟨o⟩ primogênito"
-    },
-    {
-      "surface": "אמנן",
-      "english": "Amnon"
-    },
-    {
-      "surface": "לאחינעם",
-      "english": "de Ainoã"
-    },
-    {
-      "surface": "היזרעאלית",
-      "english": "⟨a⟩ jezreelita"
-    },
-    {
-      "surface": "שני",
-      "english": "⟨o⟩ segundo"
-    },
-    {
-      "surface": "דניאל",
-      "english": "Daniel"
-    },
-    {
-      "surface": "לאביגיל",
-      "english": "de Abigail"
-    },
-    {
-      "surface": "הכרמלית",
-      "english": "⟨a⟩ carmelita"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:33:59.863048699Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

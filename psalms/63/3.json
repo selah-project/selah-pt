@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 63:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 63,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 70230,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70634
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:39:56.185983454Z",
   "translation": "Pois no santuário te ⟨vi⟩, para ver ⟨o teu⟩ poder e ⟨a tua⟩ glória",
   "tokens": [
     {
       "surface": "כן",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "בקדש",
-      "english": "no santuário"
+      "gloss": "no santuário"
     },
     {
       "surface": "חזיתיך",
-      "english": "te ⟨vi⟩"
+      "gloss": "te ⟨vi⟩"
     },
     {
       "surface": "לראות",
-      "english": "para ver"
+      "gloss": "para ver"
     },
     {
       "surface": "עזך",
-      "english": "⟨o teu⟩ poder"
+      "gloss": "⟨o teu⟩ poder"
     },
     {
       "surface": "וכבודך",
-      "english": "e ⟨a tua⟩ glória"
+      "gloss": "e ⟨a tua⟩ glória"
     }
-  ],
-  "timestamp": "2026-07-16T17:39:56.185983454Z",
-  "model": "glm-4.5"
+  ]
 }

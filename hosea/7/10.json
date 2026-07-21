@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "hosea 7:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 7,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:58:35.988943562Z",
+  "translation": "E ⟨a⟩ glória de Yisrael testemunha contra ⟨ele⟩; e não ⟨se⟩ voltaram para YHWH seu Elohim, e não o buscaram em tudo isto.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "E"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "⟨a⟩ glória"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "testemunha contra ⟨ele⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "⟨se⟩ voltaram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "seu Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "o buscaram"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "em tudo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "isto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 630,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19948,
-    "prompt_tokens_details": {
-      "cached_tokens": 18475
-    },
-    "total_tokens": 20578
-  },
-  "translation": "E ⟨a⟩ glória de Yisrael testemunha contra ⟨ele⟩; e não ⟨se⟩ voltaram para YHWH seu Elohim, e não o buscaram em tudo isto.",
-  "tokens": [
-    {
-      "surface": "וענה",
-      "english": "E"
-    },
-    {
-      "surface": "גאון",
-      "english": "⟨a⟩ glória"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "בפניו",
-      "english": "testemunha contra ⟨ele⟩"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "שבו",
-      "english": "⟨se⟩ voltaram"
-    },
-    {
-      "surface": "אל",
-      "english": "para"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיהם",
-      "english": "seu Elohim"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "בקשהו",
-      "english": "o buscaram"
-    },
-    {
-      "surface": "בכל",
-      "english": "em tudo"
-    },
-    {
-      "surface": "זאת",
-      "english": "isto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:58:35.988943562Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

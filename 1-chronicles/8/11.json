@@ -1,47 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-chronicles 8:11",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 394,
-    "prompt_tokens": 64495,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64889
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:10:05.256386503Z",
   "translation": "E de Jusim gerou ⟨את⟩ Avituv e ⟨את⟩ Elpaal",
   "tokens": [
     {
       "surface": "וּ\/מֵ\/חֻשִׁים",
-      "english": "E de Jusim"
+      "gloss": "E de Jusim"
     },
     {
       "surface": "הוֹלִיד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avituv"
     },
     {
       "surface": "אֲבִיטוּב",
-      "english": "Avituv"
+      "gloss": "Avituv"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Elpaal"
     },
     {
       "surface": "אֶלְפָּֽעַל",
-      "english": "Elpaal"
+      "gloss": "Elpaal"
     }
-  ],
-  "timestamp": "2026-07-16T11:10:05.256386503Z",
-  "model": "glm-4.5"
+  ]
 }

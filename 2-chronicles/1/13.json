@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "2-chronicles 1:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 1,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:06:30.549232693Z",
+  "translation": "Então Shelomoh veio do alto lugar que ⟨está⟩ em Gibeon para Jerushalaim, de diante da Tenda ⟨do⟩ Encontro, e reinou sobre Yisrael",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Então veio"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבמה",
+      "gloss": "do alto lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "⟨está⟩ em Gibeon"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "para Jerushalaim"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de diante"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "da Tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "⟨do⟩ Encontro"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e reinou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 537,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58533,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59070
-  },
-  "translation": "Então Shelomoh veio do alto lugar que ⟨está⟩ em Gibeon para Jerushalaim, de diante da Tenda ⟨do⟩ Encontro, e reinou sobre Yisrael",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "Então veio"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomoh"
-    },
-    {
-      "surface": "לבמה",
-      "english": "do alto lugar"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בגבעון",
-      "english": "⟨está⟩ em Gibeon"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "para Jerushalaim"
-    },
-    {
-      "surface": "מלפני",
-      "english": "de diante"
-    },
-    {
-      "surface": "אהל",
-      "english": "da Tenda"
-    },
-    {
-      "surface": "מועד",
-      "english": "⟨do⟩ Encontro"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e reinou"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:06:30.549232693Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

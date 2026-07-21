@@ -1,9 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-kings 4:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 4,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:14:36.772812632Z",
+  "translation": "Elichoref e Ahiá, filhos de Shisha, ⟨eram⟩ escribas; Yehoshafat, filho de Ahilud, ⟨era⟩ o ⟨memorialista⟩",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Elichoref"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "e Ahiá"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "de Shisha"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "⟨eram⟩ escribas",
+      "marks": "Elichoref e Ahiá"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "de Ahilud"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "⟨era⟩ o ⟨memorialista⟩",
+      "marks": "Josafá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josafá",
@@ -13,62 +58,6 @@
       "hebrew": "יהושפט"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62580,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62989
-  },
-  "translation": "Elichoref e Ahiá, filhos de Shisha, ⟨eram⟩ escribas; Yehoshafat, filho de Ahilud, ⟨era⟩ o ⟨memorialista⟩",
-  "tokens": [
-    {
-      "surface": "אליחרף",
-      "english": "Elichoref"
-    },
-    {
-      "surface": "ואחיה",
-      "english": "e Ahiá"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "שישא",
-      "english": "de Shisha"
-    },
-    {
-      "surface": "ספרים",
-      "english": "⟨eram⟩ escribas",
-      "marks": "Elichoref e Ahiá"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "אחילוד",
-      "english": "de Ahilud"
-    },
-    {
-      "surface": "המזכיר",
-      "english": "⟨era⟩ o ⟨memorialista⟩",
-      "marks": "Josafá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:14:36.772812632Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "judges 10:2",
   "book": "judges",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 474,
-    "prompt_tokens": 23838,
-    "prompt_tokens_details": {
-      "cached_tokens": 22528
-    },
-    "total_tokens": 24312
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:26:06.744384973Z",
   "translation": "E ele julgou ⟨את⟩ Yisrael vinte e três anos, e morreu, e foi sepultado em Shamir.",
   "tokens": [
     {
       "surface": "וישפט",
-      "english": "E ele julgou"
+      "gloss": "E ele julgou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "עשרים",
-      "english": "vinte"
+      "gloss": "vinte"
     },
     {
       "surface": "ושלש",
-      "english": "e três"
+      "gloss": "e três"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "וימת",
-      "english": "e morreu"
+      "gloss": "e morreu"
     },
     {
       "surface": "ויקבר",
-      "english": "e foi sepultado"
+      "gloss": "e foi sepultado"
     },
     {
       "surface": "בשמיר",
-      "english": "em Shamir"
+      "gloss": "em Shamir"
     }
-  ],
-  "timestamp": "2026-07-16T16:26:06.744384973Z",
-  "model": "glm-4.5"
+  ]
 }

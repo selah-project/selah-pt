@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 29:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 29,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:04:59.582025622Z",
+  "translation": "E o rei Davidd disse a toda a congregação: Shlomoh, meu filho, ⟨é⟩ o único que Elohim escolheu; ⟨é⟩ um jovem e ⟨está⟩ tenro, e a obra ⟨é⟩ grande; pois o palácio não ⟨é⟩ para o homem, mas ⟨é⟩ para YHWH, Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a toda"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "congregação"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "meu filho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o único"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "escolheu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נער",
+      "gloss": "um jovem"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "e ⟨está⟩ tenro"
+    },
+    {
+      "surface": "והמלאכה",
+      "gloss": "e a obra"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "⟨é⟩ grande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "para o homem"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "o palácio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,112 +108,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 746,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58327,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 59073
-  },
-  "translation": "E o rei Davidd disse a toda a congregação: Shlomoh, meu filho, ⟨é⟩ o único que Elohim escolheu; ⟨é⟩ um jovem e ⟨está⟩ tenro, e a obra ⟨é⟩ grande; pois o palácio não ⟨é⟩ para o homem, mas ⟨é⟩ para YHWH, Elohim.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "לכל",
-      "english": "a toda"
-    },
-    {
-      "surface": "הקהל",
-      "english": "congregação"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomoh"
-    },
-    {
-      "surface": "בני",
-      "english": "meu filho"
-    },
-    {
-      "surface": "אחד",
-      "english": "o único"
-    },
-    {
-      "surface": "בחר",
-      "english": "escolheu"
-    },
-    {
-      "surface": "בו",
-      "english": "nele"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "נער",
-      "english": "um jovem"
-    },
-    {
-      "surface": "ורך",
-      "english": "e ⟨está⟩ tenro"
-    },
-    {
-      "surface": "והמלאכה",
-      "english": "e a obra"
-    },
-    {
-      "surface": "גדולה",
-      "english": "⟨é⟩ grande"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "לאדם",
-      "english": "para o homem"
-    },
-    {
-      "surface": "הבירה",
-      "english": "o palácio"
-    },
-    {
-      "surface": "כי",
-      "english": "mas"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "para YHWH"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:04:59.582025622Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

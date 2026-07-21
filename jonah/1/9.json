@@ -1,88 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "jonah 1:9",
   "book": "jonah",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 731,
-    "prompt_tokens": 27900,
-    "prompt_tokens_details": {
-      "cached_tokens": 25856
-    },
-    "total_tokens": 28631
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:03:34.784020883Z",
   "translation": "E ele disse a eles: Sou um Ivri; e temo a YHWH, ⟨o⟩ Elohim dos céus, que fez ⟨את⟩ o mar e ⟨את⟩ a terra seca.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "אליהם",
-      "english": "a eles"
+      "gloss": "a eles"
     },
     {
       "surface": "עברי",
-      "english": "Sou um Ivri"
+      "gloss": "Sou um Ivri"
     },
     {
       "surface": "אנכי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהי",
-      "english": "⟨o⟩ Elohim"
+      "gloss": "⟨o⟩ Elohim"
     },
     {
       "surface": "השמים",
-      "english": "dos céus"
+      "gloss": "dos céus"
     },
     {
       "surface": "אני",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ירא",
-      "english": "temo"
+      "gloss": "temo"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "עשה",
-      "english": "fez"
+      "gloss": "fez"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o mar"
     },
     {
       "surface": "הים",
-      "english": "o mar"
+      "gloss": "o mar"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a terra seca"
     },
     {
       "surface": "היבשה",
-      "english": "a terra seca"
+      "gloss": "a terra seca"
     }
-  ],
-  "timestamp": "2026-07-16T16:03:34.784020883Z",
-  "model": "glm-4.5"
+  ]
 }

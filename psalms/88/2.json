@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 88:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 88,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:38:05.183690969Z",
+  "translation": "YHWH Elohim da minhYeshuá, ⟨eu⟩ clamei ⟨em⟩ dia e ⟨em⟩ noite diante de Ti",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "da minhYeshuá"
+    },
+    {
+      "surface": "יום",
+      "gloss": "⟨em⟩ dia"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "⟨eu⟩ clamei"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "⟨em⟩ noite"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "diante de Ti"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a salvação",
@@ -13,52 +48,6 @@
       "hebrew": "ישועה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 88,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62944,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63269
-  },
-  "translation": "YHWH Elohim da minhYeshuá, ⟨eu⟩ clamei ⟨em⟩ dia e ⟨em⟩ noite diante de Ti",
-  "tokens": [
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ישועתי",
-      "english": "da minhYeshuá"
-    },
-    {
-      "surface": "יום",
-      "english": "⟨em⟩ dia"
-    },
-    {
-      "surface": "צעקתי",
-      "english": "⟨eu⟩ clamei"
-    },
-    {
-      "surface": "בלילה",
-      "english": "⟨em⟩ noite"
-    },
-    {
-      "surface": "נגדך",
-      "english": "diante de Ti"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:38:05.183690969Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

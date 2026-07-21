@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 8:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 137,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56647,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 56784
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:40:45.408292755Z",
   "translation": "e Abishua e Naaman e Ahoah",
   "tokens": [
     {
       "surface": "ואבישוע",
-      "english": "E Abishua"
+      "gloss": "E Abishua"
     },
     {
       "surface": "ונעמן",
-      "english": "e Naaman"
+      "gloss": "e Naaman"
     },
     {
       "surface": "ואחוח",
-      "english": "e Ahoah"
+      "gloss": "e Ahoah"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:40:45.408292755Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

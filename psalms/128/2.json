@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 128:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 128,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70233,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70689
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:41:44.700147775Z",
   "translation": "⟨É⟩ feliz ⟨porque⟩ comerás ⟨o⟩ fruto ⟨de⟩ tuas mãos, ⟨e será⟩ bom ⟨para⟩ ti.",
   "tokens": [
     {
       "surface": "יגיע",
-      "english": "⟨o⟩ fruto ⟨de⟩ tuas mãos"
+      "gloss": "⟨o⟩ fruto ⟨de⟩ tuas mãos"
     },
     {
       "surface": "כפיך",
-      "english": "tuas mãos"
+      "gloss": "tuas mãos"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "תאכל",
-      "english": "comerás"
+      "gloss": "comerás"
     },
     {
       "surface": "אשריך",
-      "english": "⟨É⟩ feliz"
+      "gloss": "⟨É⟩ feliz"
     },
     {
       "surface": "וטוב",
-      "english": "⟨e será⟩ bom"
+      "gloss": "⟨e será⟩ bom"
     },
     {
       "surface": "לך",
-      "english": "⟨para⟩ ti"
+      "gloss": "⟨para⟩ ti"
     }
-  ],
-  "timestamp": "2026-06-13T06:41:44.700147775Z",
-  "model": "glm-4.5"
+  ]
 }

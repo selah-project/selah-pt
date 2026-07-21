@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-chronicles 22:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 22,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:56:58.877507273Z",
+  "translation": "E Davidd ordenou a todos os príncipes de Yisrael: ajudem a Salomão, seu filho",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "E David ordenou",
+      "marks": "David também ordenou"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd",
+      "marks": ""
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a todos ⟨os⟩",
+      "marks": "príncipes"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "príncipes",
+      "marks": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael",
+      "marks": ""
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ajudem",
+      "marks": ""
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "a Salomão",
+      "marks": ""
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,64 +67,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57054,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 57491
-  },
-  "translation": "E Davidd ordenou a todos os príncipes de Yisrael: ajudem a Salomão, seu filho",
-  "tokens": [
-    {
-      "surface": "ויצו",
-      "english": "E David ordenou",
-      "marks": "David também ordenou"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd",
-      "marks": ""
-    },
-    {
-      "surface": "לכל",
-      "english": "a todos ⟨os⟩",
-      "marks": "príncipes"
-    },
-    {
-      "surface": "שרי",
-      "english": "príncipes",
-      "marks": ""
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael",
-      "marks": ""
-    },
-    {
-      "surface": "לעזר",
-      "english": "ajudem",
-      "marks": ""
-    },
-    {
-      "surface": "לשלמה",
-      "english": "a Salomão",
-      "marks": ""
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:56:58.877507273Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 23:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 23,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:02:51.563184215Z",
+  "translation": "E ⟨Avraham⟩ se levantou de diante ⟨de⟩ ⟨seu⟩ ⟨morto⟩ e falou aos filhos ⟨de⟩ Hete, dizendo:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "E ... se levantou"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "⟨Avraham⟩"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de diante"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "⟨seu⟩ ⟨morto⟩"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "e falou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "חת",
+      "gloss": "⟨de⟩ Hete"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Abraão",
@@ -13,64 +60,6 @@
       "hebrew": "אברהם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21463,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21891
-  },
-  "translation": "E ⟨Avraham⟩ se levantou de diante ⟨de⟩ ⟨seu⟩ ⟨morto⟩ e falou aos filhos ⟨de⟩ Hete, dizendo:",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "E ... se levantou"
-    },
-    {
-      "surface": "אברהם",
-      "english": "⟨Avraham⟩"
-    },
-    {
-      "surface": "מעל",
-      "english": "de diante"
-    },
-    {
-      "surface": "פני",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "מתו",
-      "english": "⟨seu⟩ ⟨morto⟩"
-    },
-    {
-      "surface": "וידבר",
-      "english": "e falou"
-    },
-    {
-      "surface": "אל",
-      "english": "aos"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "חת",
-      "english": "⟨de⟩ Hete"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:02:51.563184215Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

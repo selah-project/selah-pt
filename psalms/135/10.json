@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 135:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62761,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63144
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:08:57.946619466Z",
   "translation": "Que ⟨quem⟩ feriu muitas nações ⟨goyim⟩ e matou reis poderosos:",
   "tokens": [
     {
       "surface": "שהכה",
-      "english": "Que ⟨quem⟩ feriu",
+      "gloss": "Que ⟨quem⟩ feriu",
       "marks": "YHWH (implicado pelo contexto anterior)"
     },
     {
       "surface": "גוים",
-      "english": "muitas nações ⟨goyim⟩",
+      "gloss": "muitas nações ⟨goyim⟩",
       "marks": "nações estrangeiras"
     },
     {
       "surface": "רבים",
-      "english": "muitas"
+      "gloss": "muitas"
     },
     {
       "surface": "והרג",
-      "english": "e matou"
+      "gloss": "e matou"
     },
     {
       "surface": "מלכים",
-      "english": "reis"
+      "gloss": "reis"
     },
     {
       "surface": "עצומים",
-      "english": "poderosos"
+      "gloss": "poderosos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:08:57.946619466Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 50:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 50,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:53:45.796731156Z",
+  "translation": "A palavra que ⟨o⟩ YHWH falou contra Bavel e contra ⟨a⟩ terra dos caldeus ⟨por⟩ mão de Yirmeyahu, ⟨o⟩ profeta.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "A palavra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨o⟩ YHWH falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contra"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e contra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨a⟩ terra"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "dos caldeus"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨por⟩ mão"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "de Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨o⟩ profeta"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -20,72 +75,6 @@
       "hebrew": "ירמיה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 50,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17737,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18193
-  },
-  "translation": "A palavra que ⟨o⟩ YHWH falou contra Bavel e contra ⟨a⟩ terra dos caldeus ⟨por⟩ mão de Yirmeyahu, ⟨o⟩ profeta.",
-  "tokens": [
-    {
-      "surface": "הדבר",
-      "english": "A palavra"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨o⟩ YHWH falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "contra"
-    },
-    {
-      "surface": "בבל",
-      "english": "Bavel"
-    },
-    {
-      "surface": "אל",
-      "english": "e contra"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨a⟩ terra"
-    },
-    {
-      "surface": "כשדים",
-      "english": "dos caldeus"
-    },
-    {
-      "surface": "ביד",
-      "english": "⟨por⟩ mão"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "de Yirmeyahu"
-    },
-    {
-      "surface": "הנביא",
-      "english": "⟨o⟩ profeta"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:53:45.796731156Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

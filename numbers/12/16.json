@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "numbers 12:16",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 262,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25167,
-    "prompt_tokens_details": {
-      "cached_tokens": 24319
-    },
-    "total_tokens": 25429
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:30:41.931756148Z",
   "translation": "E depois o povo viajou a partir de Hazeroth e acampou ⟨no⟩ deserto de Paran",
   "tokens": [
     {
       "surface": "ואחר",
-      "english": "E depois"
+      "gloss": "E depois"
     },
     {
       "surface": "נסעו",
-      "english": "o povo viajou"
+      "gloss": "o povo viajou"
     },
     {
       "surface": "העם",
-      "english": "o povo"
+      "gloss": "o povo"
     },
     {
       "surface": "מחצרות",
-      "english": "a partir de Hazeroth"
+      "gloss": "a partir de Hazeroth"
     },
     {
       "surface": "ויחנו",
-      "english": "e acampou"
+      "gloss": "e acampou"
     },
     {
       "surface": "במדבר",
-      "english": "⟨no⟩ deserto"
+      "gloss": "⟨no⟩ deserto"
     },
     {
       "surface": "פארן",
-      "english": "de Paran"
+      "gloss": "de Paran"
     }
-  ],
-  "timestamp": "2026-06-13T05:30:41.931756148Z",
-  "model": "glm-4.5"
+  ]
 }

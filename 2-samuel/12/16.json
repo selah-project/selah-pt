@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "2-samuel 12:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 12,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:53:23.271304361Z",
+  "translation": "E David buscou ⟨a⟩ Elohim ⟨pelo⟩ menino, e David jejuou um jejum, e entrou e passou ⟨a⟩ noite, e deitou-se ⟨na⟩ terra",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "E buscou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨pelo⟩"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "menino"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "e jejuou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "um jejum"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "e entrou"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "e passou ⟨a⟩ noite"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "e deitou-se"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨na⟩ terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,77 +80,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 602,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17720,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18322
-  },
-  "translation": "E David buscou ⟨a⟩ Elohim ⟨pelo⟩ menino, e David jejuou um jejum, e entrou e passou ⟨a⟩ noite, e deitou-se ⟨na⟩ terra",
-  "tokens": [
-    {
-      "surface": "ויבקש",
-      "english": "E buscou"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Elohim"
-    },
-    {
-      "surface": "האלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "בעד",
-      "english": "⟨pelo⟩"
-    },
-    {
-      "surface": "הנער",
-      "english": "menino"
-    },
-    {
-      "surface": "ויצם",
-      "english": "e jejuou"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "צום",
-      "english": "um jejum"
-    },
-    {
-      "surface": "ובא",
-      "english": "e entrou"
-    },
-    {
-      "surface": "ולן",
-      "english": "e passou ⟨a⟩ noite"
-    },
-    {
-      "surface": "ושכב",
-      "english": "e deitou-se"
-    },
-    {
-      "surface": "ארצה",
-      "english": "⟨na⟩ terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:53:23.271304361Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

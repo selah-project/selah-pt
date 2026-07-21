@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "genesis 18:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 18,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:57:37.366989731Z",
+  "translation": "E Avraham se aproximou e disse: ⟨o⟩ Senhor ⟨irias⟩ destruir ⟨o⟩ justo ⟨com⟩ ⟨o⟩ perverso?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "E Abraão se aproximou"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "האף",
+      "gloss": "⟨o⟩ Senhor ⟨irias⟩"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "destruir"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨o⟩ justo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨o⟩ perverso"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Abraão",
@@ -13,56 +52,6 @@
       "hebrew": "אברהם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21322,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21948
-  },
-  "translation": "E Avraham se aproximou e disse: ⟨o⟩ Senhor ⟨irias⟩ destruir ⟨o⟩ justo ⟨com⟩ ⟨o⟩ perverso?",
-  "tokens": [
-    {
-      "surface": "ויגש",
-      "english": "E Abraão se aproximou"
-    },
-    {
-      "surface": "אברהם",
-      "english": "Avraham"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "האף",
-      "english": "⟨o⟩ Senhor ⟨irias⟩"
-    },
-    {
-      "surface": "תספה",
-      "english": "destruir"
-    },
-    {
-      "surface": "צדיק",
-      "english": "⟨o⟩ justo"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "רשע",
-      "english": "⟨o⟩ perverso"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:57:37.366989731Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

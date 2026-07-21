@@ -1,44 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 106:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 712,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62784,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63496
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:50:27.754403627Z",
   "translation": "E ⟨eram⟩ desdenosos na terra desejável, não ⟨estavam⟩ créditos ⟨em⟩ ⟨o⟩ ⟨p⟩alavra ⟨de⟩ ⟨ele⟩",
   "tokens": [
     {
       "surface": "וימאסו",
-      "english": "E ⟨eram⟩ desdenosos",
+      "gloss": "E ⟨eram⟩ desdenosos",
       "notes": []
     },
     {
       "surface": "בארץ",
-      "english": "na terra",
+      "gloss": "na terra",
       "notes": []
     },
     {
       "surface": "חמדה",
-      "english": "desejável",
+      "gloss": "desejável",
       "notes": []
     },
     {
       "surface": "לא",
-      "english": "não ⟨estavam⟩",
+      "gloss": "não ⟨estavam⟩",
       "notes": [
         {
           "kind": "addition",
@@ -49,7 +37,7 @@
     },
     {
       "surface": "האמינו",
-      "english": "créditos ⟨em⟩",
+      "gloss": "créditos ⟨em⟩",
       "notes": [
         {
           "kind": "addition",
@@ -60,7 +48,7 @@
     },
     {
       "surface": "לדברו",
-      "english": "⟨o⟩ ⟨p⟩alavra ⟨de⟩ ⟨ele⟩",
+      "gloss": "⟨o⟩ ⟨p⟩alavra ⟨de⟩ ⟨ele⟩",
       "notes": [
         {
           "kind": "addition",
@@ -80,7 +68,8 @@
       ]
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:50:27.754403627Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

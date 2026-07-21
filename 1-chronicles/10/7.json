@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-chronicles 10:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 10,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:43:47.233450044Z",
+  "translation": "E viram todos ⟨os⟩ homens de Yisrael que ⟨estavam⟩ no vale, porque fugiram e porque morreram Shaul e seus filhos, e abandonaram suas cidades e fugiram; e vieram ⟨os⟩ pelishtim e habitaram neles.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "E viram"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨os⟩ homens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "⟨estavam⟩ no vale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "fugiram"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e porque"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "morreram"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e seus filhos"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "e abandonaram"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "suas cidades"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "e fugiram"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e vieram"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨os⟩ pelishtim"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e habitaram"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "neles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,100 +96,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58198,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58761
-  },
-  "translation": "E viram todos ⟨os⟩ homens de Yisrael que ⟨estavam⟩ no vale, porque fugiram e porque morreram Shaul e seus filhos, e abandonaram suas cidades e fugiram; e vieram ⟨os⟩ pelishtim e habitaram neles.",
-  "tokens": [
-    {
-      "surface": "ויראו",
-      "english": "E viram"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨os⟩ homens"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בעמק",
-      "english": "⟨estavam⟩ no vale"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "נסו",
-      "english": "fugiram"
-    },
-    {
-      "surface": "וכי",
-      "english": "e porque"
-    },
-    {
-      "surface": "מתו",
-      "english": "morreram"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "ובניו",
-      "english": "e seus filhos"
-    },
-    {
-      "surface": "ויעזבו",
-      "english": "e abandonaram"
-    },
-    {
-      "surface": "עריהם",
-      "english": "suas cidades"
-    },
-    {
-      "surface": "וינסו",
-      "english": "e fugiram"
-    },
-    {
-      "surface": "ויבאו",
-      "english": "e vieram"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨os⟩ pelishtim"
-    },
-    {
-      "surface": "וישבו",
-      "english": "e habitaram"
-    },
-    {
-      "surface": "בהם",
-      "english": "neles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:43:47.233450044Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

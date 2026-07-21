@@ -1,9 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 16:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 16,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:58:42.199491931Z",
+  "translation": "E ⟨toda⟩ a congregação dos filhos de Yisrael murmurou ⟨contra⟩ Moshé e ⟨contra⟩ Aharon ⟨no⟩ deserto",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "E"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨toda⟩"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "a congregação"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨contra⟩",
+      "marks": "Moshê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e ⟨contra⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨no⟩ deserto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,66 +69,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17088,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17427
-  },
-  "translation": "E ⟨toda⟩ a congregação dos filhos de Yisrael murmurou ⟨contra⟩ Moshé e ⟨contra⟩ Aharon ⟨no⟩ deserto",
-  "tokens": [
-    {
-      "surface": "וילינו",
-      "english": "E"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨toda⟩"
-    },
-    {
-      "surface": "עדת",
-      "english": "a congregação"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "על",
-      "english": "⟨contra⟩",
-      "marks": "Moshê"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ועל",
-      "english": "e ⟨contra⟩",
-      "marks": "Aharon"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharon"
-    },
-    {
-      "surface": "במדבר",
-      "english": "⟨no⟩ deserto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:58:42.199491931Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

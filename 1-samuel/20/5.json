@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-samuel 20:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:32:44.815571435Z",
+  "translation": "E David disse a Yehonatan: Eis que ⟨é⟩ amanhã o novo mês e eu ⟨deveria⟩ sentar para comer ⟨com⟩ o rei, mas envia-me para que eu me esconda no campo até ⟨o⟩ terceiro anoitecer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novo mês"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "amanhã"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e eu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sentar"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "sentar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "para comer"
+    },
+    {
+      "surface": "ושלחתני",
+      "gloss": "e envia-me"
+    },
+    {
+      "surface": "ונסתרתי",
+      "gloss": "e esconda-me"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "no campo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨o⟩ anoitecer"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "terceiro"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,100 +96,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17514,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18074
-  },
-  "translation": "E David disse a Yehonatan: Eis que ⟨é⟩ amanhã o novo mês e eu ⟨deveria⟩ sentar para comer ⟨com⟩ o rei, mas envia-me para que eu me esconda no campo até ⟨o⟩ terceiro anoitecer.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Yehonatan"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis que"
-    },
-    {
-      "surface": "חדש",
-      "english": "novo mês"
-    },
-    {
-      "surface": "מחר",
-      "english": "amanhã"
-    },
-    {
-      "surface": "ואנכי",
-      "english": "e eu"
-    },
-    {
-      "surface": "ישב",
-      "english": "sentar"
-    },
-    {
-      "surface": "אשב",
-      "english": "sentar"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "לאכול",
-      "english": "para comer"
-    },
-    {
-      "surface": "ושלחתני",
-      "english": "e envia-me"
-    },
-    {
-      "surface": "ונסתרתי",
-      "english": "e esconda-me"
-    },
-    {
-      "surface": "בשדה",
-      "english": "no campo"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "הערב",
-      "english": "⟨o⟩ anoitecer"
-    },
-    {
-      "surface": "השלשית",
-      "english": "terceiro"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:32:44.815571435Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

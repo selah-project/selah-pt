@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 6:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 225,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56916,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 57141
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:37:30.248429596Z",
   "translation": "E ⟨são⟩ estes os nomes dos filhos de Gershón: Libni e Shimei.",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "E ⟨são⟩ estes"
+      "gloss": "E ⟨são⟩ estes"
     },
     {
       "surface": "שמות",
-      "english": "os nomes"
+      "gloss": "os nomes"
     },
     {
       "surface": "בני",
-      "english": "dos filhos"
+      "gloss": "dos filhos"
     },
     {
       "surface": "גרשום",
-      "english": "de Gershón"
+      "gloss": "de Gershón"
     },
     {
       "surface": "לבני",
-      "english": "Libni"
+      "gloss": "Libni"
     },
     {
       "surface": "ושמעי",
-      "english": "e Shimei"
+      "gloss": "e Shimei"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:37:30.248429596Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

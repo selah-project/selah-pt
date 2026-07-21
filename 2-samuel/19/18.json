@@ -1,9 +1,89 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "2-samuel 19:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 19,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:01:47.860877503Z",
+  "translation": "E um milhar de homens com ⟨ele⟩ de Benjamim e Ziba o criado da casa de Shaul e quinze de seus filhos e vinte de seus servos ⟨com⟩ ele e cruzaram o Jordão diante do rei",
+  "tokens": [
+    {
+      "surface": "ואלף",
+      "gloss": "E um milhar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de homens"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "com ⟨ele⟩"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "de Benjamim"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "e Ziba"
+    },
+    {
+      "surface": "נער",
+      "gloss": "o criado"
+    },
+    {
+      "surface": "בית",
+      "gloss": "da casa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaul"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "e quinze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seus filhos"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e vinte"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "de seus servos"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨com⟩ ele",
+      "marks": "o grupo inteiro incluindo Ziba e seus acompanhantes"
+    },
+    {
+      "surface": "וצלחו",
+      "gloss": "e cruzaram"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "o Jordão"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "do rei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -13,97 +93,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 715,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18256,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18971
-  },
-  "translation": "E um milhar de homens com ⟨ele⟩ de Benjamim e Ziba o criado da casa de Shaul e quinze de seus filhos e vinte de seus servos ⟨com⟩ ele e cruzaram o Jordão diante do rei",
-  "tokens": [
-    {
-      "surface": "ואלף",
-      "english": "E um milhar"
-    },
-    {
-      "surface": "איש",
-      "english": "de homens"
-    },
-    {
-      "surface": "עמו",
-      "english": "com ⟨ele⟩"
-    },
-    {
-      "surface": "מבנימן",
-      "english": "de Benjamim"
-    },
-    {
-      "surface": "וציבא",
-      "english": "e Ziba"
-    },
-    {
-      "surface": "נער",
-      "english": "o criado"
-    },
-    {
-      "surface": "בית",
-      "english": "da casa"
-    },
-    {
-      "surface": "שאול",
-      "english": "de Shaul"
-    },
-    {
-      "surface": "וחמשת",
-      "english": "e quinze"
-    },
-    {
-      "surface": "עשר",
-      "english": "de"
-    },
-    {
-      "surface": "בניו",
-      "english": "seus filhos"
-    },
-    {
-      "surface": "ועשרים",
-      "english": "e vinte"
-    },
-    {
-      "surface": "עבדיו",
-      "english": "de seus servos"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨com⟩ ele",
-      "marks": "o grupo inteiro incluindo Ziba e seus acompanhantes"
-    },
-    {
-      "surface": "וצלחו",
-      "english": "e cruzaram"
-    },
-    {
-      "surface": "הירדן",
-      "english": "o Jordão"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante"
-    },
-    {
-      "surface": "המלך",
-      "english": "do rei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:01:47.860877503Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

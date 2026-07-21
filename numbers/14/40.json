@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "numbers 14:40",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 14,
+  "verse": 40,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:24:59.146438091Z",
+  "translation": "E eles se levantaram cedo ⟨pela⟩ manhã e subiram ao topo da montanha, dizendo: 'Eis-nos aqui, e subiremos ao lugar que YHWH prometeu, porque pecamos.'",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "E eles se levantaram"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "cedo ⟨pela⟩ manhã"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "e subiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "topo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "da montanha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "'Eis-nos aqui"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "e subiremos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "prometeu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "pecamos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "o SENHOR",
@@ -13,88 +84,6 @@
       "hebrew": "יהוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 612,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18795,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19407
-  },
-  "translation": "E eles se levantaram cedo ⟨pela⟩ manhã e subiram ao topo da montanha, dizendo: 'Eis-nos aqui, e subiremos ao lugar que YHWH prometeu, porque pecamos.'",
-  "tokens": [
-    {
-      "surface": "וישכמו",
-      "english": "E eles se levantaram"
-    },
-    {
-      "surface": "בבקר",
-      "english": "cedo ⟨pela⟩ manhã"
-    },
-    {
-      "surface": "ויעלו",
-      "english": "e subiram"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "ראש",
-      "english": "topo"
-    },
-    {
-      "surface": "ההר",
-      "english": "da montanha"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "הננו",
-      "english": "'Eis-nos aqui"
-    },
-    {
-      "surface": "ועלינו",
-      "english": "e subiremos"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "המקום",
-      "english": "lugar"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "אמר",
-      "english": "prometeu"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "חטאנו",
-      "english": "pecamos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:24:59.146438091Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

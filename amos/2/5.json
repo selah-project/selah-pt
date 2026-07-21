@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "amos 2:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 2,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:05:59.834477551Z",
+  "translation": "E eu enviarei ⟨um⟩ fogo sobre Judá e ⟨ele⟩ consumirá ⟨as⟩ cidadelas de Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "E eu enviarei"
+    },
+    {
+      "surface": "אש",
+      "gloss": "⟨um⟩ fogo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sobre Judá"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "e ⟨ele⟩ consumirá"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "⟨as⟩ cidadelas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,48 +44,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16364,
-    "prompt_tokens_details": {
-      "cached_tokens": 15413
-    },
-    "total_tokens": 16666
-  },
-  "translation": "E eu enviarei ⟨um⟩ fogo sobre Judá e ⟨ele⟩ consumirá ⟨as⟩ cidadelas de Yerushalayim.",
-  "tokens": [
-    {
-      "surface": "ושלחתי",
-      "english": "E eu enviarei"
-    },
-    {
-      "surface": "אש",
-      "english": "⟨um⟩ fogo"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "sobre Judá"
-    },
-    {
-      "surface": "ואכלה",
-      "english": "e ⟨ele⟩ consumirá"
-    },
-    {
-      "surface": "ארמנות",
-      "english": "⟨as⟩ cidadelas"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:05:59.834477551Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

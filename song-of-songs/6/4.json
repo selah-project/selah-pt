@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "song-of-songs 6:4",
   "book": "song-of-songs",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 525,
-    "prompt_tokens": 28085,
-    "prompt_tokens_details": {
-      "cached_tokens": 26752
-    },
-    "total_tokens": 28610
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:55:45.731952808Z",
   "translation": "⟨You are⟩ beautiful, ⟨את⟩ my friend, as Tirzah, comely as Yerushalayim, awe-inspiring as bannered hosts.",
   "tokens": [
     {
       "surface": "יפה",
-      "english": "beautiful"
+      "gloss": "beautiful"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "my friend"
     },
     {
       "surface": "רעיתי",
-      "english": "my friend"
+      "gloss": "my friend"
     },
     {
       "surface": "כתרצה",
-      "english": "as Tirzah"
+      "gloss": "as Tirzah"
     },
     {
       "surface": "נאוה",
-      "english": "comely"
+      "gloss": "comely"
     },
     {
       "surface": "כירושלם",
-      "english": "as Yerushalayim"
+      "gloss": "as Yerushalayim"
     },
     {
       "surface": "אימה",
-      "english": "awe-inspiring"
+      "gloss": "awe-inspiring"
     },
     {
       "surface": "כנדגלות",
-      "english": "as bannered hosts"
+      "gloss": "as bannered hosts"
     }
-  ],
-  "timestamp": "2026-07-16T17:55:45.731952808Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 115:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 229,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70103,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70332
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:54:23.284035991Z",
   "translation": "E nosso Elohim ⟨está⟩ nos céus; tudo o que Lhe agrada, Ele fez.",
   "tokens": [
     {
       "surface": "ואלהינו",
-      "english": "E nosso Elohim"
+      "gloss": "E nosso Elohim"
     },
     {
       "surface": "בשמים",
-      "english": "nos céus"
+      "gloss": "nos céus"
     },
     {
       "surface": "כל",
-      "english": "tudo o que"
+      "gloss": "tudo o que"
     },
     {
       "surface": "אשר",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "חפץ",
-      "english": "Lhe agrada"
+      "gloss": "Lhe agrada"
     },
     {
       "surface": "עשה",
-      "english": "Ele fez"
+      "gloss": "Ele fez"
     }
-  ],
-  "timestamp": "2026-06-14T04:54:23.284035991Z",
-  "model": "glm-4.5"
+  ]
 }

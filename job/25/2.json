@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 25:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 25,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:02:32.942795001Z",
+  "translation": "Domínio e pavor ⟨estão⟩ ⟨com⟩ ⟨ele⟩, fazendo Shalom ⟨em⟩ ⟨suas⟩ alturas.",
+  "tokens": [
+    {
+      "surface": "המשל",
+      "gloss": "Domínio"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "e pavor"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨com⟩ ⟨ele⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fazendo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "במרומיו",
+      "gloss": "⟨em⟩ ⟨suas⟩ alturas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,48 +44,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 282,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19931,
-    "prompt_tokens_details": {
-      "cached_tokens": 19084
-    },
-    "total_tokens": 20213
-  },
-  "translation": "Domínio e pavor ⟨estão⟩ ⟨com⟩ ⟨ele⟩, fazendo Shalom ⟨em⟩ ⟨suas⟩ alturas.",
-  "tokens": [
-    {
-      "surface": "המשל",
-      "english": "Domínio"
-    },
-    {
-      "surface": "ופחד",
-      "english": "e pavor"
-    },
-    {
-      "surface": "עמו",
-      "english": "⟨com⟩ ⟨ele⟩"
-    },
-    {
-      "surface": "עשה",
-      "english": "fazendo"
-    },
-    {
-      "surface": "שלום",
-      "english": "Shalom"
-    },
-    {
-      "surface": "במרומיו",
-      "english": "⟨em⟩ ⟨suas⟩ alturas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:02:32.942795001Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

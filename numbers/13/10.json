@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 13:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 13,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:22:43.478375659Z",
+  "translation": "⟨Para⟩ ⟨a tribo de⟩ Zevulun, Gadiel ⟨o⟩ filho de Sodi.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "⟨Para⟩ ⟨a tribo de⟩"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "Gadiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "Sodi"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zebulom",
@@ -13,44 +40,6 @@
       "hebrew": "זבולן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 243,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17743,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 17986
-  },
-  "translation": "⟨Para⟩ ⟨a tribo de⟩ Zevulun, Gadiel ⟨o⟩ filho de Sodi.",
-  "tokens": [
-    {
-      "surface": "למטה",
-      "english": "⟨Para⟩ ⟨a tribo de⟩"
-    },
-    {
-      "surface": "זבולן",
-      "english": "Zevulun"
-    },
-    {
-      "surface": "גדיאל",
-      "english": "Gadiel"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "סודי",
-      "english": "Sodi"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:22:43.478375659Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 24:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 24,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:11:33.640695132Z",
+  "translation": "E a Moshé Ele disse: 'Sobe ⟨ao⟩ YHWH, tu e Aharon, Nadav e Avihu e setenta dos anciãos de Yisrael; e prosternar-vos-eis de longe.'",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "E a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Ele disse"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Sobe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "e Avihu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "e setenta"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "dos anciãos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "e prosternar-vos-eis"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "de longe"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moisés",
@@ -20,84 +87,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17547,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18036
-  },
-  "translation": "E a Moshé Ele disse: 'Sobe ⟨ao⟩ YHWH, tu e Aharon, Nadav e Avihu e setenta dos anciãos de Yisrael; e prosternar-vos-eis de longe.'",
-  "tokens": [
-    {
-      "surface": "ואל",
-      "english": "E a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אמר",
-      "english": "Ele disse"
-    },
-    {
-      "surface": "עלה",
-      "english": "Sobe"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אתה",
-      "english": "tu"
-    },
-    {
-      "surface": "ואהרן",
-      "english": "e Aharon"
-    },
-    {
-      "surface": "נדב",
-      "english": "Nadav"
-    },
-    {
-      "surface": "ואביהוא",
-      "english": "e Avihu"
-    },
-    {
-      "surface": "ושבעים",
-      "english": "e setenta"
-    },
-    {
-      "surface": "מזקני",
-      "english": "dos anciãos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "והשתחויתם",
-      "english": "e prosternar-vos-eis"
-    },
-    {
-      "surface": "מרחק",
-      "english": "de longe"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:11:33.640695132Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

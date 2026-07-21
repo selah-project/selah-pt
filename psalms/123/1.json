@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 123:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 123,
-  "usage": {
-    "completion_tokens": 410,
-    "prompt_tokens": 70500,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70910
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:54.623139946Z",
   "translation": "Cântico dos graus. A ti levantei ⟨as⟩ minhas ⟨את⟩⟨eyes⟩, ó tu que habitas nos céus.",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Cântico"
+      "gloss": "Cântico"
     },
     {
       "surface": "המעלות",
-      "english": "dos graus"
+      "gloss": "dos graus"
     },
     {
       "surface": "אליך",
-      "english": "A ti"
+      "gloss": "A ti"
     },
     {
       "surface": "נשאתי",
-      "english": "levantei"
+      "gloss": "levantei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "minhas eyes"
     },
     {
       "surface": "עיני",
-      "english": "⟨eyes⟩"
+      "gloss": "⟨eyes⟩"
     },
     {
       "surface": "הישבי",
-      "english": "ó tu que habitas"
+      "gloss": "ó tu que habitas"
     },
     {
       "surface": "בשמים",
-      "english": "nos céus"
+      "gloss": "nos céus"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:54.623139946Z",
-  "model": "glm-4.5"
+  ]
 }

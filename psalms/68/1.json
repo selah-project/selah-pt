@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 68:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 211,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62652,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 62863
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:22:30.898912789Z",
   "translation": "Ao regente ⟨para⟩ Daúde ⟨um⟩ canto ⟨um⟩ cântico",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Ao regente"
+      "gloss": "Ao regente"
     },
     {
       "surface": "לדוד",
-      "english": "⟨para⟩ Daúde",
+      "gloss": "⟨para⟩ Daúde",
       "marks": "Daúde"
     },
     {
       "surface": "מזמור",
-      "english": "⟨um⟩ canto"
+      "gloss": "⟨um⟩ canto"
     },
     {
       "surface": "שיר",
-      "english": "⟨um⟩ cântico"
+      "gloss": "⟨um⟩ cântico"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:22:30.898912789Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

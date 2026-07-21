@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 44,
   "ref": "numbers 1:44",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 1,
+  "verse": 44,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:08:35.907388396Z",
+  "translation": "Estes ⟨são⟩ os ⟨que foram⟩ recenseados ⟨que⟩ Moshé e Aharon e ⟨os⟩ príncipes de Yisrael recensearam: doze homens, homem um para casa de seus pais, eles estavam.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Estes"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "⟨que foram⟩ recenseados"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "recensearam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "e ⟨os⟩ príncipes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "doze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "homens"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "um"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "para casa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "de seus pais"
+    },
+    {
+      "surface": "היו",
+      "gloss": "eles estavam"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moisés",
@@ -20,88 +91,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18765,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19311
-  },
-  "translation": "Estes ⟨são⟩ os ⟨que foram⟩ recenseados ⟨que⟩ Moshé e Aharon e ⟨os⟩ príncipes de Yisrael recensearam: doze homens, homem um para casa de seus pais, eles estavam.",
-  "tokens": [
-    {
-      "surface": "אלה",
-      "english": "Estes"
-    },
-    {
-      "surface": "הפקדים",
-      "english": "⟨que foram⟩ recenseados"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "פקד",
-      "english": "recensearam"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ואהרן",
-      "english": "e Aharon"
-    },
-    {
-      "surface": "ונשיאי",
-      "english": "e ⟨os⟩ príncipes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "שנים",
-      "english": "doze"
-    },
-    {
-      "surface": "עשר",
-      "english": "homens"
-    },
-    {
-      "surface": "איש",
-      "english": "homem"
-    },
-    {
-      "surface": "איש",
-      "english": "homem"
-    },
-    {
-      "surface": "אחד",
-      "english": "um"
-    },
-    {
-      "surface": "לבית",
-      "english": "para casa"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "de seus pais"
-    },
-    {
-      "surface": "היו",
-      "english": "eles estavam"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:08:35.907388396Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

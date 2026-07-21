@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 40:8",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 561,
-    "prompt_tokens": 26520,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 27081
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:16:39.554226277Z",
   "translation": "O capim se seca, a flor cai, mas a palavra de Eloheinu se levanta para ⟨o⟩ ⟨olam⟩",
   "tokens": [
     {
       "surface": "יבש",
-      "english": "se seca"
+      "gloss": "se seca"
     },
     {
       "surface": "חציר",
-      "english": "o capim"
+      "gloss": "o capim"
     },
     {
       "surface": "נבל",
-      "english": "cai"
+      "gloss": "cai"
     },
     {
       "surface": "ציץ",
-      "english": "a flor"
+      "gloss": "a flor"
     },
     {
       "surface": "ודבר",
-      "english": "mas a palavra"
+      "gloss": "mas a palavra"
     },
     {
       "surface": "אלהינו",
-      "english": "de Eloheinu"
+      "gloss": "de Eloheinu"
     },
     {
       "surface": "יקום",
-      "english": "se levanta"
+      "gloss": "se levanta"
     },
     {
       "surface": "לעולם",
-      "english": "para ⟨o⟩ ⟨olam⟩"
+      "gloss": "para ⟨o⟩ ⟨olam⟩"
     }
-  ],
-  "timestamp": "2026-07-16T15:16:39.554226277Z",
-  "model": "glm-4.5"
+  ]
 }

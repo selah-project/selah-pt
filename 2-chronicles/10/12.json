@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-chronicles 10:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 10,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:17:27.667203116Z",
+  "translation": "E Yarovam e todo ⟨o⟩ povo vieram a Rejavam no terceiro dia, conforme ⟨o⟩ rei havia dito, dizendo: 'Voltai a mim no terceiro dia.'",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E vieram"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨o⟩ povo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "no dia"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "terceiro"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "conforme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨o⟩ rei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "havia dito"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "'Voltai'"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "no dia"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "terceiro"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeroboão",
@@ -20,88 +91,6 @@
       "hebrew": "רחבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 588,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58728,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59316
-  },
-  "translation": "E Yarovam e todo ⟨o⟩ povo vieram a Rejavam no terceiro dia, conforme ⟨o⟩ rei havia dito, dizendo: 'Voltai a mim no terceiro dia.'",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E vieram"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Yarovam"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨o⟩ povo"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "ביום",
-      "english": "no dia"
-    },
-    {
-      "surface": "השלשי",
-      "english": "terceiro"
-    },
-    {
-      "surface": "כאשר",
-      "english": "conforme"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨o⟩ rei"
-    },
-    {
-      "surface": "המלך",
-      "english": "havia dito"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "שובו",
-      "english": "'Voltai'"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mim"
-    },
-    {
-      "surface": "ביום",
-      "english": "no dia"
-    },
-    {
-      "surface": "השלשי",
-      "english": "terceiro"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:17:27.667203116Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

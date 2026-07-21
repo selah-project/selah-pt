@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-samuel 11:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 11,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:52:07.529030359Z",
+  "translation": "E Davidd enviou e perguntou ⟨por⟩ ⟨a⟩ mulher. E ⟨se⟩ disse: Não ⟨é⟩ esta Bat-Sheva, filha de Eliam, mulher de Uriyá ⟨o⟩ hitita?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E David enviou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "e perguntou ⟨por⟩"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨a⟩ mulher"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E ⟨se⟩ disse"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Não ⟨é⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "esta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-Sheva, filha"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Seba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "filha"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "de Eliam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mulher"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "de Uriyá"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "⟨o⟩ hitita"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,80 +90,6 @@
       "hebrew": "אוריה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17729,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18219
-  },
-  "translation": "E Davidd enviou e perguntou ⟨por⟩ ⟨a⟩ mulher. E ⟨se⟩ disse: Não ⟨é⟩ esta Bat-Sheva, filha de Eliam, mulher de Uriyá ⟨o⟩ hitita?",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "E David enviou"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "וידרש",
-      "english": "e perguntou ⟨por⟩"
-    },
-    {
-      "surface": "לאשה",
-      "english": "⟨a⟩ mulher"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E ⟨se⟩ disse"
-    },
-    {
-      "surface": "הלוא",
-      "english": "Não ⟨é⟩"
-    },
-    {
-      "surface": "זאת",
-      "english": "esta"
-    },
-    {
-      "surface": "בת",
-      "english": "Bat-Sheva, filha"
-    },
-    {
-      "surface": "שבע",
-      "english": "Seba"
-    },
-    {
-      "surface": "בת",
-      "english": "filha"
-    },
-    {
-      "surface": "אליעם",
-      "english": "de Eliam"
-    },
-    {
-      "surface": "אשת",
-      "english": "mulher"
-    },
-    {
-      "surface": "אוריה",
-      "english": "de Uriyá"
-    },
-    {
-      "surface": "החתי",
-      "english": "⟨o⟩ hitita"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:52:07.529030359Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

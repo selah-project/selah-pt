@@ -1,78 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "amos 8:12",
   "book": "amos",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 670,
-    "prompt_tokens": 24595,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 25265
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:02:45.360027653Z",
   "translation": "E eles vaguearão ⟨do⟩ mar ⟨até o⟩ mar, e ⟨do⟩ norte ⟨até o⟩ oriente correrão ⟨para lá e para cá⟩ buscando ⟨את⟩ a palavra de YHWH, e não a acharão.",
   "tokens": [
     {
       "surface": "ונעו",
-      "english": "E eles vaguearão"
+      "gloss": "E eles vaguearão"
     },
     {
       "surface": "מים",
-      "english": "⟨do⟩ mar"
+      "gloss": "⟨do⟩ mar"
     },
     {
       "surface": "עד",
-      "english": "⟨até o⟩"
+      "gloss": "⟨até o⟩"
     },
     {
       "surface": "ים",
-      "english": "mar"
+      "gloss": "mar"
     },
     {
       "surface": "ומצפון",
-      "english": ", e ⟨do⟩ norte"
+      "gloss": ", e ⟨do⟩ norte"
     },
     {
       "surface": "ועד",
-      "english": "⟨até o⟩"
+      "gloss": "⟨até o⟩"
     },
     {
       "surface": "מזרח",
-      "english": "oriente"
+      "gloss": "oriente"
     },
     {
       "surface": "ישוטטו",
-      "english": "correrão ⟨para lá e para cá⟩"
+      "gloss": "correrão ⟨para lá e para cá⟩"
     },
     {
       "surface": "לבקש",
-      "english": "buscando"
+      "gloss": "buscando"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a palavra de YHWH"
     },
     {
       "surface": "דבר",
-      "english": "a palavra"
+      "gloss": "a palavra"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ולא",
-      "english": ", e não"
+      "gloss": ", e não"
     },
     {
       "surface": "ימצאו",
-      "english": "a acharão"
+      "gloss": "a acharão"
     }
-  ],
-  "timestamp": "2026-07-16T13:02:45.360027653Z",
-  "model": "glm-4.5"
+  ]
 }

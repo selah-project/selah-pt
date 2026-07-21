@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 82:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 82,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62775,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63093
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:34:42.350118707Z",
   "translation": "Julgai ⟨o⟩ fraco e ⟨o⟩ órfão; ⟨a⟩ oprimido e ⟨o⟩ pobre tornai justo.",
   "tokens": [
     {
       "surface": "שפטו",
-      "english": "Julgai"
+      "gloss": "Julgai"
     },
     {
       "surface": "דל",
-      "english": "⟨o⟩ fraco"
+      "gloss": "⟨o⟩ fraco"
     },
     {
       "surface": "ויתום",
-      "english": "e ⟨o⟩ órfão"
+      "gloss": "e ⟨o⟩ órfão"
     },
     {
       "surface": "עני",
-      "english": "⟨a⟩ oprimido"
+      "gloss": "⟨a⟩ oprimido"
     },
     {
       "surface": "ורש",
-      "english": "e ⟨o⟩ pobre"
+      "gloss": "e ⟨o⟩ pobre"
     },
     {
       "surface": "הצדיקו",
-      "english": "tornai justo"
+      "gloss": "tornai justo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:34:42.350118707Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

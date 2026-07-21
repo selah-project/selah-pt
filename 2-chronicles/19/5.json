@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-chronicles 19:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 19,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:26:10.910161936Z",
+  "translation": "E ele estabeleceu juízes na terra, em todas ⟨as⟩ cidades fortificadas de Yehudá, cidade por cidade.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "E ele estabeleceu"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "juízes"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "em todas"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cidades"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "fortificadas"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "cidade por"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "cidade"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,60 +56,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58164,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58469
-  },
-  "translation": "E ele estabeleceu juízes na terra, em todas ⟨as⟩ cidades fortificadas de Yehudá, cidade por cidade.",
-  "tokens": [
-    {
-      "surface": "ויעמד",
-      "english": "E ele estabeleceu"
-    },
-    {
-      "surface": "שפטים",
-      "english": "juízes"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra"
-    },
-    {
-      "surface": "בכל",
-      "english": "em todas"
-    },
-    {
-      "surface": "ערי",
-      "english": "cidades"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "הבצרות",
-      "english": "fortificadas"
-    },
-    {
-      "surface": "לעיר",
-      "english": "cidade por"
-    },
-    {
-      "surface": "ועיר",
-      "english": "cidade"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:26:10.910161936Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

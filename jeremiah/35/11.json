@@ -1,9 +1,99 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "jeremiah 35:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 35,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:39:54.774523823Z",
+  "translation": "E aconteceu quando Nevujadnetzar, rei ⟨de⟩ Bavel, subiu ⟨à⟩ terra, e dissemos: 'Vinde, e vamos ⟨para⟩ Yerushalayim, por causa ⟨do⟩ exército ⟨dos⟩ caldeus, e por causa ⟨do⟩ exército ⟨de⟩ Arã; e habitamos em Yerushalayim.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "quando"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevujadnetzar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "⟨de⟩ Bavel",
+      "marks": "Babel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩",
+      "marks": "terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "ונאמר",
+      "gloss": "e dissemos"
+    },
+    {
+      "surface": "באו",
+      "gloss": "'Vinde"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "e vamos"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨para⟩ Yerushalayim",
+      "marks": "Jerusalém"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "por causa ⟨do⟩",
+      "marks": "exército"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "exército"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "⟨dos⟩ caldeus",
+      "marks": "caldeus"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "e por causa ⟨do⟩",
+      "marks": "exército"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "exército"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "⟨de⟩ Arã",
+      "marks": "Arã"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "e habitamos"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Jerusalém"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nabucodonosor",
@@ -27,107 +117,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 873,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18574,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 19447
-  },
-  "translation": "E aconteceu quando Nevujadnetzar, rei ⟨de⟩ Bavel, subiu ⟨à⟩ terra, e dissemos: 'Vinde, e vamos ⟨para⟩ Yerushalayim, por causa ⟨do⟩ exército ⟨dos⟩ caldeus, e por causa ⟨do⟩ exército ⟨de⟩ Arã; e habitamos em Yerushalayim.'",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "בעלות",
-      "english": "quando"
-    },
-    {
-      "surface": "נבוכדראצר",
-      "english": "Nevujadnetzar"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "⟨de⟩ Bavel",
-      "marks": "Babel"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨à⟩",
-      "marks": "terra"
-    },
-    {
-      "surface": "הארץ",
-      "english": "terra"
-    },
-    {
-      "surface": "ונאמר",
-      "english": "e dissemos"
-    },
-    {
-      "surface": "באו",
-      "english": "'Vinde"
-    },
-    {
-      "surface": "ונבוא",
-      "english": "e vamos"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨para⟩ Yerushalayim",
-      "marks": "Jerusalém"
-    },
-    {
-      "surface": "מפני",
-      "english": "por causa ⟨do⟩",
-      "marks": "exército"
-    },
-    {
-      "surface": "חיל",
-      "english": "exército"
-    },
-    {
-      "surface": "הכשדים",
-      "english": "⟨dos⟩ caldeus",
-      "marks": "caldeus"
-    },
-    {
-      "surface": "ומפני",
-      "english": "e por causa ⟨do⟩",
-      "marks": "exército"
-    },
-    {
-      "surface": "חיל",
-      "english": "exército"
-    },
-    {
-      "surface": "ארם",
-      "english": "⟨de⟩ Arã",
-      "marks": "Arã"
-    },
-    {
-      "surface": "ונשב",
-      "english": "e habitamos"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Jerusalém"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:39:54.774523823Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

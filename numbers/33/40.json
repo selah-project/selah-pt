@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "numbers 33:40",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 33,
+  "verse": 40,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:46:37.547186343Z",
+  "translation": "E ouviu ⟨o⟩ cananeu, rei de Arad, e ele ⟨estava⟩ habitando ⟨no⟩ Neguebe ⟨na⟩ terra de Kenaan, ⟨na⟩ vinda ⟨dos⟩ filhos de Yisrael",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "E ouviu"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨o⟩ cananeu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "de Arad"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e ele"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨estava⟩ habitando"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "⟨no⟩ Neguebe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Kenaan"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "⟨na⟩ vinda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Canaã",
@@ -20,72 +75,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 569,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18405,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18974
-  },
-  "translation": "E ouviu ⟨o⟩ cananeu, rei de Arad, e ele ⟨estava⟩ habitando ⟨no⟩ Neguebe ⟨na⟩ terra de Kenaan, ⟨na⟩ vinda ⟨dos⟩ filhos de Yisrael",
-  "tokens": [
-    {
-      "surface": "וישמע",
-      "english": "E ouviu"
-    },
-    {
-      "surface": "הכנעני",
-      "english": "⟨o⟩ cananeu"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ערד",
-      "english": "de Arad"
-    },
-    {
-      "surface": "והוא",
-      "english": "e ele"
-    },
-    {
-      "surface": "ישב",
-      "english": "⟨estava⟩ habitando"
-    },
-    {
-      "surface": "בנגב",
-      "english": "⟨no⟩ Neguebe"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨na⟩ terra"
-    },
-    {
-      "surface": "כנען",
-      "english": "de Kenaan"
-    },
-    {
-      "surface": "בבא",
-      "english": "⟨na⟩ vinda"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:46:37.547186343Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

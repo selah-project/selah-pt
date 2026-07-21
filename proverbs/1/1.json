@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 1:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
+  "chapter": 1,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:18:06.719059371Z",
+  "translation": "Provérbios de Shelomá, ben-Davidd, melech de Yisrael:",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Provérbios"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "melech"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,48 +51,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52673,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53085
-  },
-  "translation": "Provérbios de Shelomá, ben-Davidd, melech de Yisrael:",
-  "tokens": [
-    {
-      "surface": "משלי",
-      "english": "Provérbios"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomá"
-    },
-    {
-      "surface": "בן",
-      "english": "ben-"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מלך",
-      "english": "melech"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:18:06.719059371Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

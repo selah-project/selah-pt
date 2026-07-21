@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "exodus 29:8",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 388,
-    "prompt_tokens": 24185,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24573
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:58:02.586102977Z",
   "translation": "e ⟨את⟩ os filhos dele trarás ⟨para perto⟩ e os vestirás com túnicas",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "os filhos dele"
     },
     {
       "surface": "בניו",
-      "english": "os filhos dele"
+      "gloss": "os filhos dele"
     },
     {
       "surface": "תקריב",
-      "english": "trarás ⟨para perto⟩"
+      "gloss": "trarás ⟨para perto⟩"
     },
     {
       "surface": "והלבשתם",
-      "english": "e os vestirás"
+      "gloss": "e os vestirás"
     },
     {
       "surface": "כתנת",
-      "english": "com túnicas"
+      "gloss": "com túnicas"
     }
-  ],
-  "timestamp": "2026-07-16T13:58:02.586102977Z",
-  "model": "glm-4.5"
+  ]
 }

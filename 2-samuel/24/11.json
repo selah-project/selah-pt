@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-samuel 24:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 24,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:07:27.757603453Z",
+  "translation": "E Davidd se levantou pela manhã e a palavra de YHWH foi a Gad, o profeta, o vidente de Davidd, dizendo",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "E se levantou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pela manhã"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e a palavra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "היה",
+      "gloss": "foi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "o profeta"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "o vidente"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,72 +75,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17534,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 17941
-  },
-  "translation": "E Davidd se levantou pela manhã e a palavra de YHWH foi a Gad, o profeta, o vidente de Davidd, dizendo",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "E se levantou"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בבקר",
-      "english": "pela manhã"
-    },
-    {
-      "surface": "ודבר",
-      "english": "e a palavra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "היה",
-      "english": "foi"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "גד",
-      "english": "Gad"
-    },
-    {
-      "surface": "הנביא",
-      "english": "o profeta"
-    },
-    {
-      "surface": "חזה",
-      "english": "o vidente"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:07:27.757603453Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

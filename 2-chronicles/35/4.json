@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 35:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 35,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:51:09.862384396Z",
+  "translation": "e preparem-se ⟨pelas⟩ casas de vossos pais, segundo ⟨as⟩ vossas divisões, conforme ⟨o⟩ escrito ⟨de⟩ Davidd, rei ⟨de⟩ Yisrael, e conforme ⟨o⟩ escrito ⟨de⟩ Shlomó, seu filho.",
+  "tokens": [
+    {
+      "surface": "והכונו",
+      "gloss": "E preparem-se"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨pelas⟩ casas"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "de vossos pais"
+    },
+    {
+      "surface": "כמחלקותיכם",
+      "gloss": "segundo ⟨as⟩ vossas divisões"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "conforme ⟨o⟩ escrito"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "⟨de⟩ Davidd"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "ובמכתב",
+      "gloss": "e conforme ⟨o⟩ escrito"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "⟨de⟩ Shlomó"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,68 +78,6 @@
       "hebrew": "שלמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58510,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59073
-  },
-  "translation": "e preparem-se ⟨pelas⟩ casas de vossos pais, segundo ⟨as⟩ vossas divisões, conforme ⟨o⟩ escrito ⟨de⟩ Davidd, rei ⟨de⟩ Yisrael, e conforme ⟨o⟩ escrito ⟨de⟩ Shlomó, seu filho.",
-  "tokens": [
-    {
-      "surface": "והכונו",
-      "english": "E preparem-se"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨pelas⟩ casas"
-    },
-    {
-      "surface": "אבותיכם",
-      "english": "de vossos pais"
-    },
-    {
-      "surface": "כמחלקותיכם",
-      "english": "segundo ⟨as⟩ vossas divisões"
-    },
-    {
-      "surface": "בכתב",
-      "english": "conforme ⟨o⟩ escrito"
-    },
-    {
-      "surface": "דויד",
-      "english": "⟨de⟩ Davidd"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "ובמכתב",
-      "english": "e conforme ⟨o⟩ escrito"
-    },
-    {
-      "surface": "שלמה",
-      "english": "⟨de⟩ Shlomó"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:51:09.862384396Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

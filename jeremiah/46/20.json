@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "jeremiah 46:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 46,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:50:00.720756353Z",
+  "translation": "Uma bezerra ⟨muito⟩ bela ⟨é⟩ o Mitzráyim; ⟨o⟩ gadolho do norte vem, vem",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "Uma bezerra"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "⟨muito⟩"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bela"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨é⟩ o Mitzráyim"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "⟨o⟩ gadolho"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "do norte"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vem"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,56 +52,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17415,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 17802
-  },
-  "translation": "Uma bezerra ⟨muito⟩ bela ⟨é⟩ o Mitzráyim; ⟨o⟩ gadolho do norte vem, vem",
-  "tokens": [
-    {
-      "surface": "עגלה",
-      "english": "Uma bezerra"
-    },
-    {
-      "surface": "יפה",
-      "english": "⟨muito⟩"
-    },
-    {
-      "surface": "פיה",
-      "english": "bela"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨é⟩ o Mitzráyim"
-    },
-    {
-      "surface": "קרץ",
-      "english": "⟨o⟩ gadolho"
-    },
-    {
-      "surface": "מצפון",
-      "english": "do norte"
-    },
-    {
-      "surface": "בא",
-      "english": "vem"
-    },
-    {
-      "surface": "בא",
-      "english": "vem"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:50:00.720756353Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

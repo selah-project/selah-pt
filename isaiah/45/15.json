@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "isaiah 45:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 45,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:48:00.010457159Z",
+  "translation": "Certamente ⟨és⟩ ⟨um⟩ Elohim que ⟨se⟩ esconde, Elohim de Yisrael, ⟨o⟩ Salvador.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Certamente"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨és⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨um⟩ Elohim"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "que ⟨se⟩ esconde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "⟨o⟩ Salvador"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,52 +48,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 45,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19027,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19447
-  },
-  "translation": "Certamente ⟨és⟩ ⟨um⟩ Elohim que ⟨se⟩ esconde, Elohim de Yisrael, ⟨o⟩ Salvador.",
-  "tokens": [
-    {
-      "surface": "אכן",
-      "english": "Certamente"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨és⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨um⟩ Elohim"
-    },
-    {
-      "surface": "מסתתר",
-      "english": "que ⟨se⟩ esconde"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מושיע",
-      "english": "⟨o⟩ Salvador"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:48:00.010457159Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

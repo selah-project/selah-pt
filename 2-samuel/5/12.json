@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-samuel 5:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 5,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:47:20.611686034Z",
+  "translation": "E Dawid soube que YHWH o ⟨tinha⟩ estabelecido como rei sobre Yisrael e que ⟨tinha⟩ exaltado seu reino por causa ⟨de⟩ seu povo, Yisrael.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "E Dawid soube"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "YHWH o ⟨tinha⟩ estabelecido"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "como rei"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e que"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "⟨tinha⟩ exaltado"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "seu reino"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "por causa ⟨de⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "seu povo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,80 +83,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17821,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 18313
-  },
-  "translation": "E Dawid soube que YHWH o ⟨tinha⟩ estabelecido como rei sobre Yisrael e que ⟨tinha⟩ exaltado seu reino por causa ⟨de⟩ seu povo, Yisrael.",
-  "tokens": [
-    {
-      "surface": "וידע",
-      "english": "E Dawid soube"
-    },
-    {
-      "surface": "דוד",
-      "english": "Dawid"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "הכינו",
-      "english": "YHWH o ⟨tinha⟩ estabelecido"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "למלך",
-      "english": "como rei"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "וכי",
-      "english": "e que"
-    },
-    {
-      "surface": "נשא",
-      "english": "⟨tinha⟩ exaltado"
-    },
-    {
-      "surface": "ממלכתו",
-      "english": "seu reino"
-    },
-    {
-      "surface": "בעבור",
-      "english": "por causa ⟨de⟩"
-    },
-    {
-      "surface": "עמו",
-      "english": "seu povo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:47:20.611686034Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

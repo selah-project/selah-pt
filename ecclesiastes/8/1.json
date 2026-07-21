@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "ecclesiastes 8:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
+  "chapter": 8,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:34:02.028268039Z",
+  "translation": "Quem ⟨é⟩ como ⟨o⟩ sábio? E quem conhece ⟨a⟩ interpretação ⟨de⟩ ⟨uma⟩ coisa? ⟨A⟩ Jojmá de ⟨um⟩ homem faz ⟨o⟩ seu ⟨rosto⟩ resplandecer, e ⟨o⟩ rigor do ⟨seu⟩ rosto ⟨é⟩ mudado.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Quem"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "como ⟨o⟩ sábio"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "E quem"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "conhece"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "⟨a⟩ interpretação"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨de⟩ ⟨uma⟩ coisa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "⟨A⟩ Jojmá"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de ⟨um⟩ homem"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "faz ⟨o⟩ seu ⟨rosto⟩ resplandecer"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨o⟩ seu ⟨rosto⟩"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "e ⟨o⟩ rigor"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "do ⟨seu⟩ rosto"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "⟨é⟩ mudado"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -13,76 +72,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 775,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17880,
-    "prompt_tokens_details": {
-      "cached_tokens": 16387
-    },
-    "total_tokens": 18655
-  },
-  "translation": "Quem ⟨é⟩ como ⟨o⟩ sábio? E quem conhece ⟨a⟩ interpretação ⟨de⟩ ⟨uma⟩ coisa? ⟨A⟩ Jojmá de ⟨um⟩ homem faz ⟨o⟩ seu ⟨rosto⟩ resplandecer, e ⟨o⟩ rigor do ⟨seu⟩ rosto ⟨é⟩ mudado.",
-  "tokens": [
-    {
-      "surface": "מי",
-      "english": "Quem"
-    },
-    {
-      "surface": "כהחכם",
-      "english": "como ⟨o⟩ sábio"
-    },
-    {
-      "surface": "ומי",
-      "english": "E quem"
-    },
-    {
-      "surface": "יודע",
-      "english": "conhece"
-    },
-    {
-      "surface": "פשר",
-      "english": "⟨a⟩ interpretação"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨de⟩ ⟨uma⟩ coisa"
-    },
-    {
-      "surface": "חכמת",
-      "english": "⟨A⟩ Jojmá"
-    },
-    {
-      "surface": "אדם",
-      "english": "de ⟨um⟩ homem"
-    },
-    {
-      "surface": "תאיר",
-      "english": "faz ⟨o⟩ seu ⟨rosto⟩ resplandecer"
-    },
-    {
-      "surface": "פניו",
-      "english": "⟨o⟩ seu ⟨rosto⟩"
-    },
-    {
-      "surface": "ועז",
-      "english": "e ⟨o⟩ rigor"
-    },
-    {
-      "surface": "פניו",
-      "english": "do ⟨seu⟩ rosto"
-    },
-    {
-      "surface": "ישנא",
-      "english": "⟨é⟩ mudado"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:34:02.028268039Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

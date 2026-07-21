@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 27:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52911,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53325
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:41:59.414673197Z",
   "translation": "Uma pedra ⟨é⟩ pesada e ⟨o⟩ peso ⟨é⟩ de areia, e ⟨o⟩ furor ⟨de⟩ um tolo ⟨é⟩ mais pesado ⟨do⟩ que ⟨os⟩ dois",
   "tokens": [
     {
       "surface": "כבד",
-      "english": "Pesada",
+      "gloss": "Pesada",
       "marks": "Uma pedra"
     },
     {
       "surface": "אבן",
-      "english": "Uma pedra"
+      "gloss": "Uma pedra"
     },
     {
       "surface": "ונטל",
-      "english": "e ⟨o⟩ peso ⟨é⟩"
+      "gloss": "e ⟨o⟩ peso ⟨é⟩"
     },
     {
       "surface": "החול",
-      "english": "de areia"
+      "gloss": "de areia"
     },
     {
       "surface": "וכעס",
-      "english": "e ⟨o⟩ furor"
+      "gloss": "e ⟨o⟩ furor"
     },
     {
       "surface": "אויל",
-      "english": "⟨de⟩ um tolo"
+      "gloss": "⟨de⟩ um tolo"
     },
     {
       "surface": "כבד",
-      "english": "⟨é⟩ mais pesado",
+      "gloss": "⟨é⟩ mais pesado",
       "marks": "e ⟨o⟩ furor ⟨de⟩ um tolo"
     },
     {
       "surface": "משניהם",
-      "english": "⟨do⟩ que ⟨os⟩ dois"
+      "gloss": "⟨do⟩ que ⟨os⟩ dois"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:41:59.414673197Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

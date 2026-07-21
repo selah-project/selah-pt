@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 16:16",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 489,
-    "prompt_tokens": 29061,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29550
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:45:05.373590532Z",
   "translation": "E Avram ⟨era⟩ filho de oitenta anos e seis anos ⟨no⟩ parto de Hagar ⟨de⟩ Yishmael para Avram.",
   "tokens": [
     {
       "surface": "ואברם",
-      "english": "E Avram"
+      "gloss": "E Avram"
     },
     {
       "surface": "בן",
-      "english": "⟨era⟩ filho"
+      "gloss": "⟨era⟩ filho"
     },
     {
       "surface": "שמנים",
-      "english": "oitenta"
+      "gloss": "oitenta"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "ושש",
-      "english": "e seis"
+      "gloss": "e seis"
     },
     {
       "surface": "שנים",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "בלדת",
-      "english": "⟨no⟩ parto"
+      "gloss": "⟨no⟩ parto"
     },
     {
       "surface": "הגר",
-      "english": "de Hagar"
+      "gloss": "de Hagar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yishmael"
     },
     {
       "surface": "ישמעאל",
-      "english": "Yishmael"
+      "gloss": "Yishmael"
     },
     {
       "surface": "לאברם",
-      "english": "para Avram"
+      "gloss": "para Avram"
     }
-  ],
-  "timestamp": "2026-07-16T14:45:05.373590532Z",
-  "model": "glm-4.5"
+  ]
 }

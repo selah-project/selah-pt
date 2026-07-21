@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-samuel 26:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 26,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:38:31.974700212Z",
+  "translation": "E os zifeus vieram a Shaúl em Gibeá, dizendo: ⟨Está⟩ Davidd ⟨escondido⟩ na colina de Haachilá, diante ⟨de⟩ Jeshimom?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "E vieram"
+    },
+    {
+      "surface": "הזפים",
+      "gloss": "os zifeus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "em Gibeá"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "⟨Está⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "⟨escondido⟩"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "na colina de"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "Haachilá"
+    },
+    {
+      "surface": "על",
+      "gloss": "diante"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "Jeshimom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,80 +76,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16954,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17509
-  },
-  "translation": "E os zifeus vieram a Shaúl em Gibeá, dizendo: ⟨Está⟩ Davidd ⟨escondido⟩ na colina de Haachilá, diante ⟨de⟩ Jeshimom?",
-  "tokens": [
-    {
-      "surface": "ויבאו",
-      "english": "E vieram"
-    },
-    {
-      "surface": "הזפים",
-      "english": "os zifeus"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "הגבעתה",
-      "english": "em Gibeá"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "הלוא",
-      "english": "⟨Está⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מסתתר",
-      "english": "⟨escondido⟩"
-    },
-    {
-      "surface": "בגבעת",
-      "english": "na colina de"
-    },
-    {
-      "surface": "החכילה",
-      "english": "Haachilá"
-    },
-    {
-      "surface": "על",
-      "english": "diante"
-    },
-    {
-      "surface": "פני",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "הישימן",
-      "english": "Jeshimom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:38:31.974700212Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

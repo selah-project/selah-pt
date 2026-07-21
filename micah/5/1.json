@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "micah 5:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "micah",
+  "chapter": 5,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:17:39.043916951Z",
+  "translation": "E tu, ⟨o⟩ Bet-Lehem ⟨de⟩ Efrata, ⟨és⟩ pequena para estar ⟨entre⟩ os milhares ⟨de⟩ Yehudá, ⟨a⟩ partir de ti sairá ⟨para⟩ mim ⟨aquele que há de ser⟩ governante em Israel, e cujas origens ⟨são⟩ desde ⟨o⟩ princípio, ⟨desde⟩ os dias ⟨de⟩ eternidade.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E tu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-Lehem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨de⟩ Efrata"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "⟨és⟩ pequena"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "para estar"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "⟨entre⟩"
+    },
+    {
+      "surface": "באלפי",
+      "gloss": "os milhares"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "⟨de⟩ Yehudá"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨a⟩ partir de ti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sairá"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "⟨para⟩ mim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "⟨aquele que há de ser⟩"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "governante"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "em Israel"
+    },
+    {
+      "surface": "ומוצאתיו",
+      "gloss": "e cujas origens"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "⟨são⟩ desde ⟨o⟩ princípio"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "⟨desde⟩ os dias"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨de⟩ eternidade"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,96 +92,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 780,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16655,
-    "prompt_tokens_details": {
-      "cached_tokens": 14744
-    },
-    "total_tokens": 17435
-  },
-  "translation": "E tu, ⟨o⟩ Bet-Lehem ⟨de⟩ Efrata, ⟨és⟩ pequena para estar ⟨entre⟩ os milhares ⟨de⟩ Yehudá, ⟨a⟩ partir de ti sairá ⟨para⟩ mim ⟨aquele que há de ser⟩ governante em Israel, e cujas origens ⟨são⟩ desde ⟨o⟩ princípio, ⟨desde⟩ os dias ⟨de⟩ eternidade.",
-  "tokens": [
-    {
-      "surface": "ואתה",
-      "english": "E tu"
-    },
-    {
-      "surface": "בית",
-      "english": "Bet-Lehem"
-    },
-    {
-      "surface": "לחם",
-      "english": "⟨de⟩ Efrata"
-    },
-    {
-      "surface": "אפרתה",
-      "english": "⟨és⟩ pequena"
-    },
-    {
-      "surface": "צעיר",
-      "english": "para estar"
-    },
-    {
-      "surface": "להיות",
-      "english": "⟨entre⟩"
-    },
-    {
-      "surface": "באלפי",
-      "english": "os milhares"
-    },
-    {
-      "surface": "יהודה",
-      "english": "⟨de⟩ Yehudá"
-    },
-    {
-      "surface": "ממך",
-      "english": "⟨a⟩ partir de ti"
-    },
-    {
-      "surface": "לי",
-      "english": "sairá"
-    },
-    {
-      "surface": "יצא",
-      "english": "⟨para⟩ mim"
-    },
-    {
-      "surface": "להיות",
-      "english": "⟨aquele que há de ser⟩"
-    },
-    {
-      "surface": "מושל",
-      "english": "governante"
-    },
-    {
-      "surface": "בישראל",
-      "english": "em Israel"
-    },
-    {
-      "surface": "ומוצאתיו",
-      "english": "e cujas origens"
-    },
-    {
-      "surface": "מקדם",
-      "english": "⟨são⟩ desde ⟨o⟩ princípio"
-    },
-    {
-      "surface": "מימי",
-      "english": "⟨desde⟩ os dias"
-    },
-    {
-      "surface": "עולם",
-      "english": "⟨de⟩ eternidade"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:17:39.043916951Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

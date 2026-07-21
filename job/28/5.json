@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 28:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20117,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20592
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:03:53.010049872Z",
   "translation": "A terra, ⟨da⟩ ela ⟨sai⟩ ⟨o⟩ pão, e ⟨debaixo⟩ dela ⟨é⟩ virada como fogo",
   "tokens": [
     {
       "surface": "ארץ",
-      "english": "A terra"
+      "gloss": "A terra"
     },
     {
       "surface": "ממנה",
-      "english": "⟨da⟩ ela",
+      "gloss": "⟨da⟩ ela",
       "marks": "terra"
     },
     {
       "surface": "י�צא",
-      "english": "⟨sai⟩"
+      "gloss": "⟨sai⟩"
     },
     {
       "surface": "לחם",
-      "english": "⟨o⟩ pão"
+      "gloss": "⟨o⟩ pão"
     },
     {
       "surface": "ותחתיה",
-      "english": "e ⟨debaixo⟩ dela",
+      "gloss": "e ⟨debaixo⟩ dela",
       "marks": "terra"
     },
     {
       "surface": "נהפך",
-      "english": "⟨é⟩ virada"
+      "gloss": "⟨é⟩ virada"
     },
     {
       "surface": "כמו",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "אש",
-      "english": "fogo"
+      "gloss": "fogo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:03:53.010049872Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

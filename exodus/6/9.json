@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "exodus 6:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 6,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:40:51.455259523Z",
+  "translation": "E Moshé falou assim ⟨ao⟩ filhos de Yisrael; mas eles não ouviram ⟨a⟩ Moshé por angústia de rúaj e por trabalho duro.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E Moshe falou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "כן",
+      "gloss": "assim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mas eles não"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ouviram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "por angústia de"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúaj"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "e por trabalho"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "duro"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshe",
@@ -27,80 +90,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 598,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17402,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18000
-  },
-  "translation": "E Moshé falou assim ⟨ao⟩ filhos de Yisrael; mas eles não ouviram ⟨a⟩ Moshé por angústia de rúaj e por trabalho duro.",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E Moshe falou"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "כן",
-      "english": "assim"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ולא",
-      "english": "mas eles não"
-    },
-    {
-      "surface": "שמעו",
-      "english": "ouviram"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "מקצר",
-      "english": "por angústia de"
-    },
-    {
-      "surface": "רוח",
-      "english": "rúaj"
-    },
-    {
-      "surface": "ומעבדה",
-      "english": "e por trabalho"
-    },
-    {
-      "surface": "קשה",
-      "english": "duro"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:40:51.455259523Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

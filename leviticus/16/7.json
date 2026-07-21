@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "leviticus 16:7",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 475,
-    "prompt_tokens": 25302,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25777
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:28:16.211474403Z",
   "translation": "e tomar ⟨את⟩ os dois bodes e apresentá-los-á ⟨את⟩ diante de YHWH ⟨na⟩ entrada da Tenda da Reunião",
   "tokens": [
     {
       "surface": "ולקח",
-      "english": "e tomar"
+      "gloss": "e tomar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os dois bodes"
     },
     {
       "surface": "שני",
-      "english": "os dois"
+      "gloss": "os dois"
     },
     {
       "surface": "השעירם",
-      "english": "bodes"
+      "gloss": "bodes"
     },
     {
       "surface": "והעמיד",
-      "english": "e apresentá-los-á"
+      "gloss": "e apresentá-los-á"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "diante de YHWH"
     },
     {
       "surface": "לפני",
-      "english": "diante de"
+      "gloss": "diante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "פתח",
-      "english": "entrada"
+      "gloss": "entrada"
     },
     {
       "surface": "אהל",
-      "english": "da Tenda"
+      "gloss": "da Tenda"
     },
     {
       "surface": "מועד",
-      "english": "da Reunião"
+      "gloss": "da Reunião"
     }
-  ],
-  "timestamp": "2026-07-17T00:28:16.211474403Z",
-  "model": "glm-4.5"
+  ]
 }

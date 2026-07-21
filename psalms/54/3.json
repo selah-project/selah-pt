@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 54:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62842,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63190
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:14:50.137645693Z",
   "translation": "Elohim, ⟨pelo⟩ teu Nome, salva-me, e ⟨pela⟩ tua força, julga-me",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בשמך",
-      "english": "⟨pelo⟩ teu Nome",
+      "gloss": "⟨pelo⟩ teu Nome",
       "marks": "teu Nome"
     },
     {
       "surface": "הושיעני",
-      "english": "salva-me"
+      "gloss": "salva-me"
     },
     {
       "surface": "ובגבורתך",
-      "english": "⟨pela⟩ tua força",
+      "gloss": "⟨pela⟩ tua força",
       "marks": "tua força"
     },
     {
       "surface": "תדינני",
-      "english": "julga-me"
+      "gloss": "julga-me"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:14:50.137645693Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

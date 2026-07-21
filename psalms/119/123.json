@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 123,
   "ref": "psalms 119:123",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62709,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63059
-  },
+  "verse": 123,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:01:23.229348103Z",
   "translation": "Meus olhos ⟨estão⟩ consumidos por tua salvação, e ⟨por⟩ ⟨a⟩ palavra ⟨de⟩ tua justiça.",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "Meus olhos"
+      "gloss": "Meus olhos"
     },
     {
       "surface": "כלו",
-      "english": "⟨estão⟩ consumados",
+      "gloss": "⟨estão⟩ consumados",
       "marks": "Meus olhos"
     },
     {
       "surface": "לישועתך",
-      "english": "por tua salvação"
+      "gloss": "por tua salvação"
     },
     {
       "surface": "ולאמרת",
-      "english": "e ⟨por⟩ ⟨a⟩ palavra ⟨de⟩"
+      "gloss": "e ⟨por⟩ ⟨a⟩ palavra ⟨de⟩"
     },
     {
       "surface": "צדקך",
-      "english": "tua justiça"
+      "gloss": "tua justiça"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:01:23.229348103Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

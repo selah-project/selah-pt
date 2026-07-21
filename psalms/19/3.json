@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 19:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 19,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:51:04.861203322Z",
+  "translation": "dia ⟨para⟩ dia faz jorrar ⟨o⟩ dizer, e noite ⟨para⟩ noite ⟨esta⟩ revela Daat",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "⟨para⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "faz jorrar"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨o⟩ dizer",
+      "marks": "o"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e noite"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "⟨para⟩",
+      "marks": "noite"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "⟨esta⟩ revela",
+      "marks": "esta"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Daat"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "conhecimento",
@@ -13,60 +56,6 @@
       "hebrew": "דעת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62906,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63444
-  },
-  "translation": "dia ⟨para⟩ dia faz jorrar ⟨o⟩ dizer, e noite ⟨para⟩ noite ⟨esta⟩ revela Daat",
-  "tokens": [
-    {
-      "surface": "יום",
-      "english": "Dia"
-    },
-    {
-      "surface": "ליום",
-      "english": "⟨para⟩",
-      "marks": "dia"
-    },
-    {
-      "surface": "יביע",
-      "english": "faz jorrar"
-    },
-    {
-      "surface": "אמר",
-      "english": "⟨o⟩ dizer",
-      "marks": "o"
-    },
-    {
-      "surface": "ולילה",
-      "english": "e noite"
-    },
-    {
-      "surface": "ללילה",
-      "english": "⟨para⟩",
-      "marks": "noite"
-    },
-    {
-      "surface": "יחוה",
-      "english": "⟨esta⟩ revela",
-      "marks": "esta"
-    },
-    {
-      "surface": "דעת",
-      "english": "Daat"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:51:04.861203322Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

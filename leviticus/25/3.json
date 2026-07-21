@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "leviticus 25:3",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 503,
-    "prompt_tokens": 25315,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25818
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:50:52.843592871Z",
   "translation": "Seis anos ⟨tu⟩ semearás ⟨o⟩ teu campo, e seis anos ⟨tu⟩ podarás ⟨a⟩ tua vinha, e ⟨tu⟩ ajuntarás ⟨את⟩ ⟨o⟩ produto dela",
   "tokens": [
     {
       "surface": "שש",
-      "english": "Seis"
+      "gloss": "Seis"
     },
     {
       "surface": "שנים",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "תזרע",
-      "english": "⟨tu⟩ semearás"
+      "gloss": "⟨tu⟩ semearás"
     },
     {
       "surface": "שדך",
-      "english": "⟨o⟩ teu campo"
+      "gloss": "⟨o⟩ teu campo"
     },
     {
       "surface": "ושש",
-      "english": "e seis"
+      "gloss": "e seis"
     },
     {
       "surface": "שנים",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "תזמר",
-      "english": "⟨tu⟩ podarás"
+      "gloss": "⟨tu⟩ podarás"
     },
     {
       "surface": "כרמך",
-      "english": "⟨a⟩ tua vinha"
+      "gloss": "⟨a⟩ tua vinha"
     },
     {
       "surface": "ואספת",
-      "english": "e ⟨tu⟩ ajuntarás"
+      "gloss": "e ⟨tu⟩ ajuntarás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o produto dela"
     },
     {
       "surface": "תבואתה",
-      "english": "⟨o⟩ produto dela"
+      "gloss": "⟨o⟩ produto dela"
     }
-  ],
-  "timestamp": "2026-07-16T16:50:52.843592871Z",
-  "model": "glm-4.5"
+  ]
 }

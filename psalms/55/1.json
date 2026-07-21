@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 55:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62720,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63101
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:15:09.641427428Z",
   "translation": "Para ⟨o⟩ mestre ⟨de⟩ canto, em ⟨com⟩ instrumentos ⟨de⟩ cordas, ⟨um⟩ masquil ⟨de⟩ David",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Para ⟨o⟩ mestre ⟨de⟩ canto"
+      "gloss": "Para ⟨o⟩ mestre ⟨de⟩ canto"
     },
     {
       "surface": "בנגינת",
-      "english": "em ⟨com⟩ instrumentos ⟨de⟩ cordas"
+      "gloss": "em ⟨com⟩ instrumentos ⟨de⟩ cordas"
     },
     {
       "surface": "משכיל",
-      "english": "⟨um⟩ masquil"
+      "gloss": "⟨um⟩ masquil"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David"
+      "gloss": "⟨de⟩ David"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:15:09.641427428Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "ezra 9:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 9,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:12:11.064177420Z",
+  "translation": "Desde os dias de nossos pais fomos nós em ⟨⟩ grande culpa até o dia de hoje, e em nossas iniquidades fomos dados nós, nossos reis, nossos Kohens ⟨⟩ na mão dos reis das terras, ⟨⟩ espada, ⟨⟩ cativeiro, e ⟨⟩ saque, e ⟨⟩ vergonha de rosto, como ⟨⟩ neste dia.",
+  "tokens": [
+    {
+      "surface": "מימי",
+      "gloss": "Desde os dias"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "de nossos pais"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "fomos nós"
+    },
+    {
+      "surface": "באשמה",
+      "gloss": "em ⟨⟩ grande culpa"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "היום",
+      "gloss": "o dia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "de hoje"
+    },
+    {
+      "surface": "ובעונתינו",
+      "gloss": "e em nossas iniquidades"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "fomos dados"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nós"
+    },
+    {
+      "surface": "מלכינו",
+      "gloss": "nossos reis"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "nossos Kohens"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨⟩ na mão"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dos reis"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "das terras"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "⟨⟩ espada"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "⟨⟩ cativeiro"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "e ⟨⟩ saque"
+    },
+    {
+      "surface": "ובבשת",
+      "gloss": "e ⟨⟩ vergonha"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "de rosto"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "como ⟨⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "neste dia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,116 +112,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 1049,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46507,
-    "prompt_tokens_details": {
-      "cached_tokens": 43863
-    },
-    "total_tokens": 47556
-  },
-  "translation": "Desde os dias de nossos pais fomos nós em ⟨⟩ grande culpa até o dia de hoje, e em nossas iniquidades fomos dados nós, nossos reis, nossos Kohens ⟨⟩ na mão dos reis das terras, ⟨⟩ espada, ⟨⟩ cativeiro, e ⟨⟩ saque, e ⟨⟩ vergonha de rosto, como ⟨⟩ neste dia.",
-  "tokens": [
-    {
-      "surface": "מימי",
-      "english": "Desde os dias"
-    },
-    {
-      "surface": "אבתינו",
-      "english": "de nossos pais"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "fomos nós"
-    },
-    {
-      "surface": "באשמה",
-      "english": "em ⟨⟩ grande culpa"
-    },
-    {
-      "surface": "גדלה",
-      "english": "grande"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "היום",
-      "english": "o dia"
-    },
-    {
-      "surface": "הזה",
-      "english": "de hoje"
-    },
-    {
-      "surface": "ובעונתינו",
-      "english": "e em nossas iniquidades"
-    },
-    {
-      "surface": "נתנו",
-      "english": "fomos dados"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "nós"
-    },
-    {
-      "surface": "מלכינו",
-      "english": "nossos reis"
-    },
-    {
-      "surface": "כהנינו",
-      "english": "nossos Kohens"
-    },
-    {
-      "surface": "ביד",
-      "english": "⟨⟩ na mão"
-    },
-    {
-      "surface": "מלכי",
-      "english": "dos reis"
-    },
-    {
-      "surface": "הארצות",
-      "english": "das terras"
-    },
-    {
-      "surface": "בחרב",
-      "english": "⟨⟩ espada"
-    },
-    {
-      "surface": "בשבי",
-      "english": "⟨⟩ cativeiro"
-    },
-    {
-      "surface": "ובבזה",
-      "english": "e ⟨⟩ saque"
-    },
-    {
-      "surface": "ובבשת",
-      "english": "e ⟨⟩ vergonha"
-    },
-    {
-      "surface": "פנים",
-      "english": "de rosto"
-    },
-    {
-      "surface": "כהיום",
-      "english": "como ⟨⟩"
-    },
-    {
-      "surface": "הזה",
-      "english": "neste dia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:12:11.064177420Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

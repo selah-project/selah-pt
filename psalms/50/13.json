@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 50:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62777,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63300
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:11:50.739116581Z",
   "translation": "Eu ⟨devo⟩ comer ⟨a⟩ carne de ⟨os⟩ poderosos e ⟨o⟩ sangue de ⟨os⟩ bodes preparados?",
   "tokens": [
     {
       "surface": "האוכל",
-      "english": "Eu ⟨devo⟩ comer",
+      "gloss": "Eu ⟨devo⟩ comer",
       "marks": null
     },
     {
       "surface": "בשר",
-      "english": "⟨a⟩ carne",
+      "gloss": "⟨a⟩ carne",
       "marks": null
     },
     {
       "surface": "אבירים",
-      "english": "de ⟨os⟩ poderosos",
+      "gloss": "de ⟨os⟩ poderosos",
       "marks": "carne"
     },
     {
       "surface": "ודם",
-      "english": "e ⟨o⟩ sangue",
+      "gloss": "e ⟨o⟩ sangue",
       "marks": null
     },
     {
       "surface": "עתודים",
-      "english": "de ⟨os⟩ bodes preparados",
+      "gloss": "de ⟨os⟩ bodes preparados",
       "marks": "sangue"
     },
     {
       "surface": "אשתה",
-      "english": "?",
+      "gloss": "?",
       "marks": "comer, sangue"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:11:50.739116581Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

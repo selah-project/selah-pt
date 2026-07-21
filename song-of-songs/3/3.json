@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "song-of-songs 3:3",
   "book": "song-of-songs",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 518,
-    "prompt_tokens": 28107,
-    "prompt_tokens_details": {
-      "cached_tokens": 26752
-    },
-    "total_tokens": 28625
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:55:09.689568392Z",
   "translation": "Os guardas ⟨que⟩ fazem a ronda na cidade me encontraram: Vistes ⟨את⟩ aquele ⟨a quem⟩ ama a minha nefesh?",
   "tokens": [
     {
       "surface": "מְצָא֨וּ\/נִי֙",
-      "english": "me encontraram"
+      "gloss": "me encontraram"
     },
     {
       "surface": "הַ\/שֹּׁ֣מְרִ֔ים",
-      "english": "Os guardas"
+      "gloss": "Os guardas"
     },
     {
       "surface": "הַ\/סֹּבְבִ֖ים",
-      "english": "⟨que⟩ fazem a ronda"
+      "gloss": "⟨que⟩ fazem a ronda"
     },
     {
       "surface": "בָּ\/עִ֑יר",
-      "english": "na cidade"
+      "gloss": "na cidade"
     },
     {
       "surface": "אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "aquele ⟨a quem⟩ ama a minha nefesh"
     },
     {
       "surface": "שֶׁ\/אָהֲבָ֥ה",
-      "english": "aquele ⟨a quem⟩ ama a minha nefesh"
+      "gloss": "aquele ⟨a quem⟩ ama a minha nefesh"
     },
     {
       "surface": "נַפְשִׁ֖\/י",
-      "english": "a minha nefesh"
+      "gloss": "a minha nefesh"
     },
     {
       "surface": "רְאִיתֶֽם",
-      "english": "Vistes"
+      "gloss": "Vistes"
     }
-  ],
-  "timestamp": "2026-07-16T17:55:09.689568392Z",
-  "model": "glm-4.5"
+  ]
 }

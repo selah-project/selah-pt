@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 69:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63091,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63537
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:24:01.809796841Z",
   "translation": "Tu conheces ⟨o⟩ meu opróbrio, e ⟨a⟩ minha vergonha, e ⟨o⟩ meu ultraje; meus adversários ⟨estão⟩ todos diante de ti, todos ⟨os⟩ meus opressores.",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tu"
+      "gloss": "Tu"
     },
     {
       "surface": "ידעת",
-      "english": "conheces"
+      "gloss": "conheces"
     },
     {
       "surface": "חרפתי",
-      "english": "⟨o⟩ meu opróbrio"
+      "gloss": "⟨o⟩ meu opróbrio"
     },
     {
       "surface": "ובשתי",
-      "english": "e ⟨a⟩ minha vergonha"
+      "gloss": "e ⟨a⟩ minha vergonha"
     },
     {
       "surface": "וכלמתי",
-      "english": "e ⟨o⟩ meu ultraje"
+      "gloss": "e ⟨o⟩ meu ultraje"
     },
     {
       "surface": "נגדך",
-      "english": "diante de ti"
+      "gloss": "diante de ti"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "צוררי",
-      "english": "⟨os⟩ meus opressores"
+      "gloss": "⟨os⟩ meus opressores"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:24:01.809796841Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

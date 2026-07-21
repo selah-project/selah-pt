@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "psalms 119:29",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 416,
-    "prompt_tokens": 70180,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70596
-  },
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:09.587708184Z",
   "translation": "A vereda da falsidade desvia de mim; e com a tua Torá favorece-me.",
   "tokens": [
     {
       "surface": "דרך",
-      "english": "a vereda"
+      "gloss": "a vereda"
     },
     {
       "surface": "שקר",
-      "english": "da falsidade"
+      "gloss": "da falsidade"
     },
     {
       "surface": "הסר",
-      "english": "desvia"
+      "gloss": "desvia"
     },
     {
       "surface": "ממני",
-      "english": "de mim"
+      "gloss": "de mim"
     },
     {
       "surface": "ותורתך",
-      "english": "e com a tua Torá"
+      "gloss": "e com a tua Torá"
     },
     {
       "surface": "חנני",
-      "english": "favorece-me"
+      "gloss": "favorece-me"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:09.587708184Z",
-  "model": "glm-4.5"
+  ]
 }

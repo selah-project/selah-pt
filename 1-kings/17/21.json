@@ -1,136 +1,125 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-kings 17:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 1470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63293,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 64763
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:36:53.994316708Z",
   "translation": "E ele se estendeu ⟨sobre⟩ ⟨o⟩ ⟨menino⟩ três vezes e clamou a YHWH e disse: YHWH ⟨meu⟩ Elohim, por favor, faze ⟨a⟩ alma ⟨deste⟩ ⟨menino⟩ retornar ⟨para⟩ ⟨dentro⟩ ⟨dele⟩",
   "tokens": [
     {
       "surface": "ויתמדד",
-      "english": "E ele se estendeu",
+      "gloss": "E ele se estendeu",
       "lemma": "c\/4058",
       "rationale": "Hapax em 1 Reis; traduzido como 'estendeu' no contexto de stretching sobre o menino"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩",
+      "gloss": "⟨sobre⟩",
       "lemma": "5921 a",
       "rationale": "Preposição; artigo 'o' adicionado em português para clareza"
     },
     {
       "surface": "הילד",
-      "english": "⟨o⟩ ⟨menino⟩",
+      "gloss": "⟨o⟩ ⟨menino⟩",
       "lemma": "d\/3206",
       "rationale": "Artigo definido 'o' adicionado em português"
     },
     {
       "surface": "שלש",
-      "english": "três",
+      "gloss": "três",
       "lemma": "7969",
       "rationale": "Número cardinal"
     },
     {
       "surface": "פעמים",
-      "english": "vezes",
+      "gloss": "vezes",
       "lemma": "6471",
       "rationale": "Substantivo significando 'ocorrências' ou 'tempos'"
     },
     {
       "surface": "ויקרא",
-      "english": "e clamou",
+      "gloss": "e clamou",
       "lemma": "c\/7121",
       "rationale": "Qal perfeito 3a pessoa masculino com vav consecutivo"
     },
     {
       "surface": "אל",
-      "english": "a",
+      "gloss": "a",
       "lemma": "413",
       "rationale": "Preposição de direção"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "lemma": "3068",
       "rationale": "Tetragrámaton; preservado conforme disciplina"
     },
     {
       "surface": "ויאמר",
-      "english": "e disse",
+      "gloss": "e disse",
       "lemma": "c\/559",
       "rationale": "Qal perfeito 3a pessoa masculino com vav consecutivo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "lemma": "3068",
       "rationale": "Tetragrámaton; preservado conforme disciplina"
     },
     {
       "surface": "אלהי",
-      "english": "⟨meu⟩ Elohim",
+      "gloss": "⟨meu⟩ Elohim",
       "lemma": "430",
       "rationale": "Pronome possessivo 'meu' adicionado em português para a construção 'meu Elohim'"
     },
     {
       "surface": "תשב",
-      "english": "faze ⟨a⟩",
+      "gloss": "faze ⟨a⟩",
       "lemma": "7725",
       "rationale": "Imperativo 'retorna' com artigo 'a' adicionado antes do objeto direto"
     },
     {
       "surface": "נא",
-      "english": "por favor",
+      "gloss": "por favor",
       "lemma": "4994",
       "rationale": "Partícula de súplica ou ênfase"
     },
     {
       "surface": "נפש",
-      "english": "alma",
+      "gloss": "alma",
       "lemma": "5315",
       "rationale": "Tradução padrão; ver nota sobre nuances"
     },
     {
       "surface": "הילד",
-      "english": "⟨deste⟩ ⟨menino⟩",
+      "gloss": "⟨deste⟩ ⟨menino⟩",
       "lemma": "d\/3206",
       "rationale": "Artigo demonstrativo 'deste' adicionado em português"
     },
     {
       "surface": "הזה",
-      "english": "⟨este⟩",
+      "gloss": "⟨este⟩",
       "lemma": "d\/2088",
       "rationale": "Pronome demonstrativo; artigo 'este' adicionado em português"
     },
     {
       "surface": "על",
-      "english": "⟨para⟩",
+      "gloss": "⟨para⟩",
       "lemma": "5921 a",
       "rationale": "Preposição com significado direcional aqui"
     },
     {
       "surface": "קרבו",
-      "english": "⟨dentro⟩ ⟨dele⟩",
+      "gloss": "⟨dentro⟩ ⟨dele⟩",
       "lemma": "7130",
       "rationale": "Tradução contextual de 'para dentro de seu meio\/interior'"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:36:53.994316708Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

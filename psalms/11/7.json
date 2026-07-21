@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 11:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 329,
-    "prompt_tokens": 70396,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70725
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:34:46.633131725Z",
   "translation": "Porque YHWH ⟨é⟩ justo, Ele ama a retidão; os retos verão a Sua face.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "צדיק",
-      "english": "justo"
+      "gloss": "justo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צדקות",
-      "english": "a retidão"
+      "gloss": "a retidão"
     },
     {
       "surface": "אהב",
-      "english": "Ele ama"
+      "gloss": "Ele ama"
     },
     {
       "surface": "ישר",
-      "english": "os retos"
+      "gloss": "os retos"
     },
     {
       "surface": "יחזו",
-      "english": "verão"
+      "gloss": "verão"
     },
     {
       "surface": "פנימו",
-      "english": "a Sua face"
+      "gloss": "a Sua face"
     }
-  ],
-  "timestamp": "2026-07-16T17:34:46.633131725Z",
-  "model": "glm-4.5"
+  ]
 }

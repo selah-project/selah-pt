@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 60:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 363,
-    "prompt_tokens": 70061,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70424
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:40:10.762978546Z",
   "translation": "Dai-nos ajuda contra ⟨o⟩ adversário; pois vã ⟨é⟩ a salvação de Adam.",
   "tokens": [
     {
       "surface": "הבה",
-      "english": "Dai-nos"
+      "gloss": "Dai-nos"
     },
     {
       "surface": "לנו",
-      "english": "para nós"
+      "gloss": "para nós"
     },
     {
       "surface": "עזרת",
-      "english": "ajuda"
+      "gloss": "ajuda"
     },
     {
       "surface": "מצר",
-      "english": "contra ⟨o⟩ adversário"
+      "gloss": "contra ⟨o⟩ adversário"
     },
     {
       "surface": "ושוא",
-      "english": "pois vã"
+      "gloss": "pois vã"
     },
     {
       "surface": "תשועת",
-      "english": "a salvação"
+      "gloss": "a salvação"
     },
     {
       "surface": "אדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     }
-  ],
-  "timestamp": "2026-07-16T17:40:10.762978546Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 12:2",
   "book": "job",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27296,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27710
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:44:46.457753623Z",
   "translation": "Na verdade ⟨vós⟩ ⟨sois⟩ ⟨o⟩ povo, e convosco morrerá ⟨a⟩ sabedoria.",
   "tokens": [
     {
       "surface": "אמנם",
-      "english": "Na verdade"
+      "gloss": "Na verdade"
     },
     {
       "surface": "כי",
-      "english": "⟨vós⟩"
+      "gloss": "⟨vós⟩"
     },
     {
       "surface": "אתם",
-      "english": "⟨sois⟩"
+      "gloss": "⟨sois⟩"
     },
     {
       "surface": "עם",
-      "english": "⟨o⟩ povo"
+      "gloss": "⟨o⟩ povo"
     },
     {
       "surface": "ועמכם",
-      "english": "e convosco"
+      "gloss": "e convosco"
     },
     {
       "surface": "תמות",
-      "english": "morrerá"
+      "gloss": "morrerá"
     },
     {
       "surface": "חכמה",
-      "english": "⟨a⟩ sabedoria"
+      "gloss": "⟨a⟩ sabedoria"
     }
-  ],
-  "timestamp": "2026-06-13T06:44:46.457753623Z",
-  "model": "glm-4.5"
+  ]
 }

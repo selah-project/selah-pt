@@ -1,41 +1,30 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 64:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 213,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62553,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 62766
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:20:28.044058517Z",
   "translation": "Ao maestro ⟨um⟩ salmo ⟨de⟩ David",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Ao maestro"
+      "gloss": "Ao maestro"
     },
     {
       "surface": "מזמור",
-      "english": "⟨um⟩ salmo",
+      "gloss": "⟨um⟩ salmo",
       "marks": "salmo"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David"
+      "gloss": "⟨de⟩ David"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:20:28.044058517Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

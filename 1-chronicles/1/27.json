@@ -1,9 +1,28 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "1-chronicles 1:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 1,
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:30:33.698279057Z",
+  "translation": "Avram ⟨is⟩ Abraham",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Abram",
@@ -13,36 +32,6 @@
       "hebrew": "אברם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 167,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56538,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 56705
-  },
-  "translation": "Avram ⟨is⟩ Abraham",
-  "tokens": [
-    {
-      "surface": "אברם",
-      "english": "Avram"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨is⟩"
-    },
-    {
-      "surface": "אברהם",
-      "english": "Abraham"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:30:33.698279057Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

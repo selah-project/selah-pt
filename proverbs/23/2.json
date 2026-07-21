@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 23:2",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 499,
-    "prompt_tokens": 60215,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60714
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:31:00.826468229Z",
   "translation": "e põe ⟨um⟩ cutelo ⟨na⟩ tua garganta, se tu fores um homem de apetite",
   "tokens": [
     {
       "surface": "ושמת",
-      "english": "e põe"
+      "gloss": "e põe"
     },
     {
       "surface": "שכין",
-      "english": "⟨um⟩ cutelo"
+      "gloss": "⟨um⟩ cutelo"
     },
     {
       "surface": "בלעך",
-      "english": "⟨na⟩ tua garganta"
+      "gloss": "⟨na⟩ tua garganta"
     },
     {
       "surface": "אם",
-      "english": "se"
+      "gloss": "se"
     },
     {
       "surface": "בעל",
-      "english": "⟨fizeres⟩"
+      "gloss": "⟨fizeres⟩"
     },
     {
       "surface": "נפש",
-      "english": "apetite"
+      "gloss": "apetite"
     },
     {
       "surface": "אתה",
-      "english": "tu fores"
+      "gloss": "tu fores"
     }
-  ],
-  "timestamp": "2026-07-16T17:31:00.826468229Z",
-  "model": "glm-4.5"
+  ]
 }

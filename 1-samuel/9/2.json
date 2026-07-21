@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-samuel 9:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 9,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:19:51.849293914Z",
+  "translation": "E ⟨a ele⟩ ⟨era⟩ um filho e ⟨o⟩ nome ⟨dele⟩ ⟨era⟩ Shaul, ⟨um⟩ jovem e bom; e ⟨não⟩ havia homem dentre ⟨os⟩ filhos de Yisrael bom ⟨a partir⟩ ⟨dele⟩, de ⟨o⟩ seu ombro e ⟨para⟩ cima, alto ⟨a partir de⟩ todo ⟨o⟩ povo.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "E ⟨a ele⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "um filho"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "e ⟨o⟩ nome ⟨dele⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "⟨era⟩ Shaul"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "⟨um⟩ jovem"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "e bom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e ⟨não⟩ havia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homem"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dentre ⟨os⟩ filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bom"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨a partir⟩ ⟨dele⟩"
+    },
+    {
+      "surface": "משכמו",
+      "gloss": "de ⟨o⟩ seu ombro"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e ⟨para⟩ cima"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "alto"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨a partir de⟩ todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨o⟩ povo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,96 +92,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 1087,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17382,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 18469
-  },
-  "translation": "E ⟨a ele⟩ ⟨era⟩ um filho e ⟨o⟩ nome ⟨dele⟩ ⟨era⟩ Shaul, ⟨um⟩ jovem e bom; e ⟨não⟩ havia homem dentre ⟨os⟩ filhos de Yisrael bom ⟨a partir⟩ ⟨dele⟩, de ⟨o⟩ seu ombro e ⟨para⟩ cima, alto ⟨a partir de⟩ todo ⟨o⟩ povo.",
-  "tokens": [
-    {
-      "surface": "ולו",
-      "english": "E ⟨a ele⟩"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨era⟩"
-    },
-    {
-      "surface": "בן",
-      "english": "um filho"
-    },
-    {
-      "surface": "ושמו",
-      "english": "e ⟨o⟩ nome ⟨dele⟩"
-    },
-    {
-      "surface": "שאול",
-      "english": "⟨era⟩ Shaul"
-    },
-    {
-      "surface": "בחור",
-      "english": "⟨um⟩ jovem"
-    },
-    {
-      "surface": "וטוב",
-      "english": "e bom"
-    },
-    {
-      "surface": "ואין",
-      "english": "e ⟨não⟩ havia"
-    },
-    {
-      "surface": "איש",
-      "english": "homem"
-    },
-    {
-      "surface": "מבני",
-      "english": "dentre ⟨os⟩ filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "טוב",
-      "english": "bom"
-    },
-    {
-      "surface": "ממנו",
-      "english": "⟨a partir⟩ ⟨dele⟩"
-    },
-    {
-      "surface": "משכמו",
-      "english": "de ⟨o⟩ seu ombro"
-    },
-    {
-      "surface": "ומעלה",
-      "english": "e ⟨para⟩ cima"
-    },
-    {
-      "surface": "גבה",
-      "english": "alto"
-    },
-    {
-      "surface": "מכל",
-      "english": "⟨a partir de⟩ todo"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨o⟩ povo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:19:51.849293914Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

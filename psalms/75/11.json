@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 75:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 75,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 70204,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70639
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:58.151933983Z",
   "translation": "E todos os cornos dos ímpios cortarei; exaltadas ⟨são⟩ os cornos do justo.",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "E todos"
+      "gloss": "E todos"
     },
     {
       "surface": "קרני",
-      "english": "os cornos"
+      "gloss": "os cornos"
     },
     {
       "surface": "רשעים",
-      "english": "dos ímpios"
+      "gloss": "dos ímpios"
     },
     {
       "surface": "אגדע",
-      "english": "cortarei"
+      "gloss": "cortarei"
     },
     {
       "surface": "תרוממנה",
-      "english": "exaltadas"
+      "gloss": "exaltadas"
     },
     {
       "surface": "קרנות",
-      "english": "os cornos"
+      "gloss": "os cornos"
     },
     {
       "surface": "צדיק",
-      "english": "do justo"
+      "gloss": "do justo"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:58.151933983Z",
-  "model": "glm-4.5"
+  ]
 }

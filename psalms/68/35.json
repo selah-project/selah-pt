@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "psalms 68:35",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 68,
+  "verse": 35,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:23:36.996306585Z",
+  "translation": "Dai ⟨o⟩ vigor ⟨a⟩ HaShem ⟨o⟩ que ⟨está⟩ sobre Yisrael ⟨e⟩ ⟨a⟩ sua majestade ⟨e⟩ ⟨a⟩ sua força nos céus",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Dai ⟨o⟩"
+    },
+    {
+      "surface": "עז",
+      "gloss": "vigor"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨a⟩ HaShem"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨o⟩ que ⟨está⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sobre Yisrael"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "⟨e⟩ ⟨a⟩ sua majestade"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "⟨e⟩ ⟨a⟩ sua força"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "nos céus"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 68,
-  "usage": {
-    "completion_tokens": 634,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63031,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63665
-  },
-  "translation": "Dai ⟨o⟩ vigor ⟨a⟩ HaShem ⟨o⟩ que ⟨está⟩ sobre Yisrael ⟨e⟩ ⟨a⟩ sua majestade ⟨e⟩ ⟨a⟩ sua força nos céus",
-  "tokens": [
-    {
-      "surface": "תנו",
-      "english": "Dai ⟨o⟩"
-    },
-    {
-      "surface": "עז",
-      "english": "vigor"
-    },
-    {
-      "surface": "לאלהים",
-      "english": "⟨a⟩ HaShem"
-    },
-    {
-      "surface": "על",
-      "english": "⟨o⟩ que ⟨está⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "sobre Yisrael"
-    },
-    {
-      "surface": "גאותו",
-      "english": "⟨e⟩ ⟨a⟩ sua majestade"
-    },
-    {
-      "surface": "ועזו",
-      "english": "⟨e⟩ ⟨a⟩ sua força"
-    },
-    {
-      "surface": "בשחקים",
-      "english": "nos céus"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:23:36.996306585Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

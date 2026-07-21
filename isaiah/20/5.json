@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 20:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 20,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:27:54.229896922Z",
+  "translation": "E eles serão aterrorizados e envergonhados de Cush, ⟨a⟩ sua expectativa, e do Mitzráyim, ⟨a⟩ sua glória.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "E eles serão aterrorizados"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "e envergonhados"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "de Cush",
+      "marks": "expectativa"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "⟨a⟩ sua expectativa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e do"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzráyim",
+      "marks": "glória"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "⟨a⟩ sua glória"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,54 +50,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19022,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19393
-  },
-  "translation": "E eles serão aterrorizados e envergonhados de Cush, ⟨a⟩ sua expectativa, e do Mitzráyim, ⟨a⟩ sua glória.",
-  "tokens": [
-    {
-      "surface": "וחתו",
-      "english": "E eles serão aterrorizados"
-    },
-    {
-      "surface": "ובשו",
-      "english": "e envergonhados"
-    },
-    {
-      "surface": "מכוש",
-      "english": "de Cush",
-      "marks": "expectativa"
-    },
-    {
-      "surface": "מבטם",
-      "english": "⟨a⟩ sua expectativa"
-    },
-    {
-      "surface": "ומן",
-      "english": "e do"
-    },
-    {
-      "surface": "מצרים",
-      "english": "Mitzráyim",
-      "marks": "glória"
-    },
-    {
-      "surface": "תפארתם",
-      "english": "⟨a⟩ sua glória"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:27:54.229896922Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

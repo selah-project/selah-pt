@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "ezekiel 27:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 27,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:31:31.508522167Z",
+  "translation": "Os navios de Tarshish eram tuas caravanas ⟨para⟩ o teu comércio; e ficaste repleta e glorificada ⟨como⟩ gloriosamente no coração ⟨dos⟩ mares.",
+  "tokens": [
+    {
+      "surface": "אניות",
+      "gloss": "Os navios"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "de Tarshish"
+    },
+    {
+      "surface": "שרותיך",
+      "gloss": "eram tuas caravanas"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "⟨para⟩ o teu comércio"
+    },
+    {
+      "surface": "ותמלאי",
+      "gloss": "e ficaste repleta"
+    },
+    {
+      "surface": "ותכבדי",
+      "gloss": "e glorificada"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨como⟩ gloriosamente"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "no coração ⟨dos⟩"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mares"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Társis",
@@ -13,60 +56,6 @@
       "hebrew": "תרשיש"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17586,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18105
-  },
-  "translation": "Os navios de Tarshish eram tuas caravanas ⟨para⟩ o teu comércio; e ficaste repleta e glorificada ⟨como⟩ gloriosamente no coração ⟨dos⟩ mares.",
-  "tokens": [
-    {
-      "surface": "אניות",
-      "english": "Os navios"
-    },
-    {
-      "surface": "תרשיש",
-      "english": "de Tarshish"
-    },
-    {
-      "surface": "שרותיך",
-      "english": "eram tuas caravanas"
-    },
-    {
-      "surface": "מערבך",
-      "english": "⟨para⟩ o teu comércio"
-    },
-    {
-      "surface": "ותמלאי",
-      "english": "e ficaste repleta"
-    },
-    {
-      "surface": "ותכבדי",
-      "english": "e glorificada"
-    },
-    {
-      "surface": "מאד",
-      "english": "⟨como⟩ gloriosamente"
-    },
-    {
-      "surface": "בלב",
-      "english": "no coração ⟨dos⟩"
-    },
-    {
-      "surface": "ימים",
-      "english": "mares"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:31:31.508522167Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-chronicles 29:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 29,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:04:53.985248216Z",
+  "translation": "E os chefes ⟨dos⟩ patriarcas e os chefes ⟨das⟩ tribos de Yisrael — e os chefes ⟨dos⟩ milhares e ⟨das⟩ centenas, com os chefes ⟨da⟩ obra ⟨do⟩ rei — deram voluntariamente.",
+  "tokens": [
+    {
+      "surface": "ויתנדבו",
+      "gloss": "Deram voluntariamente"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "os chefes"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "⟨dos⟩ patriarcas"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e os chefes"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "⟨das⟩ tribos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "— e os chefes"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "⟨dos⟩ milhares"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "e ⟨das⟩ centenas"
+    },
+    {
+      "surface": "ולשרי",
+      "gloss": "com os chefes"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "⟨da⟩ obra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨do⟩ rei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57629,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58111
-  },
-  "translation": "E os chefes ⟨dos⟩ patriarcas e os chefes ⟨das⟩ tribos de Yisrael — e os chefes ⟨dos⟩ milhares e ⟨das⟩ centenas, com os chefes ⟨da⟩ obra ⟨do⟩ rei — deram voluntariamente.",
-  "tokens": [
-    {
-      "surface": "ויתנדבו",
-      "english": "Deram voluntariamente"
-    },
-    {
-      "surface": "שרי",
-      "english": "os chefes"
-    },
-    {
-      "surface": "האבות",
-      "english": "⟨dos⟩ patriarcas"
-    },
-    {
-      "surface": "ושרי",
-      "english": "e os chefes"
-    },
-    {
-      "surface": "שבטי",
-      "english": "⟨das⟩ tribos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ושרי",
-      "english": "— e os chefes"
-    },
-    {
-      "surface": "האלפים",
-      "english": "⟨dos⟩ milhares"
-    },
-    {
-      "surface": "והמאות",
-      "english": "e ⟨das⟩ centenas"
-    },
-    {
-      "surface": "ולשרי",
-      "english": "com os chefes"
-    },
-    {
-      "surface": "מלאכת",
-      "english": "⟨da⟩ obra"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨do⟩ rei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:04:53.985248216Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 37:16",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 543,
-    "prompt_tokens": 29109,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29652
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:56:30.696255621Z",
   "translation": "E ele disse: Eu busco ⟨את⟩ meus irmãos; declare, agora, para mim, onde eles estão pastoreando.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ele disse"
+      "gloss": "E ele disse"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "meus irmãos"
     },
     {
       "surface": "אחי",
-      "english": "meus irmãos"
+      "gloss": "meus irmãos"
     },
     {
       "surface": "אנכי",
-      "english": "Eu"
+      "gloss": "Eu"
     },
     {
       "surface": "מבקש",
-      "english": "busco"
+      "gloss": "busco"
     },
     {
       "surface": "הגידה",
-      "english": "declare"
+      "gloss": "declare"
     },
     {
       "surface": "נא",
-      "english": "agora"
+      "gloss": "agora"
     },
     {
       "surface": "לי",
-      "english": "para mim"
+      "gloss": "para mim"
     },
     {
       "surface": "איפה",
-      "english": "onde"
+      "gloss": "onde"
     },
     {
       "surface": "הם",
-      "english": "eles"
+      "gloss": "eles"
     },
     {
       "surface": "רעים",
-      "english": "estão pastoreando"
+      "gloss": "estão pastoreando"
     }
-  ],
-  "timestamp": "2026-07-16T14:56:30.696255621Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "deuteronomy 7:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 7,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:57:55.942514449Z",
+  "translation": "E saberás que YHWH ⟨é⟩ teu Elohim, Ele ⟨é⟩ ⟨o⟩ Elohim, ⟨o⟩ El fiel, guarda ⟨da⟩ Brit e ⟨do⟩ Hessed para ⟨os⟩ que O amam e para ⟨os⟩ que guardam Seus Mitzvás, a mil gerações.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "E saberás"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "teu Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨o⟩ Elohim"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨o⟩ El"
+    },
+    {
+      "surface": "הנאמן",
+      "gloss": "fiel"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "guarda"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "⟨da⟩ Brit"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "e ⟨do⟩ Hessed"
+    },
+    {
+      "surface": "לאהביו",
+      "gloss": "para ⟨os⟩ que O amam"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "e para ⟨os⟩ que guardam"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "Seus Mitzvás"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "a mil"
+    },
+    {
+      "surface": "דור",
+      "gloss": "gerações"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamento",
@@ -13,88 +84,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 716,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18441,
-    "prompt_tokens_details": {
-      "cached_tokens": 16575
-    },
-    "total_tokens": 19157
-  },
-  "translation": "E saberás que YHWH ⟨é⟩ teu Elohim, Ele ⟨é⟩ ⟨o⟩ Elohim, ⟨o⟩ El fiel, guarda ⟨da⟩ Brit e ⟨do⟩ Hessed para ⟨os⟩ que O amam e para ⟨os⟩ que guardam Seus Mitzvás, a mil gerações.",
-  "tokens": [
-    {
-      "surface": "וידעת",
-      "english": "E saberás"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיך",
-      "english": "teu Elohim"
-    },
-    {
-      "surface": "הוא",
-      "english": "Ele"
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨o⟩ Elohim"
-    },
-    {
-      "surface": "האל",
-      "english": "⟨o⟩ El"
-    },
-    {
-      "surface": "הנאמן",
-      "english": "fiel"
-    },
-    {
-      "surface": "שמר",
-      "english": "guarda"
-    },
-    {
-      "surface": "הברית",
-      "english": "⟨da⟩ Brit"
-    },
-    {
-      "surface": "והחסד",
-      "english": "e ⟨do⟩ Hessed"
-    },
-    {
-      "surface": "לאהביו",
-      "english": "para ⟨os⟩ que O amam"
-    },
-    {
-      "surface": "ולשמרי",
-      "english": "e para ⟨os⟩ que guardam"
-    },
-    {
-      "surface": "מצותו",
-      "english": "Seus Mitzvás"
-    },
-    {
-      "surface": "לאלף",
-      "english": "a mil"
-    },
-    {
-      "surface": "דור",
-      "english": "gerações"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:57:55.942514449Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

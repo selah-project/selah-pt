@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 102:15",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 526,
-    "prompt_tokens": 70532,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71058
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:11.067351005Z",
   "translation": "Porque teus servos se agradam ⟨de⟩ ⟨as⟩ pedras dela e ⟨de⟩ ⟨o⟩ pó dela ⟨a⟩ favorecerão",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "רצו",
-      "english": "se agradam"
+      "gloss": "se agradam"
     },
     {
       "surface": "עבדיך",
-      "english": "teus servos"
+      "gloss": "teus servos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨as⟩ pedras dela"
     },
     {
       "surface": "אבניה",
-      "english": "pedras dela"
+      "gloss": "pedras dela"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨o⟩ pó dela"
     },
     {
       "surface": "עפרה",
-      "english": "pó dela"
+      "gloss": "pó dela"
     },
     {
       "surface": "יחננו",
-      "english": "⟨a⟩ favorecerão"
+      "gloss": "⟨a⟩ favorecerão"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:11.067351005Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "numbers 20:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 20,
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:31:44.398004407Z",
+  "translation": "E ⟨vendo⟩ toda ⟨a⟩ congregação que Aharon ⟨havia⟩ morrido, ⟨o⟩ povo inteiro de Yisrael chorou ⟨a⟩ Aharon por trinta dias—toda ⟨a⟩ casa de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "E ⟨vendo⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨a⟩ congregação"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "גוע",
+      "gloss": "Aharon ⟨havia⟩ morrido"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "⟨o⟩ povo inteiro de Israel chorou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "por trinta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dias"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,81 +77,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 646,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18609,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19255
-  },
-  "translation": "E ⟨vendo⟩ toda ⟨a⟩ congregação que Aharon ⟨havia⟩ morrido, ⟨o⟩ povo inteiro de Yisrael chorou ⟨a⟩ Aharon por trinta dias—toda ⟨a⟩ casa de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויראו",
-      "english": "E ⟨vendo⟩"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "העדה",
-      "english": "⟨a⟩ congregação"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "גוע",
-      "english": "Aharon ⟨havia⟩ morrido"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharon"
-    },
-    {
-      "surface": "ויבכו",
-      "english": "⟨o⟩ povo inteiro de Israel chorou"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Aharon"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharon"
-    },
-    {
-      "surface": "שלשים",
-      "english": "por trinta"
-    },
-    {
-      "surface": "יום",
-      "english": "dias"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:31:44.398004407Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

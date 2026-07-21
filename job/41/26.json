@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "job 41:26",
   "book": "job",
-  "lang": "pt",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 388,
-    "prompt_tokens": 27663,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 28051
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:02:47.870859576Z",
   "translation": "Ele vê ⟨את⟩ todo orgulho; ele é rei sobre todos ⟨os⟩ filhos ⟨da⟩ soberba.",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todo orgulho"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "גבה",
-      "english": "orgulho"
+      "gloss": "orgulho"
     },
     {
       "surface": "יראה",
-      "english": "vê"
+      "gloss": "vê"
     },
     {
       "surface": "הוא",
-      "english": "ele"
+      "gloss": "ele"
     },
     {
       "surface": "מלך",
-      "english": "é rei"
+      "gloss": "é rei"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "בני",
-      "english": "filhos"
+      "gloss": "filhos"
     },
     {
       "surface": "שחץ",
-      "english": "soberba"
+      "gloss": "soberba"
     }
-  ],
-  "timestamp": "2026-07-16T16:02:47.870859576Z",
-  "model": "glm-4.5"
+  ]
 }

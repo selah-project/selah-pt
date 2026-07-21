@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 34:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 34,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:08:30.815593352Z",
+  "translation": "Porque Iyov disse: ⟨estou⟩ justo ⟨e⟩ ⟨o⟩ Elohim ⟨את⟩ removeu meu ⟨direito⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "⟨estou⟩ justo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨e⟩ ⟨o⟩ Elohim"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "removeu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "⟨direito⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jó",
@@ -13,52 +48,6 @@
       "hebrew": "איוב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19987,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20357
-  },
-  "translation": "Porque Iyov disse: ⟨estou⟩ justo ⟨e⟩ ⟨o⟩ Elohim ⟨את⟩ removeu meu ⟨direito⟩",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "אמר",
-      "english": "disse"
-    },
-    {
-      "surface": "איוב",
-      "english": "Iyov"
-    },
-    {
-      "surface": "צדקתי",
-      "english": "⟨estou⟩ justo"
-    },
-    {
-      "surface": "ואל",
-      "english": "⟨e⟩ ⟨o⟩ Elohim"
-    },
-    {
-      "surface": "הסיר",
-      "english": "removeu"
-    },
-    {
-      "surface": "משפטי",
-      "english": "⟨direito⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:08:30.815593352Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

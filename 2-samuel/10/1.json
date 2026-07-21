@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-samuel 10:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 10,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:51:26.807583011Z",
+  "translation": "E aconteceu depois disto ⟨que⟩ morreu ⟨o⟩ rei ⟨dos⟩ filhos ⟨de⟩ Ammon, e Hanum ⟨seu⟩ filho reinou ⟨em⟩ ⟨o⟩ seu lugar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "depois"
+    },
+    {
+      "surface": "כן",
+      "gloss": "disto"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "⟨que⟩ morreu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨o⟩ rei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "⟨de⟩ Ammon"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e Hanum"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "⟨seu⟩ filho"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "reinou"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨em⟩ ⟨o⟩ seu lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amom",
@@ -13,68 +64,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17526,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 18075
-  },
-  "translation": "E aconteceu depois disto ⟨que⟩ morreu ⟨o⟩ rei ⟨dos⟩ filhos ⟨de⟩ Ammon, e Hanum ⟨seu⟩ filho reinou ⟨em⟩ ⟨o⟩ seu lugar.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "אחרי",
-      "english": "depois"
-    },
-    {
-      "surface": "כן",
-      "english": "disto"
-    },
-    {
-      "surface": "וימת",
-      "english": "⟨que⟩ morreu"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨o⟩ rei"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos"
-    },
-    {
-      "surface": "עמון",
-      "english": "⟨de⟩ Ammon"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e Hanum"
-    },
-    {
-      "surface": "חנון",
-      "english": "⟨seu⟩ filho"
-    },
-    {
-      "surface": "בנו",
-      "english": "reinou"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "⟨em⟩ ⟨o⟩ seu lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:51:26.807583011Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

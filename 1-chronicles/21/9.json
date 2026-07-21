@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-chronicles 21:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 21,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:55:31.358717375Z",
+  "translation": "YHWH falou ⟨ao⟩ Gad, o vidente de Davidd, dizendo",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "o vidente"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,52 +48,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 219,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56927,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 57146
-  },
-  "translation": "YHWH falou ⟨ao⟩ Gad, o vidente de Davidd, dizendo",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "Falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "גד",
-      "english": "Gad"
-    },
-    {
-      "surface": "חזה",
-      "english": "o vidente"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:55:31.358717375Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

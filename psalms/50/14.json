@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 50:14",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 353,
-    "prompt_tokens": 70206,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70559
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:39:24.545717652Z",
   "translation": "Sacrifica a Elohim ⟨um⟩ sacrifício de gratidão, e cumpre ao Elyon os teus votos:",
   "tokens": [
     {
       "surface": "זבח",
-      "english": "Sacrifica"
+      "gloss": "Sacrifica"
     },
     {
       "surface": "לאלהים",
-      "english": "a Elohim"
+      "gloss": "a Elohim"
     },
     {
       "surface": "תודה",
-      "english": "⟨um⟩ sacrifício de gratidão"
+      "gloss": "⟨um⟩ sacrifício de gratidão"
     },
     {
       "surface": "ושלם",
-      "english": "e cumpre"
+      "gloss": "e cumpre"
     },
     {
       "surface": "לעליון",
-      "english": "ao Elyon"
+      "gloss": "ao Elyon"
     },
     {
       "surface": "נדריך",
-      "english": "os teus votos"
+      "gloss": "os teus votos"
     }
-  ],
-  "timestamp": "2026-07-16T17:39:24.545717652Z",
-  "model": "glm-4.5"
+  ]
 }

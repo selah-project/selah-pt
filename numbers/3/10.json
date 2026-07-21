@@ -1,68 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 3:10",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 523,
-    "prompt_tokens": 25982,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 26505
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:02:53.157277281Z",
   "translation": "E tu apontarás ⟨את⟩ Aharon e ⟨את⟩ seus filhos, e eles guardarão o seu sacerdócio; e o estranho que se aproximar morrerá.",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Aharon"
     },
     {
       "surface": "אהרן",
-      "english": "Aharon"
+      "gloss": "Aharon"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "seus filhos"
     },
     {
       "surface": "בניו",
-      "english": "seus filhos"
+      "gloss": "seus filhos"
     },
     {
       "surface": "תפקד",
-      "english": "apontarás"
+      "gloss": "apontarás"
     },
     {
       "surface": "ושמרו",
-      "english": "e eles guardarão"
+      "gloss": "e eles guardarão"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o seu sacerdócio"
     },
     {
       "surface": "כהנתם",
-      "english": "o seu sacerdócio"
+      "gloss": "o seu sacerdócio"
     },
     {
       "surface": "והזר",
-      "english": "e o estranho"
+      "gloss": "e o estranho"
     },
     {
       "surface": "הקרב",
-      "english": "que se aproximar"
+      "gloss": "que se aproximar"
     },
     {
       "surface": "יומת",
-      "english": "morrerá"
+      "gloss": "morrerá"
     }
-  ],
-  "timestamp": "2026-07-16T17:02:53.157277281Z",
-  "model": "glm-4.5"
+  ]
 }

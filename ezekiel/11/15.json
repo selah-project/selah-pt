@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "ezekiel 11:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 11,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:11:20.790942968Z",
+  "translation": "Filho do homem, teus irmãos, ⟨os⟩ irmãos de ti, ⟨os⟩ homens da tuGueulá e ⟨a⟩ toda ⟨de⟩ casa de Yisrael, toda ela, ⟨são⟩ aqueles ⟨para⟩ os quais ⟨os⟩ habitantes de Yerushalayim disseram: Afastai-vos ⟨de⟩ sobre ⟨de⟩ YHWH; ⟨pois⟩ a nós ⟨é⟩ dada esta terra ⟨em⟩ herança.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Filho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "do homem"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "teus irmãos"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "⟨os⟩ irmãos de ti"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "⟨os⟩ homens"
+    },
+    {
+      "surface": "גאלתך",
+      "gloss": "da tuGueulá"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ⟨a⟩ toda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨de⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "toda ela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨são⟩ aqueles ⟨para⟩ os quais"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "disseram"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨para⟩ os quais"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨os⟩ habitantes"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "Afastai-vos"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨de⟩ sobre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨pois⟩ a nós"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dada"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "esta terra"
+    },
+    {
+      "surface": "למורשה",
+      "gloss": "⟨em⟩ herança"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a redenção",
@@ -27,116 +126,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 1095,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18812,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 19907
-  },
-  "translation": "Filho do homem, teus irmãos, ⟨os⟩ irmãos de ti, ⟨os⟩ homens da tuGueulá e ⟨a⟩ toda ⟨de⟩ casa de Yisrael, toda ela, ⟨são⟩ aqueles ⟨para⟩ os quais ⟨os⟩ habitantes de Yerushalayim disseram: Afastai-vos ⟨de⟩ sobre ⟨de⟩ YHWH; ⟨pois⟩ a nós ⟨é⟩ dada esta terra ⟨em⟩ herança.",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Filho"
-    },
-    {
-      "surface": "אדם",
-      "english": "do homem"
-    },
-    {
-      "surface": "אחיך",
-      "english": "teus irmãos"
-    },
-    {
-      "surface": "אחיך",
-      "english": "⟨os⟩ irmãos de ti"
-    },
-    {
-      "surface": "אנשי",
-      "english": "⟨os⟩ homens"
-    },
-    {
-      "surface": "גאלתך",
-      "english": "da tuGueulá"
-    },
-    {
-      "surface": "וכל",
-      "english": "e ⟨a⟩ toda"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨de⟩ casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "כלה",
-      "english": "toda ela"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨são⟩ aqueles ⟨para⟩ os quais"
-    },
-    {
-      "surface": "אמרו",
-      "english": "disseram"
-    },
-    {
-      "surface": "להם",
-      "english": "⟨para⟩ os quais"
-    },
-    {
-      "surface": "ישבי",
-      "english": "⟨os⟩ habitantes"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    },
-    {
-      "surface": "רחקו",
-      "english": "Afastai-vos"
-    },
-    {
-      "surface": "מעל",
-      "english": "⟨de⟩ sobre"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    },
-    {
-      "surface": "לנו",
-      "english": "⟨pois⟩ a nós"
-    },
-    {
-      "surface": "היא",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "נתנה",
-      "english": "dada"
-    },
-    {
-      "surface": "הארץ",
-      "english": "esta terra"
-    },
-    {
-      "surface": "למורשה",
-      "english": "⟨em⟩ herança"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:11:20.790942968Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

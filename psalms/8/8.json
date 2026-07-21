@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 8:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62804,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63136
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:43:59.368988050Z",
   "translation": "o ⟨rebanho⟩ e ⟨o⟩ gado, ⟨todos⟩ eles, e também ⟨os⟩ animais do ⟨campo⟩",
   "tokens": [
     {
       "surface": "צנה",
-      "english": "O ⟨rebanho⟩"
+      "gloss": "O ⟨rebanho⟩"
     },
     {
       "surface": "ואלפים",
-      "english": "e ⟨o⟩ gado"
+      "gloss": "e ⟨o⟩ gado"
     },
     {
       "surface": "כלם",
-      "english": "⟨todos⟩ eles"
+      "gloss": "⟨todos⟩ eles"
     },
     {
       "surface": "וגם",
-      "english": "e também"
+      "gloss": "e também"
     },
     {
       "surface": "בהמות",
-      "english": "⟨os⟩ animais"
+      "gloss": "⟨os⟩ animais"
     },
     {
       "surface": "שדי",
-      "english": "do ⟨campo⟩"
+      "gloss": "do ⟨campo⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:43:59.368988050Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

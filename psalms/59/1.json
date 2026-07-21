@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 59:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 399,
-    "prompt_tokens": 70821,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71220
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:40:01.837800218Z",
   "translation": "Ao regente; Não destruas. Um poema de David. Michtam. Quando Shaul enviou, e vigiaram a casa para matá-lo. Salva-me dos meus inimigos, ó meu Elohim; protege-me dos que se levantam contra mim.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Ao regente"
+      "gloss": "Ao regente"
     },
     {
       "surface": "אל",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תשחת",
-      "english": "destruas"
+      "gloss": "destruas"
     },
     {
       "surface": "לדוד",
-      "english": "Um poema de David"
+      "gloss": "Um poema de David"
     },
     {
       "surface": "מכתם",
-      "english": "Michtam"
+      "gloss": "Michtam"
     },
     {
       "surface": "בשלח",
-      "english": "Quando Shaul enviou"
+      "gloss": "Quando Shaul enviou"
     },
     {
       "surface": "שאול",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "וישמרו",
-      "english": ", e vigiaram a casa"
+      "gloss": ", e vigiaram a casa"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הבית"
     },
     {
       "surface": "הבית",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "להמיתו",
-      "english": "para matá-lo. Salva-me dos meus inimigos, ó meu Elohim; protege-me dos que se levantam contra mim."
+      "gloss": "para matá-lo. Salva-me dos meus inimigos, ó meu Elohim; protege-me dos que se levantam contra mim."
     }
-  ],
-  "timestamp": "2026-07-16T17:40:01.837800218Z",
-  "model": "glm-4.5"
+  ]
 }

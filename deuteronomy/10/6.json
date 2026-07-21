@@ -1,9 +1,81 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "deuteronomy 10:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 10,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:01:11.351471076Z",
+  "translation": "E ⟨os⟩ filhos de Yisrael partiram de Beerot-Bene-Jaacã para Moserá; ⟨em⟩ ⟨ali⟩ morreu Aharon, e ⟨o⟩ sepultaram ⟨ali⟩; e ⟨o⟩ seu filho Elazar serviu como sacerdote em ⟨o⟩ ⟨seu⟩ lugar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E ⟨os⟩ filhos de",
+      "marks": "filhos de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "partiram"
+    },
+    {
+      "surface": "מבארת",
+      "gloss": "de Beerot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bene-"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Jaaacã"
+    },
+    {
+      "surface": "מוסרה",
+      "gloss": "para Moserá"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨em⟩ ⟨ali⟩"
+    },
+    {
+      "surface": "מת",
+      "gloss": "morreu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e ⟨o⟩ sepultaram"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ali⟩"
+    },
+    {
+      "surface": "ויכהן",
+      "gloss": "e ⟨o⟩ seu filho serviu como sacerdote"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨seu⟩"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "em ⟨o⟩ ⟨seu⟩ lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,89 +92,6 @@
       "hebrew": "אלעזר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 686,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18454,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 19140
-  },
-  "translation": "E ⟨os⟩ filhos de Yisrael partiram de Beerot-Bene-Jaacã para Moserá; ⟨em⟩ ⟨ali⟩ morreu Aharon, e ⟨o⟩ sepultaram ⟨ali⟩; e ⟨o⟩ seu filho Elazar serviu como sacerdote em ⟨o⟩ ⟨seu⟩ lugar.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E ⟨os⟩ filhos de",
-      "marks": "filhos de Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "נסעו",
-      "english": "partiram"
-    },
-    {
-      "surface": "מבארת",
-      "english": "de Beerot"
-    },
-    {
-      "surface": "בני",
-      "english": "Bene-"
-    },
-    {
-      "surface": "יעקן",
-      "english": "Jaaacã"
-    },
-    {
-      "surface": "מוסרה",
-      "english": "para Moserá"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨em⟩ ⟨ali⟩"
-    },
-    {
-      "surface": "מת",
-      "english": "morreu"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharon"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "e ⟨o⟩ sepultaram"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨ali⟩"
-    },
-    {
-      "surface": "ויכהן",
-      "english": "e ⟨o⟩ seu filho serviu como sacerdote"
-    },
-    {
-      "surface": "אלעזר",
-      "english": "Elazar"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨seu⟩"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "em ⟨o⟩ ⟨seu⟩ lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:01:11.351471076Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

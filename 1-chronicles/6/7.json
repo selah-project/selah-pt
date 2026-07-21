@@ -1,9 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-chronicles 6:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 6,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:37:44.783910191Z",
+  "translation": "Os filhos de Queate: Aminadabe ⟨o⟩ seu filho, Koraj ⟨o⟩ seu filho, Assir ⟨o⟩ seu filho",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Os filhos de"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Queate"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨o⟩ seu filho",
+      "marks": "Aminadabe"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraj"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨o⟩ seu filho",
+      "marks": "Corá"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Assir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨o⟩ seu filho",
+      "marks": "Assir"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Corá",
@@ -13,59 +55,6 @@
       "hebrew": "קרח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57069,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57483
-  },
-  "translation": "Os filhos de Queate: Aminadabe ⟨o⟩ seu filho, Koraj ⟨o⟩ seu filho, Assir ⟨o⟩ seu filho",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Os filhos de"
-    },
-    {
-      "surface": "קהת",
-      "english": "Queate"
-    },
-    {
-      "surface": "עמינדב",
-      "english": "Aminadabe"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨o⟩ seu filho",
-      "marks": "Aminadabe"
-    },
-    {
-      "surface": "קרח",
-      "english": "Koraj"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨o⟩ seu filho",
-      "marks": "Corá"
-    },
-    {
-      "surface": "אסיר",
-      "english": "Assir"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨o⟩ seu filho",
-      "marks": "Assir"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:37:44.783910191Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

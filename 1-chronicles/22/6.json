@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-chronicles 22:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 22,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:57:00.128764755Z",
+  "translation": "E ele chamou por Salomão seu filho, e o ordenou para construir ⟨uma⟩ casa para YHWH ⟨o⟩ Elohim de Yisrael",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "E ele chamou por"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Salomão"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "e o ordenou"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "para construir"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨uma⟩ casa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨o⟩ Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57229,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57714
-  },
-  "translation": "E ele chamou por Salomão seu filho, e o ordenou para construir ⟨uma⟩ casa para YHWH ⟨o⟩ Elohim de Yisrael",
-  "tokens": [
-    {
-      "surface": "ויקרא",
-      "english": "E ele chamou por"
-    },
-    {
-      "surface": "לשלמה",
-      "english": "Salomão"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "ויצוהו",
-      "english": "e o ordenou"
-    },
-    {
-      "surface": "לבנות",
-      "english": "para construir"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨uma⟩ casa"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "para YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "⟨o⟩ Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:57:00.128764755Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

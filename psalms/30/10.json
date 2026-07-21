@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 30:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 30,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:57:42.290643865Z",
+  "translation": "Que proveito ⟨há⟩ ⟨no⟩ ⟨meu⟩ sangue, ⟨ao⟩ ⟨descer⟩ ⟨à⟩ ⟨cova⟩? ⟨O⟩ ⟨pó⟩ ⟨poderá⟩ ⟨proclamar⟩ ⟨tua⟩ Emet?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Que proveito"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "⟨há⟩"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "⟨no⟩ ⟨meu⟩ sangue"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "⟨ao⟩ ⟨descer⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "⟨cova⟩"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "⟨O⟩"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "⟨pó⟩"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "⟨poderá⟩ ⟨proclamar⟩"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "⟨tua⟩ Emet"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "fidelidade",
@@ -13,64 +60,6 @@
       "hebrew": "אמת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 732,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63099,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63831
-  },
-  "translation": "Que proveito ⟨há⟩ ⟨no⟩ ⟨meu⟩ sangue, ⟨ao⟩ ⟨descer⟩ ⟨à⟩ ⟨cova⟩? ⟨O⟩ ⟨pó⟩ ⟨poderá⟩ ⟨proclamar⟩ ⟨tua⟩ Emet?",
-  "tokens": [
-    {
-      "surface": "מה",
-      "english": "Que proveito"
-    },
-    {
-      "surface": "בצע",
-      "english": "⟨há⟩"
-    },
-    {
-      "surface": "בדמי",
-      "english": "⟨no⟩ ⟨meu⟩ sangue"
-    },
-    {
-      "surface": "ברדתי",
-      "english": "⟨ao⟩ ⟨descer⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨à⟩"
-    },
-    {
-      "surface": "שחת",
-      "english": "⟨cova⟩"
-    },
-    {
-      "surface": "היודך",
-      "english": "⟨O⟩"
-    },
-    {
-      "surface": "עפר",
-      "english": "⟨pó⟩"
-    },
-    {
-      "surface": "היגיד",
-      "english": "⟨poderá⟩ ⟨proclamar⟩"
-    },
-    {
-      "surface": "אמתך",
-      "english": "⟨tua⟩ Emet"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:57:42.290643865Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

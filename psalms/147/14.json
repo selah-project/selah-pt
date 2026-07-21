@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 147:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 294,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62799,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63093
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:16:05.765329250Z",
   "translation": "Who places ⟨in⟩ thy border peace, ⟨with⟩ ⟨the⟩ fat of wheat ⟨He⟩ satisfieth thee",
   "tokens": [
     {
       "surface": "השם",
-      "english": "Who"
+      "gloss": "Who"
     },
     {
       "surface": "גבולך",
-      "english": "thy border"
+      "gloss": "thy border"
     },
     {
       "surface": "שלום",
-      "english": "peace"
+      "gloss": "peace"
     },
     {
       "surface": "חלב",
-      "english": "⟨the⟩ fat"
+      "gloss": "⟨the⟩ fat"
     },
     {
       "surface": "חטים",
-      "english": "of wheat"
+      "gloss": "of wheat"
     },
     {
       "surface": "ישביעך",
-      "english": "⟨He⟩ satisfieth thee"
+      "gloss": "⟨He⟩ satisfieth thee"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:16:05.765329250Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

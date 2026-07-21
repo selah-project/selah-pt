@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-chronicles 2:20",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 342,
-    "prompt_tokens": 64609,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64951
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:05:26.139181812Z",
   "translation": "E Chor gerou ⟨את⟩ Uri, e Uri gerou ⟨את⟩ Betsalel",
   "tokens": [
     {
       "surface": "וחור",
-      "english": "E Chor"
+      "gloss": "E Chor"
     },
     {
       "surface": "הוליד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Uri"
     },
     {
       "surface": "אורי",
-      "english": "Uri"
+      "gloss": "Uri"
     },
     {
       "surface": "ואורי",
-      "english": "e Uri"
+      "gloss": "e Uri"
     },
     {
       "surface": "הוליד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Betsalel"
     },
     {
       "surface": "בצלאל",
-      "english": "Betsalel"
+      "gloss": "Betsalel"
     }
-  ],
-  "timestamp": "2026-07-16T11:05:26.139181812Z",
-  "model": "glm-4.5"
+  ]
 }

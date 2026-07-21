@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 12:2",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24363,
-    "prompt_tokens_details": {
-      "cached_tokens": 23181
-    },
-    "total_tokens": 24791
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:45:00.781134365Z",
   "translation": "Este mês ⟨é⟩ para ⟨vós⟩ ⟨o⟩ princípio dos meses; ⟨ele⟩ ⟨é⟩ ⟨o⟩ primeiro mês para ⟨vós⟩ dos meses do ano.",
   "tokens": [
     {
       "surface": "החדש",
-      "english": "Este mês"
+      "gloss": "Este mês"
     },
     {
       "surface": "הזה",
-      "english": "⟨este⟩"
+      "gloss": "⟨este⟩"
     },
     {
       "surface": "לכם",
-      "english": "para ⟨vós⟩"
+      "gloss": "para ⟨vós⟩"
     },
     {
       "surface": "ראש",
-      "english": "⟨o⟩ princípio"
+      "gloss": "⟨o⟩ princípio"
     },
     {
       "surface": "חדשים",
-      "english": "dos meses"
+      "gloss": "dos meses"
     },
     {
       "surface": "ראשון",
-      "english": "⟨o⟩ primeiro"
+      "gloss": "⟨o⟩ primeiro"
     },
     {
       "surface": "הוא",
-      "english": "⟨ele⟩"
+      "gloss": "⟨ele⟩"
     },
     {
       "surface": "לכם",
-      "english": "para ⟨vós⟩"
+      "gloss": "para ⟨vós⟩"
     },
     {
       "surface": "לחדשי",
-      "english": "dos meses"
+      "gloss": "dos meses"
     },
     {
       "surface": "השנה",
-      "english": "do ano"
+      "gloss": "do ano"
     }
-  ],
-  "timestamp": "2026-06-13T02:45:00.781134365Z",
-  "model": "glm-4.5"
+  ]
 }

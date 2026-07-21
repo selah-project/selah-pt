@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 42:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 42,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:07:36.124532433Z",
+  "translation": "Por que ⟨estás⟩ abatida, ó minh'alma, e ⟨por que⟩ gemes dentro de mim? Espera ⟨em⟩ Elohim, pois ainda ⟨o⟩ louvarei, ⟨a⟩ Yeshuá ⟨da⟩ minha face e meu Elohim.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Por que"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "⟨estás⟩ abatida"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ó minh'alma"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e ⟨por que⟩"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "gemes"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dentro de mim"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Espera"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨em⟩ Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ainda"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "⟨o⟩ louvarei"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "⟨a⟩ Yeshuá"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨da⟩ minha face"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e meu Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "salvação",
@@ -13,80 +76,6 @@
       "hebrew": "ישועה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 42,
-  "usage": {
-    "completion_tokens": 663,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63346,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 64009
-  },
-  "translation": "Por que ⟨estás⟩ abatida, ó minh'alma, e ⟨por que⟩ gemes dentro de mim? Espera ⟨em⟩ Elohim, pois ainda ⟨o⟩ louvarei, ⟨a⟩ Yeshuá ⟨da⟩ minha face e meu Elohim.",
-  "tokens": [
-    {
-      "surface": "מה",
-      "english": "Por que"
-    },
-    {
-      "surface": "תשתוחחי",
-      "english": "⟨estás⟩ abatida"
-    },
-    {
-      "surface": "נפשי",
-      "english": "ó minh'alma"
-    },
-    {
-      "surface": "ומה",
-      "english": "e ⟨por que⟩"
-    },
-    {
-      "surface": "תהמי",
-      "english": "gemes"
-    },
-    {
-      "surface": "עלי",
-      "english": "dentro de mim"
-    },
-    {
-      "surface": "הוחילי",
-      "english": "Espera"
-    },
-    {
-      "surface": "לאלהים",
-      "english": "⟨em⟩ Elohim"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "עוד",
-      "english": "ainda"
-    },
-    {
-      "surface": "אודנו",
-      "english": "⟨o⟩ louvarei"
-    },
-    {
-      "surface": "ישועת",
-      "english": "⟨a⟩ Yeshuá"
-    },
-    {
-      "surface": "פני",
-      "english": "⟨da⟩ minha face"
-    },
-    {
-      "surface": "ואלהי",
-      "english": "e meu Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:07:36.124532433Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

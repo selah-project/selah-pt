@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "genesis 30:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 30,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:12:10.202399529Z",
+  "translation": "E aconteceu quando Rajel deu à luz ⟨é⟩ a Yosef que Yaakov disse a Labão: 'Envia-me para que eu vá ao meu lugar e ⟨ao⟩ meu país'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "deu à luz"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨é⟩",
+      "marks": "a José"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "que Jacó disse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labão"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "'Envia-me"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "para que eu vá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "meu lugar"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "e ⟨ao⟩ meu país"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Raquel",
@@ -27,85 +95,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22112,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22554
-  },
-  "translation": "E aconteceu quando Rajel deu à luz ⟨é⟩ a Yosef que Yaakov disse a Labão: 'Envia-me para que eu vá ao meu lugar e ⟨ao⟩ meu país'",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "כאשר",
-      "english": "quando"
-    },
-    {
-      "surface": "ילדה",
-      "english": "deu à luz"
-    },
-    {
-      "surface": "רחל",
-      "english": "Rajel"
-    },
-    {
-      "surface": "את",
-      "english": "⟨é⟩",
-      "marks": "a José"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "que Jacó disse"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "לבן",
-      "english": "Labão"
-    },
-    {
-      "surface": "שלחני",
-      "english": "'Envia-me"
-    },
-    {
-      "surface": "ואלכה",
-      "english": "para que eu vá"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "מקומי",
-      "english": "meu lugar"
-    },
-    {
-      "surface": "ולארצי",
-      "english": "e ⟨ao⟩ meu país"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:12:10.202399529Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

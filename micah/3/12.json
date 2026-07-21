@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "micah 3:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "micah",
+  "chapter": 3,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:16:23.203065859Z",
+  "translation": "Por isso, por causa de vós, Tzion ⟨será⟩ arada como um campo, e Jerusalém ⟨se tornará⟩ um montão de ruínas, e o monte da Casa ⟨como⟩ as alturas do bosque.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Por isso"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "por causa de vós"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "como um campo"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "⟨será⟩ arada"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Jerusalém"
+    },
+    {
+      "surface": "עיין",
+      "gloss": "⟨se tornará⟩ um montão de ruínas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨será⟩"
+    },
+    {
+      "surface": "והר",
+      "gloss": "e o monte"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "da Casa"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "⟨como⟩ as alturas"
+    },
+    {
+      "surface": "יער",
+      "gloss": "do bosque"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sião",
@@ -13,72 +68,6 @@
       "hebrew": "ציון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 576,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16217,
-    "prompt_tokens_details": {
-      "cached_tokens": 14744
-    },
-    "total_tokens": 16793
-  },
-  "translation": "Por isso, por causa de vós, Tzion ⟨será⟩ arada como um campo, e Jerusalém ⟨se tornará⟩ um montão de ruínas, e o monte da Casa ⟨como⟩ as alturas do bosque.",
-  "tokens": [
-    {
-      "surface": "לכן",
-      "english": "Por isso"
-    },
-    {
-      "surface": "בגללכם",
-      "english": "por causa de vós"
-    },
-    {
-      "surface": "ציון",
-      "english": "Tzion"
-    },
-    {
-      "surface": "שדה",
-      "english": "como um campo"
-    },
-    {
-      "surface": "תחרש",
-      "english": "⟨será⟩ arada"
-    },
-    {
-      "surface": "וירושלם",
-      "english": "e Jerusalém"
-    },
-    {
-      "surface": "עיין",
-      "english": "⟨se tornará⟩ um montão de ruínas"
-    },
-    {
-      "surface": "תהיה",
-      "english": "⟨será⟩"
-    },
-    {
-      "surface": "והר",
-      "english": "e o monte"
-    },
-    {
-      "surface": "הבית",
-      "english": "da Casa"
-    },
-    {
-      "surface": "לבמות",
-      "english": "⟨como⟩ as alturas"
-    },
-    {
-      "surface": "יער",
-      "english": "do bosque"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:16:23.203065859Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

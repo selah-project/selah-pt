@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-samuel 28:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 28,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:39:56.428122430Z",
+  "translation": "E Shaul consultou a YHWH, porém YHWH não ⟨o⟩ respondeu, nem por sonhos, nem por Urim, nem por profetas.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "E consultou"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "porém"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "não ⟨o⟩ respondeu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "por sonhos"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "por Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "por profetas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -13,72 +68,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16838,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 17260
-  },
-  "translation": "E Shaul consultou a YHWH, porém YHWH não ⟨o⟩ respondeu, nem por sonhos, nem por Urim, nem por profetas.",
-  "tokens": [
-    {
-      "surface": "וישאל",
-      "english": "E consultou"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "ביהוה",
-      "english": "a YHWH"
-    },
-    {
-      "surface": "ולא",
-      "english": "porém"
-    },
-    {
-      "surface": "ענהו",
-      "english": "não ⟨o⟩ respondeu"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "גם",
-      "english": "nem"
-    },
-    {
-      "surface": "בחלמות",
-      "english": "por sonhos"
-    },
-    {
-      "surface": "גם",
-      "english": "nem"
-    },
-    {
-      "surface": "באורים",
-      "english": "por Urim"
-    },
-    {
-      "surface": "גם",
-      "english": "nem"
-    },
-    {
-      "surface": "בנביאם",
-      "english": "por profetas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:39:56.428122430Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

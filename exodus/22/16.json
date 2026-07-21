@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 22:16",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24400,
-    "prompt_tokens_details": {
-      "cached_tokens": 23181
-    },
-    "total_tokens": 24881
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:28:10.273530908Z",
   "translation": "Se ⟨um homem⟩ recusar, ⟨seu⟩ pai se recusará ⟨a⟩ ⟨dar⟩-lhe, ele ⟨deve⟩ pesar ⟨a⟩ prata ⟨como⟩ ⟨a⟩ ⟨dote⟩ ⟨das⟩ virgens",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Se"
+      "gloss": "Se"
     },
     {
       "surface": "מאן",
-      "english": "⟨um homem⟩"
+      "gloss": "⟨um homem⟩"
     },
     {
       "surface": "ימאן",
-      "english": "recusar"
+      "gloss": "recusar"
     },
     {
       "surface": "אביה",
-      "english": "⟨seu⟩"
+      "gloss": "⟨seu⟩"
     },
     {
       "surface": "לתתה",
-      "english": "pai"
+      "gloss": "pai"
     },
     {
       "surface": "לו",
-      "english": "se recusará"
+      "gloss": "se recusará"
     },
     {
       "surface": "כסף",
-      "english": "⟨a⟩ ⟨dar⟩-lhe"
+      "gloss": "⟨a⟩ ⟨dar⟩-lhe"
     },
     {
       "surface": "ישקל",
-      "english": "ele ⟨deve⟩ pesar"
+      "gloss": "ele ⟨deve⟩ pesar"
     },
     {
       "surface": "כמהר",
-      "english": "⟨a⟩ ⟨dote⟩ ⟨das⟩ virgens"
+      "gloss": "⟨a⟩ ⟨dote⟩ ⟨das⟩ virgens"
     },
     {
       "surface": "הבתולת",
-      "english": "prata ⟨como⟩ ⟨a⟩ ⟨dote⟩ ⟨das⟩ virgens"
+      "gloss": "prata ⟨como⟩ ⟨a⟩ ⟨dote⟩ ⟨das⟩ virgens"
     }
-  ],
-  "timestamp": "2026-06-14T04:28:10.273530908Z",
-  "model": "glm-4.5"
+  ]
 }

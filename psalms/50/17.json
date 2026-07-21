@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 50:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62803,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 63224
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:12:36.711175341Z",
   "translation": "e você ⟨o⟩ odei ⟨a⟩ instrução e lançou ⟨a⟩ minhas palavras atrás ⟨de você⟩",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "E você"
+      "gloss": "E você"
     },
     {
       "surface": "שנאת",
-      "english": "odei"
+      "gloss": "odei"
     },
     {
       "surface": "מוסר",
-      "english": "⟨a⟩ instrução",
+      "gloss": "⟨a⟩ instrução",
       "marks": "instrução"
     },
     {
       "surface": "ותשלך",
-      "english": "e lançou"
+      "gloss": "e lançou"
     },
     {
       "surface": "דברי",
-      "english": "⟨a⟩ minhas palavras",
+      "gloss": "⟨a⟩ minhas palavras",
       "marks": "minhas palavras"
     },
     {
       "surface": "אחריך",
-      "english": "atrás ⟨de você⟩",
+      "gloss": "atrás ⟨de você⟩",
       "marks": "você"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:12:36.711175341Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

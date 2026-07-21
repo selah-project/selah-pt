@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "micah 1:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "micah",
+  "chapter": 1,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:15:13.537762374Z",
+  "translation": "A palavra de YHWH que ⟨foi⟩ ⟨a⟩ Mijá ⟨o⟩ Moreshita nos dias de Jotão, Ajaz, Jizkiyahu, reis de Yehudá, que ele viu sobre Shomron e Jerusalém",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "A palavra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨foi⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mijá"
+    },
+    {
+      "surface": "המרשתי",
+      "gloss": "⟨o⟩ Moreshita"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nos dias"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "de Jotão"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "יחזקיה",
+      "gloss": "Jizkiyahu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "reis"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ele viu"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Jerusalém"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Miqueias",
@@ -41,96 +120,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 601,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16760,
-    "prompt_tokens_details": {
-      "cached_tokens": 14744
-    },
-    "total_tokens": 17361
-  },
-  "translation": "A palavra de YHWH que ⟨foi⟩ ⟨a⟩ Mijá ⟨o⟩ Moreshita nos dias de Jotão, Ajaz, Jizkiyahu, reis de Yehudá, que ele viu sobre Shomron e Jerusalém",
-  "tokens": [
-    {
-      "surface": "דבר",
-      "english": "A palavra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨foi⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "מיכה",
-      "english": "Mijá"
-    },
-    {
-      "surface": "המרשתי",
-      "english": "⟨o⟩ Moreshita"
-    },
-    {
-      "surface": "בימי",
-      "english": "nos dias"
-    },
-    {
-      "surface": "יותם",
-      "english": "de Jotão"
-    },
-    {
-      "surface": "אחז",
-      "english": "Ajaz"
-    },
-    {
-      "surface": "יחזקיה",
-      "english": "Jizkiyahu"
-    },
-    {
-      "surface": "מלכי",
-      "english": "reis"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "חזה",
-      "english": "ele viu"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomron"
-    },
-    {
-      "surface": "וירושלם",
-      "english": "e Jerusalém"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:15:13.537762374Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

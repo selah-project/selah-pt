@@ -1,87 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "malachi 1:2",
   "book": "malachi",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 689,
-    "prompt_tokens": 24931,
-    "prompt_tokens_details": {
-      "cached_tokens": 10496
-    },
-    "total_tokens": 25620
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:54:05.515255507Z",
   "translation": "Eu amei ⟨את⟩ vocês, disse YHWH, e vocês disseram: Em que nos amaste? Não ⟨é⟩ Esav irmão de Yaakov, declara YHWH, e amei ⟨את⟩ Yaakov",
   "tokens": [
     {
       "surface": "אהבתי",
-      "english": "Eu amei"
+      "gloss": "Eu amei"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩ vocês",
+      "gloss": "⟨את⟩ vocês",
       "marks": "vocês"
     },
     {
       "surface": "אמר",
-      "english": "disse"
+      "gloss": "disse"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ואמרתם",
-      "english": "e vocês disseram"
+      "gloss": "e vocês disseram"
     },
     {
       "surface": "במה",
-      "english": "em que"
+      "gloss": "em que"
     },
     {
       "surface": "אהבתנו",
-      "english": "nos amaste"
+      "gloss": "nos amaste"
     },
     {
       "surface": "הלוא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "אח",
-      "english": "irmão"
+      "gloss": "irmão"
     },
     {
       "surface": "עשו",
-      "english": "Esav"
+      "gloss": "Esav"
     },
     {
       "surface": "ליעקב",
-      "english": "de Yaakov"
+      "gloss": "de Yaakov"
     },
     {
       "surface": "נאם",
-      "english": "declara"
+      "gloss": "declara"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ואהב",
-      "english": "e amei"
+      "gloss": "e amei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yaakov"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     }
-  ],
-  "timestamp": "2026-07-16T16:54:05.515255507Z",
-  "model": "glm-4.5"
+  ]
 }

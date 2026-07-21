@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 25:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 25,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:06:01.406093088Z",
+  "translation": "E ⟨aos⟩ filhos ⟨das⟩ concubinas que ⟨eram⟩ ⟨de⟩ Avraham, Avraham deu presentes e ⟨os⟩ enviou ⟨para⟩ ⟨longe⟩ de Yitzjak seu filho, enquanto ainda ⟨estava⟩ ⟨vivo⟩, ⟨para⟩ ⟨o⟩ leste, ⟨a⟩ terra ⟨do⟩ oriente.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "E ⟨aos⟩ filhos"
+    },
+    {
+      "surface": "הפילגשים",
+      "gloss": "⟨das⟩ concubinas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "⟨eram⟩ ⟨de⟩ Avraham"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מתנת",
+      "gloss": "presentes"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "e ⟨os⟩ enviou"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨para⟩ ⟨longe⟩"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "de Yitzjak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "בעודנו",
+      "gloss": "enquanto ainda ⟨estava⟩ ⟨vivo⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "⟨vivo⟩"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "⟨para⟩ ⟨o⟩ leste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra ⟨do⟩"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "oriente"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Itzjak",
@@ -13,92 +88,6 @@
       "hebrew": "יצחק"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 671,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22253,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22924
-  },
-  "translation": "E ⟨aos⟩ filhos ⟨das⟩ concubinas que ⟨eram⟩ ⟨de⟩ Avraham, Avraham deu presentes e ⟨os⟩ enviou ⟨para⟩ ⟨longe⟩ de Yitzjak seu filho, enquanto ainda ⟨estava⟩ ⟨vivo⟩, ⟨para⟩ ⟨o⟩ leste, ⟨a⟩ terra ⟨do⟩ oriente.",
-  "tokens": [
-    {
-      "surface": "ולבני",
-      "english": "E ⟨aos⟩ filhos"
-    },
-    {
-      "surface": "הפילגשים",
-      "english": "⟨das⟩ concubinas"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לאברהם",
-      "english": "⟨eram⟩ ⟨de⟩ Avraham"
-    },
-    {
-      "surface": "נתן",
-      "english": "deu"
-    },
-    {
-      "surface": "אברהם",
-      "english": "Avraham"
-    },
-    {
-      "surface": "מתנת",
-      "english": "presentes"
-    },
-    {
-      "surface": "וישלחם",
-      "english": "e ⟨os⟩ enviou"
-    },
-    {
-      "surface": "מעל",
-      "english": "⟨para⟩ ⟨longe⟩"
-    },
-    {
-      "surface": "יצחק",
-      "english": "de Yitzjak"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "בעודנו",
-      "english": "enquanto ainda ⟨estava⟩ ⟨vivo⟩"
-    },
-    {
-      "surface": "חי",
-      "english": "⟨vivo⟩"
-    },
-    {
-      "surface": "קדמה",
-      "english": "⟨para⟩ ⟨o⟩ leste"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "ארץ",
-      "english": "terra ⟨do⟩"
-    },
-    {
-      "surface": "קדם",
-      "english": "oriente"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:06:01.406093088Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

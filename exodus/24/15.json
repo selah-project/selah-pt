@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "exodus 24:15",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 420,
-    "prompt_tokens": 24284,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24704
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:55:25.967405166Z",
   "translation": "E Moshé subiu ⟨ao⟩ monte, e ⟨o⟩ nuvem cobriu ⟨את⟩ ⟨o⟩ monte",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "E ... subiu"
+      "gloss": "E ... subiu"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "אל",
-      "english": "⟨ao⟩"
+      "gloss": "⟨ao⟩"
     },
     {
       "surface": "ההר",
-      "english": "monte"
+      "gloss": "monte"
     },
     {
       "surface": "ויכס",
-      "english": "e ... cobriu"
+      "gloss": "e ... cobriu"
     },
     {
       "surface": "הענן",
-      "english": "⟨o⟩ nuvem"
+      "gloss": "⟨o⟩ nuvem"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨o⟩ monte"
     },
     {
       "surface": "ההר",
-      "english": "⟨o⟩ monte"
+      "gloss": "⟨o⟩ monte"
     }
-  ],
-  "timestamp": "2026-07-16T13:55:25.967405166Z",
-  "model": "glm-4.5"
+  ]
 }

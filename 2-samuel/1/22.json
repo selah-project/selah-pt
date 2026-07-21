@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "2-samuel 1:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 1,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:43:46.555333605Z",
+  "translation": "Do ⟨sangue⟩ ⟨dos⟩ feridos, ⟨da⟩ gordura ⟨dos⟩ poderosos, o arco ⟨de⟩ Yonatan não voltou ⟨para⟩ trás, e ⟨a⟩ espada ⟨de⟩ Shaul não retornou vazia.",
+  "tokens": [
+    {
+      "surface": "מדם",
+      "gloss": "Do ⟨sangue⟩"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "⟨dos⟩ feridos"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "⟨da⟩ gordura"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "⟨dos⟩ poderosos"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "o arco"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "⟨de⟩ Yonatan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "נשוג",
+      "gloss": "voltou"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "⟨para⟩ trás"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "e ⟨a⟩ espada"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "⟨de⟩ Shaul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "retornou"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "vazia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jônatas",
@@ -20,80 +83,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17799,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18377
-  },
-  "translation": "Do ⟨sangue⟩ ⟨dos⟩ feridos, ⟨da⟩ gordura ⟨dos⟩ poderosos, o arco ⟨de⟩ Yonatan não voltou ⟨para⟩ trás, e ⟨a⟩ espada ⟨de⟩ Shaul não retornou vazia.",
-  "tokens": [
-    {
-      "surface": "מדם",
-      "english": "Do ⟨sangue⟩"
-    },
-    {
-      "surface": "חללים",
-      "english": "⟨dos⟩ feridos"
-    },
-    {
-      "surface": "מחלב",
-      "english": "⟨da⟩ gordura"
-    },
-    {
-      "surface": "גבורים",
-      "english": "⟨dos⟩ poderosos"
-    },
-    {
-      "surface": "קשת",
-      "english": "o arco"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "⟨de⟩ Yonatan"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "נשוג",
-      "english": "voltou"
-    },
-    {
-      "surface": "אחור",
-      "english": "⟨para⟩ trás"
-    },
-    {
-      "surface": "וחרב",
-      "english": "e ⟨a⟩ espada"
-    },
-    {
-      "surface": "שאול",
-      "english": "⟨de⟩ Shaul"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "תשוב",
-      "english": "retornou"
-    },
-    {
-      "surface": "ריקם",
-      "english": "vazia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:43:46.555333605Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

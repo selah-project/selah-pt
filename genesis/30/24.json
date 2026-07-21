@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 30:24",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 28975,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29379
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:53:12.679958208Z",
   "translation": "E ela chamou ⟨o⟩ nome ⟨dele⟩ José, dizendo: YHWH ⟨me⟩ acrescente ⟨um⟩ filho outro.",
   "tokens": [
     {
       "surface": "ותקרא",
-      "english": "E ela chamou"
+      "gloss": "E ela chamou"
     },
     {
       "surface": "את",
-      "english": "⟨o⟩",
+      "gloss": "⟨o⟩",
       "marks": "nome ⟨dele⟩"
     },
     {
       "surface": "שמו",
-      "english": "nome ⟨dele⟩"
+      "gloss": "nome ⟨dele⟩"
     },
     {
       "surface": "יוסף",
-      "english": "José"
+      "gloss": "José"
     },
     {
       "surface": "לאמר",
-      "english": "dizendo"
+      "gloss": "dizendo"
     },
     {
       "surface": "יסף",
-      "english": "acrescente"
+      "gloss": "acrescente"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לי",
-      "english": "⟨me⟩"
+      "gloss": "⟨me⟩"
     },
     {
       "surface": "בן",
-      "english": "⟨um⟩ filho"
+      "gloss": "⟨um⟩ filho"
     },
     {
       "surface": "אחר",
-      "english": "outro"
+      "gloss": "outro"
     }
-  ],
-  "timestamp": "2026-07-16T14:53:12.679958208Z",
-  "model": "glm-4.5"
+  ]
 }

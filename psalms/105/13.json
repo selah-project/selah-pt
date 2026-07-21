@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 105:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62910,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63330
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:48:58.502506431Z",
   "translation": "E eles andaram de nação em nação, ⟨de⟩ um reino ⟨para⟩ outro povo",
   "tokens": [
     {
       "surface": "ויתהלכו",
-      "english": "E eles andaram"
+      "gloss": "E eles andaram"
     },
     {
       "surface": "מגוי",
-      "english": "de nação"
+      "gloss": "de nação"
     },
     {
       "surface": "אל",
-      "english": "em"
+      "gloss": "em"
     },
     {
       "surface": "גוי",
-      "english": "nação"
+      "gloss": "nação"
     },
     {
       "surface": "מממלכה",
-      "english": "⟨de⟩ um reino"
+      "gloss": "⟨de⟩ um reino"
     },
     {
       "surface": "אל",
-      "english": "⟨para⟩"
+      "gloss": "⟨para⟩"
     },
     {
       "surface": "עם",
-      "english": "outro povo"
+      "gloss": "outro povo"
     },
     {
       "surface": "אחר",
-      "english": "outro"
+      "gloss": "outro"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:48:58.502506431Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 8:1",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 453,
-    "prompt_tokens": 64666,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65119
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:09:45.018573322Z",
   "translation": "E Binyamim gerou ⟨את⟩ Belá, seu primogênito, Ashbel, o segundo, e Ahará, o terceiro.",
   "tokens": [
     {
       "surface": "ובנימן",
-      "english": "E Binyamim"
+      "gloss": "E Binyamim"
     },
     {
       "surface": "הוליד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Belá"
     },
     {
       "surface": "בלע",
-      "english": "Belá"
+      "gloss": "Belá"
     },
     {
       "surface": "בכרו",
-      "english": ", seu primogênito"
+      "gloss": ", seu primogênito"
     },
     {
       "surface": "אשבל",
-      "english": "Ashbel"
+      "gloss": "Ashbel"
     },
     {
       "surface": "השני",
-      "english": ", o segundo"
+      "gloss": ", o segundo"
     },
     {
       "surface": "ואחרח",
-      "english": "e Ahará"
+      "gloss": "e Ahará"
     },
     {
       "surface": "השלישי",
-      "english": ", o terceiro"
+      "gloss": ", o terceiro"
     }
-  ],
-  "timestamp": "2026-07-16T11:09:45.018573322Z",
-  "model": "glm-4.5"
+  ]
 }

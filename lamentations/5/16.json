@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "lamentations 5:16",
   "book": "lamentations",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 39428,
-    "prompt_tokens_details": {
-      "cached_tokens": 38419
-    },
-    "total_tokens": 39783
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:48:25.039739034Z",
   "translation": "Caiu a coroa ⟨de⟩ nossa cabeça; ai ⟨de⟩ nós, porque pecamos.",
   "tokens": [
     {
       "surface": "נפלה",
-      "english": "Caiu"
+      "gloss": "Caiu"
     },
     {
       "surface": "עטרת",
-      "english": "a coroa"
+      "gloss": "a coroa"
     },
     {
       "surface": "ראשנו",
-      "english": "⟨de⟩ nossa cabeça"
+      "gloss": "⟨de⟩ nossa cabeça"
     },
     {
       "surface": "אוי",
-      "english": "ai"
+      "gloss": "ai"
     },
     {
       "surface": "נא",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "לנו",
-      "english": "nós"
+      "gloss": "nós"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "חטאנו",
-      "english": "pecamos"
+      "gloss": "pecamos"
     }
-  ],
-  "timestamp": "2026-06-13T06:48:25.039739034Z",
-  "model": "glm-4.5"
+  ]
 }

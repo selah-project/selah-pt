@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 10:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20059,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20464
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:52:34.714943041Z",
   "translation": "Se eu pequei, ⟨tu⟩ me ⟨observas⟩; e ⟨de⟩ minha iniquidade ⟨tu⟩ não ⟨me⟩ declaras ⟨inocente⟩",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Se"
+      "gloss": "Se"
     },
     {
       "surface": "חטאתי",
-      "english": "eu pequei"
+      "gloss": "eu pequei"
     },
     {
       "surface": "ושמרתני",
-      "english": "⟨tu⟩ me ⟨observas⟩"
+      "gloss": "⟨tu⟩ me ⟨observas⟩"
     },
     {
       "surface": "ומעוני",
-      "english": "⟨de⟩ minha iniquidade"
+      "gloss": "⟨de⟩ minha iniquidade"
     },
     {
       "surface": "לא",
-      "english": "⟨tu⟩ não"
+      "gloss": "⟨tu⟩ não"
     },
     {
       "surface": "תנקני",
-      "english": "⟨me⟩ declaras ⟨inocente⟩"
+      "gloss": "⟨me⟩ declaras ⟨inocente⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:52:34.714943041Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

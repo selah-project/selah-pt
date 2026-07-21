@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "ecclesiastes 3:12",
   "book": "ecclesiastes",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24984,
-    "prompt_tokens_details": {
-      "cached_tokens": 23709
-    },
-    "total_tokens": 25381
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:48:39.546687424Z",
   "translation": "I have known that there is ⟨no⟩ good in them except to rejoice and to do good ⟨in⟩ ⟨their⟩ life.",
   "tokens": [
     {
       "surface": "ידעתי",
-      "english": "I have known"
+      "gloss": "I have known"
     },
     {
       "surface": "כי",
-      "english": "that"
+      "gloss": "that"
     },
     {
       "surface": "אין",
-      "english": "there is"
+      "gloss": "there is"
     },
     {
       "surface": "טוב",
-      "english": "⟨no⟩ good"
+      "gloss": "⟨no⟩ good"
     },
     {
       "surface": "בם",
-      "english": "in them"
+      "gloss": "in them"
     },
     {
       "surface": "כי",
-      "english": "except"
+      "gloss": "except"
     },
     {
       "surface": "אם",
-      "english": "to"
+      "gloss": "to"
     },
     {
       "surface": "לשמוח",
-      "english": "rejoice"
+      "gloss": "rejoice"
     },
     {
       "surface": "ולעשות",
-      "english": "and to do good"
+      "gloss": "and to do good"
     },
     {
       "surface": "טוב",
-      "english": "good"
+      "gloss": "good"
     },
     {
       "surface": "בחייו",
-      "english": "⟨in⟩ ⟨their⟩ life"
+      "gloss": "⟨in⟩ ⟨their⟩ life"
     }
-  ],
-  "timestamp": "2026-06-13T06:48:39.546687424Z",
-  "model": "glm-4.5"
+  ]
 }

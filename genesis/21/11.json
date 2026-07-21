@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 21:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21313,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21799
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:00:57.149147195Z",
   "translation": "E ⟨a⟩ coisa foi muito ⟨a⟩ grave ⟨em⟩ ⟨os⟩ olhos ⟨de⟩ Avraham sobre ⟨as⟩ ocasiões ⟨de⟩ seu filho",
   "tokens": [
     {
       "surface": "וירע",
-      "english": "E ⟨a⟩ coisa foi"
+      "gloss": "E ⟨a⟩ coisa foi"
     },
     {
       "surface": "הדבר",
-      "english": "muito"
+      "gloss": "muito"
     },
     {
       "surface": "מאד",
-      "english": "⟨a⟩ grave"
+      "gloss": "⟨a⟩ grave"
     },
     {
       "surface": "בעיני",
-      "english": "⟨em⟩ ⟨os⟩ olhos"
+      "gloss": "⟨em⟩ ⟨os⟩ olhos"
     },
     {
       "surface": "אברהם",
-      "english": "⟨de⟩ Avraham"
+      "gloss": "⟨de⟩ Avraham"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "אודת",
-      "english": "⟨as⟩ ocasiões"
+      "gloss": "⟨as⟩ ocasiões"
     },
     {
       "surface": "בנו",
-      "english": "⟨de⟩ seu filho"
+      "gloss": "⟨de⟩ seu filho"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:00:57.149147195Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

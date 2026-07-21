@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 77:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 77,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:30:10.998105530Z",
+  "translation": "E direi: Esta ⟨é⟩ a minha fraqueza; ⟨que⟩ os anos ⟨do⟩ braço direito ⟨do⟩ Elyon.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "E direi"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "a minha fraqueza"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨é⟩",
+      "marks": "a minha fraqueza"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "os anos"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "⟨do⟩ braço direito"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨do⟩ Elyon"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Altíssimo",
@@ -13,49 +45,6 @@
       "hebrew": "עליון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 77,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62822,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63322
-  },
-  "translation": "E direi: Esta ⟨é⟩ a minha fraqueza; ⟨que⟩ os anos ⟨do⟩ braço direito ⟨do⟩ Elyon.",
-  "tokens": [
-    {
-      "surface": "ואמר",
-      "english": "E direi"
-    },
-    {
-      "surface": "חלותי",
-      "english": "a minha fraqueza"
-    },
-    {
-      "surface": "היא",
-      "english": "⟨é⟩",
-      "marks": "a minha fraqueza"
-    },
-    {
-      "surface": "שנות",
-      "english": "os anos"
-    },
-    {
-      "surface": "ימין",
-      "english": "⟨do⟩ braço direito"
-    },
-    {
-      "surface": "עליון",
-      "english": "⟨do⟩ Elyon"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:30:10.998105530Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

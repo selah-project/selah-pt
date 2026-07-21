@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 5:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 845,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52896,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53741
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:21:32.743586036Z",
   "translation": "Afasta ⟨o⟩ teu caminho ⟨da⟩ ela e não ⟨se⟩ aproxim ⟨para⟩ a porta ⟨da⟩ casa ⟨dela⟩",
   "tokens": [
     {
       "surface": "הרחק",
-      "english": "Afasta",
+      "gloss": "Afasta",
       "marks": ""
     },
     {
       "surface": "מעליה",
-      "english": "⟨o⟩ teu caminho ⟨da⟩ ela",
+      "gloss": "⟨o⟩ teu caminho ⟨da⟩ ela",
       "rationale": "Preposição composta 'מעל' + sufixo 'ה' = 'sobre ela' ou 'da ela'. O hebraico usa uma única palavra para a relação que inglês e português expressam com preposições."
     },
     {
       "surface": "דרכך",
-      "english": "teu caminho",
+      "gloss": "teu caminho",
       "marks": ""
     },
     {
       "surface": "ואל",
-      "english": "e não",
+      "gloss": "e não",
       "marks": ""
     },
     {
       "surface": "תקרב",
-      "english": "⟨se⟩ aproxim",
+      "gloss": "⟨se⟩ aproxim",
       "rationale": "Imperativo negativo 'תקרב' traduzido como 'não te aproximas'. O português requer 'não' (elisão de 'ו' = 'e não' + 'ת' = 'tu' implicados no verbo)."
     },
     {
       "surface": "אל",
-      "english": "⟨para⟩",
+      "gloss": "⟨para⟩",
       "rationale": "Preposição 'para' ou 'até'. Em português, 'para a porta' soa mais natural que 'até a porta' aqui."
     },
     {
       "surface": "פתח",
-      "english": "porta",
+      "gloss": "porta",
       "marks": ""
     },
     {
       "surface": "ביתה",
-      "english": "⟨da⟩ casa ⟨dela⟩",
+      "gloss": "⟨da⟩ casa ⟨dela⟩",
       "rationale": "Sufixo possessivo 'ה' = 'dela' ou 'dele' (contexto feminino exige 'dela'). Português requer artigo definido ⟨a⟩, ausente no hebraico."
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:21:32.743586036Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

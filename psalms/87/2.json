@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 87:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 87,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:37:22.465692917Z",
+  "translation": "YHWH ama ⟨as⟩ portas de Tzion mais que ⟨as⟩ moradas de Yaakov",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "⟨as⟩ portas"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mais que"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "⟨as⟩ moradas"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sião",
@@ -20,52 +55,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 87,
-  "usage": {
-    "completion_tokens": 256,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62840,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63096
-  },
-  "translation": "YHWH ama ⟨as⟩ portas de Tzion mais que ⟨as⟩ moradas de Yaakov",
-  "tokens": [
-    {
-      "surface": "אהב",
-      "english": "Ama"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "שערי",
-      "english": "⟨as⟩ portas"
-    },
-    {
-      "surface": "ציון",
-      "english": "Tzion"
-    },
-    {
-      "surface": "מכל",
-      "english": "mais que"
-    },
-    {
-      "surface": "משכנות",
-      "english": "⟨as⟩ moradas"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:37:22.465692917Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

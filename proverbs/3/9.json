@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "proverbs 3:9",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 539,
-    "prompt_tokens": 60392,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60931
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:28:35.095308207Z",
   "translation": "Honra ⟨a⟩ YHWH ⟨com⟩ ⟨o⟩ teu sustento e ⟨com⟩ as primícias de toda ⟨a⟩ tua renda",
   "tokens": [
     {
       "surface": "כבד",
-      "english": "Honra"
+      "gloss": "Honra"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מהונך",
-      "english": "⟨com⟩ ⟨o⟩ teu sustento"
+      "gloss": "⟨com⟩ ⟨o⟩ teu sustento"
     },
     {
       "surface": "ומראשית",
-      "english": "e ⟨com⟩ as primícias"
+      "gloss": "e ⟨com⟩ as primícias"
     },
     {
       "surface": "כל",
-      "english": "de toda"
+      "gloss": "de toda"
     },
     {
       "surface": "תבואתך",
-      "english": "⟨a⟩ tua renda"
+      "gloss": "⟨a⟩ tua renda"
     }
-  ],
-  "timestamp": "2026-07-16T17:28:35.095308207Z",
-  "model": "glm-4.5"
+  ]
 }

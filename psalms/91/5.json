@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 91:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 794,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62864,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63658
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:41:03.314385426Z",
   "translation": "Não ⟨terás⟩ temor ⟨do⟩ terror ⟨da⟩ noite, nem ⟨da⟩ seta que voa ⟨pelo⟩ dia.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Não",
+      "gloss": "Não",
       "rationale": "Hebrew negation particle (não)"
     },
     {
       "surface": "תירא",
-      "english": "⟨terás⟩ temor",
+      "gloss": "⟨terás⟩ temor",
       "rationale": "Verbo no futuro (2ª pessoa masc. singular): temerás\/terás temor"
     },
     {
       "surface": "מפחד",
-      "english": "⟨do⟩ terror",
+      "gloss": "⟨do⟩ terror",
       "rationale": "Preposição 'de' + פחד (terror, pânico) — conjunto: 'do terror'"
     },
     {
       "surface": "לילה",
-      "english": "⟨da⟩ noite",
+      "gloss": "⟨da⟩ noite",
       "rationale": "Preposição 'da' + לילה (noite)"
     },
     {
       "surface": "מחץ",
-      "english": "nem ⟨da⟩",
+      "gloss": "nem ⟨da⟩",
       "rationale": "Preposição 'de' + חץ (flecha\/seta) — conjunto: 'nem da' (em paralelo com 'מפחד')"
     },
     {
       "surface": "יעוף",
-      "english": "seta que voa",
+      "gloss": "seta que voa",
       "rationale": "Particípio ativo de עוף (voar): 'que voa' — o antecedente implícito é חץ (flecha\/seta)"
     },
     {
       "surface": "יומם",
-      "english": "⟨pelo⟩ dia",
+      "gloss": "⟨pelo⟩ dia",
       "rationale": "Preposição 'por' + יום (dia) — 'pelo dia'"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:41:03.314385426Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-chronicles 35:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 35,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:51:15.167147903Z",
+  "translation": "⟨E o⟩ restante ⟨dos⟩ atos ⟨de⟩ Yoshiyahu e ⟨os seus⟩ atos de bondade ⟨estão⟩ escrito ⟨na⟩ Torá ⟨de⟩ YHWH ⟨conforme⟩ ⟨o⟩ que ⟨está⟩ escrito ⟨na⟩ Torá ⟨de⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "⟨E o⟩ restante"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨dos⟩ atos"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "⟨de⟩ Yoshiyahu"
+    },
+    {
+      "surface": "וחסדיו",
+      "gloss": "⟨e os seus⟩ atos de bondade"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "⟨estão⟩ escrito"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "⟨na⟩ Torá ⟨de⟩ YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josias",
@@ -13,52 +48,6 @@
       "hebrew": "יאשיהו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 642,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58055,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58697
-  },
-  "translation": "⟨E o⟩ restante ⟨dos⟩ atos ⟨de⟩ Yoshiyahu e ⟨os seus⟩ atos de bondade ⟨estão⟩ escrito ⟨na⟩ Torá ⟨de⟩ YHWH ⟨conforme⟩ ⟨o⟩ que ⟨está⟩ escrito ⟨na⟩ Torá ⟨de⟩ YHWH",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "⟨E o⟩ restante"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨dos⟩ atos"
-    },
-    {
-      "surface": "יאשיהו",
-      "english": "⟨de⟩ Yoshiyahu"
-    },
-    {
-      "surface": "וחסדיו",
-      "english": "⟨e os seus⟩ atos de bondade"
-    },
-    {
-      "surface": "ככתוב",
-      "english": "⟨estão⟩ escrito"
-    },
-    {
-      "surface": "בתורת",
-      "english": "⟨na⟩ Torá ⟨de⟩ YHWH"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:51:15.167147903Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

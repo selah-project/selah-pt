@@ -1,64 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "genesis 22:21",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 266,
-    "prompt_tokens": 29123,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29389
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:48:11.105761420Z",
   "translation": "⟨את⟩ Uz, seu primogênito, e ⟨את⟩ Buz, seu irmão, e ⟨את⟩ Kemuel, pai de Aram.",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Uz"
     },
     {
       "surface": "עוץ",
-      "english": "Uz"
+      "gloss": "Uz"
     },
     {
       "surface": "בכרו",
-      "english": "seu primogênito"
+      "gloss": "seu primogênito"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Buz"
     },
     {
       "surface": "בוז",
-      "english": "Buz"
+      "gloss": "Buz"
     },
     {
       "surface": "אחיו",
-      "english": "seu irmão"
+      "gloss": "seu irmão"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Kemuel"
     },
     {
       "surface": "קמואל",
-      "english": "Kemuel"
+      "gloss": "Kemuel"
     },
     {
       "surface": "אבי",
-      "english": "pai"
+      "gloss": "pai"
     },
     {
       "surface": "ארם",
-      "english": "de Aram"
+      "gloss": "de Aram"
     }
-  ],
-  "timestamp": "2026-07-16T14:48:11.105761420Z",
-  "model": "glm-4.5"
+  ]
 }

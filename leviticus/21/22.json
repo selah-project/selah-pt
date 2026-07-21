@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "leviticus 21:22",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24742,
-    "prompt_tokens_details": {
-      "cached_tokens": 23738
-    },
-    "total_tokens": 25238
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:27:02.944716253Z",
   "translation": "Ele comerá ⟨o⟩ pão de seu Elohim, ⟨dos⟩ santuários ⟨mais⟩ santos e ⟨dos⟩ santuários santos",
   "tokens": [
     {
       "surface": "לחם",
-      "english": "pão"
+      "gloss": "pão"
     },
     {
       "surface": "אלהיו",
-      "english": "de seu Elohim"
+      "gloss": "de seu Elohim"
     },
     {
       "surface": "מקדשי",
-      "english": "⟨dos⟩ santuários ⟨mais⟩ santos"
+      "gloss": "⟨dos⟩ santuários ⟨mais⟩ santos"
     },
     {
       "surface": "הקדשים",
-      "english": "⟨dos⟩ santuários santos"
+      "gloss": "⟨dos⟩ santuários santos"
     },
     {
       "surface": "ומן",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "הקדשים",
-      "english": "⟨dos⟩ santuários santos"
+      "gloss": "⟨dos⟩ santuários santos"
     },
     {
       "surface": "יאכל",
-      "english": "ele comerá"
+      "gloss": "ele comerá"
     }
-  ],
-  "timestamp": "2026-06-13T05:27:02.944716253Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "1-kings 14:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 14,
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:32:30.454868614Z",
+  "translation": "E fez o rei Rejavam em seu lugar escudos ⟨de⟩ bronze, e ⟨os⟩ confiou ⟨à⟩ mão ⟨dos⟩ chefes ⟨da⟩ guarda, que guardavam ⟨a⟩ entrada ⟨da⟩ casa ⟨do⟩ rei",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E fez"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "em seu lugar"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "escudos"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "⟨de⟩ bronze",
+      "marks": "escudos"
+    },
+    {
+      "surface": "והפקיד",
+      "gloss": "e ⟨os⟩ confiou"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mão ⟨dos⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chefes ⟨da⟩"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "guarda"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "que guardavam"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "⟨a⟩ entrada ⟨da⟩",
+      "marks": "casa ⟨do⟩ rei"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa ⟨do⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboão",
@@ -13,86 +82,6 @@
       "hebrew": "רחבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 766,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63095,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63861
-  },
-  "translation": "E fez o rei Rejavam em seu lugar escudos ⟨de⟩ bronze, e ⟨os⟩ confiou ⟨à⟩ mão ⟨dos⟩ chefes ⟨da⟩ guarda, que guardavam ⟨a⟩ entrada ⟨da⟩ casa ⟨do⟩ rei",
-  "tokens": [
-    {
-      "surface": "ויעש",
-      "english": "E fez"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "תחתם",
-      "english": "em seu lugar"
-    },
-    {
-      "surface": "מגני",
-      "english": "escudos"
-    },
-    {
-      "surface": "נחשת",
-      "english": "⟨de⟩ bronze",
-      "marks": "escudos"
-    },
-    {
-      "surface": "והפקיד",
-      "english": "e ⟨os⟩ confiou"
-    },
-    {
-      "surface": "על",
-      "english": "⟨à⟩"
-    },
-    {
-      "surface": "יד",
-      "english": "mão ⟨dos⟩"
-    },
-    {
-      "surface": "שרי",
-      "english": "chefes ⟨da⟩"
-    },
-    {
-      "surface": "הרצים",
-      "english": "guarda"
-    },
-    {
-      "surface": "השמרים",
-      "english": "que guardavam"
-    },
-    {
-      "surface": "פתח",
-      "english": "⟨a⟩ entrada ⟨da⟩",
-      "marks": "casa ⟨do⟩ rei"
-    },
-    {
-      "surface": "בית",
-      "english": "casa ⟨do⟩"
-    },
-    {
-      "surface": "המלך",
-      "english": "rei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:32:30.454868614Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

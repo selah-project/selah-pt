@@ -1,9 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "numbers 21:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 21,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:32:02.202019223Z",
+  "translation": "Pois fogo saiu ⟨de⟩ Heshbom, chama ⟨da⟩ cidade de Siom: consumiu ⟨a⟩ Ar de Moav, os senhores ⟨dos⟩ altos lugares ⟨do⟩ Arnon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fogo"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "saiu"
+    },
+    {
+      "surface": "מחשבון",
+      "gloss": "⟨de⟩ Heshbom",
+      "marks": "Heshbom"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "chama"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "⟨da⟩ cidade",
+      "marks": "cidade"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "de Siom"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "consumiu"
+    },
+    {
+      "surface": "ער",
+      "gloss": "⟨a⟩ Ar",
+      "marks": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "os senhores"
+    },
+    {
+      "surface": "במות",
+      "gloss": "⟨dos⟩ altos lugares",
+      "marks": "altos lugares"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "⟨do⟩ Arnon",
+      "marks": "Arnon"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -13,81 +77,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 553,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18528,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 19081
-  },
-  "translation": "Pois fogo saiu ⟨de⟩ Heshbom, chama ⟨da⟩ cidade de Siom: consumiu ⟨a⟩ Ar de Moav, os senhores ⟨dos⟩ altos lugares ⟨do⟩ Arnon.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "אש",
-      "english": "fogo"
-    },
-    {
-      "surface": "יצאה",
-      "english": "saiu"
-    },
-    {
-      "surface": "מחשבון",
-      "english": "⟨de⟩ Heshbom",
-      "marks": "Heshbom"
-    },
-    {
-      "surface": "להבה",
-      "english": "chama"
-    },
-    {
-      "surface": "מקרית",
-      "english": "⟨da⟩ cidade",
-      "marks": "cidade"
-    },
-    {
-      "surface": "סיחן",
-      "english": "de Siom"
-    },
-    {
-      "surface": "אכלה",
-      "english": "consumiu"
-    },
-    {
-      "surface": "ער",
-      "english": "⟨a⟩ Ar",
-      "marks": "Ar"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "בעלי",
-      "english": "os senhores"
-    },
-    {
-      "surface": "במות",
-      "english": "⟨dos⟩ altos lugares",
-      "marks": "altos lugares"
-    },
-    {
-      "surface": "ארנן",
-      "english": "⟨do⟩ Arnon",
-      "marks": "Arnon"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:32:02.202019223Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

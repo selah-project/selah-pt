@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-samuel 2:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 2,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:14:12.474093718Z",
+  "translation": "e ⟨o⟩ golpeava ⟨em⟩ ⟨o⟩ caldeirão ou ⟨em⟩ ⟨o⟩ tacho ou ⟨em⟩ ⟨a⟩ caldeirinha ou ⟨em⟩ ⟨o⟩ pote; tudo o que ⟨o⟩ garfo trazes para cima ⟨o⟩ kohen tomava para si; assim faziam a todo ⟨o⟩ Yisrael ⟨os⟩ que vinham lá ⟨em⟩ Shiloh.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "E ⟨o⟩ golpeava"
+    },
+    {
+      "surface": "בכיור",
+      "gloss": "⟨em⟩ ⟨o⟩ caldeirão"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "⟨em⟩ ⟨o⟩ tacho"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בקלחת",
+      "gloss": "⟨em⟩ ⟨a⟩ caldeirinha"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בפרור",
+      "gloss": "⟨em⟩ ⟨o⟩ pote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o que"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "trazes para cima"
+    },
+    {
+      "surface": "המזלג",
+      "gloss": "⟨o⟩ garfo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tomava"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨o⟩ kohen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "para si"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "assim"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "faziam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a todo ⟨o⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "⟨os⟩ que vinham"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lá"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "⟨em⟩ Shiloh"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,112 +108,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 792,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17771,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18563
-  },
-  "translation": "e ⟨o⟩ golpeava ⟨em⟩ ⟨o⟩ caldeirão ou ⟨em⟩ ⟨o⟩ tacho ou ⟨em⟩ ⟨a⟩ caldeirinha ou ⟨em⟩ ⟨o⟩ pote; tudo o que ⟨o⟩ garfo trazes para cima ⟨o⟩ kohen tomava para si; assim faziam a todo ⟨o⟩ Yisrael ⟨os⟩ que vinham lá ⟨em⟩ Shiloh.",
-  "tokens": [
-    {
-      "surface": "והכה",
-      "english": "E ⟨o⟩ golpeava"
-    },
-    {
-      "surface": "בכיור",
-      "english": "⟨em⟩ ⟨o⟩ caldeirão"
-    },
-    {
-      "surface": "או",
-      "english": "ou"
-    },
-    {
-      "surface": "בדוד",
-      "english": "⟨em⟩ ⟨o⟩ tacho"
-    },
-    {
-      "surface": "או",
-      "english": "ou"
-    },
-    {
-      "surface": "בקלחת",
-      "english": "⟨em⟩ ⟨a⟩ caldeirinha"
-    },
-    {
-      "surface": "או",
-      "english": "ou"
-    },
-    {
-      "surface": "בפרור",
-      "english": "⟨em⟩ ⟨o⟩ pote"
-    },
-    {
-      "surface": "כל",
-      "english": "tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "o que"
-    },
-    {
-      "surface": "יעלה",
-      "english": "trazes para cima"
-    },
-    {
-      "surface": "המזלג",
-      "english": "⟨o⟩ garfo"
-    },
-    {
-      "surface": "יקח",
-      "english": "tomava"
-    },
-    {
-      "surface": "הכהן",
-      "english": "⟨o⟩ kohen"
-    },
-    {
-      "surface": "בו",
-      "english": "para si"
-    },
-    {
-      "surface": "ככה",
-      "english": "assim"
-    },
-    {
-      "surface": "יעשו",
-      "english": "faziam"
-    },
-    {
-      "surface": "לכל",
-      "english": "a todo ⟨o⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "הבאים",
-      "english": "⟨os⟩ que vinham"
-    },
-    {
-      "surface": "שם",
-      "english": "lá"
-    },
-    {
-      "surface": "בשלה",
-      "english": "⟨em⟩ Shiloh"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:14:12.474093718Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

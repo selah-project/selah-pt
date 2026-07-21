@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 7:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62786,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63279
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:43:15.745372325Z",
   "translation": "Meu ⟨escudo⟩ ⟨está⟩ em Elohim, que salva ⟨os⟩ retos de coração",
   "tokens": [
     {
       "surface": "מגני",
-      "english": "Meu ⟨escudo⟩"
+      "gloss": "Meu ⟨escudo⟩"
     },
     {
       "surface": "על",
-      "english": "⟨está⟩ em"
+      "gloss": "⟨está⟩ em"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "מושיע",
-      "english": "que salva"
+      "gloss": "que salva"
     },
     {
       "surface": "ישרי",
-      "english": "⟨os⟩ retos"
+      "gloss": "⟨os⟩ retos"
     },
     {
       "surface": "לב",
-      "english": "de coração"
+      "gloss": "de coração"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:43:15.745372325Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

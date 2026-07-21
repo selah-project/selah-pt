@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "2-chronicles 34:29",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 382,
-    "prompt_tokens": 65635,
-    "prompt_tokens_details": {
-      "cached_tokens": 64384
-    },
-    "total_tokens": 66017
-  },
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:26:33.232751489Z",
   "translation": "E o rei enviou e ajuntou ⟨את⟩ todos os anciãos de Yehudá e Yerushalayim",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "e enviou"
+      "gloss": "e enviou"
     },
     {
       "surface": "המלך",
-      "english": "o rei"
+      "gloss": "o rei"
     },
     {
       "surface": "ויאסף",
-      "english": "e ajuntou"
+      "gloss": "e ajuntou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todos os anciãos"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "זקני",
-      "english": "os anciãos"
+      "gloss": "os anciãos"
     },
     {
       "surface": "יהודה",
-      "english": "de Yehudá"
+      "gloss": "de Yehudá"
     },
     {
       "surface": "וירושלם",
-      "english": "e Yerushalayim"
+      "gloss": "e Yerushalayim"
     }
-  ],
-  "timestamp": "2026-07-16T12:26:33.232751489Z",
-  "model": "glm-4.5"
+  ]
 }

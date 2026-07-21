@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 74:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 462,
-    "prompt_tokens": 70376,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70838
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:21.363982859Z",
   "translation": "Eles lançaram fogo no teu santuário; ⟨profanaram⟩ até o chão a morada do teu Nome.",
   "tokens": [
     {
       "surface": "שלחו",
-      "english": "Eles lançaram"
+      "gloss": "Eles lançaram"
     },
     {
       "surface": "באש",
-      "english": "fogo"
+      "gloss": "fogo"
     },
     {
       "surface": "מקדשך",
-      "english": "no teu santuário"
+      "gloss": "no teu santuário"
     },
     {
       "surface": "לארץ",
-      "english": "até o chão"
+      "gloss": "até o chão"
     },
     {
       "surface": "חללו",
-      "english": "⟨profanaram⟩"
+      "gloss": "⟨profanaram⟩"
     },
     {
       "surface": "משכן",
-      "english": "a morada"
+      "gloss": "a morada"
     },
     {
       "surface": "שמך",
-      "english": "do teu Nome"
+      "gloss": "do teu Nome"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:21.363982859Z",
-  "model": "glm-4.5"
+  ]
 }

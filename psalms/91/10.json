@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 91:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 419,
-    "prompt_tokens": 70322,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70741
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:44:23.680263516Z",
   "translation": "Não te sobrevirá ⟨uma⟩ raá, e ⟨uma⟩ praga não chegará à ⟨tua⟩ ohel",
   "tokens": [
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תאנה",
-      "english": "te sobrevirá"
+      "gloss": "te sobrevirá"
     },
     {
       "surface": "אליך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "רעה",
-      "english": "raá"
+      "gloss": "raá"
     },
     {
       "surface": "ונגע",
-      "english": "e uma praga"
+      "gloss": "e uma praga"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יקרב",
-      "english": "chegará"
+      "gloss": "chegará"
     },
     {
       "surface": "באהלך",
-      "english": "à tua ohel"
+      "gloss": "à tua ohel"
     }
-  ],
-  "timestamp": "2026-07-16T17:44:23.680263516Z",
-  "model": "glm-4.5"
+  ]
 }

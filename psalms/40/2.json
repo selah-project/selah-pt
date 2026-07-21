@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 40:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62969,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63314
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:06:18.275266488Z",
   "translation": "Esperei ⟨por⟩ YHWH e ⟨Ele⟩ inclinou-se ⟨para⟩ mim e ouviu ⟨o⟩ meu clamor.",
   "tokens": [
     {
       "surface": "קוה",
-      "english": "Esperei"
+      "gloss": "Esperei"
     },
     {
       "surface": "קויתי",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויט",
-      "english": "e ⟨Ele⟩ inclinou-se"
+      "gloss": "e ⟨Ele⟩ inclinou-se"
     },
     {
       "surface": "אלי",
-      "english": "⟨para⟩ mim"
+      "gloss": "⟨para⟩ mim"
     },
     {
       "surface": "וישמע",
-      "english": "e ouviu"
+      "gloss": "e ouviu"
     },
     {
       "surface": "שועתי",
-      "english": "⟨o⟩ meu clamor"
+      "gloss": "⟨o⟩ meu clamor"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:06:18.275266488Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

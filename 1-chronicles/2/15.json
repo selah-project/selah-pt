@@ -1,9 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-chronicles 2:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 2,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:31:58.783593295Z",
+  "translation": "Ozem ⟨o⟩ sexto, Davidd ⟨o⟩ sétimo",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "Ozem"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "⟨o⟩ sexto"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "⟨o⟩ sétimo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,40 +36,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 185,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56667,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 56852
-  },
-  "translation": "Ozem ⟨o⟩ sexto, Davidd ⟨o⟩ sétimo",
-  "tokens": [
-    {
-      "surface": "אצם",
-      "english": "Ozem"
-    },
-    {
-      "surface": "הששי",
-      "english": "⟨o⟩ sexto"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "השבעי",
-      "english": "⟨o⟩ sétimo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:31:58.783593295Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

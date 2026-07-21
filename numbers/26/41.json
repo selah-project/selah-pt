@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 41,
   "ref": "numbers 26:41",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 26,
+  "verse": 41,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:38:25.687259245Z",
+  "translation": "Estes ⟨são⟩ ⟨os⟩ filhos de Binyamim segundo suas famílias, e ⟨os⟩ que foram contados deles: cinco e quarenta mil e seiscentos.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Estes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamim"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segundo suas famílias"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "e ⟨os⟩ que foram contados deles"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinco"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e quarenta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e seis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "centos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Benjamim",
@@ -13,64 +60,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18270,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18664
-  },
-  "translation": "Estes ⟨são⟩ ⟨os⟩ filhos de Binyamim segundo suas famílias, e ⟨os⟩ que foram contados deles: cinco e quarenta mil e seiscentos.",
-  "tokens": [
-    {
-      "surface": "אלה",
-      "english": "Estes"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "בנימן",
-      "english": "Binyamim"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "segundo suas famílias"
-    },
-    {
-      "surface": "ופקדיהם",
-      "english": "e ⟨os⟩ que foram contados deles"
-    },
-    {
-      "surface": "חמשה",
-      "english": "cinco"
-    },
-    {
-      "surface": "וארבעים",
-      "english": "e quarenta"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil"
-    },
-    {
-      "surface": "ושש",
-      "english": "e seis"
-    },
-    {
-      "surface": "מאות",
-      "english": "centos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:38:25.687259245Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 9:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 673,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62825,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63498
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:44:45.738441820Z",
   "translation": "Mas YHWH ⟨está⟩ assentado para sempre; ⟨ele⟩ estabeleceu o seu trono ⟨para⟩ julgamento.",
   "tokens": [
     {
       "surface": "ויהוה",
-      "english": "Mas YHWH",
+      "gloss": "Mas YHWH",
       "marks": "o sujeito da oração"
     },
     {
       "surface": "לעולם",
-      "english": "⟨está⟩ assentado para sempre",
+      "gloss": "⟨está⟩ assentado para sempre",
       "marks": "o tempo verbal do verbo seguinte"
     },
     {
       "surface": "ישב",
-      "english": "assentado",
+      "gloss": "assentado",
       "marks": "o estado de estar sentado como juiz"
     },
     {
       "surface": "כונן",
-      "english": "⟨ele⟩ estabeleceu",
+      "gloss": "⟨ele⟩ estabeleceu",
       "marks": "o ato de erigir\/preparar o trono"
     },
     {
       "surface": "למשפט",
-      "english": "⟨para⟩ julgamento",
+      "gloss": "⟨para⟩ julgamento",
       "marks": "o propósito do trono"
     },
     {
       "surface": "כסאו",
-      "english": "o seu trono",
+      "gloss": "o seu trono",
       "marks": "o objeto estabelecido"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:44:45.738441820Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 6:16",
   "book": "job",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27267,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27585
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:44:21.440776591Z",
   "translation": "Os escuros ⟨são⟩ por causa do ⟨gelo⟩; nele ⟨se⟩ esconde ⟨a neve⟩",
   "tokens": [
     {
       "surface": "הקדרים",
-      "english": "Os escuros"
+      "gloss": "Os escuros"
     },
     {
       "surface": "מני",
-      "english": "por causa do"
+      "gloss": "por causa do"
     },
     {
       "surface": "קרח",
-      "english": "⟨gelo⟩"
+      "gloss": "⟨gelo⟩"
     },
     {
       "surface": "עלימו",
-      "english": "nele"
+      "gloss": "nele"
     },
     {
       "surface": "יתעלם",
-      "english": "⟨se⟩ esconde"
+      "gloss": "⟨se⟩ esconde"
     },
     {
       "surface": "שלג",
-      "english": "⟨a neve⟩"
+      "gloss": "⟨a neve⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:44:21.440776591Z",
-  "model": "glm-4.5"
+  ]
 }

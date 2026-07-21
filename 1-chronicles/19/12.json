@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-chronicles 19:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 19,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:54:38.546710078Z",
+  "translation": "E ele disse: ⟨se⟩ Aram ⟨estiver⟩ forte demais para mim, então tu serás para mim ⟨por⟩ salvação; e ⟨se⟩ os filhos de Ammon ⟨estiverem⟩ fortes demais para ti, então eu te salvarei.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ele disse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "תחזק",
+      "gloss": "⟨estiver⟩ forte demais"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "para mim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "então tu serás"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para mim"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "⟨por⟩ salvação"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e ⟨se⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Ammon"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "⟨estiverem⟩ fortes demais"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "para ti"
+    },
+    {
+      "surface": "והושעתיך",
+      "gloss": "então eu te salvarei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amom",
@@ -13,80 +76,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57771,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58375
-  },
-  "translation": "E ele disse: ⟨se⟩ Aram ⟨estiver⟩ forte demais para mim, então tu serás para mim ⟨por⟩ salvação; e ⟨se⟩ os filhos de Ammon ⟨estiverem⟩ fortes demais para ti, então eu te salvarei.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ele disse"
-    },
-    {
-      "surface": "אם",
-      "english": "⟨se⟩"
-    },
-    {
-      "surface": "תחזק",
-      "english": "⟨estiver⟩ forte demais"
-    },
-    {
-      "surface": "ממני",
-      "english": "para mim"
-    },
-    {
-      "surface": "ארם",
-      "english": "Aram"
-    },
-    {
-      "surface": "והיית",
-      "english": "então tu serás"
-    },
-    {
-      "surface": "לי",
-      "english": "para mim"
-    },
-    {
-      "surface": "לתשועה",
-      "english": "⟨por⟩ salvação"
-    },
-    {
-      "surface": "ואם",
-      "english": "e ⟨se⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Ammon"
-    },
-    {
-      "surface": "יחזקו",
-      "english": "⟨estiverem⟩ fortes demais"
-    },
-    {
-      "surface": "ממך",
-      "english": "para ti"
-    },
-    {
-      "surface": "והושעתיך",
-      "english": "então eu te salvarei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:54:38.546710078Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

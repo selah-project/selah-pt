@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 1:9",
   "book": "job",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 483,
-    "prompt_tokens": 27718,
-    "prompt_tokens_details": {
-      "cached_tokens": 16384
-    },
-    "total_tokens": 28201
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:52:37.199164755Z",
   "translation": "E ha-Satán respondeu a ⟨YHWH⟩ e disse: Por acaso Iyov teme a Elohim gratuitamente?",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "E respondeu"
+      "gloss": "E respondeu"
     },
     {
       "surface": "השטן",
-      "english": "ha-Satán"
+      "gloss": "ha-Satán"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויאמר",
-      "english": "e disse"
+      "gloss": "e disse"
     },
     {
       "surface": "החנם",
-      "english": "por acaso gratuitamente"
+      "gloss": "por acaso gratuitamente"
     },
     {
       "surface": "ירא",
-      "english": "teme"
+      "gloss": "teme"
     },
     {
       "surface": "איוב",
-      "english": "Iyov"
+      "gloss": "Iyov"
     },
     {
       "surface": "אלהים",
-      "english": "a Elohim"
+      "gloss": "a Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T15:52:37.199164755Z",
-  "model": "glm-4.5"
+  ]
 }

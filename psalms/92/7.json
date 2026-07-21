@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 92:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 377,
-    "prompt_tokens": 70516,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70893
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:43:52.690029104Z",
   "translation": "Um homem bruto não sabe, e um insensato não entende ⟨את⟩ isto.",
   "tokens": [
     {
       "surface": "איש",
-      "english": "Um homem"
+      "gloss": "Um homem"
     },
     {
       "surface": "בער",
-      "english": "bruto"
+      "gloss": "bruto"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "ידע",
-      "english": "sabe"
+      "gloss": "sabe"
     },
     {
       "surface": "וכסיל",
-      "english": ", e um insensato"
+      "gloss": ", e um insensato"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יבין",
-      "english": "entende"
+      "gloss": "entende"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "isto"
     },
     {
       "surface": "זאת",
-      "english": "isto"
+      "gloss": "isto"
     }
-  ],
-  "timestamp": "2026-07-16T17:43:52.690029104Z",
-  "model": "glm-4.5"
+  ]
 }

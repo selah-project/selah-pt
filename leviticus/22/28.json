@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "leviticus 22:28",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 578,
-    "prompt_tokens": 25146,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25724
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:50:00.630730222Z",
   "translation": "⟨E⟩ um bovino ou ⟨um⟩ animal pequeno, ⟨את⟩ e ⟨את⟩ o seu filho, não ⟨o⟩ imolareis em ⟨um⟩ dia",
   "tokens": [
     {
       "surface": "ושור",
-      "english": "⟨E⟩ um bovino"
+      "gloss": "⟨E⟩ um bovino"
     },
     {
       "surface": "או",
-      "english": "ou"
+      "gloss": "ou"
     },
     {
       "surface": "שה",
-      "english": "⟨um⟩ animal pequeno"
+      "gloss": "⟨um⟩ animal pequeno"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ele (o animal)"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o seu filho"
     },
     {
       "surface": "בנו",
-      "english": "o seu filho"
+      "gloss": "o seu filho"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תשחטו",
-      "english": "⟨o⟩ imolareis"
+      "gloss": "⟨o⟩ imolareis"
     },
     {
       "surface": "ביום",
-      "english": "em ⟨um⟩ dia"
+      "gloss": "em ⟨um⟩ dia"
     },
     {
       "surface": "אחד",
-      "english": "dia"
+      "gloss": "dia"
     }
-  ],
-  "timestamp": "2026-07-16T16:50:00.630730222Z",
-  "model": "glm-4.5"
+  ]
 }

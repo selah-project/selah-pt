@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 114:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62764,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63192
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:55:57.071078233Z",
   "translation": "Os montes dançaram ⟨como⟩ carneiros, ⟨as⟩ colinas ⟨como⟩ cordeiros ⟨do⟩ rebanho.",
   "tokens": [
     {
       "surface": "ההרים",
-      "english": "Os montes"
+      "gloss": "Os montes"
     },
     {
       "surface": "רקדו",
-      "english": "dançaram"
+      "gloss": "dançaram"
     },
     {
       "surface": "כאילים",
-      "english": "⟨como⟩ carneiros"
+      "gloss": "⟨como⟩ carneiros"
     },
     {
       "surface": "גבעות",
-      "english": "⟨as⟩ colinas"
+      "gloss": "⟨as⟩ colinas"
     },
     {
       "surface": "כבני",
-      "english": "⟨como⟩ cordeiros"
+      "gloss": "⟨como⟩ cordeiros"
     },
     {
       "surface": "צאן",
-      "english": "⟨do⟩ rebanho"
+      "gloss": "⟨do⟩ rebanho"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:55:57.071078233Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

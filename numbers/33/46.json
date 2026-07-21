@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 46,
   "ref": "numbers 33:46",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 33,
+  "verse": 46,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:46:41.741601965Z",
+  "translation": "E partiram de Dibom-Gad e acamparam em Almon-Diblataimá",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "E partiram",
+      "marks": null
+    },
+    {
+      "surface": "מדיבן",
+      "gloss": "de Dibom-Gade",
+      "marks": null
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad",
+      "marks": null
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e acamparam",
+      "marks": null
+    },
+    {
+      "surface": "בעלמן",
+      "gloss": "em Almon",
+      "marks": null
+    },
+    {
+      "surface": "דבלתימה",
+      "gloss": "Diblataimá",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Gade",
@@ -13,54 +50,6 @@
       "hebrew": "גד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17892,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18248
-  },
-  "translation": "E partiram de Dibom-Gad e acamparam em Almon-Diblataimá",
-  "tokens": [
-    {
-      "surface": "ויסעו",
-      "english": "E partiram",
-      "marks": null
-    },
-    {
-      "surface": "מדיבן",
-      "english": "de Dibom-Gade",
-      "marks": null
-    },
-    {
-      "surface": "גד",
-      "english": "Gad",
-      "marks": null
-    },
-    {
-      "surface": "ויחנו",
-      "english": "e acamparam",
-      "marks": null
-    },
-    {
-      "surface": "בעלמן",
-      "english": "em Almon",
-      "marks": null
-    },
-    {
-      "surface": "דבלתימה",
-      "english": "Diblataimá",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:46:41.741601965Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

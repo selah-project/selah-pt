@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "jeremiah 29:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 29,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:32:06.985710007Z",
+  "translation": "Porque dissestes: YHWH nos levantou profetas em Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "dissestes"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "levantou"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profetas"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "em Bavel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,52 +48,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 163,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17379,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 17542
-  },
-  "translation": "Porque dissestes: YHWH nos levantou profetas em Bavel.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "אמרתם",
-      "english": "dissestes"
-    },
-    {
-      "surface": "הקים",
-      "english": "levantou"
-    },
-    {
-      "surface": "לנו",
-      "english": "nos"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "נבאים",
-      "english": "profetas"
-    },
-    {
-      "surface": "בבלה",
-      "english": "em Bavel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:32:06.985710007Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

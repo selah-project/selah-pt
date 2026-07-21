@@ -1,9 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "numbers 2:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 2,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:09:47.638363202Z",
+  "translation": "E ⟨para⟩ a tribo ⟨de⟩ Binyamim, e ⟨o⟩ príncipe ⟨dos⟩ filhos ⟨de⟩ Binyamim ⟨é⟩ Abidã, filho ⟨de⟩ Gideoni;",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "E ⟨para⟩ a tribo ⟨de⟩",
+      "marks": "Benjamim"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamim"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "e ⟨o⟩ príncipe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨dos⟩ filhos ⟨de⟩",
+      "marks": "Benjamim"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamim"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Abidã"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho ⟨de⟩",
+      "marks": "Gideoni"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Gideoni"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Benjamim",
@@ -20,59 +62,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18054,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18527
-  },
-  "translation": "E ⟨para⟩ a tribo ⟨de⟩ Binyamim, e ⟨o⟩ príncipe ⟨dos⟩ filhos ⟨de⟩ Binyamim ⟨é⟩ Abidã, filho ⟨de⟩ Gideoni;",
-  "tokens": [
-    {
-      "surface": "ומטה",
-      "english": "E ⟨para⟩ a tribo ⟨de⟩",
-      "marks": "Benjamim"
-    },
-    {
-      "surface": "בנימן",
-      "english": "Binyamim"
-    },
-    {
-      "surface": "ונשיא",
-      "english": "e ⟨o⟩ príncipe"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨dos⟩ filhos ⟨de⟩",
-      "marks": "Benjamim"
-    },
-    {
-      "surface": "בנימן",
-      "english": "Binyamim"
-    },
-    {
-      "surface": "אבידן",
-      "english": "Abidã"
-    },
-    {
-      "surface": "בן",
-      "english": "filho ⟨de⟩",
-      "marks": "Gideoni"
-    },
-    {
-      "surface": "גדעני",
-      "english": "Gideoni"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:09:47.638363202Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

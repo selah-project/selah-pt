@@ -1,47 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "1-kings 9:18",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 284,
-    "prompt_tokens": 69681,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 69965
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:27:30.950932108Z",
   "translation": "e ⟨את⟩ Baalat, e ⟨את⟩ Tamar, no deserto, na terra",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Baalat"
     },
     {
       "surface": "בעלת",
-      "english": "Baalat"
+      "gloss": "Baalat"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Tamar"
     },
     {
       "surface": "תמר",
-      "english": "Tamar"
+      "gloss": "Tamar"
     },
     {
       "surface": "במדבר",
-      "english": "no deserto"
+      "gloss": "no deserto"
     },
     {
       "surface": "בארץ",
-      "english": "na terra"
+      "gloss": "na terra"
     }
-  ],
-  "timestamp": "2026-07-16T11:27:30.950932108Z",
-  "model": "glm-4.5"
+  ]
 }

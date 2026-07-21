@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 106:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62831,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63369
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:50:52.075148778Z",
   "translation": "E as águas cobriram ⟨o⟩ opressores ⟨deles⟩; nenhum ⟨deles⟩ permaneceu ⟨sem⟩ sobrar.",
   "tokens": [
     {
       "surface": "ויכסו",
-      "english": "E as águas cobriram"
+      "gloss": "E as águas cobriram"
     },
     {
       "surface": "מים",
-      "english": "as águas"
+      "gloss": "as águas"
     },
     {
       "surface": "צריהם",
-      "english": "⟨o⟩ opressores ⟨deles⟩",
+      "gloss": "⟨o⟩ opressores ⟨deles⟩",
       "marks": "opressores deles"
     },
     {
       "surface": "אחד",
-      "english": "nenhum"
+      "gloss": "nenhum"
     },
     {
       "surface": "מהם",
-      "english": "⟨deles⟩",
+      "gloss": "⟨deles⟩",
       "marks": "deles"
     },
     {
       "surface": "לא",
-      "english": "⟨sem⟩",
+      "gloss": "⟨sem⟩",
       "marks": "permaneceu sem sobrar"
     },
     {
       "surface": "נותר",
-      "english": "permaneceu ⟨sem⟩ sobrar"
+      "gloss": "permaneceu ⟨sem⟩ sobrar"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:50:52.075148778Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 73:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62743,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63117
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:27:26.754990526Z",
   "translation": "E pensei para saber ⟨isto⟩, ⟨o⟩ toil ⟨é⟩ em meus olhos",
   "tokens": [
     {
       "surface": "ואחשבה",
-      "english": "E pensei"
+      "gloss": "E pensei"
     },
     {
       "surface": "לדעת",
-      "english": "para saber"
+      "gloss": "para saber"
     },
     {
       "surface": "זאת",
-      "english": "⟨isto⟩",
+      "gloss": "⟨isto⟩",
       "marks": "isto"
     },
     {
       "surface": "עמל",
-      "english": "⟨o⟩ toil",
+      "gloss": "⟨o⟩ toil",
       "marks": "toil"
     },
     {
       "surface": "היא",
-      "english": "⟨é⟩"
+      "gloss": "⟨é⟩"
     },
     {
       "surface": "בעיני",
-      "english": "em meus olhos"
+      "gloss": "em meus olhos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:27:26.754990526Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

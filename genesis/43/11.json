@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 43:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 43,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:27:12.745721055Z",
+  "translation": "E Yisrael seu pai disse-lhes: Se ⟨é⟩ assim, pois, fazei isto: tomai das melhores produções ⟨da⟩ terra em vossos vasos, e levai ⟨para⟩ ⟨o⟩ homem um Minjá: um pouco de bálsamo, e um pouco de mel, e especiarias e mirra, e pistaches e amêndoas:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "disse-lhes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨é⟩ assim"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "pois"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "fazei isto"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fazei isto"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "tomai"
+    },
+    {
+      "surface": "מזמרת",
+      "gloss": "das melhores produções"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨da⟩ terra"
+    },
+    {
+      "surface": "בכליכם",
+      "gloss": "em vossos vasos"
+    },
+    {
+      "surface": "והורידו",
+      "gloss": "e levai"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨para⟩ ⟨o⟩ homem"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "um Minjá"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "um pouco"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "de bálsamo"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "e um pouco"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "de mel"
+    },
+    {
+      "surface": "נכאת",
+      "gloss": "e especiarias e mirra"
+    },
+    {
+      "surface": "ולט",
+      "gloss": "e pistaches"
+    },
+    {
+      "surface": "בטנים",
+      "gloss": "e pistaches"
+    },
+    {
+      "surface": "ושקדים",
+      "gloss": "e amêndoas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,120 +123,6 @@
       "hebrew": "מנחה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 43,
-  "usage": {
-    "completion_tokens": 756,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22958,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 23714
-  },
-  "translation": "E Yisrael seu pai disse-lhes: Se ⟨é⟩ assim, pois, fazei isto: tomai das melhores produções ⟨da⟩ terra em vossos vasos, e levai ⟨para⟩ ⟨o⟩ homem um Minjá: um pouco de bálsamo, e um pouco de mel, e especiarias e mirra, e pistaches e amêndoas:",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E"
-    },
-    {
-      "surface": "אלהם",
-      "english": "disse-lhes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אביהם",
-      "english": "seu pai"
-    },
-    {
-      "surface": "אם",
-      "english": "Se"
-    },
-    {
-      "surface": "כן",
-      "english": "⟨é⟩ assim"
-    },
-    {
-      "surface": "אפוא",
-      "english": "pois"
-    },
-    {
-      "surface": "זאת",
-      "english": "fazei isto"
-    },
-    {
-      "surface": "עשו",
-      "english": "fazei isto"
-    },
-    {
-      "surface": "קחו",
-      "english": "tomai"
-    },
-    {
-      "surface": "מזמרת",
-      "english": "das melhores produções"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨da⟩ terra"
-    },
-    {
-      "surface": "בכליכם",
-      "english": "em vossos vasos"
-    },
-    {
-      "surface": "והורידו",
-      "english": "e levai"
-    },
-    {
-      "surface": "לאיש",
-      "english": "⟨para⟩ ⟨o⟩ homem"
-    },
-    {
-      "surface": "מנחה",
-      "english": "um Minjá"
-    },
-    {
-      "surface": "מעט",
-      "english": "um pouco"
-    },
-    {
-      "surface": "צרי",
-      "english": "de bálsamo"
-    },
-    {
-      "surface": "ומעט",
-      "english": "e um pouco"
-    },
-    {
-      "surface": "דבש",
-      "english": "de mel"
-    },
-    {
-      "surface": "נכאת",
-      "english": "e especiarias e mirra"
-    },
-    {
-      "surface": "ולט",
-      "english": "e pistaches"
-    },
-    {
-      "surface": "בטנים",
-      "english": "e pistaches"
-    },
-    {
-      "surface": "ושקדים",
-      "english": "e amêndoas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:27:12.745721055Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 19:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 19,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:54:16.555978071Z",
+  "translation": "Então Hanun tomou ⟨os⟩ servos de David e os barbeou e cortou ⟨as⟩ vestes deles ⟨em⟩ meio até ⟨as⟩ nádegas e os enviou",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Então"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨os⟩",
+      "marks": "servos"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "e os barbeou"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "e cortou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨as⟩",
+      "marks": "vestes deles"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "vestes deles"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "⟨em⟩ meio"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "⟨as⟩ nádegas"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "e os enviou"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,78 +74,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57826,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58386
-  },
-  "translation": "Então Hanun tomou ⟨os⟩ servos de David e os barbeou e cortou ⟨as⟩ vestes deles ⟨em⟩ meio até ⟨as⟩ nádegas e os enviou",
-  "tokens": [
-    {
-      "surface": "ויקח",
-      "english": "Então"
-    },
-    {
-      "surface": "חנון",
-      "english": "Hanun"
-    },
-    {
-      "surface": "את",
-      "english": "⟨os⟩",
-      "marks": "servos"
-    },
-    {
-      "surface": "עבדי",
-      "english": "servos"
-    },
-    {
-      "surface": "דויד",
-      "english": "de David"
-    },
-    {
-      "surface": "ויגלחם",
-      "english": "e os barbeou"
-    },
-    {
-      "surface": "ויכרת",
-      "english": "e cortou"
-    },
-    {
-      "surface": "את",
-      "english": "⟨as⟩",
-      "marks": "vestes deles"
-    },
-    {
-      "surface": "מדויהם",
-      "english": "vestes deles"
-    },
-    {
-      "surface": "בחצי",
-      "english": "⟨em⟩ meio"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "המפשעה",
-      "english": "⟨as⟩ nádegas"
-    },
-    {
-      "surface": "וישלחם",
-      "english": "e os enviou"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:54:16.555978071Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

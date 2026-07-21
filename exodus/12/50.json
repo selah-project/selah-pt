@@ -1,75 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "exodus 12:50",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 444,
-    "prompt_tokens": 24877,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25321
-  },
+  "verse": 50,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:49:18.536018105Z",
   "translation": "E todos ⟨os⟩ filhos de Yisrael fizeram como YHWH ⟨את⟩ Moshé ⟨e⟩ ⟨את⟩ Aharon ordenaram, assim fizeram.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "english": "E ... fizeram"
+      "gloss": "E ... fizeram"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "בני",
-      "english": "⟨os⟩ filhos de"
+      "gloss": "⟨os⟩ filhos de"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "צוה",
-      "english": "ordenaram"
+      "gloss": "ordenaram"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Moshé"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "ואת",
-      "english": "⟨e⟩ ⟨את⟩",
+      "gloss": "⟨e⟩ ⟨את⟩",
       "marks": "Aharon"
     },
     {
       "surface": "אהרן",
-      "english": "Aharon"
+      "gloss": "Aharon"
     },
     {
       "surface": "כן",
-      "english": "assim"
+      "gloss": "assim"
     },
     {
       "surface": "עשו",
-      "english": "fizeram"
+      "gloss": "fizeram"
     }
-  ],
-  "timestamp": "2026-07-16T13:49:18.536018105Z",
-  "model": "glm-4.5"
+  ]
 }

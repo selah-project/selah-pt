@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "job 10:11",
   "book": "job",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 310,
-    "prompt_tokens": 27443,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27753
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:57:53.028414243Z",
   "translation": "Pele e carne me vestiste, e com ossos e tendões me teceste.",
   "tokens": [
     {
       "surface": "עור",
-      "english": "Pele"
+      "gloss": "Pele"
     },
     {
       "surface": "ובשר",
-      "english": "e carne"
+      "gloss": "e carne"
     },
     {
       "surface": "תלבישני",
-      "english": "me vestiste"
+      "gloss": "me vestiste"
     },
     {
       "surface": "ובעצמות",
-      "english": "e com ossos"
+      "gloss": "e com ossos"
     },
     {
       "surface": "וגידים",
-      "english": "e tendões"
+      "gloss": "e tendões"
     },
     {
       "surface": "תסככני",
-      "english": "me teceste"
+      "gloss": "me teceste"
     }
-  ],
-  "timestamp": "2026-07-16T15:57:53.028414243Z",
-  "model": "glm-4.5"
+  ]
 }

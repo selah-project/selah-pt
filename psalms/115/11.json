@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 115:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62868,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63326
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:56:29.332259237Z",
   "translation": "Os que temem a YHWH, confiem ⟨em⟩ YHWH; ⟨Ele⟩ ⟨é⟩ ⟨o⟩ seu auxílio e ⟨o⟩ seu escudo.",
   "tokens": [
     {
       "surface": "יראי",
-      "english": "Os que temem"
+      "gloss": "Os que temem"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "בטחו",
-      "english": "confiem"
+      "gloss": "confiem"
     },
     {
       "surface": "ביהוה",
-      "english": "⟨em⟩ YHWH",
+      "gloss": "⟨em⟩ YHWH",
       "marks": "YHWH em quem se confia"
     },
     {
       "surface": "עזרם",
-      "english": "⟨o⟩ seu auxílio"
+      "gloss": "⟨o⟩ seu auxílio"
     },
     {
       "surface": "ומגנם",
-      "english": "e ⟨o⟩ seu escudo"
+      "gloss": "e ⟨o⟩ seu escudo"
     },
     {
       "surface": "הוא",
-      "english": "⟨Ele⟩ ⟨é⟩"
+      "gloss": "⟨Ele⟩ ⟨é⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:56:29.332259237Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

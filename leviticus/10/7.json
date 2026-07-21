@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "leviticus 10:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 10,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:45:45.032962790Z",
+  "translation": "E da entrada da ⟨tenda⟩ da congregação ⟨é o⟩ que não sairás, ⟨para⟩ que não morras; porquanto ⟨o⟩ óleo ⟨da⟩ unção ⟨de⟩ YHWH ⟨está⟩ sobre vós. E fizeram conforme ⟨a⟩ palavra ⟨de⟩ Moshé.",
+  "tokens": [
+    {
+      "surface": "ומפתח",
+      "gloss": "E da entrada"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "da ⟨tenda⟩"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "da congregação"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨é o⟩ que não"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "sairás"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨para⟩ que"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "não morras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porquanto"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "⟨o⟩ óleo"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "⟨da⟩ unção"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "⟨está⟩ sobre vós"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "E fizeram"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "conforme ⟨a⟩ palavra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨de⟩ Moshé"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshe",
@@ -13,84 +80,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 740,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18211,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 18951
-  },
-  "translation": "E da entrada da ⟨tenda⟩ da congregação ⟨é o⟩ que não sairás, ⟨para⟩ que não morras; porquanto ⟨o⟩ óleo ⟨da⟩ unção ⟨de⟩ YHWH ⟨está⟩ sobre vós. E fizeram conforme ⟨a⟩ palavra ⟨de⟩ Moshé.",
-  "tokens": [
-    {
-      "surface": "ומפתח",
-      "english": "E da entrada"
-    },
-    {
-      "surface": "אהל",
-      "english": "da ⟨tenda⟩"
-    },
-    {
-      "surface": "מועד",
-      "english": "da congregação"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨é o⟩ que não"
-    },
-    {
-      "surface": "תצאו",
-      "english": "sairás"
-    },
-    {
-      "surface": "פן",
-      "english": "⟨para⟩ que"
-    },
-    {
-      "surface": "תמתו",
-      "english": "não morras"
-    },
-    {
-      "surface": "כי",
-      "english": "porquanto"
-    },
-    {
-      "surface": "שמן",
-      "english": "⟨o⟩ óleo"
-    },
-    {
-      "surface": "משחת",
-      "english": "⟨da⟩ unção"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    },
-    {
-      "surface": "עליכם",
-      "english": "⟨está⟩ sobre vós"
-    },
-    {
-      "surface": "ויעשו",
-      "english": "E fizeram"
-    },
-    {
-      "surface": "כדבר",
-      "english": "conforme ⟨a⟩ palavra"
-    },
-    {
-      "surface": "משה",
-      "english": "⟨de⟩ Moshé"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:45:45.032962790Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

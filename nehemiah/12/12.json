@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "nehemiah 12:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 12,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:27:31.309282001Z",
+  "translation": "E nos dias de Ioiakim ⟨eram⟩ Kohens, cabeças ⟨dos⟩ pais: de Seraías, Meraías; de Jeremias, Hananias;",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "E nos dias de"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Ioiakim"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨eram⟩"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "Kohens"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "cabeças"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "⟨dos⟩ pais"
+    },
+    {
+      "surface": "לשריה",
+      "gloss": "de Seraías"
+    },
+    {
+      "surface": "מריה",
+      "gloss": "Meraías"
+    },
+    {
+      "surface": "לירמיה",
+      "gloss": "de Jeremias"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,64 +60,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 49795,
-    "prompt_tokens_details": {
-      "cached_tokens": 48509
-    },
-    "total_tokens": 50190
-  },
-  "translation": "E nos dias de Ioiakim ⟨eram⟩ Kohens, cabeças ⟨dos⟩ pais: de Seraías, Meraías; de Jeremias, Hananias;",
-  "tokens": [
-    {
-      "surface": "ובימי",
-      "english": "E nos dias de"
-    },
-    {
-      "surface": "יויקים",
-      "english": "Ioiakim"
-    },
-    {
-      "surface": "היו",
-      "english": "⟨eram⟩"
-    },
-    {
-      "surface": "כהנים",
-      "english": "Kohens"
-    },
-    {
-      "surface": "ראשי",
-      "english": "cabeças"
-    },
-    {
-      "surface": "האבות",
-      "english": "⟨dos⟩ pais"
-    },
-    {
-      "surface": "לשריה",
-      "english": "de Seraías"
-    },
-    {
-      "surface": "מריה",
-      "english": "Meraías"
-    },
-    {
-      "surface": "לירמיה",
-      "english": "de Jeremias"
-    },
-    {
-      "surface": "חנניה",
-      "english": "Hananias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:27:31.309282001Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

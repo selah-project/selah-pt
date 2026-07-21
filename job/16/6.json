@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 16:6",
   "book": "job",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 614,
-    "prompt_tokens": 27600,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 28214
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:58:12.119837642Z",
   "translation": "Se eu falar, ⟨a⟩ minha dor ⟨não⟩ ⟨é⟩ contida; e se eu calar, como ⟨será⟩ ⟨aliviado⟩ ⟨o que sai⟩ de mim?",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Se"
+      "gloss": "Se"
     },
     {
       "surface": "אדברה",
-      "english": "eu falar"
+      "gloss": "eu falar"
     },
     {
       "surface": "לא",
-      "english": "⟨não⟩"
+      "gloss": "⟨não⟩"
     },
     {
       "surface": "יחשך",
-      "english": "⟨é⟩ contida"
+      "gloss": "⟨é⟩ contida"
     },
     {
       "surface": "כאבי",
-      "english": "⟨a⟩ minha dor"
+      "gloss": "⟨a⟩ minha dor"
     },
     {
       "surface": "ואחדלה",
-      "english": "e se eu calar"
+      "gloss": "e se eu calar"
     },
     {
       "surface": "מה",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "מני",
-      "english": "⟨será⟩ ⟨aliviado⟩ ⟨o que sai⟩"
+      "gloss": "⟨será⟩ ⟨aliviado⟩ ⟨o que sai⟩"
     },
     {
       "surface": "יהלך",
-      "english": "de mim"
+      "gloss": "de mim"
     }
-  ],
-  "timestamp": "2026-07-16T15:58:12.119837642Z",
-  "model": "glm-4.5"
+  ]
 }

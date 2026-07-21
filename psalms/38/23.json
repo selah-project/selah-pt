@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 38:23",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 269,
-    "prompt_tokens": 69861,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70130
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:39:22.377230400Z",
   "translation": "Apressa-te, ⟨para⟩ minha ajuda, Adonai, minha salvação.",
   "tokens": [
     {
       "surface": "חושה",
-      "english": "Apressa-te",
+      "gloss": "Apressa-te",
       "gv": 319
     },
     {
       "surface": "לעזרתי",
-      "english": "⟨para⟩ minha ajuda",
+      "gloss": "⟨para⟩ minha ajuda",
       "gv": 717
     },
     {
       "surface": "אדני",
-      "english": "Adonai",
+      "gloss": "Adonai",
       "gv": 65
     },
     {
       "surface": "תשועתי",
-      "english": "minha salvação",
+      "gloss": "minha salvação",
       "gv": 1186
     }
-  ],
-  "timestamp": "2026-07-16T17:39:22.377230400Z",
-  "model": "glm-4.5"
+  ]
 }

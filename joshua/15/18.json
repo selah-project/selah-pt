@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "joshua 15:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 15,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:40:26.345039755Z",
+  "translation": "E aconteceu que ⟨ela⟩ veio e ⟨o⟩ instigou a pedir de ⟨o⟩ pai dela ⟨um⟩ campo e ⟨ela⟩ desceu de ⟨a⟩ jumenta e disse-lhe Kalev: Que ⟨há⟩ para ti?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu que"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "⟨ela⟩ veio"
+    },
+    {
+      "surface": "ותסיתהו",
+      "gloss": "e ⟨o⟩ instigou"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a pedir"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de ⟨o⟩",
+      "marks": "⟨o⟩ pai dela"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "pai dela"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "⟨um⟩ campo"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "e ⟨ela⟩ desceu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de ⟨a⟩"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "jumenta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-lhe"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Que ⟨há⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ti"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Calebe",
@@ -13,85 +81,6 @@
       "hebrew": "כלב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 653,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16924,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 17577
-  },
-  "translation": "E aconteceu que ⟨ela⟩ veio e ⟨o⟩ instigou a pedir de ⟨o⟩ pai dela ⟨um⟩ campo e ⟨ela⟩ desceu de ⟨a⟩ jumenta e disse-lhe Kalev: Que ⟨há⟩ para ti?",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu que"
-    },
-    {
-      "surface": "בבואה",
-      "english": "⟨ela⟩ veio"
-    },
-    {
-      "surface": "ותסיתהו",
-      "english": "e ⟨o⟩ instigou"
-    },
-    {
-      "surface": "לשאול",
-      "english": "a pedir"
-    },
-    {
-      "surface": "מאת",
-      "english": "de ⟨o⟩",
-      "marks": "⟨o⟩ pai dela"
-    },
-    {
-      "surface": "אביה",
-      "english": "pai dela"
-    },
-    {
-      "surface": "שדה",
-      "english": "⟨um⟩ campo"
-    },
-    {
-      "surface": "ותצנח",
-      "english": "e ⟨ela⟩ desceu"
-    },
-    {
-      "surface": "מעל",
-      "english": "de ⟨a⟩"
-    },
-    {
-      "surface": "החמור",
-      "english": "jumenta"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "לה",
-      "english": "-lhe"
-    },
-    {
-      "surface": "כלב",
-      "english": "Kalev"
-    },
-    {
-      "surface": "מה",
-      "english": "Que ⟨há⟩"
-    },
-    {
-      "surface": "לך",
-      "english": "para ti"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:40:26.345039755Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

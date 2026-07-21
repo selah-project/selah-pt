@@ -1,9 +1,98 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "deuteronomy 6:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 6,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:57:38.706152210Z",
+  "translation": "E ouvirás, Yisrael, e guardarás para fazer ⟨o⟩ que ⟨é⟩ bom para ti, e multiplicar-vos-eis muito, como ⟨o⟩ que falou YHWH Elohim de teus pais a ti, uma terra que mana leite e mel.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "E ouvirás"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "e guardarás"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "para fazer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨o⟩ que",
+      "marks": "o que ⟨é⟩ bom para ti"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "⟨é⟩ bom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ti"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "תרבון",
+      "gloss": "multiplicar-vos-eis"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muito"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como ⟨o⟩ que",
+      "marks": "⟨o⟩ que falou YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "de teus pais"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "uma terra"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "que mana"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "leite"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "e mel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,106 +102,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 647,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18800,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 19447
-  },
-  "translation": "E ouvirás, Yisrael, e guardarás para fazer ⟨o⟩ que ⟨é⟩ bom para ti, e multiplicar-vos-eis muito, como ⟨o⟩ que falou YHWH Elohim de teus pais a ti, uma terra que mana leite e mel.",
-  "tokens": [
-    {
-      "surface": "ושמעת",
-      "english": "E ouvirás"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ושמרת",
-      "english": "e guardarás"
-    },
-    {
-      "surface": "לעשות",
-      "english": "para fazer"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨o⟩ que",
-      "marks": "o que ⟨é⟩ bom para ti"
-    },
-    {
-      "surface": "ייטב",
-      "english": "⟨é⟩ bom"
-    },
-    {
-      "surface": "לך",
-      "english": "para ti"
-    },
-    {
-      "surface": "ואשר",
-      "english": "e"
-    },
-    {
-      "surface": "תרבון",
-      "english": "multiplicar-vos-eis"
-    },
-    {
-      "surface": "מאד",
-      "english": "muito"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como ⟨o⟩ que",
-      "marks": "⟨o⟩ que falou YHWH"
-    },
-    {
-      "surface": "דבר",
-      "english": "falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "אבתיך",
-      "english": "de teus pais"
-    },
-    {
-      "surface": "לך",
-      "english": "a ti"
-    },
-    {
-      "surface": "ארץ",
-      "english": "uma terra"
-    },
-    {
-      "surface": "זבת",
-      "english": "que mana"
-    },
-    {
-      "surface": "חלב",
-      "english": "leite"
-    },
-    {
-      "surface": "ודבש",
-      "english": "e mel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:57:38.706152210Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

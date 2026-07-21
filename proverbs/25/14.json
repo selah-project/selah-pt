@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "proverbs 25:14",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60248,
-    "prompt_tokens_details": {
-      "cached_tokens": 59215
-    },
-    "total_tokens": 60843
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:43:49.201833977Z",
   "translation": "⟨As⟩ clouds and wind ⟨and⟩ rain there is none, ⟨so is⟩ a man boasting himself ⟨in⟩ ⟨a⟩ false gift",
   "tokens": [
     {
       "surface": "נשיאים",
-      "english": "clouds"
+      "gloss": "clouds"
     },
     {
       "surface": "ורוח",
-      "english": "and wind"
+      "gloss": "and wind"
     },
     {
       "surface": "וגשם",
-      "english": "and rain"
+      "gloss": "and rain"
     },
     {
       "surface": "אין",
-      "english": "there is none"
+      "gloss": "there is none"
     },
     {
       "surface": "איש",
-      "english": "a man"
+      "gloss": "a man"
     },
     {
       "surface": "מתהלל",
-      "english": "boasting himself"
+      "gloss": "boasting himself"
     },
     {
       "surface": "במתת",
-      "english": "in"
+      "gloss": "in"
     },
     {
       "surface": "שקר",
-      "english": "false gift"
+      "gloss": "false gift"
     }
-  ],
-  "timestamp": "2026-06-13T06:43:49.201833977Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-chronicles 19:8",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 361,
-    "prompt_tokens": 64751,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65112
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:14:17.621751470Z",
   "translation": "E David ouviu, e enviou ⟨את⟩ Yoav e ⟨את⟩ todo o exército ⟨dos⟩ poderosos",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "E David ouviu"
+      "gloss": "E David ouviu"
     },
     {
       "surface": "דויד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "וישלח",
-      "english": "e enviou"
+      "gloss": "e enviou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yoav"
     },
     {
       "surface": "יואב",
-      "english": "Yoav"
+      "gloss": "Yoav"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "todo"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "צבא",
-      "english": "o exército"
+      "gloss": "o exército"
     },
     {
       "surface": "הגבורים",
-      "english": "⟨dos⟩ poderosos"
+      "gloss": "⟨dos⟩ poderosos"
     }
-  ],
-  "timestamp": "2026-07-16T11:14:17.621751470Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "jeremiah 37:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 37,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:41:51.410983153Z",
+  "translation": "E aconteceu na subida ⟨do⟩ exército ⟨dos⟩ caldeus de sobre Yerushalayim, por causa ⟨do⟩ exército ⟨de⟩ Paró",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "na subida"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨do⟩ exército",
+      "marks": "exército dos caldeus"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "⟨dos⟩ caldeus"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de sobre"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "por causa ⟨de⟩",
+      "marks": "exército de Faraó"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨do⟩ exército",
+      "marks": "Faraó"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -20,63 +66,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 537,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17568,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18105
-  },
-  "translation": "E aconteceu na subida ⟨do⟩ exército ⟨dos⟩ caldeus de sobre Yerushalayim, por causa ⟨do⟩ exército ⟨de⟩ Paró",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "בהעלות",
-      "english": "na subida"
-    },
-    {
-      "surface": "חיל",
-      "english": "⟨do⟩ exército",
-      "marks": "exército dos caldeus"
-    },
-    {
-      "surface": "הכשדים",
-      "english": "⟨dos⟩ caldeus"
-    },
-    {
-      "surface": "מעל",
-      "english": "de sobre"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "מפני",
-      "english": "por causa ⟨de⟩",
-      "marks": "exército de Faraó"
-    },
-    {
-      "surface": "חיל",
-      "english": "⟨do⟩ exército",
-      "marks": "Faraó"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:41:51.410983153Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

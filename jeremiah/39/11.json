@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "jeremiah 39:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 39,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:43:51.358525603Z",
+  "translation": "E Nevujadnetzar, rei de Bavel, ⟨deu⟩ uma ordem sobre Yirmeyahu ⟨por⟩ mão de Nebuzaradã, ⟨o⟩ capitão ⟨da⟩ guarda, dizendo:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "E ⟨deu⟩ uma ordem"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevujadnetzar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨por⟩ mão de"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradã"
+    },
+    {
+      "surface": "רב",
+      "gloss": "⟨o⟩ capitão"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "⟨da⟩ guarda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nabucodonosor",
@@ -27,68 +78,6 @@
       "hebrew": "ירמיה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 39,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17777,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18277
-  },
-  "translation": "E Nevujadnetzar, rei de Bavel, ⟨deu⟩ uma ordem sobre Yirmeyahu ⟨por⟩ mão de Nebuzaradã, ⟨o⟩ capitão ⟨da⟩ guarda, dizendo:",
-  "tokens": [
-    {
-      "surface": "ויצו",
-      "english": "E ⟨deu⟩ uma ordem"
-    },
-    {
-      "surface": "נבוכדראצר",
-      "english": "Nevujadnetzar"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "Yirmeyahu"
-    },
-    {
-      "surface": "ביד",
-      "english": "⟨por⟩ mão de"
-    },
-    {
-      "surface": "נבוזראדן",
-      "english": "Nebuzaradã"
-    },
-    {
-      "surface": "רב",
-      "english": "⟨o⟩ capitão"
-    },
-    {
-      "surface": "טבחים",
-      "english": "⟨da⟩ guarda"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:43:51.358525603Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

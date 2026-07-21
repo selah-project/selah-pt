@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 113:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 113,
-  "usage": {
-    "completion_tokens": 474,
-    "prompt_tokens": 70560,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71034
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:03.700577831Z",
   "translation": "Louvai ⟨o⟩ Yah. Louvai, ó servos de YHWH, louvai ⟨את⟩ o nome de YHWH.",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "Louvai"
+      "gloss": "Louvai"
     },
     {
       "surface": "יה",
-      "english": "⟨o⟩ Yah"
+      "gloss": "⟨o⟩ Yah"
     },
     {
       "surface": "הללו",
-      "english": "louvai"
+      "gloss": "louvai"
     },
     {
       "surface": "עבדי",
-      "english": "ó servos de"
+      "gloss": "ó servos de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הללו",
-      "english": "louvai"
+      "gloss": "louvai"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o nome de YHWH"
     },
     {
       "surface": "שם",
-      "english": "o nome de"
+      "gloss": "o nome de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:03.700577831Z",
-  "model": "glm-4.5"
+  ]
 }

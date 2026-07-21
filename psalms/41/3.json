@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 41:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63115,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63534
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:07:00.685586651Z",
   "translation": "YHWH o guardará ⟨e⟩ o conservará vivo; será abençoado na terra; ⟨e⟩ não ⟨o⟩ entregarás ⟨à⟩ alma de seus inimigos.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ישמרהו",
-      "english": "o guardará ⟨e⟩"
+      "gloss": "o guardará ⟨e⟩"
     },
     {
       "surface": "ויחיהו",
-      "english": "o conservará vivo"
+      "gloss": "o conservará vivo"
     },
     {
       "surface": "יאשר",
-      "english": "será abençoado"
+      "gloss": "será abençoado"
     },
     {
       "surface": "בארץ",
-      "english": "na terra"
+      "gloss": "na terra"
     },
     {
       "surface": "ואל",
-      "english": "⟨e⟩ não"
+      "gloss": "⟨e⟩ não"
     },
     {
       "surface": "תתנהו",
-      "english": "⟨o⟩ entregarás"
+      "gloss": "⟨o⟩ entregarás"
     },
     {
       "surface": "בנפש",
-      "english": "⟨à⟩ alma"
+      "gloss": "⟨à⟩ alma"
     },
     {
       "surface": "איביו",
-      "english": "de seus inimigos"
+      "gloss": "de seus inimigos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:07:00.685586651Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

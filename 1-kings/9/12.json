@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-kings 9:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 9,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:24:21.384351447Z",
+  "translation": "E Hiram saiu de Tiro para ver ⟨as⟩ cidades ⟨que⟩ Shlomó lhe dera; e não foram retas ⟨em⟩ seus olhos",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E Hiram saiu"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "de Tiro"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "para ver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨as⟩",
+      "marks": "cidades"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "cidades"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lhe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "foram retas"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "⟨em⟩ seus olhos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Salomão",
@@ -13,77 +73,6 @@
       "hebrew": "שלמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62845,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63367
-  },
-  "translation": "E Hiram saiu de Tiro para ver ⟨as⟩ cidades ⟨que⟩ Shlomó lhe dera; e não foram retas ⟨em⟩ seus olhos",
-  "tokens": [
-    {
-      "surface": "ויצא",
-      "english": "E Hiram saiu"
-    },
-    {
-      "surface": "חירם",
-      "english": "Hiram"
-    },
-    {
-      "surface": "מצר",
-      "english": "de Tiro"
-    },
-    {
-      "surface": "לראות",
-      "english": "para ver"
-    },
-    {
-      "surface": "את",
-      "english": "⟨as⟩",
-      "marks": "cidades"
-    },
-    {
-      "surface": "הערים",
-      "english": "cidades"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "נתן",
-      "english": "dera"
-    },
-    {
-      "surface": "לו",
-      "english": "lhe"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "ישרו",
-      "english": "foram retas"
-    },
-    {
-      "surface": "בעיניו",
-      "english": "⟨em⟩ seus olhos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:24:21.384351447Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

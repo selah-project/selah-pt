@@ -1,87 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "exodus 14:30",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 817,
-    "prompt_tokens": 25178,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25995
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:51:37.790588632Z",
   "translation": "Assim YHWH salvou ⟨את⟩ Yisrael naquele dia da mão de Mitzráyim, e Yisrael viu ⟨את⟩ Mitzráyim morto na orla do mar.",
   "tokens": [
     {
       "surface": "ויושע",
-      "english": "Assim ... salvou"
+      "gloss": "Assim ... salvou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ביום",
-      "english": "naquele dia"
+      "gloss": "naquele dia"
     },
     {
       "surface": "ההוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "מיד",
-      "english": "da mão de"
+      "gloss": "da mão de"
     },
     {
       "surface": "מצרים",
-      "english": "Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "וירא",
-      "english": "e Yisrael viu"
+      "gloss": "e Yisrael viu"
     },
     {
       "surface": "ישראל",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Mitzráyim"
     },
     {
       "surface": "מצרים",
-      "english": "Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "מת",
-      "english": "morto"
+      "gloss": "morto"
     },
     {
       "surface": "על",
-      "english": "na"
+      "gloss": "na"
     },
     {
       "surface": "שפת",
-      "english": "orla"
+      "gloss": "orla"
     },
     {
       "surface": "הים",
-      "english": "do mar"
+      "gloss": "do mar"
     }
-  ],
-  "timestamp": "2026-07-16T13:51:37.790588632Z",
-  "model": "glm-4.5"
+  ]
 }

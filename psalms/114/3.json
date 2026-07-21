@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 114:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62709,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63023
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:55:52.059630016Z",
   "translation": "⟨O⟩ mar viu e fugiu; ⟨o⟩ Jordão recuou para trás",
   "tokens": [
     {
       "surface": "הים",
-      "english": "Mar"
+      "gloss": "Mar"
     },
     {
       "surface": "ראה",
-      "english": "viu"
+      "gloss": "viu"
     },
     {
       "surface": "וינס",
-      "english": "e fugiu"
+      "gloss": "e fugiu"
     },
     {
       "surface": "הירדן",
-      "english": "Jordão"
+      "gloss": "Jordão"
     },
     {
       "surface": "יסב",
-      "english": "recuou"
+      "gloss": "recuou"
     },
     {
       "surface": "לאחור",
-      "english": "para trás"
+      "gloss": "para trás"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:55:52.059630016Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

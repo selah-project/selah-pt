@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "exodus 40:22",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 500,
-    "prompt_tokens": 24705,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25205
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:08:55.414038831Z",
   "translation": "E ele pôs ⟨את⟩ a mesa na tenda da congregação, sobre o lado do Mishkán ao norte, do lado de fora para a cortina",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "E ele pôs"
+      "gloss": "E ele pôs"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "השלחן"
     },
     {
       "surface": "השלחן",
-      "english": "a mesa"
+      "gloss": "a mesa"
     },
     {
       "surface": "באהל",
-      "english": "na tenda"
+      "gloss": "na tenda"
     },
     {
       "surface": "מועד",
-      "english": "da congregação"
+      "gloss": "da congregação"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ירך",
-      "english": "o lado"
+      "gloss": "o lado"
     },
     {
       "surface": "המשכן",
-      "english": "do Mishkán"
+      "gloss": "do Mishkán"
     },
     {
       "surface": "צפנה",
-      "english": "ao norte"
+      "gloss": "ao norte"
     },
     {
       "surface": "מחוץ",
-      "english": "do lado de fora"
+      "gloss": "do lado de fora"
     },
     {
       "surface": "לפרכת",
-      "english": "para a cortina"
+      "gloss": "para a cortina"
     }
-  ],
-  "timestamp": "2026-07-16T14:08:55.414038831Z",
-  "model": "glm-4.5"
+  ]
 }

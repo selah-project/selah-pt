@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "isaiah 8:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 8,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:19:26.001025145Z",
+  "translation": "Pois ⟨não haverá⟩ mais escuridão para ⟨ela⟩ que estava em angústia. Como no tempo anterior, Ele tornou leve ⟨a⟩ terra de Zevulun e ⟨a⟩ terra de Naftali; mas ⟨no⟩ tempo posterior, Ele ⟨fez⟩ pesado ⟨o⟩ caminho do mar, além do Jordão, ⟨a⟩ Galileia dos gentios.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não haverá"
+    },
+    {
+      "surface": "מועף",
+      "gloss": "escuridão"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "para ⟨ela⟩ que estava"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "em angústia"
+    },
+    {
+      "surface": "לה",
+      "gloss": "para ⟨ela⟩"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "Como no tempo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "anterior"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "Ele tornou leve"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨a⟩ terra de"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "וארצה",
+      "gloss": "e ⟨a⟩ terra de"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "והאחרון",
+      "gloss": "mas ⟨no⟩ tempo posterior"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "Ele ⟨fez⟩ pesado"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨o⟩ caminho"
+    },
+    {
+      "surface": "הים",
+      "gloss": "do mar"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "além de"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "⟨o⟩ Jordão"
+    },
+    {
+      "surface": "גליל",
+      "gloss": "⟨a⟩ Galileia"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dos gentios"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zebulom",
@@ -13,108 +104,6 @@
       "hebrew": "זבולן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 782,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19931,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20713
-  },
-  "translation": "Pois ⟨não haverá⟩ mais escuridão para ⟨ela⟩ que estava em angústia. Como no tempo anterior, Ele tornou leve ⟨a⟩ terra de Zevulun e ⟨a⟩ terra de Naftali; mas ⟨no⟩ tempo posterior, Ele ⟨fez⟩ pesado ⟨o⟩ caminho do mar, além do Jordão, ⟨a⟩ Galileia dos gentios.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "לא",
-      "english": "não haverá"
-    },
-    {
-      "surface": "מועף",
-      "english": "escuridão"
-    },
-    {
-      "surface": "לאשר",
-      "english": "para ⟨ela⟩ que estava"
-    },
-    {
-      "surface": "מוצק",
-      "english": "em angústia"
-    },
-    {
-      "surface": "לה",
-      "english": "para ⟨ela⟩"
-    },
-    {
-      "surface": "כעת",
-      "english": "Como no tempo"
-    },
-    {
-      "surface": "הראשון",
-      "english": "anterior"
-    },
-    {
-      "surface": "הקל",
-      "english": "Ele tornou leve"
-    },
-    {
-      "surface": "ארצה",
-      "english": "⟨a⟩ terra de"
-    },
-    {
-      "surface": "זבלון",
-      "english": "Zevulun"
-    },
-    {
-      "surface": "וארצה",
-      "english": "e ⟨a⟩ terra de"
-    },
-    {
-      "surface": "נפתלי",
-      "english": "Naftali"
-    },
-    {
-      "surface": "והאחרון",
-      "english": "mas ⟨no⟩ tempo posterior"
-    },
-    {
-      "surface": "הכביד",
-      "english": "Ele ⟨fez⟩ pesado"
-    },
-    {
-      "surface": "דרך",
-      "english": "⟨o⟩ caminho"
-    },
-    {
-      "surface": "הים",
-      "english": "do mar"
-    },
-    {
-      "surface": "עבר",
-      "english": "além de"
-    },
-    {
-      "surface": "הירדן",
-      "english": "⟨o⟩ Jordão"
-    },
-    {
-      "surface": "גליל",
-      "english": "⟨a⟩ Galileia"
-    },
-    {
-      "surface": "הגוים",
-      "english": "dos gentios"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:19:26.001025145Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

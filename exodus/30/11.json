@@ -1,29 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "exodus 30:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16576,
-    "prompt_tokens_details": {
-      "cached_tokens": 15859
-    },
-    "total_tokens": 17028
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:22:45.230357046Z",
   "translation": "E YHWH falou ⟨a⟩ Moshé, ⟨para⟩ dizer",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "E falou",
+      "gloss": "E falou",
       "lemma": "c\/1696",
       "gv": 222,
       "freq": 194,
@@ -31,7 +19,7 @@
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "lemma": "3068",
       "gv": 26,
       "freq": 6007,
@@ -39,7 +27,7 @@
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Moshé",
       "lemma": "413",
       "gv": 31,
@@ -48,7 +36,7 @@
     },
     {
       "surface": "משה",
-      "english": "Moshé",
+      "gloss": "Moshé",
       "lemma": "4872",
       "gv": 345,
       "freq": 729,
@@ -56,14 +44,15 @@
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ dizer",
+      "gloss": "⟨para⟩ dizer",
       "lemma": "l\/559",
       "gv": 271,
       "freq": 934,
       "in_books": 28
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:22:45.230357046Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-chronicles 11:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 11,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:44:29.947565631Z",
+  "translation": "E Davidd caminhava, indo e tornando-se ⟨o⟩ grande, e ⟨o⟩ Eterno dos Exércitos ⟨estava⟩ com ⟨ele⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "E David caminhava"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "indo"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "e tornando-se ⟨o⟩ grande"
+    },
+    {
+      "surface": "והוה",
+      "gloss": "e ⟨o⟩ Eterno"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "dos Exércitos"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨estava⟩ com ⟨ele⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,52 +48,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57008,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57537
-  },
-  "translation": "E Davidd caminhava, indo e tornando-se ⟨o⟩ grande, e ⟨o⟩ Eterno dos Exércitos ⟨estava⟩ com ⟨ele⟩.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "E David caminhava"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "הלוך",
-      "english": "indo"
-    },
-    {
-      "surface": "וגדול",
-      "english": "e tornando-se ⟨o⟩ grande"
-    },
-    {
-      "surface": "והוה",
-      "english": "e ⟨o⟩ Eterno"
-    },
-    {
-      "surface": "צבאות",
-      "english": "dos Exércitos"
-    },
-    {
-      "surface": "עמו",
-      "english": "⟨estava⟩ com ⟨ele⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:44:29.947565631Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

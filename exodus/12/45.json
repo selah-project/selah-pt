@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "exodus 12:45",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 241,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16575,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 16816
-  },
+  "verse": 45,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:50:47.074574210Z",
   "translation": "Um residente temporário e um assalariado não ⟨deve⟩ comer ⟨dele⟩",
   "tokens": [
     {
       "surface": "תושב",
-      "english": "Um residente temporário"
+      "gloss": "Um residente temporário"
     },
     {
       "surface": "ושכיר",
-      "english": "e um assalariado"
+      "gloss": "e um assalariado"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יאכל",
-      "english": "⟨deve⟩ comer"
+      "gloss": "⟨deve⟩ comer"
     },
     {
       "surface": "בו",
-      "english": "⟨dele⟩"
+      "gloss": "⟨dele⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:50:47.074574210Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 44,
   "ref": "numbers 4:44",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25246,
-    "prompt_tokens_details": {
-      "cached_tokens": 24319
-    },
-    "total_tokens": 25645
-  },
+  "verse": 44,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:29:11.070095661Z",
   "translation": "E ⟨o⟩ ⟨que foi⟩ contado ⟨deles⟩ ⟨por⟩ suas famílias ⟨foi⟩ três mil e duzentos",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "E ⟨o⟩ ⟨que foi⟩"
+      "gloss": "E ⟨o⟩ ⟨que foi⟩"
     },
     {
       "surface": "פקדיהם",
-      "english": "contado ⟨deles⟩"
+      "gloss": "contado ⟨deles⟩"
     },
     {
       "surface": "למשפחתם",
-      "english": "⟨por⟩ suas famílias"
+      "gloss": "⟨por⟩ suas famílias"
     },
     {
       "surface": "שלשת",
-      "english": "três"
+      "gloss": "três"
     },
     {
       "surface": "אלפים",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "ומאתים",
-      "english": "e duzentos"
+      "gloss": "e duzentos"
     }
-  ],
-  "timestamp": "2026-06-13T05:29:11.070095661Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,101 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "2-chronicles 32:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 32,
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:47:03.898425077Z",
+  "translation": "E também ⟨por⟩ ⟨meio de⟩ ⟨os⟩ embaixadores dos príncipes de Bavel, que foram enviados ⟨a⟩ ele ⟨para⟩ inquirir ⟨do⟩ prodígio que ⟨havia⟩ ⟨na⟩ terra, HaShem o abandonou, ⟨para⟩ prová-lo, ⟨para⟩ conhecer todo ⟨o⟩ ⟨que estava⟩ em seu coração.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "E também",
+      "marks": ""
+    },
+    {
+      "surface": "במליצי",
+      "gloss": "⟨por⟩ ⟨meio de⟩ ⟨os⟩ embaixadores",
+      "marks": ""
+    },
+    {
+      "surface": "שרי",
+      "gloss": "⟨dos⟩ príncipes",
+      "marks": ""
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel",
+      "marks": ""
+    },
+    {
+      "surface": "המשלחים",
+      "gloss": "que foram enviados",
+      "marks": ""
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨a⟩ ele",
+      "marks": ""
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "⟨para⟩ inquirir",
+      "marks": ""
+    },
+    {
+      "surface": "המופת",
+      "gloss": "⟨do⟩ prodígio",
+      "marks": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "marks": ""
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨havia⟩",
+      "marks": ""
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ terra",
+      "marks": ""
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "o abandonou",
+      "marks": ""
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaShem",
+      "marks": ""
+    },
+    {
+      "surface": "לנסותו",
+      "gloss": "⟨para⟩ prová-lo",
+      "marks": ""
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "⟨para⟩ conhecer",
+      "marks": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo",
+      "marks": ""
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "⟨o⟩ ⟨que estava⟩ em seu coração",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,109 +105,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 903,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59024,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59927
-  },
-  "translation": "E também ⟨por⟩ ⟨meio de⟩ ⟨os⟩ embaixadores dos príncipes de Bavel, que foram enviados ⟨a⟩ ele ⟨para⟩ inquirir ⟨do⟩ prodígio que ⟨havia⟩ ⟨na⟩ terra, HaShem o abandonou, ⟨para⟩ prová-lo, ⟨para⟩ conhecer todo ⟨o⟩ ⟨que estava⟩ em seu coração.",
-  "tokens": [
-    {
-      "surface": "וכן",
-      "english": "E também",
-      "marks": ""
-    },
-    {
-      "surface": "במליצי",
-      "english": "⟨por⟩ ⟨meio de⟩ ⟨os⟩ embaixadores",
-      "marks": ""
-    },
-    {
-      "surface": "שרי",
-      "english": "⟨dos⟩ príncipes",
-      "marks": ""
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel",
-      "marks": ""
-    },
-    {
-      "surface": "המשלחים",
-      "english": "que foram enviados",
-      "marks": ""
-    },
-    {
-      "surface": "עליו",
-      "english": "⟨a⟩ ele",
-      "marks": ""
-    },
-    {
-      "surface": "לדרש",
-      "english": "⟨para⟩ inquirir",
-      "marks": ""
-    },
-    {
-      "surface": "המופת",
-      "english": "⟨do⟩ prodígio",
-      "marks": ""
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "marks": ""
-    },
-    {
-      "surface": "היה",
-      "english": "⟨havia⟩",
-      "marks": ""
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨na⟩ terra",
-      "marks": ""
-    },
-    {
-      "surface": "עזבו",
-      "english": "o abandonou",
-      "marks": ""
-    },
-    {
-      "surface": "האלהים",
-      "english": "HaShem",
-      "marks": ""
-    },
-    {
-      "surface": "לנסותו",
-      "english": "⟨para⟩ prová-lo",
-      "marks": ""
-    },
-    {
-      "surface": "לדעת",
-      "english": "⟨para⟩ conhecer",
-      "marks": ""
-    },
-    {
-      "surface": "כל",
-      "english": "todo",
-      "marks": ""
-    },
-    {
-      "surface": "בלבבו",
-      "english": "⟨o⟩ ⟨que estava⟩ em seu coração",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:47:03.898425077Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

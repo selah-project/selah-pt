@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "genesis 18:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 18,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:57:27.825045758Z",
+  "translation": "E disseram a ele: ⟨Onde⟩ ⟨está⟩ Sara, ⟨a⟩ esposa de você? E ele disse: ⟨Eis que⟩ ⟨está⟩ na tenda.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E disseram"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "איה",
+      "gloss": "⟨Onde⟩"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "⟨a⟩ esposa de você"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E ele disse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨Eis que⟩"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "⟨está⟩ na tenda"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sarah",
@@ -13,56 +52,6 @@
       "hebrew": "שרה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21332,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 21754
-  },
-  "translation": "E disseram a ele: ⟨Onde⟩ ⟨está⟩ Sara, ⟨a⟩ esposa de você? E ele disse: ⟨Eis que⟩ ⟨está⟩ na tenda.",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "E disseram"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ele"
-    },
-    {
-      "surface": "איה",
-      "english": "⟨Onde⟩"
-    },
-    {
-      "surface": "שרה",
-      "english": "Sara"
-    },
-    {
-      "surface": "אשתך",
-      "english": "⟨a⟩ esposa de você"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E ele disse"
-    },
-    {
-      "surface": "הנה",
-      "english": "⟨Eis que⟩"
-    },
-    {
-      "surface": "באהל",
-      "english": "⟨está⟩ na tenda"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:57:27.825045758Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

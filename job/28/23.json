@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "job 28:23",
   "book": "job",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 358,
-    "prompt_tokens": 27544,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27902
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:59:37.694770870Z",
   "translation": "Elohim entendeu ⟨o⟩ caminho dela, e ele soube ⟨את⟩ o lugar dela",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "הבין",
-      "english": "entendeu"
+      "gloss": "entendeu"
     },
     {
       "surface": "דרכה",
-      "english": "⟨o⟩ caminho dela"
+      "gloss": "⟨o⟩ caminho dela"
     },
     {
       "surface": "והוא",
-      "english": "e ele"
+      "gloss": "e ele"
     },
     {
       "surface": "ידע",
-      "english": "soube"
+      "gloss": "soube"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o lugar dela"
     },
     {
       "surface": "מקומה",
-      "english": "o lugar dela"
+      "gloss": "o lugar dela"
     }
-  ],
-  "timestamp": "2026-07-16T15:59:37.694770870Z",
-  "model": "glm-4.5"
+  ]
 }

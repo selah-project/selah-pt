@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 110:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 110,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62994,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63506
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:54:27.269473756Z",
   "translation": "O cetro da tua força ⟨é o que⟩ YHWH enviará de Tzion — reina no meio dos teus inimigos.",
   "tokens": [
     {
       "surface": "מטה",
-      "english": "O cetro da tua força"
+      "gloss": "O cetro da tua força"
     },
     {
       "surface": "עזך",
-      "english": "da tua força"
+      "gloss": "da tua força"
     },
     {
       "surface": "ישלח",
-      "english": "enviará"
+      "gloss": "enviará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מציון",
-      "english": "de Tzion"
+      "gloss": "de Tzion"
     },
     {
       "surface": "רדה",
-      "english": "reina"
+      "gloss": "reina"
     },
     {
       "surface": "בקרב",
-      "english": "no meio de"
+      "gloss": "no meio de"
     },
     {
       "surface": "איביך",
-      "english": "teus inimigos"
+      "gloss": "teus inimigos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:54:27.269473756Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

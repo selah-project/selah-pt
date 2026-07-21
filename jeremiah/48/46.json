@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 46,
   "ref": "jeremiah 48:46",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 48,
+  "verse": 46,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:51:55.923001425Z",
+  "translation": "Ai de ti, ⟨ó⟩ Moav, pereceu ⟨o⟩ povo de Quemós, pois teus filhos foram levados ⟨ao⟩ cativeiro e tuas filhas ⟨ao⟩ cativeiro.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "de ti"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "pereceu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨o⟩ povo"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "de Quemós"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "foram levados"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "teus filhos"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "⟨ao⟩ cativeiro"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "e tuas filhas"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "⟨ao⟩ cativeiro"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -13,72 +68,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17832,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18294
-  },
-  "translation": "Ai de ti, ⟨ó⟩ Moav, pereceu ⟨o⟩ povo de Quemós, pois teus filhos foram levados ⟨ao⟩ cativeiro e tuas filhas ⟨ao⟩ cativeiro.",
-  "tokens": [
-    {
-      "surface": "אוי",
-      "english": "Ai"
-    },
-    {
-      "surface": "לך",
-      "english": "de ti"
-    },
-    {
-      "surface": "מואב",
-      "english": "Moav"
-    },
-    {
-      "surface": "אבד",
-      "english": "pereceu"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨o⟩ povo"
-    },
-    {
-      "surface": "כמוש",
-      "english": "de Quemós"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "לקחו",
-      "english": "foram levados"
-    },
-    {
-      "surface": "בניך",
-      "english": "teus filhos"
-    },
-    {
-      "surface": "בשבי",
-      "english": "⟨ao⟩ cativeiro"
-    },
-    {
-      "surface": "ובנתיך",
-      "english": "e tuas filhas"
-    },
-    {
-      "surface": "בשביה",
-      "english": "⟨ao⟩ cativeiro"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:51:55.923001425Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "2-chronicles 26:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 26,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:38:16.926088123Z",
+  "translation": "E as demais ⟨palavras⟩ de Uziyahu, as primeiras e as últimas, ⟨são⟩ ⟨escrever⟩ por Isaias ⟨filho⟩ de Amots ⟨o⟩ ⟨profeta⟩",
+  "tokens": [
+    {
+      "surface": "ותר",
+      "gloss": "As demais"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨palavras⟩"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "de Uziyahu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "as primeiras"
+    },
+    {
+      "surface": "והאחרנים",
+      "gloss": "e as últimas"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "⟨são⟩ ⟨escrever⟩"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "por Isaias"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨filho⟩"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "de Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨o⟩ ⟨profeta⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Uzias",
@@ -13,64 +60,6 @@
       "hebrew": "עזיהו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 581,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58380,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58961
-  },
-  "translation": "E as demais ⟨palavras⟩ de Uziyahu, as primeiras e as últimas, ⟨são⟩ ⟨escrever⟩ por Isaias ⟨filho⟩ de Amots ⟨o⟩ ⟨profeta⟩",
-  "tokens": [
-    {
-      "surface": "ותר",
-      "english": "As demais"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨palavras⟩"
-    },
-    {
-      "surface": "עזיהו",
-      "english": "de Uziyahu"
-    },
-    {
-      "surface": "הראשנים",
-      "english": "as primeiras"
-    },
-    {
-      "surface": "והאחרנים",
-      "english": "e as últimas"
-    },
-    {
-      "surface": "כתב",
-      "english": "⟨são⟩ ⟨escrever⟩"
-    },
-    {
-      "surface": "ישעיהו",
-      "english": "por Isaias"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨filho⟩"
-    },
-    {
-      "surface": "אמוץ",
-      "english": "de Amots"
-    },
-    {
-      "surface": "הנביא",
-      "english": "⟨o⟩ ⟨profeta⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:38:16.926088123Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

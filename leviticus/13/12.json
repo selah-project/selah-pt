@@ -1,94 +1,86 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "leviticus 13:12",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 679,
-    "prompt_tokens": 25973,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 26652
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:42:49.694653488Z",
   "translation": "E se a praga florescer ⟨é⟩ florescente na pele, e a praga cobrir ⟨את⟩ todo ⟨o⟩ couro da ferida, desde a sua cabeça até aos seus pés, a todo ⟨o⟩ que aparecer aos olhos do kohen",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "E se"
+      "gloss": "E se"
     },
     {
       "surface": "פרוח",
-      "english": "florescer"
+      "gloss": "florescer"
     },
     {
       "surface": "תפרח",
-      "english": "⟨é⟩ florescente"
+      "gloss": "⟨é⟩ florescente"
     },
     {
       "surface": "הצרעת",
-      "english": "a praga"
+      "gloss": "a praga"
     },
     {
       "surface": "בעור",
-      "english": "na pele"
+      "gloss": "na pele"
     },
     {
       "surface": "וכסתה",
-      "english": "e a praga cobrir"
+      "gloss": "e a praga cobrir"
     },
     {
       "surface": "הצרעת",
-      "english": "a praga"
+      "gloss": "a praga"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todo ⟨o⟩ couro da ferida"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "עור",
-      "english": "⟨o⟩ couro"
+      "gloss": "⟨o⟩ couro"
     },
     {
       "surface": "הנגע",
-      "english": "da ferida"
+      "gloss": "da ferida"
     },
     {
       "surface": "מראשו",
-      "english": "desde a sua cabeça"
+      "gloss": "desde a sua cabeça"
     },
     {
       "surface": "ועד",
-      "english": "até aos seus pés"
+      "gloss": "até aos seus pés"
     },
     {
       "surface": "רגליו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לכל",
-      "english": "a todo"
+      "gloss": "a todo"
     },
     {
       "surface": "מראה",
-      "english": "⟨o⟩ que aparecer"
+      "gloss": "⟨o⟩ que aparecer"
     },
     {
       "surface": "עיני",
-      "english": "aos olhos"
+      "gloss": "aos olhos"
     },
     {
       "surface": "הכהן",
-      "english": "do kohen"
+      "gloss": "do kohen"
     }
-  ],
-  "timestamp": "2026-07-16T16:42:49.694653488Z",
-  "model": "glm-4.5"
+  ]
 }

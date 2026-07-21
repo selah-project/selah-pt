@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "2-chronicles 24:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 24,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:34:11.416286648Z",
+  "translation": "E ⟨o⟩ sepultaram na cidade de ⟨o⟩ Davidd com ⟨os⟩ reis, porque fizera o bem em Israel e ⟨com⟩ ⟨o⟩ Elohim e ⟨com⟩ ⟨a⟩ sua casa.",
+  "tokens": [
+    {
+      "surface": "ויקברהו",
+      "gloss": "E ⟨o⟩ sepultaram"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na cidade de"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "⟨o⟩ Davidd"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com ⟨os⟩"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "reis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fizera"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "o bem"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "em Israel"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e ⟨com⟩ ⟨o⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "e ⟨com⟩ ⟨a⟩ sua casa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,72 +68,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 650,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58438,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59088
-  },
-  "translation": "E ⟨o⟩ sepultaram na cidade de ⟨o⟩ Davidd com ⟨os⟩ reis, porque fizera o bem em Israel e ⟨com⟩ ⟨o⟩ Elohim e ⟨com⟩ ⟨a⟩ sua casa.",
-  "tokens": [
-    {
-      "surface": "ויקברהו",
-      "english": "E ⟨o⟩ sepultaram"
-    },
-    {
-      "surface": "בעיר",
-      "english": "na cidade de"
-    },
-    {
-      "surface": "דויד",
-      "english": "⟨o⟩ Davidd"
-    },
-    {
-      "surface": "עם",
-      "english": "com ⟨os⟩"
-    },
-    {
-      "surface": "המלכים",
-      "english": "reis"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "עשה",
-      "english": "fizera"
-    },
-    {
-      "surface": "טובה",
-      "english": "o bem"
-    },
-    {
-      "surface": "בישראל",
-      "english": "em Israel"
-    },
-    {
-      "surface": "ועם",
-      "english": "e ⟨com⟩ ⟨o⟩"
-    },
-    {
-      "surface": "האלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "וביתו",
-      "english": "e ⟨com⟩ ⟨a⟩ sua casa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:34:11.416286648Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

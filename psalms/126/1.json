@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 126:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 126,
-  "usage": {
-    "completion_tokens": 471,
-    "prompt_tokens": 70614,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71085
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:57.665341012Z",
   "translation": "Cântico dos graus. Na volta de YHWH ⟨את⟩ o retorno de Tzion, fomos como ⟨os⟩ que sonham.",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Cântico"
+      "gloss": "Cântico"
     },
     {
       "surface": "המעלות",
-      "english": "dos graus"
+      "gloss": "dos graus"
     },
     {
       "surface": "בשוב",
-      "english": "Na volta"
+      "gloss": "Na volta"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o retorno de Tzion"
     },
     {
       "surface": "שיבת",
-      "english": "o retorno"
+      "gloss": "o retorno"
     },
     {
       "surface": "ציון",
-      "english": "de Tzion"
+      "gloss": "de Tzion"
     },
     {
       "surface": "היינו",
-      "english": "fomos"
+      "gloss": "fomos"
     },
     {
       "surface": "כחלמים",
-      "english": "como ⟨os⟩ que sonham"
+      "gloss": "como ⟨os⟩ que sonham"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:57.665341012Z",
-  "model": "glm-4.5"
+  ]
 }

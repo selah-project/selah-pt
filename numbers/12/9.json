@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "numbers 12:9",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 284,
-    "prompt_tokens": 25139,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25423
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:10:37.103157292Z",
   "translation": "E a ira de YHWH se acendeu contra eles, e ele partiu.",
   "tokens": [
     {
       "surface": "ויחר",
-      "english": "E ... se acendeu"
+      "gloss": "E ... se acendeu"
     },
     {
       "surface": "אף",
-      "english": "a ira"
+      "gloss": "a ira"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "בם",
-      "english": "contra eles"
+      "gloss": "contra eles"
     },
     {
       "surface": "והלך",
-      "english": "e ele partiu"
+      "gloss": "e ele partiu"
     }
-  ],
-  "timestamp": "2026-07-16T17:10:37.103157292Z",
-  "model": "glm-4.5"
+  ]
 }

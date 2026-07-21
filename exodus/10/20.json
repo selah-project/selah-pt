@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "exodus 10:20",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 412,
-    "prompt_tokens": 24633,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25045
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:47:48.389551575Z",
   "translation": "Mas YHWH endureceu ⟨o⟩ coração de Paró, e ele não despediu ⟨את⟩ os filhos de Yisrael.",
   "tokens": [
     {
       "surface": "ויחזק",
-      "english": "Mas YHWH endureceu"
+      "gloss": "Mas YHWH endureceu"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o coração"
     },
     {
       "surface": "לב",
-      "english": "coração"
+      "gloss": "coração"
     },
     {
       "surface": "פרעה",
-      "english": "de Paró"
+      "gloss": "de Paró"
     },
     {
       "surface": "ולא",
-      "english": "e ele não"
+      "gloss": "e ele não"
     },
     {
       "surface": "שלח",
-      "english": "despediu"
+      "gloss": "despediu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os filhos"
     },
     {
       "surface": "בני",
-      "english": "filhos"
+      "gloss": "filhos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T13:47:48.389551575Z",
-  "model": "glm-4.5"
+  ]
 }

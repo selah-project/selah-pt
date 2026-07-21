@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "isaiah 42:21",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 503,
-    "prompt_tokens": 26482,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 26985
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:17:45.347218098Z",
   "translation": "YHWH tem vontade, por causa da sua justiça, ⟨que Ele⟩ engrandeça a Torá e ⟨a⟩ torne gloriosa.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חפץ",
-      "english": "tem vontade"
+      "gloss": "tem vontade"
     },
     {
       "surface": "למען",
-      "english": "por causa de"
+      "gloss": "por causa de"
     },
     {
       "surface": "צדקו",
-      "english": "da sua justiça"
+      "gloss": "da sua justiça"
     },
     {
       "surface": "יגדיל",
-      "english": "engrandeça"
+      "gloss": "engrandeça"
     },
     {
       "surface": "תורה",
-      "english": "a Torá"
+      "gloss": "a Torá"
     },
     {
       "surface": "ויאדיר",
-      "english": "e ⟨a⟩ torne gloriosa"
+      "gloss": "e ⟨a⟩ torne gloriosa"
     }
-  ],
-  "timestamp": "2026-07-16T15:17:45.347218098Z",
-  "model": "glm-4.5"
+  ]
 }

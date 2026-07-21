@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 89:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 89,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:39:17.543034356Z",
+  "translation": "Encontrei ⟨את⟩ Davidd meu servo; com ⟨o⟩ óleo sagrado de minha santidade ungi ⟨a⟩ ⟨ele⟩",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Encontrei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "meu servo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "com ⟨o⟩ óleo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sagrado de minha santidade"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "ungi ⟨a⟩ ⟨ele⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,48 +44,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 89,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62756,
-    "prompt_tokens_details": {
-      "cached_tokens": 4
-    },
-    "total_tokens": 63076
-  },
-  "translation": "Encontrei ⟨את⟩ Davidd meu servo; com ⟨o⟩ óleo sagrado de minha santidade ungi ⟨a⟩ ⟨ele⟩",
-  "tokens": [
-    {
-      "surface": "מצאתי",
-      "english": "Encontrei"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "עבדי",
-      "english": "meu servo"
-    },
-    {
-      "surface": "בשמן",
-      "english": "com ⟨o⟩ óleo"
-    },
-    {
-      "surface": "קדשי",
-      "english": "sagrado de minha santidade"
-    },
-    {
-      "surface": "משחתיו",
-      "english": "ungi ⟨a⟩ ⟨ele⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:39:17.543034356Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "numbers 13:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 13,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:22:42.573167690Z",
+  "translation": "Para ⟨a⟩ tribo de Binyamim, Palti filho de Raphu.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "Para ⟨a⟩ tribo"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "de Binyamim"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Palti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "de Raphu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Benjamim",
@@ -13,44 +40,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 198,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17747,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 17945
-  },
-  "translation": "Para ⟨a⟩ tribo de Binyamim, Palti filho de Raphu.",
-  "tokens": [
-    {
-      "surface": "למטה",
-      "english": "Para ⟨a⟩ tribo"
-    },
-    {
-      "surface": "בנימן",
-      "english": "de Binyamim"
-    },
-    {
-      "surface": "פלטי",
-      "english": "Palti"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "רפוא",
-      "english": "de Raphu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:22:42.573167690Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

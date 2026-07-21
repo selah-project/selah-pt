@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-kings 3:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 3,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:47:41.565481419Z",
+  "translation": "E aconteceu ⟨na⟩ morte de Ajáv ⟨que⟩ o rei de Moav rebelou-se contra o rei de Yisrael",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "⟨na⟩ morte"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "de Ajáv"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "⟨que⟩ o rei de Moabe rebelou-se"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "contra o rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Acabe",
@@ -27,56 +66,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16824,
-    "prompt_tokens_details": {
-      "cached_tokens": 15784
-    },
-    "total_tokens": 17150
-  },
-  "translation": "E aconteceu ⟨na⟩ morte de Ajáv ⟨que⟩ o rei de Moav rebelou-se contra o rei de Yisrael",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "כמות",
-      "english": "⟨na⟩ morte"
-    },
-    {
-      "surface": "אחאב",
-      "english": "de Ajáv"
-    },
-    {
-      "surface": "ויפשע",
-      "english": "⟨que⟩ o rei de Moabe rebelou-se"
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "במלך",
-      "english": "contra o rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:47:41.565481419Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

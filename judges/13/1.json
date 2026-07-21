@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "judges 13:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 13,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:03:48.596663558Z",
+  "translation": "E os filhos de Yisrael continuaram a fazer o mal ⟨aos⟩ olhos de YHWH, e YHWH os entregou ⟨na⟩ mão ⟨dos⟩ filisteus quarenta anos.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "E continuaram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "a fazer"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "o mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨aos⟩ olhos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "e YHWH os entregou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨na⟩ mão"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨dos⟩ filisteus"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16673,
-    "prompt_tokens_details": {
-      "cached_tokens": 15157
-    },
-    "total_tokens": 17150
-  },
-  "translation": "E os filhos de Yisrael continuaram a fazer o mal ⟨aos⟩ olhos de YHWH, e YHWH os entregou ⟨na⟩ mão ⟨dos⟩ filisteus quarenta anos.",
-  "tokens": [
-    {
-      "surface": "ויספו",
-      "english": "E continuaram"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לעשות",
-      "english": "a fazer"
-    },
-    {
-      "surface": "הרע",
-      "english": "o mal"
-    },
-    {
-      "surface": "בעיני",
-      "english": "⟨aos⟩ olhos"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "ויתנם",
-      "english": "e YHWH os entregou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "ביד",
-      "english": "⟨na⟩ mão"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨dos⟩ filisteus"
-    },
-    {
-      "surface": "ארבעים",
-      "english": "quarenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:03:48.596663558Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 10:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19912,
-    "prompt_tokens_details": {
-      "cached_tokens": 19084
-    },
-    "total_tokens": 20246
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:52:21.918876395Z",
   "translation": "⟨Is it⟩ not like milk ⟨you⟩ pour me out, and like cheese ⟨you⟩ curdle me?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "⟨Is it⟩ not"
+      "gloss": "⟨Is it⟩ not"
     },
     {
       "surface": "כחלב",
-      "english": "like milk"
+      "gloss": "like milk"
     },
     {
       "surface": "תתיכני",
-      "english": "⟨you⟩ pour me out"
+      "gloss": "⟨you⟩ pour me out"
     },
     {
       "surface": "וכגבנה",
-      "english": "and like cheese"
+      "gloss": "and like cheese"
     },
     {
       "surface": "תקפיאני",
-      "english": "⟨you⟩ curdle me"
+      "gloss": "⟨you⟩ curdle me"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:52:21.918876395Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

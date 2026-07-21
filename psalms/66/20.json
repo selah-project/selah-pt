@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 66:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62928,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63263
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:21:55.682695416Z",
   "translation": "Blessed ⟨is⟩ Elohim who has not turned away my prayer ⟨and⟩ His lovingkindness from me",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "Blessed"
+      "gloss": "Blessed"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אשר",
-      "english": "who"
+      "gloss": "who"
     },
     {
       "surface": "לא",
-      "english": "has not"
+      "gloss": "has not"
     },
     {
       "surface": "הסיר",
-      "english": "turned away"
+      "gloss": "turned away"
     },
     {
       "surface": "תפלתי",
-      "english": "my prayer"
+      "gloss": "my prayer"
     },
     {
       "surface": "וחסדו",
-      "english": "⟨and⟩ His lovingkindness"
+      "gloss": "⟨and⟩ His lovingkindness"
     },
     {
       "surface": "מאתי",
-      "english": "from me"
+      "gloss": "from me"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:21:55.682695416Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

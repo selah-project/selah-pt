@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "1-chronicles 1:18",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 409,
-    "prompt_tokens": 64641,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65050
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:05:17.475759171Z",
   "translation": "E Arpachshad gerou ⟨את⟩ Shelach, e Shelach gerou ⟨את⟩ Éver",
   "tokens": [
     {
       "surface": "וארפכשד",
-      "english": "E Arpachshad"
+      "gloss": "E Arpachshad"
     },
     {
       "surface": "ילד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Shelach"
     },
     {
       "surface": "שלח",
-      "english": "Shelach"
+      "gloss": "Shelach"
     },
     {
       "surface": "ושלח",
-      "english": "e Shelach"
+      "gloss": "e Shelach"
     },
     {
       "surface": "ילד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Éver"
     },
     {
       "surface": "עבר",
-      "english": "Éver"
+      "gloss": "Éver"
     }
-  ],
-  "timestamp": "2026-07-16T11:05:17.475759171Z",
-  "model": "glm-4.5"
+  ]
 }

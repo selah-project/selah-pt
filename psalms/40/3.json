@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 40:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 592,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70614,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 71206
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:38:06.478227044Z",
   "translation": "E Ele ⟨pôs⟩ em minha boca ⟨um⟩ cântico novo, ⟨um⟩ louvor ao nosso Elohim; muitos verão ⟨isso⟩ e temerão e confiarão em YHWH.",
   "tokens": [
     {
       "surface": "ויעלני",
-      "english": "E Ele ⟨pôs⟩"
+      "gloss": "E Ele ⟨pôs⟩"
     },
     {
       "surface": "מבור",
-      "english": "em minha boca"
+      "gloss": "em minha boca"
     },
     {
       "surface": "שאון",
-      "english": "⟨um⟩ cântico novo"
+      "gloss": "⟨um⟩ cântico novo"
     },
     {
       "surface": "מטיט",
-      "english": "⟨um⟩"
+      "gloss": "⟨um⟩"
     },
     {
       "surface": "היון",
-      "english": "louvor"
+      "gloss": "louvor"
     },
     {
       "surface": "ויקם",
-      "english": "ao nosso Elohim"
+      "gloss": "ao nosso Elohim"
     },
     {
       "surface": "על",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "סלע",
-      "english": "muitos"
+      "gloss": "muitos"
     },
     {
       "surface": "רגלי",
-      "english": "verão ⟨isso⟩"
+      "gloss": "verão ⟨isso⟩"
     },
     {
       "surface": "כונן",
-      "english": "e temerão"
+      "gloss": "e temerão"
     },
     {
       "surface": "אשרי",
-      "english": "e confiarão em YHWH"
+      "gloss": "e confiarão em YHWH"
     }
-  ],
-  "timestamp": "2026-06-13T06:38:06.478227044Z",
-  "model": "glm-4.5"
+  ]
 }

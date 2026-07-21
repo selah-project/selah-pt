@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "numbers 19:15",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25498,
-    "prompt_tokens_details": {
-      "cached_tokens": 24319
-    },
-    "total_tokens": 26016
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:31:45.378415789Z",
   "translation": "e todo o utensílio ⟨que está⟩ aberto, ⟨que⟩ não ⟨tem⟩ um ⟨atado⟩ de corda ⟨amarrado⟩ sobre ele, ⟨é⟩ impuro ⟨ele⟩",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "e todo"
+      "gloss": "e todo"
     },
     {
       "surface": "כלי",
-      "english": "o utensílio"
+      "gloss": "o utensílio"
     },
     {
       "surface": "פתוח",
-      "english": "⟨que está⟩ aberto"
+      "gloss": "⟨que está⟩ aberto"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "אין",
-      "english": "⟨tem⟩"
+      "gloss": "⟨tem⟩"
     },
     {
       "surface": "צמיד",
-      "english": "⟨atado⟩"
+      "gloss": "⟨atado⟩"
     },
     {
       "surface": "פתיל",
-      "english": "de corda"
+      "gloss": "de corda"
     },
     {
       "surface": "עליו",
-      "english": "⟨amarrado⟩ sobre ele"
+      "gloss": "⟨amarrado⟩ sobre ele"
     },
     {
       "surface": "טמא",
-      "english": "impuro"
+      "gloss": "impuro"
     },
     {
       "surface": "הוא",
-      "english": "⟨é⟩ ⟨ele⟩"
+      "gloss": "⟨é⟩ ⟨ele⟩"
     }
-  ],
-  "timestamp": "2026-06-13T05:31:45.378415789Z",
-  "model": "glm-4.5"
+  ]
 }

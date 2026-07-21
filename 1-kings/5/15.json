@@ -1,9 +1,110 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-kings 5:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 5,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:15:55.448411797Z",
+  "translation": "E Hiram, rei de Tzor, enviou ⟨os⟩ seus servos a Shlomó, porque ouviu que ⟨o⟩ ungiram como rei em lugar de seu pai; porque Hiram sempre amou a Davi, todos ⟨os⟩ dias.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E enviou"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "צור",
+      "gloss": "de Tzor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨os⟩",
+      "marks": "עבדיו"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seus servos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ouviu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨o⟩",
+      "marks": "משחו"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "ungiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "como rei"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "em lugar"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "de seu pai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "amou"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "⟨os⟩ dias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Tiro",
@@ -20,118 +121,6 @@
       "hebrew": "שלמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 618,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63673,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 64291
-  },
-  "translation": "E Hiram, rei de Tzor, enviou ⟨os⟩ seus servos a Shlomó, porque ouviu que ⟨o⟩ ungiram como rei em lugar de seu pai; porque Hiram sempre amou a Davi, todos ⟨os⟩ dias.",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "E enviou"
-    },
-    {
-      "surface": "חירם",
-      "english": "Hiram"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "צור",
-      "english": "de Tzor"
-    },
-    {
-      "surface": "את",
-      "english": "⟨os⟩",
-      "marks": "עבדיו"
-    },
-    {
-      "surface": "עבדיו",
-      "english": "seus servos"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "שמע",
-      "english": "ouviu"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨o⟩",
-      "marks": "משחו"
-    },
-    {
-      "surface": "משחו",
-      "english": "ungiram"
-    },
-    {
-      "surface": "למלך",
-      "english": "como rei"
-    },
-    {
-      "surface": "תחת",
-      "english": "em lugar"
-    },
-    {
-      "surface": "אביהו",
-      "english": "de seu pai"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "אהב",
-      "english": "amou"
-    },
-    {
-      "surface": "היה",
-      "english": "sempre"
-    },
-    {
-      "surface": "חירם",
-      "english": "Hiram"
-    },
-    {
-      "surface": "לדוד",
-      "english": "a Davi"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "הימים",
-      "english": "⟨os⟩ dias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:15:55.448411797Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

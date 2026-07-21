@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-chronicles 22:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 22,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:31:59.327797267Z",
+  "translation": "Também ele andou nos caminhos ⟨da⟩ casa de Ajáv, pois sua mãe ⟨era⟩ sua conselheira para praticar ⟨o⟩ mal.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Também"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "andou"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "nos caminhos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "da casa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "de Ajáv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua mãe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "sua conselheira"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "para praticar ⟨o⟩ mal"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Acabe",
@@ -13,68 +64,6 @@
       "hebrew": "אחאב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58382,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58865
-  },
-  "translation": "Também ele andou nos caminhos ⟨da⟩ casa de Ajáv, pois sua mãe ⟨era⟩ sua conselheira para praticar ⟨o⟩ mal.",
-  "tokens": [
-    {
-      "surface": "גם",
-      "english": "Também"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele"
-    },
-    {
-      "surface": "הלך",
-      "english": "andou"
-    },
-    {
-      "surface": "בדרכי",
-      "english": "nos caminhos"
-    },
-    {
-      "surface": "בית",
-      "english": "da casa"
-    },
-    {
-      "surface": "אחאב",
-      "english": "de Ajáv"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "אמו",
-      "english": "sua mãe"
-    },
-    {
-      "surface": "היתה",
-      "english": "⟨era⟩"
-    },
-    {
-      "surface": "יועצתו",
-      "english": "sua conselheira"
-    },
-    {
-      "surface": "להרשיע",
-      "english": "para praticar ⟨o⟩ mal"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:31:59.327797267Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

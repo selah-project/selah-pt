@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 108:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 108,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:53:16.007156931Z",
+  "translation": "Gilead é meu; Menashé é meu; e ⟨o⟩ Efraim ⟨é⟩ ⟨a⟩ fortaleza da minha cabeça; Yehudá ⟨é⟩ ⟨o⟩ meu legislador.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Meu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "e ⟨o⟩ Efraim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "⟨a⟩ fortaleza"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "da minha cabeça"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "⟨o⟩ meu legislador"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,60 +56,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 108,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63086,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63591
-  },
-  "translation": "Gilead é meu; Menashé é meu; e ⟨o⟩ Efraim ⟨é⟩ ⟨a⟩ fortaleza da minha cabeça; Yehudá ⟨é⟩ ⟨o⟩ meu legislador.",
-  "tokens": [
-    {
-      "surface": "לי",
-      "english": "Meu"
-    },
-    {
-      "surface": "גלעד",
-      "english": "Gilead"
-    },
-    {
-      "surface": "לי",
-      "english": "meu"
-    },
-    {
-      "surface": "מנשה",
-      "english": "Menashé"
-    },
-    {
-      "surface": "ואפרים",
-      "english": "e ⟨o⟩ Efraim"
-    },
-    {
-      "surface": "מעוז",
-      "english": "⟨a⟩ fortaleza"
-    },
-    {
-      "surface": "ראשי",
-      "english": "da minha cabeça"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "מחקקי",
-      "english": "⟨o⟩ meu legislador"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:53:16.007156931Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "numbers 28:4",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 509,
-    "prompt_tokens": 25814,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 26323
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:22:21.021855827Z",
   "translation": "O ⟨um⟩ cordeiro ⟨את⟩ farás ⟨pela⟩ manhã, e o outro cordeiro ⟨את⟩ farás entre ⟨as⟩ tardes",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o cordeiro"
     },
     {
       "surface": "הכבש",
-      "english": "o cordeiro"
+      "gloss": "o cordeiro"
     },
     {
       "surface": "אחד",
-      "english": "⟨um⟩"
+      "gloss": "⟨um⟩"
     },
     {
       "surface": "תעשה",
-      "english": "farás"
+      "gloss": "farás"
     },
     {
       "surface": "בבקר",
-      "english": "⟨pela⟩ manhã"
+      "gloss": "⟨pela⟩ manhã"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o outro cordeiro"
     },
     {
       "surface": "הכבש",
-      "english": "cordeiro"
+      "gloss": "cordeiro"
     },
     {
       "surface": "השני",
-      "english": "outro"
+      "gloss": "outro"
     },
     {
       "surface": "תעשה",
-      "english": "farás"
+      "gloss": "farás"
     },
     {
       "surface": "בין",
-      "english": "entre"
+      "gloss": "entre"
     },
     {
       "surface": "הערבים",
-      "english": "⟨as⟩ tardes"
+      "gloss": "⟨as⟩ tardes"
     }
-  ],
-  "timestamp": "2026-07-16T17:22:21.021855827Z",
-  "model": "glm-4.5"
+  ]
 }

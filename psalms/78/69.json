@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 69,
   "ref": "psalms 78:69",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 78,
+  "verse": 69,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:32:36.382752398Z",
+  "translation": "E ⟨ele⟩ construiu ⟨o⟩ seu Mikdash como ⟨os⟩ altos, como ⟨a⟩ terra, ⟨a⟩ qual ele fundou para sempre.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "E ⟨ele⟩ construiu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "como ⟨os⟩"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "altos"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "⟨o⟩ seu Mikdash"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "como ⟨a⟩ terra"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "⟨a⟩ qual ele fundou"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "para sempre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "santuário",
@@ -13,52 +48,6 @@
       "hebrew": "מקדש"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 78,
-  "usage": {
-    "completion_tokens": 622,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62866,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63488
-  },
-  "translation": "E ⟨ele⟩ construiu ⟨o⟩ seu Mikdash como ⟨os⟩ altos, como ⟨a⟩ terra, ⟨a⟩ qual ele fundou para sempre.",
-  "tokens": [
-    {
-      "surface": "ויבן",
-      "english": "E ⟨ele⟩ construiu"
-    },
-    {
-      "surface": "כמו",
-      "english": "como ⟨os⟩"
-    },
-    {
-      "surface": "רמים",
-      "english": "altos"
-    },
-    {
-      "surface": "מקדשו",
-      "english": "⟨o⟩ seu Mikdash"
-    },
-    {
-      "surface": "כארץ",
-      "english": "como ⟨a⟩ terra"
-    },
-    {
-      "surface": "יסדה",
-      "english": "⟨a⟩ qual ele fundou"
-    },
-    {
-      "surface": "לעולם",
-      "english": "para sempre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:32:36.382752398Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

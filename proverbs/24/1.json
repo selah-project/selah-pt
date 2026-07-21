@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 24:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 694,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52800,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53494
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:39:04.753692138Z",
   "translation": "Não ⟨tenhas⟩ inveja dos homens maus nem ⟨desejes⟩ ⟨estar⟩ ⟨com⟩ ⟨eles⟩",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Não",
+      "gloss": "Não",
       "rationale": "The qualified negation (prohibition particle) — not just 'no' but an injunction; 'Não' captures the deprecative force."
     },
     {
       "surface": "תקנא",
-      "english": "⟨tenhas⟩ inveja",
+      "gloss": "⟨tenhas⟩ inveja",
       "rationale": "Causative stem of 'to be zealous\/jealous'; here contextually 'envy'. ⟨tenhas⟩ added for verbal coherence."
     },
     {
       "surface": "באנשי",
-      "english": "dos homens",
+      "gloss": "dos homens",
       "rationale": "Prepositional ב + plural of 'man\/Adam' — 'of men'. ⟨os⟩ added as definite article in English."
     },
     {
       "surface": "רעה",
-      "english": "maus",
+      "gloss": "maus",
       "rationale": "Adjective from 'evil\/bad' — 'evil\/wicked' applied to the men. 'Ma' is the standard evil-to-wicked shift in Proverbs context."
     },
     {
       "surface": "ואל",
-      "english": "nem",
+      "gloss": "nem",
       "rationale": "The prefixed ו here acts as 'and\/or' joining two commands; 'nem' for the negative continuation fits the context."
     },
     {
       "surface": "תתאו",
-      "english": "⟨desejes⟩",
+      "gloss": "⟨desejes⟩",
       "rationale": "Hiphil of 'desire\/wish for' — causative 'make oneself desire'. ⟨desejes⟩ added for verbal conjugation."
     },
     {
       "surface": "להיות",
-      "english": "⟨estar⟩",
+      "gloss": "⟨estar⟩",
       "rationale": "Infinitive construct of 'to be'. Portuguese requires 'estar' here for existential sense; literal 'to be' would be ungrammatical."
     },
     {
       "surface": "אתם",
-      "english": "⟨com⟩ ⟨eles⟩",
+      "gloss": "⟨com⟩ ⟨eles⟩",
       "rationale": "Prepositional pronominal suffix here meaning 'with them' (from את + ם). Portuguese needs both the preposition ⟨com⟩ and the pronoun ⟨eles⟩."
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:39:04.753692138Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

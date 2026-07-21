@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 80:15",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 520,
-    "prompt_tokens": 70566,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71086
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:19.744403799Z",
   "translation": "Elohim Tzevaot, volta, rogo; olha dos céus e vê, e visita ⟨esta⟩ videira.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "שוב",
-      "english": "volta"
+      "gloss": "volta"
     },
     {
       "surface": "נא",
-      "english": "rogo"
+      "gloss": "rogo"
     },
     {
       "surface": "הבט",
-      "english": "olha"
+      "gloss": "olha"
     },
     {
       "surface": "משמים",
-      "english": "dos céus"
+      "gloss": "dos céus"
     },
     {
       "surface": "וראה",
-      "english": "e vê"
+      "gloss": "e vê"
     },
     {
       "surface": "ופקד",
-      "english": "e visita"
+      "gloss": "e visita"
     },
     {
       "surface": "גפן",
-      "english": "videira"
+      "gloss": "videira"
     },
     {
       "surface": "זאת",
-      "english": "⟨esta⟩",
+      "gloss": "⟨esta⟩",
       "marks": "videira"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:19.744403799Z",
-  "model": "glm-4.5"
+  ]
 }

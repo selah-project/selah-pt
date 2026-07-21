@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "genesis 37:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 37,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:19:46.909292295Z",
+  "translation": "E o homem disse: Viajaram daqui, pois ouvi ⟨את⟩ eles dizendo: Vamos a Dotã. E foi Yosef após ⟨את⟩ seus irmãos e encontrou-os em Dotã.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "o homem"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "viajaram"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "daqui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ouvi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "eles dizendo"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "Vamos"
+    },
+    {
+      "surface": "דתינה",
+      "gloss": "a Dotã"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "E foi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "após"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seus irmãos"
+    },
+    {
+      "surface": "וימצאם",
+      "gloss": "e encontrou-os"
+    },
+    {
+      "surface": "בדתן",
+      "gloss": "em Dotã"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "José",
@@ -13,84 +80,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22067,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22453
-  },
-  "translation": "E o homem disse: Viajaram daqui, pois ouvi ⟨את⟩ eles dizendo: Vamos a Dotã. E foi Yosef após ⟨את⟩ seus irmãos e encontrou-os em Dotã.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "האיש",
-      "english": "o homem"
-    },
-    {
-      "surface": "נסעו",
-      "english": "viajaram"
-    },
-    {
-      "surface": "מזה",
-      "english": "daqui"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "שמעתי",
-      "english": "ouvi"
-    },
-    {
-      "surface": "אמרים",
-      "english": "eles dizendo"
-    },
-    {
-      "surface": "נלכה",
-      "english": "Vamos"
-    },
-    {
-      "surface": "דתינה",
-      "english": "a Dotã"
-    },
-    {
-      "surface": "וילך",
-      "english": "E foi"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    },
-    {
-      "surface": "אחר",
-      "english": "após"
-    },
-    {
-      "surface": "אחיו",
-      "english": "seus irmãos"
-    },
-    {
-      "surface": "וימצאם",
-      "english": "e encontrou-os"
-    },
-    {
-      "surface": "בדתן",
-      "english": "em Dotã"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:19:46.909292295Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "judges 19:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 19,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:10:00.032582732Z",
+  "translation": "E o seu senhor ⟨foi⟩ e disse a ele: 'Não ⟨se vamos⟩ desviar ⟨para⟩ ⟨a⟩ cidade de ⟨um⟩ estranho, que ⟨é⟩ não dos filhos ⟨de⟩ Yisrael, eis aqui; ⟨mas vamos⟩ passar até Gibea.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E o seu senhor ⟨foi⟩ e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "o seu senhor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "⟨se vamos⟩ desviar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨a⟩ cidade"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "⟨um⟩ estranho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨é⟩ não"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eis aqui"
+    },
+    {
+      "surface": "ועברנו",
+      "gloss": "⟨mas vamos⟩ passar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "Gibea"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 682,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16952,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17634
-  },
-  "translation": "E o seu senhor ⟨foi⟩ e disse a ele: 'Não ⟨se vamos⟩ desviar ⟨para⟩ ⟨a⟩ cidade de ⟨um⟩ estranho, que ⟨é⟩ não dos filhos ⟨de⟩ Yisrael, eis aqui; ⟨mas vamos⟩ passar até Gibea.'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E o seu senhor ⟨foi⟩ e disse"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ele"
-    },
-    {
-      "surface": "אדניו",
-      "english": "o seu senhor"
-    },
-    {
-      "surface": "לא",
-      "english": "Não"
-    },
-    {
-      "surface": "נסור",
-      "english": "⟨se vamos⟩ desviar"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "עיר",
-      "english": "⟨a⟩ cidade"
-    },
-    {
-      "surface": "נכרי",
-      "english": "⟨um⟩ estranho"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨é⟩ não"
-    },
-    {
-      "surface": "מבני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "הנה",
-      "english": "eis aqui"
-    },
-    {
-      "surface": "ועברנו",
-      "english": "⟨mas vamos⟩ passar"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "גבעה",
-      "english": "Gibea"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:10:00.032582732Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

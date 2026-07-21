@@ -1,9 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-chronicles 19:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 19,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:26:33.798472464Z",
+  "translation": "E também em Yerushalayim Josafat estabeleceu ⟨de entre⟩ os levitas e ⟨de entre⟩ os sacerdotes e ⟨de entre⟩ os chefes das casas-paternas de Israel para o julgamento de YHWH e para ⟨a⟩ contenda, e voltaram ⟨a⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "E também"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Jerusalém"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "estabeleceu"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Josafat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨de entre⟩",
+      "marks": "os levitas e ⟨de entre⟩ os sacerdotes e ⟨de entre⟩ os chefes das casas-paternas"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "os levitas"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "e ⟨de entre⟩ os sacerdotes"
+    },
+    {
+      "surface": "ומראשי",
+      "gloss": "e ⟨de entre⟩ os chefes"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "das casas-paternas"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "de Israel"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "para o julgamento"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ולריב",
+      "gloss": "e para ⟨a⟩ contenda",
+      "marks": "contenda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e voltaram ⟨a⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,86 +82,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 897,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58914,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59811
-  },
-  "translation": "E também em Yerushalayim Josafat estabeleceu ⟨de entre⟩ os levitas e ⟨de entre⟩ os sacerdotes e ⟨de entre⟩ os chefes das casas-paternas de Israel para o julgamento de YHWH e para ⟨a⟩ contenda, e voltaram ⟨a⟩ Yerushalayim.",
-  "tokens": [
-    {
-      "surface": "וגם",
-      "english": "E também"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Jerusalém"
-    },
-    {
-      "surface": "העמיד",
-      "english": "estabeleceu"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Josafat"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨de entre⟩",
-      "marks": "os levitas e ⟨de entre⟩ os sacerdotes e ⟨de entre⟩ os chefes das casas-paternas"
-    },
-    {
-      "surface": "הלוים",
-      "english": "os levitas"
-    },
-    {
-      "surface": "והכהנים",
-      "english": "e ⟨de entre⟩ os sacerdotes"
-    },
-    {
-      "surface": "ומראשי",
-      "english": "e ⟨de entre⟩ os chefes"
-    },
-    {
-      "surface": "האבות",
-      "english": "das casas-paternas"
-    },
-    {
-      "surface": "לישראל",
-      "english": "de Israel"
-    },
-    {
-      "surface": "למשפט",
-      "english": "para o julgamento"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "ולריב",
-      "english": "e para ⟨a⟩ contenda",
-      "marks": "contenda"
-    },
-    {
-      "surface": "וישבו",
-      "english": "e voltaram ⟨a⟩"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:26:33.798472464Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

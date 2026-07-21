@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 16:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 424,
-    "prompt_tokens": 70270,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70694
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:35:06.371173210Z",
   "translation": "Michtam de David. Guarda-me, El, pois em ti me refugiei.",
   "tokens": [
     {
       "surface": "מכתם",
-      "english": "Michtam"
+      "gloss": "Michtam"
     },
     {
       "surface": "לדוד",
-      "english": "de David"
+      "gloss": "de David"
     },
     {
       "surface": "שמרני",
-      "english": "Guarda-me"
+      "gloss": "Guarda-me"
     },
     {
       "surface": "אל",
-      "english": "El"
+      "gloss": "El"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "חסיתי",
-      "english": "me refugiei"
+      "gloss": "me refugiei"
     },
     {
       "surface": "בך",
-      "english": "em ti"
+      "gloss": "em ti"
     }
-  ],
-  "timestamp": "2026-07-16T17:35:06.371173210Z",
-  "model": "glm-4.5"
+  ]
 }

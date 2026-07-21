@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 31:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 31,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:42:48.848207981Z",
+  "translation": "E foram entregues dos milhares de Yisrael, mil por tribo, doze mil homens armados ⟨para⟩ ⟨a⟩ guerra.",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "E foram entregues"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "dos milhares"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "por tribo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "doze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mil"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "homens"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "armados"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨para⟩ ⟨a⟩ guerra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 279,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18269,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18548
-  },
-  "translation": "E foram entregues dos milhares de Yisrael, mil por tribo, doze mil homens armados ⟨para⟩ ⟨a⟩ guerra.",
-  "tokens": [
-    {
-      "surface": "וימסרו",
-      "english": "E foram entregues"
-    },
-    {
-      "surface": "מאלפי",
-      "english": "dos milhares"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil"
-    },
-    {
-      "surface": "למטה",
-      "english": "por tribo"
-    },
-    {
-      "surface": "שנים",
-      "english": "doze"
-    },
-    {
-      "surface": "עשר",
-      "english": "mil"
-    },
-    {
-      "surface": "אלף",
-      "english": "homens"
-    },
-    {
-      "surface": "חלוצי",
-      "english": "armados"
-    },
-    {
-      "surface": "צבא",
-      "english": "⟨para⟩ ⟨a⟩ guerra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:42:48.848207981Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

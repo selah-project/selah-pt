@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "nehemiah 9:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 9,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:23:30.004983128Z",
+  "translation": "E no dia vinte e quatro ⟨do⟩ mês, ⟨este⟩, os filhos de Yisrael se ajuntaram em jejum e ⟨com⟩ saco e ⟨com⟩ terra sobre eles.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "E no dia"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vinte"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "e quatro"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨do⟩ mês"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "se ajuntaram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos ⟨de⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "em jejum"
+    },
+    {
+      "surface": "ובשקים",
+      "gloss": "e ⟨com⟩ saco"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "e ⟨com⟩ terra"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sobre eles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 49947,
-    "prompt_tokens_details": {
-      "cached_tokens": 48507
-    },
-    "total_tokens": 50455
-  },
-  "translation": "E no dia vinte e quatro ⟨do⟩ mês, ⟨este⟩, os filhos de Yisrael se ajuntaram em jejum e ⟨com⟩ saco e ⟨com⟩ terra sobre eles.",
-  "tokens": [
-    {
-      "surface": "וביום",
-      "english": "E no dia"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vinte"
-    },
-    {
-      "surface": "וארבעה",
-      "english": "e quatro"
-    },
-    {
-      "surface": "לחדש",
-      "english": "⟨do⟩ mês"
-    },
-    {
-      "surface": "הזה",
-      "english": "⟨este⟩"
-    },
-    {
-      "surface": "נאספו",
-      "english": "se ajuntaram"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos ⟨de⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בצום",
-      "english": "em jejum"
-    },
-    {
-      "surface": "ובשקים",
-      "english": "e ⟨com⟩ saco"
-    },
-    {
-      "surface": "ואדמה",
-      "english": "e ⟨com⟩ terra"
-    },
-    {
-      "surface": "עליהם",
-      "english": "sobre eles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:23:30.004983128Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "isaiah 10:29",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26579,
-    "prompt_tokens_details": {
-      "cached_tokens": 25327
-    },
-    "total_tokens": 27049
-  },
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:44:31.014403589Z",
   "translation": "Eles passaram ⟨o⟩ passo; alojaram-se em ⟨o⟩ albergue ⟨de⟩ Gibeá; Ramá ficou aterrorizada; Gibeá de Shaul fugiu.",
   "tokens": [
     {
       "surface": "עברו",
-      "english": "passaram"
+      "gloss": "passaram"
     },
     {
       "surface": "מעברה",
-      "english": "⟨o⟩ passo"
+      "gloss": "⟨o⟩ passo"
     },
     {
       "surface": "גבע",
-      "english": "em ⟨o⟩ albergue ⟨de⟩ Gibeá"
+      "gloss": "em ⟨o⟩ albergue ⟨de⟩ Gibeá"
     },
     {
       "surface": "מלון",
-      "english": "alojaram-se"
+      "gloss": "alojaram-se"
     },
     {
       "surface": "לנו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "חרדה",
-      "english": "ficou aterrorizada"
+      "gloss": "ficou aterrorizada"
     },
     {
       "surface": "הרמה",
-      "english": "Ramá"
+      "gloss": "Ramá"
     },
     {
       "surface": "גבעת",
-      "english": "Gibeá de Shaul"
+      "gloss": "Gibeá de Shaul"
     },
     {
       "surface": "שאול",
-      "english": "Shaul"
+      "gloss": "Shaul"
     },
     {
       "surface": "נסה",
-      "english": "fugiu"
+      "gloss": "fugiu"
     }
-  ],
-  "timestamp": "2026-06-14T04:44:31.014403589Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 2:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62781,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63266
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:40:11.350892062Z",
   "translation": "O que ⟨está⟩ sentado ⟨nos⟩ céus se rirá ⟨;⟩ ⟨o⟩ Adonai zombará ⟨de⟩ eles.",
   "tokens": [
     {
       "surface": "יושב",
-      "english": "O que ⟨está⟩ sentado",
+      "gloss": "O que ⟨está⟩ sentado",
       "marks": null
     },
     {
       "surface": "בשמים",
-      "english": "⟨nos⟩ céus",
+      "gloss": "⟨nos⟩ céus",
       "marks": null
     },
     {
       "surface": "ישחק",
-      "english": "se rirá",
+      "gloss": "se rirá",
       "marks": null
     },
     {
       "surface": "אדני",
-      "english": "⟨o⟩ Adonai",
+      "gloss": "⟨o⟩ Adonai",
       "marks": null
     },
     {
       "surface": "ילעג",
-      "english": "zombará",
+      "gloss": "zombará",
       "marks": null
     },
     {
       "surface": "למו",
-      "english": "⟨de⟩ eles",
+      "gloss": "⟨de⟩ eles",
       "marks": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:40:11.350892062Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

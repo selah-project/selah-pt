@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 24:1",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 450,
-    "prompt_tokens": 28908,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29358
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:48:50.167149619Z",
   "translation": "E Avraham era velho, ⟨estava⟩ avançado em dias, e YHWH tinha abençoado ⟨את⟩ Avraham em tudo.",
   "tokens": [
     {
       "surface": "ואברהם",
-      "english": "E Avraham"
+      "gloss": "E Avraham"
     },
     {
       "surface": "זקן",
-      "english": "era velho"
+      "gloss": "era velho"
     },
     {
       "surface": "בא",
-      "english": "⟨estava⟩ avançado"
+      "gloss": "⟨estava⟩ avançado"
     },
     {
       "surface": "בימים",
-      "english": "em dias"
+      "gloss": "em dias"
     },
     {
       "surface": "ויהוה",
-      "english": "e YHWH"
+      "gloss": "e YHWH"
     },
     {
       "surface": "ברך",
-      "english": "tinha abençoado"
+      "gloss": "tinha abençoado"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avraham"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "בכל",
-      "english": "em tudo"
+      "gloss": "em tudo"
     }
-  ],
-  "timestamp": "2026-07-16T14:48:50.167149619Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,83 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "2-kings 17:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 17,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:03:43.718876529Z",
+  "translation": "E ⟨os⟩ homens de Bavel fizeram ⟨o⟩ Sucote-Benote, e ⟨os⟩ homens de Cutá fizeram ⟨o⟩ Nergal, e ⟨os⟩ homens de Hamate fizeram ⟨a⟩ Asimá.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "E ⟨os⟩ homens de"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fizeram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨o⟩",
+      "marks": "Sucote-Benote"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sucote-Benote"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benote"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "e ⟨os⟩ homens de"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Cutá"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fizeram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨o⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "e ⟨os⟩ homens de"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamate"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fizeram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Asimá"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Asimá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babilônia",
@@ -13,91 +87,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 607,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17754,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18361
-  },
-  "translation": "E ⟨os⟩ homens de Bavel fizeram ⟨o⟩ Sucote-Benote, e ⟨os⟩ homens de Cutá fizeram ⟨o⟩ Nergal, e ⟨os⟩ homens de Hamate fizeram ⟨a⟩ Asimá.",
-  "tokens": [
-    {
-      "surface": "ואנשי",
-      "english": "E ⟨os⟩ homens de"
-    },
-    {
-      "surface": "בבל",
-      "english": "Bavel"
-    },
-    {
-      "surface": "עשו",
-      "english": "fizeram"
-    },
-    {
-      "surface": "את",
-      "english": "⟨o⟩",
-      "marks": "Sucote-Benote"
-    },
-    {
-      "surface": "סכות",
-      "english": "Sucote-Benote"
-    },
-    {
-      "surface": "בנות",
-      "english": "Benote"
-    },
-    {
-      "surface": "ואנשי",
-      "english": "e ⟨os⟩ homens de"
-    },
-    {
-      "surface": "כות",
-      "english": "Cutá"
-    },
-    {
-      "surface": "עשו",
-      "english": "fizeram"
-    },
-    {
-      "surface": "את",
-      "english": "⟨o⟩",
-      "marks": "Nergal"
-    },
-    {
-      "surface": "נרגל",
-      "english": "Nergal"
-    },
-    {
-      "surface": "ואנשי",
-      "english": "e ⟨os⟩ homens de"
-    },
-    {
-      "surface": "חמת",
-      "english": "Hamate"
-    },
-    {
-      "surface": "עשו",
-      "english": "fizeram"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Asimá"
-    },
-    {
-      "surface": "אשימא",
-      "english": "Asimá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:03:43.718876529Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

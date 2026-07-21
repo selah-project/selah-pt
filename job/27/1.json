@@ -1,9 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "job 27:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 27,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:03:16.264774686Z",
+  "translation": "E Iyov ⟨continuou⟩ a ⟨levantar⟩ seu ⟨dito⟩ e ⟨disse⟩",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "E Jó ⟨continuou⟩"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "a ⟨levantar⟩",
+      "marks": "seu ⟨dito⟩"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "seu ⟨dito⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e ⟨disse⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jó",
@@ -13,45 +41,6 @@
       "hebrew": "איוב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19766,
-    "prompt_tokens_details": {
-      "cached_tokens": 19084
-    },
-    "total_tokens": 20074
-  },
-  "translation": "E Iyov ⟨continuou⟩ a ⟨levantar⟩ seu ⟨dito⟩ e ⟨disse⟩",
-  "tokens": [
-    {
-      "surface": "ויסף",
-      "english": "E Jó ⟨continuou⟩"
-    },
-    {
-      "surface": "איוב",
-      "english": "Iyov"
-    },
-    {
-      "surface": "שאת",
-      "english": "a ⟨levantar⟩",
-      "marks": "seu ⟨dito⟩"
-    },
-    {
-      "surface": "משלו",
-      "english": "seu ⟨dito⟩"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e ⟨disse⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:03:16.264774686Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

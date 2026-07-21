@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "zechariah 4:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "zechariah",
+  "chapter": 4,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:30:07.686752536Z",
+  "translation": "E ele disse a mim: 'O que ⟨estás⟩ ⟨tu⟩ vendo?' E eu disse: 'Eu ⟨tenho⟩ visto, e eis um Menorá ⟨de⟩ ouro, todo ⟨ele⟩, e ⟨o⟩ seu vaso ⟨está⟩ sobre ⟨a⟩ sua cabeça, e ⟨as⟩ sete lâmpadas dele ⟨estão⟩ sobre ele, sete e sete canudos ⟨são⟩ para ⟨as⟩ lâmpadas que ⟨estão⟩ sobre ⟨a⟩ sua cabeça.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ele disse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "O que"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨estás⟩ ⟨tu⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vendo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E eu disse"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Eu ⟨tenho⟩ visto"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e eis"
+    },
+    {
+      "surface": "מנורת",
+      "gloss": "um Menorá"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨de⟩ ouro"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "todo ⟨ele⟩"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "e ⟨o⟩ seu vaso"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "⟨a⟩ sua cabeça"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "e ⟨as⟩ sete"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lâmpadas dele"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨estão⟩ sobre ele"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sete"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "e sete"
+    },
+    {
+      "surface": "מוצקות",
+      "gloss": "canudos"
+    },
+    {
+      "surface": "לנרות",
+      "gloss": "⟨são⟩ para ⟨as⟩ lâmpadas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨estão⟩ sobre"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "⟨a⟩ sua cabeça"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "candelabro",
@@ -13,120 +116,6 @@
       "hebrew": "מנורה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 1089,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17736,
-    "prompt_tokens_details": {
-      "cached_tokens": 15081
-    },
-    "total_tokens": 18825
-  },
-  "translation": "E ele disse a mim: 'O que ⟨estás⟩ ⟨tu⟩ vendo?' E eu disse: 'Eu ⟨tenho⟩ visto, e eis um Menorá ⟨de⟩ ouro, todo ⟨ele⟩, e ⟨o⟩ seu vaso ⟨está⟩ sobre ⟨a⟩ sua cabeça, e ⟨as⟩ sete lâmpadas dele ⟨estão⟩ sobre ele, sete e sete canudos ⟨são⟩ para ⟨as⟩ lâmpadas que ⟨estão⟩ sobre ⟨a⟩ sua cabeça.'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ele disse"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mim"
-    },
-    {
-      "surface": "מה",
-      "english": "O que"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨estás⟩ ⟨tu⟩"
-    },
-    {
-      "surface": "ראה",
-      "english": "vendo"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E eu disse"
-    },
-    {
-      "surface": "ראיתי",
-      "english": "Eu ⟨tenho⟩ visto"
-    },
-    {
-      "surface": "והנה",
-      "english": "e eis"
-    },
-    {
-      "surface": "מנורת",
-      "english": "um Menorá"
-    },
-    {
-      "surface": "זהב",
-      "english": "⟨de⟩ ouro"
-    },
-    {
-      "surface": "כלה",
-      "english": "todo ⟨ele⟩"
-    },
-    {
-      "surface": "וגלה",
-      "english": "e ⟨o⟩ seu vaso"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ראשה",
-      "english": "⟨a⟩ sua cabeça"
-    },
-    {
-      "surface": "ושבעה",
-      "english": "e ⟨as⟩ sete"
-    },
-    {
-      "surface": "נרתיה",
-      "english": "lâmpadas dele"
-    },
-    {
-      "surface": "עליה",
-      "english": "⟨estão⟩ sobre ele"
-    },
-    {
-      "surface": "שבעה",
-      "english": "sete"
-    },
-    {
-      "surface": "ושבעה",
-      "english": "e sete"
-    },
-    {
-      "surface": "מוצקות",
-      "english": "canudos"
-    },
-    {
-      "surface": "לנרות",
-      "english": "⟨são⟩ para ⟨as⟩ lâmpadas"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "על",
-      "english": "⟨estão⟩ sobre"
-    },
-    {
-      "surface": "ראשה",
-      "english": "⟨a⟩ sua cabeça"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:30:07.686752536Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

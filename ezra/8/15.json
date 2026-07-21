@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "ezra 8:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 8,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:10:26.860507688Z",
+  "translation": "E eu ⟨o⟩ reuni ⟨no⟩ rio que vai ⟨para⟩ Ahava e ⟨o⟩ acampamos lá três dias e ⟨eu⟩ examinei ⟨o⟩ povo e ⟨os⟩ kohanim e ⟨os⟩ filhos de Leví não encontrei ⟨o⟩ lá",
+  "tokens": [
+    {
+      "surface": "ואקבצם",
+      "gloss": "E eu ⟨o⟩ reuni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "rio"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "que vai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "אהוא",
+      "gloss": "Ahava"
+    },
+    {
+      "surface": "ונחנה",
+      "gloss": "e ⟨o⟩ acampamos"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lá"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dias"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "três"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "e ⟨eu⟩ examinei"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "⟨o⟩ povo"
+    },
+    {
+      "surface": "ובכהנים",
+      "gloss": "e ⟨os⟩ kohanim"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "e ⟨os⟩ filhos"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "de Leví"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "encontrei"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨o⟩ lá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Levi",
@@ -13,96 +92,6 @@
       "hebrew": "לוי"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 660,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45860,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 46520
-  },
-  "translation": "E eu ⟨o⟩ reuni ⟨no⟩ rio que vai ⟨para⟩ Ahava e ⟨o⟩ acampamos lá três dias e ⟨eu⟩ examinei ⟨o⟩ povo e ⟨os⟩ kohanim e ⟨os⟩ filhos de Leví não encontrei ⟨o⟩ lá",
-  "tokens": [
-    {
-      "surface": "ואקבצם",
-      "english": "E eu ⟨o⟩ reuni"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "הנהר",
-      "english": "rio"
-    },
-    {
-      "surface": "הבא",
-      "english": "que vai"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "אהוא",
-      "english": "Ahava"
-    },
-    {
-      "surface": "ונחנה",
-      "english": "e ⟨o⟩ acampamos"
-    },
-    {
-      "surface": "שם",
-      "english": "lá"
-    },
-    {
-      "surface": "ימים",
-      "english": "dias"
-    },
-    {
-      "surface": "שלשה",
-      "english": "três"
-    },
-    {
-      "surface": "ואבינה",
-      "english": "e ⟨eu⟩ examinei"
-    },
-    {
-      "surface": "בעם",
-      "english": "⟨o⟩ povo"
-    },
-    {
-      "surface": "ובכהנים",
-      "english": "e ⟨os⟩ kohanim"
-    },
-    {
-      "surface": "ומבני",
-      "english": "e ⟨os⟩ filhos"
-    },
-    {
-      "surface": "לוי",
-      "english": "de Leví"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "מצאתי",
-      "english": "encontrei"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨o⟩ lá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:10:26.860507688Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

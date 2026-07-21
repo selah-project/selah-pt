@@ -1,9 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-samuel 20:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 20,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:03:49.624762334Z",
+  "translation": "e também Ira ⟨o⟩ Jairita era ⟨o⟩ Kohen de ⟨o⟩ Davi",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "E também"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ira"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "⟨o⟩ Jairita",
+      "marks": "Ira"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "⟨o⟩ Kohen",
+      "marks": "Davi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de ⟨o⟩ Davi"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,50 +46,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16935,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 17279
-  },
-  "translation": "e também Ira ⟨o⟩ Jairita era ⟨o⟩ Kohen de ⟨o⟩ Davi",
-  "tokens": [
-    {
-      "surface": "וגם",
-      "english": "E também"
-    },
-    {
-      "surface": "עירא",
-      "english": "Ira"
-    },
-    {
-      "surface": "היארי",
-      "english": "⟨o⟩ Jairita",
-      "marks": "Ira"
-    },
-    {
-      "surface": "היה",
-      "english": "era"
-    },
-    {
-      "surface": "כהן",
-      "english": "⟨o⟩ Kohen",
-      "marks": "Davi"
-    },
-    {
-      "surface": "לדוד",
-      "english": "de ⟨o⟩ Davi"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:03:49.624762334Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

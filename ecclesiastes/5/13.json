@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "ecclesiastes 5:13",
   "book": "ecclesiastes",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 651,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24869,
-    "prompt_tokens_details": {
-      "cached_tokens": 23709
-    },
-    "total_tokens": 25520
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:49:08.652299497Z",
   "translation": "E ⟨perde⟩ ⟨a⟩ riqueza ⟨esta⟩ em ⟨um⟩ mal ⟨negócio⟩ e ⟨gera⟩ um ⟨filho⟩ e não ⟨há⟩ em sua mão nada",
   "tokens": [
     {
       "surface": "ואבד",
-      "english": "E ⟨perde⟩"
+      "gloss": "E ⟨perde⟩"
     },
     {
       "surface": "העשר",
-      "english": "⟨a⟩ riqueza"
+      "gloss": "⟨a⟩ riqueza"
     },
     {
       "surface": "ההוא",
-      "english": "⟨esta⟩"
+      "gloss": "⟨esta⟩"
     },
     {
       "surface": "בענין",
-      "english": "em ⟨um⟩ mal ⟨negócio⟩"
+      "gloss": "em ⟨um⟩ mal ⟨negócio⟩"
     },
     {
       "surface": "רע",
-      "english": "mal"
+      "gloss": "mal"
     },
     {
       "surface": "והוליד",
-      "english": "e ⟨gera⟩"
+      "gloss": "e ⟨gera⟩"
     },
     {
       "surface": "בן",
-      "english": "um ⟨filho⟩"
+      "gloss": "um ⟨filho⟩"
     },
     {
       "surface": "ואין",
-      "english": "e não ⟨há⟩"
+      "gloss": "e não ⟨há⟩"
     },
     {
       "surface": "בידו",
-      "english": "em sua mão"
+      "gloss": "em sua mão"
     },
     {
       "surface": "מאומה",
-      "english": "nada"
+      "gloss": "nada"
     }
-  ],
-  "timestamp": "2026-06-13T06:49:08.652299497Z",
-  "model": "glm-4.5"
+  ]
 }

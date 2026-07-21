@@ -1,83 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "1-kings 13:34",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 987,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62591,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63578
-  },
+  "verse": 34,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:31:01.454313502Z",
   "translation": "e ⟨foi⟩ ⟨o⟩ davar ⟨este⟩ ⟨para⟩ pecado ⟨da⟩ casa de Yarobam, e ⟨para⟩ apagar ⟨e⟩ para destruir ⟨de⟩ sobre ⟨a⟩ face ⟨da⟩ terra",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E ⟨foi⟩",
+      "gloss": "E ⟨foi⟩",
       "rationale": "Literally 'e foi'; waw-consecutive preterite, translated as past tense with copula ⟨foi⟩ added"
     },
     {
       "surface": "בדבר",
-      "english": "⟨o⟩ davar ⟨este⟩",
+      "gloss": "⟨o⟩ davar ⟨este⟩",
       "rationale": "Literally 'na palavra'; contextually 'this matter\/thing'; artigo ⟨o⟩ e demonstrativo ⟨este⟩ adicionados"
     },
     {
       "surface": "הזה",
-      "english": "⟨este⟩",
+      "gloss": "⟨este⟩",
       "rationale": "Pronome demonstrativo 'este'; artigo ⟨o⟩ já adicionado em 'davar' para evitar duplicação"
     },
     {
       "surface": "לחטאת",
-      "english": "⟨para⟩ pecado",
+      "gloss": "⟨para⟩ pecado",
       "rationale": "Preposição 'para' + 'pecado'; indica propósito ou resultado"
     },
     {
       "surface": "בית",
-      "english": "⟨da⟩ casa",
+      "gloss": "⟨da⟩ casa",
       "rationale": "Casa no sentido dinástico\/familiar; preposição ⟨da⟩ adicionada para posse"
     },
     {
       "surface": "ירבעם",
-      "english": "de Yarobam",
+      "gloss": "de Yarobam",
       "rationale": "Nome próprio transliterado conforme a disciplina"
     },
     {
       "surface": "ולהכחיד",
-      "english": "e ⟨para⟩ apagar",
+      "gloss": "e ⟨para⟩ apagar",
       "rationale": "Hapax legômenon (forma única no Tanach); 'para apagar' literalmente"
     },
     {
       "surface": "ולהשמיד",
-      "english": "e ⟨para⟩ destruir",
+      "gloss": "e ⟨para⟩ destruir",
       "rationale": "'para destruir' com conotação de aniquilação completa"
     },
     {
       "surface": "מעל",
-      "english": "⟨de⟩ sobre",
+      "gloss": "⟨de⟩ sobre",
       "rationale": "Preposição composta 'de sobre' indicando separação\/remoção"
     },
     {
       "surface": "פני",
-      "english": "⟨a⟩ face",
+      "gloss": "⟨a⟩ face",
       "rationale": "Face\/presença; artigo ⟨a⟩ adicionado"
     },
     {
       "surface": "האדמה",
-      "english": "⟨da⟩ terra",
+      "gloss": "⟨da⟩ terra",
       "rationale": "Terra\/solo; artigo ⟨da⟩ adicionado para posse"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:31:01.454313502Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

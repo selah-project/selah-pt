@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 98:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 98,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62927,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63432
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:44:39.937543582Z",
   "translation": "Make ⟨a⟩ joyful noise to YHWH, ⟨the⟩ whole earth; break forth, and sing for joy, ⟨and⟩ sing ⟨in⟩ psalm.",
   "tokens": [
     {
       "surface": "הריעו",
-      "english": "Make ⟨a⟩ joyful noise"
+      "gloss": "Make ⟨a⟩ joyful noise"
     },
     {
       "surface": "ליהוה",
-      "english": "to YHWH"
+      "gloss": "to YHWH"
     },
     {
       "surface": "כל",
-      "english": "⟨the⟩ whole"
+      "gloss": "⟨the⟩ whole"
     },
     {
       "surface": "הארץ",
-      "english": "earth"
+      "gloss": "earth"
     },
     {
       "surface": "פצחו",
-      "english": "break forth"
+      "gloss": "break forth"
     },
     {
       "surface": "ורננו",
-      "english": "and sing for joy"
+      "gloss": "and sing for joy"
     },
     {
       "surface": "וזמרו",
-      "english": "⟨and⟩ sing ⟨in⟩ psalm"
+      "gloss": "⟨and⟩ sing ⟨in⟩ psalm"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:44:39.937543582Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

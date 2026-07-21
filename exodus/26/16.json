@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 26:16",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24324,
-    "prompt_tokens_details": {
-      "cached_tokens": 23183
-    },
-    "total_tokens": 24702
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:20:04.689574726Z",
   "translation": "Dez côvados ⟨é⟩ o comprimento ⟨da⟩ tábua, e um côvado e meio ⟨de⟩ largura ⟨a⟩ tábua, ⟨a⟩ uma.",
   "tokens": [
     {
       "surface": "עשר",
-      "english": "Dez"
+      "gloss": "Dez"
     },
     {
       "surface": "אמות",
-      "english": "côvados"
+      "gloss": "côvados"
     },
     {
       "surface": "ארך",
-      "english": "comprimento"
+      "gloss": "comprimento"
     },
     {
       "surface": "הקרש",
-      "english": "tábua"
+      "gloss": "tábua"
     },
     {
       "surface": "ואמה",
-      "english": "e um côvado"
+      "gloss": "e um côvado"
     },
     {
       "surface": "וחצי",
-      "english": "e meio"
+      "gloss": "e meio"
     },
     {
       "surface": "האמה",
-      "english": "de largura"
+      "gloss": "de largura"
     },
     {
       "surface": "רחב",
-      "english": "largura"
+      "gloss": "largura"
     },
     {
       "surface": "הקרש",
-      "english": "tábua"
+      "gloss": "tábua"
     },
     {
       "surface": "האחד",
-      "english": "a uma"
+      "gloss": "a uma"
     }
-  ],
-  "timestamp": "2026-06-13T05:20:04.689574726Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 5:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19973,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20273
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:48:56.003788506Z",
   "translation": "Porque ⟨a⟩ ira mata ⟨ao⟩ tolo, e ⟨a⟩ inveja mata ⟨ao⟩ simples",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לאויל",
-      "english": "⟨ao⟩ tolo"
+      "gloss": "⟨ao⟩ tolo"
     },
     {
       "surface": "יהרג",
-      "english": "mata"
+      "gloss": "mata"
     },
     {
       "surface": "כעש",
-      "english": "⟨a⟩ ira"
+      "gloss": "⟨a⟩ ira"
     },
     {
       "surface": "ופתה",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "תמית",
-      "english": "mata"
+      "gloss": "mata"
     },
     {
       "surface": "קנאה",
-      "english": "⟨a⟩ inveja"
+      "gloss": "⟨a⟩ inveja"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:48:56.003788506Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

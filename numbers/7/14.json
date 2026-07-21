@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "numbers 7:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:15:21.312389886Z",
+  "translation": "Um recipiente de dez ⟨shekels⟩ ⟨de⟩ ouro ⟨cheio⟩ ⟨de⟩ ⟨Ketoret⟩",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "Um recipiente"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "de dez"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨shekels⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨de⟩ ouro"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "⟨cheio⟩"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "⟨de⟩ ⟨Ketoret⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "incenso",
@@ -13,48 +44,6 @@
       "hebrew": "קטרת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17844,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18189
-  },
-  "translation": "Um recipiente de dez ⟨shekels⟩ ⟨de⟩ ouro ⟨cheio⟩ ⟨de⟩ ⟨Ketoret⟩",
-  "tokens": [
-    {
-      "surface": "כף",
-      "english": "Um recipiente"
-    },
-    {
-      "surface": "אחת",
-      "english": "de dez"
-    },
-    {
-      "surface": "עשרה",
-      "english": "⟨shekels⟩"
-    },
-    {
-      "surface": "זהב",
-      "english": "⟨de⟩ ouro"
-    },
-    {
-      "surface": "מלאה",
-      "english": "⟨cheio⟩"
-    },
-    {
-      "surface": "קטרת",
-      "english": "⟨de⟩ ⟨Ketoret⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:15:21.312389886Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

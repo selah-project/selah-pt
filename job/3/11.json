@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "job 3:11",
   "book": "job",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 373,
-    "prompt_tokens": 27407,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27780
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:53:27.763602783Z",
   "translation": "Por que não morri desde o ventre? Saí do ventre e expirei.",
   "tokens": [
     {
       "surface": "למה",
-      "english": "Por que"
+      "gloss": "Por que"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "מרחם",
-      "english": "do ventre"
+      "gloss": "do ventre"
     },
     {
       "surface": "אמות",
-      "english": "mori"
+      "gloss": "mori"
     },
     {
       "surface": "מבטן",
-      "english": "do ventre"
+      "gloss": "do ventre"
     },
     {
       "surface": "יצאתי",
-      "english": "Saí"
+      "gloss": "Saí"
     },
     {
       "surface": "ואגוע",
-      "english": "e expirei"
+      "gloss": "e expirei"
     }
-  ],
-  "timestamp": "2026-07-16T15:53:27.763602783Z",
-  "model": "glm-4.5"
+  ]
 }

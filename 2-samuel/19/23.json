@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "2-samuel 19:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 19,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:02:10.284413139Z",
+  "translation": "E David disse: O que tenho eu convosco, filhos de Tserujah, para que hoje ⟨sejais⟩ adversários meus? Morrerá hoje ⟨um⟩ homem em Yisrael? Pois não sabia que hoje ⟨eu⟩ ⟨sou⟩ rei sobre Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "O que"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tenho eu"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "convosco"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "de Tserujah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "para que"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "⟨sejais⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meus"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "לשטן",
+      "gloss": "adversários"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "Morrerá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "homem em Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "não"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sabia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨eu⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨sou⟩ rei"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,124 +127,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 779,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18530,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 19309
-  },
-  "translation": "E David disse: O que tenho eu convosco, filhos de Tserujah, para que hoje ⟨sejais⟩ adversários meus? Morrerá hoje ⟨um⟩ homem em Yisrael? Pois não sabia que hoje ⟨eu⟩ ⟨sou⟩ rei sobre Yisrael?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "מה",
-      "english": "O que"
-    },
-    {
-      "surface": "לי",
-      "english": "tenho eu"
-    },
-    {
-      "surface": "ולכם",
-      "english": "convosco"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "צרויה",
-      "english": "de Tserujah"
-    },
-    {
-      "surface": "כי",
-      "english": "para que"
-    },
-    {
-      "surface": "תהיו",
-      "english": "⟨sejais⟩"
-    },
-    {
-      "surface": "לי",
-      "english": "meus"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    },
-    {
-      "surface": "לשטן",
-      "english": "adversários"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    },
-    {
-      "surface": "יומת",
-      "english": "Morrerá"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "בישראל",
-      "english": "homem em Israel"
-    },
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "הלוא",
-      "english": "não"
-    },
-    {
-      "surface": "ידעתי",
-      "english": "sabia"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    },
-    {
-      "surface": "אני",
-      "english": "⟨eu⟩"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨sou⟩ rei"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:02:10.284413139Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

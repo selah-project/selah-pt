@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "numbers 17:26",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 413,
-    "prompt_tokens": 25292,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25705
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:15:01.895481904Z",
   "translation": "E Moshé fez como YHWH lhe ordenara, ⟨assim⟩ ele ⟨fez⟩",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "E ... fez"
+      "gloss": "E ... fez"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "צוה",
-      "english": "ordenou"
+      "gloss": "ordenou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אתו",
-      "english": "⟨assim⟩",
+      "gloss": "⟨assim⟩",
       "marks": "כן"
     },
     {
       "surface": "כן",
-      "english": "assim"
+      "gloss": "assim"
     },
     {
       "surface": "עשה",
-      "english": "fez"
+      "gloss": "fez"
     }
-  ],
-  "timestamp": "2026-07-16T17:15:01.895481904Z",
-  "model": "glm-4.5"
+  ]
 }

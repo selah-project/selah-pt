@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "numbers 11:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 11,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:21:41.029294484Z",
+  "translation": "E Moshé ⟨foi⟩ ajuntado ⟨ao⟩ acampamento, ele e ⟨os⟩ anciãos de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "E Moshé ⟨foi⟩ ajuntado"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "acampamento"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "e ⟨os⟩ anciãos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,52 +48,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17954,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18234
-  },
-  "translation": "E Moshé ⟨foi⟩ ajuntado ⟨ao⟩ acampamento, ele e ⟨os⟩ anciãos de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויאסף",
-      "english": "E Moshé ⟨foi⟩ ajuntado"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "המחנה",
-      "english": "acampamento"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele"
-    },
-    {
-      "surface": "וזקני",
-      "english": "e ⟨os⟩ anciãos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:21:41.029294484Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

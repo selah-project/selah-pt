@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "genesis 46:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 46,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:30:12.006516449Z",
+  "translation": "E os filhos de Yissacar: ⟨o⟩ Tola, e ⟨o⟩ Puva, e ⟨o⟩ Job, e ⟨o⟩ Shimrom.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos de"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissacar"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "⟨o⟩ Tola",
+      "marks": "Tola"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "e ⟨o⟩ Puva",
+      "marks": "Puva"
+    },
+    {
+      "surface": "ויוב",
+      "gloss": "e ⟨o⟩ Job",
+      "marks": "Job"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "e ⟨o⟩ Shimrom",
+      "marks": "Shimrom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Issacar",
@@ -13,52 +48,6 @@
       "hebrew": "יששכר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21221,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 21586
-  },
-  "translation": "E os filhos de Yissacar: ⟨o⟩ Tola, e ⟨o⟩ Puva, e ⟨o⟩ Job, e ⟨o⟩ Shimrom.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos de"
-    },
-    {
-      "surface": "יששכר",
-      "english": "Yissacar"
-    },
-    {
-      "surface": "תולע",
-      "english": "⟨o⟩ Tola",
-      "marks": "Tola"
-    },
-    {
-      "surface": "ופוה",
-      "english": "e ⟨o⟩ Puva",
-      "marks": "Puva"
-    },
-    {
-      "surface": "ויוב",
-      "english": "e ⟨o⟩ Job",
-      "marks": "Job"
-    },
-    {
-      "surface": "ושמרון",
-      "english": "e ⟨o⟩ Shimrom",
-      "marks": "Shimrom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:30:12.006516449Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

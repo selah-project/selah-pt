@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "exodus 9:32",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24140,
-    "prompt_tokens_details": {
-      "cached_tokens": 23181
-    },
-    "total_tokens": 24487
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:26:57.748579063Z",
   "translation": "E ⟨o⟩ trigo e ⟨o⟩ espelta não foram atingidos, porque ⟨eles estavam⟩ ainda imaturos.",
   "tokens": [
     {
       "surface": "והחטה",
-      "english": "E ⟨o⟩ trigo"
+      "gloss": "E ⟨o⟩ trigo"
     },
     {
       "surface": "והכסמת",
-      "english": "e ⟨o⟩ espelta"
+      "gloss": "e ⟨o⟩ espelta"
     },
     {
       "surface": "לא",
-      "english": "não foram"
+      "gloss": "não foram"
     },
     {
       "surface": "נכו",
-      "english": "atingidos"
+      "gloss": "atingidos"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אפילת",
-      "english": "⟨eles estavam⟩ ainda imaturos"
+      "gloss": "⟨eles estavam⟩ ainda imaturos"
     },
     {
       "surface": "הנה",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-06-14T04:26:57.748579063Z",
-  "model": "glm-4.5"
+  ]
 }

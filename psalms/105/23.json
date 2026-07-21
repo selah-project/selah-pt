@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 105:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 105,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:49:10.825434403Z",
+  "translation": "E Yisrael entrou no Mitzráyim, e Ya'akov ⟨foi⟩ estrangeiro ⟨na⟩ terra ⟨de⟩ Ham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E entrou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "no Mitzráyim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "e Ya'akov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "⟨foi⟩ estrangeiro"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ terra"
+    },
+    {
+      "surface": "חם",
+      "gloss": "⟨de⟩ Ham"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,52 +55,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 105,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62904,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63287
-  },
-  "translation": "E Yisrael entrou no Mitzráyim, e Ya'akov ⟨foi⟩ estrangeiro ⟨na⟩ terra ⟨de⟩ Ham.",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E entrou"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מצרים",
-      "english": "no Mitzráyim"
-    },
-    {
-      "surface": "ויעקב",
-      "english": "e Ya'akov"
-    },
-    {
-      "surface": "גר",
-      "english": "⟨foi⟩ estrangeiro"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨na⟩ terra"
-    },
-    {
-      "surface": "חם",
-      "english": "⟨de⟩ Ham"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:49:10.825434403Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

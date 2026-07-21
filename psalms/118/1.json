@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 118:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 70274,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70709
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:22.432406321Z",
   "translation": "Rendei graças a YHWH, pois Ele ⟨é⟩ bom, pois para sempre ⟨é⟩ a sua bondade",
   "tokens": [
     {
       "surface": "הודו",
-      "english": "Rendei graças"
+      "gloss": "Rendei graças"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "טוב",
-      "english": "Ele ⟨é⟩ bom"
+      "gloss": "Ele ⟨é⟩ bom"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "לעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "חסדו",
-      "english": "a sua bondade"
+      "gloss": "a sua bondade"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:22.432406321Z",
-  "model": "glm-4.5"
+  ]
 }

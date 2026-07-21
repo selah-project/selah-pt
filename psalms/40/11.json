@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 40:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 40,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:06:23.077166477Z",
+  "translation": "Tua retidão não ocultei ⟨dentro⟩ ⟨do⟩ meu coração, tua fidelidade e ⟨a⟩ tua salvação declarei; não escondi tua Jésed e ⟨a⟩ tua verdade ⟨para⟩ ⟨a⟩ grande assembleia.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Tua retidão"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "ocultei"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "⟨dentro⟩"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "⟨do⟩ meu coração"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tua fidelidade"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "e ⟨a⟩ tua salvação"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "declarei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "escondi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tua Jésed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "e ⟨a⟩ tua verdade"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "⟨para⟩ ⟨a⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande assembleia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "bondade",
@@ -13,80 +76,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 40,
-  "usage": {
-    "completion_tokens": 612,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63603,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 64215
-  },
-  "translation": "Tua retidão não ocultei ⟨dentro⟩ ⟨do⟩ meu coração, tua fidelidade e ⟨a⟩ tua salvação declarei; não escondi tua Jésed e ⟨a⟩ tua verdade ⟨para⟩ ⟨a⟩ grande assembleia.",
-  "tokens": [
-    {
-      "surface": "צדקתך",
-      "english": "Tua retidão"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "כסיתי",
-      "english": "ocultei"
-    },
-    {
-      "surface": "בתוך",
-      "english": "⟨dentro⟩"
-    },
-    {
-      "surface": "לבי",
-      "english": "⟨do⟩ meu coração"
-    },
-    {
-      "surface": "אמונתך",
-      "english": "tua fidelidade"
-    },
-    {
-      "surface": "ותשועתך",
-      "english": "e ⟨a⟩ tua salvação"
-    },
-    {
-      "surface": "אמרתי",
-      "english": "declarei"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "כחדתי",
-      "english": "escondi"
-    },
-    {
-      "surface": "חסדך",
-      "english": "tua Jésed"
-    },
-    {
-      "surface": "ואמתך",
-      "english": "e ⟨a⟩ tua verdade"
-    },
-    {
-      "surface": "לקהל",
-      "english": "⟨para⟩ ⟨a⟩"
-    },
-    {
-      "surface": "רב",
-      "english": "grande assembleia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:06:23.077166477Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

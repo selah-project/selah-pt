@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-chronicles 20:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 20,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:27:18.699594639Z",
+  "translation": "E agora, ⟨é⟩ ⟨o⟩ que ⟨está⟩ ⟨à⟩ vista: os filhos de Ammon, e de Moabe, e o monte Seir, aos quais não permitiste que Israel entrasse quando eles saíram ⟨da⟩ terra do Mitzráyim; porque se desviaram deles e não os destruíram.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E agora"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨é⟩ ⟨o⟩ que ⟨está⟩ ⟨à⟩ vista"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Ammon"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "e de Moabe"
+    },
+    {
+      "surface": "והר",
+      "gloss": "e o monte"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aos quais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "permitiste"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "que Israel"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "entrasse"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "quando eles"
+    },
+    {
+      "surface": "בבאם",
+      "gloss": "saíram"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨da⟩ terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "se desviaram"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "deles"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "השמידום",
+      "gloss": "os destruíram"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amom",
@@ -20,108 +111,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 746,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59274,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 60020
-  },
-  "translation": "E agora, ⟨é⟩ ⟨o⟩ que ⟨está⟩ ⟨à⟩ vista: os filhos de Ammon, e de Moabe, e o monte Seir, aos quais não permitiste que Israel entrasse quando eles saíram ⟨da⟩ terra do Mitzráyim; porque se desviaram deles e não os destruíram.",
-  "tokens": [
-    {
-      "surface": "ועתה",
-      "english": "E agora"
-    },
-    {
-      "surface": "הנה",
-      "english": "⟨é⟩ ⟨o⟩ que ⟨está⟩ ⟨à⟩ vista"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Ammon"
-    },
-    {
-      "surface": "ומואב",
-      "english": "e de Moabe"
-    },
-    {
-      "surface": "והר",
-      "english": "e o monte"
-    },
-    {
-      "surface": "שעיר",
-      "english": "Seir"
-    },
-    {
-      "surface": "אשר",
-      "english": "aos quais"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "נתתה",
-      "english": "permitiste"
-    },
-    {
-      "surface": "לישראל",
-      "english": "que Israel"
-    },
-    {
-      "surface": "לבוא",
-      "english": "entrasse"
-    },
-    {
-      "surface": "בהם",
-      "english": "quando eles"
-    },
-    {
-      "surface": "בבאם",
-      "english": "saíram"
-    },
-    {
-      "surface": "מארץ",
-      "english": "⟨da⟩ terra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "סרו",
-      "english": "se desviaram"
-    },
-    {
-      "surface": "מעליהם",
-      "english": "deles"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "השמידום",
-      "english": "os destruíram"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:27:18.699594639Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

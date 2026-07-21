@@ -1,47 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 89:26",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70022,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70418
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:10.978067537Z",
   "translation": "E porá ⟨o⟩ ⟨seu⟩ ⟨mão⟩ ⟨no⟩ mar, e ⟨a⟩ sua mão direita nos rios.",
   "tokens": [
     {
       "surface": "ושמתי",
-      "english": "E porá"
+      "gloss": "E porá"
     },
     {
       "surface": "בים",
-      "english": "⟨o⟩ mar",
+      "gloss": "⟨o⟩ mar",
       "marks": "mar"
     },
     {
       "surface": "ידו",
-      "english": "⟨o⟩ ⟨seu⟩ ⟨mão⟩",
+      "gloss": "⟨o⟩ ⟨seu⟩ ⟨mão⟩",
       "marks": "mão"
     },
     {
       "surface": "ובנהרות",
-      "english": "e nos rios"
+      "gloss": "e nos rios"
     },
     {
       "surface": "ימינו",
-      "english": "⟨a⟩ sua mão direita",
+      "gloss": "⟨a⟩ sua mão direita",
       "marks": "mão direita"
     }
-  ],
-  "timestamp": "2026-06-13T06:40:10.978067537Z",
-  "model": "glm-4.5"
+  ]
 }

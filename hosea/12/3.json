@@ -1,68 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "hosea 12:3",
   "book": "hosea",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 752,
-    "prompt_tokens": 27211,
-    "prompt_tokens_details": {
-      "cached_tokens": 25856
-    },
-    "total_tokens": 27963
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:08:36.214310426Z",
   "translation": "E contendia com YHWH ⟨junto com⟩ Yehudá, e ⟨o⟩ visitaria sobre Yaakov, segundo ⟨os⟩ seus caminhos, segundo ⟨as⟩ suas ações, retribuiria a ele.",
   "tokens": [
     {
       "surface": "וריב",
-      "english": "E contendia"
+      "gloss": "E contendia"
     },
     {
       "surface": "ליהוה",
-      "english": "com YHWH"
+      "gloss": "com YHWH"
     },
     {
       "surface": "עם",
-      "english": "⟨junto com⟩",
+      "gloss": "⟨junto com⟩",
       "marks": "Yehudá"
     },
     {
       "surface": "יהודה",
-      "english": "Yehudá"
+      "gloss": "Yehudá"
     },
     {
       "surface": "ולפקד",
-      "english": "e ⟨o⟩ visitaria"
+      "gloss": "e ⟨o⟩ visitaria"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "כדרכיו",
-      "english": "segundo ⟨os⟩ seus caminhos",
+      "gloss": "segundo ⟨os⟩ seus caminhos",
       "marks": "seus caminhos"
     },
     {
       "surface": "כמעלליו",
-      "english": "segundo ⟨as⟩ suas ações",
+      "gloss": "segundo ⟨as⟩ suas ações",
       "marks": "suas ações"
     },
     {
       "surface": "ישיב",
-      "english": "retribuiria"
+      "gloss": "retribuiria"
     },
     {
       "surface": "לו",
-      "english": "a ele"
+      "gloss": "a ele"
     }
-  ],
-  "timestamp": "2026-07-16T15:08:36.214310426Z",
-  "model": "glm-4.5"
+  ]
 }

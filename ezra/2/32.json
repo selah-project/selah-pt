@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "ezra 2:32",
   "book": "ezra",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 262,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51878,
-    "prompt_tokens_details": {
-      "cached_tokens": 51187
-    },
-    "total_tokens": 52140
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:55:39.980657704Z",
   "translation": "Os filhos de Harim, ⟨são⟩ trezentos e vinte ⟨e⟩.",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Os filhos de"
+      "gloss": "Os filhos de"
     },
     {
       "surface": "חרם",
-      "english": "Harim"
+      "gloss": "Harim"
     },
     {
       "surface": "שלש",
-      "english": "trezentos"
+      "gloss": "trezentos"
     },
     {
       "surface": "מאות",
-      "english": "e vinte ⟨e⟩"
+      "gloss": "e vinte ⟨e⟩"
     },
     {
       "surface": "ועשרים",
-      "english": "⟨e⟩"
+      "gloss": "⟨e⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:55:39.980657704Z",
-  "model": "glm-4.5"
+  ]
 }

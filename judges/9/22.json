@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "judges 9:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 9,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:59:47.892951406Z",
+  "translation": "e Abimeleque reinou ⟨sobre⟩ Yisrael ⟨por⟩ três anos",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "E reinou"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleque"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "três"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,48 +44,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 259,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 15999,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 16258
-  },
-  "translation": "e Abimeleque reinou ⟨sobre⟩ Yisrael ⟨por⟩ três anos",
-  "tokens": [
-    {
-      "surface": "וישר",
-      "english": "E reinou"
-    },
-    {
-      "surface": "אבימלך",
-      "english": "Abimeleque"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "שלש",
-      "english": "três"
-    },
-    {
-      "surface": "שנים",
-      "english": "anos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:59:47.892951406Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

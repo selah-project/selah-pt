@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "exodus 13:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 13,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:52:13.582831545Z",
+  "translation": "E será quando ⟨o⟩ YHWH te trouxer ⟨à⟩ terra ⟨dos⟩ cananeus, como jurou a ti e a teus pais, e ⟨a⟩ der a ti",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E será"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "⟨o⟩ SENHOR te trouxer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨dos⟩ cananeus"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "jurou"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "e a teus pais"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "e ⟨a⟩ der"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a ti"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "SENHOR",
@@ -13,76 +72,6 @@
       "hebrew": "יהוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 588,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17367,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17955
-  },
-  "translation": "E será quando ⟨o⟩ YHWH te trouxer ⟨à⟩ terra ⟨dos⟩ cananeus, como jurou a ti e a teus pais, e ⟨a⟩ der a ti",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "E será"
-    },
-    {
-      "surface": "כי",
-      "english": "quando"
-    },
-    {
-      "surface": "יבאך",
-      "english": "⟨o⟩ SENHOR te trouxer"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨à⟩"
-    },
-    {
-      "surface": "ארץ",
-      "english": "terra"
-    },
-    {
-      "surface": "הכנעני",
-      "english": "⟨dos⟩ cananeus"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como"
-    },
-    {
-      "surface": "נשבע",
-      "english": "jurou"
-    },
-    {
-      "surface": "לך",
-      "english": "a ti"
-    },
-    {
-      "surface": "ולאבתיך",
-      "english": "e a teus pais"
-    },
-    {
-      "surface": "ונתנה",
-      "english": "e ⟨a⟩ der"
-    },
-    {
-      "surface": "לך",
-      "english": "a ti"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:52:13.582831545Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

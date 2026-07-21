@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "genesis 30:28",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 276,
-    "prompt_tokens": 28522,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28798
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:52:41.323466786Z",
   "translation": "E ele disse: Indica o teu salário e eu ⟨o⟩ darei.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ele disse"
+      "gloss": "E ele disse"
     },
     {
       "surface": "נקבה",
-      "english": "Indica"
+      "gloss": "Indica"
     },
     {
       "surface": "שכרך",
-      "english": "o teu salário"
+      "gloss": "o teu salário"
     },
     {
       "surface": "עלי",
-      "english": "⟨para⟩ mim"
+      "gloss": "⟨para⟩ mim"
     },
     {
       "surface": "ואתנה",
-      "english": "e eu ⟨o⟩ darei"
+      "gloss": "e eu ⟨o⟩ darei"
     }
-  ],
-  "timestamp": "2026-07-16T14:52:41.323466786Z",
-  "model": "glm-4.5"
+  ]
 }

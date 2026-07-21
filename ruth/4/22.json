@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "ruth 4:22",
   "book": "ruth",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 342,
-    "prompt_tokens": 28423,
-    "prompt_tokens_details": {
-      "cached_tokens": 27264
-    },
-    "total_tokens": 28765
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:54:26.262987670Z",
   "translation": "e Obed gerou ⟨את⟩ Yishai, e Yishai gerou ⟨את⟩ David",
   "tokens": [
     {
       "surface": "וְ\/עֹבֵד֙",
-      "english": "e Obed"
+      "gloss": "e Obed"
     },
     {
       "surface": "הוֹלִ֣יד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yishai"
     },
     {
       "surface": "יִשָׁ֔י",
-      "english": "Yishai"
+      "gloss": "Yishai"
     },
     {
       "surface": "וְ\/יִשַׁ֖י",
-      "english": "e Yishai"
+      "gloss": "e Yishai"
     },
     {
       "surface": "הוֹלִ֥יד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "David"
     },
     {
       "surface": "דָּוִֽד",
-      "english": "David"
+      "gloss": "David"
     }
-  ],
-  "timestamp": "2026-07-16T17:54:26.262987670Z",
-  "model": "glm-4.5"
+  ]
 }

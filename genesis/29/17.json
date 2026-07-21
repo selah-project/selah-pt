@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "genesis 29:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 29,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:10:53.166049972Z",
+  "translation": "e ⟨os⟩ olhos de Leah ⟨eram⟩ ternos ⟨e⟩ Raquel ⟨era⟩ de ⟨um⟩ formoso aparido ⟨e⟩ formosa ⟨de⟩ aparência",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "E ⟨os⟩ olhos"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "de Leah"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "⟨eram⟩ ternos"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "⟨e⟩ Raquel"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "de ⟨um⟩ formoso"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "aparido"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "⟨e⟩ formosa"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "⟨de⟩ aparência"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Lia",
@@ -13,60 +56,6 @@
       "hebrew": "לאה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21356,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21839
-  },
-  "translation": "e ⟨os⟩ olhos de Leah ⟨eram⟩ ternos ⟨e⟩ Raquel ⟨era⟩ de ⟨um⟩ formoso aparido ⟨e⟩ formosa ⟨de⟩ aparência",
-  "tokens": [
-    {
-      "surface": "ועיני",
-      "english": "E ⟨os⟩ olhos"
-    },
-    {
-      "surface": "לאה",
-      "english": "de Leah"
-    },
-    {
-      "surface": "רכות",
-      "english": "⟨eram⟩ ternos"
-    },
-    {
-      "surface": "ורחל",
-      "english": "⟨e⟩ Raquel"
-    },
-    {
-      "surface": "היתה",
-      "english": "⟨era⟩"
-    },
-    {
-      "surface": "יפת",
-      "english": "de ⟨um⟩ formoso"
-    },
-    {
-      "surface": "תאר",
-      "english": "aparido"
-    },
-    {
-      "surface": "ויפת",
-      "english": "⟨e⟩ formosa"
-    },
-    {
-      "surface": "מראה",
-      "english": "⟨de⟩ aparência"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:10:53.166049972Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

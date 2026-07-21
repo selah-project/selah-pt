@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 26:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 365,
-    "prompt_tokens": 70261,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70626
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:36:47.118143993Z",
   "translation": "Meus pés ⟨estão⟩ em ⟨um⟩ lugar plano; nas assembleias abençoarei YHWH.",
   "tokens": [
     {
       "surface": "רגלי",
-      "english": "Meus pés"
+      "gloss": "Meus pés"
     },
     {
       "surface": "עמדה",
-      "english": "⟨estão⟩"
+      "gloss": "⟨estão⟩"
     },
     {
       "surface": "במישור",
-      "english": "em ⟨um⟩ lugar plano"
+      "gloss": "em ⟨um⟩ lugar plano"
     },
     {
       "surface": "במקהלים",
-      "english": "nas assembleias"
+      "gloss": "nas assembleias"
     },
     {
       "surface": "אברך",
-      "english": "abençoarei"
+      "gloss": "abençoarei"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T17:36:47.118143993Z",
-  "model": "glm-4.5"
+  ]
 }

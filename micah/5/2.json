@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "micah 5:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "micah",
+  "chapter": 5,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:17:33.139157642Z",
+  "translation": "Portanto ⟨ele⟩ os entregará até ⟨que⟩ ⟨a⟩ que está para dar à luz dê à luz; então ⟨o⟩ restante de seus irmãos retornará sobre ⟨os⟩ filhos de Yisrael.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Portanto"
+    },
+    {
+      "surface": "יתנם",
+      "gloss": "⟨ele⟩ os entregará"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "עת",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "⟨a⟩ que está para dar à luz"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dê à luz"
+    },
+    {
+      "surface": "ואתר",
+      "gloss": "então"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "⟨o⟩ restante de seus irmãos"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "retornará"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16369,
-    "prompt_tokens_details": {
-      "cached_tokens": 14744
-    },
-    "total_tokens": 16865
-  },
-  "translation": "Portanto ⟨ele⟩ os entregará até ⟨que⟩ ⟨a⟩ que está para dar à luz dê à luz; então ⟨o⟩ restante de seus irmãos retornará sobre ⟨os⟩ filhos de Yisrael.",
-  "tokens": [
-    {
-      "surface": "לכן",
-      "english": "Portanto"
-    },
-    {
-      "surface": "יתנם",
-      "english": "⟨ele⟩ os entregará"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "עת",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "יולדה",
-      "english": "⟨a⟩ que está para dar à luz"
-    },
-    {
-      "surface": "ילדה",
-      "english": "dê à luz"
-    },
-    {
-      "surface": "ואתר",
-      "english": "então"
-    },
-    {
-      "surface": "אחיו",
-      "english": "⟨o⟩ restante de seus irmãos"
-    },
-    {
-      "surface": "ישובון",
-      "english": "retornará"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:17:33.139157642Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

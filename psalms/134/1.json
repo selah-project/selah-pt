@@ -1,74 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 134:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 134,
-  "usage": {
-    "completion_tokens": 638,
-    "prompt_tokens": 70908,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71546
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:13.137108778Z",
   "translation": "Uma canção das subidas. Eis, bendizei ⟨את⟩ YHWH, todos vós, servos de YHWH, os que estão ⟨de pé⟩ na casa de YHWH, ⟨nas⟩ noites.",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Uma canção"
+      "gloss": "Uma canção"
     },
     {
       "surface": "המעלות",
-      "english": "das subidas"
+      "gloss": "das subidas"
     },
     {
       "surface": "הנה",
-      "english": "Eis"
+      "gloss": "Eis"
     },
     {
       "surface": "ברכו",
-      "english": "bendizei"
+      "gloss": "bendizei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כל",
-      "english": "todos vós"
+      "gloss": "todos vós"
     },
     {
       "surface": "עבדי",
-      "english": "servos de"
+      "gloss": "servos de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "העמדים",
-      "english": "os que estão ⟨de pé⟩"
+      "gloss": "os que estão ⟨de pé⟩"
     },
     {
       "surface": "בבית",
-      "english": "na casa de"
+      "gloss": "na casa de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בלילות",
-      "english": "⟨nas⟩ noites"
+      "gloss": "⟨nas⟩ noites"
     }
-  ],
-  "timestamp": "2026-07-16T17:50:13.137108778Z",
-  "model": "glm-4.5"
+  ]
 }

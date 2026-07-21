@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 55:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62758,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63051
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:15:07.548180418Z",
   "translation": "I would hasten ⟨my⟩ escape ⟨from⟩ windy storm ⟨from⟩ tempest",
   "tokens": [
     {
       "surface": "אחישה",
-      "english": "I would hasten"
+      "gloss": "I would hasten"
     },
     {
       "surface": "מפלט",
-      "english": "⟨my⟩ escape"
+      "gloss": "⟨my⟩ escape"
     },
     {
       "surface": "לי",
-      "english": "⟨my⟩",
+      "gloss": "⟨my⟩",
       "marks": "escape"
     },
     {
       "surface": "מרוח",
-      "english": "⟨from⟩ windy storm"
+      "gloss": "⟨from⟩ windy storm"
     },
     {
       "surface": "סעה",
-      "english": "windy storm"
+      "gloss": "windy storm"
     },
     {
       "surface": "מסער",
-      "english": "⟨from⟩ tempest"
+      "gloss": "⟨from⟩ tempest"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:15:07.548180418Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

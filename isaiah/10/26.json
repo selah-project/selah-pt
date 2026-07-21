@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "isaiah 10:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 10,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:21:08.518493629Z",
+  "translation": "E YHWH Tzevaot ⟨virá⟩ ⟨contra⟩ ele um açoite como ⟨o⟩ golpe de Midyan na rocha de Oreb, e ⟨o⟩ bastão ⟨dele⟩ ⟨sobre⟩ ⟨o⟩ mar, e ⟨o⟩ levantará ⟨no⟩ caminho do Mitzráyim.",
+  "tokens": [
+    {
+      "surface": "ועורר",
+      "gloss": "E"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨contra⟩ ele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "um açoite"
+    },
+    {
+      "surface": "כמכת",
+      "gloss": "como ⟨o⟩ golpe de"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "na rocha de"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "Oreb"
+    },
+    {
+      "surface": "ומטהו",
+      "gloss": "e ⟨o⟩ bastão ⟨dele⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨o⟩ mar"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "e ⟨o⟩ levantará"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨no⟩ caminho de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Midiã",
@@ -20,84 +87,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 575,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19817,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20392
-  },
-  "translation": "E YHWH Tzevaot ⟨virá⟩ ⟨contra⟩ ele um açoite como ⟨o⟩ golpe de Midyan na rocha de Oreb, e ⟨o⟩ bastão ⟨dele⟩ ⟨sobre⟩ ⟨o⟩ mar, e ⟨o⟩ levantará ⟨no⟩ caminho do Mitzráyim.",
-  "tokens": [
-    {
-      "surface": "ועורר",
-      "english": "E"
-    },
-    {
-      "surface": "עליו",
-      "english": "⟨contra⟩ ele"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "צבאות",
-      "english": "Tzevaot"
-    },
-    {
-      "surface": "שוט",
-      "english": "um açoite"
-    },
-    {
-      "surface": "כמכת",
-      "english": "como ⟨o⟩ golpe de"
-    },
-    {
-      "surface": "מדין",
-      "english": "Midyan"
-    },
-    {
-      "surface": "בצור",
-      "english": "na rocha de"
-    },
-    {
-      "surface": "עורב",
-      "english": "Oreb"
-    },
-    {
-      "surface": "ומטהו",
-      "english": "e ⟨o⟩ bastão ⟨dele⟩"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "הים",
-      "english": "⟨o⟩ mar"
-    },
-    {
-      "surface": "ונשאו",
-      "english": "e ⟨o⟩ levantará"
-    },
-    {
-      "surface": "בדרך",
-      "english": "⟨no⟩ caminho de"
-    },
-    {
-      "surface": "מצרים",
-      "english": "Mitzráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:21:08.518493629Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

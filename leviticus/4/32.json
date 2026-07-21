@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "leviticus 4:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 4,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:39:39.825538781Z",
+  "translation": "E se ⟨ele⟩ trouxer ⟨um⟩ cordeiro ⟨como⟩ ⟨sua⟩ Korban ⟨por⟩ pecado ⟨uma⟩ fêmea ⟨sem⟩ defeito ⟨ele⟩ trará ⟨ela⟩",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E se"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "cordeiro"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "trouxer"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "Korban"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "⟨por⟩ pecado"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "fêmea"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "⟨sem⟩ defeito"
+    },
+    {
+      "surface": "יביאנה",
+      "gloss": "trará ⟨ela⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "oferta",
@@ -13,56 +52,6 @@
       "hebrew": "קרבן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17538,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 18040
-  },
-  "translation": "E se ⟨ele⟩ trouxer ⟨um⟩ cordeiro ⟨como⟩ ⟨sua⟩ Korban ⟨por⟩ pecado ⟨uma⟩ fêmea ⟨sem⟩ defeito ⟨ele⟩ trará ⟨ela⟩",
-  "tokens": [
-    {
-      "surface": "ואם",
-      "english": "E se"
-    },
-    {
-      "surface": "כבש",
-      "english": "cordeiro"
-    },
-    {
-      "surface": "יביא",
-      "english": "trouxer"
-    },
-    {
-      "surface": "קרבנו",
-      "english": "Korban"
-    },
-    {
-      "surface": "לחטאת",
-      "english": "⟨por⟩ pecado"
-    },
-    {
-      "surface": "נקבה",
-      "english": "fêmea"
-    },
-    {
-      "surface": "תמימה",
-      "english": "⟨sem⟩ defeito"
-    },
-    {
-      "surface": "יביאנה",
-      "english": "trará ⟨ela⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:39:39.825538781Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

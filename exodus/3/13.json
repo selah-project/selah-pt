@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "exodus 3:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 3,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:38:02.152684828Z",
+  "translation": "E Moshé disse a ⟨את⟩ ha-Elohim: Eis que ⟨eu⟩ venho aos filhos de Yisra'el e ⟨eu⟩ lhes direi: 'Elohim de vossos pais ⟨me⟩ enviou a vós'; e ⟨eles⟩ me dirão: 'Qual ⟨é⟩ ⟨o⟩ nome ⟨dele⟩? O que direi a eles?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨eu⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "e ⟨eu⟩ direi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a eles"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "de vossos pais"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "⟨me⟩ enviou"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "a vós"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "e ⟨eles⟩ dirão"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a mim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Qual"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨é⟩ ⟨o⟩ nome ⟨dele⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "O que"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "direi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "a eles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,116 +112,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 826,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18245,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 19071
-  },
-  "translation": "E Moshé disse a ⟨את⟩ ha-Elohim: Eis que ⟨eu⟩ venho aos filhos de Yisra'el e ⟨eu⟩ lhes direi: 'Elohim de vossos pais ⟨me⟩ enviou a vós'; e ⟨eles⟩ me dirão: 'Qual ⟨é⟩ ⟨o⟩ nome ⟨dele⟩? O que direi a eles?'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "האלהים",
-      "english": "ha-Elohim"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis que"
-    },
-    {
-      "surface": "אנכי",
-      "english": "⟨eu⟩"
-    },
-    {
-      "surface": "בא",
-      "english": "venho"
-    },
-    {
-      "surface": "אל",
-      "english": "aos"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisra'el"
-    },
-    {
-      "surface": "ואמרתי",
-      "english": "e ⟨eu⟩ direi"
-    },
-    {
-      "surface": "להם",
-      "english": "a eles"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "אבותיכם",
-      "english": "de vossos pais"
-    },
-    {
-      "surface": "שלחני",
-      "english": "⟨me⟩ enviou"
-    },
-    {
-      "surface": "אליכם",
-      "english": "a vós"
-    },
-    {
-      "surface": "ואמרו",
-      "english": "e ⟨eles⟩ dirão"
-    },
-    {
-      "surface": "לי",
-      "english": "a mim"
-    },
-    {
-      "surface": "מה",
-      "english": "Qual"
-    },
-    {
-      "surface": "שמו",
-      "english": "⟨é⟩ ⟨o⟩ nome ⟨dele⟩"
-    },
-    {
-      "surface": "מה",
-      "english": "O que"
-    },
-    {
-      "surface": "אמר",
-      "english": "direi"
-    },
-    {
-      "surface": "אלהם",
-      "english": "a eles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:38:02.152684828Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

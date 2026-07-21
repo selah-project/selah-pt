@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 64:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 594,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70305,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70899
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:55:53.514184929Z",
   "translation": "e ⟨o⟩ farão tropeçar sobre si mesmos ⟨por⟩ ⟨a⟩ sua língua; todos ⟨que⟩ ⟨os⟩ veem ⟨se⟩ moverão ⟨para cá e para lá⟩",
   "tokens": [
     {
       "surface": "ויכשילוהו",
-      "english": "e ⟨o⟩ farão tropeçar sobre si mesmos",
+      "gloss": "e ⟨o⟩ farão tropeçar sobre si mesmos",
       "marks": "si mesmos"
     },
     {
       "surface": "עלימו",
-      "english": "⟨por⟩",
+      "gloss": "⟨por⟩",
       "rationale": "על means 'upon'\/'over'"
     },
     {
       "surface": "לשונם",
-      "english": "⟨a⟩ sua língua",
+      "gloss": "⟨a⟩ sua língua",
       "rationale": "לשון = tongue"
     },
     {
       "surface": "יתנדדו",
-      "english": "⟨se⟩ moverão ⟨para cá e para lá⟩",
+      "gloss": "⟨se⟩ moverão ⟨para cá e para lá⟩",
       "rationale": "נדד = wave to and fro, roam"
     },
     {
       "surface": "כל",
-      "english": "todos",
+      "gloss": "todos",
       "rationale": "כל = all\/every"
     },
     {
       "surface": "ראה",
-      "english": "⟨que⟩ ⟨os⟩ veem",
+      "gloss": "⟨que⟩ ⟨os⟩ veem",
       "rationale": "ראה participle = 'seeing ones'"
     },
     {
       "surface": "בם",
-      "english": "⟨em⟩",
+      "gloss": "⟨em⟩",
       "rationale": "ב pronominal suffix = 'in them\/with them'"
     }
-  ],
-  "timestamp": "2026-06-13T02:55:53.514184929Z",
-  "model": "glm-4.5"
+  ]
 }

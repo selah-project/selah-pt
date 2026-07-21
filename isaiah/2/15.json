@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "isaiah 2:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18922,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19267
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:14:25.042938312Z",
   "translation": "e sobre ⟨um⟩ ⟨todo⟩ torre elevado e sobre ⟨um⟩ ⟨todo⟩ muro fortificado",
   "tokens": [
     {
       "surface": "ועל",
-      "english": "E sobre"
+      "gloss": "E sobre"
     },
     {
       "surface": "כל",
-      "english": "⟨um⟩ ⟨todo⟩",
+      "gloss": "⟨um⟩ ⟨todo⟩",
       "marks": "torre"
     },
     {
       "surface": "מגדל",
-      "english": "torre"
+      "gloss": "torre"
     },
     {
       "surface": "גבה",
-      "english": "elevado"
+      "gloss": "elevado"
     },
     {
       "surface": "ועל",
-      "english": "e sobre"
+      "gloss": "e sobre"
     },
     {
       "surface": "כל",
-      "english": "⟨um⟩ ⟨todo⟩",
+      "gloss": "⟨um⟩ ⟨todo⟩",
       "marks": "muro"
     },
     {
       "surface": "חומה",
-      "english": "muro"
+      "gloss": "muro"
     },
     {
       "surface": "בצורה",
-      "english": "fortificado"
+      "gloss": "fortificado"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:14:25.042938312Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

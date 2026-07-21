@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "2-kings 21:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 21,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:08:03.547340507Z",
+  "translation": "E Menashé foi sepultado com ⟨os⟩ seus pais, e ⟨foi⟩ sepultado ⟨no⟩ jardim da sua casa, ⟨no⟩ jardim de Uza; e Amon, seu filho, reinou em ⟨o⟩ seu lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "E Manassés foi sepultado"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com ⟨os⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e ⟨foi⟩ sepultado"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "⟨no⟩ jardim"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "da sua casa"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "⟨no⟩ jardim"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "de Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e Amom"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "em ⟨o⟩ seu lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Manassés",
@@ -20,76 +79,6 @@
       "hebrew": "אמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17383,
-    "prompt_tokens_details": {
-      "cached_tokens": 15784
-    },
-    "total_tokens": 17867
-  },
-  "translation": "E Menashé foi sepultado com ⟨os⟩ seus pais, e ⟨foi⟩ sepultado ⟨no⟩ jardim da sua casa, ⟨no⟩ jardim de Uza; e Amon, seu filho, reinou em ⟨o⟩ seu lugar.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "E Manassés foi sepultado"
-    },
-    {
-      "surface": "מנשה",
-      "english": "Menashé"
-    },
-    {
-      "surface": "עם",
-      "english": "com ⟨os⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "e ⟨foi⟩ sepultado"
-    },
-    {
-      "surface": "בגן",
-      "english": "⟨no⟩ jardim"
-    },
-    {
-      "surface": "ביתו",
-      "english": "da sua casa"
-    },
-    {
-      "surface": "בגן",
-      "english": "⟨no⟩ jardim"
-    },
-    {
-      "surface": "עזא",
-      "english": "de Uza"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e Amom"
-    },
-    {
-      "surface": "אמון",
-      "english": "Amon"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "em ⟨o⟩ seu lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:08:03.547340507Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

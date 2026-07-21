@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "proverbs 6:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
+  "chapter": 6,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:22:37.894403888Z",
+  "translation": "Porque ⟨o⟩ Mitzvá ⟨é⟩ uma lâmpada, e ⟨a⟩ Torá ⟨é⟩ luz, e ⟨o⟩ caminho da vida ⟨são⟩ as repreensões ⟨do⟩ ensino ⟨de⟩ correção",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lâmpada"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "Mitzvá"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "e ⟨a⟩ Torá"
+    },
+    {
+      "surface": "אור",
+      "gloss": "luz"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "e ⟨o⟩ caminho"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "da vida"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "repreensões"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "⟨do⟩ ensino ⟨de⟩ correção"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamento",
@@ -13,60 +56,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 53061,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53451
-  },
-  "translation": "Porque ⟨o⟩ Mitzvá ⟨é⟩ uma lâmpada, e ⟨a⟩ Torá ⟨é⟩ luz, e ⟨o⟩ caminho da vida ⟨são⟩ as repreensões ⟨do⟩ ensino ⟨de⟩ correção",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "נר",
-      "english": "lâmpada"
-    },
-    {
-      "surface": "מצוה",
-      "english": "Mitzvá"
-    },
-    {
-      "surface": "ותורה",
-      "english": "e ⟨a⟩ Torá"
-    },
-    {
-      "surface": "אור",
-      "english": "luz"
-    },
-    {
-      "surface": "ודרך",
-      "english": "e ⟨o⟩ caminho"
-    },
-    {
-      "surface": "חיים",
-      "english": "da vida"
-    },
-    {
-      "surface": "תוכחות",
-      "english": "repreensões"
-    },
-    {
-      "surface": "מוסר",
-      "english": "⟨do⟩ ensino ⟨de⟩ correção"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:22:37.894403888Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

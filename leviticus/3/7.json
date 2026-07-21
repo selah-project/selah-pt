@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "leviticus 3:7",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 514,
-    "prompt_tokens": 25213,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25727
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:34:39.076729334Z",
   "translation": "Se ⟨um⟩ cordeiro ⟨é⟩ o que ele traz por ⟨sua⟩ oferta ⟨את⟩, então ele deve apresentá-lo ⟨את⟩ diante de YHWH",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Se"
+      "gloss": "Se"
     },
     {
       "surface": "כשב",
-      "english": "um cordeiro"
+      "gloss": "um cordeiro"
     },
     {
       "surface": "הוא",
-      "english": "⟨é⟩ o que"
+      "gloss": "⟨é⟩ o que"
     },
     {
       "surface": "מקריב",
-      "english": "ele traz"
+      "gloss": "ele traz"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sua oferta (קרבנו)"
     },
     {
       "surface": "קרבנו",
-      "english": "por ⟨sua⟩ oferta"
+      "gloss": "por ⟨sua⟩ oferta"
     },
     {
       "surface": "והקריב",
-      "english": "então ele deve apresentá-lo"
+      "gloss": "então ele deve apresentá-lo"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "diante de YHWH"
     },
     {
       "surface": "לפני",
-      "english": "diante de"
+      "gloss": "diante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T16:34:39.076729334Z",
-  "model": "glm-4.5"
+  ]
 }

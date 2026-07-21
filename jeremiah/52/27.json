@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "jeremiah 52:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 52,
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:58:13.954997595Z",
+  "translation": "E o rei de Bavel ⟨o⟩ feriu, e ⟨o⟩ matou em Ribla na terra de Hamate; e Yehudá foi levado cativo de sobre sua própria terra.",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "E feriu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨o⟩",
+      "marks": "o rei de Babel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "וימתם",
+      "gloss": "e matou"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "em Ribla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "de Hamate"
+    },
+    {
+      "surface": "ואיגל",
+      "gloss": "e foi levado cativo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de sobre"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sua própria terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -20,73 +76,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 52,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17937,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18361
-  },
-  "translation": "E o rei de Bavel ⟨o⟩ feriu, e ⟨o⟩ matou em Ribla na terra de Hamate; e Yehudá foi levado cativo de sobre sua própria terra.",
-  "tokens": [
-    {
-      "surface": "ויכה",
-      "english": "E feriu"
-    },
-    {
-      "surface": "אותם",
-      "english": "⟨o⟩",
-      "marks": "o rei de Babel"
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "וימתם",
-      "english": "e matou"
-    },
-    {
-      "surface": "ברבלה",
-      "english": "em Ribla"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra"
-    },
-    {
-      "surface": "חמת",
-      "english": "de Hamate"
-    },
-    {
-      "surface": "ואיגל",
-      "english": "e foi levado cativo"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "מעל",
-      "english": "de sobre"
-    },
-    {
-      "surface": "אדמתו",
-      "english": "sua própria terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:58:13.954997595Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

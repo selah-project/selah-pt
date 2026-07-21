@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "jeremiah 13:24",
   "book": "jeremiah",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 359,
-    "prompt_tokens": 24585,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 24944
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:27:34.200336630Z",
   "translation": "E ⟨eu⟩ os espalharei como a palha que passa pelo vento do deserto.",
   "tokens": [
     {
       "surface": "ואפיצם",
-      "english": "E ⟨eu⟩ os espalharei"
+      "gloss": "E ⟨eu⟩ os espalharei"
     },
     {
       "surface": "כקש",
-      "english": "como a palha"
+      "gloss": "como a palha"
     },
     {
       "surface": "עובר",
-      "english": "que passa"
+      "gloss": "que passa"
     },
     {
       "surface": "לרוח",
-      "english": "pelo vento"
+      "gloss": "pelo vento"
     },
     {
       "surface": "מדבר",
-      "english": "do deserto"
+      "gloss": "do deserto"
     }
-  ],
-  "timestamp": "2026-07-16T15:27:34.200336630Z",
-  "model": "glm-4.5"
+  ]
 }

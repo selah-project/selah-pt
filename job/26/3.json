@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 26:3",
   "book": "job",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 418,
-    "prompt_tokens": 27405,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27823
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:59:42.843374980Z",
   "translation": "Como aconselhaste ⟨o que é⟩ sem sabedoria, e abundantemente declaraste o ⟨conhecimento⟩ sólido?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "Como"
+      "gloss": "Como"
     },
     {
       "surface": "יעצת",
-      "english": "aconselhaste"
+      "gloss": "aconselhaste"
     },
     {
       "surface": "ללא",
-      "english": "⟨o que é⟩ sem"
+      "gloss": "⟨o que é⟩ sem"
     },
     {
       "surface": "חכמה",
-      "english": "sabedoria"
+      "gloss": "sabedoria"
     },
     {
       "surface": "ותושיה",
-      "english": "e abundantemente declaraste o ⟨conhecimento⟩ sólido"
+      "gloss": "e abundantemente declaraste o ⟨conhecimento⟩ sólido"
     },
     {
       "surface": "לרב",
-      "english": "abundantemente"
+      "gloss": "abundantemente"
     },
     {
       "surface": "הודעת",
-      "english": "declaraste"
+      "gloss": "declaraste"
     }
-  ],
-  "timestamp": "2026-07-16T15:59:42.843374980Z",
-  "model": "glm-4.5"
+  ]
 }

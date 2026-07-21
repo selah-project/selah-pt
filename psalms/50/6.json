@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 50:6",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 489,
-    "prompt_tokens": 70431,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70920
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:38:58.212341096Z",
   "translation": "E os céus declararão ⟨o⟩ ⟨Seu⟩ direito, pois Elohim, Ele ⟨é⟩ juiz, Selá.",
   "tokens": [
     {
       "surface": "ויגידו",
-      "english": "E ... declararão"
+      "gloss": "E ... declararão"
     },
     {
       "surface": "שמים",
-      "english": "os céus"
+      "gloss": "os céus"
     },
     {
       "surface": "צדקו",
-      "english": "⟨o⟩ ⟨Seu⟩ direito"
+      "gloss": "⟨o⟩ ⟨Seu⟩ direito"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "שפט",
-      "english": "juiz"
+      "gloss": "juiz"
     },
     {
       "surface": "הוא",
-      "english": "Ele ⟨é⟩"
+      "gloss": "Ele ⟨é⟩"
     },
     {
       "surface": "סלה",
-      "english": "Selá"
+      "gloss": "Selá"
     }
-  ],
-  "timestamp": "2026-07-16T17:38:58.212341096Z",
-  "model": "glm-4.5"
+  ]
 }

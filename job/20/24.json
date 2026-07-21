@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "job 20:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19977,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20382
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:59:26.831550936Z",
   "translation": "Ele fugirá ⟨de⟩ ⟨o⟩ arame ⟨de⟩ ferro; passará ⟨por⟩ ele ⟨o⟩ arco ⟨de⟩ bronze",
   "tokens": [
     {
       "surface": "יברח",
-      "english": "Ele fugirá"
+      "gloss": "Ele fugirá"
     },
     {
       "surface": "מנשק",
-      "english": "⟨de⟩ ⟨o⟩ arame",
+      "gloss": "⟨de⟩ ⟨o⟩ arame",
       "marks": "ferro"
     },
     {
       "surface": "ברזל",
-      "english": "⟨de⟩ ferro"
+      "gloss": "⟨de⟩ ferro"
     },
     {
       "surface": "תחלפהו",
-      "english": "passará ⟨por⟩ ele",
+      "gloss": "passará ⟨por⟩ ele",
       "marks": "ele"
     },
     {
       "surface": "קשת",
-      "english": "⟨o⟩ arco"
+      "gloss": "⟨o⟩ arco"
     },
     {
       "surface": "נחושה",
-      "english": "⟨de⟩ bronze"
+      "gloss": "⟨de⟩ bronze"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:59:26.831550936Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 59:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 59,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:18:11.102814112Z",
+  "translation": "⟨O⟩ minha força, a ti cantarei ⟨louvores⟩, porque ⟨o⟩ meu ⟨Elohim⟩ ⟨é⟩ ⟨o⟩ alto refúgio de minha Jésed",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "⟨O⟩ minha força"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "cantarei ⟨louvores⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨o⟩ meu ⟨Elohim⟩"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "⟨é⟩ ⟨o⟩ alto refúgio"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "Jésed"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "misericórdia",
@@ -13,56 +52,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 59,
-  "usage": {
-    "completion_tokens": 601,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62840,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63441
-  },
-  "translation": "⟨O⟩ minha força, a ti cantarei ⟨louvores⟩, porque ⟨o⟩ meu ⟨Elohim⟩ ⟨é⟩ ⟨o⟩ alto refúgio de minha Jésed",
-  "tokens": [
-    {
-      "surface": "עזי",
-      "english": "⟨O⟩ minha força"
-    },
-    {
-      "surface": "אליך",
-      "english": "a ti"
-    },
-    {
-      "surface": "אזמרה",
-      "english": "cantarei ⟨louvores⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "אלהים",
-      "english": "⟨o⟩ meu ⟨Elohim⟩"
-    },
-    {
-      "surface": "משגבי",
-      "english": "⟨é⟩ ⟨o⟩ alto refúgio"
-    },
-    {
-      "surface": "אלהי",
-      "english": "de"
-    },
-    {
-      "surface": "חסדי",
-      "english": "Jésed"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:18:11.102814112Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

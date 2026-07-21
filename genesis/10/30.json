@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "genesis 10:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21271,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21756
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:51:17.371530122Z",
   "translation": "E ⟨foi⟩ ⟨o⟩ seu assentamento de ⟨de⟩ Mesa, ⟨quando⟩ vais até ⟨a⟩ Sephar, ⟨a⟩ montanha ⟨do⟩ oriente.",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E ⟨foi⟩"
+      "gloss": "E ⟨foi⟩"
     },
     {
       "surface": "מושבם",
-      "english": "⟨o⟩ seu assentamento"
+      "gloss": "⟨o⟩ seu assentamento"
     },
     {
       "surface": "ממשא",
-      "english": "de ⟨de⟩ Mesa",
+      "gloss": "de ⟨de⟩ Mesa",
       "marks": "seu assentamento"
     },
     {
       "surface": "באכה",
-      "english": "⟨quando⟩ vais até"
+      "gloss": "⟨quando⟩ vais até"
     },
     {
       "surface": "ספרה",
-      "english": "⟨a⟩ Sephar",
+      "gloss": "⟨a⟩ Sephar",
       "marks": "vais até"
     },
     {
       "surface": "הר",
-      "english": "⟨a⟩ montanha",
+      "gloss": "⟨a⟩ montanha",
       "marks": "Sephar"
     },
     {
       "surface": "הקדם",
-      "english": "⟨do⟩ oriente"
+      "gloss": "⟨do⟩ oriente"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:51:17.371530122Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

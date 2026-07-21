@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "hosea 10:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19746,
-    "prompt_tokens_details": {
-      "cached_tokens": 18473
-    },
-    "total_tokens": 20132
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:00:05.369227130Z",
   "translation": "Divido ⟨está⟩ o coração deles; agora serão culpados. Ele quebrará ⟨os⟩ altares deles, despojará ⟨os⟩ postes-sagrados deles.",
   "tokens": [
     {
       "surface": "חלק",
-      "english": "Divido"
+      "gloss": "Divido"
     },
     {
       "surface": "לבם",
-      "english": "o coração deles"
+      "gloss": "o coração deles"
     },
     {
       "surface": "עתה",
-      "english": "agora"
+      "gloss": "agora"
     },
     {
       "surface": "יאשמו",
-      "english": "serão culpados"
+      "gloss": "serão culpados"
     },
     {
       "surface": "הוא",
-      "english": "Ele"
+      "gloss": "Ele"
     },
     {
       "surface": "יערף",
-      "english": "quebrará"
+      "gloss": "quebrará"
     },
     {
       "surface": "מזבחותם",
-      "english": "⟨os⟩ altares deles",
+      "gloss": "⟨os⟩ altares deles",
       "marks": "os altares deles"
     },
     {
       "surface": "ישדד",
-      "english": "despojará"
+      "gloss": "despojará"
     },
     {
       "surface": "מצבותם",
-      "english": "⟨os⟩ postes-sagrados deles",
+      "gloss": "⟨os⟩ postes-sagrados deles",
       "marks": "os postes-sagrados deles"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:00:05.369227130Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

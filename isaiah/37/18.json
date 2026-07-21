@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "isaiah 37:18",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 456,
-    "prompt_tokens": 26838,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 27294
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:16:16.308308122Z",
   "translation": "Na verdade, YHWH, os reis de Ashshur devastaram ⟨את⟩ todos os países e ⟨את⟩ a terra deles",
   "tokens": [
     {
       "surface": "אמנם",
-      "english": "Na verdade"
+      "gloss": "Na verdade"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "החריבו",
-      "english": "devastaram"
+      "gloss": "devastaram"
     },
     {
       "surface": "מלכי",
-      "english": "os reis de"
+      "gloss": "os reis de"
     },
     {
       "surface": "אשור",
-      "english": "Ashshur"
+      "gloss": "Ashshur"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todos os países"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "הארצות",
-      "english": "os países"
+      "gloss": "os países"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "a terra deles"
     },
     {
       "surface": "ארצם",
-      "english": "a terra deles"
+      "gloss": "a terra deles"
     }
-  ],
-  "timestamp": "2026-07-16T15:16:16.308308122Z",
-  "model": "glm-4.5"
+  ]
 }

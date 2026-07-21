@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 98:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 98,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62773,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63100
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:44:35.648442519Z",
   "translation": "Ruja ⟨o⟩ mar e ⟨a⟩ sua plenitude; ⟨o⟩ mundo e ⟨os⟩ que habitam ⟨nele⟩",
   "tokens": [
     {
       "surface": "ירעם",
-      "english": "Ruja"
+      "gloss": "Ruja"
     },
     {
       "surface": "הים",
-      "english": "⟨o⟩ mar"
+      "gloss": "⟨o⟩ mar"
     },
     {
       "surface": "ומלאו",
-      "english": "e ⟨a⟩ sua plenitude"
+      "gloss": "e ⟨a⟩ sua plenitude"
     },
     {
       "surface": "תבל",
-      "english": "⟨o⟩ mundo"
+      "gloss": "⟨o⟩ mundo"
     },
     {
       "surface": "וישבי",
-      "english": "e ⟨os⟩ que habitam"
+      "gloss": "e ⟨os⟩ que habitam"
     },
     {
       "surface": "בה",
-      "english": "⟨nele⟩",
+      "gloss": "⟨nele⟩",
       "marks": "mundo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:44:35.648442519Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

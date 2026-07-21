@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 78:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62792,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63354
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:31:31.140831196Z",
   "translation": "Ele enviou ⟨o⟩ vento ⟨do⟩ leste ⟨no⟩ céu e ⟨com⟩ seu ⟨poder⟩ guiou ⟨o⟩ vento ⟨do⟩ sul",
   "tokens": [
     {
       "surface": "יסע",
-      "english": "Enviou",
+      "gloss": "Enviou",
       "rationale": "Hiphil impf. de נסע - literalmente 'fazer partir', contexto meteorológico"
     },
     {
       "surface": "קדים",
-      "english": "vento do leste",
+      "gloss": "vento do leste",
       "rationale": "Substantivo comum que designa o ponto cardeal, não artigo definido em hebraico"
     },
     {
       "surface": "בשמים",
-      "english": "no céu",
+      "gloss": "no céu",
       "rationale": "Preposição ב + שמים - 'no céu' (com ⟨o⟩ adicionar artigo em português)"
     },
     {
       "surface": "וינהג",
-      "english": "e guiou",
+      "gloss": "e guiou",
       "rationale": "Wayyiqtol de נהג - 'e ele guiou' (verbo forte de direção\/governo)"
     },
     {
       "surface": "בעזו",
-      "english": "com seu poder",
+      "gloss": "com seu poder",
       "rationale": "Preposição ב + pronominal suf. 3ms de עז - 'com seu vigor\/poder' (hapax neste constructo)"
     },
     {
       "surface": "תימן",
-      "english": "vento do sul",
+      "gloss": "vento do sul",
       "rationale": "Substantivo para ponto cardeal sul, omitindo artigo definido hebraico"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:31:31.140831196Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

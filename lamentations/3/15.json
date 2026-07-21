@@ -1,37 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "lamentations 3:15",
   "book": "lamentations",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 371,
-    "prompt_tokens": 39208,
-    "prompt_tokens_details": {
-      "cached_tokens": 38400
-    },
-    "total_tokens": 39579
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:33:02.051723355Z",
   "translation": "Ele me farteou ⟨com⟩ amarguras, e me embriagou ⟨com⟩ laʿaná.",
   "tokens": [
     {
       "surface": "השביעני",
-      "english": "Ele me farteou"
+      "gloss": "Ele me farteou"
     },
     {
       "surface": "במרורים",
-      "english": "⟨com⟩ amarguras"
+      "gloss": "⟨com⟩ amarguras"
     },
     {
       "surface": "הרוני",
-      "english": "e me embriagou"
+      "gloss": "e me embriagou"
     },
     {
       "surface": "לענה",
-      "english": "⟨com⟩ laʿaná"
+      "gloss": "⟨com⟩ laʿaná"
     }
-  ],
-  "timestamp": "2026-07-16T16:33:02.051723355Z",
-  "model": "glm-4.5"
+  ]
 }

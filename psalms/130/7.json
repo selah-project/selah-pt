@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 130:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 130,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:07:11.963401101Z",
+  "translation": "Espere Yisrael por YHWH, pois com YHWH ⟨está⟩ ⟨o⟩ hesed, e com Ele ⟨está⟩ abundante redenção",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Espere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "por"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "⟨o⟩ hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "e abundante"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "com Ele"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "redenção"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 130,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63189,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63620
-  },
-  "translation": "Espere Yisrael por YHWH, pois com YHWH ⟨está⟩ ⟨o⟩ hesed, e com Ele ⟨está⟩ abundante redenção",
-  "tokens": [
-    {
-      "surface": "יחל",
-      "english": "Espere"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "por"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "החסד",
-      "english": "⟨o⟩ hesed"
-    },
-    {
-      "surface": "והרבה",
-      "english": "e abundante"
-    },
-    {
-      "surface": "עמו",
-      "english": "com Ele"
-    },
-    {
-      "surface": "פדות",
-      "english": "redenção"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:07:11.963401101Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

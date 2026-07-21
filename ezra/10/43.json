@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 43,
   "ref": "ezra 10:43",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 10,
+  "verse": 43,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:13:52.135866189Z",
+  "translation": "Dos filhos de Nevo: Jeiel, Matatias, Zabade, Zebina, Jidó e Joel, Benaiá.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "Dos filhos"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "de Nevo"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Jeiel"
+    },
+    {
+      "surface": "מתתיה",
+      "gloss": "Matatias"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabade"
+    },
+    {
+      "surface": "זבינא",
+      "gloss": "Zebina"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "Jidó"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "e Joel"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "Benaiá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nebo",
@@ -13,60 +56,6 @@
       "hebrew": "נבו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44996,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 45337
-  },
-  "translation": "Dos filhos de Nevo: Jeiel, Matatias, Zabade, Zebina, Jidó e Joel, Benaiá.",
-  "tokens": [
-    {
-      "surface": "מבני",
-      "english": "Dos filhos"
-    },
-    {
-      "surface": "נבו",
-      "english": "de Nevo"
-    },
-    {
-      "surface": "יעיאל",
-      "english": "Jeiel"
-    },
-    {
-      "surface": "מתתיה",
-      "english": "Matatias"
-    },
-    {
-      "surface": "זבד",
-      "english": "Zabade"
-    },
-    {
-      "surface": "זבינא",
-      "english": "Zebina"
-    },
-    {
-      "surface": "ידו",
-      "english": "Jidó"
-    },
-    {
-      "surface": "ויואל",
-      "english": "e Joel"
-    },
-    {
-      "surface": "בניה",
-      "english": "Benaiá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:13:52.135866189Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

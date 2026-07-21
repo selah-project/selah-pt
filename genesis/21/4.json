@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 21:4",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 568,
-    "prompt_tokens": 29280,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29848
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:47:11.275748845Z",
   "translation": "E Avraham circuncidou ⟨את⟩ Yitzjak seu filho, ⟨com⟩ ⟨oito⟩ dias, como Elohim ⟨tinha⟩ ⟨את⟩ ordenado.",
   "tokens": [
     {
       "surface": "וימל",
-      "english": "E ... circuncidou"
+      "gloss": "E ... circuncidou"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yitzjak"
     },
     {
       "surface": "יצחק",
-      "english": "Yitzjak"
+      "gloss": "Yitzjak"
     },
     {
       "surface": "בנו",
-      "english": "seu filho"
+      "gloss": "seu filho"
     },
     {
       "surface": "בן",
-      "english": "⟨com⟩"
+      "gloss": "⟨com⟩"
     },
     {
       "surface": "שמנת",
-      "english": "⟨oito⟩"
+      "gloss": "⟨oito⟩"
     },
     {
       "surface": "ימים",
-      "english": "dias"
+      "gloss": "dias"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "צוה",
-      "english": "⟨tinha⟩ ⟨את⟩ ordenado"
+      "gloss": "⟨tinha⟩ ⟨את⟩ ordenado"
     },
     {
       "surface": "אתו",
-      "english": "",
+      "gloss": "",
       "marks": "Elohim"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T14:47:11.275748845Z",
-  "model": "glm-4.5"
+  ]
 }

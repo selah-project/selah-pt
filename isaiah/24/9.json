@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "isaiah 24:9",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 427,
-    "prompt_tokens": 26324,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 26751
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:13:23.783808073Z",
   "translation": "Não beberão vinho ⟨com⟩ ⟨um⟩ canto; a bebida forte será amarga para os que a bebem.",
   "tokens": [
     {
       "surface": "בשיר",
-      "english": "⟨com⟩ ⟨um⟩ canto"
+      "gloss": "⟨com⟩ ⟨um⟩ canto"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "ישתו",
-      "english": "beberão"
+      "gloss": "beberão"
     },
     {
       "surface": "יין",
-      "english": "vinho"
+      "gloss": "vinho"
     },
     {
       "surface": "ימר",
-      "english": "será amarga"
+      "gloss": "será amarga"
     },
     {
       "surface": "שכר",
-      "english": "a bebida forte"
+      "gloss": "a bebida forte"
     },
     {
       "surface": "לשתיו",
-      "english": "para os que a bebem"
+      "gloss": "para os que a bebem"
     }
-  ],
-  "timestamp": "2026-07-16T15:13:23.783808073Z",
-  "model": "glm-4.5"
+  ]
 }

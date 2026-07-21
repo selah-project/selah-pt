@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 42:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 42,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:25:26.705981922Z",
+  "translation": "E vieram os filhos de ⟨Yisrael⟩ para comprar ⟨את⟩ no meio ⟨dos que⟩ estavam entrando, porque ⟨a⟩ fome ⟨estava⟩ na terra de Kenaan",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "E vieram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "para comprar"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "no meio de"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "⟨os que⟩ estavam entrando"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨a⟩ fome ⟨estava⟩"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "a fome"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra de"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,68 +71,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 42,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21643,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 22025
-  },
-  "translation": "E vieram os filhos de ⟨Yisrael⟩ para comprar ⟨את⟩ no meio ⟨dos que⟩ estavam entrando, porque ⟨a⟩ fome ⟨estava⟩ na terra de Kenaan",
-  "tokens": [
-    {
-      "surface": "ויבאו",
-      "english": "E vieram"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לשבר",
-      "english": "para comprar"
-    },
-    {
-      "surface": "בתוך",
-      "english": "no meio de"
-    },
-    {
-      "surface": "הבאים",
-      "english": "⟨os que⟩ estavam entrando"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨a⟩ fome ⟨estava⟩"
-    },
-    {
-      "surface": "הרעב",
-      "english": "a fome"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra de"
-    },
-    {
-      "surface": "כנען",
-      "english": "Kenaan"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:25:26.705981922Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

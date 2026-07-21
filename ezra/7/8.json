@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "ezra 7:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 7,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:09:10.074161642Z",
+  "translation": "e veio ⟨a⟩ Yerushalayim no mês quinto; ⟨ela⟩ ⟨é⟩ ⟨o⟩ ano sétimo ⟨para⟩ o rei",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E veio"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨a⟩ Yerushalayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "no mês quinto"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "quinto"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ela⟩"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "⟨o⟩ ano"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "sétimo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨para⟩ o rei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,56 +52,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44945,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 45486
-  },
-  "translation": "e veio ⟨a⟩ Yerushalayim no mês quinto; ⟨ela⟩ ⟨é⟩ ⟨o⟩ ano sétimo ⟨para⟩ o rei",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E veio"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨a⟩ Yerushalayim"
-    },
-    {
-      "surface": "בחדש",
-      "english": "no mês quinto"
-    },
-    {
-      "surface": "החמישי",
-      "english": "quinto"
-    },
-    {
-      "surface": "היא",
-      "english": "⟨ela⟩"
-    },
-    {
-      "surface": "שנת",
-      "english": "⟨o⟩ ano"
-    },
-    {
-      "surface": "השביעית",
-      "english": "sétimo"
-    },
-    {
-      "surface": "למלך",
-      "english": "⟨para⟩ o rei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:09:10.074161642Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

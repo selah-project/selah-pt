@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "judges 7:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 7,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:57:41.029275734Z",
+  "translation": "E ⟨os homens⟩ de Yisrael gritaram de Naftali e de Asher e de ⟨todo⟩ Menashé, e perseguiram após Midyan.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "E gritaram"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨os homens⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "מנפתלי",
+      "gloss": "de Naftali"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨todo⟩"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "e perseguiram"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "após"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -34,72 +89,6 @@
       "hebrew": "מדין"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16746,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17205
-  },
-  "translation": "E ⟨os homens⟩ de Yisrael gritaram de Naftali e de Asher e de ⟨todo⟩ Menashé, e perseguiram após Midyan.",
-  "tokens": [
-    {
-      "surface": "ויצעק",
-      "english": "E gritaram"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨os homens⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "מנפתלי",
-      "english": "de Naftali"
-    },
-    {
-      "surface": "ומן",
-      "english": "e de"
-    },
-    {
-      "surface": "אשר",
-      "english": "Asher"
-    },
-    {
-      "surface": "ומן",
-      "english": "e de"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨todo⟩"
-    },
-    {
-      "surface": "מנשה",
-      "english": "Menashé"
-    },
-    {
-      "surface": "וירדפו",
-      "english": "e perseguiram"
-    },
-    {
-      "surface": "אחרי",
-      "english": "após"
-    },
-    {
-      "surface": "מדין",
-      "english": "Midyan"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:57:41.029275734Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

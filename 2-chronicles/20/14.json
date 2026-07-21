@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "2-chronicles 20:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 20,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:27:21.492653747Z",
+  "translation": "E sobre Ieaziel, ⟨o⟩ filho de Zekharyá, ⟨o⟩ filho de Benaías, ⟨o⟩ filho de Jeiel, ⟨o⟩ filho de Matanias, ⟨o⟩ levita, ⟨dos⟩ filhos de Asafe, ⟨o⟩ Rúaj de YHWH veio ⟨sobre⟩ ele ⟨no⟩ meio ⟨da⟩ congregação.",
+  "tokens": [
+    {
+      "surface": "ויחזיאל",
+      "gloss": "E sobre Ieaziel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho de"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho de"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "Benaías"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho de"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Jeiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho de"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanias"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "⟨o⟩ levita"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨dos⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos de"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "veio"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨sobre⟩ ele"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨o⟩ Rúaj de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "⟨no⟩ meio ⟨da⟩"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "congregação"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zacarias",
@@ -20,100 +103,6 @@
       "hebrew": "רוח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 875,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59225,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 60100
-  },
-  "translation": "E sobre Ieaziel, ⟨o⟩ filho de Zekharyá, ⟨o⟩ filho de Benaías, ⟨o⟩ filho de Jeiel, ⟨o⟩ filho de Matanias, ⟨o⟩ levita, ⟨dos⟩ filhos de Asafe, ⟨o⟩ Rúaj de YHWH veio ⟨sobre⟩ ele ⟨no⟩ meio ⟨da⟩ congregação.",
-  "tokens": [
-    {
-      "surface": "ויחזיאל",
-      "english": "E sobre Ieaziel"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho de"
-    },
-    {
-      "surface": "זכריהו",
-      "english": "Zekharyá"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho de"
-    },
-    {
-      "surface": "בניה",
-      "english": "Benaías"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho de"
-    },
-    {
-      "surface": "יעיאל",
-      "english": "Jeiel"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho de"
-    },
-    {
-      "surface": "מתניה",
-      "english": "Matanias"
-    },
-    {
-      "surface": "הלוי",
-      "english": "⟨o⟩ levita"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨dos⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos de"
-    },
-    {
-      "surface": "אסף",
-      "english": "Asafe"
-    },
-    {
-      "surface": "היתה",
-      "english": "veio"
-    },
-    {
-      "surface": "עליו",
-      "english": "⟨sobre⟩ ele"
-    },
-    {
-      "surface": "רוח",
-      "english": "⟨o⟩ Rúaj de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "בתוך",
-      "english": "⟨no⟩ meio ⟨da⟩"
-    },
-    {
-      "surface": "הקהל",
-      "english": "congregação"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:27:21.492653747Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

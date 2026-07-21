@@ -1,9 +1,85 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "ezra 2:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 2,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:03:14.644335043Z",
+  "translation": "E estes ⟨são⟩ ⟨os⟩ filhos da província que subiram ⟨do⟩ cativeiro que Nabucodonosor, rei de Bavel, levara ⟨para⟩ Bavel, e voltaram para Jerusalém e Judá, cada um ⟨à⟩ sua cidade",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E estes",
+      "marks": "os filhos da província que subiram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "da província"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "que subiram"
+    },
+    {
+      "surface": "משבי",
+      "gloss": "⟨do⟩ cativeiro"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "cativeiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "levara"
+    },
+    {
+      "surface": "נבוכדנצור",
+      "gloss": "Nabucodonosor"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "⟨para⟩ Babilônia"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "e voltaram"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "para Jerusalém"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Judá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada um"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "⟨à⟩ sua cidade"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babilônia",
@@ -13,93 +89,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 655,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45863,
-    "prompt_tokens_details": {
-      "cached_tokens": 43863
-    },
-    "total_tokens": 46518
-  },
-  "translation": "E estes ⟨são⟩ ⟨os⟩ filhos da província que subiram ⟨do⟩ cativeiro que Nabucodonosor, rei de Bavel, levara ⟨para⟩ Bavel, e voltaram para Jerusalém e Judá, cada um ⟨à⟩ sua cidade",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E estes",
-      "marks": "os filhos da província que subiram"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "המדינה",
-      "english": "da província"
-    },
-    {
-      "surface": "העלים",
-      "english": "que subiram"
-    },
-    {
-      "surface": "משבי",
-      "english": "⟨do⟩ cativeiro"
-    },
-    {
-      "surface": "הגולה",
-      "english": "cativeiro"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "הגלה",
-      "english": "levara"
-    },
-    {
-      "surface": "נבוכדנצור",
-      "english": "Nabucodonosor"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "לבבל",
-      "english": "⟨para⟩ Babilônia"
-    },
-    {
-      "surface": "וישובו",
-      "english": "e voltaram"
-    },
-    {
-      "surface": "לירושלם",
-      "english": "para Jerusalém"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "e Judá"
-    },
-    {
-      "surface": "איש",
-      "english": "cada um"
-    },
-    {
-      "surface": "לעירו",
-      "english": "⟨à⟩ sua cidade"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:03:14.644335043Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

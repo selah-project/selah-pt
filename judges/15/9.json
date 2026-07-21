@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "judges 15:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 15,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:05:56.826051458Z",
+  "translation": "E os Pelishtim subiram e acamparam em Judá e se espalharam em Lehi",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "E subiram"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "os Pelishtim"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e acamparam"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "em Judá"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "e se espalharam"
+    },
+    {
+      "surface": "בלחי",
+      "gloss": "em Lehi"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Filisteus",
@@ -13,48 +44,6 @@
       "hebrew": "פלשתים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 210,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16110,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 16320
-  },
-  "translation": "E os Pelishtim subiram e acamparam em Judá e se espalharam em Lehi",
-  "tokens": [
-    {
-      "surface": "ויעלו",
-      "english": "E subiram"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "os Pelishtim"
-    },
-    {
-      "surface": "ויחנו",
-      "english": "e acamparam"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "em Judá"
-    },
-    {
-      "surface": "וינטשו",
-      "english": "e se espalharam"
-    },
-    {
-      "surface": "בלחי",
-      "english": "em Lehi"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:05:56.826051458Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

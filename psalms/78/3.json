@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 78:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 281,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62821,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63102
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:30:50.594299886Z",
   "translation": "That which ⟨we⟩ have heard and known, and our fathers have recounted to ⟨us⟩",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "That which"
+      "gloss": "That which"
     },
     {
       "surface": "שמענו",
-      "english": "we have heard"
+      "gloss": "we have heard"
     },
     {
       "surface": "ונדעם",
-      "english": "and known"
+      "gloss": "and known"
     },
     {
       "surface": "ואבותינו",
-      "english": "and our fathers"
+      "gloss": "and our fathers"
     },
     {
       "surface": "ספרו",
-      "english": "have recounted"
+      "gloss": "have recounted"
     },
     {
       "surface": "לנו",
-      "english": "to ⟨us⟩"
+      "gloss": "to ⟨us⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:30:50.594299886Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

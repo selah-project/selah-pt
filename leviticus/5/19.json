@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "leviticus 5:19",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 339,
-    "prompt_tokens": 24540,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 24879
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:36:32.844314381Z",
   "translation": "Ele ⟨é⟩ uma oferta pela culpa; certamente ⟨foi⟩ culpado diante de YHWH.",
   "tokens": [
     {
       "surface": "אשם",
-      "english": "uma oferta pela culpa"
+      "gloss": "uma oferta pela culpa"
     },
     {
       "surface": "הוא",
-      "english": "Ele ⟨é⟩"
+      "gloss": "Ele ⟨é⟩"
     },
     {
       "surface": "אשם",
-      "english": "certamente ⟨foi⟩ culpado"
+      "gloss": "certamente ⟨foi⟩ culpado"
     },
     {
       "surface": "אשם",
-      "english": "culpado"
+      "gloss": "culpado"
     },
     {
       "surface": "ליהוה",
-      "english": "diante de YHWH"
+      "gloss": "diante de YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T16:36:32.844314381Z",
-  "model": "glm-4.5"
+  ]
 }

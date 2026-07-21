@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "joshua 4:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 4,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:28:00.335127645Z",
+  "translation": "E YHWH disse a Yehoshua, dizendo:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ", dizendo:"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josué",
@@ -13,44 +40,6 @@
       "hebrew": "יהושע"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 119,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 15983,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 16102
-  },
-  "translation": "E YHWH disse a Yehoshua, dizendo:",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ... disse"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua"
-    },
-    {
-      "surface": "לאמר",
-      "english": ", dizendo:"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:28:00.335127645Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

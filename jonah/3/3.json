@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "jonah 3:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jonah",
+  "chapter": 3,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:14:20.258590365Z",
+  "translation": "E Yoná se levantou e foi a Nínive ⟨segundo⟩ a palavra de YHWH. E Nínive era ⟨uma⟩ cidade grande ⟨para⟩ Elohim, ⟨de⟩ jornada de três dias.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "E se levantou"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoná"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e foi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nínive"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "⟨segundo⟩ a palavra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "E Nínive"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "era"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨uma⟩ cidade"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨para⟩ Elohim"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "⟨de⟩ jornada"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "três"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jonas",
@@ -13,84 +80,6 @@
       "hebrew": "יונה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 617,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20211,
-    "prompt_tokens_details": {
-      "cached_tokens": 18525
-    },
-    "total_tokens": 20828
-  },
-  "translation": "E Yoná se levantou e foi a Nínive ⟨segundo⟩ a palavra de YHWH. E Nínive era ⟨uma⟩ cidade grande ⟨para⟩ Elohim, ⟨de⟩ jornada de três dias.",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "E se levantou"
-    },
-    {
-      "surface": "יונה",
-      "english": "Yoná"
-    },
-    {
-      "surface": "וילך",
-      "english": "e foi"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "נינוה",
-      "english": "Nínive"
-    },
-    {
-      "surface": "כדבר",
-      "english": "⟨segundo⟩ a palavra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "ונינוה",
-      "english": "E Nínive"
-    },
-    {
-      "surface": "היתה",
-      "english": "era"
-    },
-    {
-      "surface": "עיר",
-      "english": "⟨uma⟩ cidade"
-    },
-    {
-      "surface": "גדולה",
-      "english": "grande"
-    },
-    {
-      "surface": "לאלהים",
-      "english": "⟨para⟩ Elohim"
-    },
-    {
-      "surface": "מהלך",
-      "english": "⟨de⟩ jornada"
-    },
-    {
-      "surface": "שלשת",
-      "english": "três"
-    },
-    {
-      "surface": "ימים",
-      "english": "dias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:14:20.258590365Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

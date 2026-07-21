@@ -1,75 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "micah 6:1",
   "book": "micah",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 534,
-    "prompt_tokens": 23788,
-    "prompt_tokens_details": {
-      "cached_tokens": 22016
-    },
-    "total_tokens": 24322
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:55:54.730586140Z",
   "translation": "Escutai, pois, ⟨o que⟩ YHWH diz: levanta-te, pleiteia ⟨את⟩ as montanhas, e ouçam as colinas ⟨a⟩ tua voz",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "Escutai"
+      "gloss": "Escutai"
     },
     {
       "surface": "נא",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "את",
-      "english": "⟨o que⟩",
+      "gloss": "⟨o que⟩",
       "marks": "אשר"
     },
     {
       "surface": "אשר",
-      "english": "o que"
+      "gloss": "o que"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אמר",
-      "english": "diz"
+      "gloss": "diz"
     },
     {
       "surface": "קום",
-      "english": "levanta-te"
+      "gloss": "levanta-te"
     },
     {
       "surface": "ריב",
-      "english": "pleiteia"
+      "gloss": "pleiteia"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ההרים"
     },
     {
       "surface": "ההרים",
-      "english": "as montanhas"
+      "gloss": "as montanhas"
     },
     {
       "surface": "ותשמענה",
-      "english": "e ouçam"
+      "gloss": "e ouçam"
     },
     {
       "surface": "הגבעות",
-      "english": "as colinas"
+      "gloss": "as colinas"
     },
     {
       "surface": "קולך",
-      "english": "⟨a⟩ tua voz"
+      "gloss": "⟨a⟩ tua voz"
     }
-  ],
-  "timestamp": "2026-07-16T16:55:54.730586140Z",
-  "model": "glm-4.5"
+  ]
 }

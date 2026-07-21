@@ -1,9 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 5:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 5,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:35:59.157269275Z",
+  "translation": "Porque Yehudá foi ⟨o⟩ forte entre seus irmãos, e ⟨o⟩ líder ⟨veio⟩ dele, mas ⟨o⟩ direito de primogenitura ⟨é⟩ de José",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "foi ⟨o⟩ forte"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "entre seus irmãos"
+    },
+    {
+      "surface": "ולנגיד",
+      "gloss": "e ⟨o⟩ líder ⟨veio⟩ dele",
+      "marks": "líder"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dele"
+    },
+    {
+      "surface": "והבכרה",
+      "gloss": "mas ⟨o⟩ direito de primogenitura ⟨é⟩",
+      "marks": "direito de primogenitura"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "de José"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,58 +54,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57217,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 57736
-  },
-  "translation": "Porque Yehudá foi ⟨o⟩ forte entre seus irmãos, e ⟨o⟩ líder ⟨veio⟩ dele, mas ⟨o⟩ direito de primogenitura ⟨é⟩ de José",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "גבר",
-      "english": "foi ⟨o⟩ forte"
-    },
-    {
-      "surface": "באחיו",
-      "english": "entre seus irmãos"
-    },
-    {
-      "surface": "ולנגיד",
-      "english": "e ⟨o⟩ líder ⟨veio⟩ dele",
-      "marks": "líder"
-    },
-    {
-      "surface": "ממנו",
-      "english": "dele"
-    },
-    {
-      "surface": "והבכרה",
-      "english": "mas ⟨o⟩ direito de primogenitura ⟨é⟩",
-      "marks": "direito de primogenitura"
-    },
-    {
-      "surface": "ליוסף",
-      "english": "de José"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:35:59.157269275Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

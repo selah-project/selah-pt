@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 31:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 31,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:24:36.074555759Z",
+  "translation": "Veja, ⟨eu⟩ chamei por nome ⟨את⟩ Betsalel, filho de Uri, filho de Hur, ⟨da⟩ tribo de Yehudá;",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Veja"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "⟨eu⟩ chamei"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "por nome"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "⟨da⟩ tribo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,64 +60,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17071,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17431
-  },
-  "translation": "Veja, ⟨eu⟩ chamei por nome ⟨את⟩ Betsalel, filho de Uri, filho de Hur, ⟨da⟩ tribo de Yehudá;",
-  "tokens": [
-    {
-      "surface": "ראה",
-      "english": "Veja"
-    },
-    {
-      "surface": "קראתי",
-      "english": "⟨eu⟩ chamei"
-    },
-    {
-      "surface": "בשם",
-      "english": "por nome"
-    },
-    {
-      "surface": "בצלאל",
-      "english": "Betsalel"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "אורי",
-      "english": "Uri"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "חור",
-      "english": "Hur"
-    },
-    {
-      "surface": "למטה",
-      "english": "⟨da⟩ tribo"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:24:36.074555759Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

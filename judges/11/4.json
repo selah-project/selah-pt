@@ -1,9 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "judges 11:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 11,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:02:08.625573555Z",
+  "translation": "E aconteceu após dias que ⟨os⟩ filhos de Ammon pelejaram ⟨com⟩ Yisrael",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu",
+      "marks": null
+    },
+    {
+      "surface": "מימים",
+      "gloss": "após dias",
+      "marks": null
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "pelejaram",
+      "marks": null
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos",
+      "marks": "filhos de Amom"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Ammon",
+      "marks": null
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amom",
@@ -20,59 +62,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16127,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 16511
-  },
-  "translation": "E aconteceu após dias que ⟨os⟩ filhos de Ammon pelejaram ⟨com⟩ Yisrael",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu",
-      "marks": null
-    },
-    {
-      "surface": "מימים",
-      "english": "após dias",
-      "marks": null
-    },
-    {
-      "surface": "וילחמו",
-      "english": "pelejaram",
-      "marks": null
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos",
-      "marks": "filhos de Amom"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Ammon",
-      "marks": null
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:02:08.625573555Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

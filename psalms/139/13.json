@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 139:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 507,
-    "prompt_tokens": 70366,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70873
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:52:04.688082873Z",
   "translation": "Pois tu ⟨estás⟩ a posse dos meus rins; tu me entreteceste no ⟨ventre⟩ de minha mãe",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "אתה",
-      "english": "tu"
+      "gloss": "tu"
     },
     {
       "surface": "קנית",
-      "english": "⟨estás⟩ a posse"
+      "gloss": "⟨estás⟩ a posse"
     },
     {
       "surface": "כליתי",
-      "english": "dos meus rins"
+      "gloss": "dos meus rins"
     },
     {
       "surface": "תסכני",
-      "english": "tu me entreteceste"
+      "gloss": "tu me entreteceste"
     },
     {
       "surface": "בבטן",
-      "english": "no ⟨ventre⟩"
+      "gloss": "no ⟨ventre⟩"
     },
     {
       "surface": "אמי",
-      "english": "de minha mãe"
+      "gloss": "de minha mãe"
     }
-  ],
-  "timestamp": "2026-07-16T17:52:04.688082873Z",
-  "model": "glm-4.5"
+  ]
 }

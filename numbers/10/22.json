@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "numbers 10:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 10,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:20:15.592949708Z",
+  "translation": "E o estandarte ⟨do⟩ acampamento ⟨dos⟩ filhos de Efráyim partiu segundo ⟨os⟩ seus exércitos; e sobre ⟨o⟩ seu exército ⟨estava⟩ Elisamá ⟨filho⟩ ⟨de⟩ Amiúde.",
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "E ... partiu"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "o estandarte"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "⟨do⟩ acampamento"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "segundo ⟨os⟩ seus exércitos"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sobre"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "⟨o⟩ seu exército"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elisamá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨filho⟩"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "⟨de⟩ Amiúde"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,68 +64,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18390,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18890
-  },
-  "translation": "E o estandarte ⟨do⟩ acampamento ⟨dos⟩ filhos de Efráyim partiu segundo ⟨os⟩ seus exércitos; e sobre ⟨o⟩ seu exército ⟨estava⟩ Elisamá ⟨filho⟩ ⟨de⟩ Amiúde.",
-  "tokens": [
-    {
-      "surface": "ונסע",
-      "english": "E ... partiu"
-    },
-    {
-      "surface": "דגל",
-      "english": "o estandarte"
-    },
-    {
-      "surface": "מחנה",
-      "english": "⟨do⟩ acampamento"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    },
-    {
-      "surface": "לצבאתם",
-      "english": "segundo ⟨os⟩ seus exércitos"
-    },
-    {
-      "surface": "ועל",
-      "english": "e sobre"
-    },
-    {
-      "surface": "צבאו",
-      "english": "⟨o⟩ seu exército"
-    },
-    {
-      "surface": "אלישמע",
-      "english": "Elisamá"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨filho⟩"
-    },
-    {
-      "surface": "עמיהוד",
-      "english": "⟨de⟩ Amiúde"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:20:15.592949708Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

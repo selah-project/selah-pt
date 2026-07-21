@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 34:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62919,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63342
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:00:41.683976991Z",
   "translation": "Quem é ⟨o⟩ homem que ⟨deseja⟩ vida ⟨e⟩ ama dias para ver ⟨o⟩ bem?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "Quem"
+      "gloss": "Quem"
     },
     {
       "surface": "האיש",
-      "english": "⟨o⟩ homem",
+      "gloss": "⟨o⟩ homem",
       "marks": "homem"
     },
     {
       "surface": "החפץ",
-      "english": "que ⟨deseja⟩",
+      "gloss": "que ⟨deseja⟩",
       "marks": "vida"
     },
     {
       "surface": "חיים",
-      "english": "vida"
+      "gloss": "vida"
     },
     {
       "surface": "אהב",
-      "english": "⟨e⟩ ama",
+      "gloss": "⟨e⟩ ama",
       "marks": "dias"
     },
     {
       "surface": "ימים",
-      "english": "dias"
+      "gloss": "dias"
     },
     {
       "surface": "לראות",
-      "english": "para ver"
+      "gloss": "para ver"
     },
     {
       "surface": "טוב",
-      "english": "⟨o⟩ bem",
+      "gloss": "⟨o⟩ bem",
       "marks": "bem"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:00:41.683976991Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

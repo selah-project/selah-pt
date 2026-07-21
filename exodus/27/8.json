@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "exodus 27:8",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 505,
-    "prompt_tokens": 24704,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25209
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:56:52.694997325Z",
   "translation": "Oco com tábuas ⟨o⟩ farás ⟨את⟩; conforme ⟨foi⟩ mostrado ⟨a⟩ ti ⟨את⟩ no monte, assim o farão.",
   "tokens": [
     {
       "surface": "נבוב",
-      "english": "oco"
+      "gloss": "oco"
     },
     {
       "surface": "לחת",
-      "english": "com tábuas"
+      "gloss": "com tábuas"
     },
     {
       "surface": "תעשה",
-      "english": "farás ⟨o⟩"
+      "gloss": "farás ⟨o⟩"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o (it - o altar)"
     },
     {
       "surface": "כאשר",
-      "english": "conforme"
+      "gloss": "conforme"
     },
     {
       "surface": "הראה",
-      "english": "⟨foi⟩ mostrado ⟨a⟩ ti"
+      "gloss": "⟨foi⟩ mostrado ⟨a⟩ ti"
     },
     {
       "surface": "אתך",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "no monte"
     },
     {
       "surface": "בהר",
-      "english": "no monte"
+      "gloss": "no monte"
     },
     {
       "surface": "כן",
-      "english": "assim"
+      "gloss": "assim"
     },
     {
       "surface": "יעשו",
-      "english": "o farão"
+      "gloss": "o farão"
     }
-  ],
-  "timestamp": "2026-07-16T13:56:52.694997325Z",
-  "model": "glm-4.5"
+  ]
 }

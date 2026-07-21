@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 34:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 502,
-    "prompt_tokens": 70554,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71056
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:31.583337521Z",
   "translation": "Para David, quando mudou ⟨o seu⟩ comportamento diante de Avimeleque, ⟨e⟩ este o expulsou, e ele partiu.",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "Para David"
+      "gloss": "Para David"
     },
     {
       "surface": "בשנותו",
-      "english": "quando mudou ⟨o seu⟩ comportamento"
+      "gloss": "quando mudou ⟨o seu⟩ comportamento"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨o seu⟩ comportamento"
     },
     {
       "surface": "טעמו",
-      "english": "comportamento"
+      "gloss": "comportamento"
     },
     {
       "surface": "לפני",
-      "english": "diante de"
+      "gloss": "diante de"
     },
     {
       "surface": "אבימלך",
-      "english": "Avimeleque"
+      "gloss": "Avimeleque"
     },
     {
       "surface": "ויגרשהו",
-      "english": "⟨e⟩ este o expulsou"
+      "gloss": "⟨e⟩ este o expulsou"
     },
     {
       "surface": "וילך",
-      "english": "e ele partiu"
+      "gloss": "e ele partiu"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:31.583337521Z",
-  "model": "glm-4.5"
+  ]
 }

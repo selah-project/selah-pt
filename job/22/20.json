@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 22:20",
   "book": "job",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 27396,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27781
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:59:07.256842142Z",
   "translation": "Se o ⟨seu⟩ levante não ⟨é⟩ escondido, e o restante deles ⟨é⟩ devorado ⟨pelo⟩ fogo",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Se"
+      "gloss": "Se"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "נכחד",
-      "english": "escondido"
+      "gloss": "escondido"
     },
     {
       "surface": "קימנו",
-      "english": "⟨seu⟩ levante"
+      "gloss": "⟨seu⟩ levante"
     },
     {
       "surface": "ויתרם",
-      "english": "e o restante deles"
+      "gloss": "e o restante deles"
     },
     {
       "surface": "אכלה",
-      "english": "devorado"
+      "gloss": "devorado"
     },
     {
       "surface": "אש",
-      "english": "⟨pelo⟩ fogo"
+      "gloss": "⟨pelo⟩ fogo"
     }
-  ],
-  "timestamp": "2026-07-16T15:59:07.256842142Z",
-  "model": "glm-4.5"
+  ]
 }

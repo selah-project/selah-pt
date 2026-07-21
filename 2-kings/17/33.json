@@ -1,80 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "2-kings 17:33",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 590,
-    "prompt_tokens": 25091,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25681
-  },
+  "verse": 33,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:39:52.407154627Z",
   "translation": "They feared ⟨את⟩ YHWH, and served ⟨את⟩ their gods, according to ⟨the⟩ judgment of ⟨the⟩ nations from among whom they had exiled ⟨את⟩ them from there.",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "היו",
-      "english": "They feared"
+      "gloss": "They feared"
     },
     {
       "surface": "יראים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ואת",
-      "english": "and served ⟨את⟩",
+      "gloss": "and served ⟨את⟩",
       "marks": "their gods"
     },
     {
       "surface": "אלהיהם",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "היו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "עבדים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "כמשפט",
-      "english": "according to ⟨the⟩ judgment of ⟨the⟩"
+      "gloss": "according to ⟨the⟩ judgment of ⟨the⟩"
     },
     {
       "surface": "הגוים",
-      "english": "nations"
+      "gloss": "nations"
     },
     {
       "surface": "אשר",
-      "english": "from among whom"
+      "gloss": "from among whom"
     },
     {
       "surface": "הגלו",
-      "english": "they had exiled"
+      "gloss": "they had exiled"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "them from there"
     },
     {
       "surface": "משם",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T12:39:52.407154627Z",
-  "model": "glm-4.5"
+  ]
 }

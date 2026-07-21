@@ -1,9 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "numbers 4:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 4,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:11:37.067436239Z",
+  "translation": "E YHWH falou a Moshé e ⟨a⟩ Aharon, dizendo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ⟨a⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo:"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,53 +49,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17866,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 18191
-  },
-  "translation": "E YHWH falou a Moshé e ⟨a⟩ Aharon, dizendo:",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ואל",
-      "english": "e ⟨a⟩",
-      "marks": "Aharon"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharon"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo:"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:11:37.067436239Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,89 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-samuel 23:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 23,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:06:47.383147712Z",
+  "translation": "E depois ⟨dele⟩ ⟨foi⟩ Elazar, ⟨o⟩ filho de Dodo, ⟨o⟩ filho de Ahoí, ⟨um⟩ dos três homens poderosos com Davidd, quando eles expuseram ⟨a⟩ si mesmos ⟨aos⟩ filisteus que estavam ali reunidos ⟨para⟩ ⟨a⟩ batalha, e ⟨os⟩ homens de Yisrael tinham subido:",
+  "tokens": [
+    {
+      "surface": "ואחרו",
+      "gloss": "E depois ⟨dele⟩",
+      "marks": "dele"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "⟨foi⟩ Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "de Dodo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "אחחי",
+      "gloss": "de Ahoí"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "⟨um⟩ dos três"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "homens poderosos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בחרפם",
+      "gloss": "quando eles expuseram ⟨a⟩ si mesmos"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "⟨aos⟩ filisteus"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "que estavam ali reunidos"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨para⟩ ⟨a⟩ batalha"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "e ⟨os⟩ homens de Israel tinham subido"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,97 +100,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 952,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18314,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 19266
-  },
-  "translation": "E depois ⟨dele⟩ ⟨foi⟩ Elazar, ⟨o⟩ filho de Dodo, ⟨o⟩ filho de Ahoí, ⟨um⟩ dos três homens poderosos com Davidd, quando eles expuseram ⟨a⟩ si mesmos ⟨aos⟩ filisteus que estavam ali reunidos ⟨para⟩ ⟨a⟩ batalha, e ⟨os⟩ homens de Yisrael tinham subido:",
-  "tokens": [
-    {
-      "surface": "ואחרו",
-      "english": "E depois ⟨dele⟩",
-      "marks": "dele"
-    },
-    {
-      "surface": "אלעזר",
-      "english": "⟨foi⟩ Elazar"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "דדי",
-      "english": "de Dodo"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "אחחי",
-      "english": "de Ahoí"
-    },
-    {
-      "surface": "בשלשה",
-      "english": "⟨um⟩ dos três"
-    },
-    {
-      "surface": "גברים",
-      "english": "homens poderosos"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בחרפם",
-      "english": "quando eles expuseram ⟨a⟩ si mesmos"
-    },
-    {
-      "surface": "בפלשתים",
-      "english": "⟨aos⟩ filisteus"
-    },
-    {
-      "surface": "נאספו",
-      "english": "que estavam ali reunidos"
-    },
-    {
-      "surface": "שם",
-      "english": "ali"
-    },
-    {
-      "surface": "למלחמה",
-      "english": "⟨para⟩ ⟨a⟩ batalha"
-    },
-    {
-      "surface": "ויעלו",
-      "english": "e ⟨os⟩ homens de Israel tinham subido"
-    },
-    {
-      "surface": "איש",
-      "english": "homens"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:06:47.383147712Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

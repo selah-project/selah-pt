@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "proverbs 23:30",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 403,
-    "prompt_tokens": 60153,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60556
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:31:58.517941928Z",
   "translation": "Para os que se demoram sobre o vinho, para os que vão inquirir ⟨o⟩ misturado.",
   "tokens": [
     {
       "surface": "למאחרים",
-      "english": "Para os que se demoram"
+      "gloss": "Para os que se demoram"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "היין",
-      "english": "o vinho"
+      "gloss": "o vinho"
     },
     {
       "surface": "לבאים",
-      "english": "para os que vão"
+      "gloss": "para os que vão"
     },
     {
       "surface": "לחקר",
-      "english": "inquirir"
+      "gloss": "inquirir"
     },
     {
       "surface": "ממסך",
-      "english": "⟨o⟩ misturado"
+      "gloss": "⟨o⟩ misturado"
     }
-  ],
-  "timestamp": "2026-07-16T17:31:58.517941928Z",
-  "model": "glm-4.5"
+  ]
 }

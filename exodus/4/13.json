@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "exodus 4:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16808,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17208
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:38:47.305865180Z",
   "translation": "E ele disse: Oh, meu Adonai, envia ⟨את⟩ que há de ser enviado, rogo-te, por mão de quem há de enviar.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ele disse"
+      "gloss": "E ele disse"
     },
     {
       "surface": "בי",
-      "english": "Oh, meu",
+      "gloss": "Oh, meu",
       "marks": "intensificador de súplica"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "שלח",
-      "english": "envia",
+      "gloss": "envia",
       "marks": "que há de ser enviado"
     },
     {
       "surface": "נא",
-      "english": ", rogo-te,"
+      "gloss": ", rogo-te,"
     },
     {
       "surface": "ביד",
-      "english": "por mão de"
+      "gloss": "por mão de"
     },
     {
       "surface": "תשלח",
-      "english": "quem há de enviar"
+      "gloss": "quem há de enviar"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:38:47.305865180Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

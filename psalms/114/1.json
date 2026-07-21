@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 114:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 114,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:55:57.316545842Z",
+  "translation": "Na saída ⟨de⟩ Yisrael ⟨do⟩ Egito, ⟨a⟩ casa ⟨de⟩ Yaakóv ⟨de⟩ um povo ⟨de⟩ língua estranha",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Na saída ⟨de⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "⟨do⟩ Egito"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa ⟨de⟩",
+      "marks": "Yaakóv"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakóv"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "um povo ⟨de⟩ língua estranha"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,54 +50,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 114,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62837,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63277
-  },
-  "translation": "Na saída ⟨de⟩ Yisrael ⟨do⟩ Egito, ⟨a⟩ casa ⟨de⟩ Yaakóv ⟨de⟩ um povo ⟨de⟩ língua estranha",
-  "tokens": [
-    {
-      "surface": "בצאת",
-      "english": "Na saída ⟨de⟩",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ממצרים",
-      "english": "⟨do⟩ Egito"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa ⟨de⟩",
-      "marks": "Yaakóv"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakóv"
-    },
-    {
-      "surface": "מעם",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "לעז",
-      "english": "um povo ⟨de⟩ língua estranha"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:55:57.316545842Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

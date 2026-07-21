@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "amos 7:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 7,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:10:13.559121586Z",
+  "translation": "E YHWH disse ⟨para⟩ mim: 'O que ⟨você⟩ ⟨está⟩ ⟨vendo⟩, Amós?' E eu disse: '⟨Um⟩ prumo.' E ⟨o⟩ Adonai disse: 'Eis que ⟨estou⟩ pondo ⟨um⟩ prumo no meio ⟨do⟩ meu povo ⟨de⟩ Yisrael; não passarei ⟨a⟩ perdoá-⟨lo⟩ ⟨mais⟩:'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨para⟩ mim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨você⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "⟨está⟩ ⟨vendo⟩"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Amós"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "E eu disse"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "⟨Um⟩ prumo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E ⟨o⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "disse: 'Eis que"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨estou⟩ pondo"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "⟨um⟩ prumo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "no meio ⟨de⟩"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨do⟩ meu povo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "passarei"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨a⟩ ⟨mais⟩"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "perdoá-⟨lo⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mais⟩:'"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,112 +108,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 692,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17770,
-    "prompt_tokens_details": {
-      "cached_tokens": 15413
-    },
-    "total_tokens": 18462
-  },
-  "translation": "E YHWH disse ⟨para⟩ mim: 'O que ⟨você⟩ ⟨está⟩ ⟨vendo⟩, Amós?' E eu disse: '⟨Um⟩ prumo.' E ⟨o⟩ Adonai disse: 'Eis que ⟨estou⟩ pondo ⟨um⟩ prumo no meio ⟨do⟩ meu povo ⟨de⟩ Yisrael; não passarei ⟨a⟩ perdoá-⟨lo⟩ ⟨mais⟩:'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלי",
-      "english": "⟨para⟩ mim"
-    },
-    {
-      "surface": "מה",
-      "english": "que"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨você⟩"
-    },
-    {
-      "surface": "ראה",
-      "english": "⟨está⟩ ⟨vendo⟩"
-    },
-    {
-      "surface": "עמוס",
-      "english": "Amós"
-    },
-    {
-      "surface": "ואמר",
-      "english": "E eu disse"
-    },
-    {
-      "surface": "אנך",
-      "english": "⟨Um⟩ prumo"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E ⟨o⟩"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "הנני",
-      "english": "disse: 'Eis que"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨estou⟩ pondo"
-    },
-    {
-      "surface": "אנך",
-      "english": "⟨um⟩ prumo"
-    },
-    {
-      "surface": "בקרב",
-      "english": "no meio ⟨de⟩"
-    },
-    {
-      "surface": "עמי",
-      "english": "⟨do⟩ meu povo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "אוסיף",
-      "english": "passarei"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨a⟩ ⟨mais⟩"
-    },
-    {
-      "surface": "עבור",
-      "english": "perdoá-⟨lo⟩"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨mais⟩:'"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:10:13.559121586Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

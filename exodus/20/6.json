@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 20:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 20,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:03:48.367102500Z",
+  "translation": "e ⟨está⟩ fazendo hesed para ⟨os⟩ milhares ⟨para⟩ ⟨os⟩ que me amam e ⟨para⟩ ⟨os⟩ que guardam ⟨os⟩ meus Mitzvás",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "E ⟨está⟩ fazendo",
+      "marks": "hesed"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "para ⟨os⟩ milhares"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "⟨para⟩ ⟨os⟩ que me amam"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "e ⟨para⟩ ⟨os⟩ que guardam"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "⟨os⟩ meus Mitzvás"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamento",
@@ -13,49 +45,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 587,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16785,
-    "prompt_tokens_details": {
-      "cached_tokens": 15859
-    },
-    "total_tokens": 17372
-  },
-  "translation": "e ⟨está⟩ fazendo hesed para ⟨os⟩ milhares ⟨para⟩ ⟨os⟩ que me amam e ⟨para⟩ ⟨os⟩ que guardam ⟨os⟩ meus Mitzvás",
-  "tokens": [
-    {
-      "surface": "ועשה",
-      "english": "E ⟨está⟩ fazendo",
-      "marks": "hesed"
-    },
-    {
-      "surface": "חסד",
-      "english": "hesed"
-    },
-    {
-      "surface": "לאלפים",
-      "english": "para ⟨os⟩ milhares"
-    },
-    {
-      "surface": "לאהבי",
-      "english": "⟨para⟩ ⟨os⟩ que me amam"
-    },
-    {
-      "surface": "ולשמרי",
-      "english": "e ⟨para⟩ ⟨os⟩ que guardam"
-    },
-    {
-      "surface": "מצותי",
-      "english": "⟨os⟩ meus Mitzvás"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:03:48.367102500Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

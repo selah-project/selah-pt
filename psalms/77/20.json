@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 77:20",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 482,
-    "prompt_tokens": 70381,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70863
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:32.662321679Z",
   "translation": "Teu caminho ⟨está⟩ no mar, e tuas veredas nas águas abundantes, e tuas pegadas não ⟨são⟩ conhecidas",
   "tokens": [
     {
       "surface": "בים",
-      "english": "no mar"
+      "gloss": "no mar"
     },
     {
       "surface": "דרכך",
-      "english": "teu caminho"
+      "gloss": "teu caminho"
     },
     {
       "surface": "ושביליך",
-      "english": "e tuas veredas"
+      "gloss": "e tuas veredas"
     },
     {
       "surface": "במים",
-      "english": "nas águas"
+      "gloss": "nas águas"
     },
     {
       "surface": "רבים",
-      "english": "abundantes"
+      "gloss": "abundantes"
     },
     {
       "surface": "ועקבותיך",
-      "english": "e tuas pegadas"
+      "gloss": "e tuas pegadas"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "נדעו",
-      "english": "conhecidas"
+      "gloss": "conhecidas"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:32.662321679Z",
-  "model": "glm-4.5"
+  ]
 }

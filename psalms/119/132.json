@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 132,
   "ref": "psalms 119:132",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62776,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63270
-  },
+  "verse": 132,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:02:00.261067194Z",
   "translation": "Volta-Te ⟨para⟩ mim e tem misericórdia ⟨de⟩ mim, ⟨como⟩ ⟨é⟩ ⟨o⟩ costume ⟨com⟩ ⟨os⟩ que amam ⟨o⟩ teu Nome ⟨את⟩.",
   "tokens": [
     {
       "surface": "פנה",
-      "english": "Volta-Te"
+      "gloss": "Volta-Te"
     },
     {
       "surface": "אלי",
-      "english": "⟨para⟩ mim"
+      "gloss": "⟨para⟩ mim"
     },
     {
       "surface": "וחנני",
-      "english": "e tem misericórdia ⟨de⟩ mim"
+      "gloss": "e tem misericórdia ⟨de⟩ mim"
     },
     {
       "surface": "כמשפט",
-      "english": "⟨como⟩ ⟨é⟩ ⟨o⟩ costume"
+      "gloss": "⟨como⟩ ⟨é⟩ ⟨o⟩ costume"
     },
     {
       "surface": "לאהבי",
-      "english": "⟨com⟩ ⟨os⟩ que amam"
+      "gloss": "⟨com⟩ ⟨os⟩ que amam"
     },
     {
       "surface": "שמך",
-      "english": "⟨o⟩ teu Nome",
+      "gloss": "⟨o⟩ teu Nome",
       "marks": "Nome"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:02:00.261067194Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

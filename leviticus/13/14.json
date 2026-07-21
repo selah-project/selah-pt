@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "leviticus 13:14",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 381,
-    "prompt_tokens": 24670,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25051
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:42:26.493277173Z",
   "translation": "E no dia em que aparecer nele ⟨a⟩ carne viva, ele ⟨estará⟩ impuro",
   "tokens": [
     {
       "surface": "וביום",
-      "english": "E no dia"
+      "gloss": "E no dia"
     },
     {
       "surface": "הראות",
-      "english": "em que aparecer"
+      "gloss": "em que aparecer"
     },
     {
       "surface": "בו",
-      "english": "nele"
+      "gloss": "nele"
     },
     {
       "surface": "בשר",
-      "english": "carne"
+      "gloss": "carne"
     },
     {
       "surface": "חי",
-      "english": "viva"
+      "gloss": "viva"
     },
     {
       "surface": "יטמא",
-      "english": "ele ⟨estará⟩ impuro"
+      "gloss": "ele ⟨estará⟩ impuro"
     }
-  ],
-  "timestamp": "2026-07-16T16:42:26.493277173Z",
-  "model": "glm-4.5"
+  ]
 }

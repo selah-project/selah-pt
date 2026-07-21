@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "numbers 23:12",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 454,
-    "prompt_tokens": 25868,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 26322
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:20:10.651222553Z",
   "translation": "E ele respondeu e disse: Não ⟨devo⟩ eu guardar ⟨para⟩ falar ⟨o⟩ que YHWH puser ⟨em⟩ minha boca, ⟨את⟩?",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "E ele respondeu"
+      "gloss": "E ele respondeu"
     },
     {
       "surface": "ויאמר",
-      "english": "e disse"
+      "gloss": "e disse"
     },
     {
       "surface": "הלא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "אשר"
     },
     {
       "surface": "אשר",
-      "english": "⟨o⟩ que"
+      "gloss": "⟨o⟩ que"
     },
     {
       "surface": "ישים",
-      "english": "puser"
+      "gloss": "puser"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בפי",
-      "english": "⟨em⟩ minha boca"
+      "gloss": "⟨em⟩ minha boca"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "אשמר"
     },
     {
       "surface": "אשמר",
-      "english": "⟨devo⟩ eu guardar"
+      "gloss": "⟨devo⟩ eu guardar"
     },
     {
       "surface": "לדבר",
-      "english": "⟨para⟩ falar"
+      "gloss": "⟨para⟩ falar"
     }
-  ],
-  "timestamp": "2026-07-16T17:20:10.651222553Z",
-  "model": "glm-4.5"
+  ]
 }

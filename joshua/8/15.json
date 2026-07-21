@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "joshua 8:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 8,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:32:08.587052150Z",
+  "translation": "E Yehoshua e todo Yisrael ⟨pareciam⟩ feridos diante ⟨de⟩ eles, e fugiram ⟨pelo⟩ caminho do deserto.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "E ⟨pareciam⟩ feridos"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "diante ⟨de⟩ eles"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "e fugiram"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨pelo⟩ caminho"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "do deserto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josué",
@@ -20,56 +59,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16462,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 16822
-  },
-  "translation": "E Yehoshua e todo Yisrael ⟨pareciam⟩ feridos diante ⟨de⟩ eles, e fugiram ⟨pelo⟩ caminho do deserto.",
-  "tokens": [
-    {
-      "surface": "וינגעו",
-      "english": "E ⟨pareciam⟩ feridos"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לפניהם",
-      "english": "diante ⟨de⟩ eles"
-    },
-    {
-      "surface": "וינסו",
-      "english": "e fugiram"
-    },
-    {
-      "surface": "דרך",
-      "english": "⟨pelo⟩ caminho"
-    },
-    {
-      "surface": "המדבר",
-      "english": "do deserto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:32:08.587052150Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 40:3",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 635,
-    "prompt_tokens": 24582,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25217
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:08:20.260710739Z",
   "translation": "e colocarás ⟨את⟩ Aron ⟨da⟩ HaEdut e cobrirás ⟨sobre⟩ ⟨o⟩ Aron ⟨com⟩ ⟨a⟩ Parochet",
   "tokens": [
     {
       "surface": "וְ\/שַׂמְתָּ֣",
-      "english": "e colocarás"
+      "gloss": "e colocarás"
     },
     {
       "surface": "שָׁ֔ם",
-      "english": "⟨את⟩"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "אֵ֖ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Aron ⟨da⟩ HaEdut"
     },
     {
       "surface": "אֲר֣וֹן",
-      "english": "Aron"
+      "gloss": "Aron"
     },
     {
       "surface": "הָ\/עֵד֑וּת",
-      "english": "⟨da⟩ HaEdut"
+      "gloss": "⟨da⟩ HaEdut"
     },
     {
       "surface": "וְ\/סַכֹּתָ֥",
-      "english": "e cobrirás"
+      "gloss": "e cobrirás"
     },
     {
       "surface": "עַל",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "הָ\/אָרֹ֖ן",
-      "english": "⟨o⟩ Aron"
+      "gloss": "⟨o⟩ Aron"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨a⟩ Parochet"
     },
     {
       "surface": "הַ\/פָּרֹֽכֶת",
-      "english": "⟨a⟩ Parochet"
+      "gloss": "⟨a⟩ Parochet"
     }
-  ],
-  "timestamp": "2026-07-16T14:08:20.260710739Z",
-  "model": "glm-4.5"
+  ]
 }

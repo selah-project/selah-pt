@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 38:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63038,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63390
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:04:38.784660713Z",
   "translation": "Adonai ⟨in front of⟩ you ⟨is⟩ all my desire, and my groaning ⟨is⟩ not hidden from you.",
   "tokens": [
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "נגדך",
-      "english": "⟨in front of⟩"
+      "gloss": "⟨in front of⟩"
     },
     {
       "surface": "כל",
-      "english": "all"
+      "gloss": "all"
     },
     {
       "surface": "תאותי",
-      "english": "my desire"
+      "gloss": "my desire"
     },
     {
       "surface": "ואנחתי",
-      "english": "and my groaning"
+      "gloss": "and my groaning"
     },
     {
       "surface": "ממך",
-      "english": "from you"
+      "gloss": "from you"
     },
     {
       "surface": "לא",
-      "english": "not"
+      "gloss": "not"
     },
     {
       "surface": "נסתרה",
-      "english": "hidden"
+      "gloss": "hidden"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:04:38.784660713Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

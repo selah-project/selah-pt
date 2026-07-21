@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 38:15",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 70334,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70736
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:41.027800302Z",
   "translation": "E eu sou como um homem que não ouve, e não ⟨há⟩ em sua boca ⟨argumen⟩tos de correção.",
   "tokens": [
     {
       "surface": "ואהי",
-      "english": "E eu sou"
+      "gloss": "E eu sou"
     },
     {
       "surface": "כאיש",
-      "english": "como um homem"
+      "gloss": "como um homem"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "שמע",
-      "english": "ouve"
+      "gloss": "ouve"
     },
     {
       "surface": "ואין",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "בפיו",
-      "english": "em sua boca"
+      "gloss": "em sua boca"
     },
     {
       "surface": "תוכחות",
-      "english": "⟨argumen⟩tos de correção"
+      "gloss": "⟨argumen⟩tos de correção"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:41.027800302Z",
-  "model": "glm-4.5"
+  ]
 }

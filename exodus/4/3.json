@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 4:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17171,
-    "prompt_tokens_details": {
-      "cached_tokens": 15859
-    },
-    "total_tokens": 17660
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:38:47.376865735Z",
   "translation": "E Ele disse: Lança-o ⟨na⟩ terra; e ele o lançou ⟨na⟩ terra, e ⟨este⟩ tornou-se ⟨em⟩ serpente; e Moshé fugiu de ⟨sua⟩ presença.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E Ele disse"
+      "gloss": "E Ele disse"
     },
     {
       "surface": "השליכהו",
-      "english": "lança-o"
+      "gloss": "lança-o"
     },
     {
       "surface": "ארצה",
-      "english": "⟨na⟩ terra",
+      "gloss": "⟨na⟩ terra",
       "marks": "terra"
     },
     {
       "surface": "ושליכהו",
-      "english": "e ele o lançou"
+      "gloss": "e ele o lançou"
     },
     {
       "surface": "ארצה",
-      "english": "⟨na⟩ terra",
+      "gloss": "⟨na⟩ terra",
       "marks": "terra"
     },
     {
       "surface": "והיה",
-      "english": "e ⟨este⟩ tornou-se",
+      "gloss": "e ⟨este⟩ tornou-se",
       "marks": "este"
     },
     {
       "surface": "לנחש",
-      "english": "⟨em⟩ serpente",
+      "gloss": "⟨em⟩ serpente",
       "marks": "serpente"
     },
     {
       "surface": "ונס",
-      "english": "e Moshé fugiu"
+      "gloss": "e Moshé fugiu"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "מפניו",
-      "english": "de ⟨sua⟩ presença",
+      "gloss": "de ⟨sua⟩ presença",
       "marks": "presença"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:38:47.376865735Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

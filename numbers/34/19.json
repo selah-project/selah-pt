@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "numbers 34:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 34,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:47:40.891973315Z",
+  "translation": "E estes ⟨são⟩ os nomes dos homens: ⟨para⟩ ⟨a⟩ tribo de Yehudá, Kalev ⟨filho⟩ de Jefoné",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E estes",
+      "marks": "os nomes dos homens"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "os nomes",
+      "marks": ""
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dos homens",
+      "marks": ""
+    },
+    {
+      "surface": "למטה",
+      "gloss": "⟨para⟩ ⟨a⟩ tribo",
+      "marks": ""
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá",
+      "marks": ""
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev",
+      "marks": ""
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨filho⟩",
+      "marks": "de Jefoné"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "de Jefoné",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,64 +67,6 @@
       "hebrew": "כלב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18021,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18442
-  },
-  "translation": "E estes ⟨são⟩ os nomes dos homens: ⟨para⟩ ⟨a⟩ tribo de Yehudá, Kalev ⟨filho⟩ de Jefoné",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E estes",
-      "marks": "os nomes dos homens"
-    },
-    {
-      "surface": "שמות",
-      "english": "os nomes",
-      "marks": ""
-    },
-    {
-      "surface": "האנשים",
-      "english": "dos homens",
-      "marks": ""
-    },
-    {
-      "surface": "למטה",
-      "english": "⟨para⟩ ⟨a⟩ tribo",
-      "marks": ""
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá",
-      "marks": ""
-    },
-    {
-      "surface": "כלב",
-      "english": "Kalev",
-      "marks": ""
-    },
-    {
-      "surface": "בן",
-      "english": "⟨filho⟩",
-      "marks": "de Jefoné"
-    },
-    {
-      "surface": "יפנה",
-      "english": "de Jefoné",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:47:40.891973315Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

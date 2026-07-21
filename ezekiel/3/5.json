@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ezekiel 3:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 3,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:00:49.304743687Z",
+  "translation": "Porque tu não ⟨és⟩ enviado ⟨para⟩ um povo de fala profunda e língua pesada, mas ⟨para⟩ a casa de Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu não"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "um povo"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "de fala profunda"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "e língua"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "pesada"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "mas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "⟨és⟩ enviado"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17754,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18237
-  },
-  "translation": "Porque tu não ⟨és⟩ enviado ⟨para⟩ um povo de fala profunda e língua pesada, mas ⟨para⟩ a casa de Yisrael.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "לא",
-      "english": "tu não"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "עם",
-      "english": "um povo"
-    },
-    {
-      "surface": "עמקי",
-      "english": "de fala profunda"
-    },
-    {
-      "surface": "שפה",
-      "english": "e língua"
-    },
-    {
-      "surface": "וכבדי",
-      "english": "pesada"
-    },
-    {
-      "surface": "לשון",
-      "english": "mas"
-    },
-    {
-      "surface": "אתה",
-      "english": "tu"
-    },
-    {
-      "surface": "שלוח",
-      "english": "⟨és⟩ enviado"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "בית",
-      "english": "a casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:00:49.304743687Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "numbers 17:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 17,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:28:26.480120218Z",
+  "translation": "E ⟨את⟩ nome de Aharon escreverás ⟨sobre⟩ ⟨o⟩ cajado de Leví, pois ⟨um⟩ cajado ⟨será⟩ para ⟨o⟩ cabeça ⟨da⟩ casa de seus pais.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E ⟨את⟩",
+      "marks": "nome de Aharão"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nome de Aharão"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "escreverás"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨o⟩ cajado"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "de Leví"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨um⟩ cajado"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨será⟩"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "⟨para⟩ ⟨o⟩ cabeça"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨da⟩ casa"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "de seus pais"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Aharão",
@@ -20,77 +80,6 @@
       "hebrew": "לוי"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18254,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18818
-  },
-  "translation": "E ⟨את⟩ nome de Aharon escreverás ⟨sobre⟩ ⟨o⟩ cajado de Leví, pois ⟨um⟩ cajado ⟨será⟩ para ⟨o⟩ cabeça ⟨da⟩ casa de seus pais.",
-  "tokens": [
-    {
-      "surface": "ואת",
-      "english": "E ⟨את⟩",
-      "marks": "nome de Aharão"
-    },
-    {
-      "surface": "שם",
-      "english": "nome de Aharão"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharon"
-    },
-    {
-      "surface": "תכתב",
-      "english": "escreverás"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "מטה",
-      "english": "⟨o⟩ cajado"
-    },
-    {
-      "surface": "לוי",
-      "english": "de Leví"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "מטה",
-      "english": "⟨um⟩ cajado"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨será⟩"
-    },
-    {
-      "surface": "לראש",
-      "english": "⟨para⟩ ⟨o⟩ cabeça"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨da⟩ casa"
-    },
-    {
-      "surface": "אבותם",
-      "english": "de seus pais"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:28:26.480120218Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

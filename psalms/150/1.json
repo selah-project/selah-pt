@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 150:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 150,
-  "usage": {
-    "completion_tokens": 520,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62966,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63486
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:17:36.969284747Z",
   "translation": "Louvem a YH ⟨את⟩ HaShem, louvem ⟨a⟩ Elohim em ⟨o⟩ seu santuário; louvem-nO ⟨את⟩ na expansão do ⟨seu⟩ poder",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "Louvem",
+      "gloss": "Louvem",
       "marks": "YH"
     },
     {
       "surface": "יה",
-      "english": "YH"
+      "gloss": "YH"
     },
     {
       "surface": "הללו",
-      "english": "louvem",
+      "gloss": "louvem",
       "marks": "Elohim"
     },
     {
       "surface": "אל",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בקדשו",
-      "english": "em ⟨o⟩ seu santuário"
+      "gloss": "em ⟨o⟩ seu santuário"
     },
     {
       "surface": "הללוהו",
-      "english": "louvem-nO",
+      "gloss": "louvem-nO",
       "marks": "HaShem"
     },
     {
       "surface": "ברקיע",
-      "english": "na expansão"
+      "gloss": "na expansão"
     },
     {
       "surface": "עזו",
-      "english": "do ⟨seu⟩ poder"
+      "gloss": "do ⟨seu⟩ poder"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:17:36.969284747Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

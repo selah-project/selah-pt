@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "leviticus 4:5",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 442,
-    "prompt_tokens": 25088,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25530
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:35:11.390102617Z",
   "translation": "E o kohen, o mashíaj, tomará ⟨do⟩ sangue do touro, e trará ⟨את⟩ ele ⟨para⟩ a Ohel Moed",
   "tokens": [
     {
       "surface": "ולקח",
-      "english": "E tomará"
+      "gloss": "E tomará"
     },
     {
       "surface": "הכהן",
-      "english": "o kohen"
+      "gloss": "o kohen"
     },
     {
       "surface": "המשיח",
-      "english": "o mashíaj"
+      "gloss": "o mashíaj"
     },
     {
       "surface": "מדם",
-      "english": "⟨do⟩ sangue"
+      "gloss": "⟨do⟩ sangue"
     },
     {
       "surface": "הפר",
-      "english": "do touro"
+      "gloss": "do touro"
     },
     {
       "surface": "והביא",
-      "english": "e trará"
+      "gloss": "e trará"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩ ele",
+      "gloss": "⟨את⟩ ele",
       "marks": "para a Ohel Moed"
     },
     {
       "surface": "אל",
-      "english": "⟨para⟩"
+      "gloss": "⟨para⟩"
     },
     {
       "surface": "אהל",
-      "english": "Ohel"
+      "gloss": "Ohel"
     },
     {
       "surface": "מועד",
-      "english": "Moed"
+      "gloss": "Moed"
     }
-  ],
-  "timestamp": "2026-07-16T16:35:11.390102617Z",
-  "model": "glm-4.5"
+  ]
 }

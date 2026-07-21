@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "deuteronomy 1:12",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 430,
-    "prompt_tokens": 24883,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25313
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:08:47.452222581Z",
   "translation": "Como posso ⟨eu⟩ só carregar ⟨את⟩ o vosso incômodo, e a vossa carga, e a vossa contenda?",
   "tokens": [
     {
       "surface": "איכה",
-      "english": "Como posso"
+      "gloss": "Como posso"
     },
     {
       "surface": "אשא",
-      "english": "carregar"
+      "gloss": "carregar"
     },
     {
       "surface": "לבדי",
-      "english": "⟨eu⟩ só"
+      "gloss": "⟨eu⟩ só"
     },
     {
       "surface": "טרחכם",
-      "english": "⟨את⟩ o vosso incômodo",
+      "gloss": "⟨את⟩ o vosso incômodo",
       "marks": "o vosso incômodo"
     },
     {
       "surface": "ומשאכם",
-      "english": "e a vossa carga"
+      "gloss": "e a vossa carga"
     },
     {
       "surface": "וריבכם",
-      "english": "e a vossa contenda"
+      "gloss": "e a vossa contenda"
     }
-  ],
-  "timestamp": "2026-07-16T13:08:47.452222581Z",
-  "model": "glm-4.5"
+  ]
 }

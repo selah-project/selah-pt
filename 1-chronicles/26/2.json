@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 26:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 26,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:01:21.069080065Z",
+  "translation": "E para Meshelemias ⟨são⟩ filhos: Zekharyá o primogênito, Jediael o segundo, Zebadias o terceiro, Jatniel o quarto",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "E para Meshelemias"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyá"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "o primogênito"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Jediael"
+    },
+    {
+      "surface": "השני",
+      "gloss": "o segundo"
+    },
+    {
+      "surface": "זבדיהו",
+      "gloss": "Zebadias"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "o terceiro"
+    },
+    {
+      "surface": "יתניאל",
+      "gloss": "Jatniel"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "o quarto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zacarias",
@@ -13,64 +60,6 @@
       "hebrew": "זכריה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57433,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57887
-  },
-  "translation": "E para Meshelemias ⟨são⟩ filhos: Zekharyá o primogênito, Jediael o segundo, Zebadias o terceiro, Jatniel o quarto",
-  "tokens": [
-    {
-      "surface": "ולמשלמיהו",
-      "english": "E para Meshelemias"
-    },
-    {
-      "surface": "בנים",
-      "english": "filhos"
-    },
-    {
-      "surface": "זכריהו",
-      "english": "Zekharyá"
-    },
-    {
-      "surface": "הבכור",
-      "english": "o primogênito"
-    },
-    {
-      "surface": "ידיעאל",
-      "english": "Jediael"
-    },
-    {
-      "surface": "השני",
-      "english": "o segundo"
-    },
-    {
-      "surface": "זבדיהו",
-      "english": "Zebadias"
-    },
-    {
-      "surface": "השלישי",
-      "english": "o terceiro"
-    },
-    {
-      "surface": "יתניאל",
-      "english": "Jatniel"
-    },
-    {
-      "surface": "הרביעי",
-      "english": "o quarto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:01:21.069080065Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "lamentations 4:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "lamentations",
+  "chapter": 4,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:27:29.477390519Z",
+  "translation": "⟨Por⟩ pecados de seus profetas e perversidades de seus Kohens, que derramavam ⟨o⟩ sangue ⟨dos⟩ justos no meio ⟨de⟩ Jerusalém.",
+  "tokens": [
+    {
+      "surface": "מחטאת",
+      "gloss": "⟨Por⟩ pecados"
+    },
+    {
+      "surface": "נביאיה",
+      "gloss": "de seus profetas"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "e perversidades"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "de seus Kohens"
+    },
+    {
+      "surface": "השפכים",
+      "gloss": "que derramavam"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "no meio ⟨de⟩"
+    },
+    {
+      "surface": "דם",
+      "gloss": "⟨o⟩ sangue"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "⟨dos⟩ justos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,56 +52,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 32285,
-    "prompt_tokens_details": {
-      "cached_tokens": 31099
-    },
-    "total_tokens": 32670
-  },
-  "translation": "⟨Por⟩ pecados de seus profetas e perversidades de seus Kohens, que derramavam ⟨o⟩ sangue ⟨dos⟩ justos no meio ⟨de⟩ Jerusalém.",
-  "tokens": [
-    {
-      "surface": "מחטאת",
-      "english": "⟨Por⟩ pecados"
-    },
-    {
-      "surface": "נביאיה",
-      "english": "de seus profetas"
-    },
-    {
-      "surface": "עונות",
-      "english": "e perversidades"
-    },
-    {
-      "surface": "כהניה",
-      "english": "de seus Kohens"
-    },
-    {
-      "surface": "השפכים",
-      "english": "que derramavam"
-    },
-    {
-      "surface": "בקרבה",
-      "english": "no meio ⟨de⟩"
-    },
-    {
-      "surface": "דם",
-      "english": "⟨o⟩ sangue"
-    },
-    {
-      "surface": "צדיקים",
-      "english": "⟨dos⟩ justos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:27:29.477390519Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

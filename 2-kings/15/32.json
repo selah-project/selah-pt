@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "2-kings 15:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 15,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:01:31.864555603Z",
+  "translation": "No segundo ano ⟨de⟩ Peká ⟨o⟩ filho de Remalias, rei de Yisrael, Jotão ⟨o⟩ filho de Uziyahu, rei de Yehudá, começou a reinar",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "No segundo ano"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "segundo"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "de Peká"
+    },
+    {
+      "surface": "בן",
+      "gloss": "o filho"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "de Remalias"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "começou a reinar"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotão"
+    },
+    {
+      "surface": "בן",
+      "gloss": "o filho"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "de Uziyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -27,76 +86,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17362,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17803
-  },
-  "translation": "No segundo ano ⟨de⟩ Peká ⟨o⟩ filho de Remalias, rei de Yisrael, Jotão ⟨o⟩ filho de Uziyahu, rei de Yehudá, começou a reinar",
-  "tokens": [
-    {
-      "surface": "בשנת",
-      "english": "No segundo ano"
-    },
-    {
-      "surface": "שתים",
-      "english": "segundo"
-    },
-    {
-      "surface": "לפקח",
-      "english": "de Peká"
-    },
-    {
-      "surface": "בן",
-      "english": "o filho"
-    },
-    {
-      "surface": "רמליהו",
-      "english": "de Remalias"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "מלך",
-      "english": "começou a reinar"
-    },
-    {
-      "surface": "יותם",
-      "english": "Jotão"
-    },
-    {
-      "surface": "בן",
-      "english": "o filho"
-    },
-    {
-      "surface": "עזיהו",
-      "english": "de Uziyahu"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:01:31.864555603Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

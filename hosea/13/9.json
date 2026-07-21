@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "hosea 13:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 13,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:01:48.925523040Z",
+  "translation": "⟨É⟩ tua destruição, ó Yisrael, porque em mim ⟨está⟩ o teu auxílio",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "⟨É⟩ tua destruição"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ó Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "בי",
+      "gloss": "em mim"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "⟨está⟩ o teu auxílio"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,44 +40,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19283,
-    "prompt_tokens_details": {
-      "cached_tokens": 18475
-    },
-    "total_tokens": 19672
-  },
-  "translation": "⟨É⟩ tua destruição, ó Yisrael, porque em mim ⟨está⟩ o teu auxílio",
-  "tokens": [
-    {
-      "surface": "שחתך",
-      "english": "⟨É⟩ tua destruição"
-    },
-    {
-      "surface": "ישראל",
-      "english": "ó Yisrael"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "בי",
-      "english": "em mim"
-    },
-    {
-      "surface": "בעזרך",
-      "english": "⟨está⟩ o teu auxílio"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:01:48.925523040Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-chronicles 36:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 36,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:52:17.537583279Z",
+  "translation": "Contra ele veio ⟨a⟩ cima Nevujadnetzar rei de Bavel e ⟨o⟩ amarrou ⟨com⟩ correntes de bronze para levá-lo ⟨para⟩ Bavel",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "Contra ele"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "veio ⟨a⟩ cima"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevujadnetzar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "e ⟨o⟩ amarrou"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "⟨com⟩ correntes de bronze"
+    },
+    {
+      "surface": "להליכו",
+      "gloss": "para levá-lo"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "⟨para⟩ Bavel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nabucodonosor",
@@ -27,60 +70,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58305,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58776
-  },
-  "translation": "Contra ele veio ⟨a⟩ cima Nevujadnetzar rei de Bavel e ⟨o⟩ amarrou ⟨com⟩ correntes de bronze para levá-lo ⟨para⟩ Bavel",
-  "tokens": [
-    {
-      "surface": "עליו",
-      "english": "Contra ele"
-    },
-    {
-      "surface": "עלה",
-      "english": "veio ⟨a⟩ cima"
-    },
-    {
-      "surface": "נבוכדנאצר",
-      "english": "Nevujadnetzar"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "ויאסרהו",
-      "english": "e ⟨o⟩ amarrou"
-    },
-    {
-      "surface": "בנחשתים",
-      "english": "⟨com⟩ correntes de bronze"
-    },
-    {
-      "surface": "להליכו",
-      "english": "para levá-lo"
-    },
-    {
-      "surface": "בבלה",
-      "english": "⟨para⟩ Bavel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:52:17.537583279Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-samuel 24:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 24,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:07:29.569577211Z",
+  "translation": "E eles percorreram ⟨por⟩ toda ⟨a⟩ terra, e vieram ⟨de⟩ ⟨o⟩ fim ⟨de⟩ nove meses e vinte dias ⟨em⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "E eles percorreram"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨por⟩ toda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ terra"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e vieram"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "⟨de⟩ ⟨o⟩ fim"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nove"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "meses"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e vinte"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dias"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨em⟩ Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,64 +60,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17474,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 17961
-  },
-  "translation": "E eles percorreram ⟨por⟩ toda ⟨a⟩ terra, e vieram ⟨de⟩ ⟨o⟩ fim ⟨de⟩ nove meses e vinte dias ⟨em⟩ Yerushalayim.",
-  "tokens": [
-    {
-      "surface": "וישטו",
-      "english": "E eles percorreram"
-    },
-    {
-      "surface": "בכל",
-      "english": "⟨por⟩ toda"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨a⟩ terra"
-    },
-    {
-      "surface": "ויבאו",
-      "english": "e vieram"
-    },
-    {
-      "surface": "מקצה",
-      "english": "⟨de⟩ ⟨o⟩ fim"
-    },
-    {
-      "surface": "תשעה",
-      "english": "nove"
-    },
-    {
-      "surface": "חדשים",
-      "english": "meses"
-    },
-    {
-      "surface": "ועשרים",
-      "english": "e vinte"
-    },
-    {
-      "surface": "יום",
-      "english": "dias"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨em⟩ Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:07:29.569577211Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

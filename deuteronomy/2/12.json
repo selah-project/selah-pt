@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "deuteronomy 2:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 2,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:51:51.124079554Z",
+  "translation": "E em Seir habitaram ⟨os⟩ Horeus anteriormente, e ⟨os⟩ filhos de Esav os herdam e os destroem de diante deles e habitam em seu lugar; como Yisrael fez ⟨à⟩ terra de sua herança, que YHWH deu ⟨para⟩ eles.",
+  "tokens": [
+    {
+      "surface": "ובשעיר",
+      "gloss": "E em Seir",
+      "marks": ""
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "habitaram",
+      "marks": ""
+    },
+    {
+      "surface": "החרים",
+      "gloss": "⟨os⟩ Horeus",
+      "marks": "os Horeus"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "anteriormente",
+      "marks": ""
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e ⟨os⟩ filhos",
+      "marks": "os filhos"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de Esav",
+      "marks": ""
+    },
+    {
+      "surface": "יירשום",
+      "gloss": "os herdam",
+      "marks": ""
+    },
+    {
+      "surface": "וישמידום",
+      "gloss": "e os destroem",
+      "marks": ""
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "de diante deles",
+      "marks": ""
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e habitam",
+      "marks": ""
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "em seu lugar",
+      "marks": ""
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como",
+      "marks": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fez",
+      "marks": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael",
+      "marks": ""
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨à⟩ terra",
+      "marks": "a terra"
+    },
+    {
+      "surface": "ירשתו",
+      "gloss": "de sua herança",
+      "marks": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "marks": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deu",
+      "marks": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH",
+      "marks": ""
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨para⟩ eles",
+      "marks": "eles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Esaú",
@@ -20,124 +127,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 697,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18900,
-    "prompt_tokens_details": {
-      "cached_tokens": 16575
-    },
-    "total_tokens": 19597
-  },
-  "translation": "E em Seir habitaram ⟨os⟩ Horeus anteriormente, e ⟨os⟩ filhos de Esav os herdam e os destroem de diante deles e habitam em seu lugar; como Yisrael fez ⟨à⟩ terra de sua herança, que YHWH deu ⟨para⟩ eles.",
-  "tokens": [
-    {
-      "surface": "ובשעיר",
-      "english": "E em Seir",
-      "marks": ""
-    },
-    {
-      "surface": "ישבו",
-      "english": "habitaram",
-      "marks": ""
-    },
-    {
-      "surface": "החרים",
-      "english": "⟨os⟩ Horeus",
-      "marks": "os Horeus"
-    },
-    {
-      "surface": "לפנים",
-      "english": "anteriormente",
-      "marks": ""
-    },
-    {
-      "surface": "ובני",
-      "english": "e ⟨os⟩ filhos",
-      "marks": "os filhos"
-    },
-    {
-      "surface": "עשו",
-      "english": "de Esav",
-      "marks": ""
-    },
-    {
-      "surface": "יירשום",
-      "english": "os herdam",
-      "marks": ""
-    },
-    {
-      "surface": "וישמידום",
-      "english": "e os destroem",
-      "marks": ""
-    },
-    {
-      "surface": "מפניהם",
-      "english": "de diante deles",
-      "marks": ""
-    },
-    {
-      "surface": "וישבו",
-      "english": "e habitam",
-      "marks": ""
-    },
-    {
-      "surface": "תחתם",
-      "english": "em seu lugar",
-      "marks": ""
-    },
-    {
-      "surface": "כאשר",
-      "english": "como",
-      "marks": ""
-    },
-    {
-      "surface": "עשה",
-      "english": "fez",
-      "marks": ""
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael",
-      "marks": ""
-    },
-    {
-      "surface": "לארץ",
-      "english": "⟨à⟩ terra",
-      "marks": "a terra"
-    },
-    {
-      "surface": "ירשתו",
-      "english": "de sua herança",
-      "marks": ""
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "marks": ""
-    },
-    {
-      "surface": "נתן",
-      "english": "deu",
-      "marks": ""
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH",
-      "marks": ""
-    },
-    {
-      "surface": "להם",
-      "english": "⟨para⟩ eles",
-      "marks": "eles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:51:51.124079554Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

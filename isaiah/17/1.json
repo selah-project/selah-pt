@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 17:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 17,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:25:35.941494645Z",
+  "translation": "O peso de Damesek: Eis! Damesek ⟨está⟩ removida ⟨de ser⟩ cidade, e se tornou ⟨um⟩ montão ⟨de⟩ ruínas",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "O peso"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "de Damesek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis!"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesek"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "⟨está⟩ removida"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "⟨de ser⟩ cidade"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e se tornou"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "⟨um⟩ montão"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "⟨de⟩ ruínas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Damasco",
@@ -20,60 +63,6 @@
       "hebrew": "דמשק"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 575,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19112,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19687
-  },
-  "translation": "O peso de Damesek: Eis! Damesek ⟨está⟩ removida ⟨de ser⟩ cidade, e se tornou ⟨um⟩ montão ⟨de⟩ ruínas",
-  "tokens": [
-    {
-      "surface": "משא",
-      "english": "O peso"
-    },
-    {
-      "surface": "דמשק",
-      "english": "de Damesek"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis!"
-    },
-    {
-      "surface": "דמשק",
-      "english": "Damesek"
-    },
-    {
-      "surface": "מוסר",
-      "english": "⟨está⟩ removida"
-    },
-    {
-      "surface": "מעיר",
-      "english": "⟨de ser⟩ cidade"
-    },
-    {
-      "surface": "והיתה",
-      "english": "e se tornou"
-    },
-    {
-      "surface": "מעי",
-      "english": "⟨um⟩ montão"
-    },
-    {
-      "surface": "מפלה",
-      "english": "⟨de⟩ ruínas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:25:35.941494645Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

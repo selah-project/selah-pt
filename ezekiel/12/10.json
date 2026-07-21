@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "ezekiel 12:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 12,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:11:48.812350188Z",
+  "translation": "Dize-lhes: Assim diz Adonai YHWH: O príncipe ⟨é⟩ este fardo em Jerusalém e toda ⟨a⟩ casa de Yisrael que ⟨está⟩ no meio deles",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Dize"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "-lhes"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "O príncipe"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "⟨é⟩ este fardo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "este"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Jerusalém"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e toda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨está⟩"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "no meio deles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 568,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18029,
-    "prompt_tokens_details": {
-      "cached_tokens": 16310
-    },
-    "total_tokens": 18597
-  },
-  "translation": "Dize-lhes: Assim diz Adonai YHWH: O príncipe ⟨é⟩ este fardo em Jerusalém e toda ⟨a⟩ casa de Yisrael que ⟨está⟩ no meio deles",
-  "tokens": [
-    {
-      "surface": "אמר",
-      "english": "Dize"
-    },
-    {
-      "surface": "אליהם",
-      "english": "-lhes"
-    },
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "הנשיא",
-      "english": "O príncipe"
-    },
-    {
-      "surface": "המשא",
-      "english": "⟨é⟩ este fardo"
-    },
-    {
-      "surface": "הזה",
-      "english": "este"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Jerusalém"
-    },
-    {
-      "surface": "וכל",
-      "english": "e toda"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "המה",
-      "english": "⟨está⟩"
-    },
-    {
-      "surface": "בתוכם",
-      "english": "no meio deles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:11:48.812350188Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

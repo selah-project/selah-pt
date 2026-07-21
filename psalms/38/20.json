@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 38:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62767,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63180
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:04:42.922257166Z",
   "translation": "e ⟨os⟩ meus inimigos, que ⟨são⟩ vivos, fortalecem-se, e multiplicam-se ⟨os⟩ que me odeiam com mentira",
   "tokens": [
     {
       "surface": "ואיבי",
-      "english": "E ⟨os⟩ meus inimigos"
+      "gloss": "E ⟨os⟩ meus inimigos"
     },
     {
       "surface": "חיים",
-      "english": "que ⟨são⟩ vivos"
+      "gloss": "que ⟨são⟩ vivos"
     },
     {
       "surface": "עצמו",
-      "english": "fortalecem-se"
+      "gloss": "fortalecem-se"
     },
     {
       "surface": "ורבו",
-      "english": "e multiplicam-se"
+      "gloss": "e multiplicam-se"
     },
     {
       "surface": "שנאי",
-      "english": "⟨os⟩ que me odeiam"
+      "gloss": "⟨os⟩ que me odeiam"
     },
     {
       "surface": "שקר",
-      "english": "com mentira"
+      "gloss": "com mentira"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:04:42.922257166Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

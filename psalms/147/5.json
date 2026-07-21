@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 147:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 384,
-    "prompt_tokens": 70275,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70659
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:52:09.646108269Z",
   "translation": "Grande é o nosso Adonai, e de abundante força; para a Sua compreensão não há número.",
   "tokens": [
     {
       "surface": "גדול",
-      "english": "Grande"
+      "gloss": "Grande"
     },
     {
       "surface": "אדונינו",
-      "english": "o nosso Adonai"
+      "gloss": "o nosso Adonai"
     },
     {
       "surface": "ורב",
-      "english": "e de abundante"
+      "gloss": "e de abundante"
     },
     {
       "surface": "כח",
-      "english": "força"
+      "gloss": "força"
     },
     {
       "surface": "לתבונתו",
-      "english": "para a Sua compreensão"
+      "gloss": "para a Sua compreensão"
     },
     {
       "surface": "אין",
-      "english": "não há"
+      "gloss": "não há"
     },
     {
       "surface": "מספר",
-      "english": "número"
+      "gloss": "número"
     }
-  ],
-  "timestamp": "2026-07-16T17:52:09.646108269Z",
-  "model": "glm-4.5"
+  ]
 }

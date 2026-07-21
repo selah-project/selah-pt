@@ -1,9 +1,109 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-chronicles 19:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 19,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:54:42.717737251Z",
+  "translation": "E os príncipes dos filhos de Amon disseram a Hanun: Davidd ⟨está⟩ honrando teu pai ⟨את⟩ em teus olhos, porque ele enviou-te consoladores? Porventura ⟨é⟩ por inquirir ⟨o⟩ para pesquisar ⟨o⟩ e para espionar ⟨o⟩, vieram seus servos a ti?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E disseram"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "os príncipes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Amon"
+    },
+    {
+      "surface": "לחנון",
+      "gloss": "a Hanun"
+    },
+    {
+      "surface": "המכבד",
+      "gloss": "⟨está⟩ honrando"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teu pai"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "teu pai"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "em teus olhos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "enviou"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-te"
+    },
+    {
+      "surface": "מנחמים",
+      "gloss": "consoladores"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Porventura"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "⟨é⟩ por"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "inquirir ⟨o⟩"
+    },
+    {
+      "surface": "ולהפך",
+      "gloss": "⟨o⟩ para pesquisar ⟨o⟩"
+    },
+    {
+      "surface": "ולרגל",
+      "gloss": "⟨o⟩ e para espionar ⟨o⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vieram"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seus servos"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a ti"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,117 +113,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 800,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58652,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 59452
-  },
-  "translation": "E os príncipes dos filhos de Amon disseram a Hanun: Davidd ⟨está⟩ honrando teu pai ⟨את⟩ em teus olhos, porque ele enviou-te consoladores? Porventura ⟨é⟩ por inquirir ⟨o⟩ para pesquisar ⟨o⟩ e para espionar ⟨o⟩, vieram seus servos a ti?",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "E disseram"
-    },
-    {
-      "surface": "שרי",
-      "english": "os príncipes"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Amon"
-    },
-    {
-      "surface": "לחנון",
-      "english": "a Hanun"
-    },
-    {
-      "surface": "המכבד",
-      "english": "⟨está⟩ honrando"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "teu pai"
-    },
-    {
-      "surface": "אביך",
-      "english": "teu pai"
-    },
-    {
-      "surface": "בעיניך",
-      "english": "em teus olhos"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "שלח",
-      "english": "enviou"
-    },
-    {
-      "surface": "לך",
-      "english": "-te"
-    },
-    {
-      "surface": "מנחמים",
-      "english": "consoladores"
-    },
-    {
-      "surface": "הלא",
-      "english": "Porventura"
-    },
-    {
-      "surface": "בעבור",
-      "english": "⟨é⟩ por"
-    },
-    {
-      "surface": "לחקר",
-      "english": "inquirir ⟨o⟩"
-    },
-    {
-      "surface": "ולהפך",
-      "english": "⟨o⟩ para pesquisar ⟨o⟩"
-    },
-    {
-      "surface": "ולרגל",
-      "english": "⟨o⟩ e para espionar ⟨o⟩"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "באו",
-      "english": "vieram"
-    },
-    {
-      "surface": "עבדיו",
-      "english": "seus servos"
-    },
-    {
-      "surface": "אליך",
-      "english": "a ti"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:54:42.717737251Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 82:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 82,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70285,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70813
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:39:59.504150934Z",
   "translation": "Até quando julgais ⟨o⟩ perversamente ⟨e⟩ levantais ⟨a⟩ face dos ⟨os⟩ ímpios? Selá.",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Até quando"
+      "gloss": "Até quando"
     },
     {
       "surface": "מתי",
-      "english": "julgais"
+      "gloss": "julgais"
     },
     {
       "surface": "תשפטו",
-      "english": "perversamente"
+      "gloss": "perversamente"
     },
     {
       "surface": "עול",
-      "english": "⟨e⟩"
+      "gloss": "⟨e⟩"
     },
     {
       "surface": "ופני",
-      "english": "levantais ⟨a⟩ face"
+      "gloss": "levantais ⟨a⟩ face"
     },
     {
       "surface": "רשעים",
-      "english": "dos ⟨os⟩ ímpios"
+      "gloss": "dos ⟨os⟩ ímpios"
     },
     {
       "surface": "תשאו",
-      "english": "?"
+      "gloss": "?"
     },
     {
       "surface": "סלה",
-      "english": "Selá"
+      "gloss": "Selá"
     }
-  ],
-  "timestamp": "2026-06-13T06:39:59.504150934Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 18:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62804,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63226
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:50:00.098872969Z",
   "translation": "E Ele ⟨me⟩ tirou ⟨para⟩ ⟨um⟩ ⟨lugar⟩ ⟨amplo⟩, ⟨ele⟩ ⟨me⟩ livrou, porque ⟨ele⟩ teve prazer ⟨em⟩ mim.",
   "tokens": [
     {
       "surface": "ויוציאני",
-      "english": "E Ele ⟨me⟩ tirou"
+      "gloss": "E Ele ⟨me⟩ tirou"
     },
     {
       "surface": "למרחב",
-      "english": "⟨para⟩ ⟨um⟩ ⟨lugar⟩ ⟨amplo⟩"
+      "gloss": "⟨para⟩ ⟨um⟩ ⟨lugar⟩ ⟨amplo⟩"
     },
     {
       "surface": "יחלצני",
-      "english": "⟨ele⟩ ⟨me⟩ livrou"
+      "gloss": "⟨ele⟩ ⟨me⟩ livrou"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "חפץ",
-      "english": "⟨ele⟩ teve prazer"
+      "gloss": "⟨ele⟩ teve prazer"
     },
     {
       "surface": "בי",
-      "english": "⟨em⟩ mim"
+      "gloss": "⟨em⟩ mim"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:50:00.098872969Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

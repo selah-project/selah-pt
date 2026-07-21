@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "deuteronomy 33:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 33,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:24:52.500070204Z",
+  "translation": "E Yisrael ⟨dwell⟩ em segurança, sozinho: ⟨o⟩ olho de Yaakov ⟨é⟩ sobre ⟨a⟩ terra de cereal e vinho; também ⟨os⟩ seus céus destilarão orvalho.",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "E Israel ⟨dwell⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "em segurança"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "sozinho"
+    },
+    {
+      "surface": "עין",
+      "gloss": "⟨o⟩ olho de Jacob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨é⟩ sobre"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨a⟩ terra"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "de cereal"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "e vinho"
+    },
+    {
+      "surface": "אף",
+      "gloss": "também"
+    },
+    {
+      "surface": "שמיו",
+      "gloss": "⟨os⟩ seus céus"
+    },
+    {
+      "surface": "יערפו",
+      "gloss": "destilarão"
+    },
+    {
+      "surface": "טל",
+      "gloss": "orvalho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,80 +83,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18217,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 18795
-  },
-  "translation": "E Yisrael ⟨dwell⟩ em segurança, sozinho: ⟨o⟩ olho de Yaakov ⟨é⟩ sobre ⟨a⟩ terra de cereal e vinho; também ⟨os⟩ seus céus destilarão orvalho.",
-  "tokens": [
-    {
-      "surface": "וישכן",
-      "english": "E Israel ⟨dwell⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בטח",
-      "english": "em segurança"
-    },
-    {
-      "surface": "בדד",
-      "english": "sozinho"
-    },
-    {
-      "surface": "עין",
-      "english": "⟨o⟩ olho de Jacob"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨é⟩ sobre"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨a⟩ terra"
-    },
-    {
-      "surface": "דגן",
-      "english": "de cereal"
-    },
-    {
-      "surface": "ותירוש",
-      "english": "e vinho"
-    },
-    {
-      "surface": "אף",
-      "english": "também"
-    },
-    {
-      "surface": "שמיו",
-      "english": "⟨os⟩ seus céus"
-    },
-    {
-      "surface": "יערפו",
-      "english": "destilarão"
-    },
-    {
-      "surface": "טל",
-      "english": "orvalho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:24:52.500070204Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

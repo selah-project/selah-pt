@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "2-kings 2:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 2,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:47:14.949483681Z",
+  "translation": "E ele foi ⟨a⟩ partir de lá ⟨ao⟩ monte Carmelo, e ⟨a⟩ partir de lá retornou ⟨a⟩ Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "E ele foi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "⟨a⟩ partir de lá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Carmelo"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "e ⟨a⟩ partir de lá"
+    },
+    {
+      "surface": "שב",
+      "gloss": "retornou ⟨a⟩"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samaria",
@@ -13,56 +52,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16756,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17141
-  },
-  "translation": "E ele foi ⟨a⟩ partir de lá ⟨ao⟩ monte Carmelo, e ⟨a⟩ partir de lá retornou ⟨a⟩ Shomron.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "E ele foi"
-    },
-    {
-      "surface": "משם",
-      "english": "⟨a⟩ partir de lá"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "הר",
-      "english": "monte"
-    },
-    {
-      "surface": "הכרמל",
-      "english": "Carmelo"
-    },
-    {
-      "surface": "ומשם",
-      "english": "e ⟨a⟩ partir de lá"
-    },
-    {
-      "surface": "שב",
-      "english": "retornou ⟨a⟩"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomron"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:47:14.949483681Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "numbers 5:23",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 491,
-    "prompt_tokens": 25665,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 26156
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:05:48.983013401Z",
   "translation": "e escreverá ⟨את⟩ estas maldições, o kohen, num livro, e as apagará com as águas amargas",
   "tokens": [
     {
       "surface": "וכתב",
-      "english": "e escreverá"
+      "gloss": "e escreverá"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "estas maldições"
     },
     {
       "surface": "האלת",
-      "english": "estas maldições"
+      "gloss": "estas maldições"
     },
     {
       "surface": "האלה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "הכהן",
-      "english": "o kohen"
+      "gloss": "o kohen"
     },
     {
       "surface": "בספר",
-      "english": "num livro"
+      "gloss": "num livro"
     },
     {
       "surface": "ומחה",
-      "english": "e as apagará"
+      "gloss": "e as apagará"
     },
     {
       "surface": "אל",
-      "english": "com"
+      "gloss": "com"
     },
     {
       "surface": "מי",
-      "english": "as águas"
+      "gloss": "as águas"
     },
     {
       "surface": "המרים",
-      "english": "amargas"
+      "gloss": "amargas"
     }
-  ],
-  "timestamp": "2026-07-16T17:05:48.983013401Z",
-  "model": "glm-4.5"
+  ]
 }

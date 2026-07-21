@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 80:6",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70158,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70585
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:39:55.262588987Z",
   "translation": "⟨You make⟩ them eat bread ⟨of⟩ weeping ⟨and⟩ ⟨you make⟩ them drink ⟨in⟩ tears ⟨threefold⟩",
   "tokens": [
     {
       "surface": "האכלתם",
-      "english": "⟨You make⟩ them eat"
+      "gloss": "⟨You make⟩ them eat"
     },
     {
       "surface": "לחם",
-      "english": "bread"
+      "gloss": "bread"
     },
     {
       "surface": "דמעה",
-      "english": "⟨of⟩ weeping"
+      "gloss": "⟨of⟩ weeping"
     },
     {
       "surface": "ותשקמו",
-      "english": "⟨and⟩ ⟨you make⟩ them drink"
+      "gloss": "⟨and⟩ ⟨you make⟩ them drink"
     },
     {
       "surface": "בדמעות",
-      "english": "⟨in⟩ tears"
+      "gloss": "⟨in⟩ tears"
     },
     {
       "surface": "שליש",
-      "english": "⟨threefold⟩"
+      "gloss": "⟨threefold⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:39:55.262588987Z",
-  "model": "glm-4.5"
+  ]
 }

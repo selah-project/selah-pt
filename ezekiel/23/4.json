@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "ezekiel 23:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 23,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:26:43.766057041Z",
+  "translation": "E os nomes delas ⟨eram⟩ Aolá, a mais velha, e Aolibá, sua irmã; e elas vieram a ser minhas, e deram à luz filhos e filhas; e os nomes delas ⟨são⟩ Shomron é Aolá, e Jerusalém é Aolibá.",
+  "tokens": [
+    {
+      "surface": "ושמותן",
+      "gloss": "E os nomes delas"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Aolá"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "a mais velha"
+    },
+    {
+      "surface": "ואהליבה",
+      "gloss": "e Aolibá"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "sua irmã"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "e elas vieram a ser"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minhas"
+    },
+    {
+      "surface": "ותלדנה",
+      "gloss": "e deram à luz"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e filhas"
+    },
+    {
+      "surface": "ושמותן",
+      "gloss": "e os nomes delas"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "é Aolá"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Jerusalém"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "é Aolibá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samaria",
@@ -13,84 +80,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18199,
-    "prompt_tokens_details": {
-      "cached_tokens": 16310
-    },
-    "total_tokens": 18698
-  },
-  "translation": "E os nomes delas ⟨eram⟩ Aolá, a mais velha, e Aolibá, sua irmã; e elas vieram a ser minhas, e deram à luz filhos e filhas; e os nomes delas ⟨são⟩ Shomron é Aolá, e Jerusalém é Aolibá.",
-  "tokens": [
-    {
-      "surface": "ושמותן",
-      "english": "E os nomes delas"
-    },
-    {
-      "surface": "אהלה",
-      "english": "Aolá"
-    },
-    {
-      "surface": "הגדולה",
-      "english": "a mais velha"
-    },
-    {
-      "surface": "ואהליבה",
-      "english": "e Aolibá"
-    },
-    {
-      "surface": "אחותה",
-      "english": "sua irmã"
-    },
-    {
-      "surface": "ותהיינה",
-      "english": "e elas vieram a ser"
-    },
-    {
-      "surface": "לי",
-      "english": "minhas"
-    },
-    {
-      "surface": "ותלדנה",
-      "english": "e deram à luz"
-    },
-    {
-      "surface": "בנים",
-      "english": "filhos"
-    },
-    {
-      "surface": "ובנות",
-      "english": "e filhas"
-    },
-    {
-      "surface": "ושמותן",
-      "english": "e os nomes delas"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomron"
-    },
-    {
-      "surface": "אהלה",
-      "english": "é Aolá"
-    },
-    {
-      "surface": "וירושלם",
-      "english": "e Jerusalém"
-    },
-    {
-      "surface": "אהליבה",
-      "english": "é Aolibá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:26:43.766057041Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

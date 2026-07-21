@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 35:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 455,
-    "prompt_tokens": 70305,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70760
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:50.254825642Z",
   "translation": "Sejam ⟨como⟩ palha ⟨diante⟩ do vento, e ⟨o⟩ malaj de YHWH os dispersando.",
   "tokens": [
     {
       "surface": "יהיו",
-      "english": "Sejam"
+      "gloss": "Sejam"
     },
     {
       "surface": "כמץ",
-      "english": "como palha"
+      "gloss": "como palha"
     },
     {
       "surface": "לפני",
-      "english": "diante"
+      "gloss": "diante"
     },
     {
       "surface": "רוח",
-      "english": "do vento"
+      "gloss": "do vento"
     },
     {
       "surface": "ומלאך",
-      "english": "e o malaj"
+      "gloss": "e o malaj"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "דוחה",
-      "english": "os dispersando"
+      "gloss": "os dispersando"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:50.254825642Z",
-  "model": "glm-4.5"
+  ]
 }

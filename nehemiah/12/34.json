@@ -1,9 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "nehemiah 12:34",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 12,
+  "verse": 34,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:28:17.547565412Z",
+  "translation": "Yehudá e ⟨o⟩ Benjamim e ⟨o⟩ Shemaia e ⟨o⟩ Jeremias",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "e ⟨o⟩ Benjamim"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "e ⟨o⟩ Shemaia"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "e ⟨o⟩ Jeremias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,40 +36,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 176,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 49268,
-    "prompt_tokens_details": {
-      "cached_tokens": 48509
-    },
-    "total_tokens": 49444
-  },
-  "translation": "Yehudá e ⟨o⟩ Benjamim e ⟨o⟩ Shemaia e ⟨o⟩ Jeremias",
-  "tokens": [
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "ובנימן",
-      "english": "e ⟨o⟩ Benjamim"
-    },
-    {
-      "surface": "ושמעיה",
-      "english": "e ⟨o⟩ Shemaia"
-    },
-    {
-      "surface": "וירמיה",
-      "english": "e ⟨o⟩ Jeremias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:28:17.547565412Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

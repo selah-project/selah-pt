@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "deuteronomy 27:11",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 509,
-    "prompt_tokens": 24890,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25399
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:28:51.670731963Z",
   "translation": "E Moshé ordenou ⟨את⟩ o povo naquele dia, dizendo:",
   "tokens": [
     {
       "surface": "ויצו",
-      "english": "E ordenou"
+      "gloss": "E ordenou"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o povo"
     },
     {
       "surface": "העם",
-      "english": "o povo"
+      "gloss": "o povo"
     },
     {
       "surface": "ביום",
-      "english": "naquele dia"
+      "gloss": "naquele dia"
     },
     {
       "surface": "ההוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לאמר",
-      "english": ", dizendo:"
+      "gloss": ", dizendo:"
     }
-  ],
-  "timestamp": "2026-07-16T13:28:51.670731963Z",
-  "model": "glm-4.5"
+  ]
 }

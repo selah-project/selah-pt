@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "ezra 3:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 3,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:04:41.093468155Z",
+  "translation": "E ⟨o⟩ sétimo mês chegou, e ⟨os⟩ filhos de Yisrael ⟨estavam⟩ nas suas cidades, e ⟨o⟩ povo se ajuntou como ⟨um⟩ só ⟨homem⟩ ⟨para⟩ Yerushalayim",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "E ⟨o⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "sétimo mês"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "chegou"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e ⟨os⟩ filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "⟨estavam⟩ nas suas cidades"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "e ⟨o⟩ povo se ajuntou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "como ⟨um⟩"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "só ⟨homem⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jerusalém"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,72 +75,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45267,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 45860
-  },
-  "translation": "E ⟨o⟩ sétimo mês chegou, e ⟨os⟩ filhos de Yisrael ⟨estavam⟩ nas suas cidades, e ⟨o⟩ povo se ajuntou como ⟨um⟩ só ⟨homem⟩ ⟨para⟩ Yerushalayim",
-  "tokens": [
-    {
-      "surface": "ויגע",
-      "english": "E ⟨o⟩"
-    },
-    {
-      "surface": "החדש",
-      "english": "sétimo mês"
-    },
-    {
-      "surface": "השביעי",
-      "english": "chegou"
-    },
-    {
-      "surface": "ובני",
-      "english": "e ⟨os⟩ filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "בערים",
-      "english": "⟨estavam⟩ nas suas cidades"
-    },
-    {
-      "surface": "ויאספו",
-      "english": "e ⟨o⟩ povo se ajuntou"
-    },
-    {
-      "surface": "העם",
-      "english": "como ⟨um⟩"
-    },
-    {
-      "surface": "כאיש",
-      "english": "só ⟨homem⟩"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "Jerusalém"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:04:41.093468155Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 34:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 343,
-    "prompt_tokens": 70470,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70813
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:19.945509100Z",
   "translation": "Eu bendirei ⟨את⟩ YHWH em todo tempo; sempre ⟨estará⟩ o seu louvor na minha boca.",
   "tokens": [
     {
       "surface": "אברכה",
-      "english": "Eu bendirei"
+      "gloss": "Eu bendirei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בכל",
-      "english": "em todo"
+      "gloss": "em todo"
     },
     {
       "surface": "עת",
-      "english": "tempo"
+      "gloss": "tempo"
     },
     {
       "surface": "תמיד",
-      "english": "sempre"
+      "gloss": "sempre"
     },
     {
       "surface": "תהלתו",
-      "english": "o seu louvor"
+      "gloss": "o seu louvor"
     },
     {
       "surface": "בפי",
-      "english": "na minha boca"
+      "gloss": "na minha boca"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:19.945509100Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "isaiah 37:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 37,
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:41:22.764466489Z",
+  "translation": "E ⟨o⟩ remanescente escapado ⟨da⟩ casa de Yehudá ⟨que⟩ ficou ⟨por⟩ raiz para baixo e ⟨por⟩ fruto para cima;",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "E"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "⟨o⟩ remanescente escapado"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨da⟩ casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "⟨que⟩ ficou"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "⟨por⟩ raiz"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "para baixo"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e ⟨por⟩"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruto"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "para cima"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,64 +60,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19254,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19751
-  },
-  "translation": "E ⟨o⟩ remanescente escapado ⟨da⟩ casa de Yehudá ⟨que⟩ ficou ⟨por⟩ raiz para baixo e ⟨por⟩ fruto para cima;",
-  "tokens": [
-    {
-      "surface": "ויספה",
-      "english": "E"
-    },
-    {
-      "surface": "פליטת",
-      "english": "⟨o⟩ remanescente escapado"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨da⟩ casa"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "הנשארה",
-      "english": "⟨que⟩ ficou"
-    },
-    {
-      "surface": "שרש",
-      "english": "⟨por⟩ raiz"
-    },
-    {
-      "surface": "למטה",
-      "english": "para baixo"
-    },
-    {
-      "surface": "ועשה",
-      "english": "e ⟨por⟩"
-    },
-    {
-      "surface": "פרי",
-      "english": "fruto"
-    },
-    {
-      "surface": "למעלה",
-      "english": "para cima"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:41:22.764466489Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

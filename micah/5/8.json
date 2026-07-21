@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "micah 5:8",
   "book": "micah",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 397,
-    "prompt_tokens": 23420,
-    "prompt_tokens_details": {
-      "cached_tokens": 22016
-    },
-    "total_tokens": 23817
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:55:50.476139626Z",
   "translation": "Levante-se ⟨a⟩ tua mão sobre ⟨os⟩ teus adversários, e todos ⟨os⟩ teus inimigos serão cortados.",
   "tokens": [
     {
       "surface": "תָּרֹם",
-      "english": "Levante-se"
+      "gloss": "Levante-se"
     },
     {
       "surface": "יָדְ\/ךָ֖",
-      "english": "⟨a⟩ tua mão"
+      "gloss": "⟨a⟩ tua mão"
     },
     {
       "surface": "עַל",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "צָרֶ֑י\/ךָ",
-      "english": "⟨os⟩ teus adversários"
+      "gloss": "⟨os⟩ teus adversários"
     },
     {
       "surface": "וְ\/כָל",
-      "english": "e todos ⟨os⟩"
+      "gloss": "e todos ⟨os⟩"
     },
     {
       "surface": "אֹיְבֶ֖י\/ךָ",
-      "english": "teus inimigos"
+      "gloss": "teus inimigos"
     },
     {
       "surface": "יִכָּרֵֽתוּ",
-      "english": "serão cortados"
+      "gloss": "serão cortados"
     }
-  ],
-  "timestamp": "2026-07-16T16:55:50.476139626Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "numbers 1:31",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25457,
-    "prompt_tokens_details": {
-      "cached_tokens": 24321
-    },
-    "total_tokens": 25805
-  },
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:28:26.408746371Z",
   "translation": "Os ⟨são⟩ ⟨o⟩ seus contados, ⟨para⟩ a tribo de Zevulun: cinquenta e sete mil e quatrocentos.",
   "tokens": [
     {
       "surface": "פקדיהם",
-      "english": "Os ⟨são⟩ ⟨o⟩ seus contados"
+      "gloss": "Os ⟨são⟩ ⟨o⟩ seus contados"
     },
     {
       "surface": "למטה",
-      "english": "⟨para⟩ a tribo"
+      "gloss": "⟨para⟩ a tribo"
     },
     {
       "surface": "זבולן",
-      "english": "de Zevulun"
+      "gloss": "de Zevulun"
     },
     {
       "surface": "שבעה",
-      "english": "sete"
+      "gloss": "sete"
     },
     {
       "surface": "וחמשים",
-      "english": "e cinquenta"
+      "gloss": "e cinquenta"
     },
     {
       "surface": "אלף",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "וארבע",
-      "english": "e quatro"
+      "gloss": "e quatro"
     },
     {
       "surface": "מאות",
-      "english": "centos"
+      "gloss": "centos"
     }
-  ],
-  "timestamp": "2026-06-13T05:28:26.408746371Z",
-  "model": "glm-4.5"
+  ]
 }

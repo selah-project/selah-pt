@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 15:9",
   "book": "job",
-  "lang": "pt",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27392,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 27773
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:55:25.487082068Z",
   "translation": "O que sabes que não ⟨é⟩ conhecido ⟨por⟩ nós? Entendes ⟨o⟩ que não ⟨está⟩ conosco?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "O que"
+      "gloss": "O que"
     },
     {
       "surface": "ידעת",
-      "english": "sabes"
+      "gloss": "sabes"
     },
     {
       "surface": "ולא",
-      "english": "que não"
+      "gloss": "que não"
     },
     {
       "surface": "נדע",
-      "english": "⟨é⟩ conhecido ⟨por⟩ nós"
+      "gloss": "⟨é⟩ conhecido ⟨por⟩ nós"
     },
     {
       "surface": "תבין",
-      "english": "Entendes"
+      "gloss": "Entendes"
     },
     {
       "surface": "ולא",
-      "english": "⟨o⟩ que não"
+      "gloss": "⟨o⟩ que não"
     },
     {
       "surface": "עמנו",
-      "english": "⟨está⟩ conosco"
+      "gloss": "⟨está⟩ conosco"
     },
     {
       "surface": "הוא",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-06-14T04:55:25.487082068Z",
-  "model": "glm-4.5"
+  ]
 }

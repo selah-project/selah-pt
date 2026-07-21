@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 83:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 272,
-    "prompt_tokens": 70388,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70660
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:43:22.124123776Z",
   "translation": "Que disseram: Herdemos para nós ⟨as⟩ moradas de Elohim",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Que"
+      "gloss": "Que"
     },
     {
       "surface": "אמרו",
-      "english": "disseram"
+      "gloss": "disseram"
     },
     {
       "surface": "נירשה",
-      "english": "Herdemos"
+      "gloss": "Herdemos"
     },
     {
       "surface": "לנו",
-      "english": "para nós"
+      "gloss": "para nós"
     },
     {
       "surface": "את",
-      "english": "⟨as⟩",
+      "gloss": "⟨as⟩",
       "marks": "moradas"
     },
     {
       "surface": "נאות",
-      "english": "moradas"
+      "gloss": "moradas"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T17:43:22.124123776Z",
-  "model": "glm-4.5"
+  ]
 }

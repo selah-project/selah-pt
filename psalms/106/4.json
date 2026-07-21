@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 106:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62909,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63409
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:50:34.981624137Z",
   "translation": "Lembra-te de mim, YHWH, ⟨com⟩ o favor ⟨de⟩ ⟨teu⟩ povo; visita-me ⟨com⟩ ⟨tua⟩ salvação.",
   "tokens": [
     {
       "surface": "זכרני",
-      "english": "Lembra-te de mim"
+      "gloss": "Lembra-te de mim"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ברצון",
-      "english": "⟨com⟩ o favor ⟨de⟩"
+      "gloss": "⟨com⟩ o favor ⟨de⟩"
     },
     {
       "surface": "עמך",
-      "english": "⟨teu⟩ povo"
+      "gloss": "⟨teu⟩ povo"
     },
     {
       "surface": "פקדני",
-      "english": "visita-me"
+      "gloss": "visita-me"
     },
     {
       "surface": "בישועתך",
-      "english": "⟨com⟩ ⟨tua⟩ salvação"
+      "gloss": "⟨com⟩ ⟨tua⟩ salvação"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:50:34.981624137Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

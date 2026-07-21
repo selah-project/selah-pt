@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 94:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 398,
-    "prompt_tokens": 70298,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70696
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:44:01.218632509Z",
   "translation": "YHWH sabe ⟨os⟩ pensamentos de Adam, que eles ⟨são⟩ vaidade.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ידע",
-      "english": "sabe"
+      "gloss": "sabe"
     },
     {
       "surface": "מחשבות",
-      "english": "⟨os⟩ pensamentos"
+      "gloss": "⟨os⟩ pensamentos"
     },
     {
       "surface": "אדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "המה",
-      "english": "eles"
+      "gloss": "eles"
     },
     {
       "surface": "הבל",
-      "english": "⟨são⟩ vaidade"
+      "gloss": "⟨são⟩ vaidade"
     }
-  ],
-  "timestamp": "2026-07-16T17:44:01.218632509Z",
-  "model": "glm-4.5"
+  ]
 }

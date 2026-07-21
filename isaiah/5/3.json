@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 5:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 5,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:16:34.775385283Z",
+  "translation": "E agora, habitantes de Yerushalayim e homens de Yehudá, julgai, rogo-vos, ⟨entre⟩ mim e ⟨entre⟩ a minha vinha.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E agora"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "habitantes"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e homens"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "julgai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rogo-vos"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "⟨entre⟩ mim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "⟨entre⟩"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "a minha vinha"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -20,64 +67,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19325,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19741
-  },
-  "translation": "E agora, habitantes de Yerushalayim e homens de Yehudá, julgai, rogo-vos, ⟨entre⟩ mim e ⟨entre⟩ a minha vinha.",
-  "tokens": [
-    {
-      "surface": "ועתה",
-      "english": "E agora"
-    },
-    {
-      "surface": "יושב",
-      "english": "habitantes"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    },
-    {
-      "surface": "ואיש",
-      "english": "e homens"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "שפטו",
-      "english": "julgai"
-    },
-    {
-      "surface": "נא",
-      "english": "rogo-vos"
-    },
-    {
-      "surface": "ביני",
-      "english": "⟨entre⟩ mim"
-    },
-    {
-      "surface": "ובין",
-      "english": "⟨entre⟩"
-    },
-    {
-      "surface": "כרמי",
-      "english": "a minha vinha"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:16:34.775385283Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

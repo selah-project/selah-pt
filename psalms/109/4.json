@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 109:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62705,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63230
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:54:04.840362509Z",
   "translation": "Por meu amor eles são meus adversários ⟨são⟩; mas eu ⟨sou⟩ ⟨uma⟩ súplica ⟨de⟩ ⟨oração⟩.",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "Por",
+      "gloss": "Por",
       "marks": "amor"
     },
     {
       "surface": "אהבתי",
-      "english": "meu amor"
+      "gloss": "meu amor"
     },
     {
       "surface": "ישטנוני",
-      "english": "eles são meus adversários",
+      "gloss": "eles são meus adversários",
       "marks": "adversários"
     },
     {
       "surface": "ואני",
-      "english": "mas eu ⟨sou⟩ ⟨uma⟩"
+      "gloss": "mas eu ⟨sou⟩ ⟨uma⟩"
     },
     {
       "surface": "תפלה",
-      "english": "súplica ⟨de⟩ ⟨oração⟩"
+      "gloss": "súplica ⟨de⟩ ⟨oração⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:54:04.840362509Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

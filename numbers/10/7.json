@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "numbers 10:7",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 383,
-    "prompt_tokens": 25433,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25816
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:09:37.190115880Z",
   "translation": "E na reunião ⟨do⟩ povo, tocai ⟨o⟩ shofar, mas não toqueis ⟨o⟩ alarme",
   "tokens": [
     {
       "surface": "ובהקהיל",
-      "english": "E na reunião"
+      "gloss": "E na reunião"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הקהל"
     },
     {
       "surface": "הקהל",
-      "english": "povo"
+      "gloss": "povo"
     },
     {
       "surface": "תתקעו",
-      "english": "tocais"
+      "gloss": "tocais"
     },
     {
       "surface": "ולא",
-      "english": "mas não"
+      "gloss": "mas não"
     },
     {
       "surface": "תריעו",
-      "english": "toqueis"
+      "gloss": "toqueis"
     }
-  ],
-  "timestamp": "2026-07-16T17:09:37.190115880Z",
-  "model": "glm-4.5"
+  ]
 }

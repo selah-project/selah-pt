@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "genesis 11:14",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 296,
-    "prompt_tokens": 28694,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28990
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:43:19.182415004Z",
   "translation": "E Shelah viveu trinta anos e gerou ⟨את⟩ Ever",
   "tokens": [
     {
       "surface": "ושלח",
-      "english": "E Shelah"
+      "gloss": "E Shelah"
     },
     {
       "surface": "חי",
-      "english": "viveu"
+      "gloss": "viveu"
     },
     {
       "surface": "שלשים",
-      "english": "trinta"
+      "gloss": "trinta"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "ויולד",
-      "english": "e gerou"
+      "gloss": "e gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Ever"
     },
     {
       "surface": "עבר",
-      "english": "Ever"
+      "gloss": "Ever"
     }
-  ],
-  "timestamp": "2026-07-16T14:43:19.182415004Z",
-  "model": "glm-4.5"
+  ]
 }

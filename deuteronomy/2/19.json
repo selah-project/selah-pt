@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "deuteronomy 2:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 2,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:52:46.452107031Z",
+  "translation": "E ⟨quando⟩ te aproximares dos ⟨filhos⟩ ⟨de⟩ Amon, ⟨não⟩ os perturbes ⟨nem⟩ ⟨contendas⟩ com ⟨eles⟩, pois ⟨não⟩ ⟨tei⟩ dado ⟨da⟩ terra ⟨dos⟩ ⟨filhos⟩ ⟨de⟩ Amon ⟨a⟩ ti ⟨por⟩ herança, pois ⟨aos⟩ ⟨filhos⟩ ⟨de⟩ Lot ⟨tenho⟩ dado ⟨por⟩ herança.",
+  "tokens": [
+    {
+      "surface": "וקרבת",
+      "gloss": "E ⟨quando⟩ te aproximares"
+    },
+    {
+      "surface": "מול",
+      "gloss": "dos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨filhos⟩"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "⟨de⟩ Amon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨não⟩"
+    },
+    {
+      "surface": "תצרם",
+      "gloss": "os perturbes"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨nem⟩"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "⟨contendas⟩"
+    },
+    {
+      "surface": "בם",
+      "gloss": "com ⟨eles⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨não⟩"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨tei⟩ dado"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨da⟩ terra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ ⟨filhos⟩"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "⟨de⟩ Amon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨a⟩ ti"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "⟨por⟩ herança"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨aos⟩ ⟨filhos⟩"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "⟨de⟩ Lot"
+    },
+    {
+      "surface": "נתתיה",
+      "gloss": "⟨tenho⟩ dado"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "⟨por⟩ herança"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Ló",
@@ -13,112 +108,6 @@
       "hebrew": "לוט"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 1053,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18969,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 20022
-  },
-  "translation": "E ⟨quando⟩ te aproximares dos ⟨filhos⟩ ⟨de⟩ Amon, ⟨não⟩ os perturbes ⟨nem⟩ ⟨contendas⟩ com ⟨eles⟩, pois ⟨não⟩ ⟨tei⟩ dado ⟨da⟩ terra ⟨dos⟩ ⟨filhos⟩ ⟨de⟩ Amon ⟨a⟩ ti ⟨por⟩ herança, pois ⟨aos⟩ ⟨filhos⟩ ⟨de⟩ Lot ⟨tenho⟩ dado ⟨por⟩ herança.",
-  "tokens": [
-    {
-      "surface": "וקרבת",
-      "english": "E ⟨quando⟩ te aproximares"
-    },
-    {
-      "surface": "מול",
-      "english": "dos"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨filhos⟩"
-    },
-    {
-      "surface": "עמון",
-      "english": "⟨de⟩ Amon"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨não⟩"
-    },
-    {
-      "surface": "תצרם",
-      "english": "os perturbes"
-    },
-    {
-      "surface": "ואל",
-      "english": "⟨nem⟩"
-    },
-    {
-      "surface": "תתגר",
-      "english": "⟨contendas⟩"
-    },
-    {
-      "surface": "בם",
-      "english": "com ⟨eles⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨não⟩"
-    },
-    {
-      "surface": "אתן",
-      "english": "⟨tei⟩ dado"
-    },
-    {
-      "surface": "מארץ",
-      "english": "⟨da⟩ terra"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ ⟨filhos⟩"
-    },
-    {
-      "surface": "עמון",
-      "english": "⟨de⟩ Amon"
-    },
-    {
-      "surface": "לך",
-      "english": "⟨a⟩ ti"
-    },
-    {
-      "surface": "ירשה",
-      "english": "⟨por⟩ herança"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨aos⟩ ⟨filhos⟩"
-    },
-    {
-      "surface": "לוט",
-      "english": "⟨de⟩ Lot"
-    },
-    {
-      "surface": "נתתיה",
-      "english": "⟨tenho⟩ dado"
-    },
-    {
-      "surface": "ירשה",
-      "english": "⟨por⟩ herança"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:52:46.452107031Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

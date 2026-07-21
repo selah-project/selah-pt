@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 132:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 132,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:08:03.122338495Z",
+  "translation": "Se ⟨os⟩ teus filhos guardarem ⟨o⟩ meu Brit e ⟨o⟩ meu testemunho que lhes ensinarei, ⟨os⟩ seus filhos também ⟨irão⟩ sentar-se ⟨no⟩ teu trono ⟨para⟩ sempre.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "⟨os⟩ teus filhos guardarem"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "teus filhos"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "⟨o⟩ meu Brit"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "e ⟨o⟩ meu testemunho"
+    },
+    {
+      "surface": "זו",
+      "gloss": "que"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "lhes ensinarei"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "⟨os⟩ seus filhos"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "⟨para⟩ sempre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "⟨irão⟩ sentar-se ⟨no⟩"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "teu trono"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨para⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,80 +76,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 132,
-  "usage": {
-    "completion_tokens": 576,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63501,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 64077
-  },
-  "translation": "Se ⟨os⟩ teus filhos guardarem ⟨o⟩ meu Brit e ⟨o⟩ meu testemunho que lhes ensinarei, ⟨os⟩ seus filhos também ⟨irão⟩ sentar-se ⟨no⟩ teu trono ⟨para⟩ sempre.",
-  "tokens": [
-    {
-      "surface": "אם",
-      "english": "Se"
-    },
-    {
-      "surface": "ישמרו",
-      "english": "⟨os⟩ teus filhos guardarem"
-    },
-    {
-      "surface": "בניך",
-      "english": "teus filhos"
-    },
-    {
-      "surface": "בריתי",
-      "english": "⟨o⟩ meu Brit"
-    },
-    {
-      "surface": "ועדתי",
-      "english": "e ⟨o⟩ meu testemunho"
-    },
-    {
-      "surface": "זו",
-      "english": "que"
-    },
-    {
-      "surface": "אלמדם",
-      "english": "lhes ensinarei"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "בניהם",
-      "english": "⟨os⟩ seus filhos"
-    },
-    {
-      "surface": "עדי",
-      "english": "⟨para⟩ sempre"
-    },
-    {
-      "surface": "עד",
-      "english": "sempre"
-    },
-    {
-      "surface": "ישבו",
-      "english": "⟨irão⟩ sentar-se ⟨no⟩"
-    },
-    {
-      "surface": "לכסא",
-      "english": "teu trono"
-    },
-    {
-      "surface": "לך",
-      "english": "⟨para⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:08:03.122338495Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

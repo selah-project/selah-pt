@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 13:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 13,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:52:10.037303861Z",
+  "translation": "Santifica para mim todo o primeiro ⟨que é⟩ o que abre a matriz entre os filhos de Yisrael, tanto do homem como da besta; ⟨ele⟩ ⟨é⟩ meu.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Santifica"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para mim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "primeiro"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "que é o que abre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "matriz"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "entre os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "tanto do homem"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "como da besta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ele⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17333,
-    "prompt_tokens_details": {
-      "cached_tokens": 15859
-    },
-    "total_tokens": 17810
-  },
-  "translation": "Santifica para mim todo o primeiro ⟨que é⟩ o que abre a matriz entre os filhos de Yisrael, tanto do homem como da besta; ⟨ele⟩ ⟨é⟩ meu.",
-  "tokens": [
-    {
-      "surface": "קדש",
-      "english": "Santifica"
-    },
-    {
-      "surface": "לי",
-      "english": "para mim"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "בכור",
-      "english": "primeiro"
-    },
-    {
-      "surface": "פטר",
-      "english": "que é o que abre"
-    },
-    {
-      "surface": "כל",
-      "english": "o"
-    },
-    {
-      "surface": "רחם",
-      "english": "matriz"
-    },
-    {
-      "surface": "בבני",
-      "english": "entre os filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "באדם",
-      "english": "tanto do homem"
-    },
-    {
-      "surface": "ובבהמה",
-      "english": "como da besta"
-    },
-    {
-      "surface": "לי",
-      "english": "meu"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨ele⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:52:10.037303861Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

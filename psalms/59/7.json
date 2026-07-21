@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 59:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62846,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63371
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:17:52.455805719Z",
   "translation": "Eles retornam ⟨no⟩ ⟨período⟩ da tarde: fazem barulho ⟨como⟩ um cão e ⟨se⟩ voltam ⟨ao⟩ redor ⟨da⟩ cidade",
   "tokens": [
     {
       "surface": "ישובו",
-      "english": "Eles retornam"
+      "gloss": "Eles retornam"
     },
     {
       "surface": "לערב",
-      "english": "⟨no⟩ ⟨período⟩ da tarde",
+      "gloss": "⟨no⟩ ⟨período⟩ da tarde",
       "marks": "tarde"
     },
     {
       "surface": "יהמו",
-      "english": "fazem barulho"
+      "gloss": "fazem barulho"
     },
     {
       "surface": "ככלב",
-      "english": "⟨como⟩ um cão",
+      "gloss": "⟨como⟩ um cão",
       "marks": "cão"
     },
     {
       "surface": "ויסובבו",
-      "english": "e ⟨se⟩ voltam ⟨ao⟩ redor"
+      "gloss": "e ⟨se⟩ voltam ⟨ao⟩ redor"
     },
     {
       "surface": "עיר",
-      "english": "⟨da⟩ cidade",
+      "gloss": "⟨da⟩ cidade",
       "marks": "cidade"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:17:52.455805719Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

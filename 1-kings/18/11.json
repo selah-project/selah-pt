@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-kings 18:11",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 378,
-    "prompt_tokens": 69747,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 70125
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:35:22.772803153Z",
   "translation": "E agora ⟨tu⟩ dizes: vai, dize ao teu senhor: eis, Eliyahu está aqui",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "E agora"
+      "gloss": "E agora"
     },
     {
       "surface": "אתה",
-      "english": "⟨tu⟩"
+      "gloss": "⟨tu⟩"
     },
     {
       "surface": "אמר",
-      "english": "dizes"
+      "gloss": "dizes"
     },
     {
       "surface": "לך",
-      "english": "vai"
+      "gloss": "vai"
     },
     {
       "surface": "אמר",
-      "english": "dize"
+      "gloss": "dize"
     },
     {
       "surface": "לאדניך",
-      "english": "ao teu senhor"
+      "gloss": "ao teu senhor"
     },
     {
       "surface": "הנה",
-      "english": "eis"
+      "gloss": "eis"
     },
     {
       "surface": "אליהו",
-      "english": "Eliyahu"
+      "gloss": "Eliyahu"
     }
-  ],
-  "timestamp": "2026-07-16T11:35:22.772803153Z",
-  "model": "glm-4.5"
+  ]
 }

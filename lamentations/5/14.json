@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "lamentations 5:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "lamentations",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 31861,
-    "prompt_tokens_details": {
-      "cached_tokens": 31099
-    },
-    "total_tokens": 32146
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:28:13.444955280Z",
   "translation": "Os anciãos ⟨têm⟩ cessado ⟨da⟩ porta, os jovens ⟨da⟩ sua canção",
   "tokens": [
     {
       "surface": "זקנים",
-      "english": "Os anciãos"
+      "gloss": "Os anciãos"
     },
     {
       "surface": "משער",
-      "english": "⟨da⟩ porta",
+      "gloss": "⟨da⟩ porta",
       "marks": "porta"
     },
     {
       "surface": "שבתו",
-      "english": "⟨têm⟩ cessado"
+      "gloss": "⟨têm⟩ cessado"
     },
     {
       "surface": "בחורים",
-      "english": "os jovens"
+      "gloss": "os jovens"
     },
     {
       "surface": "מנגינתם",
-      "english": "⟨da⟩ sua canção",
+      "gloss": "⟨da⟩ sua canção",
       "marks": "canção"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:28:13.444955280Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

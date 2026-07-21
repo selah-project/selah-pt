@@ -1,87 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-kings 19:1",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 499,
-    "prompt_tokens": 70608,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 71107
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:35:58.128210241Z",
   "translation": "E Ajáv contou a Izével tudo o que Eliyahu tinha feito, e ⟨também⟩ como ele tinha matado ⟨את⟩ todos os profetas ⟨pela⟩ espada",
   "tokens": [
     {
       "surface": "ויגד",
-      "english": "e contou"
+      "gloss": "e contou"
     },
     {
       "surface": "אחאב",
-      "english": "Ajáv"
+      "gloss": "Ajáv"
     },
     {
       "surface": "לאיזבל",
-      "english": "a Izével"
+      "gloss": "a Izével"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todos"
     },
     {
       "surface": "כל",
-      "english": "tudo"
+      "gloss": "tudo"
     },
     {
       "surface": "אשר",
-      "english": "o que"
+      "gloss": "o que"
     },
     {
       "surface": "עשה",
-      "english": "tinha feito"
+      "gloss": "tinha feito"
     },
     {
       "surface": "אליהו",
-      "english": "Eliyahu"
+      "gloss": "Eliyahu"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨também⟩"
+      "gloss": "e ⟨também⟩"
     },
     {
       "surface": "כל",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "הרג",
-      "english": "ele tinha matado"
+      "gloss": "ele tinha matado"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todos os profetas"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "הנביאים",
-      "english": "os profetas"
+      "gloss": "os profetas"
     },
     {
       "surface": "בחרב",
-      "english": "⟨pela⟩ espada"
+      "gloss": "⟨pela⟩ espada"
     }
-  ],
-  "timestamp": "2026-07-16T11:35:58.128210241Z",
-  "model": "glm-4.5"
+  ]
 }

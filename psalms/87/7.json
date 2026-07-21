@@ -1,33 +1,21 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 87:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 87,
-  "usage": {
-    "completion_tokens": 610,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62674,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63284
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:37:30.380870564Z",
   "translation": "E os cantores, como ⟨os⟩ dançarinos: ⟨todas⟩ ⟨as⟩ minhas fontes estão em ti.",
   "tokens": [
     {
       "surface": "ושרים",
-      "english": "E os cantores"
+      "gloss": "E os cantores"
     },
     {
       "surface": "כחללים",
-      "english": "como ⟨os⟩ dançarinos",
+      "gloss": "como ⟨os⟩ dançarinos",
       "notes": [
         {
           "kind": "substitution",
@@ -38,7 +26,7 @@
     },
     {
       "surface": "כל",
-      "english": "⟨todas⟩ ⟨as⟩",
+      "gloss": "⟨todas⟩ ⟨as⟩",
       "notes": [
         {
           "kind": "addition",
@@ -49,7 +37,7 @@
     },
     {
       "surface": "מעיני",
-      "english": "minhas fontes",
+      "gloss": "minhas fontes",
       "notes": [
         {
           "kind": "substitution",
@@ -60,10 +48,11 @@
     },
     {
       "surface": "בך",
-      "english": "em ti"
+      "gloss": "em ti"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:37:30.380870564Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

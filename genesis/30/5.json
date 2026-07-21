@@ -1,9 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 30:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 30,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:11:53.702599765Z",
+  "translation": "E Bilháh concebeu e deu à luz ⟨para⟩ Jacó um filho",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "E concebeu"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "E Bilháh"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e deu à luz"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "⟨para⟩ Jacó",
+      "marks": "um filho"
+    },
+    {
+      "surface": "בן",
+      "gloss": "um filho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Bilha",
@@ -13,45 +41,6 @@
       "hebrew": "בלהה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21048,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21333
-  },
-  "translation": "E Bilháh concebeu e deu à luz ⟨para⟩ Jacó um filho",
-  "tokens": [
-    {
-      "surface": "ותהר",
-      "english": "E concebeu"
-    },
-    {
-      "surface": "בלהה",
-      "english": "E Bilháh"
-    },
-    {
-      "surface": "ותלד",
-      "english": "e deu à luz"
-    },
-    {
-      "surface": "ליעקב",
-      "english": "⟨para⟩ Jacó",
-      "marks": "um filho"
-    },
-    {
-      "surface": "בן",
-      "english": "um filho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:11:53.702599765Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

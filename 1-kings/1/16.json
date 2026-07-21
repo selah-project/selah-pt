@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-kings 1:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 1,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:09:13.859110058Z",
+  "translation": "E Bat-Sheva ⟨se⟩ inclinou e ⟨se⟩ prostrou diante do rei; e o rei disse: Que ⟨há⟩ contigo?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "E Bate-Seba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "⟨se⟩ inclinou e ⟨se⟩ prostrou"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "diante do rei"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Que"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨há⟩ contigo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Bate-Seba",
@@ -13,60 +56,6 @@
       "hebrew": "בת־שבע"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62415,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62790
-  },
-  "translation": "E Bat-Sheva ⟨se⟩ inclinou e ⟨se⟩ prostrou diante do rei; e o rei disse: Que ⟨há⟩ contigo?",
-  "tokens": [
-    {
-      "surface": "ותקד",
-      "english": "E Bate-Seba"
-    },
-    {
-      "surface": "בת",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "שבע",
-      "english": "Bat-Sheva"
-    },
-    {
-      "surface": "ותשתחו",
-      "english": "⟨se⟩ inclinou e ⟨se⟩ prostrou"
-    },
-    {
-      "surface": "למלך",
-      "english": "diante do rei"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "מה",
-      "english": "Que"
-    },
-    {
-      "surface": "לך",
-      "english": "⟨há⟩ contigo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:09:13.859110058Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

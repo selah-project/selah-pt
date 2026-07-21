@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 26:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62852,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63263
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:55:32.985550483Z",
   "translation": "Odiei ⟨a⟩ congregação ⟨dos⟩ malfeitores e com ⟨os⟩ ímpios não me assentarei.",
   "tokens": [
     {
       "surface": "שנאתי",
-      "english": "Odiei"
+      "gloss": "Odiei"
     },
     {
       "surface": "קהל",
-      "english": "⟨a⟩ congregação"
+      "gloss": "⟨a⟩ congregação"
     },
     {
       "surface": "מרעים",
-      "english": "⟨dos⟩ malfeitores"
+      "gloss": "⟨dos⟩ malfeitores"
     },
     {
       "surface": "ועם",
-      "english": "e com"
+      "gloss": "e com"
     },
     {
       "surface": "רשעים",
-      "english": "⟨os⟩ ímpios"
+      "gloss": "⟨os⟩ ímpios"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "אשב",
-      "english": "me assentarei"
+      "gloss": "me assentarei"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:55:32.985550483Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

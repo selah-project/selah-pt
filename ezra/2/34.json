@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "ezra 2:34",
   "book": "ezra",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 274,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51965,
-    "prompt_tokens_details": {
-      "cached_tokens": 51187
-    },
-    "total_tokens": 52239
-  },
+  "verse": 34,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:58:50.422500111Z",
   "translation": "Os filhos de Jericó, trezentos e quarenta e cinco",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Os filhos de"
+      "gloss": "Os filhos de"
     },
     {
       "surface": "ירחו",
-      "english": "Jericó"
+      "gloss": "Jericó"
     },
     {
       "surface": "שלש",
-      "english": "trezentos"
+      "gloss": "trezentos"
     },
     {
       "surface": "מאות",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "ארבעים",
-      "english": "quarenta"
+      "gloss": "quarenta"
     },
     {
       "surface": "וחמשה",
-      "english": "e cinco"
+      "gloss": "e cinco"
     }
-  ],
-  "timestamp": "2026-06-14T04:58:50.422500111Z",
-  "model": "glm-4.5"
+  ]
 }

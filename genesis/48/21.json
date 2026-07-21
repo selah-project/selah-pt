@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "genesis 48:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 48,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:33:11.509104024Z",
+  "translation": "E disse Yisrael a Yosef: Eis que ⟨estou⟩ morrendo, e Elohim será convosco, e vos fará voltar ⟨את⟩ à terra de vossos pais.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef:"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨estou⟩"
+    },
+    {
+      "surface": "מת",
+      "gloss": "morrendo,"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e será"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "convosco,"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "e vos fará voltar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "convosco"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "de vossos pais."
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,85 +88,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22093,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22573
-  },
-  "translation": "E disse Yisrael a Yosef: Eis que ⟨estou⟩ morrendo, e Elohim será convosco, e vos fará voltar ⟨את⟩ à terra de vossos pais.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef:"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis que"
-    },
-    {
-      "surface": "אנכי",
-      "english": "⟨estou⟩"
-    },
-    {
-      "surface": "מת",
-      "english": "morrendo,"
-    },
-    {
-      "surface": "והיה",
-      "english": "e será"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "עמכם",
-      "english": "convosco,"
-    },
-    {
-      "surface": "והשיב",
-      "english": "e vos fará voltar"
-    },
-    {
-      "surface": "אתכם",
-      "english": "⟨את⟩",
-      "marks": "convosco"
-    },
-    {
-      "surface": "אל",
-      "english": "à"
-    },
-    {
-      "surface": "ארץ",
-      "english": "terra"
-    },
-    {
-      "surface": "אבתיכם",
-      "english": "de vossos pais."
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:33:11.509104024Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

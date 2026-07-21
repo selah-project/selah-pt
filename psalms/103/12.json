@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 103:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 479,
-    "prompt_tokens": 70454,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70933
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:46.326749410Z",
   "translation": "Como ⟨o⟩ Oriente está distante do Ocidente, assim afastou de nós as nossas transgressões.",
   "tokens": [
     {
       "surface": "כרחק",
-      "english": "como ... distante"
+      "gloss": "como ... distante"
     },
     {
       "surface": "מזרח",
-      "english": "o Oriente"
+      "gloss": "o Oriente"
     },
     {
       "surface": "ממערב",
-      "english": "do Ocidente"
+      "gloss": "do Ocidente"
     },
     {
       "surface": "הרחיק",
-      "english": "afastou"
+      "gloss": "afastou"
     },
     {
       "surface": "ממנו",
-      "english": "de nós"
+      "gloss": "de nós"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "as nossas transgressões"
     },
     {
       "surface": "פשעינו",
-      "english": "as nossas transgressões"
+      "gloss": "as nossas transgressões"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:46.326749410Z",
-  "model": "glm-4.5"
+  ]
 }

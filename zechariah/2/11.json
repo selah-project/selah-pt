@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "zechariah 2:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "zechariah",
+  "chapter": 2,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:28:31.045555867Z",
+  "translation": "Ei! Tzion, ⟨é⟩ escapa, ⟨tu que⟩ habitas ⟨com⟩ ⟨a⟩ filha ⟨de⟩ Bavel",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ei!"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "escapa"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "⟨tu que⟩ habitas"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⟨a⟩ filha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "⟨de⟩ Bavel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sião",
@@ -20,48 +51,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16106,
-    "prompt_tokens_details": {
-      "cached_tokens": 15081
-    },
-    "total_tokens": 16489
-  },
-  "translation": "Ei! Tzion, ⟨é⟩ escapa, ⟨tu que⟩ habitas ⟨com⟩ ⟨a⟩ filha ⟨de⟩ Bavel",
-  "tokens": [
-    {
-      "surface": "הוי",
-      "english": "Ei!"
-    },
-    {
-      "surface": "ציון",
-      "english": "Tzion"
-    },
-    {
-      "surface": "המלטי",
-      "english": "escapa"
-    },
-    {
-      "surface": "יושבת",
-      "english": "⟨tu que⟩ habitas"
-    },
-    {
-      "surface": "בת",
-      "english": "⟨a⟩ filha"
-    },
-    {
-      "surface": "בבל",
-      "english": "⟨de⟩ Bavel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:28:31.045555867Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

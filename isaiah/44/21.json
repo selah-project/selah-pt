@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "isaiah 44:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 44,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:47:31.914745125Z",
+  "translation": "Lembra destas coisas, ó Yaakov e Yisrael, pois ⟨és⟩ meu servo: Eu te formei, servo ⟨para⟩ mim ⟨és⟩: ó Yisrael, não te esqueças de mim.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Lembra"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "destas coisas"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ó Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "e Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "⟨és⟩ meu servo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨és⟩"
+    },
+    {
+      "surface": "יצרתיך",
+      "gloss": "Eu te formei"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨para⟩ mim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨és⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ó Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "תנשני",
+      "gloss": "te esqueças de mim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacó",
@@ -20,80 +83,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 44,
-  "usage": {
-    "completion_tokens": 540,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19652,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20192
-  },
-  "translation": "Lembra destas coisas, ó Yaakov e Yisrael, pois ⟨és⟩ meu servo: Eu te formei, servo ⟨para⟩ mim ⟨és⟩: ó Yisrael, não te esqueças de mim.",
-  "tokens": [
-    {
-      "surface": "זכר",
-      "english": "Lembra"
-    },
-    {
-      "surface": "אלה",
-      "english": "destas coisas"
-    },
-    {
-      "surface": "יעקב",
-      "english": "ó Yaakov"
-    },
-    {
-      "surface": "וישראל",
-      "english": "e Israel"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "עבדי",
-      "english": "⟨és⟩ meu servo"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨és⟩"
-    },
-    {
-      "surface": "יצרתיך",
-      "english": "Eu te formei"
-    },
-    {
-      "surface": "עבד",
-      "english": "servo"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨para⟩ mim"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨és⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "ó Yisrael"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "תנשני",
-      "english": "te esqueças de mim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:47:31.914745125Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

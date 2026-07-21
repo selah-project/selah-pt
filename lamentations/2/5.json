@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "lamentations 2:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "lamentations",
+  "chapter": 2,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:25:03.864438207Z",
+  "translation": "Adonai foi como um inimigo, devorou Yisrael, devorou ⟨את⟩ todas as suas cidadelas, destruiu ⟨as⟩ suas fortalezas, e aumentou na Filha de Yehudá ⟨o⟩ luto e ⟨o⟩ pranto.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Foi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כאויב",
+      "gloss": "como um inimigo"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "devorou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "devorou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todas"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "as suas cidadelas"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "destruiu"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "as suas fortalezas"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "e aumentou"
+    },
+    {
+      "surface": "בבת",
+      "gloss": "na Filha de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "o luto"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "e o pranto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,84 +87,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 607,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 32938,
-    "prompt_tokens_details": {
-      "cached_tokens": 31099
-    },
-    "total_tokens": 33545
-  },
-  "translation": "Adonai foi como um inimigo, devorou Yisrael, devorou ⟨את⟩ todas as suas cidadelas, destruiu ⟨as⟩ suas fortalezas, e aumentou na Filha de Yehudá ⟨o⟩ luto e ⟨o⟩ pranto.",
-  "tokens": [
-    {
-      "surface": "היה",
-      "english": "Foi"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "כאויב",
-      "english": "como um inimigo"
-    },
-    {
-      "surface": "בלע",
-      "english": "devorou"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בלע",
-      "english": "devorou"
-    },
-    {
-      "surface": "כל",
-      "english": "todas"
-    },
-    {
-      "surface": "ארמנותיה",
-      "english": "as suas cidadelas"
-    },
-    {
-      "surface": "שחת",
-      "english": "destruiu"
-    },
-    {
-      "surface": "מבצריו",
-      "english": "as suas fortalezas"
-    },
-    {
-      "surface": "ואניה",
-      "english": "e aumentou"
-    },
-    {
-      "surface": "בבת",
-      "english": "na Filha de"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "תאניה",
-      "english": "o luto"
-    },
-    {
-      "surface": "ואניה",
-      "english": "e o pranto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:25:03.864438207Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

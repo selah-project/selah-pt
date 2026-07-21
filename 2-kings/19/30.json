@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "2-kings 19:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 19,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:06:28.941113381Z",
+  "translation": "E ⟨o⟩ remanescente que escapou ⟨da⟩ casa de Yehudá ⟨o⟩ que ficou ⟨irá⟩ lançar raiz para baixo e dar fruto para cima",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "E ⟨o⟩ remanescente que escapou"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "que escapou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "⟨o⟩ que ficou"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "lançar raiz"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "para baixo"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e dar"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruto"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "para cima"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,64 +60,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17037,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17511
-  },
-  "translation": "E ⟨o⟩ remanescente que escapou ⟨da⟩ casa de Yehudá ⟨o⟩ que ficou ⟨irá⟩ lançar raiz para baixo e dar fruto para cima",
-  "tokens": [
-    {
-      "surface": "ויספה",
-      "english": "E ⟨o⟩ remanescente que escapou"
-    },
-    {
-      "surface": "פליטת",
-      "english": "que escapou"
-    },
-    {
-      "surface": "בית",
-      "english": "casa"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "הנשארה",
-      "english": "⟨o⟩ que ficou"
-    },
-    {
-      "surface": "שרש",
-      "english": "lançar raiz"
-    },
-    {
-      "surface": "למטה",
-      "english": "para baixo"
-    },
-    {
-      "surface": "ועשה",
-      "english": "e dar"
-    },
-    {
-      "surface": "פרי",
-      "english": "fruto"
-    },
-    {
-      "surface": "למעלה",
-      "english": "para cima"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:06:28.941113381Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

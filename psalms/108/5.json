@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 108:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 108,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:53:06.726677753Z",
+  "translation": "Porque ⟨o⟩ teu Jésed ⟨é⟩ grande sobre ⟨os⟩ céus, ⟨e⟩ ⟨a⟩ tua Emet ⟨atinge⟩ até às nuvens.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "céus"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "teu Jésed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e até"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nuvens"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tua Emet"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "amor leal",
@@ -20,56 +59,6 @@
       "hebrew": "אמת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 108,
-  "usage": {
-    "completion_tokens": 591,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62972,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63563
-  },
-  "translation": "Porque ⟨o⟩ teu Jésed ⟨é⟩ grande sobre ⟨os⟩ céus, ⟨e⟩ ⟨a⟩ tua Emet ⟨atinge⟩ até às nuvens.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "גדול",
-      "english": "grande"
-    },
-    {
-      "surface": "מעל",
-      "english": "sobre"
-    },
-    {
-      "surface": "שמים",
-      "english": "céus"
-    },
-    {
-      "surface": "חסדך",
-      "english": "teu Jésed"
-    },
-    {
-      "surface": "ועד",
-      "english": "e até"
-    },
-    {
-      "surface": "שחקים",
-      "english": "nuvens"
-    },
-    {
-      "surface": "אמתך",
-      "english": "tua Emet"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:53:06.726677753Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

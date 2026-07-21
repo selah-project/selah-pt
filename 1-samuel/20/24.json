@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "1-samuel 20:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:32:30.450373043Z",
+  "translation": "Então Davidd se escondeu no campo, e veio ⟨o⟩ dia novo (mês novo), e o rei se assentou sobre ⟨o⟩ pão para comer.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "Então se escondeu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "no campo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e veio"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "⟨o⟩ dia novo (mês novo)"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e se assentou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "⟨o⟩ pão"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "para comer"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,64 +60,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16580,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 16947
-  },
-  "translation": "Então Davidd se escondeu no campo, e veio ⟨o⟩ dia novo (mês novo), e o rei se assentou sobre ⟨o⟩ pão para comer.",
-  "tokens": [
-    {
-      "surface": "ויסתר",
-      "english": "Então se escondeu"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בשדה",
-      "english": "no campo"
-    },
-    {
-      "surface": "ויהי",
-      "english": "e veio"
-    },
-    {
-      "surface": "החדש",
-      "english": "⟨o⟩ dia novo (mês novo)"
-    },
-    {
-      "surface": "וישב",
-      "english": "e se assentou"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "הלחם",
-      "english": "⟨o⟩ pão"
-    },
-    {
-      "surface": "לאכול",
-      "english": "para comer"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:32:30.450373043Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 2:10",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 515,
-    "prompt_tokens": 29170,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29685
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:37:37.805403469Z",
   "translation": "E um rio saía de Éden para regar ⟨את⟩ o jardim, e dali se dividia e se tornava em quatro cabeceiras",
   "tokens": [
     {
       "surface": "ונהר",
-      "english": "E um rio"
+      "gloss": "E um rio"
     },
     {
       "surface": "יצא",
-      "english": "saía"
+      "gloss": "saía"
     },
     {
       "surface": "מעדן",
-      "english": "de Éden"
+      "gloss": "de Éden"
     },
     {
       "surface": "להשקות",
-      "english": "para regar"
+      "gloss": "para regar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o jardim"
     },
     {
       "surface": "הגן",
-      "english": "o jardim"
+      "gloss": "o jardim"
     },
     {
       "surface": "ומשם",
-      "english": "e dali"
+      "gloss": "e dali"
     },
     {
       "surface": "יפרד",
-      "english": "se dividia"
+      "gloss": "se dividia"
     },
     {
       "surface": "והיה",
-      "english": "e se tornava"
+      "gloss": "e se tornava"
     },
     {
       "surface": "לארבעה",
-      "english": "em quatro"
+      "gloss": "em quatro"
     },
     {
       "surface": "ראשים",
-      "english": "cabeceiras"
+      "gloss": "cabeceiras"
     }
-  ],
-  "timestamp": "2026-07-16T14:37:37.805403469Z",
-  "model": "glm-4.5"
+  ]
 }

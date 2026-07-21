@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 46,
   "ref": "1-samuel 14:46",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 14,
+  "verse": 46,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:25:08.553296120Z",
+  "translation": "Então Shaulo subiu ⟨de⟩ ⟨o⟩ seguimento ⟨dos⟩ filisteus, e ⟨os⟩ filisteus foram para ⟨o⟩ seu lugar",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Então Saulo subiu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulo"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "⟨de⟩ ⟨o⟩ seguimento"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨dos⟩ filisteus"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "e ⟨os⟩ filisteus"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "foram"
+    },
+    {
+      "surface": "למקומם",
+      "gloss": "para ⟨o⟩ seu lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -13,52 +48,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 498,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16473,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 16971
-  },
-  "translation": "Então Shaulo subiu ⟨de⟩ ⟨o⟩ seguimento ⟨dos⟩ filisteus, e ⟨os⟩ filisteus foram para ⟨o⟩ seu lugar",
-  "tokens": [
-    {
-      "surface": "ויעל",
-      "english": "Então Saulo subiu"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaulo"
-    },
-    {
-      "surface": "מאחרי",
-      "english": "⟨de⟩ ⟨o⟩ seguimento"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨dos⟩ filisteus"
-    },
-    {
-      "surface": "ופלשתים",
-      "english": "e ⟨os⟩ filisteus"
-    },
-    {
-      "surface": "הלכו",
-      "english": "foram"
-    },
-    {
-      "surface": "למקומם",
-      "english": "para ⟨o⟩ seu lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:25:08.553296120Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

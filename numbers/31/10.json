@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 31:10",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 403,
-    "prompt_tokens": 25692,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 26095
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:23:37.994762984Z",
   "translation": "E ⟨את⟩ todas as suas cidades nas suas habitações e ⟨את⟩ todas as suas fortalezas queimaram no fogo",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "E ⟨את⟩",
+      "gloss": "E ⟨את⟩",
       "marks": "todas as suas cidades"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "עריהם",
-      "english": "as suas cidades"
+      "gloss": "as suas cidades"
     },
     {
       "surface": "במושבתם",
-      "english": "nas suas habitações"
+      "gloss": "nas suas habitações"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "todas as suas fortalezas"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "טירתם",
-      "english": "as suas fortalezas"
+      "gloss": "as suas fortalezas"
     },
     {
       "surface": "שרפו",
-      "english": "queimaram"
+      "gloss": "queimaram"
     },
     {
       "surface": "באש",
-      "english": "no fogo"
+      "gloss": "no fogo"
     }
-  ],
-  "timestamp": "2026-07-16T17:23:37.994762984Z",
-  "model": "glm-4.5"
+  ]
 }

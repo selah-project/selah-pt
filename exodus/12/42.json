@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "exodus 12:42",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 12,
+  "verse": 42,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:51:22.121279776Z",
+  "translation": "Uma noite de vigias ⟨é⟩ para YHWH, para ⟨fazer⟩ sair ⟨eles⟩ da terra de Mitsráim; ⟨esta⟩ ⟨é⟩ a noite para YHWH de vigias para todos ⟨os⟩ filhos de Yisrael para suas gerações.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "Uma noite"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "de vigias"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para YHWH"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "para ⟨fazer⟩ sair ⟨eles⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "da terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsráim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨esta⟩ ⟨é⟩"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "a noite"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨esta⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para YHWH"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "de vigias"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para todos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "para suas gerações"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 657,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17673,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18330
-  },
-  "translation": "Uma noite de vigias ⟨é⟩ para YHWH, para ⟨fazer⟩ sair ⟨eles⟩ da terra de Mitsráim; ⟨esta⟩ ⟨é⟩ a noite para YHWH de vigias para todos ⟨os⟩ filhos de Yisrael para suas gerações.",
-  "tokens": [
-    {
-      "surface": "ליל",
-      "english": "Uma noite"
-    },
-    {
-      "surface": "שמרים",
-      "english": "de vigias"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "para YHWH"
-    },
-    {
-      "surface": "להוציאם",
-      "english": "para ⟨fazer⟩ sair ⟨eles⟩"
-    },
-    {
-      "surface": "מארץ",
-      "english": "da terra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitsráim"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨esta⟩ ⟨é⟩"
-    },
-    {
-      "surface": "הלילה",
-      "english": "a noite"
-    },
-    {
-      "surface": "הזה",
-      "english": "⟨esta⟩"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "para YHWH"
-    },
-    {
-      "surface": "שמרים",
-      "english": "de vigias"
-    },
-    {
-      "surface": "לכל",
-      "english": "para todos"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לדרתם",
-      "english": "para suas gerações"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:51:22.121279776Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

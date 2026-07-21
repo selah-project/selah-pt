@@ -1,78 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "ezekiel 42:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17530,
-    "prompt_tokens_details": {
-      "cached_tokens": 16310
-    },
-    "total_tokens": 18113
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:47:42.441894083Z",
   "translation": "Diante ⟨do⟩ comprimento ⟨de⟩ cem côvados ⟨a⟩ entrada ⟨do⟩ norte e ⟨a⟩ largura cinquenta côvados",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Diante",
+      "gloss": "Diante",
       "rationale": "preposição indicando posição relativa"
     },
     {
       "surface": "פני",
-      "english": "⟨do⟩",
+      "gloss": "⟨do⟩",
       "rationale": "literalmente 'face'; traduzido como artigo definido para completar o sentido em português"
     },
     {
       "surface": "ארך",
-      "english": "comprimento",
+      "gloss": "comprimento",
       "rationale": "medida de extensão"
     },
     {
       "surface": "אמות",
-      "english": "côvados",
+      "gloss": "côvados",
       "rationale": "unidade de medida (côvado)"
     },
     {
       "surface": "המאה",
-      "english": "cem",
+      "gloss": "cem",
       "rationale": "número cardinal 100"
     },
     {
       "surface": "פתח",
-      "english": "⟨a⟩ entrada",
+      "gloss": "⟨a⟩ entrada",
       "rationale": "literalmente 'abertura'; traduzido com artigo para completar o sentido"
     },
     {
       "surface": "הצפון",
-      "english": "⟨do⟩ norte",
+      "gloss": "⟨do⟩ norte",
       "rationale": "direção cardinal com artigo definido"
     },
     {
       "surface": "והרחב",
-      "english": "e ⟨a⟩ largura",
+      "gloss": "e ⟨a⟩ largura",
       "rationale": "conjunção 'e' + substantivo com artigo"
     },
     {
       "surface": "חמשים",
-      "english": "cinquenta",
+      "gloss": "cinquenta",
       "rationale": "número cardinal 50"
     },
     {
       "surface": "אמות",
-      "english": "côvados",
+      "gloss": "côvados",
       "rationale": "unidade de medida (côvado)"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:47:42.441894083Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

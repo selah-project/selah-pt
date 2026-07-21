@@ -1,9 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "numbers 11:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 11,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:21:27.334457764Z",
+  "translation": "E YHWH disse a Moshé: ⟨⟩A mão de YHWH ⟨⟩está encurtada? Agora tu verás se a minha palavra te ⟨⟩alcançará, ou não.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E YHWH disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "היד",
+      "gloss": "⟨⟩A mão de YHWH",
+      "marks": "A mão de YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "⟨⟩está encurtada?"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Agora"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu verás"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "se a minha palavra te ⟨⟩alcançará",
+      "marks": "se a minha palavra te alcançará"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "a minha palavra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ou não"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,78 +74,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18514,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19076
-  },
-  "translation": "E YHWH disse a Moshé: ⟨⟩A mão de YHWH ⟨⟩está encurtada? Agora tu verás se a minha palavra te ⟨⟩alcançará, ou não.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E YHWH disse"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "היד",
-      "english": "⟨⟩A mão de YHWH",
-      "marks": "A mão de YHWH"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "תקצר",
-      "english": "⟨⟩está encurtada?"
-    },
-    {
-      "surface": "עתה",
-      "english": "Agora"
-    },
-    {
-      "surface": "תראה",
-      "english": "tu verás"
-    },
-    {
-      "surface": "היקרך",
-      "english": "se a minha palavra te ⟨⟩alcançará",
-      "marks": "se a minha palavra te alcançará"
-    },
-    {
-      "surface": "דברי",
-      "english": "a minha palavra"
-    },
-    {
-      "surface": "אם",
-      "english": "se"
-    },
-    {
-      "surface": "לא",
-      "english": "ou não"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:21:27.334457764Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

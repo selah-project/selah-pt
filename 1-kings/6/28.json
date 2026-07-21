@@ -1,38 +1,30 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "1-kings 6:28",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 206,
-    "prompt_tokens": 69521,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 69727
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:23:49.161293503Z",
   "translation": "E ele cobriu ⟨את⟩ os querubins com ouro",
   "tokens": [
     {
       "surface": "ויצף",
-      "english": "E ele cobriu"
+      "gloss": "E ele cobriu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os querubins"
     },
     {
       "surface": "הכרובים",
-      "english": "os querubins"
+      "gloss": "os querubins"
     },
     {
       "surface": "זהב",
-      "english": "com ouro"
+      "gloss": "com ouro"
     }
-  ],
-  "timestamp": "2026-07-16T11:23:49.161293503Z",
-  "model": "glm-4.5"
+  ]
 }

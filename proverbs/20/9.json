@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "proverbs 20:9",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 372,
-    "prompt_tokens": 60174,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60546
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:31:06.865339791Z",
   "translation": "Quem pode dizer: purifiquei ⟨meu⟩ coração, sou puro de ⟨minha⟩ iniquidade?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "Quem"
+      "gloss": "Quem"
     },
     {
       "surface": "יאמר",
-      "english": "pode dizer"
+      "gloss": "pode dizer"
     },
     {
       "surface": "זכיתי",
-      "english": "purifiquei"
+      "gloss": "purifiquei"
     },
     {
       "surface": "לבי",
-      "english": "coração"
+      "gloss": "coração"
     },
     {
       "surface": "טהרתי",
-      "english": "sou puro"
+      "gloss": "sou puro"
     },
     {
       "surface": "מחטאתי",
-      "english": "de iniquidade"
+      "gloss": "de iniquidade"
     }
-  ],
-  "timestamp": "2026-07-16T17:31:06.865339791Z",
-  "model": "glm-4.5"
+  ]
 }

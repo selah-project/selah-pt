@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 41:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19995,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20364
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:14:29.777941369Z",
   "translation": "Unido ⟨a⟩ umido, eles se aproximarão, e ⟨o⟩ vento não virá entre eles",
   "tokens": [
     {
       "surface": "אחד",
-      "english": "Unido"
+      "gloss": "Unido"
     },
     {
       "surface": "באחד",
-      "english": "⟨a⟩ umido",
+      "gloss": "⟨a⟩ umido",
       "marks": "umido"
     },
     {
       "surface": "יגשו",
-      "english": "eles se aproximarão"
+      "gloss": "eles se aproximarão"
     },
     {
       "surface": "ורוח",
-      "english": "e ⟨o⟩ vento",
+      "gloss": "e ⟨o⟩ vento",
       "marks": "vento"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יבוא",
-      "english": "virá"
+      "gloss": "virá"
     },
     {
       "surface": "ביניהם",
-      "english": "entre eles"
+      "gloss": "entre eles"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:14:29.777941369Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

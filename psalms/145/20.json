@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 145:20",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 401,
-    "prompt_tokens": 70562,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70963
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:52:04.785974535Z",
   "translation": "YHWH guarda ⟨את⟩ todos ⟨os⟩ que o amam, e ⟨את⟩ todos os perversos Ele destruirá.",
   "tokens": [
     {
       "surface": "שומר",
-      "english": "guarda"
+      "gloss": "guarda"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todos que o amam"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "אהביו",
-      "english": "que o amam"
+      "gloss": "que o amam"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "todos os perversos"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "הרשעים",
-      "english": "os perversos"
+      "gloss": "os perversos"
     },
     {
       "surface": "ישמיד",
-      "english": "Ele destruirá"
+      "gloss": "Ele destruirá"
     }
-  ],
-  "timestamp": "2026-07-16T17:52:04.785974535Z",
-  "model": "glm-4.5"
+  ]
 }

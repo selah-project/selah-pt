@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 16:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
+  "chapter": 16,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:31:14.465240687Z",
+  "translation": "Obter Jojmá ⟨é⟩ muito melhor ⟨que⟩ ouro ⟨e⟩ obter Biná ⟨é⟩ mais escolhido ⟨que⟩ prata",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Obter"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "muito melhor"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "⟨que⟩ ouro"
+    },
+    {
+      "surface": "וקנות",
+      "gloss": "⟨e⟩ obter"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "Biná"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "⟨é⟩ mais escolhido"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "⟨que⟩ prata"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -20,60 +63,6 @@
       "hebrew": "בינה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52988,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53371
-  },
-  "translation": "Obter Jojmá ⟨é⟩ muito melhor ⟨que⟩ ouro ⟨e⟩ obter Biná ⟨é⟩ mais escolhido ⟨que⟩ prata",
-  "tokens": [
-    {
-      "surface": "קנה",
-      "english": "Obter"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "מה",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "טוב",
-      "english": "muito melhor"
-    },
-    {
-      "surface": "מחרוץ",
-      "english": "⟨que⟩ ouro"
-    },
-    {
-      "surface": "וקנות",
-      "english": "⟨e⟩ obter"
-    },
-    {
-      "surface": "בינה",
-      "english": "Biná"
-    },
-    {
-      "surface": "נבחר",
-      "english": "⟨é⟩ mais escolhido"
-    },
-    {
-      "surface": "מכסף",
-      "english": "⟨que⟩ prata"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:31:14.465240687Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

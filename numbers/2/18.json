@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "numbers 2:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 2,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:09:33.373173469Z",
+  "translation": "⟨O⟩ estandarte do acampamento de Efráyim ⟨é⟩ segundo ⟨as⟩ suas hostes ⟨para⟩ ⟨o⟩ ocidente; ⟨e⟩ ⟨o⟩ príncipe ⟨de⟩ ⟨os⟩ filhos de Efráyim ⟨é⟩ Elisama filho ⟨de⟩ Amiúde.",
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "Estandarte"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "do acampamento"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "⟨as⟩ suas hostes"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "⟨para⟩ ⟨o⟩ ocidente"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "⟨e⟩ ⟨o⟩ príncipe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨de⟩ ⟨os⟩ filhos"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elisama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "⟨de⟩ Amiúde"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -20,68 +71,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 651,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18441,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19092
-  },
-  "translation": "⟨O⟩ estandarte do acampamento de Efráyim ⟨é⟩ segundo ⟨as⟩ suas hostes ⟨para⟩ ⟨o⟩ ocidente; ⟨e⟩ ⟨o⟩ príncipe ⟨de⟩ ⟨os⟩ filhos de Efráyim ⟨é⟩ Elisama filho ⟨de⟩ Amiúde.",
-  "tokens": [
-    {
-      "surface": "דגל",
-      "english": "Estandarte"
-    },
-    {
-      "surface": "מחנה",
-      "english": "do acampamento"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    },
-    {
-      "surface": "לצבאתם",
-      "english": "⟨as⟩ suas hostes"
-    },
-    {
-      "surface": "ימה",
-      "english": "⟨para⟩ ⟨o⟩ ocidente"
-    },
-    {
-      "surface": "ונשיא",
-      "english": "⟨e⟩ ⟨o⟩ príncipe"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨de⟩ ⟨os⟩ filhos"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    },
-    {
-      "surface": "אלישמע",
-      "english": "Elisama"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "עמיהוד",
-      "english": "⟨de⟩ Amiúde"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:09:33.373173469Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

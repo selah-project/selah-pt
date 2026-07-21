@@ -1,89 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 127:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 127,
-  "usage": {
-    "completion_tokens": 577,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70777,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 71354
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:41:46.259722802Z",
   "translation": "⟨It is⟩ vanity for you to rise early ⟨and⟩ delay ⟨in⟩ sitting down, eating ⟨the⟩ bread of ⟨the⟩ toils; so ⟨he⟩ gives ⟨to⟩ his beloved sleep",
   "tokens": [
     {
       "surface": "שוא",
-      "english": "vanity",
+      "gloss": "vanity",
       "marks": "vanity for you to rise early..."
     },
     {
       "surface": "לכם",
-      "english": "for you",
+      "gloss": "for you",
       "marks": "vanity for you"
     },
     {
       "surface": "משכימי",
-      "english": "to rise early",
+      "gloss": "to rise early",
       "marks": ""
     },
     {
       "surface": "קום",
-      "english": "⟨and⟩ delay ⟨in⟩ sitting down",
+      "gloss": "⟨and⟩ delay ⟨in⟩ sitting down",
       "marks": ""
     },
     {
       "surface": "מאחרי",
-      "english": "⟨and⟩ delay",
+      "gloss": "⟨and⟩ delay",
       "marks": ""
     },
     {
       "surface": "שבת",
-      "english": "⟨in⟩ sitting down",
+      "gloss": "⟨in⟩ sitting down",
       "marks": ""
     },
     {
       "surface": "אכלי",
-      "english": "eating",
+      "gloss": "eating",
       "marks": ""
     },
     {
       "surface": "לחם",
-      "english": "⟨the⟩ bread",
+      "gloss": "⟨the⟩ bread",
       "marks": "bread of ⟨the⟩ toils"
     },
     {
       "surface": "העצבים",
-      "english": "⟨the⟩ toils",
+      "gloss": "⟨the⟩ toils",
       "marks": ""
     },
     {
       "surface": "כן",
-      "english": "so",
+      "gloss": "so",
       "marks": ""
     },
     {
       "surface": "י�תן",
-      "english": "⟨he⟩ gives",
+      "gloss": "⟨he⟩ gives",
       "marks": ""
     },
     {
       "surface": "לידידו",
-      "english": "⟨to⟩ his beloved",
+      "gloss": "⟨to⟩ his beloved",
       "marks": ""
     },
     {
       "surface": "שנא",
-      "english": "sleep",
+      "gloss": "sleep",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-13T06:41:46.259722802Z",
-  "model": "glm-4.5"
+  ]
 }

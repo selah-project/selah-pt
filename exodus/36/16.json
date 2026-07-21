@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 36:16",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 372,
-    "prompt_tokens": 24422,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24794
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:04:10.267662270Z",
   "translation": "e juntou ⟨את⟩ cinco ⟨as⟩ cortinas por si, e ⟨את⟩ seis ⟨as⟩ cortinas por si",
   "tokens": [
     {
       "surface": "ויחבר",
-      "english": "e juntou"
+      "gloss": "e juntou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "cinco ⟨as⟩ cortinas"
     },
     {
       "surface": "חמש",
-      "english": "cinco"
+      "gloss": "cinco"
     },
     {
       "surface": "היריעת",
-      "english": "⟨as⟩ cortinas"
+      "gloss": "⟨as⟩ cortinas"
     },
     {
       "surface": "לבד",
-      "english": "por si"
+      "gloss": "por si"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "seis ⟨as⟩ cortinas"
     },
     {
       "surface": "שש",
-      "english": "seis"
+      "gloss": "seis"
     },
     {
       "surface": "היריעת",
-      "english": "⟨as⟩ cortinas"
+      "gloss": "⟨as⟩ cortinas"
     },
     {
       "surface": "לבד",
-      "english": "por si"
+      "gloss": "por si"
     }
-  ],
-  "timestamp": "2026-07-16T14:04:10.267662270Z",
-  "model": "glm-4.5"
+  ]
 }

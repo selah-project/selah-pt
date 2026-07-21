@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 5:16",
   "book": "job",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 449,
-    "prompt_tokens": 27323,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27772
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:56:12.930185627Z",
   "translation": "E há esperança para o pobre, e a iniquidade fechou ⟨a⟩ sua boca.",
   "tokens": [
     {
       "surface": "וַ\/תְּהִ֣י",
-      "english": "E há"
+      "gloss": "E há"
     },
     {
       "surface": "לַ\/דַּ֣ל",
-      "english": "para o pobre"
+      "gloss": "para o pobre"
     },
     {
       "surface": "תִּקְוָ֑ה",
-      "english": "esperança"
+      "gloss": "esperança"
     },
     {
       "surface": "וְ֝\/עֹלָ֗תָ\/ה",
-      "english": "e a iniquidade"
+      "gloss": "e a iniquidade"
     },
     {
       "surface": "קָ֣פְצָה",
-      "english": "fechou"
+      "gloss": "fechou"
     },
     {
       "surface": "פִּֽי\/הָ",
-      "english": "⟨a⟩ sua boca"
+      "gloss": "⟨a⟩ sua boca"
     }
-  ],
-  "timestamp": "2026-07-16T15:56:12.930185627Z",
-  "model": "glm-4.5"
+  ]
 }

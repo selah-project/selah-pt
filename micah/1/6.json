@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "micah 1:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "micah",
+  "chapter": 1,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:15:11.509466716Z",
+  "translation": "Por isso porei Shomron ⟨como⟩ um monte no campo, ⟨como⟩ plantações de vinha; e derrubarei ⟨as⟩ pedras dela ⟨para⟩ o vale e descobrirei ⟨os⟩ fundamentos dela",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Por isso porei"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "⟨como⟩ um monte"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "no campo"
+    },
+    {
+      "surface": "למטעי",
+      "gloss": "⟨como⟩ plantações"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "de vinha"
+    },
+    {
+      "surface": "והגרתי",
+      "gloss": "e derrubarei"
+    },
+    {
+      "surface": "לגי",
+      "gloss": "⟨para⟩ o vale"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "⟨as⟩ pedras dela"
+    },
+    {
+      "surface": "ויסדיה",
+      "gloss": "e ⟨os⟩ fundamentos dela"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "descobrirei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samaria",
@@ -13,68 +64,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16226,
-    "prompt_tokens_details": {
-      "cached_tokens": 14744
-    },
-    "total_tokens": 16731
-  },
-  "translation": "Por isso porei Shomron ⟨como⟩ um monte no campo, ⟨como⟩ plantações de vinha; e derrubarei ⟨as⟩ pedras dela ⟨para⟩ o vale e descobrirei ⟨os⟩ fundamentos dela",
-  "tokens": [
-    {
-      "surface": "ושמתי",
-      "english": "Por isso porei"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomron"
-    },
-    {
-      "surface": "לעי",
-      "english": "⟨como⟩ um monte"
-    },
-    {
-      "surface": "השדה",
-      "english": "no campo"
-    },
-    {
-      "surface": "למטעי",
-      "english": "⟨como⟩ plantações"
-    },
-    {
-      "surface": "כרם",
-      "english": "de vinha"
-    },
-    {
-      "surface": "והגרתי",
-      "english": "e derrubarei"
-    },
-    {
-      "surface": "לגי",
-      "english": "⟨para⟩ o vale"
-    },
-    {
-      "surface": "אבניה",
-      "english": "⟨as⟩ pedras dela"
-    },
-    {
-      "surface": "ויסדיה",
-      "english": "e ⟨os⟩ fundamentos dela"
-    },
-    {
-      "surface": "אגלה",
-      "english": "descobrirei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:15:11.509466716Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

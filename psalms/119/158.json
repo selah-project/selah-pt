@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 158,
   "ref": "psalms 119:158",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70233,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70777
-  },
+  "verse": 158,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:41:24.807738034Z",
   "translation": "Eu vi ⟨os⟩ traidores ⟨e⟩ fiquei ⟨⟩ angustiado ⟨por⟩ ⟨o fato de que⟩ ⟨sua⟩ palavra ⟨⟩ ⟨não⟩ guardaram",
   "tokens": [
     {
       "surface": "ראיתי",
-      "english": "Eu vi"
+      "gloss": "Eu vi"
     },
     {
       "surface": "בגדים",
-      "english": "⟨os⟩ traidores"
+      "gloss": "⟨os⟩ traidores"
     },
     {
       "surface": "ואתקוטטה",
-      "english": "⟨e⟩ fiquei ⟨⟩ angustiado ⟨por⟩ ⟨o fato de que⟩"
+      "gloss": "⟨e⟩ fiquei ⟨⟩ angustiado ⟨por⟩ ⟨o fato de que⟩"
     },
     {
       "surface": "אשר",
-      "english": "⟨sua⟩"
+      "gloss": "⟨sua⟩"
     },
     {
       "surface": "אמרתך",
-      "english": "palavra ⟨⟩"
+      "gloss": "palavra ⟨⟩"
     },
     {
       "surface": "לא",
-      "english": "⟨não⟩"
+      "gloss": "⟨não⟩"
     },
     {
       "surface": "שמרו",
-      "english": "guardaram"
+      "gloss": "guardaram"
     }
-  ],
-  "timestamp": "2026-06-13T06:41:24.807738034Z",
-  "model": "glm-4.5"
+  ]
 }

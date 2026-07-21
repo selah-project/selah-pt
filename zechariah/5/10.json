@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "zechariah 5:10",
   "book": "zechariah",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 503,
-    "prompt_tokens": 23743,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24246
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:56:23.503510118Z",
   "translation": "E disse ao mensageiro que falava comigo: Para onde ⟨estão⟩ levando ⟨את⟩ o efa?",
   "tokens": [
     {
       "surface": "ואמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "אל",
-      "english": "ao"
+      "gloss": "ao"
     },
     {
       "surface": "המלאך",
-      "english": "mensageiro"
+      "gloss": "mensageiro"
     },
     {
       "surface": "הדבר",
-      "english": "que falava"
+      "gloss": "que falava"
     },
     {
       "surface": "בי",
-      "english": "comigo"
+      "gloss": "comigo"
     },
     {
       "surface": "אנה",
-      "english": "Para onde"
+      "gloss": "Para onde"
     },
     {
       "surface": "המה",
-      "english": "⟨estão⟩"
+      "gloss": "⟨estão⟩"
     },
     {
       "surface": "מולכות",
-      "english": "levando"
+      "gloss": "levando"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o efa"
     },
     {
       "surface": "האיפה",
-      "english": "o efa"
+      "gloss": "o efa"
     }
-  ],
-  "timestamp": "2026-07-16T17:56:23.503510118Z",
-  "model": "glm-4.5"
+  ]
 }

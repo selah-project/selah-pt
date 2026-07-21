@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "judges 2:13",
   "book": "judges",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 330,
-    "prompt_tokens": 23590,
-    "prompt_tokens_details": {
-      "cached_tokens": 22528
-    },
-    "total_tokens": 23920
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:19:24.435736073Z",
   "translation": "E eles abandonaram ⟨את⟩ YHWH e serviram a Baal e às Ashtaroth",
   "tokens": [
     {
       "surface": "ויעזבו",
-      "english": "E eles abandonaram"
+      "gloss": "E eles abandonaram"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויעבדו",
-      "english": "e serviram"
+      "gloss": "e serviram"
     },
     {
       "surface": "לבעל",
-      "english": "a Baal"
+      "gloss": "a Baal"
     },
     {
       "surface": "ולעשתרות",
-      "english": "e às Ashtaroth"
+      "gloss": "e às Ashtaroth"
     }
-  ],
-  "timestamp": "2026-07-16T16:19:24.435736073Z",
-  "model": "glm-4.5"
+  ]
 }

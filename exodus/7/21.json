@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "exodus 7:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 7,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:42:38.241979614Z",
+  "translation": "E o peixe que ⟨estava⟩ no rio morreu, e o rio fedeu, e os egípcios não puderam beber água do rio; e ⟨o⟩ sangue estava em toda a terra do Mitzráyim.",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "E o peixe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "no rio"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "morreu"
+    },
+    {
+      "surface": "ויבאש",
+      "gloss": "e o rio fedeu"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "o rio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "puderam"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "os egípcios"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "beber"
+    },
+    {
+      "surface": "מים",
+      "gloss": "água"
+    },
+    {
+      "surface": "מן",
+      "gloss": "do"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rio"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ⟨o⟩"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sangue"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "em toda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,96 +92,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17788,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18302
-  },
-  "translation": "E o peixe que ⟨estava⟩ no rio morreu, e o rio fedeu, e os egípcios não puderam beber água do rio; e ⟨o⟩ sangue estava em toda a terra do Mitzráyim.",
-  "tokens": [
-    {
-      "surface": "והדגה",
-      "english": "E o peixe"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "ביאר",
-      "english": "no rio"
-    },
-    {
-      "surface": "מתה",
-      "english": "morreu"
-    },
-    {
-      "surface": "ויבאש",
-      "english": "e o rio fedeu"
-    },
-    {
-      "surface": "היאר",
-      "english": "o rio"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "יכלו",
-      "english": "puderam"
-    },
-    {
-      "surface": "מצרים",
-      "english": "os egípcios"
-    },
-    {
-      "surface": "לשתות",
-      "english": "beber"
-    },
-    {
-      "surface": "מים",
-      "english": "água"
-    },
-    {
-      "surface": "מן",
-      "english": "do"
-    },
-    {
-      "surface": "היאר",
-      "english": "rio"
-    },
-    {
-      "surface": "ויהי",
-      "english": "e ⟨o⟩"
-    },
-    {
-      "surface": "הדם",
-      "english": "sangue"
-    },
-    {
-      "surface": "בכל",
-      "english": "em toda"
-    },
-    {
-      "surface": "ארץ",
-      "english": "a terra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:42:38.241979614Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

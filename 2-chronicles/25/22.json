@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "2-chronicles 25:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 25,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:36:30.839116059Z",
+  "translation": "E Yehudá ⟨foi⟩ derrotado diante de Yisrael, e cada homem fugiu para ⟨a⟩ sua tenda.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "E ⟨foi⟩ derrotado"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "e fugiu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada homem"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "para ⟨a⟩ sua tenda"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,52 +55,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58065,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58405
-  },
-  "translation": "E Yehudá ⟨foi⟩ derrotado diante de Yisrael, e cada homem fugiu para ⟨a⟩ sua tenda.",
-  "tokens": [
-    {
-      "surface": "וינגף",
-      "english": "E ⟨foi⟩ derrotado"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "וינסו",
-      "english": "e fugiu"
-    },
-    {
-      "surface": "איש",
-      "english": "cada homem"
-    },
-    {
-      "surface": "לאהליו",
-      "english": "para ⟨a⟩ sua tenda"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:36:30.839116059Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "psalms 78:40",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 351,
-    "prompt_tokens": 70153,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70504
-  },
+  "verse": 40,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:14.091352164Z",
   "translation": "Quantas vezes o provocaram ⟨no⟩ deserto, e o entristeceram em Yeshimón!",
   "tokens": [
     {
       "surface": "כמה",
-      "english": "Quantas vezes"
+      "gloss": "Quantas vezes"
     },
     {
       "surface": "ימרוהו",
-      "english": "o provocaram"
+      "gloss": "o provocaram"
     },
     {
       "surface": "במדבר",
-      "english": "⟨no⟩ deserto"
+      "gloss": "⟨no⟩ deserto"
     },
     {
       "surface": "יעציבוהו",
-      "english": "e o entristeceram"
+      "gloss": "e o entristeceram"
     },
     {
       "surface": "בישימון",
-      "english": "em Yeshimón"
+      "gloss": "em Yeshimón"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:14.091352164Z",
-  "model": "glm-4.5"
+  ]
 }

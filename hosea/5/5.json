@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "hosea 5:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 5,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:57:16.940544019Z",
+  "translation": "E ⟨o⟩ orgulho de Yisrael testemunha diante ⟨de⟩ sua face, e Yisrael e Efraim tropeçam em sua iniquidade; Yehudá também tropeça com ⟨eles⟩.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "E ⟨o⟩"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "orgulho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "testemunha diante ⟨de⟩ sua face"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "e Israel"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "e Efraim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "tropeçam"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "em sua iniquidade"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "tropeça"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "com ⟨eles⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,72 +75,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20014,
-    "prompt_tokens_details": {
-      "cached_tokens": 18475
-    },
-    "total_tokens": 20576
-  },
-  "translation": "E ⟨o⟩ orgulho de Yisrael testemunha diante ⟨de⟩ sua face, e Yisrael e Efraim tropeçam em sua iniquidade; Yehudá também tropeça com ⟨eles⟩.",
-  "tokens": [
-    {
-      "surface": "וענה",
-      "english": "E ⟨o⟩"
-    },
-    {
-      "surface": "גאון",
-      "english": "orgulho"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "בפניו",
-      "english": "testemunha diante ⟨de⟩ sua face"
-    },
-    {
-      "surface": "וישראל",
-      "english": "e Israel"
-    },
-    {
-      "surface": "ואפרים",
-      "english": "e Efraim"
-    },
-    {
-      "surface": "יכשלו",
-      "english": "tropeçam"
-    },
-    {
-      "surface": "בעונם",
-      "english": "em sua iniquidade"
-    },
-    {
-      "surface": "כשל",
-      "english": "tropeça"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "עמם",
-      "english": "com ⟨eles⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:57:16.940544019Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

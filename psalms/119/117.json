@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 117,
   "ref": "psalms 119:117",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 375,
-    "prompt_tokens": 70112,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70487
-  },
+  "verse": 117,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:33.767876732Z",
   "translation": "Sustenta-me e serei salvo; e ⟨eu⟩ observarei ⟨as⟩ tuas leis sempre.",
   "tokens": [
     {
       "surface": "סעדני",
-      "english": "Sustenta-me"
+      "gloss": "Sustenta-me"
     },
     {
       "surface": "ואושעה",
-      "english": "e serei salvo"
+      "gloss": "e serei salvo"
     },
     {
       "surface": "ואשעה",
-      "english": "e ⟨eu⟩ observarei"
+      "gloss": "e ⟨eu⟩ observarei"
     },
     {
       "surface": "בחקיך",
-      "english": "⟨as⟩ tuas leis"
+      "gloss": "⟨as⟩ tuas leis"
     },
     {
       "surface": "תמיד",
-      "english": "sempre"
+      "gloss": "sempre"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:33.767876732Z",
-  "model": "glm-4.5"
+  ]
 }

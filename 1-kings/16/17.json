@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-kings 16:17",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69834,
-    "prompt_tokens_details": {
-      "cached_tokens": 68636
-    },
-    "total_tokens": 70334
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:01:59.059582435Z",
   "translation": "E Omri subiu ⟨com⟩ todo o Israel ⟨com⟩ ele, ⟨de⟩ Gibetom, ⟨e⟩ sitiaram Tirtsá.",
   "tokens": [
     {
       "surface": "ויעלה",
-      "english": "subiu"
+      "gloss": "subiu"
     },
     {
       "surface": "עמרי",
-      "english": "Omri"
+      "gloss": "Omri"
     },
     {
       "surface": "וכל",
-      "english": "e todo"
+      "gloss": "e todo"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "עמו",
-      "english": "⟨com⟩ ele",
+      "gloss": "⟨com⟩ ele",
       "marks": "Omri e todo o Israel"
     },
     {
       "surface": "מגבתון",
-      "english": "⟨de⟩ Gibetom"
+      "gloss": "⟨de⟩ Gibetom"
     },
     {
       "surface": "ויצרו",
-      "english": "⟨e⟩ sitiaram"
+      "gloss": "⟨e⟩ sitiaram"
     },
     {
       "surface": "על",
-      "english": "⟨e⟩"
+      "gloss": "⟨e⟩"
     },
     {
       "surface": "תרצה",
-      "english": "Tirtsá"
+      "gloss": "Tirtsá"
     }
-  ],
-  "timestamp": "2026-06-13T06:01:59.059582435Z",
-  "model": "glm-4.5"
+  ]
 }

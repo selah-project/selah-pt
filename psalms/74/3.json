@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 74:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 331,
-    "prompt_tokens": 70414,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70745
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:25.514018290Z",
   "translation": "Eleva os teus passos para ⟨as⟩ ruínas perpétuas, todo o mal que o adversário fez no santuário.",
   "tokens": [
     {
       "surface": "הרימה",
-      "english": "Eleva"
+      "gloss": "Eleva"
     },
     {
       "surface": "פעמיך",
-      "english": "os teus passos"
+      "gloss": "os teus passos"
     },
     {
       "surface": "למשאות",
-      "english": "para ⟨as⟩ ruínas perpétuas"
+      "gloss": "para ⟨as⟩ ruínas perpétuas"
     },
     {
       "surface": "נצח",
-      "english": "perpétuas"
+      "gloss": "perpétuas"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "הרע",
-      "english": "o mal"
+      "gloss": "o mal"
     },
     {
       "surface": "אויב",
-      "english": "que o adversário"
+      "gloss": "que o adversário"
     },
     {
       "surface": "בקדש",
-      "english": "fez no santuário"
+      "gloss": "fez no santuário"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:25.514018290Z",
-  "model": "glm-4.5"
+  ]
 }

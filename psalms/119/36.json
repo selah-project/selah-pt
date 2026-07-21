@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "psalms 119:36",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 507,
-    "prompt_tokens": 70148,
-    "prompt_tokens_details": {
-      "cached_tokens": 54016
-    },
-    "total_tokens": 70655
-  },
+  "verse": 36,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:25:04.588761042Z",
   "translation": "Inclina ⟨o⟩ meu coração para ⟨as⟩ tuas testemunhas e não para ⟨o⟩ ganho injusto",
   "tokens": [
     {
       "surface": "הט",
-      "english": "Inclina"
+      "gloss": "Inclina"
     },
     {
       "surface": "לבי",
-      "english": "⟨o⟩ meu coração"
+      "gloss": "⟨o⟩ meu coração"
     },
     {
       "surface": "אל",
-      "english": "para"
+      "gloss": "para"
     },
     {
       "surface": "עדותיך",
-      "english": "⟨as⟩ tuas testemunhas"
+      "gloss": "⟨as⟩ tuas testemunhas"
     },
     {
       "surface": "ואל",
-      "english": "e não para"
+      "gloss": "e não para"
     },
     {
       "surface": "אל",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "בצע",
-      "english": "ganho injusto"
+      "gloss": "ganho injusto"
     }
-  ],
-  "timestamp": "2026-07-17T00:25:04.588761042Z",
-  "model": "glm-4.5"
+  ]
 }

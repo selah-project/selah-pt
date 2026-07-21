@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 30:12",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 342,
-    "prompt_tokens": 28612,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28954
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:52:16.727094390Z",
   "translation": "E Zilpá, a serva de Léá, gerou ⟨um⟩ segundo filho para Yaakov",
   "tokens": [
     {
       "surface": "וַ\/תֵּ֗לֶד",
-      "english": "E ... gerou"
+      "gloss": "E ... gerou"
     },
     {
       "surface": "זִלְפָּה֙",
-      "english": "Zilpá"
+      "gloss": "Zilpá"
     },
     {
       "surface": "שִׁפְחַ֣ת",
-      "english": "a serva de"
+      "gloss": "a serva de"
     },
     {
       "surface": "לֵאָ֔ה",
-      "english": "Léá"
+      "gloss": "Léá"
     },
     {
       "surface": "בֵּ֥ן",
-      "english": "filho"
+      "gloss": "filho"
     },
     {
       "surface": "שֵׁנִ֖י",
-      "english": "segundo"
+      "gloss": "segundo"
     },
     {
       "surface": "לְ\/יַעֲקֹֽב",
-      "english": "para Yaakov"
+      "gloss": "para Yaakov"
     }
-  ],
-  "timestamp": "2026-07-16T14:52:16.727094390Z",
-  "model": "glm-4.5"
+  ]
 }

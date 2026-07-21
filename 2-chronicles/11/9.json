@@ -1,48 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-chronicles 11:9",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 338,
-    "prompt_tokens": 65477,
-    "prompt_tokens_details": {
-      "cached_tokens": 64384
-    },
-    "total_tokens": 65815
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:13:25.801028192Z",
   "translation": "e ⟨את⟩ Adoraim, e ⟨את⟩ Laquis, e ⟨את⟩ Azeca",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Adoraim"
     },
     {
       "surface": "אדורים",
-      "english": "Adoraim"
+      "gloss": "Adoraim"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Laquis"
     },
     {
       "surface": "לכיש",
-      "english": "Laquis"
+      "gloss": "Laquis"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Azeca"
     },
     {
       "surface": "עזקה",
-      "english": "Azeca"
+      "gloss": "Azeca"
     }
-  ],
-  "timestamp": "2026-07-16T12:13:25.801028192Z",
-  "model": "glm-4.5"
+  ]
 }

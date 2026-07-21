@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-samuel 18:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 18,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:30:52.605077347Z",
+  "translation": "E Shaul disse: ⟨Eu⟩ darei ⟨a⟩ ela a ⟨ele⟩, e ⟨ela⟩ será ⟨para⟩ ele uma armadilha, e a mão ⟨dos⟩ pelishtim ⟨estará⟩ contra ⟨ele⟩. E Shaul disse ⟨a⟩ Davidd: Por ⟨a⟩ segunda ⟨vez⟩ ⟨tu⟩ serás meu genro hoje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "⟨Eu⟩ darei ⟨a⟩ ela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ⟨ele⟩"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e ⟨ela⟩ será"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩ ele"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "uma armadilha"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e ⟨estará⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "contra ⟨ele⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mão ⟨dos⟩"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "Por ⟨a⟩ segunda ⟨vez⟩"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "⟨tu⟩ serás meu genro"
+    },
+    {
+      "surface": "בי",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,100 +96,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 1073,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17440,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18513
-  },
-  "translation": "E Shaul disse: ⟨Eu⟩ darei ⟨a⟩ ela a ⟨ele⟩, e ⟨ela⟩ será ⟨para⟩ ele uma armadilha, e a mão ⟨dos⟩ pelishtim ⟨estará⟩ contra ⟨ele⟩. E Shaul disse ⟨a⟩ Davidd: Por ⟨a⟩ segunda ⟨vez⟩ ⟨tu⟩ serás meu genro hoje.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "אתננה",
-      "english": "⟨Eu⟩ darei ⟨a⟩ ela"
-    },
-    {
-      "surface": "לו",
-      "english": "a ⟨ele⟩"
-    },
-    {
-      "surface": "ותהי",
-      "english": "e ⟨ela⟩ será"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩ ele"
-    },
-    {
-      "surface": "למוקש",
-      "english": "uma armadilha"
-    },
-    {
-      "surface": "ותהי",
-      "english": "e ⟨estará⟩"
-    },
-    {
-      "surface": "בו",
-      "english": "contra ⟨ele⟩"
-    },
-    {
-      "surface": "יד",
-      "english": "mão ⟨dos⟩"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "pelishtim"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בשתים",
-      "english": "Por ⟨a⟩ segunda ⟨vez⟩"
-    },
-    {
-      "surface": "תתחתן",
-      "english": "⟨tu⟩ serás meu genro"
-    },
-    {
-      "surface": "בי",
-      "english": "hoje"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:30:52.605077347Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 76:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 292,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62711,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63003
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:29:35.495517172Z",
   "translation": "Ao maestro ⟨com⟩ instrumentos de cordas. Um salmo ⟨de⟩ Asaf. Um cântico.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Ao maestro"
+      "gloss": "Ao maestro"
     },
     {
       "surface": "בנגינת",
-      "english": "⟨com⟩ instrumentos de cordas"
+      "gloss": "⟨com⟩ instrumentos de cordas"
     },
     {
       "surface": "מזמור",
-      "english": "Um salmo"
+      "gloss": "Um salmo"
     },
     {
       "surface": "לאסף",
-      "english": "⟨de⟩ Asaf"
+      "gloss": "⟨de⟩ Asaf"
     },
     {
       "surface": "שיר",
-      "english": "Um cântico"
+      "gloss": "Um cântico"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:29:35.495517172Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

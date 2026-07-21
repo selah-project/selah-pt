@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 13:10",
   "book": "job",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 422,
-    "prompt_tokens": 27559,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27981
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:57:58.595571920Z",
   "translation": "Ele certamente repreenderá ⟨את⟩ vós, se ⟨ה⟩ parcialmente aceitardes ⟨את⟩ faces em secreto",
   "tokens": [
     {
       "surface": "הוכח",
-      "english": "Ele certamente repreenderá"
+      "gloss": "Ele certamente repreenderá"
     },
     {
       "surface": "יוכיח",
-      "english": "repreenderá"
+      "gloss": "repreenderá"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩ vós",
+      "gloss": "⟨את⟩ vós",
       "marks": "vós"
     },
     {
       "surface": "אם",
-      "english": "se"
+      "gloss": "se"
     },
     {
       "surface": "בסתר",
-      "english": "em secreto"
+      "gloss": "em secreto"
     },
     {
       "surface": "פנים",
-      "english": "faces"
+      "gloss": "faces"
     },
     {
       "surface": "תשאון",
-      "english": "aceitardes"
+      "gloss": "aceitardes"
     }
-  ],
-  "timestamp": "2026-07-16T15:57:58.595571920Z",
-  "model": "glm-4.5"
+  ]
 }

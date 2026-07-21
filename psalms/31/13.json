@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 31:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70154,
-    "prompt_tokens_details": {
-      "cached_tokens": 53558
-    },
-    "total_tokens": 70661
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:35:03.644501324Z",
   "translation": "Para ⟨o⟩ que ⟨está⟩ morto ⟨eu⟩ sou esquecido ⟨do⟩ coração, como ⟨um⟩ utensílio que ⟨se⟩ perde",
   "tokens": [
     {
       "surface": "נשכחתי",
-      "english": "⟨eu⟩ sou esquecido"
+      "gloss": "⟨eu⟩ sou esquecido"
     },
     {
       "surface": "כמת",
-      "english": "Para ⟨o⟩ que ⟨está⟩ morto"
+      "gloss": "Para ⟨o⟩ que ⟨está⟩ morto"
     },
     {
       "surface": "מלב",
-      "english": "⟨do⟩ coração"
+      "gloss": "⟨do⟩ coração"
     },
     {
       "surface": "הייתי",
-      "english": "⟨eu⟩ ⟨estava⟩"
+      "gloss": "⟨eu⟩ ⟨estava⟩"
     },
     {
       "surface": "ככלי",
-      "english": "como ⟨um⟩ utensílio"
+      "gloss": "como ⟨um⟩ utensílio"
     },
     {
       "surface": "אבד",
-      "english": "que ⟨se⟩ perde"
+      "gloss": "que ⟨se⟩ perde"
     }
-  ],
-  "timestamp": "2026-06-11T23:35:03.644501324Z",
-  "model": "glm-4.5"
+  ]
 }

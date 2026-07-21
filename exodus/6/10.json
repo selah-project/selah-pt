@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "exodus 6:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 6,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:40:44.716527560Z",
+  "translation": "E YHWH falou a Moshé, ⟨dizendo⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨dizendo⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,44 +40,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 209,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16527,
-    "prompt_tokens_details": {
-      "cached_tokens": 15859
-    },
-    "total_tokens": 16736
-  },
-  "translation": "E YHWH falou a Moshé, ⟨dizendo⟩",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨dizendo⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:40:44.716527560Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

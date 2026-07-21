@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "numbers 26:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 26,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:37:39.201630035Z",
+  "translation": "Filhos de Yissacar ⟨por⟩ suas famílias ⟨são⟩: ⟨de⟩ Tola ⟨é⟩ a família ⟨dos⟩ tolaítas; ⟨de⟩ Puá ⟨é⟩ a família ⟨dos⟩ punis;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Filhos de"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissacar"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨por⟩ suas famílias"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "⟨de⟩ Tola"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨é⟩ a família"
+    },
+    {
+      "surface": "התולעי",
+      "gloss": "⟨dos⟩ tolaítas"
+    },
+    {
+      "surface": "לפוה",
+      "gloss": "⟨de⟩ Puá"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨é⟩ a família"
+    },
+    {
+      "surface": "הפוני",
+      "gloss": "⟨dos⟩ punis"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Issacar",
@@ -13,60 +56,6 @@
       "hebrew": "יששכר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 615,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18297,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18912
-  },
-  "translation": "Filhos de Yissacar ⟨por⟩ suas famílias ⟨são⟩: ⟨de⟩ Tola ⟨é⟩ a família ⟨dos⟩ tolaítas; ⟨de⟩ Puá ⟨é⟩ a família ⟨dos⟩ punis;",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Filhos de"
-    },
-    {
-      "surface": "יששכר",
-      "english": "Yissacar"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "⟨por⟩ suas famílias"
-    },
-    {
-      "surface": "תולע",
-      "english": "⟨de⟩ Tola"
-    },
-    {
-      "surface": "משפחת",
-      "english": "⟨é⟩ a família"
-    },
-    {
-      "surface": "התולעי",
-      "english": "⟨dos⟩ tolaítas"
-    },
-    {
-      "surface": "לפוה",
-      "english": "⟨de⟩ Puá"
-    },
-    {
-      "surface": "משפחת",
-      "english": "⟨é⟩ a família"
-    },
-    {
-      "surface": "הפוני",
-      "english": "⟨dos⟩ punis"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:37:39.201630035Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

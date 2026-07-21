@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 105:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62799,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63152
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:48:53.957156074Z",
   "translation": "O rei enviou e ⟨o⟩ soltou; ⟨o⟩ governante dos povos e ⟨o⟩ libertou",
   "tokens": [
     {
       "surface": "שלח",
-      "english": "Enviou"
+      "gloss": "Enviou"
     },
     {
       "surface": "מלך",
-      "english": "O rei"
+      "gloss": "O rei"
     },
     {
       "surface": "ויתירהו",
-      "english": "e ⟨o⟩ soltou"
+      "gloss": "e ⟨o⟩ soltou"
     },
     {
       "surface": "משל",
-      "english": "⟨o⟩ governante"
+      "gloss": "⟨o⟩ governante"
     },
     {
       "surface": "עמים",
-      "english": "dos povos"
+      "gloss": "dos povos"
     },
     {
       "surface": "ויפתחהו",
-      "english": "e ⟨o⟩ libertou"
+      "gloss": "e ⟨o⟩ libertou"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:48:53.957156074Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

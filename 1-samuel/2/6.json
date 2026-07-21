@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-samuel 2:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16309,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 16664
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:13:50.127004155Z",
   "translation": "YHWH ⟨é⟩ quem mata e quem dá vida; ⟨é⟩ quem desce ⟨ao⟩ Sheol e ⟨quem⟩ faz subir.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ממית",
-      "english": "quem mata"
+      "gloss": "quem mata"
     },
     {
       "surface": "ומחיה",
-      "english": "e quem dá vida"
+      "gloss": "e quem dá vida"
     },
     {
       "surface": "מוריד",
-      "english": "quem desce"
+      "gloss": "quem desce"
     },
     {
       "surface": "שאול",
-      "english": "Sheol"
+      "gloss": "Sheol"
     },
     {
       "surface": "ויעל",
-      "english": "e quem faz subir"
+      "gloss": "e quem faz subir"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:13:50.127004155Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

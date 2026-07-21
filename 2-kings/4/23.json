@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "2-kings 4:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 4,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:49:11.423880476Z",
+  "translation": "E ele disse: Por que irás ⟨a⟩ ele hoje? ⟨não⟩ ⟨é⟩ Jódesh nem Shabbat. E ela disse: ⟨haverá⟩ shalom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ele disse"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Por que"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "irás"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Jódesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "E ela disse"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨haverá⟩ shalom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "lua nova",
@@ -20,72 +75,6 @@
       "hebrew": "שבת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17193,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17650
-  },
-  "translation": "E ele disse: Por que irás ⟨a⟩ ele hoje? ⟨não⟩ ⟨é⟩ Jódesh nem Shabbat. E ela disse: ⟨haverá⟩ shalom.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ele disse"
-    },
-    {
-      "surface": "מדוע",
-      "english": "Por que"
-    },
-    {
-      "surface": "אתי",
-      "english": "irás"
-    },
-    {
-      "surface": "הלכתי",
-      "english": "a"
-    },
-    {
-      "surface": "אליו",
-      "english": "ele"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "חדש",
-      "english": "Jódesh"
-    },
-    {
-      "surface": "ולא",
-      "english": "nem"
-    },
-    {
-      "surface": "שבת",
-      "english": "Shabbat"
-    },
-    {
-      "surface": "ותאמר",
-      "english": "E ela disse"
-    },
-    {
-      "surface": "שלום",
-      "english": "⟨haverá⟩ shalom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:49:11.423880476Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

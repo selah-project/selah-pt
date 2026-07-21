@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 34:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20057,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20398
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:08:41.339097388Z",
   "translation": "Toda a carne expirará juntamente, e o homem ⟨se voltará⟩ sobre ⟨o⟩ pó.",
   "tokens": [
     {
       "surface": "יגוע",
-      "english": "Expirará",
+      "gloss": "Expirará",
       "marks": "Toda a carne"
     },
     {
       "surface": "כל",
-      "english": "Toda"
+      "gloss": "Toda"
     },
     {
       "surface": "בשר",
-      "english": "carne"
+      "gloss": "carne"
     },
     {
       "surface": "יחד",
-      "english": "juntamente"
+      "gloss": "juntamente"
     },
     {
       "surface": "ואדם",
-      "english": "e o homem"
+      "gloss": "e o homem"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "עפר",
-      "english": "pó"
+      "gloss": "pó"
     },
     {
       "surface": "ישוב",
-      "english": "⟨se voltará⟩"
+      "gloss": "⟨se voltará⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:08:41.339097388Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

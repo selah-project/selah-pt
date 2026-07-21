@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "ezekiel 25:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 25,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:29:46.821367435Z",
+  "translation": "Assim diz Adonai YHWH: por causa dos Pelishtim agirem em vingança e se vingarem com desprezo ⟨por⟩ alma, para destruir com inimizade perpétua",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יען",
+      "gloss": "por causa"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "agirem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "os Pelishtim"
+    },
+    {
+      "surface": "בנקמה",
+      "gloss": "em vingança"
+    },
+    {
+      "surface": "וינקמו",
+      "gloss": "e se vingarem"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "vingança"
+    },
+    {
+      "surface": "בשאט",
+      "gloss": "com desprezo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "⟨por⟩ alma",
+      "marks": "com desprezo"
+    },
+    {
+      "surface": "למשחית",
+      "gloss": "para destruir"
+    },
+    {
+      "surface": "איבת",
+      "gloss": "com inimizade"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpétua"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Filisteus",
@@ -13,85 +81,6 @@
       "hebrew": "פלשתים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18041,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18522
-  },
-  "translation": "Assim diz Adonai YHWH: por causa dos Pelishtim agirem em vingança e se vingarem com desprezo ⟨por⟩ alma, para destruir com inimizade perpétua",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "יען",
-      "english": "por causa"
-    },
-    {
-      "surface": "עשות",
-      "english": "agirem"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "os Pelishtim"
-    },
-    {
-      "surface": "בנקמה",
-      "english": "em vingança"
-    },
-    {
-      "surface": "וינקמו",
-      "english": "e se vingarem"
-    },
-    {
-      "surface": "נקם",
-      "english": "vingança"
-    },
-    {
-      "surface": "בשאט",
-      "english": "com desprezo"
-    },
-    {
-      "surface": "בנפש",
-      "english": "⟨por⟩ alma",
-      "marks": "com desprezo"
-    },
-    {
-      "surface": "למשחית",
-      "english": "para destruir"
-    },
-    {
-      "surface": "איבת",
-      "english": "com inimizade"
-    },
-    {
-      "surface": "עולם",
-      "english": "perpétua"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:29:46.821367435Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 41,
   "ref": "numbers 1:41",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 1,
+  "verse": 41,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:08:22.546458508Z",
+  "translation": "O registro deles ⟨da⟩ tribo de Asher ⟨é⟩ um e quarenta mil e ⟨as⟩ quinhentas",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "O registro deles"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "⟨da⟩ tribo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de Asher"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "um e quarenta mil"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "e"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "⟨as⟩ quinhentas"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "quinhentas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Aser",
@@ -13,56 +52,6 @@
       "hebrew": "אשר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18083,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18464
-  },
-  "translation": "O registro deles ⟨da⟩ tribo de Asher ⟨é⟩ um e quarenta mil e ⟨as⟩ quinhentas",
-  "tokens": [
-    {
-      "surface": "פקדיהם",
-      "english": "O registro deles"
-    },
-    {
-      "surface": "למטה",
-      "english": "⟨da⟩ tribo"
-    },
-    {
-      "surface": "אשר",
-      "english": "de Asher"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "וארבעים",
-      "english": "um e quarenta mil"
-    },
-    {
-      "surface": "אלף",
-      "english": "e"
-    },
-    {
-      "surface": "וחמש",
-      "english": "⟨as⟩ quinhentas"
-    },
-    {
-      "surface": "מאות",
-      "english": "quinhentas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:08:22.546458508Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

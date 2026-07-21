@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "1-kings 5:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 5,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:15:36.461655291Z",
+  "translation": "E eis que ⟨eu⟩ digo para construir ⟨o⟩ casa para ⟨o⟩ nome de YHWH meu Elohim, conforme YHWH falou a Davidd meu pai dizendo: Teu filho, que ⟨eu⟩ darei em teu lugar sobre ⟨o⟩ teu trono, ele construirá ⟨o⟩ casa para meu nome.",
+  "tokens": [
+    {
+      "surface": "והנני",
+      "gloss": "E eis que"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨eu⟩ digo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "para construir"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨o⟩ casa"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "para ⟨o⟩ nome de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "meu Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "conforme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meu pai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo:"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "Teu filho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨eu⟩ darei"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "em teu lugar"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "⟨o⟩ teu trono"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "construirá"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨o⟩ casa"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "para meu nome"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,120 +116,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 725,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63396,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 64121
-  },
-  "translation": "E eis que ⟨eu⟩ digo para construir ⟨o⟩ casa para ⟨o⟩ nome de YHWH meu Elohim, conforme YHWH falou a Davidd meu pai dizendo: Teu filho, que ⟨eu⟩ darei em teu lugar sobre ⟨o⟩ teu trono, ele construirá ⟨o⟩ casa para meu nome.",
-  "tokens": [
-    {
-      "surface": "והנני",
-      "english": "E eis que"
-    },
-    {
-      "surface": "אמר",
-      "english": "⟨eu⟩ digo"
-    },
-    {
-      "surface": "לבנות",
-      "english": "para construir"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨o⟩ casa"
-    },
-    {
-      "surface": "לשם",
-      "english": "para ⟨o⟩ nome de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "meu Elohim"
-    },
-    {
-      "surface": "כאשר",
-      "english": "conforme"
-    },
-    {
-      "surface": "דבר",
-      "english": "falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אבי",
-      "english": "meu pai"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo:"
-    },
-    {
-      "surface": "בנך",
-      "english": "Teu filho"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "אתן",
-      "english": "⟨eu⟩ darei"
-    },
-    {
-      "surface": "תחתיך",
-      "english": "em teu lugar"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כסאך",
-      "english": "⟨o⟩ teu trono"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele"
-    },
-    {
-      "surface": "יבנה",
-      "english": "construirá"
-    },
-    {
-      "surface": "הבית",
-      "english": "⟨o⟩ casa"
-    },
-    {
-      "surface": "לשמי",
-      "english": "para meu nome"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:15:36.461655291Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

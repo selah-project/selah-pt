@@ -1,9 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "2-samuel 15:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 15,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:57:30.048748098Z",
+  "translation": "E Davidd disse a Ittai: Vai e atravessa. E Ittai ⟨o⟩ giteu atravessou, e todos os seus homens, e todas ⟨as⟩ crianças pequenas que ⟨estavam⟩ com ele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Ittai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "e atravessa"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "E atravessou"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Ittai"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "⟨o⟩ giteu",
+      "marks": "Ittai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todos"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "os seus homens"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todas"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "⟨as⟩ crianças pequenas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨estavam⟩ com ele",
+      "marks": "todas as crianças pequenas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,86 +82,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17876,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18375
-  },
-  "translation": "E Davidd disse a Ittai: Vai e atravessa. E Ittai ⟨o⟩ giteu atravessou, e todos os seus homens, e todas ⟨as⟩ crianças pequenas que ⟨estavam⟩ com ele.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אתי",
-      "english": "Ittai"
-    },
-    {
-      "surface": "לך",
-      "english": "Vai"
-    },
-    {
-      "surface": "ועבר",
-      "english": "e atravessa"
-    },
-    {
-      "surface": "ויעבר",
-      "english": "E atravessou"
-    },
-    {
-      "surface": "אתי",
-      "english": "Ittai"
-    },
-    {
-      "surface": "הגתי",
-      "english": "⟨o⟩ giteu",
-      "marks": "Ittai"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todos"
-    },
-    {
-      "surface": "אנשיו",
-      "english": "os seus homens"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todas"
-    },
-    {
-      "surface": "הטף",
-      "english": "⟨as⟩ crianças pequenas"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨estavam⟩ com ele",
-      "marks": "todas as crianças pequenas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:57:30.048748098Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

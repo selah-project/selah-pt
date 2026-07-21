@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 96,
   "ref": "psalms 119:96",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 119,
+  "verse": 96,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:00:18.389575732Z",
+  "translation": "Para todo ⟨o⟩ completo ⟨eu⟩ vi ⟨um⟩ fim ⟨ao⟩ largo ⟨é⟩ ⟨o⟩ teu Mitzvá muito",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Para todo",
+      "marks": "completo"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "⟨o⟩ completo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "⟨eu⟩ vi"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "⟨um⟩ fim"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "⟨ao⟩ largo"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "⟨o⟩ teu Mitzvá",
+      "marks": "mandamento"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muito"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamento",
@@ -13,54 +50,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 119,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62828,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63360
-  },
-  "translation": "Para todo ⟨o⟩ completo ⟨eu⟩ vi ⟨um⟩ fim ⟨ao⟩ largo ⟨é⟩ ⟨o⟩ teu Mitzvá muito",
-  "tokens": [
-    {
-      "surface": "לכל",
-      "english": "Para todo",
-      "marks": "completo"
-    },
-    {
-      "surface": "תכלה",
-      "english": "⟨o⟩ completo"
-    },
-    {
-      "surface": "ראיתי",
-      "english": "⟨eu⟩ vi"
-    },
-    {
-      "surface": "קץ",
-      "english": "⟨um⟩ fim"
-    },
-    {
-      "surface": "רחבה",
-      "english": "⟨ao⟩ largo"
-    },
-    {
-      "surface": "מצותך",
-      "english": "⟨o⟩ teu Mitzvá",
-      "marks": "mandamento"
-    },
-    {
-      "surface": "מאד",
-      "english": "muito"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:00:18.389575732Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

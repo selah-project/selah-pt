@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 1:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 292,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70456,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70748
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:35:20.124869314Z",
   "translation": "Pois se ⟨é⟩ na Torá de YHWH ⟨o⟩ seu desejo, e na Sua Torá ele medita dia e noite",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "אם",
-      "english": "se"
+      "gloss": "se"
     },
     {
       "surface": "בתורת",
-      "english": "na Torá"
+      "gloss": "na Torá"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "חפצו",
-      "english": "⟨o⟩ seu desejo"
+      "gloss": "⟨o⟩ seu desejo"
     },
     {
       "surface": "ובתורתו",
-      "english": "e na Sua Torá"
+      "gloss": "e na Sua Torá"
     },
     {
       "surface": "יהגה",
-      "english": "ele medita"
+      "gloss": "ele medita"
     },
     {
       "surface": "יומם",
-      "english": "dia"
+      "gloss": "dia"
     },
     {
       "surface": "ולילה",
-      "english": "e noite"
+      "gloss": "e noite"
     }
-  ],
-  "timestamp": "2026-06-11T23:35:20.124869314Z",
-  "model": "glm-4.5"
+  ]
 }

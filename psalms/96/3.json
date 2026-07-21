@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 96:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 365,
-    "prompt_tokens": 70226,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70591
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:44:42.886630116Z",
   "translation": "Declare ⟨among⟩ ⟨the⟩ nations his glory, ⟨among⟩ all ⟨the⟩ peoples his wonders.",
   "tokens": [
     {
       "surface": "ספרו",
-      "english": "Declare"
+      "gloss": "Declare"
     },
     {
       "surface": "בגוים",
-      "english": "⟨among⟩ ⟨the⟩ nations"
+      "gloss": "⟨among⟩ ⟨the⟩ nations"
     },
     {
       "surface": "כבודו",
-      "english": "his glory"
+      "gloss": "his glory"
     },
     {
       "surface": "בכל",
-      "english": "⟨among⟩ all"
+      "gloss": "⟨among⟩ all"
     },
     {
       "surface": "העמים",
-      "english": "⟨the⟩ peoples"
+      "gloss": "⟨the⟩ peoples"
     },
     {
       "surface": "נפלאותיו",
-      "english": "his wonders"
+      "gloss": "his wonders"
     }
-  ],
-  "timestamp": "2026-07-16T17:44:42.886630116Z",
-  "model": "glm-4.5"
+  ]
 }

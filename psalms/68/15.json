@@ -1,9 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 68:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 68,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:23:07.667073880Z",
+  "translation": "Quando Shaddai ⟨espalhou⟩ reis ⟨em⟩ ⟨ele⟩, ⟨nevou⟩ em Salmon",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "Quando o Todo-Poderoso ⟨espalhou⟩"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "reis"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨em⟩",
+      "marks": "em Salmon"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "⟨nevou⟩",
+      "marks": "a neve (literal: brancura\/ser branco como neve)"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "em Salmon"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "o Todo-Poderoso",
@@ -13,50 +46,6 @@
       "hebrew": "שדי"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 68,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62819,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63246
-  },
-  "translation": "Quando Shaddai ⟨espalhou⟩ reis ⟨em⟩ ⟨ele⟩, ⟨nevou⟩ em Salmon",
-  "tokens": [
-    {
-      "surface": "בפרש",
-      "english": "Quando o Todo-Poderoso ⟨espalhou⟩"
-    },
-    {
-      "surface": "שדי",
-      "english": "Shaddai"
-    },
-    {
-      "surface": "מלכים",
-      "english": "reis"
-    },
-    {
-      "surface": "בה",
-      "english": "⟨em⟩",
-      "marks": "em Salmon"
-    },
-    {
-      "surface": "תשלג",
-      "english": "⟨nevou⟩",
-      "marks": "a neve (literal: brancura\/ser branco como neve)"
-    },
-    {
-      "surface": "בצלמון",
-      "english": "em Salmon"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:23:07.667073880Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "proverbs 8:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52640,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 52941
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:24:34.338992873Z",
   "translation": "Eu amo ⟨os⟩ que me amam, e ⟨os⟩ que me busvam cedo me encontrarão.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Eu"
+      "gloss": "Eu"
     },
     {
       "surface": "אהביה",
-      "english": "amo ⟨os⟩ que",
+      "gloss": "amo ⟨os⟩ que",
       "marks": "⟨os⟩ que me amam"
     },
     {
       "surface": "אהב",
-      "english": "me amam"
+      "gloss": "me amam"
     },
     {
       "surface": "ומשחרי",
-      "english": "e ⟨os⟩ que me busvam cedo"
+      "gloss": "e ⟨os⟩ que me busvam cedo"
     },
     {
       "surface": "ימצאנני",
-      "english": "me encontrarão"
+      "gloss": "me encontrarão"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:24:34.338992873Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

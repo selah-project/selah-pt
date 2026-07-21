@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "ezekiel 5:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 5,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:02:35.028238504Z",
+  "translation": "Portanto assim diz Adonai YHWH: Eis-me aqui, ⟨estou⟩ contra ti, também ⟨sou⟩ eu, e executarei juízos no meio de ti aos olhos ⟨das⟩ nações.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Portanto"
+    },
+    {
+      "surface": "כה",
+      "gloss": "assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Eis-me aqui"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨estou⟩ contra ti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨sou⟩ eu"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "e executarei"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "no meio de ti"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "juízos"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "aos olhos"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨das⟩ nações"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "o Senhor",
@@ -13,80 +76,6 @@
       "hebrew": "אדני"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17959,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18554
-  },
-  "translation": "Portanto assim diz Adonai YHWH: Eis-me aqui, ⟨estou⟩ contra ti, também ⟨sou⟩ eu, e executarei juízos no meio de ti aos olhos ⟨das⟩ nações.",
-  "tokens": [
-    {
-      "surface": "לכן",
-      "english": "Portanto"
-    },
-    {
-      "surface": "כה",
-      "english": "assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "הנני",
-      "english": "Eis-me aqui"
-    },
-    {
-      "surface": "עליך",
-      "english": "⟨estou⟩ contra ti"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "אני",
-      "english": "⟨sou⟩ eu"
-    },
-    {
-      "surface": "ועשיתי",
-      "english": "e executarei"
-    },
-    {
-      "surface": "בתוכך",
-      "english": "no meio de ti"
-    },
-    {
-      "surface": "משפטים",
-      "english": "juízos"
-    },
-    {
-      "surface": "לעיני",
-      "english": "aos olhos"
-    },
-    {
-      "surface": "הגוים",
-      "english": "⟨das⟩ nações"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:02:35.028238504Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

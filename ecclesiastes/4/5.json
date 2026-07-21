@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ecclesiastes 4:5",
   "book": "ecclesiastes",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 431,
-    "prompt_tokens": 24869,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25300
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:35:52.744161819Z",
   "translation": "O tolo abraça ⟨את⟩ as suas mãos e come ⟨את⟩ a sua própria carne",
   "tokens": [
     {
       "surface": "הכסיל",
-      "english": "O tolo"
+      "gloss": "O tolo"
     },
     {
       "surface": "חבק",
-      "english": "abraça"
+      "gloss": "abraça"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "as suas mãos"
     },
     {
       "surface": "ידיו",
-      "english": "as suas mãos"
+      "gloss": "as suas mãos"
     },
     {
       "surface": "ואכל",
-      "english": "e come"
+      "gloss": "e come"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a sua própria carne"
     },
     {
       "surface": "בשרו",
-      "english": "a sua própria carne"
+      "gloss": "a sua própria carne"
     }
-  ],
-  "timestamp": "2026-07-16T13:35:52.744161819Z",
-  "model": "glm-4.5"
+  ]
 }

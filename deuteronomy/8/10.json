@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "deuteronomy 8:10",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 468,
-    "prompt_tokens": 25513,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25981
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:15:49.440099430Z",
   "translation": "E comerás e te fartarás, e abençoarás ⟨את⟩ YHWH teu Elohim pela boa terra que Ele te deu",
   "tokens": [
     {
       "surface": "ואכלת",
-      "english": "E comerás"
+      "gloss": "E comerás"
     },
     {
       "surface": "ושבעת",
-      "english": "e te fartarás"
+      "gloss": "e te fartarás"
     },
     {
       "surface": "וברכת",
-      "english": "e abençoarás"
+      "gloss": "e abençoarás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיך",
-      "english": "teu Elohim"
+      "gloss": "teu Elohim"
     },
     {
       "surface": "על",
-      "english": "pela"
+      "gloss": "pela"
     },
     {
       "surface": "הארץ",
-      "english": "boa terra"
+      "gloss": "boa terra"
     },
     {
       "surface": "הטבה",
-      "english": "boa"
+      "gloss": "boa"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "נתן",
-      "english": "Ele te deu"
+      "gloss": "Ele te deu"
     },
     {
       "surface": "לך",
-      "english": "a ti"
+      "gloss": "a ti"
     }
-  ],
-  "timestamp": "2026-07-16T13:15:49.440099430Z",
-  "model": "glm-4.5"
+  ]
 }

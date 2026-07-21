@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "isaiah 22:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 22,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:29:29.108320415Z",
+  "translation": "E colocarei ⟨a⟩ chave da casa de Davidd sobre o seu ombro; e ele abrirá, e ninguém fechará; e ele fechará, e ninguém abrirá.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "E colocarei"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "chave"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ombro"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "e ele abrirá"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e ninguém"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "fechará"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "e ele fechará"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e ninguém"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "abrirá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,72 +68,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19467,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19951
-  },
-  "translation": "E colocarei ⟨a⟩ chave da casa de Davidd sobre o seu ombro; e ele abrirá, e ninguém fechará; e ele fechará, e ninguém abrirá.",
-  "tokens": [
-    {
-      "surface": "ונתתי",
-      "english": "E colocarei"
-    },
-    {
-      "surface": "מפתח",
-      "english": "chave"
-    },
-    {
-      "surface": "בית",
-      "english": "casa"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "שכמו",
-      "english": "ombro"
-    },
-    {
-      "surface": "ופתח",
-      "english": "e ele abrirá"
-    },
-    {
-      "surface": "ואין",
-      "english": "e ninguém"
-    },
-    {
-      "surface": "סגר",
-      "english": "fechará"
-    },
-    {
-      "surface": "וסגר",
-      "english": "e ele fechará"
-    },
-    {
-      "surface": "ואין",
-      "english": "e ninguém"
-    },
-    {
-      "surface": "פתח",
-      "english": "abrirá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:29:29.108320415Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

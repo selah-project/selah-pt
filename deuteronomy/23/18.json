@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "deuteronomy 23:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 23,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:13:15.670538266Z",
+  "translation": "Não haverá ⟨a⟩ prostituta ⟨dentre⟩ as filhas de Yisrael, e não haverá ⟨um⟩ sodomita ⟨dentre⟩ os filhos de Yisrael",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "haverá"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "⟨a⟩ prostituta"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "⟨dentre⟩ as filhas de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "haverá"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨um⟩ sodomita"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "⟨dentre⟩ os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,64 +67,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17958,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 18425
-  },
-  "translation": "Não haverá ⟨a⟩ prostituta ⟨dentre⟩ as filhas de Yisrael, e não haverá ⟨um⟩ sodomita ⟨dentre⟩ os filhos de Yisrael",
-  "tokens": [
-    {
-      "surface": "לא",
-      "english": "Não"
-    },
-    {
-      "surface": "תהיה",
-      "english": "haverá"
-    },
-    {
-      "surface": "קדשה",
-      "english": "⟨a⟩ prostituta"
-    },
-    {
-      "surface": "מבנות",
-      "english": "⟨dentre⟩ as filhas de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "יהיה",
-      "english": "haverá"
-    },
-    {
-      "surface": "קדש",
-      "english": "⟨um⟩ sodomita"
-    },
-    {
-      "surface": "מבני",
-      "english": "⟨dentre⟩ os filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:13:15.670538266Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

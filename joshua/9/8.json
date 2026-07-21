@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "joshua 9:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 9,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:33:33.709141804Z",
+  "translation": "E disseram a Yehoshua: ⟨Os⟩ servos de teu ⟨são⟩ nós. E Yehoshua disse-lhes: Quem ⟨sois⟩ vós e de onde vindes?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E disseram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "⟨Os⟩ servos de teu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨são⟩ nós"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E Josué disse"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "-lhes"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Quem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨sois⟩ vós"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "e de onde"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "vindes"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josué",
@@ -20,72 +75,6 @@
       "hebrew": "יהושע"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16722,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 17111
-  },
-  "translation": "E disseram a Yehoshua: ⟨Os⟩ servos de teu ⟨são⟩ nós. E Yehoshua disse-lhes: Quem ⟨sois⟩ vós e de onde vindes?",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "E disseram"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua"
-    },
-    {
-      "surface": "עבדיך",
-      "english": "⟨Os⟩ servos de teu"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "⟨são⟩ nós"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E Josué disse"
-    },
-    {
-      "surface": "אלהם",
-      "english": "-lhes"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua"
-    },
-    {
-      "surface": "מי",
-      "english": "Quem"
-    },
-    {
-      "surface": "אתם",
-      "english": "⟨sois⟩ vós"
-    },
-    {
-      "surface": "ומאין",
-      "english": "e de onde"
-    },
-    {
-      "surface": "תבאו",
-      "english": "vindes"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:33:33.709141804Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "amos 5:1",
   "book": "amos",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 651,
-    "prompt_tokens": 24190,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24841
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:01:21.478903741Z",
   "translation": "Ouvi ⟨את⟩ esta palavra que levo como uma lamentação ⟨sobre⟩ vós, ó casa de Yisrael",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "Ouvi"
+      "gloss": "Ouvi"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "esta palavra"
     },
     {
       "surface": "הדבר",
-      "english": "esta palavra"
+      "gloss": "esta palavra"
     },
     {
       "surface": "הזה",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אשר",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אנכי",
-      "english": "eu"
+      "gloss": "eu"
     },
     {
       "surface": "נשא",
-      "english": "levo"
+      "gloss": "levo"
     },
     {
       "surface": "עליכם",
-      "english": "como uma lamentação ⟨sobre⟩ vós"
+      "gloss": "como uma lamentação ⟨sobre⟩ vós"
     },
     {
       "surface": "קינה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "בית",
-      "english": "casa de"
+      "gloss": "casa de"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T13:01:21.478903741Z",
-  "model": "glm-4.5"
+  ]
 }

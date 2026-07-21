@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 8:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62750,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63099
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:43:56.691484217Z",
   "translation": "⟨Ao⟩ maestro ⟨sobre⟩ a gitita, ⟨um⟩ salmo ⟨de⟩ David",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Ao⟩ maestro"
+      "gloss": "⟨Ao⟩ maestro"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "הגתית",
-      "english": "⟨a⟩ gitita"
+      "gloss": "⟨a⟩ gitita"
     },
     {
       "surface": "מזמור",
-      "english": "⟨um⟩ salmo"
+      "gloss": "⟨um⟩ salmo"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David"
+      "gloss": "⟨de⟩ David"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:43:56.691484217Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

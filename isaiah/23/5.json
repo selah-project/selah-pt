@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 23:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 23,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:29:51.969252310Z",
+  "translation": "como ⟨no⟩ relatório a respeito de ⟨o⟩ Egito, assim estarão angustiados ⟨no⟩ relatório de Tzor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Como"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨no⟩ relatório"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "a respeito de ⟨o⟩ Egito"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "assim estarão angustiados"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "⟨no⟩ relatório"
+    },
+    {
+      "surface": "צר",
+      "gloss": "de Tzor"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Tiro",
@@ -13,48 +44,6 @@
       "hebrew": "צור"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18907,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19226
-  },
-  "translation": "como ⟨no⟩ relatório a respeito de ⟨o⟩ Egito, assim estarão angustiados ⟨no⟩ relatório de Tzor.",
-  "tokens": [
-    {
-      "surface": "כאשר",
-      "english": "Como"
-    },
-    {
-      "surface": "שמע",
-      "english": "⟨no⟩ relatório"
-    },
-    {
-      "surface": "למצרים",
-      "english": "a respeito de ⟨o⟩ Egito"
-    },
-    {
-      "surface": "יחילו",
-      "english": "assim estarão angustiados"
-    },
-    {
-      "surface": "כשמע",
-      "english": "⟨no⟩ relatório"
-    },
-    {
-      "surface": "צר",
-      "english": "de Tzor"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:29:51.969252310Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

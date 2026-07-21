@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 95:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 95,
-  "usage": {
-    "completion_tokens": 430,
-    "prompt_tokens": 70289,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70719
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:44:39.067262268Z",
   "translation": "que jurei em ⟨minha⟩ fúria: se entrarem em ⟨meu⟩ descanso",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "נשבעתי",
-      "english": "jurei"
+      "gloss": "jurei"
     },
     {
       "surface": "באפי",
-      "english": "em ⟨minha⟩ fúria"
+      "gloss": "em ⟨minha⟩ fúria"
     },
     {
       "surface": "אם",
-      "english": "se"
+      "gloss": "se"
     },
     {
       "surface": "יבאון",
-      "english": "entrarem"
+      "gloss": "entrarem"
     },
     {
       "surface": "אל",
-      "english": "em"
+      "gloss": "em"
     },
     {
       "surface": "מנוחתי",
-      "english": "⟨meu⟩ descanso"
+      "gloss": "⟨meu⟩ descanso"
     }
-  ],
-  "timestamp": "2026-07-16T17:44:39.067262268Z",
-  "model": "glm-4.5"
+  ]
 }

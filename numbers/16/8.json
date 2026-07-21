@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "numbers 16:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 16,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:26:47.121708964Z",
+  "translation": "E Moshé disse a Korach: Escutai, ⟨את⟩ os filhos de Leví:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Escutai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨agora⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos de"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leví"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshe",
@@ -20,56 +59,6 @@
       "hebrew": "לוי"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18002,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18329
-  },
-  "translation": "E Moshé disse a Korach: Escutai, ⟨את⟩ os filhos de Leví:",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "קרח",
-      "english": "Korach"
-    },
-    {
-      "surface": "שמעו",
-      "english": "Escutai"
-    },
-    {
-      "surface": "נא",
-      "english": "⟨agora⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos de"
-    },
-    {
-      "surface": "לוי",
-      "english": "Leví"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:26:47.121708964Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

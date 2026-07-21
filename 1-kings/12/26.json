@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "1-kings 12:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 12,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:29:02.355464113Z",
+  "translation": "E Jeroboam disse em ⟨seu⟩ coração: ⟨Agora⟩ ⟨o⟩ reino se tornará ⟨à⟩ casa de Davidd:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Jeroboam disse"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboam"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "em ⟨seu⟩ coração",
+      "marks": "coração"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "⟨Agora⟩"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "⟨o⟩ reino se tornará"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "⟨o⟩ reino"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨à⟩ casa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,57 +53,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62385,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62836
-  },
-  "translation": "E Jeroboam disse em ⟨seu⟩ coração: ⟨Agora⟩ ⟨o⟩ reino se tornará ⟨à⟩ casa de Davidd:",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Jeroboam disse"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Jeroboam"
-    },
-    {
-      "surface": "בלבו",
-      "english": "em ⟨seu⟩ coração",
-      "marks": "coração"
-    },
-    {
-      "surface": "עתה",
-      "english": "⟨Agora⟩"
-    },
-    {
-      "surface": "תשוב",
-      "english": "⟨o⟩ reino se tornará"
-    },
-    {
-      "surface": "הממלכה",
-      "english": "⟨o⟩ reino"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨à⟩ casa"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:29:02.355464113Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

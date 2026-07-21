@@ -1,1 +1,47 @@
-{"usage":{"completion_tokens":801,"completion_tokens_details":{"reasoning_tokens":0},"prompt_tokens":62859,"prompt_tokens_details":{"cached_tokens":61939},"total_tokens":63660},"book":"psalms","lang":"pt","model":"glm-4.5","timestamp":"2026-05-31T10:06:56.540699531Z","source-version":"v1","substitutions":[],"verse":11,"canonical-forms-version":"2026-05-30-v1","ref":"psalms 41:11","version":"v2","tier":"bulk","chapter":41,"translation":"E tu, ⟨o⟩ YHWH, sê misericordioso ⟨com⟩ mim e ergue-me, para que ⟨eu⟩ ⟨os⟩ recompense.","tokens":[{"surface":"ואתה","english":"E tu","notes":"addition: 'E' para conectar com contexto anterior; 'tu' como sujeito explícito que Hebrew omite mas exige em português"},{"surface":"יהוה","english":"YHWH","notes":"addition: artigo definido '⟨o⟩' exigido em português antes de nomes divinos transliterados; mantém forma tetragramática em vez de 'Senhor'"},{"surface":"חנני","english":"sê misericordioso ⟨com⟩ mim","notes":"substitution: 'sê misericordioso' para חנן (favorecer\/benigno); '⟨com⟩ mim' para o sufixo pronominal ני"},{"surface":"והקימני","english":"e ergue-me","notes":"elision: o prefixo conjuntivo ו- é incluído em 'e'; הקים (erguer) com sufixo ני traduzido como '-me'"},{"surface":"ואשלמה","english":"para que ⟨eu⟩ ⟨os⟩ recompense","notes":"addition: 'para que' como conjunção final implícita; '⟨eu⟩' como sujeito exigido em português; '⟨os⟩' como objeto direto exigido pelo verbo recompensar"},{"surface":"להם","english":"recompense","notes":"substitution: 'recompense' para שלם (pagar\/recompensar) com sufixo pronominal להם; estrutura verbal reordenada para naturalidade em português"}]}
+{
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "chapter": 41,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:06:56.540699531Z",
+  "translation": "E tu, ⟨o⟩ YHWH, sê misericordioso ⟨com⟩ mim e ergue-me, para que ⟨eu⟩ ⟨os⟩ recompense.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E tu",
+      "notes": "addition: 'E' para conectar com contexto anterior; 'tu' como sujeito explícito que Hebrew omite mas exige em português"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH",
+      "notes": "addition: artigo definido '⟨o⟩' exigido em português antes de nomes divinos transliterados; mantém forma tetragramática em vez de 'Senhor'"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "sê misericordioso ⟨com⟩ mim",
+      "notes": "substitution: 'sê misericordioso' para חנן (favorecer\/benigno); '⟨com⟩ mim' para o sufixo pronominal ני"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "e ergue-me",
+      "notes": "elision: o prefixo conjuntivo ו- é incluído em 'e'; הקים (erguer) com sufixo ני traduzido como '-me'"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "para que ⟨eu⟩ ⟨os⟩ recompense",
+      "notes": "addition: 'para que' como conjunção final implícita; '⟨eu⟩' como sujeito exigido em português; '⟨os⟩' como objeto direto exigido pelo verbo recompensar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "recompense",
+      "notes": "substitution: 'recompense' para שלם (pagar\/recompensar) com sufixo pronominal להם; estrutura verbal reordenada para naturalidade em português"
+    }
+  ],
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
+}

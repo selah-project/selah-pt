@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "joshua 13:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 13,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:38:40.038969021Z",
+  "translation": "Todos ⟨os⟩ moradores ⟨do⟩ monte, ⟨desde⟩ ⟨o⟩ Líbano até ⟨as⟩ águas ⟨de⟩ Misrefote-Maim, todos ⟨os⟩ sidônios, eu os expulsarei de diante dos filhos ⟨de⟩ Yisrael; somente faze ⟨a⟩ herança ⟨a⟩ Yisrael, como te ordenei.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Todos"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨os⟩ moradores"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨do⟩ monte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨desde⟩"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "⟨o⟩ Líbano"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "משרפת",
+      "gloss": "⟨as⟩ águas ⟨de⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Misrefote-Maim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos ⟨os⟩"
+    },
+    {
+      "surface": "צידנים",
+      "gloss": "sidônios"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "אורישם",
+      "gloss": "os expulsarei"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de diante de"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos ⟨de⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "רק",
+      "gloss": "somente"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "faze ⟨a⟩"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "herança ⟨a⟩"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "te ordenei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,108 +104,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 797,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17665,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 18462
-  },
-  "translation": "Todos ⟨os⟩ moradores ⟨do⟩ monte, ⟨desde⟩ ⟨o⟩ Líbano até ⟨as⟩ águas ⟨de⟩ Misrefote-Maim, todos ⟨os⟩ sidônios, eu os expulsarei de diante dos filhos ⟨de⟩ Yisrael; somente faze ⟨a⟩ herança ⟨a⟩ Yisrael, como te ordenei.",
-  "tokens": [
-    {
-      "surface": "כל",
-      "english": "Todos"
-    },
-    {
-      "surface": "ישבי",
-      "english": "⟨os⟩ moradores"
-    },
-    {
-      "surface": "ההר",
-      "english": "⟨do⟩ monte"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨desde⟩"
-    },
-    {
-      "surface": "הלבנון",
-      "english": "⟨o⟩ Líbano"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "משרפת",
-      "english": "⟨as⟩ águas ⟨de⟩"
-    },
-    {
-      "surface": "מים",
-      "english": "Misrefote-Maim"
-    },
-    {
-      "surface": "כל",
-      "english": "todos ⟨os⟩"
-    },
-    {
-      "surface": "צידנים",
-      "english": "sidônios"
-    },
-    {
-      "surface": "אנכי",
-      "english": "eu"
-    },
-    {
-      "surface": "אורישם",
-      "english": "os expulsarei"
-    },
-    {
-      "surface": "מפני",
-      "english": "de diante de"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos ⟨de⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "רק",
-      "english": "somente"
-    },
-    {
-      "surface": "הפלה",
-      "english": "faze ⟨a⟩"
-    },
-    {
-      "surface": "לישראל",
-      "english": "herança ⟨a⟩"
-    },
-    {
-      "surface": "בנחלה",
-      "english": "Israel"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como"
-    },
-    {
-      "surface": "צויתיך",
-      "english": "te ordenei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:38:40.038969021Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

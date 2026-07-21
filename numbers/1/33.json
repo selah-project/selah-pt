@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "numbers 1:33",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 431,
-    "prompt_tokens": 25473,
-    "prompt_tokens_details": {
-      "cached_tokens": 21248
-    },
-    "total_tokens": 25904
-  },
+  "verse": 33,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:02:02.232856912Z",
   "translation": "Seu recenseamento, ⟨para⟩ ⟨a⟩ tribo ⟨de⟩ Efráyim, quarenta mil e quinhentos.",
   "tokens": [
     {
       "surface": "פקדיהם",
-      "english": "Seu recenseamento"
+      "gloss": "Seu recenseamento"
     },
     {
       "surface": "למטה",
-      "english": "⟨para⟩ ⟨a⟩ tribo ⟨de⟩"
+      "gloss": "⟨para⟩ ⟨a⟩ tribo ⟨de⟩"
     },
     {
       "surface": "אפרים",
-      "english": "Efráyim"
+      "gloss": "Efráyim"
     },
     {
       "surface": "ארבעים",
-      "english": "quarenta mil"
+      "gloss": "quarenta mil"
     },
     {
       "surface": "אלף",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "וחמש",
-      "english": "e quinhentos"
+      "gloss": "e quinhentos"
     },
     {
       "surface": "מאות",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T17:02:02.232856912Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 24:5",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 340,
-    "prompt_tokens": 25340,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25680
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:19:42.392102931Z",
   "translation": "Como ⟨são⟩ boas ⟨as⟩ tuas tendas, Yaakov, ⟨e⟩ as tuas moradas, Yisrael!",
   "tokens": [
     {
       "surface": "מה",
-      "english": "Como"
+      "gloss": "Como"
     },
     {
       "surface": "טבו",
-      "english": "⟨são⟩ boas"
+      "gloss": "⟨são⟩ boas"
     },
     {
       "surface": "אהליך",
-      "english": "⟨as⟩ tuas tendas"
+      "gloss": "⟨as⟩ tuas tendas"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "משכנתיך",
-      "english": "⟨e⟩ as tuas moradas"
+      "gloss": "⟨e⟩ as tuas moradas"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T17:19:42.392102931Z",
-  "model": "glm-4.5"
+  ]
 }

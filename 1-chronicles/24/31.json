@@ -1,9 +1,111 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "1-chronicles 24:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 24,
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:59:47.263316231Z",
+  "translation": "Eles também lançaram sortes ⟨junto com⟩ seus irmãos, ⟨os⟩ filhos de Aharón, diante de Davidd ⟨o⟩ rei, e ⟨de⟩ Tsadok, e ⟨de⟩ Ahimélec, e ⟨os⟩ chefes ⟨das⟩ casas paternas dos kohanim e ⟨dos⟩ leviítas, ⟨o⟩ chefe ⟨da⟩ casa ⟨paterna⟩ ⟨junto com⟩ seu irmão ⟨o⟩ menor.",
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "Eles também lançaram"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "הם",
+      "gloss": "Eles"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "sortes"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "⟨junto com⟩",
+      "marks": "seus irmãos"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "seus irmãos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos de",
+      "marks": "Aharón"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante de"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨o⟩ rei",
+      "marks": "David"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "e ⟨de⟩ Tsadok"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "e ⟨de⟩ Ahimélec"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "e ⟨os⟩ chefes",
+      "marks": "casas paternas"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "⟨das⟩ casas paternas"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "dos kohanim"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "e ⟨dos⟩ leviítas"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "⟨o⟩ chefe ⟨da⟩ casa ⟨paterna⟩",
+      "marks": "leviítas"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "chefe"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "⟨junto com⟩",
+      "marks": "seu irmão"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seu irmão"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "⟨o⟩ menor",
+      "marks": "irmão"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,119 +115,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 1126,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58425,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 59551
-  },
-  "translation": "Eles também lançaram sortes ⟨junto com⟩ seus irmãos, ⟨os⟩ filhos de Aharón, diante de Davidd ⟨o⟩ rei, e ⟨de⟩ Tsadok, e ⟨de⟩ Ahimélec, e ⟨os⟩ chefes ⟨das⟩ casas paternas dos kohanim e ⟨dos⟩ leviítas, ⟨o⟩ chefe ⟨da⟩ casa ⟨paterna⟩ ⟨junto com⟩ seu irmão ⟨o⟩ menor.",
-  "tokens": [
-    {
-      "surface": "ויפילו",
-      "english": "Eles também lançaram"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "הם",
-      "english": "Eles"
-    },
-    {
-      "surface": "גורלות",
-      "english": "sortes"
-    },
-    {
-      "surface": "לעמת",
-      "english": "⟨junto com⟩",
-      "marks": "seus irmãos"
-    },
-    {
-      "surface": "אחיהם",
-      "english": "seus irmãos"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos de",
-      "marks": "Aharón"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharón"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante de"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨o⟩ rei",
-      "marks": "David"
-    },
-    {
-      "surface": "וצדוק",
-      "english": "e ⟨de⟩ Tsadok"
-    },
-    {
-      "surface": "ואחימלך",
-      "english": "e ⟨de⟩ Ahimélec"
-    },
-    {
-      "surface": "וראשי",
-      "english": "e ⟨os⟩ chefes",
-      "marks": "casas paternas"
-    },
-    {
-      "surface": "האבות",
-      "english": "⟨das⟩ casas paternas"
-    },
-    {
-      "surface": "לכהנים",
-      "english": "dos kohanim"
-    },
-    {
-      "surface": "וללוים",
-      "english": "e ⟨dos⟩ leviítas"
-    },
-    {
-      "surface": "אבות",
-      "english": "⟨o⟩ chefe ⟨da⟩ casa ⟨paterna⟩",
-      "marks": "leviítas"
-    },
-    {
-      "surface": "הראש",
-      "english": "chefe"
-    },
-    {
-      "surface": "לעמת",
-      "english": "⟨junto com⟩",
-      "marks": "seu irmão"
-    },
-    {
-      "surface": "אחיו",
-      "english": "seu irmão"
-    },
-    {
-      "surface": "הקטן",
-      "english": "⟨o⟩ menor",
-      "marks": "irmão"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:59:47.263316231Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

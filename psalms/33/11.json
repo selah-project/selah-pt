@@ -1,84 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 33:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 805,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62959,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63764
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:00:02.984059269Z",
   "translation": "O conselho de YHWH ⟨está⟩ ⟨por⟩ sempre ⟨para⟩ ⟨estar⟩ ⟨firme⟩, ⟨os⟩ planos de seu coração ⟨para⟩ ⟨geração⟩ ⟨e⟩ geração.",
   "tokens": [
     {
       "surface": "עצת",
-      "english": "O conselho",
+      "gloss": "O conselho",
       "gv": 560,
       "freq": 20,
       "lemma": 6098
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH",
+      "gloss": "de YHWH",
       "gv": 26,
       "freq": 6007,
       "lemma": 3068
     },
     {
       "surface": "לעולם",
-      "english": "⟨por⟩ sempre",
+      "gloss": "⟨por⟩ sempre",
       "gv": 176,
       "freq": 157,
       "lemma": "l\/5769"
     },
     {
       "surface": "תעמד",
-      "english": "⟨para⟩ ⟨estar⟩ ⟨firme⟩",
+      "gloss": "⟨para⟩ ⟨estar⟩ ⟨firme⟩",
       "gv": 514,
       "freq": 18,
       "lemma": 5975
     },
     {
       "surface": "מחשבות",
-      "english": "⟨os⟩ planos",
+      "gloss": "⟨os⟩ planos",
       "gv": 756,
       "freq": 22,
       "lemma": 4284
     },
     {
       "surface": "לבו",
-      "english": "de seu coração",
+      "gloss": "de seu coração",
       "gv": 38,
       "freq": 70,
       "lemma": 3820
     },
     {
       "surface": "לדר",
-      "english": "⟨para⟩ ⟨geração⟩",
+      "gloss": "⟨para⟩ ⟨geração⟩",
       "gv": 234,
       "freq": 16,
       "lemma": "l\/1755"
     },
     {
       "surface": "ודר",
-      "english": "⟨e⟩ geração",
+      "gloss": "⟨e⟩ geração",
       "gv": 210,
       "freq": 19,
       "lemma": "c\/1755"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:00:02.984059269Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

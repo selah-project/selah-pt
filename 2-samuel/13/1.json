@@ -1,9 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-samuel 13:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 13,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:54:12.943133204Z",
+  "translation": "E aconteceu após ⟨isso⟩, ⟨que⟩ Absalão ⟨o⟩ filho de David tinha uma irmã bela, e seu nome ⟨era⟩ Tamar; e Amnon ⟨o⟩ filho de David amou-a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "após"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨isso⟩",
+      "marks": "a coisa mencionada anteriormente"
+    },
+    {
+      "surface": "ולאבשלום",
+      "gloss": "⟨que⟩ Absalão ⟨o⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "irmã"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bela"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "e seu nome ⟨era⟩"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "ויאהבה",
+      "gloss": "e Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,81 +84,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 537,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17756,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18293
-  },
-  "translation": "E aconteceu após ⟨isso⟩, ⟨que⟩ Absalão ⟨o⟩ filho de David tinha uma irmã bela, e seu nome ⟨era⟩ Tamar; e Amnon ⟨o⟩ filho de David amou-a.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "אחרי",
-      "english": "após"
-    },
-    {
-      "surface": "כן",
-      "english": "⟨isso⟩",
-      "marks": "a coisa mencionada anteriormente"
-    },
-    {
-      "surface": "ולאבשלום",
-      "english": "⟨que⟩ Absalão ⟨o⟩"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "דוד",
-      "english": "de David"
-    },
-    {
-      "surface": "אחות",
-      "english": "irmã"
-    },
-    {
-      "surface": "יפה",
-      "english": "bela"
-    },
-    {
-      "surface": "ושמה",
-      "english": "e seu nome ⟨era⟩"
-    },
-    {
-      "surface": "תמר",
-      "english": "Tamar"
-    },
-    {
-      "surface": "ויאהבה",
-      "english": "e Amnon"
-    },
-    {
-      "surface": "אמנון",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "דוד",
-      "english": "de David"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:54:12.943133204Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

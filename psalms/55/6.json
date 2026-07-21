@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 55:6",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 393,
-    "prompt_tokens": 70200,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70593
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:39:16.804524054Z",
   "translation": "Temor e tremor ⟨vêm⟩ sobre mim, e me cobrem horrores.",
   "tokens": [
     {
       "surface": "יִרְאָה",
-      "english": "temor"
+      "gloss": "temor"
     },
     {
       "surface": "וְרַעַד",
-      "english": "e tremor"
+      "gloss": "e tremor"
     },
     {
       "surface": "יָבֹא",
-      "english": "⟨vêm⟩"
+      "gloss": "⟨vêm⟩"
     },
     {
       "surface": "בִּי",
-      "english": "sobre mim"
+      "gloss": "sobre mim"
     },
     {
       "surface": "וַתְכַסֵּנִי",
-      "english": "e me cobrem"
+      "gloss": "e me cobrem"
     },
     {
       "surface": "פַּלָּצוּת",
-      "english": "horrores"
+      "gloss": "horrores"
     }
-  ],
-  "timestamp": "2026-07-16T17:39:16.804524054Z",
-  "model": "glm-4.5"
+  ]
 }

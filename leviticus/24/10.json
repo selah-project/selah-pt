@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "leviticus 24:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 24,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:02:58.807010791Z",
+  "translation": "E saiu ⟨o⟩ filho de uma mulher israelita, e ⟨ele⟩ ⟨é⟩ filho de um homem egípcio, no meio dos filhos de Yisrael; e contenderam no acampamento ⟨o⟩ filho da israelita e ⟨o⟩ homem israelita",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E saiu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "de uma mulher"
+    },
+    {
+      "surface": "ישראלית",
+      "gloss": "israelita"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e ⟨ele⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨é⟩ filho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de um homem"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "egípcio"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "no meio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "e contenderam"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "no acampamento"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "da israelita"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e ⟨o⟩ homem"
+    },
+    {
+      "surface": "הישראלי",
+      "gloss": "israelita"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,92 +88,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 599,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18401,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 19000
-  },
-  "translation": "E saiu ⟨o⟩ filho de uma mulher israelita, e ⟨ele⟩ ⟨é⟩ filho de um homem egípcio, no meio dos filhos de Yisrael; e contenderam no acampamento ⟨o⟩ filho da israelita e ⟨o⟩ homem israelita",
-  "tokens": [
-    {
-      "surface": "ויצא",
-      "english": "E saiu"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "אשה",
-      "english": "de uma mulher"
-    },
-    {
-      "surface": "ישראלית",
-      "english": "israelita"
-    },
-    {
-      "surface": "והוא",
-      "english": "e ⟨ele⟩"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨é⟩ filho"
-    },
-    {
-      "surface": "איש",
-      "english": "de um homem"
-    },
-    {
-      "surface": "מצרי",
-      "english": "egípcio"
-    },
-    {
-      "surface": "בתוך",
-      "english": "no meio"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "וינצו",
-      "english": "e contenderam"
-    },
-    {
-      "surface": "במחנה",
-      "english": "no acampamento"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "הישראלית",
-      "english": "da israelita"
-    },
-    {
-      "surface": "ואיש",
-      "english": "e ⟨o⟩ homem"
-    },
-    {
-      "surface": "הישראלי",
-      "english": "israelita"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:02:58.807010791Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

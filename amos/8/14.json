@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "amos 8:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 8,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:10:51.141262021Z",
+  "translation": "Os que juram ⟨pelo⟩ pecado de Shomron e dizem: Viva ⟨o⟩ teu Elohim, ó Dan! E ⟨o⟩ caminho de Beer-Sheba vive! Cairão e não se levantarão mais.",
+  "tokens": [
+    {
+      "surface": "הנשבעים",
+      "gloss": "Os que juram"
+    },
+    {
+      "surface": "באשמת",
+      "gloss": "⟨pelo⟩ pecado"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "e dizem"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Viva"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "⟨o⟩ teu Elohim"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ó Dan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "E"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨o⟩ caminho"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-Sheba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "vive"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "Cairão"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "se levantarão"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mais"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samaria",
@@ -13,84 +80,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17116,
-    "prompt_tokens_details": {
-      "cached_tokens": 15411
-    },
-    "total_tokens": 17623
-  },
-  "translation": "Os que juram ⟨pelo⟩ pecado de Shomron e dizem: Viva ⟨o⟩ teu Elohim, ó Dan! E ⟨o⟩ caminho de Beer-Sheba vive! Cairão e não se levantarão mais.",
-  "tokens": [
-    {
-      "surface": "הנשבעים",
-      "english": "Os que juram"
-    },
-    {
-      "surface": "באשמת",
-      "english": "⟨pelo⟩ pecado"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomron"
-    },
-    {
-      "surface": "ואמרו",
-      "english": "e dizem"
-    },
-    {
-      "surface": "חי",
-      "english": "Viva"
-    },
-    {
-      "surface": "אלהיך",
-      "english": "⟨o⟩ teu Elohim"
-    },
-    {
-      "surface": "דן",
-      "english": "ó Dan"
-    },
-    {
-      "surface": "וחי",
-      "english": "E"
-    },
-    {
-      "surface": "דרך",
-      "english": "⟨o⟩ caminho"
-    },
-    {
-      "surface": "באר",
-      "english": "Beer-Sheba"
-    },
-    {
-      "surface": "שבע",
-      "english": "vive"
-    },
-    {
-      "surface": "ונפלו",
-      "english": "Cairão"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "יקומו",
-      "english": "se levantarão"
-    },
-    {
-      "surface": "עוד",
-      "english": "mais"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:10:51.141262021Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

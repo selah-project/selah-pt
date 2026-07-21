@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "deuteronomy 33:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 33,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:24:14.712441543Z",
+  "translation": "E ⟨foi⟩ rei em Jesurum, quando ⟨se⟩ reuniram ⟨os⟩ cabeças ⟨de⟩ ⟨um⟩ povo, conjuntamente as tribos de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E ⟨foi⟩"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "em Jesurum"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "quando ⟨se⟩ reuniram"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "⟨os⟩ cabeças"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨de⟩ ⟨um⟩ povo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "conjuntamente"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "as tribos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17754,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 18267
-  },
-  "translation": "E ⟨foi⟩ rei em Jesurum, quando ⟨se⟩ reuniram ⟨os⟩ cabeças ⟨de⟩ ⟨um⟩ povo, conjuntamente as tribos de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E ⟨foi⟩"
-    },
-    {
-      "surface": "בישרון",
-      "english": "em Jesurum"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בהתאסף",
-      "english": "quando ⟨se⟩ reuniram"
-    },
-    {
-      "surface": "ראשי",
-      "english": "⟨os⟩ cabeças"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨de⟩ ⟨um⟩ povo"
-    },
-    {
-      "surface": "יחד",
-      "english": "conjuntamente"
-    },
-    {
-      "surface": "שבטי",
-      "english": "as tribos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:24:14.712441543Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

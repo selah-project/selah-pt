@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 122:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 122,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:04:16.855182793Z",
+  "translation": "Peçam ⟨por⟩ ⟨a⟩ Shalom ⟨de⟩ Yerushalayim; prosperarão ⟨os⟩ que te amam.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Peçam"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "prosperarão"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "que te amam"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -20,44 +47,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 122,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62685,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63032
-  },
-  "translation": "Peçam ⟨por⟩ ⟨a⟩ Shalom ⟨de⟩ Yerushalayim; prosperarão ⟨os⟩ que te amam.",
-  "tokens": [
-    {
-      "surface": "שאלו",
-      "english": "Peçam"
-    },
-    {
-      "surface": "שלום",
-      "english": "Shalom"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "ישליו",
-      "english": "prosperarão"
-    },
-    {
-      "surface": "אהביך",
-      "english": "que te amam"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:04:16.855182793Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

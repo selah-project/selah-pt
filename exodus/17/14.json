@@ -1,9 +1,93 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "exodus 17:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 17,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:00:42.271895913Z",
+  "translation": "E YHWH disse a Moshé: 'Escreve isto ⟨por⟩ memorial no livro, e ⟨o⟩ põe nos ouvidos de Yehoshua, porque ⟨eu⟩ apagarei ⟨o⟩ memorial de Amalek de sob ⟨os⟩ céus.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E YHWH disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Escreve"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "isto"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "⟨por⟩ memorial"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "no livro"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "e ⟨o⟩ põe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "nos ouvidos de"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "⟨eu⟩ apagarei"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "apagarei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "memorial"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "memorial"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "de Amalek"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de sob"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨os⟩ céus"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amaleque",
@@ -13,101 +97,6 @@
       "hebrew": "עמלק"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 789,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18000,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18789
-  },
-  "translation": "E YHWH disse a Moshé: 'Escreve isto ⟨por⟩ memorial no livro, e ⟨o⟩ põe nos ouvidos de Yehoshua, porque ⟨eu⟩ apagarei ⟨o⟩ memorial de Amalek de sob ⟨os⟩ céus.'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E YHWH disse"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "כתב",
-      "english": "Escreve"
-    },
-    {
-      "surface": "זאת",
-      "english": "isto"
-    },
-    {
-      "surface": "זכרון",
-      "english": "⟨por⟩ memorial"
-    },
-    {
-      "surface": "בספר",
-      "english": "no livro"
-    },
-    {
-      "surface": "ושים",
-      "english": "e ⟨o⟩ põe"
-    },
-    {
-      "surface": "באזני",
-      "english": "nos ouvidos de"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "מחה",
-      "english": "⟨eu⟩ apagarei"
-    },
-    {
-      "surface": "אמחה",
-      "english": "apagarei"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "memorial"
-    },
-    {
-      "surface": "זכר",
-      "english": "memorial"
-    },
-    {
-      "surface": "עמלק",
-      "english": "de Amalek"
-    },
-    {
-      "surface": "מתחת",
-      "english": "de sob"
-    },
-    {
-      "surface": "השמים",
-      "english": "⟨os⟩ céus"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:00:42.271895913Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

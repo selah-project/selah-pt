@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-kings 4:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 4,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:14:41.342529854Z",
+  "translation": "Ben-Geber ⟨estava⟩ em Ramote de Gileade; ⟨para⟩ ⟨ele⟩ ⟨eram⟩ ⟨as⟩ aldeias de Jair filho de Menashé, que ⟨estão⟩ em Gileade; ⟨para⟩ ⟨ele⟩ ⟨eram⟩ também ⟨a⟩ cordelida ⟨de⟩ Argob, que ⟨está⟩ em Basã: sessenta grandes cidades com muro ⟨e⟩ tranca de cobre.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Geber"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "em Ramote"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "de Gileade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩ ⟨ele⟩"
+    },
+    {
+      "surface": "חות",
+      "gloss": "⟨as⟩ aldeias"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "de Jair"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "de Menashé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "⟨estão⟩ em Gileade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩ ⟨ele⟩"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "⟨a⟩ cordelida"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "⟨de⟩ Argob"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "⟨está⟩ em Basã"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sessenta"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "grandes cidades"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "com muro"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "tranca"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "de cobre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Manassés",
@@ -13,112 +108,6 @@
       "hebrew": "מנשה־מלך"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 958,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63697,
-    "prompt_tokens_details": {
-      "cached_tokens": 61312
-    },
-    "total_tokens": 64655
-  },
-  "translation": "Ben-Geber ⟨estava⟩ em Ramote de Gileade; ⟨para⟩ ⟨ele⟩ ⟨eram⟩ ⟨as⟩ aldeias de Jair filho de Menashé, que ⟨estão⟩ em Gileade; ⟨para⟩ ⟨ele⟩ ⟨eram⟩ também ⟨a⟩ cordelida ⟨de⟩ Argob, que ⟨está⟩ em Basã: sessenta grandes cidades com muro ⟨e⟩ tranca de cobre.",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Ben-"
-    },
-    {
-      "surface": "גבר",
-      "english": "Geber"
-    },
-    {
-      "surface": "ברמת",
-      "english": "em Ramote"
-    },
-    {
-      "surface": "גלעד",
-      "english": "de Gileade"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩ ⟨ele⟩"
-    },
-    {
-      "surface": "חות",
-      "english": "⟨as⟩ aldeias"
-    },
-    {
-      "surface": "יאיר",
-      "english": "de Jair"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "מנשה",
-      "english": "de Menashé"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בגלעד",
-      "english": "⟨estão⟩ em Gileade"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩ ⟨ele⟩"
-    },
-    {
-      "surface": "חבל",
-      "english": "⟨a⟩ cordelida"
-    },
-    {
-      "surface": "ארגב",
-      "english": "⟨de⟩ Argob"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בבשן",
-      "english": "⟨está⟩ em Basã"
-    },
-    {
-      "surface": "ששים",
-      "english": "sessenta"
-    },
-    {
-      "surface": "ערים",
-      "english": "grandes cidades"
-    },
-    {
-      "surface": "גדלות",
-      "english": "com muro"
-    },
-    {
-      "surface": "חומה",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "ובריח",
-      "english": "tranca"
-    },
-    {
-      "surface": "נחשת",
-      "english": "de cobre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:14:41.342529854Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

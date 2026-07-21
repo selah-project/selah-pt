@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "deuteronomy 8:14",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 521,
-    "prompt_tokens": 25493,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 26014
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:15:58.859161199Z",
   "translation": "e ⟨o⟩ teu coração ⟨se⟩ exalte, e esqueças ⟨את⟩ YHWH teu Elohim, ⟨o⟩ que te fez sair da terra de Mizráyim, da casa de servidão",
   "tokens": [
     {
       "surface": "ורם",
-      "english": "e ⟨o⟩ teu coração ⟨se⟩ exalte"
+      "gloss": "e ⟨o⟩ teu coração ⟨se⟩ exalte"
     },
     {
       "surface": "לבבך",
-      "english": "e ⟨o⟩ teu coração ⟨se⟩ exalte"
+      "gloss": "e ⟨o⟩ teu coração ⟨se⟩ exalte"
     },
     {
       "surface": "ושכחת",
-      "english": "e esqueças"
+      "gloss": "e esqueças"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיך",
-      "english": "teu Elohim"
+      "gloss": "teu Elohim"
     },
     {
       "surface": "המוציאך",
-      "english": "⟨o⟩ que te fez sair"
+      "gloss": "⟨o⟩ que te fez sair"
     },
     {
       "surface": "מארץ",
-      "english": "da terra"
+      "gloss": "da terra"
     },
     {
       "surface": "מצרים",
-      "english": "de Mizráyim"
+      "gloss": "de Mizráyim"
     },
     {
       "surface": "מבית",
-      "english": "da casa"
+      "gloss": "da casa"
     },
     {
       "surface": "עבדים",
-      "english": "de servidão"
+      "gloss": "de servidão"
     }
-  ],
-  "timestamp": "2026-07-16T13:15:58.859161199Z",
-  "model": "glm-4.5"
+  ]
 }

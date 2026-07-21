@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 113:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 113,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62849,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63314
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:55:36.144939690Z",
   "translation": "⟨is⟩ bendito ⟨o⟩ nome de ⟨o⟩ Eterno ⟨a partir⟩ de agora e até ⟨a⟩ eternidade",
   "tokens": [
     {
       "surface": "יהי",
-      "english": "⟨Is⟩",
+      "gloss": "⟨Is⟩",
       "marks": "bendito"
     },
     {
       "surface": "שם",
-      "english": "⟨o⟩ nome",
+      "gloss": "⟨o⟩ nome",
       "marks": "de ⟨o⟩ Eterno"
     },
     {
       "surface": "י�הוה",
-      "english": "⟨o⟩ Eterno",
+      "gloss": "⟨o⟩ Eterno",
       "marks": "nome"
     },
     {
       "surface": "מברך",
-      "english": "bendito",
+      "gloss": "bendito",
       "marks": "⟨o⟩ nome de ⟨o⟩ Eterno"
     },
     {
       "surface": "מעתה",
-      "english": "⟨a partir⟩ de agora",
+      "gloss": "⟨a partir⟩ de agora",
       "marks": ""
     },
     {
       "surface": "ועד",
-      "english": "e até",
+      "gloss": "e até",
       "marks": ""
     },
     {
       "surface": "עולם",
-      "english": "⟨a⟩ eternidade",
+      "gloss": "⟨a⟩ eternidade",
       "marks": ""
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:55:36.144939690Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

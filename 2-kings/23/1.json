@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-kings 23:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 23,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:09:40.428579550Z",
+  "translation": "E o rei enviou, e eles se ajuntaram a ele todos ⟨os⟩ anciãos de Yehudá e de Jerusalém",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E enviou",
+      "lemma": "c\/7971"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei",
+      "lemma": "d\/4428"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "e eles se ajuntaram",
+      "lemma": "c\/622"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ele",
+      "lemma": "413"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos",
+      "lemma": "3605"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "os anciãos",
+      "lemma": "2205"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá",
+      "lemma": "3063"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e de Jerusalém",
+      "lemma": "c\/3389"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,64 +60,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16868,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17281
-  },
-  "translation": "E o rei enviou, e eles se ajuntaram a ele todos ⟨os⟩ anciãos de Yehudá e de Jerusalém",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "E enviou",
-      "lemma": "c\/7971"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei",
-      "lemma": "d\/4428"
-    },
-    {
-      "surface": "ויאספו",
-      "english": "e eles se ajuntaram",
-      "lemma": "c\/622"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ele",
-      "lemma": "413"
-    },
-    {
-      "surface": "כל",
-      "english": "todos",
-      "lemma": "3605"
-    },
-    {
-      "surface": "זקני",
-      "english": "os anciãos",
-      "lemma": "2205"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá",
-      "lemma": "3063"
-    },
-    {
-      "surface": "וירושלם",
-      "english": "e de Jerusalém",
-      "lemma": "c\/3389"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:09:40.428579550Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

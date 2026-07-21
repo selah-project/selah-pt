@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 92:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 92,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:41:26.117616274Z",
+  "translation": "Para ⟨declarar⟩ que ⟨o⟩ YHWH ⟨é⟩ justo; ⟨o⟩ meu Rochedo, e ⟨não⟩ há perversidade ⟨nele⟩.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Para ⟨declarar⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨o⟩ SENHOR ⟨é⟩ justo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "⟨o⟩ meu Rochedo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ⟨não⟩"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "há perversidade"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨nele⟩",
+      "marks": "no SENHOR"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "SENHOR",
@@ -13,57 +53,6 @@
       "hebrew": "יהוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 92,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62715,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63131
-  },
-  "translation": "Para ⟨declarar⟩ que ⟨o⟩ YHWH ⟨é⟩ justo; ⟨o⟩ meu Rochedo, e ⟨não⟩ há perversidade ⟨nele⟩.",
-  "tokens": [
-    {
-      "surface": "להגיד",
-      "english": "Para ⟨declarar⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "ישר",
-      "english": "⟨o⟩ SENHOR ⟨é⟩ justo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "צורי",
-      "english": "⟨o⟩ meu Rochedo"
-    },
-    {
-      "surface": "ולא",
-      "english": "e ⟨não⟩"
-    },
-    {
-      "surface": "עלתה",
-      "english": "há perversidade"
-    },
-    {
-      "surface": "בו",
-      "english": "⟨nele⟩",
-      "marks": "no SENHOR"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:41:26.117616274Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

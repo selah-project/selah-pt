@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "ecclesiastes 10:15",
   "book": "ecclesiastes",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 278,
-    "prompt_tokens": 24939,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25217
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:37:15.267270217Z",
   "translation": "O trabalho ⟨dos⟩ tolos o esgota, pois não sabe como ir à cidade.",
   "tokens": [
     {
       "surface": "עמל",
-      "english": "O trabalho"
+      "gloss": "O trabalho"
     },
     {
       "surface": "הכסילים",
-      "english": "⟨dos⟩ tolos"
+      "gloss": "⟨dos⟩ tolos"
     },
     {
       "surface": "תיגענו",
-      "english": "o esgota"
+      "gloss": "o esgota"
     },
     {
       "surface": "אשר",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "ידע",
-      "english": "sabe"
+      "gloss": "sabe"
     },
     {
       "surface": "ללכת",
-      "english": "como ir"
+      "gloss": "como ir"
     },
     {
       "surface": "אל",
-      "english": "à"
+      "gloss": "à"
     },
     {
       "surface": "עיר",
-      "english": "cidade"
+      "gloss": "cidade"
     }
-  ],
-  "timestamp": "2026-07-16T13:37:15.267270217Z",
-  "model": "glm-4.5"
+  ]
 }

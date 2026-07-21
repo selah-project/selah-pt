@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 23:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 23,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:54:10.443732292Z",
+  "translation": "Também, embora eu caminhe ⟨no⟩ vale ⟨da⟩ Tzalmavet, não temerei ⟨o⟩ mal; porque tu estás comigo: tua vara e ⟨o⟩ teu bastão, eles me confortam.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Também"
+    },
+    {
+      "surface": "כי",
+      "gloss": "embora"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "eu caminhe"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "⟨no⟩ vale"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "⟨da⟩ Tzalmavet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "temerei"
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨o⟩ mal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "estás comigo"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "tua vara"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "e ⟨o⟩ teu bastão"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eles"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "me confortam"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sombra da morte",
@@ -13,84 +80,6 @@
       "hebrew": "צלמות"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 590,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63683,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 64273
-  },
-  "translation": "Também, embora eu caminhe ⟨no⟩ vale ⟨da⟩ Tzalmavet, não temerei ⟨o⟩ mal; porque tu estás comigo: tua vara e ⟨o⟩ teu bastão, eles me confortam.",
-  "tokens": [
-    {
-      "surface": "גם",
-      "english": "Também"
-    },
-    {
-      "surface": "כי",
-      "english": "embora"
-    },
-    {
-      "surface": "אלך",
-      "english": "eu caminhe"
-    },
-    {
-      "surface": "בגיא",
-      "english": "⟨no⟩ vale"
-    },
-    {
-      "surface": "צלמות",
-      "english": "⟨da⟩ Tzalmavet"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "אירא",
-      "english": "temerei"
-    },
-    {
-      "surface": "רע",
-      "english": "⟨o⟩ mal"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "אתה",
-      "english": "tu"
-    },
-    {
-      "surface": "עמדי",
-      "english": "estás comigo"
-    },
-    {
-      "surface": "שבטך",
-      "english": "tua vara"
-    },
-    {
-      "surface": "ומשענתך",
-      "english": "e ⟨o⟩ teu bastão"
-    },
-    {
-      "surface": "המה",
-      "english": "eles"
-    },
-    {
-      "surface": "ינחמני",
-      "english": "me confortam"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:54:10.443732292Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

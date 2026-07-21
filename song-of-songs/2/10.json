@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "song-of-songs 2:10",
   "book": "song-of-songs",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27909,
-    "prompt_tokens_details": {
-      "cached_tokens": 26757
-    },
-    "total_tokens": 28251
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:46:56.637262817Z",
   "translation": "Meu amado respondeu e disse a mim: Levanta-te minha amada, minha formosa, e vem para ti.",
   "tokens": [
     {
       "surface": "ענה",
-      "english": "respondeu"
+      "gloss": "respondeu"
     },
     {
       "surface": "דודי",
-      "english": "Meu amado"
+      "gloss": "Meu amado"
     },
     {
       "surface": "ואמר",
-      "english": "e disse"
+      "gloss": "e disse"
     },
     {
       "surface": "לי",
-      "english": "a mim"
+      "gloss": "a mim"
     },
     {
       "surface": "קומי",
-      "english": "Levanta-te"
+      "gloss": "Levanta-te"
     },
     {
       "surface": "לך",
-      "english": "minha"
+      "gloss": "minha"
     },
     {
       "surface": "רעיתי",
-      "english": "amada"
+      "gloss": "amada"
     },
     {
       "surface": "יפתי",
-      "english": "minha formosa"
+      "gloss": "minha formosa"
     },
     {
       "surface": "ולכי",
-      "english": "e vem"
+      "gloss": "e vem"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     }
-  ],
-  "timestamp": "2026-06-13T06:46:56.637262817Z",
-  "model": "glm-4.5"
+  ]
 }

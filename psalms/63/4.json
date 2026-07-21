@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 63:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 63,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62855,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63314
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:20:04.815544542Z",
   "translation": "Porque ⟨o⟩ ⟨é⟩ bom ⟨o⟩ teu hesed ⟨para⟩ além ⟨da⟩ vida, ⟨os⟩ meus lábios te louvarão ⟨por⟩ toda ⟨a⟩ vida",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "טוב",
-      "english": "⟨é⟩ bom",
+      "gloss": "⟨é⟩ bom",
       "marks": "⟨o⟩ ⟨é⟩ bom ⟨o⟩ teu hesed"
     },
     {
       "surface": "חסדך",
-      "english": "⟨o⟩ teu hesed"
+      "gloss": "⟨o⟩ teu hesed"
     },
     {
       "surface": "מחיים",
-      "english": "⟨para⟩ além ⟨da⟩ vida"
+      "gloss": "⟨para⟩ além ⟨da⟩ vida"
     },
     {
       "surface": "שפתי",
-      "english": "⟨os⟩ meus lábios"
+      "gloss": "⟨os⟩ meus lábios"
     },
     {
       "surface": "ישבחונך",
-      "english": "te louvarão ⟨por⟩ toda ⟨a⟩ vida"
+      "gloss": "te louvarão ⟨por⟩ toda ⟨a⟩ vida"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:20:04.815544542Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

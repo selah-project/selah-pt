@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 78:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70224,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70604
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:35:45.028314527Z",
   "translation": "Ele fendeu ⟨o⟩ mar e os fez passar; e estabeleceu ⟨as⟩ águas como ⟨uma⟩ onda.",
   "tokens": [
     {
       "surface": "בקע",
-      "english": "fendeu"
+      "gloss": "fendeu"
     },
     {
       "surface": "ים",
-      "english": "mar"
+      "gloss": "mar"
     },
     {
       "surface": "ויעבירם",
-      "english": "e os fez passar"
+      "gloss": "e os fez passar"
     },
     {
       "surface": "ויצב",
-      "english": "e estabeleceu"
+      "gloss": "e estabeleceu"
     },
     {
       "surface": "מים",
-      "english": "águas"
+      "gloss": "águas"
     },
     {
       "surface": "כמו",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "נד",
-      "english": "onda"
+      "gloss": "onda"
     }
-  ],
-  "timestamp": "2026-06-11T23:35:45.028314527Z",
-  "model": "glm-4.5"
+  ]
 }

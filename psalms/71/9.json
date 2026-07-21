@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 71:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 409,
-    "prompt_tokens": 70405,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70814
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:39:57.515442249Z",
   "translation": "Não ⟨me⟩ rejeites ⟨no⟩ tempo ⟨da⟩ velhice; quando ⟨meu⟩ vigor se acabar, não ⟨me⟩ desampares.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תשליכני",
-      "english": "rejeites"
+      "gloss": "rejeites"
     },
     {
       "surface": "לעת",
-      "english": "no tempo"
+      "gloss": "no tempo"
     },
     {
       "surface": "זקנה",
-      "english": "da velhice"
+      "gloss": "da velhice"
     },
     {
       "surface": "ככלות",
-      "english": "quando"
+      "gloss": "quando"
     },
     {
       "surface": "כחי",
-      "english": "meu vigor"
+      "gloss": "meu vigor"
     },
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תעזבני",
-      "english": "desampares"
+      "gloss": "desampares"
     }
-  ],
-  "timestamp": "2026-07-16T17:39:57.515442249Z",
-  "model": "glm-4.5"
+  ]
 }

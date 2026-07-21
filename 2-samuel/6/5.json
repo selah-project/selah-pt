@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-samuel 6:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 6,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:48:33.984249613Z",
+  "translation": "E David e toda ⟨a⟩ casa de Yisrael estavam jogando diante de YHWH com toda ⟨a⟩ madeira de ciprestes, e ⟨com⟩ harpas, e ⟨com⟩ saltérios, e ⟨com⟩ tamboris, e ⟨com⟩ sistros, e ⟨com⟩ címbalos",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "E David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e toda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "estavam jogando"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "com toda"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "⟨a⟩ madeira"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "de ciprestes"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "e ⟨com⟩ harpas"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "e ⟨com⟩ saltérios"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "e ⟨com⟩ tamboris"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "e ⟨com⟩ sistros"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "e ⟨com⟩ címbalos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 681,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18105,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18786
-  },
-  "translation": "E David e toda ⟨a⟩ casa de Yisrael estavam jogando diante de YHWH com toda ⟨a⟩ madeira de ciprestes, e ⟨com⟩ harpas, e ⟨com⟩ saltérios, e ⟨com⟩ tamboris, e ⟨com⟩ sistros, e ⟨com⟩ címbalos",
-  "tokens": [
-    {
-      "surface": "ודוד",
-      "english": "E David"
-    },
-    {
-      "surface": "וכל",
-      "english": "e toda"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "משחקים",
-      "english": "estavam jogando"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "בכל",
-      "english": "com toda"
-    },
-    {
-      "surface": "עצי",
-      "english": "⟨a⟩ madeira"
-    },
-    {
-      "surface": "ברושים",
-      "english": "de ciprestes"
-    },
-    {
-      "surface": "ובכנרות",
-      "english": "e ⟨com⟩ harpas"
-    },
-    {
-      "surface": "ובנבלים",
-      "english": "e ⟨com⟩ saltérios"
-    },
-    {
-      "surface": "ובתפים",
-      "english": "e ⟨com⟩ tamboris"
-    },
-    {
-      "surface": "ובמנענעים",
-      "english": "e ⟨com⟩ sistros"
-    },
-    {
-      "surface": "ובצלצלים",
-      "english": "e ⟨com⟩ címbalos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:48:33.984249613Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

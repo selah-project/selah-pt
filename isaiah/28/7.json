@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 28:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 28,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:33:37.582152824Z",
+  "translation": "E também ⟨esses⟩ ⟨pelo⟩ vinho extraviaram-se, e ⟨pela⟩ bebida forte erraram; Kohen e profeta extraviaram-se ⟨pela⟩ bebida forte, ⟨foram⟩ engolidos ⟨pelo⟩ vinho, erraram ⟨pela⟩ bebida forte, extraviaram-se ⟨na⟩ visão, vacilaram ⟨no⟩ juízo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "E também",
+      "marks": null
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨esses⟩",
+      "marks": null
+    },
+    {
+      "surface": "ביין",
+      "gloss": "⟨pelo⟩ vinho",
+      "marks": "vinho"
+    },
+    {
+      "surface": "שגו",
+      "gloss": "extraviaram-se",
+      "marks": null
+    },
+    {
+      "surface": "ובשכר",
+      "gloss": "e ⟨pela⟩ bebida forte",
+      "marks": "bebida forte"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "erraram",
+      "marks": null
+    },
+    {
+      "surface": "כהן",
+      "gloss": "Kohen",
+      "marks": null
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "e profeta",
+      "marks": null
+    },
+    {
+      "surface": "שגו",
+      "gloss": "extraviaram-se",
+      "marks": null
+    },
+    {
+      "surface": "בשכר",
+      "gloss": "⟨pela⟩ bebida forte",
+      "marks": "bebida forte"
+    },
+    {
+      "surface": "נבלעו",
+      "gloss": "⟨foram⟩ engolidos",
+      "marks": null
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨pelo⟩",
+      "marks": "vinho"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vinho",
+      "marks": null
+    },
+    {
+      "surface": "תעו",
+      "gloss": "erraram",
+      "marks": null
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨pela⟩",
+      "marks": "bebida forte"
+    },
+    {
+      "surface": "השכר",
+      "gloss": "bebida forte",
+      "marks": null
+    },
+    {
+      "surface": "שגו",
+      "gloss": "extraviaram-se",
+      "marks": null
+    },
+    {
+      "surface": "בראה",
+      "gloss": "⟨na⟩ visão",
+      "marks": "visão"
+    },
+    {
+      "surface": "פקו",
+      "gloss": "vacilaram",
+      "marks": null
+    },
+    {
+      "surface": "פליליה",
+      "gloss": "⟨no⟩ juízo",
+      "marks": "juízo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,124 +120,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 869,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20204,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 21073
-  },
-  "translation": "E também ⟨esses⟩ ⟨pelo⟩ vinho extraviaram-se, e ⟨pela⟩ bebida forte erraram; Kohen e profeta extraviaram-se ⟨pela⟩ bebida forte, ⟨foram⟩ engolidos ⟨pelo⟩ vinho, erraram ⟨pela⟩ bebida forte, extraviaram-se ⟨na⟩ visão, vacilaram ⟨no⟩ juízo.",
-  "tokens": [
-    {
-      "surface": "וגם",
-      "english": "E também",
-      "marks": null
-    },
-    {
-      "surface": "אלה",
-      "english": "⟨esses⟩",
-      "marks": null
-    },
-    {
-      "surface": "ביין",
-      "english": "⟨pelo⟩ vinho",
-      "marks": "vinho"
-    },
-    {
-      "surface": "שגו",
-      "english": "extraviaram-se",
-      "marks": null
-    },
-    {
-      "surface": "ובשכר",
-      "english": "e ⟨pela⟩ bebida forte",
-      "marks": "bebida forte"
-    },
-    {
-      "surface": "תעו",
-      "english": "erraram",
-      "marks": null
-    },
-    {
-      "surface": "כהן",
-      "english": "Kohen",
-      "marks": null
-    },
-    {
-      "surface": "ונביא",
-      "english": "e profeta",
-      "marks": null
-    },
-    {
-      "surface": "שגו",
-      "english": "extraviaram-se",
-      "marks": null
-    },
-    {
-      "surface": "בשכר",
-      "english": "⟨pela⟩ bebida forte",
-      "marks": "bebida forte"
-    },
-    {
-      "surface": "נבלעו",
-      "english": "⟨foram⟩ engolidos",
-      "marks": null
-    },
-    {
-      "surface": "מן",
-      "english": "⟨pelo⟩",
-      "marks": "vinho"
-    },
-    {
-      "surface": "היין",
-      "english": "vinho",
-      "marks": null
-    },
-    {
-      "surface": "תעו",
-      "english": "erraram",
-      "marks": null
-    },
-    {
-      "surface": "מן",
-      "english": "⟨pela⟩",
-      "marks": "bebida forte"
-    },
-    {
-      "surface": "השכר",
-      "english": "bebida forte",
-      "marks": null
-    },
-    {
-      "surface": "שגו",
-      "english": "extraviaram-se",
-      "marks": null
-    },
-    {
-      "surface": "בראה",
-      "english": "⟨na⟩ visão",
-      "marks": "visão"
-    },
-    {
-      "surface": "פקו",
-      "english": "vacilaram",
-      "marks": null
-    },
-    {
-      "surface": "פליליה",
-      "english": "⟨no⟩ juízo",
-      "marks": "juízo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:33:37.582152824Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

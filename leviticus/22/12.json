@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "leviticus 22:12",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25072,
-    "prompt_tokens_details": {
-      "cached_tokens": 23736
-    },
-    "total_tokens": 25573
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:47:32.321563935Z",
   "translation": "E ⟨a⟩ filha do kohen ⟨está⟩ ⟨se casando com⟩ um homem estranho, ⟨ela⟩ não comerá ⟨da⟩ elevação ⟨das⟩ coisas sagradas.",
   "tokens": [
     {
       "surface": "ובת",
-      "english": "E ⟨a⟩ filha"
+      "gloss": "E ⟨a⟩ filha"
     },
     {
       "surface": "כהן",
-      "english": "do kohen"
+      "gloss": "do kohen"
     },
     {
       "surface": "כי",
-      "english": "⟨está⟩"
+      "gloss": "⟨está⟩"
     },
     {
       "surface": "תהיה",
-      "english": "⟨se casando com⟩"
+      "gloss": "⟨se casando com⟩"
     },
     {
       "surface": "לאיש",
-      "english": "um homem"
+      "gloss": "um homem"
     },
     {
       "surface": "זר",
-      "english": "estranho"
+      "gloss": "estranho"
     },
     {
       "surface": "הוא",
-      "english": "⟨ela⟩"
+      "gloss": "⟨ela⟩"
     },
     {
       "surface": "בתרומת",
-      "english": "não comerá ⟨da⟩ elevação"
+      "gloss": "não comerá ⟨da⟩ elevação"
     },
     {
       "surface": "הקדשים",
-      "english": "⟨das⟩ coisas sagradas"
+      "gloss": "⟨das⟩ coisas sagradas"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תאכל",
-      "english": "comerá"
+      "gloss": "comerá"
     }
-  ],
-  "timestamp": "2026-06-13T02:47:32.321563935Z",
-  "model": "glm-4.5"
+  ]
 }

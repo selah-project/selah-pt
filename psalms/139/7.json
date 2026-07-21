@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 139:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62784,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63159
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:11:05.928302063Z",
   "translation": "Para onde irei de ⟨o teu⟩ Rúaj? E para onde de ⟨a tua⟩ presença fugirei?",
   "tokens": [
     {
       "surface": "אנה",
-      "english": "Para onde"
+      "gloss": "Para onde"
     },
     {
       "surface": "אלך",
-      "english": "irei"
+      "gloss": "irei"
     },
     {
       "surface": "מרוחך",
-      "english": "de ⟨o teu⟩ Rúaj",
+      "gloss": "de ⟨o teu⟩ Rúaj",
       "marks": "Rúaj do teu Espírito"
     },
     {
       "surface": "ואנה",
-      "english": "E para onde"
+      "gloss": "E para onde"
     },
     {
       "surface": "מפניך",
-      "english": "de ⟨a tua⟩ presença",
+      "gloss": "de ⟨a tua⟩ presença",
       "marks": "presença de tua face"
     },
     {
       "surface": "אברח",
-      "english": "fugirei"
+      "gloss": "fugirei"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:11:05.928302063Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

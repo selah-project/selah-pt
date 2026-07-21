@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "numbers 17:22",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 338,
-    "prompt_tokens": 25240,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25578
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:14:59.636655430Z",
   "translation": "E Moshé colocou ⟨את⟩ a vara perante YHWH na tenda da congregação.",
   "tokens": [
     {
       "surface": "וינח",
-      "english": "E ... colocou"
+      "gloss": "E ... colocou"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "המטת"
     },
     {
       "surface": "המטת",
-      "english": "a vara"
+      "gloss": "a vara"
     },
     {
       "surface": "לפני",
-      "english": "perante"
+      "gloss": "perante"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "באהל",
-      "english": "na tenda"
+      "gloss": "na tenda"
     },
     {
       "surface": "העדת",
-      "english": "da congregação"
+      "gloss": "da congregação"
     }
-  ],
-  "timestamp": "2026-07-16T17:14:59.636655430Z",
-  "model": "glm-4.5"
+  ]
 }

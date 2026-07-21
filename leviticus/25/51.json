@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 51,
   "ref": "leviticus 25:51",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 25,
+  "verse": 51,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:04:48.934322112Z",
+  "translation": "Se ainda ⟨são⟩ muitos anos ⟨que⟩ faltam ⟨até⟩ ⟨o⟩ ⟨ano⟩ ⟨do⟩ ⟨את⟩ jubileu, segundo ⟨o⟩ número ⟨dos⟩ anos ⟨ele⟩ restituirá ⟨o⟩ preço ⟨da⟩ suGueulá ⟨do⟩ dinheiro ⟨da⟩ sua compra",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se",
+      "marks": "introdução condicional"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ainda",
+      "marks": "indica continuidade"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "⟨são⟩ muitos",
+      "marks": "anos restantes"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "anos",
+      "marks": "período de tempo"
+    },
+    {
+      "surface": "לפיהן",
+      "gloss": "⟨que⟩ faltam ⟨até⟩ ⟨o⟩ ⟨ano⟩ ⟨do⟩",
+      "marks": "referência ao jubileu"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "⟨ele⟩ restituirá",
+      "marks": "ação de pagar"
+    },
+    {
+      "surface": "גאלתו",
+      "gloss": "⟨o⟩ preço ⟨da⟩ suGueulá",
+      "marks": "valor para resgatar"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "⟨do⟩ dinheiro",
+      "marks": "meio de pagamento"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "⟨da⟩ sua compra",
+      "marks": "valor da aquisição original"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a redenção",
@@ -13,69 +65,6 @@
       "hebrew": "גאולה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 702,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17672,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 18374
-  },
-  "translation": "Se ainda ⟨são⟩ muitos anos ⟨que⟩ faltam ⟨até⟩ ⟨o⟩ ⟨ano⟩ ⟨do⟩ ⟨את⟩ jubileu, segundo ⟨o⟩ número ⟨dos⟩ anos ⟨ele⟩ restituirá ⟨o⟩ preço ⟨da⟩ suGueulá ⟨do⟩ dinheiro ⟨da⟩ sua compra",
-  "tokens": [
-    {
-      "surface": "אם",
-      "english": "Se",
-      "marks": "introdução condicional"
-    },
-    {
-      "surface": "עוד",
-      "english": "ainda",
-      "marks": "indica continuidade"
-    },
-    {
-      "surface": "רבות",
-      "english": "⟨são⟩ muitos",
-      "marks": "anos restantes"
-    },
-    {
-      "surface": "בשנים",
-      "english": "anos",
-      "marks": "período de tempo"
-    },
-    {
-      "surface": "לפיהן",
-      "english": "⟨que⟩ faltam ⟨até⟩ ⟨o⟩ ⟨ano⟩ ⟨do⟩",
-      "marks": "referência ao jubileu"
-    },
-    {
-      "surface": "ישיב",
-      "english": "⟨ele⟩ restituirá",
-      "marks": "ação de pagar"
-    },
-    {
-      "surface": "גאלתו",
-      "english": "⟨o⟩ preço ⟨da⟩ suGueulá",
-      "marks": "valor para resgatar"
-    },
-    {
-      "surface": "מכסף",
-      "english": "⟨do⟩ dinheiro",
-      "marks": "meio de pagamento"
-    },
-    {
-      "surface": "מקנתו",
-      "english": "⟨da⟩ sua compra",
-      "marks": "valor da aquisição original"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:04:48.934322112Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

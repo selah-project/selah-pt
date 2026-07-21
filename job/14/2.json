@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 14:2",
   "book": "job",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27373,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27772
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:44:54.037144824Z",
   "translation": "Como ⟨uma⟩ flor ⟨ele⟩ sai e é cortado, e foge como ⟨uma⟩ sombra e não permanece.",
   "tokens": [
     {
       "surface": "כציץ",
-      "english": "Como ⟨uma⟩ flor"
+      "gloss": "Como ⟨uma⟩ flor"
     },
     {
       "surface": "יצא",
-      "english": "⟨ele⟩ sai"
+      "gloss": "⟨ele⟩ sai"
     },
     {
       "surface": "וימל",
-      "english": "e é cortado"
+      "gloss": "e é cortado"
     },
     {
       "surface": "ויברח",
-      "english": "e foge"
+      "gloss": "e foge"
     },
     {
       "surface": "כצל",
-      "english": "como ⟨uma⟩ sombra"
+      "gloss": "como ⟨uma⟩ sombra"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "יעמוד",
-      "english": "permanece"
+      "gloss": "permanece"
     }
-  ],
-  "timestamp": "2026-06-13T06:44:54.037144824Z",
-  "model": "glm-4.5"
+  ]
 }

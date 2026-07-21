@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "numbers 26:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 26,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:37:37.427049534Z",
+  "translation": "Os filhos de Yehudá ⟨foram⟩ Er e Onan; e morreram Er e Onan na terra de Kenaan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Os filhos de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "e Onan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morreram"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "e Onan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra de"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,60 +63,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 283,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18119,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18402
-  },
-  "translation": "Os filhos de Yehudá ⟨foram⟩ Er e Onan; e morreram Er e Onan na terra de Kenaan.",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Os filhos de"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "ער",
-      "english": "Er"
-    },
-    {
-      "surface": "ואונן",
-      "english": "e Onan"
-    },
-    {
-      "surface": "וימת",
-      "english": "e morreram"
-    },
-    {
-      "surface": "ער",
-      "english": "Er"
-    },
-    {
-      "surface": "ואונן",
-      "english": "e Onan"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra de"
-    },
-    {
-      "surface": "כנען",
-      "english": "Kenaan"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:37:37.427049534Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

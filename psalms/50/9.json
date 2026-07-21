@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 50:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 378,
-    "prompt_tokens": 70235,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70613
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:39:20.417617187Z",
   "translation": "Não tomarei ⟨um⟩ novilho da tua casa, nem ⟨bodes⟩ dos teus currais.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "אקח",
-      "english": "tomarei"
+      "gloss": "tomarei"
     },
     {
       "surface": "מביתך",
-      "english": "da tua casa"
+      "gloss": "da tua casa"
     },
     {
       "surface": "פר",
-      "english": "⟨um⟩ novilho"
+      "gloss": "⟨um⟩ novilho"
     },
     {
       "surface": "ממכלאתיך",
-      "english": "dos teus currais"
+      "gloss": "dos teus currais"
     },
     {
       "surface": "עתודים",
-      "english": "⟨bodes⟩",
+      "gloss": "⟨bodes⟩",
       "marks": "dos teus currais"
     }
-  ],
-  "timestamp": "2026-07-16T17:39:20.417617187Z",
-  "model": "glm-4.5"
+  ]
 }

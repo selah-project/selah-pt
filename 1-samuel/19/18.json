@@ -1,9 +1,97 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "1-samuel 19:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 19,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:31:24.234770674Z",
+  "translation": "E David fugiu e ⟨foi⟩ salvo, e veio a Shmuel ⟨em⟩ Ramata, e declarou ⟨a⟩ ele ⟨את⟩ tudo o que Shaul lhe fizera; e foi ⟨que⟩ ele e Shmuel foram e habitaram em Naioth.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "E David"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "fugiu"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "e ⟨foi⟩ salvo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e veio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "⟨em⟩ Ramata"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e declarou"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a⟩ ele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tudo o que Saul lhe fizera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fizera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lhe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e foi ⟨que⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "e Samuel"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "foram e habitaram"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "em Naioth"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samuel",
@@ -20,105 +108,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 597,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17518,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18115
-  },
-  "translation": "E David fugiu e ⟨foi⟩ salvo, e veio a Shmuel ⟨em⟩ Ramata, e declarou ⟨a⟩ ele ⟨את⟩ tudo o que Shaul lhe fizera; e foi ⟨que⟩ ele e Shmuel foram e habitaram em Naioth.",
-  "tokens": [
-    {
-      "surface": "ודוד",
-      "english": "E David"
-    },
-    {
-      "surface": "ברח",
-      "english": "fugiu"
-    },
-    {
-      "surface": "וימלט",
-      "english": "e ⟨foi⟩ salvo"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e veio"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shmuel"
-    },
-    {
-      "surface": "הרמתה",
-      "english": "⟨em⟩ Ramata"
-    },
-    {
-      "surface": "ויגד",
-      "english": "e declarou"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨a⟩ ele"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "tudo o que Saul lhe fizera"
-    },
-    {
-      "surface": "כל",
-      "english": "tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "o que"
-    },
-    {
-      "surface": "עשה",
-      "english": "fizera"
-    },
-    {
-      "surface": "לו",
-      "english": "lhe"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "וילך",
-      "english": "e foi ⟨que⟩"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele"
-    },
-    {
-      "surface": "ושמואל",
-      "english": "e Samuel"
-    },
-    {
-      "surface": "וישבו",
-      "english": "foram e habitaram"
-    },
-    {
-      "surface": "בנוית",
-      "english": "em Naioth"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:31:24.234770674Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

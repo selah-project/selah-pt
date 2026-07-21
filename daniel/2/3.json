@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "daniel 2:3",
   "book": "daniel",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 451,
-    "prompt_tokens": 24863,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25314
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:05:06.763579568Z",
   "translation": "E disse-lhes o rei: sonhei um sonho, e o meu espírito foi perturbado para saber ⟨את⟩ o sonho.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "להם",
-      "english": "lhes"
+      "gloss": "lhes"
     },
     {
       "surface": "המלך",
-      "english": "o rei"
+      "gloss": "o rei"
     },
     {
       "surface": "חלום",
-      "english": "um sonho"
+      "gloss": "um sonho"
     },
     {
       "surface": "חלמתי",
-      "english": "sonhei"
+      "gloss": "sonhei"
     },
     {
       "surface": "ותפעם",
-      "english": "e foi perturbado"
+      "gloss": "e foi perturbado"
     },
     {
       "surface": "רוחי",
-      "english": "o meu espírito"
+      "gloss": "o meu espírito"
     },
     {
       "surface": "לדעת",
-      "english": "para saber"
+      "gloss": "para saber"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o sonho"
     },
     {
       "surface": "החלום",
-      "english": "o sonho"
+      "gloss": "o sonho"
     }
-  ],
-  "timestamp": "2026-07-16T13:05:06.763579568Z",
-  "model": "glm-4.5"
+  ]
 }

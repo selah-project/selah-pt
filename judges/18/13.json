@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "judges 18:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 18,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:08:38.577357143Z",
+  "translation": "E eles passaram dali ⟨ao⟩ monte Efráyim e vieram até ⟨à⟩ casa de Mica",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "E eles passaram"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dali"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨ao⟩ monte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e vieram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨à⟩ casa"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "de Mica"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,56 +52,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 266,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16235,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 16501
-  },
-  "translation": "E eles passaram dali ⟨ao⟩ monte Efráyim e vieram até ⟨à⟩ casa de Mica",
-  "tokens": [
-    {
-      "surface": "ויעברו",
-      "english": "E eles passaram"
-    },
-    {
-      "surface": "משם",
-      "english": "dali"
-    },
-    {
-      "surface": "הר",
-      "english": "⟨ao⟩ monte"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "ויבאו",
-      "english": "e vieram"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨à⟩ casa"
-    },
-    {
-      "surface": "מיכה",
-      "english": "de Mica"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:08:38.577357143Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 9:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 414,
-    "prompt_tokens": 70654,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71068
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:34:14.968850157Z",
   "translation": "Porque ⟨ele⟩ busca sangue deles, ⟨o⟩ recordar ⟨ele⟩ não esqueceu ⟨o⟩ clamor dos aflitos",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "דרש",
-      "english": "busca"
+      "gloss": "busca"
     },
     {
       "surface": "דמים",
-      "english": "sangue"
+      "gloss": "sangue"
     },
     {
       "surface": "אותם",
-      "english": "deles",
+      "gloss": "deles",
       "marks": "o recordar"
     },
     {
       "surface": "זכר",
-      "english": "⟨o⟩ recordar"
+      "gloss": "⟨o⟩ recordar"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "שכח",
-      "english": "esqueceu"
+      "gloss": "esqueceu"
     },
     {
       "surface": "צעקת",
-      "english": "⟨o⟩ clamor"
+      "gloss": "⟨o⟩ clamor"
     },
     {
       "surface": "עניים",
-      "english": "dos aflitos"
+      "gloss": "dos aflitos"
     }
-  ],
-  "timestamp": "2026-07-16T17:34:14.968850157Z",
-  "model": "glm-4.5"
+  ]
 }

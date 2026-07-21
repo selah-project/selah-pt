@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "jonah 2:5",
   "book": "jonah",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27175,
-    "prompt_tokens_details": {
-      "cached_tokens": 25847
-    },
-    "total_tokens": 27770
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:33:22.290169049Z",
   "translation": "E eu disse: ⟨Fui⟩ expulso ⟨de⟩ diante ⟨dos⟩ teus olhos; contudo, ⟨eu⟩ ainda olharei ⟨para⟩ ⟨o⟩ teu santo templo.",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "E eu"
+      "gloss": "E eu"
     },
     {
       "surface": "אמרתי",
-      "english": "disse"
+      "gloss": "disse"
     },
     {
       "surface": "נגרשתי",
-      "english": "⟨Fui⟩ expulso"
+      "gloss": "⟨Fui⟩ expulso"
     },
     {
       "surface": "מנגד",
-      "english": "⟨de⟩ diante"
+      "gloss": "⟨de⟩ diante"
     },
     {
       "surface": "עיניך",
-      "english": "⟨dos⟩ teus olhos"
+      "gloss": "⟨dos⟩ teus olhos"
     },
     {
       "surface": "אך",
-      "english": "contudo"
+      "gloss": "contudo"
     },
     {
       "surface": "אוסיף",
-      "english": "⟨eu⟩ ainda olharei"
+      "gloss": "⟨eu⟩ ainda olharei"
     },
     {
       "surface": "להביט",
-      "english": "⟨para⟩"
+      "gloss": "⟨para⟩"
     },
     {
       "surface": "אל",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "היכל",
-      "english": "teu santo templo"
+      "gloss": "teu santo templo"
     },
     {
       "surface": "קדשך",
-      "english": "teu santo templo"
+      "gloss": "teu santo templo"
     }
-  ],
-  "timestamp": "2026-06-13T06:33:22.290169049Z",
-  "model": "glm-4.5"
+  ]
 }

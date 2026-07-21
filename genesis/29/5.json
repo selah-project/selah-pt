@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 29:5",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 339,
-    "prompt_tokens": 28960,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29299
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:51:46.245325870Z",
   "translation": "E ele disse a eles: Conheceis ⟨את⟩ Laban, filho de Nachor? E eles disseram: Nós ⟨o⟩ conhecemos.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ele disse"
+      "gloss": "E ele disse"
     },
     {
       "surface": "להם",
-      "english": "a eles"
+      "gloss": "a eles"
     },
     {
       "surface": "הידעתם",
-      "english": "Conheceis"
+      "gloss": "Conheceis"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Laban"
     },
     {
       "surface": "לבן",
-      "english": "Laban"
+      "gloss": "Laban"
     },
     {
       "surface": "בן",
-      "english": "filho"
+      "gloss": "filho"
     },
     {
       "surface": "נחור",
-      "english": "Nachor"
+      "gloss": "Nachor"
     },
     {
       "surface": "ויאמרו",
-      "english": "E eles disseram"
+      "gloss": "E eles disseram"
     },
     {
       "surface": "ידענו",
-      "english": "Nós conhecemos"
+      "gloss": "Nós conhecemos"
     }
-  ],
-  "timestamp": "2026-07-16T14:51:46.245325870Z",
-  "model": "glm-4.5"
+  ]
 }

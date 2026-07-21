@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-samuel 18:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 18,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:30:00.234988691Z",
+  "translation": "E Davidd ⟨era⟩ ⟨ה⟩ prudente em todo o seu caminho, e YHWH ⟨estava⟩ com ele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E David ⟨era⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "em todo ⟨o⟩"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "seu caminho"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "prudente"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH ⟨estava⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "com ele"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,52 +48,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16314,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 16728
-  },
-  "translation": "E Davidd ⟨era⟩ ⟨ה⟩ prudente em todo o seu caminho, e YHWH ⟨estava⟩ com ele.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E David ⟨era⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לכל",
-      "english": "em todo ⟨o⟩"
-    },
-    {
-      "surface": "דרכו",
-      "english": "seu caminho"
-    },
-    {
-      "surface": "משכיל",
-      "english": "prudente"
-    },
-    {
-      "surface": "ויהוה",
-      "english": "e YHWH ⟨estava⟩"
-    },
-    {
-      "surface": "עמו",
-      "english": "com ele"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:30:00.234988691Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

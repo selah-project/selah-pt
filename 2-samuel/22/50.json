@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "2-samuel 22:50",
   "book": "2-samuel",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24512,
-    "prompt_tokens_details": {
-      "cached_tokens": 23496
-    },
-    "total_tokens": 24918
-  },
+  "verse": 50,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:38:59.768364492Z",
   "translation": "Por isso eu te louvarei, YHWH, ⟨entre⟩ as nações, e ao teu nome ⟨eu⟩ cantarei",
   "tokens": [
     {
       "surface": "על",
-      "english": "Por isso",
+      "gloss": "Por isso",
       "marks": "o precedente"
     },
     {
       "surface": "כן",
-      "english": "",
+      "gloss": "",
       "marks": ""
     },
     {
       "surface": "אודך",
-      "english": "eu te louvarei",
+      "gloss": "eu te louvarei",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "marks": ""
     },
     {
       "surface": "בגוים",
-      "english": "⟨entre⟩ as nações",
+      "gloss": "⟨entre⟩ as nações",
       "marks": ""
     },
     {
       "surface": "ולשמך",
-      "english": "e ao teu nome",
+      "gloss": "e ao teu nome",
       "marks": ""
     },
     {
       "surface": "אזמר",
-      "english": "⟨eu⟩ cantarei",
+      "gloss": "⟨eu⟩ cantarei",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-14T04:38:59.768364492Z",
-  "model": "glm-4.5"
+  ]
 }

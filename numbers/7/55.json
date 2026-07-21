@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 55,
   "ref": "numbers 7:55",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 55,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:16:52.171079730Z",
+  "translation": "a ⟨sua⟩ ⟨Korban⟩ ⟨um⟩ prato ⟨de⟩ prata ⟨um⟩ ⟨de⟩ cento e trinta ⟨em⟩ peso ⟨um⟩ cálice ⟨de⟩ prata setenta ⟨shekels⟩ ⟨pelo⟩ shekel ⟨do⟩ santuário ⟨os⟩ dois ⟨estavam⟩ ⟨cheios⟩ ⟨de⟩ farinha misturada ⟨com⟩ óleo ⟨para⟩ ⟨Korban⟩ ⟨de⟩ cereal",
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "A ⟨sua⟩ ⟨Korban⟩"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "prato"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨de⟩ prata"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trinta"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "cento"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "⟨em⟩ peso"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "cálice"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨de⟩ prata"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "setenta"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekels"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "⟨pelo⟩ shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨do⟩ santuário"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "⟨os⟩ dois"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "⟨estavam⟩ ⟨cheios⟩"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "⟨de⟩ farinha"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "misturada"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "⟨com⟩ óleo"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "⟨para⟩ ⟨oferta⟩ ⟨de⟩ cereal"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "oferta",
@@ -13,104 +100,6 @@
       "hebrew": "קרבן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 1088,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19231,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 20319
-  },
-  "translation": "a ⟨sua⟩ ⟨Korban⟩ ⟨um⟩ prato ⟨de⟩ prata ⟨um⟩ ⟨de⟩ cento e trinta ⟨em⟩ peso ⟨um⟩ cálice ⟨de⟩ prata setenta ⟨shekels⟩ ⟨pelo⟩ shekel ⟨do⟩ santuário ⟨os⟩ dois ⟨estavam⟩ ⟨cheios⟩ ⟨de⟩ farinha misturada ⟨com⟩ óleo ⟨para⟩ ⟨Korban⟩ ⟨de⟩ cereal",
-  "tokens": [
-    {
-      "surface": "קרבנו",
-      "english": "A ⟨sua⟩ ⟨Korban⟩"
-    },
-    {
-      "surface": "קערת",
-      "english": "prato"
-    },
-    {
-      "surface": "כסף",
-      "english": "⟨de⟩ prata"
-    },
-    {
-      "surface": "אחת",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "שלשים",
-      "english": "trinta"
-    },
-    {
-      "surface": "ומאה",
-      "english": "cento"
-    },
-    {
-      "surface": "משקלה",
-      "english": "⟨em⟩ peso"
-    },
-    {
-      "surface": "מזרק",
-      "english": "cálice"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "כסף",
-      "english": "⟨de⟩ prata"
-    },
-    {
-      "surface": "שבעים",
-      "english": "setenta"
-    },
-    {
-      "surface": "שקל",
-      "english": "shekels"
-    },
-    {
-      "surface": "בשקל",
-      "english": "⟨pelo⟩ shekel"
-    },
-    {
-      "surface": "הקדש",
-      "english": "⟨do⟩ santuário"
-    },
-    {
-      "surface": "שניהם",
-      "english": "⟨os⟩ dois"
-    },
-    {
-      "surface": "מלאים",
-      "english": "⟨estavam⟩ ⟨cheios⟩"
-    },
-    {
-      "surface": "סלת",
-      "english": "⟨de⟩ farinha"
-    },
-    {
-      "surface": "בלולה",
-      "english": "misturada"
-    },
-    {
-      "surface": "בשמן",
-      "english": "⟨com⟩ óleo"
-    },
-    {
-      "surface": "למנחה",
-      "english": "⟨para⟩ ⟨oferta⟩ ⟨de⟩ cereal"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:16:52.171079730Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 10:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 10,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:13:24.671303805Z",
+  "translation": "Escutai ⟨את⟩ a palavra que HaShem falou sobre vós, casa de Yisrael",
+  "tokens": [
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "Escutai"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "הדבר"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "a palavra"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "falou"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "HaShem"
+    },
+    {
+      "surface": "עֲלֵיכֶם",
+      "gloss": "sobre vós"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,61 +57,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17599,
-    "prompt_tokens_details": {
-      "cached_tokens": 16391
-    },
-    "total_tokens": 17982
-  },
-  "translation": "Escutai ⟨את⟩ a palavra que HaShem falou sobre vós, casa de Yisrael",
-  "tokens": [
-    {
-      "surface": "שִׁמְעוּ",
-      "english": "Escutai"
-    },
-    {
-      "surface": "אֶת",
-      "english": "⟨את⟩",
-      "marks": "הדבר"
-    },
-    {
-      "surface": "הַדָּבָר",
-      "english": "a palavra"
-    },
-    {
-      "surface": "אֲשֶׁר",
-      "english": "que"
-    },
-    {
-      "surface": "דִּבֶּר",
-      "english": "falou"
-    },
-    {
-      "surface": "יְהוָה",
-      "english": "HaShem"
-    },
-    {
-      "surface": "עֲלֵיכֶם",
-      "english": "sobre vós"
-    },
-    {
-      "surface": "בֵּית",
-      "english": "casa"
-    },
-    {
-      "surface": "יִשְׂרָאֵל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:13:24.671303805Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

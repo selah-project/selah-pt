@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-samuel 2:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 2,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:44:07.244537468Z",
+  "translation": "E ⟨o⟩ número dos dias que Davidd ⟨foi⟩ rei em Hebron sobre ⟨a⟩ casa de Yehudá ⟨foi⟩ sete anos e seis meses",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E ⟨o⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "número"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dos dias"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "היה",
+      "gloss": "David ⟨foi⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "em Hebron"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sete"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anos"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "e seis"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "meses"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,84 +87,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17821,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 18357
-  },
-  "translation": "E ⟨o⟩ número dos dias que Davidd ⟨foi⟩ rei em Hebron sobre ⟨a⟩ casa de Yehudá ⟨foi⟩ sete anos e seis meses",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E ⟨o⟩"
-    },
-    {
-      "surface": "מספר",
-      "english": "número"
-    },
-    {
-      "surface": "הימים",
-      "english": "dos dias"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "היה",
-      "english": "David ⟨foi⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בחברון",
-      "english": "em Hebron"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "שבע",
-      "english": "sete"
-    },
-    {
-      "surface": "שנים",
-      "english": "anos"
-    },
-    {
-      "surface": "וששה",
-      "english": "e seis"
-    },
-    {
-      "surface": "חדשים",
-      "english": "meses"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:44:07.244537468Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

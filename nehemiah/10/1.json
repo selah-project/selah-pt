@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "nehemiah 10:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 10,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:25:19.948586487Z",
+  "translation": "E por tudo isso ⟨estamos⟩ ⟨fazendo⟩ ⟨um⟩ pacto ⟨e⟩ escrevendo ⟨o⟩ ⟨selado⟩: nossos príncipes, nossos levitas e nossos Kohens.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "E por tudo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "isso"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨estamos⟩"
+    },
+    {
+      "surface": "כרתים",
+      "gloss": "⟨fazendo⟩ ⟨um⟩ pacto"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "pacto"
+    },
+    {
+      "surface": "וכתבים",
+      "gloss": "⟨e⟩ escrevendo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "⟨selado⟩"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "nossos príncipes"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "nossos levitas"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "e nossos Kohens"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,68 +64,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 599,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 49779,
-    "prompt_tokens_details": {
-      "cached_tokens": 48509
-    },
-    "total_tokens": 50378
-  },
-  "translation": "E por tudo isso ⟨estamos⟩ ⟨fazendo⟩ ⟨um⟩ pacto ⟨e⟩ escrevendo ⟨o⟩ ⟨selado⟩: nossos príncipes, nossos levitas e nossos Kohens.",
-  "tokens": [
-    {
-      "surface": "ובכל",
-      "english": "E por tudo"
-    },
-    {
-      "surface": "זאת",
-      "english": "isso"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "⟨estamos⟩"
-    },
-    {
-      "surface": "כרתים",
-      "english": "⟨fazendo⟩ ⟨um⟩ pacto"
-    },
-    {
-      "surface": "אמנה",
-      "english": "pacto"
-    },
-    {
-      "surface": "וכתבים",
-      "english": "⟨e⟩ escrevendo"
-    },
-    {
-      "surface": "ועל",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "החתום",
-      "english": "⟨selado⟩"
-    },
-    {
-      "surface": "שרינו",
-      "english": "nossos príncipes"
-    },
-    {
-      "surface": "לוינו",
-      "english": "nossos levitas"
-    },
-    {
-      "surface": "כהנינו",
-      "english": "e nossos Kohens"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:25:19.948586487Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

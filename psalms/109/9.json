@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 109:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 233,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62655,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 62888
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:53:24.325808260Z",
   "translation": "Que seus filhos sejam ⟨órfãos⟩ e sua esposa ⟨uma⟩ viúva",
   "tokens": [
     {
       "surface": "יהיו",
-      "english": "Que ... sejam"
+      "gloss": "Que ... sejam"
     },
     {
       "surface": "בניו",
-      "english": "seus filhos"
+      "gloss": "seus filhos"
     },
     {
       "surface": "יתומים",
-      "english": "órfãos"
+      "gloss": "órfãos"
     },
     {
       "surface": "ואשתו",
-      "english": "e sua esposa"
+      "gloss": "e sua esposa"
     },
     {
       "surface": "אלמנה",
-      "english": "viúva"
+      "gloss": "viúva"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:53:24.325808260Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

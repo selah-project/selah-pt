@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "isaiah 14:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 14,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:24:07.206740109Z",
+  "translation": "E o que ⟨se⟩ responderá aos mensageiros da nação? Pois YHWH ⟨é⟩ quem fundou Tzion, e nela os humildes do seu povo confiarão.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "E o que"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "⟨se⟩ responderá"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "aos mensageiros"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "da nação"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "⟨é⟩ quem fundou"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "ובה",
+      "gloss": "e nela"
+    },
+    {
+      "surface": "יחסו",
+      "gloss": "confiarão"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "os humildes"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "do seu povo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sião",
@@ -13,72 +68,6 @@
       "hebrew": "ציון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19440,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19937
-  },
-  "translation": "E o que ⟨se⟩ responderá aos mensageiros da nação? Pois YHWH ⟨é⟩ quem fundou Tzion, e nela os humildes do seu povo confiarão.",
-  "tokens": [
-    {
-      "surface": "ומה",
-      "english": "E o que"
-    },
-    {
-      "surface": "יענה",
-      "english": "⟨se⟩ responderá"
-    },
-    {
-      "surface": "מלאכי",
-      "english": "aos mensageiros"
-    },
-    {
-      "surface": "גוי",
-      "english": "da nação"
-    },
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "יסד",
-      "english": "⟨é⟩ quem fundou"
-    },
-    {
-      "surface": "ציון",
-      "english": "Tzion"
-    },
-    {
-      "surface": "ובה",
-      "english": "e nela"
-    },
-    {
-      "surface": "יחסו",
-      "english": "confiarão"
-    },
-    {
-      "surface": "עניי",
-      "english": "os humildes"
-    },
-    {
-      "surface": "עמו",
-      "english": "do seu povo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:24:07.206740109Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

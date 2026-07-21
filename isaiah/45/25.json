@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "isaiah 45:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 45,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:48:30.678955866Z",
+  "translation": "Em YHWH ⟨sejam⟩ justificados e ⟨se⟩ glorie toda ⟨a⟩ descendência de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Em YHWH"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "⟨sejam⟩ justificados"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "e ⟨se⟩ glorie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "⟨a⟩ descendência"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,48 +44,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 45,
-  "usage": {
-    "completion_tokens": 295,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18894,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19189
-  },
-  "translation": "Em YHWH ⟨sejam⟩ justificados e ⟨se⟩ glorie toda ⟨a⟩ descendência de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ביהוה",
-      "english": "Em YHWH"
-    },
-    {
-      "surface": "יצדקו",
-      "english": "⟨sejam⟩ justificados"
-    },
-    {
-      "surface": "ויתהללו",
-      "english": "e ⟨se⟩ glorie"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "זרע",
-      "english": "⟨a⟩ descendência"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:48:30.678955866Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

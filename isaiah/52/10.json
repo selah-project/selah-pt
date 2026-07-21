@@ -1,83 +1,75 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 52:10",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 662,
-    "prompt_tokens": 27346,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 28008
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:18:28.672876652Z",
   "translation": "YHWH fez ⟨a⟩ desnudar o seu braço santo ⟨את⟩ aos olhos de todas as nações, e ⟨todos⟩ os confins da terra verão ⟨את⟩ a salvação do nosso Elohim.",
   "tokens": [
     {
       "surface": "חשף",
-      "english": "fez ⟨a⟩ desnudar"
+      "gloss": "fez ⟨a⟩ desnudar"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o seu braço santo"
     },
     {
       "surface": "זרוע",
-      "english": "o seu braço"
+      "gloss": "o seu braço"
     },
     {
       "surface": "קדשו",
-      "english": "santo"
+      "gloss": "santo"
     },
     {
       "surface": "לעיני",
-      "english": "aos olhos"
+      "gloss": "aos olhos"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "הגוים",
-      "english": "as nações"
+      "gloss": "as nações"
     },
     {
       "surface": "וראו",
-      "english": "e verão"
+      "gloss": "e verão"
     },
     {
       "surface": "כל",
-      "english": "⟨todos⟩"
+      "gloss": "⟨todos⟩"
     },
     {
       "surface": "אפסי",
-      "english": "os confins"
+      "gloss": "os confins"
     },
     {
       "surface": "ארץ",
-      "english": "da terra"
+      "gloss": "da terra"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a salvação"
     },
     {
       "surface": "ישועת",
-      "english": "a salvação"
+      "gloss": "a salvação"
     },
     {
       "surface": "אלהינו",
-      "english": "do nosso Elohim"
+      "gloss": "do nosso Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T15:18:28.672876652Z",
-  "model": "glm-4.5"
+  ]
 }

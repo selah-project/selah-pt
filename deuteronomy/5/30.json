@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "deuteronomy 5:30",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 324,
-    "prompt_tokens": 24839,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25163
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:13:52.373821690Z",
   "translation": "Vai, dize-lhes: voltai para ⟨os vossos⟩ tendes.",
   "tokens": [
     {
       "surface": "לך",
-      "english": "vai"
+      "gloss": "vai"
     },
     {
       "surface": "אמר",
-      "english": "dize-lhes:"
+      "gloss": "dize-lhes:"
     },
     {
       "surface": "להם",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "שובו",
-      "english": "voltai"
+      "gloss": "voltai"
     },
     {
       "surface": "לכם",
-      "english": "para ⟨os vossos⟩"
+      "gloss": "para ⟨os vossos⟩"
     },
     {
       "surface": "לאהליכם",
-      "english": "tentes."
+      "gloss": "tentes."
     }
-  ],
-  "timestamp": "2026-07-16T13:13:52.373821690Z",
-  "model": "glm-4.5"
+  ]
 }

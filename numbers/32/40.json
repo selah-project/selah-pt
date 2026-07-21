@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "numbers 32:40",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 363,
-    "prompt_tokens": 25616,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25979
-  },
+  "verse": 40,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:24:37.475763728Z",
   "translation": "E Moshé deu ⟨את⟩ Gileade a Makir, ⟨filho⟩ de Menashé, e ele habitou nela",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "E ... deu"
+      "gloss": "E ... deu"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Gileade"
     },
     {
       "surface": "הגלעד",
-      "english": "Gileade"
+      "gloss": "Gileade"
     },
     {
       "surface": "למכיר",
-      "english": "a Makir"
+      "gloss": "a Makir"
     },
     {
       "surface": "בן",
-      "english": "⟨filho⟩"
+      "gloss": "⟨filho⟩"
     },
     {
       "surface": "מנשה",
-      "english": "de Menashé"
+      "gloss": "de Menashé"
     },
     {
       "surface": "וישב",
-      "english": "e ele habitou"
+      "gloss": "e ele habitou"
     },
     {
       "surface": "בה",
-      "english": "nela"
+      "gloss": "nela"
     }
-  ],
-  "timestamp": "2026-07-16T17:24:37.475763728Z",
-  "model": "glm-4.5"
+  ]
 }

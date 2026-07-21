@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 37,
   "ref": "numbers 15:37",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 15,
+  "verse": 37,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:26:24.080237475Z",
+  "translation": "E YHWH falou ⟨a⟩ Moshé, dizendo:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E falou",
+      "marks": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH",
+      "marks": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé",
+      "marks": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ", dizendo:",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshe",
@@ -13,49 +45,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 216,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17683,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 17899
-  },
-  "translation": "E YHWH falou ⟨a⟩ Moshé, dizendo:",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E falou",
-      "marks": ""
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH",
-      "marks": ""
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩",
-      "marks": "Moshe"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé",
-      "marks": ""
-    },
-    {
-      "surface": "לאמר",
-      "english": ", dizendo:",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:26:24.080237475Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 44:22",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70300,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70725
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:38:10.055045334Z",
   "translation": "Porventura não ⟨את⟩ ⟨this⟩ Elohim ⟨will⟩ search? pois Ele ⟨knows⟩ os segredos ⟨de⟩ coração",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "Porventura não"
+      "gloss": "Porventura não"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יחקר",
-      "english": "⟨will⟩ search"
+      "gloss": "⟨will⟩ search"
     },
     {
       "surface": "זאת",
-      "english": "⟨this⟩"
+      "gloss": "⟨this⟩"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "הוא",
-      "english": "Ele"
+      "gloss": "Ele"
     },
     {
       "surface": "ידע",
-      "english": "⟨knows⟩"
+      "gloss": "⟨knows⟩"
     },
     {
       "surface": "תעלמות",
-      "english": "os segredos"
+      "gloss": "os segredos"
     },
     {
       "surface": "לב",
-      "english": "⟨de⟩ coração"
+      "gloss": "⟨de⟩ coração"
     }
-  ],
-  "timestamp": "2026-06-13T06:38:10.055045334Z",
-  "model": "glm-4.5"
+  ]
 }

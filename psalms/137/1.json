@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 137:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 477,
-    "prompt_tokens": 70723,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71200
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:22.841289535Z",
   "translation": "Sobre os rios de Bavel, ali nos assentamos, sim, choramos, ao nos lembrarmos ⟨את⟩ Tzion.",
   "tokens": [
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "נהרות",
-      "english": "os rios"
+      "gloss": "os rios"
     },
     {
       "surface": "בבל",
-      "english": "de Bavel"
+      "gloss": "de Bavel"
     },
     {
       "surface": "שם",
-      "english": "ali"
+      "gloss": "ali"
     },
     {
       "surface": "ישבנו",
-      "english": "nos assentamos"
+      "gloss": "nos assentamos"
     },
     {
       "surface": "גם",
-      "english": "sim"
+      "gloss": "sim"
     },
     {
       "surface": "בכינו",
-      "english": "choramos"
+      "gloss": "choramos"
     },
     {
       "surface": "בזכרנו",
-      "english": "ao nos lembrarmos"
+      "gloss": "ao nos lembrarmos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Tzion"
     },
     {
       "surface": "ציון",
-      "english": "Tzion"
+      "gloss": "Tzion"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:22.841289535Z",
-  "model": "glm-4.5"
+  ]
 }

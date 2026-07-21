@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "genesis 30:40",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 30,
+  "verse": 40,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:12:29.515136295Z",
+  "translation": "E Yaakov separou ⟨os⟩ cordeiros e ⟨os⟩ virou as faces dos rebanhos em direção ⟨aos⟩ listrados e ⟨ao⟩ todo o ⟨que era⟩ negro nos rebanhos de Labão; e pôs ⟨seus⟩ próprios rebanhos ⟨para⟩ si ⟨mesmo⟩ e não ⟨os⟩ pôs sobre ⟨os⟩ rebanhos de Labão",
+  "tokens": [
+    {
+      "surface": "והכשבים",
+      "gloss": "E Jacó separou ⟨os⟩ cordeiros"
+    },
+    {
+      "surface": "הפריד",
+      "gloss": "separou"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e ⟨os⟩ virou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "as faces"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dos rebanhos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "em direção ⟨aos⟩"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "listrados"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ⟨ao⟩ todo ⟨o⟩"
+    },
+    {
+      "surface": "חום",
+      "gloss": "negro"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "⟨que era⟩ nos rebanhos"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "de Labão"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "e pôs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨seus⟩"
+    },
+    {
+      "surface": "עדרים",
+      "gloss": "próprios rebanhos"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "⟨para⟩ si ⟨mesmo⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não ⟨os⟩"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "pôs"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "⟨os⟩ rebanhos"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "de Labão"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacó",
@@ -13,108 +104,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 711,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22554,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 23265
-  },
-  "translation": "E Yaakov separou ⟨os⟩ cordeiros e ⟨os⟩ virou as faces dos rebanhos em direção ⟨aos⟩ listrados e ⟨ao⟩ todo o ⟨que era⟩ negro nos rebanhos de Labão; e pôs ⟨seus⟩ próprios rebanhos ⟨para⟩ si ⟨mesmo⟩ e não ⟨os⟩ pôs sobre ⟨os⟩ rebanhos de Labão",
-  "tokens": [
-    {
-      "surface": "והכשבים",
-      "english": "E Jacó separou ⟨os⟩ cordeiros"
-    },
-    {
-      "surface": "הפריד",
-      "english": "separou"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "ויתן",
-      "english": "e ⟨os⟩ virou"
-    },
-    {
-      "surface": "פני",
-      "english": "as faces"
-    },
-    {
-      "surface": "הצאן",
-      "english": "dos rebanhos"
-    },
-    {
-      "surface": "אל",
-      "english": "em direção ⟨aos⟩"
-    },
-    {
-      "surface": "עקד",
-      "english": "listrados"
-    },
-    {
-      "surface": "וכל",
-      "english": "e ⟨ao⟩ todo ⟨o⟩"
-    },
-    {
-      "surface": "חום",
-      "english": "negro"
-    },
-    {
-      "surface": "בצאן",
-      "english": "⟨que era⟩ nos rebanhos"
-    },
-    {
-      "surface": "לבן",
-      "english": "de Labão"
-    },
-    {
-      "surface": "וישת",
-      "english": "e pôs"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨seus⟩"
-    },
-    {
-      "surface": "עדרים",
-      "english": "próprios rebanhos"
-    },
-    {
-      "surface": "לבדו",
-      "english": "⟨para⟩ si ⟨mesmo⟩"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não ⟨os⟩"
-    },
-    {
-      "surface": "שתם",
-      "english": "pôs"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "צאן",
-      "english": "⟨os⟩ rebanhos"
-    },
-    {
-      "surface": "לבן",
-      "english": "de Labão"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:12:29.515136295Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

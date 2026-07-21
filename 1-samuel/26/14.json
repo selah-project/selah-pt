@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-samuel 26:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 26,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:38:31.583982225Z",
+  "translation": "E David clamou ao povo e a Abner, filho de Ner, dizendo: Não responderás, Abner? Então respondeu Abner e disse: Quem és tu que clamas ao rei?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "E clamou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "povo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "responderás"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "Então respondeu"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Quem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "és tu"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "que clamas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,104 +100,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 533,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17421,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 17954
-  },
-  "translation": "E David clamou ao povo e a Abner, filho de Ner, dizendo: Não responderás, Abner? Então respondeu Abner e disse: Quem és tu que clamas ao rei?",
-  "tokens": [
-    {
-      "surface": "ויקרא",
-      "english": "E clamou"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "העם",
-      "english": "povo"
-    },
-    {
-      "surface": "ואל",
-      "english": "e a"
-    },
-    {
-      "surface": "אבנר",
-      "english": "Abner"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "נר",
-      "english": "Ner"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "הלוא",
-      "english": "Não"
-    },
-    {
-      "surface": "תענה",
-      "english": "responderás"
-    },
-    {
-      "surface": "אבנר",
-      "english": "Abner"
-    },
-    {
-      "surface": "ויען",
-      "english": "Então respondeu"
-    },
-    {
-      "surface": "אבנר",
-      "english": "Abner"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "מי",
-      "english": "Quem"
-    },
-    {
-      "surface": "אתה",
-      "english": "és tu"
-    },
-    {
-      "surface": "קראת",
-      "english": "que clamas"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "המלך",
-      "english": "rei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:38:31.583982225Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "2-chronicles 32:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 32,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:45:39.369451482Z",
+  "translation": "E falaram contra o Elohim de Yerushalayim ⟨como⟩ contra ⟨os⟩ elohim dos povos da terra—obra ⟨das⟩ mãos ⟨do⟩ homem.",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "E falaram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨contra⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "⟨como⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨os⟩ elohim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dos povos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "da terra"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "obra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "⟨das⟩ mãos"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨do⟩ homem"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,68 +64,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58367,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58784
-  },
-  "translation": "E falaram contra o Elohim de Yerushalayim ⟨como⟩ contra ⟨os⟩ elohim dos povos da terra—obra ⟨das⟩ mãos ⟨do⟩ homem.",
-  "tokens": [
-    {
-      "surface": "וידברו",
-      "english": "E falaram"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨contra⟩"
-    },
-    {
-      "surface": "אלהי",
-      "english": "o Elohim"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    },
-    {
-      "surface": "כעל",
-      "english": "⟨como⟩"
-    },
-    {
-      "surface": "אלהי",
-      "english": "⟨os⟩ elohim"
-    },
-    {
-      "surface": "עמי",
-      "english": "dos povos"
-    },
-    {
-      "surface": "הארץ",
-      "english": "da terra"
-    },
-    {
-      "surface": "מעשה",
-      "english": "obra"
-    },
-    {
-      "surface": "ידי",
-      "english": "⟨das⟩ mãos"
-    },
-    {
-      "surface": "האדם",
-      "english": "⟨do⟩ homem"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:45:39.369451482Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 55:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 577,
-    "prompt_tokens": 70495,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71072
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:40:00.000424119Z",
   "translation": "Engula, Adonai, ⟨e⟩ divida ⟨a⟩ língua deles; pois vi violência e contenda na cidade.",
   "tokens": [
     {
       "surface": "בלע",
-      "english": "Engula"
+      "gloss": "Engula"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "פלג",
-      "english": "divida"
+      "gloss": "divida"
     },
     {
       "surface": "לשונם",
-      "english": "⟨a⟩ língua deles"
+      "gloss": "⟨a⟩ língua deles"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "ראיתי",
-      "english": "vi"
+      "gloss": "vi"
     },
     {
       "surface": "חמס",
-      "english": "violência"
+      "gloss": "violência"
     },
     {
       "surface": "וריב",
-      "english": "e contenda"
+      "gloss": "e contenda"
     },
     {
       "surface": "בעיר",
-      "english": "na cidade"
+      "gloss": "na cidade"
     }
-  ],
-  "timestamp": "2026-07-16T17:40:00.000424119Z",
-  "model": "glm-4.5"
+  ]
 }

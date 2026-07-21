@@ -1,9 +1,103 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 30:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 30,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:43:34.549032761Z",
+  "translation": "E Yehizkiyahu enviou a todo Yisrael e a Judá, e também escreveu cartas a Efráyim e a Manassés para que viessem ⟨ao⟩ ⟨casa⟩ de YHWH em Yerushalaim para ⟨fazer⟩ o Pésaj para YHWH, ⟨o⟩ Elohim de Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E ... enviou"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e a Judá"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e também"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "cartas"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "escreveu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "e a Manassés"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "para que viessem"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨ao⟩ ⟨casa⟩",
+      "marks": "casa de YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Yerushalaim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "para ⟨fazer⟩",
+      "marks": "fazer o Pésaj"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "o Pésaj"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨o⟩ Elohim",
+      "marks": "Elohim de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -27,111 +121,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 848,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59375,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 60223
-  },
-  "translation": "E Yehizkiyahu enviou a todo Yisrael e a Judá, e também escreveu cartas a Efráyim e a Manassés para que viessem ⟨ao⟩ ⟨casa⟩ de YHWH em Yerushalaim para ⟨fazer⟩ o Pésaj para YHWH, ⟨o⟩ Elohim de Yisrael.",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "E ... enviou"
-    },
-    {
-      "surface": "יחזקיהו",
-      "english": "Yehizkiyahu"
-    },
-    {
-      "surface": "על",
-      "english": "a"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "e a Judá"
-    },
-    {
-      "surface": "וגם",
-      "english": "e também"
-    },
-    {
-      "surface": "אגרות",
-      "english": "cartas"
-    },
-    {
-      "surface": "כתב",
-      "english": "escreveu"
-    },
-    {
-      "surface": "על",
-      "english": "a"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "ומנשה",
-      "english": "e a Manassés"
-    },
-    {
-      "surface": "לבוא",
-      "english": "para que viessem"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨ao⟩ ⟨casa⟩",
-      "marks": "casa de YHWH"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Yerushalaim"
-    },
-    {
-      "surface": "לעשות",
-      "english": "para ⟨fazer⟩",
-      "marks": "fazer o Pésaj"
-    },
-    {
-      "surface": "פסח",
-      "english": "o Pésaj"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "para YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "⟨o⟩ Elohim",
-      "marks": "Elohim de Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:43:34.549032761Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

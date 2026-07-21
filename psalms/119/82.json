@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 82,
   "ref": "psalms 119:82",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 442,
-    "prompt_tokens": 70192,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70634
-  },
+  "verse": 82,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:38.400682790Z",
   "translation": "Meus olhos desfalecem pela tua palavra, dizendo: quando me confortarás?",
   "tokens": [
     {
       "surface": "כלו",
-      "english": "desfalecem"
+      "gloss": "desfalecem"
     },
     {
       "surface": "עיני",
-      "english": "meus olhos"
+      "gloss": "meus olhos"
     },
     {
       "surface": "לאמרתך",
-      "english": "pela tua palavra"
+      "gloss": "pela tua palavra"
     },
     {
       "surface": "לאמר",
-      "english": "dizendo"
+      "gloss": "dizendo"
     },
     {
       "surface": "מתי",
-      "english": "quando"
+      "gloss": "quando"
     },
     {
       "surface": "תנחמני",
-      "english": "me confortarás"
+      "gloss": "me confortarás"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:38.400682790Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "amos 1:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 256,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16323,
-    "prompt_tokens_details": {
-      "cached_tokens": 15413
-    },
-    "total_tokens": 16579
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:05:23.931204444Z",
   "translation": "E enviarei fogo sobre ⟨o⟩ muro de Gaza ⟨את⟩, e consumirá os seus palácios",
   "tokens": [
     {
       "surface": "ושלחתי",
-      "english": "E enviarei"
+      "gloss": "E enviarei"
     },
     {
       "surface": "אש",
-      "english": "fogo"
+      "gloss": "fogo"
     },
     {
       "surface": "בחומת",
-      "english": "sobre ⟨o⟩ muro"
+      "gloss": "sobre ⟨o⟩ muro"
     },
     {
       "surface": "עזה",
-      "english": "de Gaza",
+      "gloss": "de Gaza",
       "marks": "Gaza"
     },
     {
       "surface": "ואכלה",
-      "english": "e consumirá"
+      "gloss": "e consumirá"
     },
     {
       "surface": "ארמנתיה",
-      "english": "os seus palácios"
+      "gloss": "os seus palácios"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:05:23.931204444Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

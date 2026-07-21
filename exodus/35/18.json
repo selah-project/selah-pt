@@ -1,56 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "exodus 35:18",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 377,
-    "prompt_tokens": 24500,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24877
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:02:16.188821449Z",
   "translation": "⟨את⟩ as estacas do Mishkán e ⟨את⟩ as estacas do pátio e ⟨את⟩ as cordas deles",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "as estacas do Mishkán"
     },
     {
       "surface": "יתדת",
-      "english": "as estacas"
+      "gloss": "as estacas"
     },
     {
       "surface": "המשכן",
-      "english": "do Mishkán"
+      "gloss": "do Mishkán"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "as estacas do pátio"
     },
     {
       "surface": "יתדת",
-      "english": "as estacas"
+      "gloss": "as estacas"
     },
     {
       "surface": "החצר",
-      "english": "do pátio"
+      "gloss": "do pátio"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "as cordas deles"
     },
     {
       "surface": "מיתריהם",
-      "english": "as cordas deles"
+      "gloss": "as cordas deles"
     }
-  ],
-  "timestamp": "2026-07-16T14:02:16.188821449Z",
-  "model": "glm-4.5"
+  ]
 }

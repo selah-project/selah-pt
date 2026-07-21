@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "exodus 17:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 17,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:00:23.166863825Z",
+  "translation": "Então veio ⟨o⟩ Amalek e lutou contra Yisrael ⟨em⟩ Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Então veio"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "⟨o⟩ Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "e lutou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "contra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "⟨em⟩ Refidim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amaleque",
@@ -20,48 +51,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16771,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17087
-  },
-  "translation": "Então veio ⟨o⟩ Amalek e lutou contra Yisrael ⟨em⟩ Refidim.",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "Então veio"
-    },
-    {
-      "surface": "עמלק",
-      "english": "⟨o⟩ Amalek"
-    },
-    {
-      "surface": "וילחם",
-      "english": "e lutou"
-    },
-    {
-      "surface": "עם",
-      "english": "contra"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ברפידם",
-      "english": "⟨em⟩ Refidim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:00:23.166863825Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

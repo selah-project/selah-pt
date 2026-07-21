@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 49:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70106,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70397
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:38:19.951404528Z",
   "translation": "e ⟨ele⟩ viverá para sempre, ⟨para⟩ não ver ⟨a⟩ cova",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "e ⟨ele⟩ viverá"
+      "gloss": "e ⟨ele⟩ viverá"
     },
     {
       "surface": "עוד",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "לנצח",
-      "english": "⟨para⟩"
+      "gloss": "⟨para⟩"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יראה",
-      "english": "ver"
+      "gloss": "ver"
     },
     {
       "surface": "השחת",
-      "english": "⟨a⟩ cova"
+      "gloss": "⟨a⟩ cova"
     }
-  ],
-  "timestamp": "2026-06-13T06:38:19.951404528Z",
-  "model": "glm-4.5"
+  ]
 }

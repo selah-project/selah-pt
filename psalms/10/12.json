@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 10:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62937,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63263
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:45:30.942685047Z",
   "translation": "Levanta-te, ⟨o⟩ YHWH; ⟨o⟩ Elohim, ergue a tua mão: não te esqueças ⟨dos⟩ humildes.",
   "tokens": [
     {
       "surface": "קומה",
-      "english": "Levanta-te"
+      "gloss": "Levanta-te"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨o⟩ Elohim"
+      "gloss": "⟨o⟩ Elohim"
     },
     {
       "surface": "נשא",
-      "english": "ergue"
+      "gloss": "ergue"
     },
     {
       "surface": "ידך",
-      "english": "a tua mão"
+      "gloss": "a tua mão"
     },
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תשכח",
-      "english": "te esqueças"
+      "gloss": "te esqueças"
     },
     {
       "surface": "עניים",
-      "english": "⟨dos⟩ humildes"
+      "gloss": "⟨dos⟩ humildes"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:45:30.942685047Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 96:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70248,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70724
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:24.309114550Z",
   "translation": "Alegrem-se ⟨os⟩ céus e exulte ⟨a⟩ terra; ⟨o⟩ mar rugirá ⟨e⟩ ⟨a⟩ sua plenitude",
   "tokens": [
     {
       "surface": "ישמחו",
-      "english": "Alegrem-se"
+      "gloss": "Alegrem-se"
     },
     {
       "surface": "השמים",
-      "english": "⟨os⟩ céus"
+      "gloss": "⟨os⟩ céus"
     },
     {
       "surface": "ותגל",
-      "english": "e exulte"
+      "gloss": "e exulte"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "ירעם",
-      "english": "⟨o⟩ mar rugirá"
+      "gloss": "⟨o⟩ mar rugirá"
     },
     {
       "surface": "הים",
-      "english": "mar"
+      "gloss": "mar"
     },
     {
       "surface": "ומלאו",
-      "english": "⟨e⟩ ⟨a⟩ sua plenitude"
+      "gloss": "⟨e⟩ ⟨a⟩ sua plenitude"
     }
-  ],
-  "timestamp": "2026-06-13T06:40:24.309114550Z",
-  "model": "glm-4.5"
+  ]
 }

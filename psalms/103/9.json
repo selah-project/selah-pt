@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 103:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 483,
-    "prompt_tokens": 70144,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70627
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:27.920222739Z",
   "translation": "Não ⟨irá⟩ contender ⟨por⟩ lənétzach e não ⟨irá⟩ guardar ⟨a⟩ sua ira ⟨por⟩ le-olam",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "לנצח",
-      "english": "⟨por⟩ lənétzach",
+      "gloss": "⟨por⟩ lənétzach",
       "notes": "literalmente 'para sempre', aqui enfatizando a duração da contenção"
     },
     {
       "surface": "יריב",
-      "english": "⟨irá⟩ contender",
+      "gloss": "⟨irá⟩ contender",
       "notes": "o verbo no imperfecto indica uma ação contínua ou habitual"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "לעולם",
-      "english": "⟨por⟩ le-olam",
+      "gloss": "⟨por⟩ le-olam",
       "notes": "intensivo de tempo; 'para sempre' ou 'por longuíssimo tempo'"
     },
     {
       "surface": "יטור",
-      "english": "⟨irá⟩ guardar",
+      "gloss": "⟨irá⟩ guardar",
       "notes": "sentido figurado de reter ou nutrir (ira); guarda sustentada"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:27.920222739Z",
-  "model": "glm-4.5"
+  ]
 }

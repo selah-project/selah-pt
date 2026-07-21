@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 34:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 34,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:16:26.827203364Z",
+  "translation": "E saiu Diná ⟨a⟩ filha de Leah que ⟨ela⟩ gerou a Ya'akov para ver ⟨as⟩ filhas ⟨da⟩ terra",
+  "tokens": [
+    {
+      "surface": "וַ\/תֵּצֵ֤א",
+      "gloss": "E saiu"
+    },
+    {
+      "surface": "דִינָה֙",
+      "gloss": "Diná"
+    },
+    {
+      "surface": "בַּת־",
+      "gloss": "⟨a⟩ filha"
+    },
+    {
+      "surface": "לֵאָ֔ה",
+      "gloss": "de Leah"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יָלְדָ֖ה",
+      "gloss": "⟨ela⟩ gerou"
+    },
+    {
+      "surface": "לְ\/יַעֲקֹ֑ב",
+      "gloss": "a Ya'akov"
+    },
+    {
+      "surface": "לִ\/רְא֖וֹת",
+      "gloss": "para ver"
+    },
+    {
+      "surface": "בִּ\/בְנ֥וֹת",
+      "gloss": "⟨as⟩ filhas"
+    },
+    {
+      "surface": "הָ\/אָֽרֶץ",
+      "gloss": "⟨da⟩ terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Lia",
@@ -13,64 +60,6 @@
       "hebrew": "לאה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21469,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21999
-  },
-  "translation": "E saiu Diná ⟨a⟩ filha de Leah que ⟨ela⟩ gerou a Ya'akov para ver ⟨as⟩ filhas ⟨da⟩ terra",
-  "tokens": [
-    {
-      "surface": "וַ\/תֵּצֵ֤א",
-      "english": "E saiu"
-    },
-    {
-      "surface": "דִינָה֙",
-      "english": "Diná"
-    },
-    {
-      "surface": "בַּת־",
-      "english": "⟨a⟩ filha"
-    },
-    {
-      "surface": "לֵאָ֔ה",
-      "english": "de Leah"
-    },
-    {
-      "surface": "אֲשֶׁ֥ר",
-      "english": "que"
-    },
-    {
-      "surface": "יָלְדָ֖ה",
-      "english": "⟨ela⟩ gerou"
-    },
-    {
-      "surface": "לְ\/יַעֲקֹ֑ב",
-      "english": "a Ya'akov"
-    },
-    {
-      "surface": "לִ\/רְא֖וֹת",
-      "english": "para ver"
-    },
-    {
-      "surface": "בִּ\/בְנ֥וֹת",
-      "english": "⟨as⟩ filhas"
-    },
-    {
-      "surface": "הָ\/אָֽרֶץ",
-      "english": "⟨da⟩ terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:16:26.827203364Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "ezekiel 4:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 4,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:01:39.336225658Z",
+  "translation": "E ⟨para⟩ o cerco ⟨de⟩ Yerushalayim direcionarás ⟨o⟩ teu rosto, e ⟨o⟩ teu braço ⟨estará⟩ descoberto, e profetizarás contra ela",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "E ⟨para⟩"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "o cerco"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨de⟩ Yerushalayim"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "direcionarás"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨o⟩ teu rosto"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "e ⟨o⟩ teu braço"
+    },
+    {
+      "surface": "חשופה",
+      "gloss": "⟨estará⟩ descoberto"
+    },
+    {
+      "surface": "ונבאת",
+      "gloss": "e profetizarás"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contra ela"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,60 +56,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 662,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17605,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18267
-  },
-  "translation": "E ⟨para⟩ o cerco ⟨de⟩ Yerushalayim direcionarás ⟨o⟩ teu rosto, e ⟨o⟩ teu braço ⟨estará⟩ descoberto, e profetizarás contra ela",
-  "tokens": [
-    {
-      "surface": "ואל",
-      "english": "E ⟨para⟩"
-    },
-    {
-      "surface": "מצור",
-      "english": "o cerco"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨de⟩ Yerushalayim"
-    },
-    {
-      "surface": "תכין",
-      "english": "direcionarás"
-    },
-    {
-      "surface": "פניך",
-      "english": "⟨o⟩ teu rosto"
-    },
-    {
-      "surface": "וזרעך",
-      "english": "e ⟨o⟩ teu braço"
-    },
-    {
-      "surface": "חשופה",
-      "english": "⟨estará⟩ descoberto"
-    },
-    {
-      "surface": "ונבאת",
-      "english": "e profetizarás"
-    },
-    {
-      "surface": "עליה",
-      "english": "contra ela"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:01:39.336225658Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

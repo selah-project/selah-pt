@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 3:18",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 407,
-    "prompt_tokens": 28904,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29311
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:39:19.575499762Z",
   "translation": "e espinho e cardo ⟨ela⟩ fará brotar para ti, e comerás ⟨את⟩ erva do campo",
   "tokens": [
     {
       "surface": "וקוץ",
-      "english": "e espinho"
+      "gloss": "e espinho"
     },
     {
       "surface": "ודרדר",
-      "english": "e cardo"
+      "gloss": "e cardo"
     },
     {
       "surface": "תצמיח",
-      "english": "⟨ela⟩ fará brotar"
+      "gloss": "⟨ela⟩ fará brotar"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "ואכלת",
-      "english": "e comerás"
+      "gloss": "e comerás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "erva"
     },
     {
       "surface": "עשב",
-      "english": "erva"
+      "gloss": "erva"
     },
     {
       "surface": "השדה",
-      "english": "do campo"
+      "gloss": "do campo"
     }
-  ],
-  "timestamp": "2026-07-16T14:39:19.575499762Z",
-  "model": "glm-4.5"
+  ]
 }

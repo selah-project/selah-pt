@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "proverbs 1:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52694,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53082
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:18:26.167858996Z",
   "translation": "And they ⟨are⟩ lying ⟨in⟩ wait for their own blood; they lie privily ⟨for⟩ their own lives.",
   "tokens": [
     {
       "surface": "והם",
-      "english": "And they"
+      "gloss": "And they"
     },
     {
       "surface": "לדמם",
-      "english": "⟨are⟩ lying ⟨in⟩ wait for their own blood",
+      "gloss": "⟨are⟩ lying ⟨in⟩ wait for their own blood",
       "marks": "blood"
     },
     {
       "surface": "יארבו",
-      "english": "lie"
+      "gloss": "lie"
     },
     {
       "surface": "יצפנו",
-      "english": "privily ⟨for⟩",
+      "gloss": "privily ⟨for⟩",
       "marks": "lives"
     },
     {
       "surface": "לנפשתם",
-      "english": "their own lives"
+      "gloss": "their own lives"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:18:26.167858996Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

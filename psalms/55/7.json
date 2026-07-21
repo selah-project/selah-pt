@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 55:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 389,
-    "prompt_tokens": 70321,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70710
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:38:53.481768888Z",
   "translation": "E disse: quem me daria asas como ⟨a⟩ pomba? Eu voaria e me abrigaria.",
   "tokens": [
     {
       "surface": "ואמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "מי",
-      "english": "quem"
+      "gloss": "quem"
     },
     {
       "surface": "יתן",
-      "english": "me daria"
+      "gloss": "me daria"
     },
     {
       "surface": "לי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אבר",
-      "english": "asas"
+      "gloss": "asas"
     },
     {
       "surface": "כיונה",
-      "english": "como ⟨a⟩ pomba"
+      "gloss": "como ⟨a⟩ pomba"
     },
     {
       "surface": "אעופה",
-      "english": "Eu voaria"
+      "gloss": "Eu voaria"
     },
     {
       "surface": "ואשכנה",
-      "english": "e me abrigaria"
+      "gloss": "e me abrigaria"
     }
-  ],
-  "timestamp": "2026-07-16T17:38:53.481768888Z",
-  "model": "glm-4.5"
+  ]
 }

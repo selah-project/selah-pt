@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 36:1",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 470,
-    "prompt_tokens": 65923,
-    "prompt_tokens_details": {
-      "cached_tokens": 64384
-    },
-    "total_tokens": 66393
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:27:26.128140723Z",
   "translation": "E o povo da terra tomou ⟨את⟩ Yehoahaz, filho de Yoshiyahu, e o fizeram rei no lugar de seu pai em Yerushalayim",
   "tokens": [
     {
       "surface": "ויקחו",
-      "english": "E tomaram"
+      "gloss": "E tomaram"
     },
     {
       "surface": "עם",
-      "english": "o povo"
+      "gloss": "o povo"
     },
     {
       "surface": "הארץ",
-      "english": "da terra"
+      "gloss": "da terra"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yehoahaz"
     },
     {
       "surface": "יהואחז",
-      "english": "Yehoahaz"
+      "gloss": "Yehoahaz"
     },
     {
       "surface": "בן",
-      "english": "filho"
+      "gloss": "filho"
     },
     {
       "surface": "יאשיהו",
-      "english": "de Yoshiyahu"
+      "gloss": "de Yoshiyahu"
     },
     {
       "surface": "וימליכהו",
-      "english": "e o fizeram rei"
+      "gloss": "e o fizeram rei"
     },
     {
       "surface": "תחת",
-      "english": "no lugar de"
+      "gloss": "no lugar de"
     },
     {
       "surface": "אביו",
-      "english": "seu pai"
+      "gloss": "seu pai"
     },
     {
       "surface": "בירושלם",
-      "english": "em Yerushalayim"
+      "gloss": "em Yerushalayim"
     }
-  ],
-  "timestamp": "2026-07-16T12:27:26.128140723Z",
-  "model": "glm-4.5"
+  ]
 }

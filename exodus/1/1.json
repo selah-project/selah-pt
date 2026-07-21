@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 1:1",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 405,
-    "prompt_tokens": 24680,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 25085
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:42:18.870932433Z",
   "translation": "E estes ⟨são⟩ os nomes dos filhos de Yisrael, ⟨os que⟩ entraram no Egito com Yaakov; cada um e sua casa vieram com ⟨את⟩ ele.",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "E estes"
+      "gloss": "E estes"
     },
     {
       "surface": "שמות",
-      "english": "os nomes"
+      "gloss": "os nomes"
     },
     {
       "surface": "בני",
-      "english": "dos filhos"
+      "gloss": "dos filhos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "הבאים",
-      "english": "⟨os que⟩ entraram"
+      "gloss": "⟨os que⟩ entraram"
     },
     {
       "surface": "מצרימה",
-      "english": "no Egito"
+      "gloss": "no Egito"
     },
     {
       "surface": "את",
-      "english": "com",
+      "gloss": "com",
       "marks": "Yaakov"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "איש",
-      "english": "cada um"
+      "gloss": "cada um"
     },
     {
       "surface": "וביתו",
-      "english": "e sua casa"
+      "gloss": "e sua casa"
     },
     {
       "surface": "באו",
-      "english": "vieram"
+      "gloss": "vieram"
     }
-  ],
-  "timestamp": "2026-07-16T13:42:18.870932433Z",
-  "model": "glm-4.5"
+  ]
 }

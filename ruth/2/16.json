@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "ruth 2:16",
   "book": "ruth",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 496,
-    "prompt_tokens": 28655,
-    "prompt_tokens_details": {
-      "cached_tokens": 27264
-    },
-    "total_tokens": 29151
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:53:00.856031237Z",
   "translation": "e também deixai cair ⟨algumas⟩ das maçarocas ⟨para ela⟩, e deixai, e ela colherá, e não a repreendais.",
   "tokens": [
     {
       "surface": "וגם",
-      "english": "e também"
+      "gloss": "e também"
     },
     {
       "surface": "של",
-      "english": "deixai cair"
+      "gloss": "deixai cair"
     },
     {
       "surface": "תשלו",
-      "english": "deixai cair"
+      "gloss": "deixai cair"
     },
     {
       "surface": "לה",
-      "english": "⟨para ela⟩"
+      "gloss": "⟨para ela⟩"
     },
     {
       "surface": "מן",
-      "english": "das"
+      "gloss": "das"
     },
     {
       "surface": "הצבתים",
-      "english": "maçarocas"
+      "gloss": "maçarocas"
     },
     {
       "surface": "ועזבתם",
-      "english": "e deixai"
+      "gloss": "e deixai"
     },
     {
       "surface": "ולקטה",
-      "english": "e ela colherá"
+      "gloss": "e ela colherá"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "תגערו",
-      "english": "repreendais"
+      "gloss": "repreendais"
     },
     {
       "surface": "בה",
-      "english": "a"
+      "gloss": "a"
     }
-  ],
-  "timestamp": "2026-07-16T17:53:00.856031237Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 49:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62721,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63137
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:11:29.252042755Z",
   "translation": "O ⟨homem⟩ ⟨em⟩ honra e ⟨não⟩ entende, assemelha-se ⟨aos⟩ animais que perecem",
   "tokens": [
     {
       "surface": "אדם",
-      "english": "Homem"
+      "gloss": "Homem"
     },
     {
       "surface": "ביקר",
-      "english": "em honra"
+      "gloss": "em honra"
     },
     {
       "surface": "ולא",
-      "english": "e ⟨não⟩"
+      "gloss": "e ⟨não⟩"
     },
     {
       "surface": "יבין",
-      "english": "entende"
+      "gloss": "entende"
     },
     {
       "surface": "נמשל",
-      "english": "assemelha-se"
+      "gloss": "assemelha-se"
     },
     {
       "surface": "כבהמות",
-      "english": "⟨aos⟩ animais"
+      "gloss": "⟨aos⟩ animais"
     },
     {
       "surface": "נדמו",
-      "english": "que perecem"
+      "gloss": "que perecem"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:11:29.252042755Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

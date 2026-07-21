@@ -1,48 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 15:20",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 224,
-    "prompt_tokens": 28751,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28975
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:44:42.307082734Z",
   "translation": "e ⟨את⟩ o Hitita e ⟨את⟩ o Perizita e ⟨את⟩ os Refaim",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o Hitita"
     },
     {
       "surface": "החתי",
-      "english": "o Hitita"
+      "gloss": "o Hitita"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o Perizita"
     },
     {
       "surface": "הפרזי",
-      "english": "o Perizita"
+      "gloss": "o Perizita"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "os Refaim"
     },
     {
       "surface": "הרפאים",
-      "english": "os Refaim"
+      "gloss": "os Refaim"
     }
-  ],
-  "timestamp": "2026-07-16T14:44:42.307082734Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "amos 7:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 7,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:09:56.918557203Z",
+  "translation": "E Amatzjá disse a Amos, ó vidente, vai, foge para ti ⟨para⟩ a terra de Yehudá e come ⟨lá⟩ o teu pão e ⟨lá⟩ profetiza",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... disse"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatzjá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Amos"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ó vidente"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vai"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "foge"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "e come"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨lá⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "o teu pão"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e ⟨lá⟩"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "profetiza"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,88 +84,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17122,
-    "prompt_tokens_details": {
-      "cached_tokens": 15413
-    },
-    "total_tokens": 17676
-  },
-  "translation": "E Amatzjá disse a Amos, ó vidente, vai, foge para ti ⟨para⟩ a terra de Yehudá e come ⟨lá⟩ o teu pão e ⟨lá⟩ profetiza",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ... disse"
-    },
-    {
-      "surface": "אמציה",
-      "english": "Amatzjá"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "עמוס",
-      "english": "Amos"
-    },
-    {
-      "surface": "חזה",
-      "english": "ó vidente"
-    },
-    {
-      "surface": "לך",
-      "english": "vai"
-    },
-    {
-      "surface": "ברח",
-      "english": "foge"
-    },
-    {
-      "surface": "לך",
-      "english": "para ti"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "ארץ",
-      "english": "a terra"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ואכל",
-      "english": "e come"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨lá⟩"
-    },
-    {
-      "surface": "לחם",
-      "english": "o teu pão"
-    },
-    {
-      "surface": "ושם",
-      "english": "e ⟨lá⟩"
-    },
-    {
-      "surface": "תנבא",
-      "english": "profetiza"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:09:56.918557203Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

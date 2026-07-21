@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-samuel 6:1",
   "book": "2-samuel",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 462,
-    "prompt_tokens": 24746,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25208
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:48:52.745293997Z",
   "translation": "E David reuniu ainda ⟨את⟩ todo homem escolhido em Israel, trinta mil.",
   "tokens": [
     {
       "surface": "ויסף",
-      "english": "E ... reuniu"
+      "gloss": "E ... reuniu"
     },
     {
       "surface": "עוד",
-      "english": "ainda"
+      "gloss": "ainda"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todo homem escolhido"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "בחור",
-      "english": "homem escolhido"
+      "gloss": "homem escolhido"
     },
     {
       "surface": "בישראל",
-      "english": "em Israel"
+      "gloss": "em Israel"
     },
     {
       "surface": "שלשים",
-      "english": "trinta"
+      "gloss": "trinta"
     },
     {
       "surface": "אלף",
-      "english": "mil"
+      "gloss": "mil"
     }
-  ],
-  "timestamp": "2026-07-16T12:48:52.745293997Z",
-  "model": "glm-4.5"
+  ]
 }

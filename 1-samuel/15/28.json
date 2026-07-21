@@ -1,9 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "1-samuel 15:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 15,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:26:29.343228910Z",
+  "translation": "E Shemuel disse a ele: YHWH ⟨ה⟩ rasgou ⟨את⟩ o reino de Yisrael de sobre ti hoje, e o deu ao teu vizinho ⟨que é⟩ melhor do que tu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E... disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "rasgou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o reino de Israel"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "o reino"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "de sobre ti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "e o deu"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ao teu vizinho"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨que é⟩ melhor"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "do que tu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,81 +77,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17117,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17645
-  },
-  "translation": "E Shemuel disse a ele: YHWH ⟨ה⟩ rasgou ⟨את⟩ o reino de Yisrael de sobre ti hoje, e o deu ao teu vizinho ⟨que é⟩ melhor do que tu.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E... disse"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ele"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shemuel"
-    },
-    {
-      "surface": "קרע",
-      "english": "rasgou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "o reino de Israel"
-    },
-    {
-      "surface": "ממלכות",
-      "english": "o reino"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "מעליך",
-      "english": "de sobre ti"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    },
-    {
-      "surface": "ונתנה",
-      "english": "e o deu"
-    },
-    {
-      "surface": "לרעך",
-      "english": "ao teu vizinho"
-    },
-    {
-      "surface": "הטוב",
-      "english": "⟨que é⟩ melhor"
-    },
-    {
-      "surface": "ממך",
-      "english": "do que tu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:26:29.343228910Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

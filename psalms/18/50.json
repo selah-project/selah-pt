@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "psalms 18:50",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70231,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70720
-  },
+  "verse": 50,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:53:41.765446165Z",
   "translation": "Therefore ⟨I will⟩ praise you, ⟨O⟩ YHWH, among ⟨the⟩ nations, and ⟨I will⟩ sing ⟨praises to⟩ your name.",
   "tokens": [
     {
       "surface": "על",
-      "english": "Therefore"
+      "gloss": "Therefore"
     },
     {
       "surface": "כן",
-      "english": "⟨I will⟩ praise you"
+      "gloss": "⟨I will⟩ praise you"
     },
     {
       "surface": "אודך",
-      "english": "⟨O⟩ YHWH"
+      "gloss": "⟨O⟩ YHWH"
     },
     {
       "surface": "בגוים",
-      "english": "among ⟨the⟩ nations"
+      "gloss": "among ⟨the⟩ nations"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ולשמך",
-      "english": "and ⟨I will⟩ sing ⟨praises to⟩ your name"
+      "gloss": "and ⟨I will⟩ sing ⟨praises to⟩ your name"
     },
     {
       "surface": "אזמרה",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-06-14T04:53:41.765446165Z",
-  "model": "glm-4.5"
+  ]
 }

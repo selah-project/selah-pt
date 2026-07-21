@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "deuteronomy 6:12",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 25514,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25918
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:14:56.845944704Z",
   "translation": "Guarda-te para que não esqueças ⟨את⟩ YHWH, que te tirou da terra do Egito, da casa de servos",
   "tokens": [
     {
       "surface": "השמר",
-      "english": "Guarda-te"
+      "gloss": "Guarda-te"
     },
     {
       "surface": "לך",
-      "english": "para que"
+      "gloss": "para que"
     },
     {
       "surface": "פן",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תשכח",
-      "english": "esqueças"
+      "gloss": "esqueças"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "הוציאך",
-      "english": "te tirou"
+      "gloss": "te tirou"
     },
     {
       "surface": "מארץ",
-      "english": "da terra"
+      "gloss": "da terra"
     },
     {
       "surface": "מצרים",
-      "english": "do Egito"
+      "gloss": "do Egito"
     },
     {
       "surface": "מבית",
-      "english": "da casa"
+      "gloss": "da casa"
     },
     {
       "surface": "עבדים",
-      "english": "de servos"
+      "gloss": "de servos"
     }
-  ],
-  "timestamp": "2026-07-16T13:14:56.845944704Z",
-  "model": "glm-4.5"
+  ]
 }

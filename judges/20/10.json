@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "judges 20:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 20,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:10:45.700595609Z",
+  "translation": "E nós tomaremos dez homens ⟨de⟩ cem ⟨de⟩ todas ⟨as⟩ tribos ⟨de⟩ Yisrael, e cem ⟨de⟩ mil, e mil ⟨de⟩ dez mil, ⟨para⟩ tomar provisão ⟨para⟩ o povo, ⟨para⟩ fazer, quando vierem a Gibeá ⟨de⟩ Binyamim, conforme toda ⟨a⟩ maldade que fez em Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולקחנו",
+      "gloss": "E nós tomaremos"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dez"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "homens"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "⟨de⟩ cem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨de⟩ todas"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "⟨as⟩ tribos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "e cem"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "⟨de⟩ mil"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "e mil"
+    },
+    {
+      "surface": "לרבבה",
+      "gloss": "⟨de⟩ dez mil"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "⟨para⟩ tomar"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "provisão"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨para⟩ o povo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨para⟩ fazer"
+    },
+    {
+      "surface": "לבואם",
+      "gloss": "quando vierem"
+    },
+    {
+      "surface": "לגבע",
+      "gloss": "⟨a⟩ Gibeá"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "⟨de⟩ Binyamim"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "conforme toda"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "⟨a⟩ maldade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fez"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "em Israel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,116 +119,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 849,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17670,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 18519
-  },
-  "translation": "E nós tomaremos dez homens ⟨de⟩ cem ⟨de⟩ todas ⟨as⟩ tribos ⟨de⟩ Yisrael, e cem ⟨de⟩ mil, e mil ⟨de⟩ dez mil, ⟨para⟩ tomar provisão ⟨para⟩ o povo, ⟨para⟩ fazer, quando vierem a Gibeá ⟨de⟩ Binyamim, conforme toda ⟨a⟩ maldade que fez em Yisrael.",
-  "tokens": [
-    {
-      "surface": "ולקחנו",
-      "english": "E nós tomaremos"
-    },
-    {
-      "surface": "עשרה",
-      "english": "dez"
-    },
-    {
-      "surface": "אנשים",
-      "english": "homens"
-    },
-    {
-      "surface": "למאה",
-      "english": "⟨de⟩ cem"
-    },
-    {
-      "surface": "לכל",
-      "english": "⟨de⟩ todas"
-    },
-    {
-      "surface": "שבטי",
-      "english": "⟨as⟩ tribos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "ומאה",
-      "english": "e cem"
-    },
-    {
-      "surface": "לאלף",
-      "english": "⟨de⟩ mil"
-    },
-    {
-      "surface": "ואלף",
-      "english": "e mil"
-    },
-    {
-      "surface": "לרבבה",
-      "english": "⟨de⟩ dez mil"
-    },
-    {
-      "surface": "לקחת",
-      "english": "⟨para⟩ tomar"
-    },
-    {
-      "surface": "צדה",
-      "english": "provisão"
-    },
-    {
-      "surface": "לעם",
-      "english": "⟨para⟩ o povo"
-    },
-    {
-      "surface": "לעשות",
-      "english": "⟨para⟩ fazer"
-    },
-    {
-      "surface": "לבואם",
-      "english": "quando vierem"
-    },
-    {
-      "surface": "לגבע",
-      "english": "⟨a⟩ Gibeá"
-    },
-    {
-      "surface": "בנימן",
-      "english": "⟨de⟩ Binyamim"
-    },
-    {
-      "surface": "ככל",
-      "english": "conforme toda"
-    },
-    {
-      "surface": "הנבלה",
-      "english": "⟨a⟩ maldade"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עשה",
-      "english": "fez"
-    },
-    {
-      "surface": "בישראל",
-      "english": "em Israel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:10:45.700595609Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

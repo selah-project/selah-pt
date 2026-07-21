@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-chronicles 27:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 27,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:03:05.504463005Z",
+  "translation": "Para Dan, Azarel, filho de Jeroam; estes ⟨são⟩ os príncipes das tribos ⟨de⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "Para Dan"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "Azarel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Jeroam"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estes"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "os príncipes"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "das tribos",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,57 +53,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57105,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57519
-  },
-  "translation": "Para Dan, Azarel, filho de Jeroam; estes ⟨são⟩ os príncipes das tribos ⟨de⟩ Yisrael.",
-  "tokens": [
-    {
-      "surface": "לדן",
-      "english": "Para Dan"
-    },
-    {
-      "surface": "עזראל",
-      "english": "Azarel"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "ירחם",
-      "english": "Jeroam"
-    },
-    {
-      "surface": "אלה",
-      "english": "estes"
-    },
-    {
-      "surface": "שרי",
-      "english": "os príncipes"
-    },
-    {
-      "surface": "שבטי",
-      "english": "das tribos",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:03:05.504463005Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

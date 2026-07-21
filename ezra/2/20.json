@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "ezra 2:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 108,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44461,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 44569
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:03:20.178861922Z",
   "translation": "Os filhos de Gibbar: noventa e cinco",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Os filhos de"
+      "gloss": "Os filhos de"
     },
     {
       "surface": "גבר",
-      "english": "Gibbar"
+      "gloss": "Gibbar"
     },
     {
       "surface": "תשעים",
-      "english": "noventa"
+      "gloss": "noventa"
     },
     {
       "surface": "וחמשה",
-      "english": "e cinco"
+      "gloss": "e cinco"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:03:20.178861922Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

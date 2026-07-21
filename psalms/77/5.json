@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 77:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 456,
-    "prompt_tokens": 70255,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70711
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:11.507711879Z",
   "translation": "Agucei ⟨as⟩ pálpebras de meus olhos; fiquei agitado e ⟨não⟩ posso falar.",
   "tokens": [
     {
       "surface": "אחזת",
-      "english": "Agucei"
+      "gloss": "Agucei"
     },
     {
       "surface": "שמרות",
-      "english": "⟨as⟩ pálpebras"
+      "gloss": "⟨as⟩ pálpebras"
     },
     {
       "surface": "עיני",
-      "english": "de meus olhos"
+      "gloss": "de meus olhos"
     },
     {
       "surface": "נפעמתי",
-      "english": "fiquei agitado"
+      "gloss": "fiquei agitado"
     },
     {
       "surface": "ולא",
-      "english": "e ⟨não⟩"
+      "gloss": "e ⟨não⟩"
     },
     {
       "surface": "אדבר",
-      "english": "posso falar"
+      "gloss": "posso falar"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:11.507711879Z",
-  "model": "glm-4.5"
+  ]
 }

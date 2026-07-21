@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "isaiah 8:13",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 515,
-    "prompt_tokens": 26874,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 27389
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:11:32.711154586Z",
   "translation": "YHWH Tzevaot, ⟨a ele mesmo⟩, santificai ⟨את⟩, e ele será o vosso temor, e ele será o vosso espanto",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a ele mesmo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "אתו",
-      "english": "⟨a ele mesmo⟩",
+      "gloss": "⟨a ele mesmo⟩",
       "marks": "santificai"
     },
     {
       "surface": "תקדישו",
-      "english": "santificai"
+      "gloss": "santificai"
     },
     {
       "surface": "והוא",
-      "english": "e ele"
+      "gloss": "e ele"
     },
     {
       "surface": "מוראכם",
-      "english": "o vosso temor"
+      "gloss": "o vosso temor"
     },
     {
       "surface": "והוא",
-      "english": "e ele"
+      "gloss": "e ele"
     },
     {
       "surface": "מערצכם",
-      "english": "o vosso espanto"
+      "gloss": "o vosso espanto"
     }
-  ],
-  "timestamp": "2026-07-16T15:11:32.711154586Z",
-  "model": "glm-4.5"
+  ]
 }

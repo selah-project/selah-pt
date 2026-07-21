@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 86:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 534,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62747,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63281
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:36:55.333057524Z",
   "translation": "There ⟨is⟩ none ⟨as⟩ you, ⟨among⟩ the gods, Adonai; and ⟨there is⟩ none ⟨as⟩ your works.",
   "tokens": [
     {
       "surface": "אין",
-      "english": "There ⟨is⟩ none",
+      "gloss": "There ⟨is⟩ none",
       "marks": "negative existential assertion"
     },
     {
       "surface": "כמוך",
-      "english": "⟨as⟩ you",
+      "gloss": "⟨as⟩ you",
       "marks": "comparison of divine being"
     },
     {
       "surface": "באלהים",
-      "english": "⟨among⟩ the gods",
+      "gloss": "⟨among⟩ the gods",
       "marks": "divine beings"
     },
     {
       "surface": "אדני",
-      "english": "Adonai",
+      "gloss": "Adonai",
       "marks": "vocative address to YHWH"
     },
     {
       "surface": "ואין",
-      "english": "and ⟨there is⟩ none",
+      "gloss": "and ⟨there is⟩ none",
       "marks": "negative existential assertion"
     },
     {
       "surface": "כמעשיך",
-      "english": "⟨as⟩ your works",
+      "gloss": "⟨as⟩ your works",
       "marks": "divine actions"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:36:55.333057524Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

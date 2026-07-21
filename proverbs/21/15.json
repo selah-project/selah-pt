@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 21:15",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 505,
-    "prompt_tokens": 60290,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60795
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:31:10.757281625Z",
   "translation": "Alegria ⟨é⟩ para o justo executar ⟨את⟩ o juízo, e destruição para os praticantes de iniquidade.",
   "tokens": [
     {
       "surface": "שמחה",
-      "english": "Alegria"
+      "gloss": "Alegria"
     },
     {
       "surface": "לצדיק",
-      "english": "para o justo"
+      "gloss": "para o justo"
     },
     {
       "surface": "עשות",
-      "english": "executar"
+      "gloss": "executar"
     },
     {
       "surface": "משפט",
-      "english": "⟨את⟩ o juízo",
+      "gloss": "⟨את⟩ o juízo",
       "marks": "o juízo"
     },
     {
       "surface": "ומחתה",
-      "english": "e destruição"
+      "gloss": "e destruição"
     },
     {
       "surface": "לפעלי",
-      "english": "para os praticantes"
+      "gloss": "para os praticantes"
     },
     {
       "surface": "און",
-      "english": "de iniquidade"
+      "gloss": "de iniquidade"
     }
-  ],
-  "timestamp": "2026-07-16T17:31:10.757281625Z",
-  "model": "glm-4.5"
+  ]
 }

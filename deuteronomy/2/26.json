@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "deuteronomy 2:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 2,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:52:11.573457968Z",
+  "translation": "E eu enviei mensageiros do deserto de Quedemot ⟨para⟩ Sihon, rei de Hesbom, ⟨com⟩ palavras de Shalom, dizendo:",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "E eu enviei"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mensageiros"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "do deserto de"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Quedemot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hesbom"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨com⟩ palavras"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de Shalom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,68 +64,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17948,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 18358
-  },
-  "translation": "E eu enviei mensageiros do deserto de Quedemot ⟨para⟩ Sihon, rei de Hesbom, ⟨com⟩ palavras de Shalom, dizendo:",
-  "tokens": [
-    {
-      "surface": "ואשלח",
-      "english": "E eu enviei"
-    },
-    {
-      "surface": "מלאכים",
-      "english": "mensageiros"
-    },
-    {
-      "surface": "ממדבר",
-      "english": "do deserto de"
-    },
-    {
-      "surface": "קדמות",
-      "english": "Quedemot"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "סיחון",
-      "english": "Sihon"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "חשבון",
-      "english": "Hesbom"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨com⟩ palavras"
-    },
-    {
-      "surface": "שלום",
-      "english": "de Shalom"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:52:11.573457968Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

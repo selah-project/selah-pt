@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 27:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19033,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19434
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:32:39.115472681Z",
   "translation": "Como a ferida ⟨do⟩ que fere, feriu-⟨o⟩? ou ⟨como⟩ a morte ⟨dos⟩ que matam, matou?",
   "tokens": [
     {
       "surface": "הכמכת",
-      "english": "Como a ferida"
+      "gloss": "Como a ferida"
     },
     {
       "surface": "מכהו",
-      "english": "⟨do⟩ que fere",
+      "gloss": "⟨do⟩ que fere",
       "marks": "feriu"
     },
     {
       "surface": "הכהו",
-      "english": "feriu-⟨o⟩"
+      "gloss": "feriu-⟨o⟩"
     },
     {
       "surface": "אם",
-      "english": "ou"
+      "gloss": "ou"
     },
     {
       "surface": "כהרג",
-      "english": "⟨como⟩ a morte"
+      "gloss": "⟨como⟩ a morte"
     },
     {
       "surface": "הרגיו",
-      "english": "⟨dos⟩ que matam",
+      "gloss": "⟨dos⟩ que matam",
       "marks": "matou"
     },
     {
       "surface": "הרג",
-      "english": "matou"
+      "gloss": "matou"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:32:39.115472681Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

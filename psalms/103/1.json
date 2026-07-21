@@ -1,70 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 103:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63286,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63764
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:47:26.780862988Z",
   "translation": "A David, bendi ⟨a⟩ minha alma ⟨a⟩ YHWH, e todo ⟨o⟩ meu ser interior ⟨a⟩ Seu santo nome.",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "A David"
+      "gloss": "A David"
     },
     {
       "surface": "ברכי",
-      "english": "bendi"
+      "gloss": "bendi"
     },
     {
       "surface": "נפשי",
-      "english": "⟨a⟩ minha alma"
+      "gloss": "⟨a⟩ minha alma"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "וכל",
-      "english": "e todo ⟨o⟩"
+      "gloss": "e todo ⟨o⟩"
     },
     {
       "surface": "קרבי",
-      "english": "meu ser interior"
+      "gloss": "meu ser interior"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Seu santo nome"
     },
     {
       "surface": "שם",
-      "english": "nome"
+      "gloss": "nome"
     },
     {
       "surface": "קדשו",
-      "english": "santo"
+      "gloss": "santo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:47:26.780862988Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

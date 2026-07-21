@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 7:16",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70142,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70460
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:37:14.242019808Z",
   "translation": "His mischief shall return ⟨upon⟩ his own head, and his violence ⟨shall⟩ come down ⟨upon⟩ his own pate.",
   "tokens": [
     {
       "surface": "בור",
-      "english": "His mischief"
+      "gloss": "His mischief"
     },
     {
       "surface": "כרה",
-      "english": "shall return"
+      "gloss": "shall return"
     },
     {
       "surface": "ויחפרהו",
-      "english": "⟨upon⟩ his own"
+      "gloss": "⟨upon⟩ his own"
     },
     {
       "surface": "ואפיל",
-      "english": "head, and his violence"
+      "gloss": "head, and his violence"
     },
     {
       "surface": "בשחת",
-      "english": "⟨shall⟩ come down"
+      "gloss": "⟨shall⟩ come down"
     },
     {
       "surface": "יפעל",
-      "english": "⟨upon⟩ his own pate"
+      "gloss": "⟨upon⟩ his own pate"
     }
-  ],
-  "timestamp": "2026-06-13T06:37:14.242019808Z",
-  "model": "glm-4.5"
+  ]
 }

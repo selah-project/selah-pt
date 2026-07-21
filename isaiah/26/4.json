@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 26:4",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 524,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26457,
-    "prompt_tokens_details": {
-      "cached_tokens": 25329
-    },
-    "total_tokens": 26981
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:11:39.640343439Z",
   "translation": "Confiai em YHWH ⟨para⟩ sempre ⟨para⟩ sempre porque em YAH YHWH ⟨é⟩ rocha ⟨de⟩ eras ⟨futuras⟩",
   "tokens": [
     {
       "surface": "בטחו",
-      "english": "Confiai"
+      "gloss": "Confiai"
     },
     {
       "surface": "ביהוה",
-      "english": "em YHWH"
+      "gloss": "em YHWH"
     },
     {
       "surface": "עדי",
-      "english": "⟨para⟩ sempre"
+      "gloss": "⟨para⟩ sempre"
     },
     {
       "surface": "עד",
-      "english": "⟨para⟩ sempre"
+      "gloss": "⟨para⟩ sempre"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "ביה",
-      "english": "em YAH"
+      "gloss": "em YAH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צור",
-      "english": "rocha"
+      "gloss": "rocha"
     },
     {
       "surface": "עולמים",
-      "english": "⟨de⟩ eras ⟨futuras⟩"
+      "gloss": "⟨de⟩ eras ⟨futuras⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:11:39.640343439Z",
-  "model": "glm-4.5"
+  ]
 }

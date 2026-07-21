@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "isaiah 23:6",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 311,
-    "prompt_tokens": 26239,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 26550
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:13:20.553757484Z",
   "translation": "Passai ⟨por⟩ sobre ⟨a⟩ Tarshish; uivai, vós ⟨que⟩ habitais ⟨na⟩ ilha.",
   "tokens": [
     {
       "surface": "עברו",
-      "english": "Passai"
+      "gloss": "Passai"
     },
     {
       "surface": "תרשישה",
-      "english": "sobre ⟨a⟩ Tarshish"
+      "gloss": "sobre ⟨a⟩ Tarshish"
     },
     {
       "surface": "הילילו",
-      "english": "uivai"
+      "gloss": "uivai"
     },
     {
       "surface": "ישבי",
-      "english": "vós ⟨que⟩ habitais"
+      "gloss": "vós ⟨que⟩ habitais"
     },
     {
       "surface": "אי",
-      "english": "ilha"
+      "gloss": "ilha"
     }
-  ],
-  "timestamp": "2026-07-16T15:13:20.553757484Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 89:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 89,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:38:41.675008321Z",
+  "translation": "Fiz ⟨um⟩ Brit com o meu escolhido, jurei a David, meu servo",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Fiz"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨um⟩ Brit",
+      "marks": "pacto"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "com o meu escolhido"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jurei"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "meu servo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,49 +45,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 89,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62834,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63218
-  },
-  "translation": "Fiz ⟨um⟩ Brit com o meu escolhido, jurei a David, meu servo",
-  "tokens": [
-    {
-      "surface": "כרתי",
-      "english": "Fiz"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨um⟩ Brit",
-      "marks": "pacto"
-    },
-    {
-      "surface": "לבחירי",
-      "english": "com o meu escolhido"
-    },
-    {
-      "surface": "נשבעתי",
-      "english": "jurei"
-    },
-    {
-      "surface": "לדוד",
-      "english": "a David"
-    },
-    {
-      "surface": "עבדי",
-      "english": "meu servo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:38:41.675008321Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

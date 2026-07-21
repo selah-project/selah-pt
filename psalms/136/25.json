@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 136:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 136,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:09:59.939987125Z",
+  "translation": "⟨O⟩ que dá alimento ⟨a⟩ toda carne: pois para sempre ⟨é⟩ sua Jésed.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "⟨O⟩ que dá"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "alimento"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨a⟩ toda"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "para sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sua Jésed"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "misericórdia",
@@ -13,52 +48,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 136,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62818,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63146
-  },
-  "translation": "⟨O⟩ que dá alimento ⟨a⟩ toda carne: pois para sempre ⟨é⟩ sua Jésed.",
-  "tokens": [
-    {
-      "surface": "נתן",
-      "english": "⟨O⟩ que dá"
-    },
-    {
-      "surface": "לחם",
-      "english": "alimento"
-    },
-    {
-      "surface": "לכל",
-      "english": "⟨a⟩ toda"
-    },
-    {
-      "surface": "בשר",
-      "english": "carne"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "לעולם",
-      "english": "para sempre"
-    },
-    {
-      "surface": "חסדו",
-      "english": "sua Jésed"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:09:59.939987125Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 90,
   "ref": "psalms 119:90",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 405,
-    "prompt_tokens": 70160,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70565
-  },
+  "verse": 90,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:44.299341265Z",
   "translation": "Para geração e geração, a tua fidelidade; estabeleceste a terra, e ela permanece.",
   "tokens": [
     {
       "surface": "לְ\/דֹ֣ר",
-      "english": "Para geração"
+      "gloss": "Para geração"
     },
     {
       "surface": "וָ֭\/דֹר",
-      "english": "e geração"
+      "gloss": "e geração"
     },
     {
       "surface": "אֱמֽוּנָתֶ֑\/ךָ",
-      "english": "a tua fidelidade"
+      "gloss": "a tua fidelidade"
     },
     {
       "surface": "כּוֹנַ֥נְתָּ",
-      "english": "estabeleceste"
+      "gloss": "estabeleceste"
     },
     {
       "surface": "אֶ֝֗רֶץ",
-      "english": "a terra"
+      "gloss": "a terra"
     },
     {
       "surface": "וַֽ\/תַּעֲמֹֽד",
-      "english": "e ela permanece"
+      "gloss": "e ela permanece"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:44.299341265Z",
-  "model": "glm-4.5"
+  ]
 }

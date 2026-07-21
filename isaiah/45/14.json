@@ -1,9 +1,132 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "isaiah 45:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 45,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:48:24.486145453Z",
+  "translation": "Assim diz YHWH: ⟨o⟩ trabalho do Mitzráyim e ⟨o⟩ comércio de Cush e ⟨dos⟩ sabeus, homens de estatura, passarão sobre ti e serão teus; após ti virão, em correntes passarão e diante de ti se prostrarão, a ti orarão, dizendo: Somente em ti ⟨está⟩ El e não há mais, absolutamente não ⟨há outro⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "⟨o⟩ trabalho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "וסחר",
+      "gloss": "e ⟨o⟩ comércio"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "de Cush"
+    },
+    {
+      "surface": "וסבאים",
+      "gloss": "e ⟨dos⟩ sabeus"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "homens"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "de estatura"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sobre ti"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "passarão"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "serão"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "após ti"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "virão"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "em correntes"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "passarão"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "e diante de ti"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "se prostrarão"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "יתפללו",
+      "gloss": "orarão"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dizendo: Somente"
+    },
+    {
+      "surface": "בך",
+      "gloss": "em ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨está⟩ El"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e não há"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mais"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "absolutamente não ⟨há outro⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,140 +136,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 45,
-  "usage": {
-    "completion_tokens": 902,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21327,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 22229
-  },
-  "translation": "Assim diz YHWH: ⟨o⟩ trabalho do Mitzráyim e ⟨o⟩ comércio de Cush e ⟨dos⟩ sabeus, homens de estatura, passarão sobre ti e serão teus; após ti virão, em correntes passarão e diante de ti se prostrarão, a ti orarão, dizendo: Somente em ti ⟨está⟩ El e não há mais, absolutamente não ⟨há outro⟩ Elohim.",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "יגיע",
-      "english": "⟨o⟩ trabalho"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "וסחר",
-      "english": "e ⟨o⟩ comércio"
-    },
-    {
-      "surface": "כוש",
-      "english": "de Cush"
-    },
-    {
-      "surface": "וסבאים",
-      "english": "e ⟨dos⟩ sabeus"
-    },
-    {
-      "surface": "אנשי",
-      "english": "homens"
-    },
-    {
-      "surface": "מדה",
-      "english": "de estatura"
-    },
-    {
-      "surface": "עליך",
-      "english": "sobre ti"
-    },
-    {
-      "surface": "יעברו",
-      "english": "passarão"
-    },
-    {
-      "surface": "ולך",
-      "english": "e"
-    },
-    {
-      "surface": "יהיו",
-      "english": "serão"
-    },
-    {
-      "surface": "אחריך",
-      "english": "após ti"
-    },
-    {
-      "surface": "ילכו",
-      "english": "virão"
-    },
-    {
-      "surface": "בזקים",
-      "english": "em correntes"
-    },
-    {
-      "surface": "יעברו",
-      "english": "passarão"
-    },
-    {
-      "surface": "ואליך",
-      "english": "e diante de ti"
-    },
-    {
-      "surface": "ישתחוו",
-      "english": "se prostrarão"
-    },
-    {
-      "surface": "אליך",
-      "english": "a ti"
-    },
-    {
-      "surface": "יתפללו",
-      "english": "orarão"
-    },
-    {
-      "surface": "אך",
-      "english": "dizendo: Somente"
-    },
-    {
-      "surface": "בך",
-      "english": "em ti"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨está⟩ El"
-    },
-    {
-      "surface": "ואין",
-      "english": "e não há"
-    },
-    {
-      "surface": "עוד",
-      "english": "mais"
-    },
-    {
-      "surface": "אפס",
-      "english": "absolutamente não ⟨há outro⟩"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:48:24.486145453Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "exodus 1:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 1,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:36:26.916199181Z",
+  "translation": "E o rei do Mitzráyim falou ⟨às⟩ parteiras hebreias, ⟨das quais⟩ o nome da primeira ⟨era⟩ Shifrá, e o nome da segunda Puá",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E falou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "⟨às⟩ parteiras",
+      "marks": "parteiras hebreias"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "hebreias"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨das quais⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o nome"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "da primeira"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifrá"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e o nome"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "da segunda"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,73 +69,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17346,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17769
-  },
-  "translation": "E o rei do Mitzráyim falou ⟨às⟩ parteiras hebreias, ⟨das quais⟩ o nome da primeira ⟨era⟩ Shifrá, e o nome da segunda Puá",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E falou"
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "למילדת",
-      "english": "⟨às⟩ parteiras",
-      "marks": "parteiras hebreias"
-    },
-    {
-      "surface": "העברית",
-      "english": "hebreias"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨das quais⟩"
-    },
-    {
-      "surface": "שם",
-      "english": "o nome"
-    },
-    {
-      "surface": "האחת",
-      "english": "da primeira"
-    },
-    {
-      "surface": "שפרה",
-      "english": "Shifrá"
-    },
-    {
-      "surface": "ושם",
-      "english": "e o nome"
-    },
-    {
-      "surface": "השנית",
-      "english": "da segunda"
-    },
-    {
-      "surface": "פועה",
-      "english": "Puá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:36:26.916199181Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

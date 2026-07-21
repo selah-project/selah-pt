@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 19:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62896,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63216
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:51:13.442934418Z",
   "translation": "There ⟨is⟩ no speech, and ⟨there are⟩ no words, without ⟨their⟩ voice being heard.",
   "tokens": [
     {
       "surface": "אין",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "אמר",
-      "english": "speech"
+      "gloss": "speech"
     },
     {
       "surface": "ואין",
-      "english": "and ⟨there are⟩ no"
+      "gloss": "and ⟨there are⟩ no"
     },
     {
       "surface": "דברים",
-      "english": "words"
+      "gloss": "words"
     },
     {
       "surface": "בלי",
-      "english": "without"
+      "gloss": "without"
     },
     {
       "surface": "נשמע",
-      "english": "being heard"
+      "gloss": "being heard"
     },
     {
       "surface": "קולם",
-      "english": "⟨their⟩ voice"
+      "gloss": "⟨their⟩ voice"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:51:13.442934418Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

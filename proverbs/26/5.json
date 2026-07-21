@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 26:5",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 428,
-    "prompt_tokens": 60267,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60695
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:31:45.016899246Z",
   "translation": "Responde ⟨ao⟩ tolo conforme ⟨a⟩ sua estultícia, para que não seja sábio aos seus próprios olhos",
   "tokens": [
     {
       "surface": "ענה",
-      "english": "responde"
+      "gloss": "responde"
     },
     {
       "surface": "כסיל",
-      "english": "⟨ao⟩ tolo"
+      "gloss": "⟨ao⟩ tolo"
     },
     {
       "surface": "כאולתו",
-      "english": "conforme ⟨a⟩ sua estultícia"
+      "gloss": "conforme ⟨a⟩ sua estultícia"
     },
     {
       "surface": "פן",
-      "english": "para que não"
+      "gloss": "para que não"
     },
     {
       "surface": "יהיה",
-      "english": "seja"
+      "gloss": "seja"
     },
     {
       "surface": "חכם",
-      "english": "sábio"
+      "gloss": "sábio"
     },
     {
       "surface": "בעיניו",
-      "english": "aos seus próprios olhos"
+      "gloss": "aos seus próprios olhos"
     }
-  ],
-  "timestamp": "2026-07-16T17:31:45.016899246Z",
-  "model": "glm-4.5"
+  ]
 }

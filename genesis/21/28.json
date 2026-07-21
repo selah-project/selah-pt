@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "genesis 21:28",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 316,
-    "prompt_tokens": 28735,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29051
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:47:43.546136209Z",
   "translation": "E Avraham pôs ⟨את⟩ sete cordeiras do rebanho à parte",
   "tokens": [
     {
       "surface": "ויצב",
-      "english": "E pôs"
+      "gloss": "E pôs"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sete cordeiras"
     },
     {
       "surface": "שבע",
-      "english": "sete"
+      "gloss": "sete"
     },
     {
       "surface": "כבשת",
-      "english": "cordeiras"
+      "gloss": "cordeiras"
     },
     {
       "surface": "הצאן",
-      "english": "do rebanho"
+      "gloss": "do rebanho"
     },
     {
       "surface": "לבדהן",
-      "english": "à parte"
+      "gloss": "à parte"
     }
-  ],
-  "timestamp": "2026-07-16T14:47:43.546136209Z",
-  "model": "glm-4.5"
+  ]
 }

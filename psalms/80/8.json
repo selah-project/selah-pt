@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 80:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 378,
-    "prompt_tokens": 70291,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70669
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:20.264769225Z",
   "translation": "Elohim dos Tzevaot, faze-nos retornar; faze resplandecer ⟨o⟩ Teu rosto, e seremos salvos.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "צבאות",
-      "english": "dos Tzevaot"
+      "gloss": "dos Tzevaot"
     },
     {
       "surface": "השיבנו",
-      "english": "faze-nos retornar"
+      "gloss": "faze-nos retornar"
     },
     {
       "surface": "והאר",
-      "english": "faze resplandecer"
+      "gloss": "faze resplandecer"
     },
     {
       "surface": "פניך",
-      "english": "⟨o⟩ Teu rosto"
+      "gloss": "⟨o⟩ Teu rosto"
     },
     {
       "surface": "ונושעה",
-      "english": "e seremos salvos"
+      "gloss": "e seremos salvos"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:20.264769225Z",
-  "model": "glm-4.5"
+  ]
 }

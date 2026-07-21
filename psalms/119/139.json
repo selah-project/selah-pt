@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 139,
   "ref": "psalms 119:139",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 353,
-    "prompt_tokens": 70189,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70542
-  },
+  "verse": 139,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:14.197150693Z",
   "translation": "Tema-me consumido ⟨com⟩ minha inveja, porque esqueceram as tuas palavras, meus adversários.",
   "tokens": [
     {
       "surface": "צמתתני",
-      "english": "Tema-me consumido"
+      "gloss": "Tema-me consumido"
     },
     {
       "surface": "קנאתי",
-      "english": "⟨com⟩ minha inveja"
+      "gloss": "⟨com⟩ minha inveja"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "שכחו",
-      "english": "esqueceram"
+      "gloss": "esqueceram"
     },
     {
       "surface": "דבריך",
-      "english": "as tuas palavras"
+      "gloss": "as tuas palavras"
     },
     {
       "surface": "צרי",
-      "english": "meus adversários"
+      "gloss": "meus adversários"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:14.197150693Z",
-  "model": "glm-4.5"
+  ]
 }

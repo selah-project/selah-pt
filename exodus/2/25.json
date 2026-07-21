@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "exodus 2:25",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 324,
-    "prompt_tokens": 24247,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24571
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:43:22.335310881Z",
   "translation": "E Elohim viu ⟨os⟩ filhos de Yisrael, e Elohim soube.",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "E viu"
+      "gloss": "E viu"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "filhos"
     },
     {
       "surface": "בני",
-      "english": "filhos"
+      "gloss": "filhos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "וידע",
-      "english": "e soube"
+      "gloss": "e soube"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T13:43:22.335310881Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "psalms 104:28",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 373,
-    "prompt_tokens": 70400,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70773
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:24.851115761Z",
   "translation": "Tu lhes ⟨dá⟩, eles recolhem; tu abres tua mão, eles se saciam de ⟨bom⟩.",
   "tokens": [
     {
       "surface": "תתן",
-      "english": "Tu lhes ⟨dá⟩"
+      "gloss": "Tu lhes ⟨dá⟩"
     },
     {
       "surface": "להם",
-      "english": "lhes"
+      "gloss": "lhes"
     },
     {
       "surface": "ילקטון",
-      "english": "eles recolhem"
+      "gloss": "eles recolhem"
     },
     {
       "surface": "תפתח",
-      "english": "tu abres"
+      "gloss": "tu abres"
     },
     {
       "surface": "ידך",
-      "english": "tua mão"
+      "gloss": "tua mão"
     },
     {
       "surface": "ישבעון",
-      "english": "eles se saciam de"
+      "gloss": "eles se saciam de"
     },
     {
       "surface": "טוב",
-      "english": "⟨bom⟩"
+      "gloss": "⟨bom⟩"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:24.851115761Z",
-  "model": "glm-4.5"
+  ]
 }

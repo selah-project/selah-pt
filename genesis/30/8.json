@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "genesis 30:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 30,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:11:43.130453670Z",
+  "translation": "E disse Rajel: ⟨com⟩ as lutas de Elohim lutei com minha irmã e também prevaleci; e chamou seu nome Naftali.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "נפתולי",
+      "gloss": "⟨com⟩ as lutas de Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נפתלתי",
+      "gloss": "lutei"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "minha irmã"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "prevaleci"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "e chamou"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seu nome"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Raquel",
@@ -13,72 +68,6 @@
       "hebrew": "רחל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21839,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22321
-  },
-  "translation": "E disse Rajel: ⟨com⟩ as lutas de Elohim lutei com minha irmã e também prevaleci; e chamou seu nome Naftali.",
-  "tokens": [
-    {
-      "surface": "ותאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "רחל",
-      "english": "Rajel"
-    },
-    {
-      "surface": "נפתולי",
-      "english": "⟨com⟩ as lutas de Elohim"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "נפתלתי",
-      "english": "lutei"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "אחתי",
-      "english": "minha irmã"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "יכלתי",
-      "english": "prevaleci"
-    },
-    {
-      "surface": "ותקרא",
-      "english": "e chamou"
-    },
-    {
-      "surface": "שמו",
-      "english": "seu nome"
-    },
-    {
-      "surface": "נפתלי",
-      "english": "Naftali"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:11:43.130453670Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

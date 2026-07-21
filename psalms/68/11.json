@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 68:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 742,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70229,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70971
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:39:29.123217678Z",
   "translation": "as ⟨que⟩ tuas vidas habitam ⟨nela⟩; ⟨o⟩ que ⟨está⟩ diante ⟨de⟩ tua bondade, ⟨para⟩ ⟨o⟩ pobre, Elohim.",
   "tokens": [
     {
       "surface": "חיתך",
-      "english": "as ⟨que⟩ tuas vidas",
+      "gloss": "as ⟨que⟩ tuas vidas",
       "rationale": "חית (lives) + sufixo possessivo ך (teu); traduzido como 'tuas vidas' para capturar o plural e a posse"
     },
     {
       "surface": "ישבו",
-      "english": "habitam",
+      "gloss": "habitam",
       "rationale": "verbo 'habitar\/dwell' no plural, concordando com 'vidas'"
     },
     {
       "surface": "בה",
-      "english": "⟨nela⟩",
+      "gloss": "⟨nela⟩",
       "rationale": "preposição ב (em) + sufixo pronominal ה (ela); marcador de lugar"
     },
     {
       "surface": "תכין",
-      "english": "⟨o⟩ que ⟨está⟩ diante ⟨de⟩",
+      "gloss": "⟨o⟩ que ⟨está⟩ diante ⟨de⟩",
       "rationale": "tradução de 'preparado\/disposto' como expressão posicional com ⟨⟩ para suavidade em português"
     },
     {
       "surface": "בטובתך",
-      "english": "tua bondade",
+      "gloss": "tua bondade",
       "rationale": "טובה (bondade) + sufixo possessivo ך (teu)"
     },
     {
       "surface": "לעני",
-      "english": "⟨para⟩ ⟨o⟩ pobre",
+      "gloss": "⟨para⟩ ⟨o⟩ pobre",
       "rationale": "preposição ל (para\/para) + עני (pobre\/necessitado); ⟨⟩ para artigo em português"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim",
+      "gloss": "Elohim",
       "rationale": "forma plural hebraica de 'deus\/divindade', mantida conforme disciplina"
     }
-  ],
-  "timestamp": "2026-06-13T06:39:29.123217678Z",
-  "model": "glm-4.5"
+  ]
 }

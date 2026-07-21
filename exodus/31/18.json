@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "exodus 31:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 31,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:24:39.520920483Z",
+  "translation": "E ⟨deu⟩ ⟨a⟩ Moshé, quando terminou de falar ⟨com⟩ ele ⟨no⟩ monte Sinai, duas tábuas ⟨do⟩ Testemunho, tábuas ⟨de⟩ pedra, escritas ⟨com⟩ o dedo ⟨de⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "E ⟨deu⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "quando terminou de falar"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ele"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "⟨no⟩ monte"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duas"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tábuas"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "⟨do⟩ Testemunho"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tábuas"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "⟨de⟩ pedra"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "escritas"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "⟨com⟩ o dedo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨de⟩ Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshê",
@@ -13,88 +84,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 837,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17540,
-    "prompt_tokens_details": {
-      "cached_tokens": 15859
-    },
-    "total_tokens": 18377
-  },
-  "translation": "E ⟨deu⟩ ⟨a⟩ Moshé, quando terminou de falar ⟨com⟩ ele ⟨no⟩ monte Sinai, duas tábuas ⟨do⟩ Testemunho, tábuas ⟨de⟩ pedra, escritas ⟨com⟩ o dedo ⟨de⟩ Elohim.",
-  "tokens": [
-    {
-      "surface": "ויתן",
-      "english": "E ⟨deu⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ככלתו",
-      "english": "quando terminou de falar"
-    },
-    {
-      "surface": "לדבר",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "אתו",
-      "english": "ele"
-    },
-    {
-      "surface": "בהר",
-      "english": "⟨no⟩ monte"
-    },
-    {
-      "surface": "סיני",
-      "english": "Sinai"
-    },
-    {
-      "surface": "שני",
-      "english": "duas"
-    },
-    {
-      "surface": "לחת",
-      "english": "tábuas"
-    },
-    {
-      "surface": "העדת",
-      "english": "⟨do⟩ Testemunho"
-    },
-    {
-      "surface": "לחת",
-      "english": "tábuas"
-    },
-    {
-      "surface": "אבן",
-      "english": "⟨de⟩ pedra"
-    },
-    {
-      "surface": "כתבים",
-      "english": "escritas"
-    },
-    {
-      "surface": "באצבע",
-      "english": "⟨com⟩ o dedo"
-    },
-    {
-      "surface": "אלהים",
-      "english": "⟨de⟩ Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:24:39.520920483Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

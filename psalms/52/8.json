@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 52:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62765,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63131
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:13:43.362473012Z",
   "translation": "e ⟨os⟩ justos verão e temerão e sobre ⟨ele⟩ ⟨irão⟩ rir",
   "tokens": [
     {
       "surface": "ויראו",
-      "english": "E ⟨os⟩ ... verão"
+      "gloss": "E ⟨os⟩ ... verão"
     },
     {
       "surface": "צדיקים",
-      "english": "justos"
+      "gloss": "justos"
     },
     {
       "surface": "וייראו",
-      "english": "e temerão"
+      "gloss": "e temerão"
     },
     {
       "surface": "ועליו",
-      "english": "e sobre ⟨ele⟩"
+      "gloss": "e sobre ⟨ele⟩"
     },
     {
       "surface": "ישחקו",
-      "english": "⟨irão⟩ rir"
+      "gloss": "⟨irão⟩ rir"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:13:43.362473012Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

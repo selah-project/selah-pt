@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 22:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52917,
-    "prompt_tokens_details": {
-      "cached_tokens": 51891
-    },
-    "total_tokens": 53324
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:36:51.726732277Z",
   "translation": "One who oppresses ⟨the⟩ poor to multiply ⟨for⟩ ⟨himself⟩ ⟨is⟩ giving to ⟨the⟩ rich—only to lack.",
   "tokens": [
     {
       "surface": "עשק",
-      "english": "Oppresses"
+      "gloss": "Oppresses"
     },
     {
       "surface": "דל",
-      "english": "⟨the⟩ poor",
+      "gloss": "⟨the⟩ poor",
       "marks": "poor"
     },
     {
       "surface": "להרבות",
-      "english": "to multiply",
+      "gloss": "to multiply",
       "marks": "to increase"
     },
     {
       "surface": "לו",
-      "english": "⟨for⟩ ⟨himself⟩",
+      "gloss": "⟨for⟩ ⟨himself⟩",
       "marks": "for himself"
     },
     {
       "surface": "נתן",
-      "english": "⟨is⟩ giving"
+      "gloss": "⟨is⟩ giving"
     },
     {
       "surface": "לעשיר",
-      "english": "⟨the⟩ rich",
+      "gloss": "⟨the⟩ rich",
       "marks": "rich"
     },
     {
       "surface": "אך",
-      "english": "only"
+      "gloss": "only"
     },
     {
       "surface": "למחסור",
-      "english": "to lack"
+      "gloss": "to lack"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:36:51.726732277Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

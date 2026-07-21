@@ -1,33 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 89:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 250,
-    "prompt_tokens": 70021,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70271
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:43:50.840326691Z",
   "translation": "Uma instrução ⟨de⟩ Etan, ⟨o⟩ Ezracita.",
   "tokens": [
     {
       "surface": "משכיל",
-      "english": "instrução"
+      "gloss": "instrução"
     },
     {
       "surface": "לאיתן",
-      "english": "⟨de⟩ Etan"
+      "gloss": "⟨de⟩ Etan"
     },
     {
       "surface": "האזרחי",
-      "english": "⟨o⟩ Ezracita"
+      "gloss": "⟨o⟩ Ezracita"
     }
-  ],
-  "timestamp": "2026-07-16T17:43:50.840326691Z",
-  "model": "glm-4.5"
+  ]
 }

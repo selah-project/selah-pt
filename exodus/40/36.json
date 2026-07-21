@@ -1,9 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "exodus 40:36",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 40,
+  "verse": 36,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:36:31.714134463Z",
+  "translation": "E na subida ⟨do⟩ nuvem de sobre ⟨o⟩ Tabernáculo, partiram os filhos de Yisrael em todas ⟨as⟩ suas jornadas.",
+  "tokens": [
+    {
+      "surface": "ובהעלות",
+      "gloss": "E na subida"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "⟨do⟩ nuvem",
+      "marks": "nuvem"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de sobre"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨o⟩ Tabernáculo",
+      "marks": "Tabernáculo"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "partiram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "em todas ⟨as⟩"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "suas jornadas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,62 +58,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 40,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17072,
-    "prompt_tokens_details": {
-      "cached_tokens": 5
-    },
-    "total_tokens": 17481
-  },
-  "translation": "E na subida ⟨do⟩ nuvem de sobre ⟨o⟩ Tabernáculo, partiram os filhos de Yisrael em todas ⟨as⟩ suas jornadas.",
-  "tokens": [
-    {
-      "surface": "ובהעלות",
-      "english": "E na subida"
-    },
-    {
-      "surface": "הענן",
-      "english": "⟨do⟩ nuvem",
-      "marks": "nuvem"
-    },
-    {
-      "surface": "מעל",
-      "english": "de sobre"
-    },
-    {
-      "surface": "המשכן",
-      "english": "⟨o⟩ Tabernáculo",
-      "marks": "Tabernáculo"
-    },
-    {
-      "surface": "יסעו",
-      "english": "partiram"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "בכל",
-      "english": "em todas ⟨as⟩"
-    },
-    {
-      "surface": "מסעיהם",
-      "english": "suas jornadas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:36:31.714134463Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 150:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 150,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62750,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63279
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:17:37.110584162Z",
   "translation": "Louvem-no ⟨por⟩ ⟨os⟩ atos poderosos ⟨dele⟩; louvem-no ⟨conforme⟩ ⟨a⟩ abundância ⟨de sua⟩ grandeza.",
   "tokens": [
     {
       "surface": "הללוהו",
-      "english": "Louvem-no"
+      "gloss": "Louvem-no"
     },
     {
       "surface": "בגבורתיו",
-      "english": "⟨por⟩ ⟨os⟩ atos poderosos ⟨dele⟩",
+      "gloss": "⟨por⟩ ⟨os⟩ atos poderosos ⟨dele⟩",
       "marks": "atos poderosos"
     },
     {
       "surface": "הללוהו",
-      "english": "louvem-no"
+      "gloss": "louvem-no"
     },
     {
       "surface": "כרב",
-      "english": "⟨conforme⟩ ⟨a⟩ abundância"
+      "gloss": "⟨conforme⟩ ⟨a⟩ abundância"
     },
     {
       "surface": "גדלו",
-      "english": "⟨de sua⟩ grandeza"
+      "gloss": "⟨de sua⟩ grandeza"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:17:37.110584162Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-samuel 5:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 5,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:47:17.932161872Z",
+  "translation": "Um filho de trinta anos ⟨era⟩ Davidd ⟨em⟩ ⟨o seu⟩ reinado; quarenta anos reinou.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Um filho de"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trinta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "⟨em⟩ ⟨o seu⟩ reinado"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinou"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,56 +52,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17202,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 17564
-  },
-  "translation": "Um filho de trinta anos ⟨era⟩ Davidd ⟨em⟩ ⟨o seu⟩ reinado; quarenta anos reinou.",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Um filho de"
-    },
-    {
-      "surface": "שלשים",
-      "english": "trinta"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "במלכו",
-      "english": "⟨em⟩ ⟨o seu⟩ reinado"
-    },
-    {
-      "surface": "ארבעים",
-      "english": "quarenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinou"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:47:17.932161872Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

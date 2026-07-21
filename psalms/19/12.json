@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 19:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 422,
-    "prompt_tokens": 70246,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70668
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:34:53.805793070Z",
   "translation": "Também teu servo é esclarecido por eles; em guardá-los ⟨há⟩ grande recompensa.",
   "tokens": [
     {
       "surface": "גם",
-      "english": "Também"
+      "gloss": "Também"
     },
     {
       "surface": "עבדך",
-      "english": "teu servo"
+      "gloss": "teu servo"
     },
     {
       "surface": "נזהר",
-      "english": "é esclarecido"
+      "gloss": "é esclarecido"
     },
     {
       "surface": "בהם",
-      "english": "por eles"
+      "gloss": "por eles"
     },
     {
       "surface": "בשמרם",
-      "english": "em guardá-los"
+      "gloss": "em guardá-los"
     },
     {
       "surface": "עקב",
-      "english": "recompensa"
+      "gloss": "recompensa"
     },
     {
       "surface": "רב",
-      "english": "grande"
+      "gloss": "grande"
     }
-  ],
-  "timestamp": "2026-07-16T17:34:53.805793070Z",
-  "model": "glm-4.5"
+  ]
 }

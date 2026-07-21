@@ -1,9 +1,129 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "jeremiah 44:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 44,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:48:23.936028246Z",
+  "translation": "E agora, assim disse YHWH, Elohim Tzevaot, Elohim de Yisrael: Por que fazeis ⟨vós⟩ ⟨este⟩ grande mal contra ⟨as⟩ vossas almas, para cortar de ⟨vós⟩ homem e mulher, criança de peito e que mama, ⟨do⟩ meio de Yehudá, para não deixar ⟨para⟩ ⟨vós⟩ ⟨um⟩ remanescente?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E agora"
+    },
+    {
+      "surface": "כה",
+      "gloss": "assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Por que"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "fazeis"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "fazeis"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contra"
+    },
+    {
+      "surface": "נפשתכם",
+      "gloss": "⟨as⟩ vossas almas",
+      "marks": "vossas almas"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "para cortar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "de ⟨vós⟩",
+      "marks": "vós"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homem"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "e mulher"
+    },
+    {
+      "surface": "עולל",
+      "gloss": "criança de peito"
+    },
+    {
+      "surface": "ויונק",
+      "gloss": "e que mama"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "⟨do⟩ meio",
+      "marks": "do meio"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "para não"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "deixar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨para⟩ ⟨vós⟩",
+      "marks": "vós"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "⟨um⟩ remanescente",
+      "marks": "remanescente"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "dos exércitos",
@@ -27,137 +147,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 44,
-  "usage": {
-    "completion_tokens": 955,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19247,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 20202
-  },
-  "translation": "E agora, assim disse YHWH, Elohim Tzevaot, Elohim de Yisrael: Por que fazeis ⟨vós⟩ ⟨este⟩ grande mal contra ⟨as⟩ vossas almas, para cortar de ⟨vós⟩ homem e mulher, criança de peito e que mama, ⟨do⟩ meio de Yehudá, para não deixar ⟨para⟩ ⟨vós⟩ ⟨um⟩ remanescente?",
-  "tokens": [
-    {
-      "surface": "ועתה",
-      "english": "E agora"
-    },
-    {
-      "surface": "כה",
-      "english": "assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "disse"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "צבאות",
-      "english": "Tzevaot"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "למה",
-      "english": "Por que"
-    },
-    {
-      "surface": "אתם",
-      "english": "fazeis"
-    },
-    {
-      "surface": "עשים",
-      "english": "fazeis"
-    },
-    {
-      "surface": "רעה",
-      "english": "mal"
-    },
-    {
-      "surface": "גדולה",
-      "english": "grande"
-    },
-    {
-      "surface": "אל",
-      "english": "contra"
-    },
-    {
-      "surface": "נפשתכם",
-      "english": "⟨as⟩ vossas almas",
-      "marks": "vossas almas"
-    },
-    {
-      "surface": "להכרית",
-      "english": "para cortar"
-    },
-    {
-      "surface": "לכם",
-      "english": "de ⟨vós⟩",
-      "marks": "vós"
-    },
-    {
-      "surface": "איש",
-      "english": "homem"
-    },
-    {
-      "surface": "ואשה",
-      "english": "e mulher"
-    },
-    {
-      "surface": "עולל",
-      "english": "criança de peito"
-    },
-    {
-      "surface": "ויונק",
-      "english": "e que mama"
-    },
-    {
-      "surface": "מתוך",
-      "english": "⟨do⟩ meio",
-      "marks": "do meio"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "לבלתי",
-      "english": "para não"
-    },
-    {
-      "surface": "הותיר",
-      "english": "deixar"
-    },
-    {
-      "surface": "לכם",
-      "english": "⟨para⟩ ⟨vós⟩",
-      "marks": "vós"
-    },
-    {
-      "surface": "שארית",
-      "english": "⟨um⟩ remanescente",
-      "marks": "remanescente"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:48:23.936028246Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

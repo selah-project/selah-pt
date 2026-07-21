@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "leviticus 9:14",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 496,
-    "prompt_tokens": 25115,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25611
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:40:26.287922403Z",
   "translation": "e lavou ⟨o⟩ intestino e ⟨as⟩ pernas, e fez fumaça ⟨sobre⟩ ⟨o⟩ holocausto no altar",
   "tokens": [
     {
       "surface": "וירחץ",
-      "english": "e lavou"
+      "gloss": "e lavou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הקרב (o intestino)"
     },
     {
       "surface": "הקרב",
-      "english": "⟨o⟩ intestino"
+      "gloss": "⟨o⟩ intestino"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הכרעים (as pernas)"
     },
     {
       "surface": "הכרעים",
-      "english": "⟨as⟩ pernas"
+      "gloss": "⟨as⟩ pernas"
     },
     {
       "surface": "ויקטר",
-      "english": "e fez fumaça"
+      "gloss": "e fez fumaça"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "העלה",
-      "english": "⟨o⟩ holocausto"
+      "gloss": "⟨o⟩ holocausto"
     },
     {
       "surface": "המזבחה",
-      "english": "no altar"
+      "gloss": "no altar"
     }
-  ],
-  "timestamp": "2026-07-16T16:40:26.287922403Z",
-  "model": "glm-4.5"
+  ]
 }

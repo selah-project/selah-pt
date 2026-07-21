@@ -1,37 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "esther 10:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
-  "substitutions": [
-    {
-      "from": "Mardoqueu",
-      "to": "Mordejai",
-      "token-index": 6,
-      "strongs": 4782,
-      "hebrew": "מרדכי"
-    }
-  ],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 984,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18846,
-    "prompt_tokens_details": {
-      "cached_tokens": 16627
-    },
-    "total_tokens": 19830
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:45:27.216192470Z",
   "translation": "E ⟨é⟩ ⟨o⟩ ato do seu poder e ⟨da⟩ sua força e ⟨a⟩ declaração ⟨da⟩ grandeza de Mordejai, que ⟨o⟩ rei engrandeceu, ⟨eles⟩ não ⟨estão⟩ escritos no livro ⟨das⟩ crónicas ⟨dos⟩ reis ⟨da⟩ Média ⟨e⟩ ⟨da⟩ Pérsia?",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "E",
+      "gloss": "E",
       "notes": [
         {
           "kind": "substitution",
@@ -42,31 +22,31 @@
     },
     {
       "surface": "מעשה",
-      "english": "ato"
+      "gloss": "ato"
     },
     {
       "surface": "תקפו",
-      "english": "do seu poder"
+      "gloss": "do seu poder"
     },
     {
       "surface": "וגבורתו",
-      "english": "e da sua força"
+      "gloss": "e da sua força"
     },
     {
       "surface": "ופרשת",
-      "english": "e a declaração"
+      "gloss": "e a declaração"
     },
     {
       "surface": "גדלת",
-      "english": "da grandeza"
+      "gloss": "da grandeza"
     },
     {
       "surface": "מרדכי",
-      "english": "de Mordejai"
+      "gloss": "de Mordejai"
     },
     {
       "surface": "אשר",
-      "english": "que",
+      "gloss": "que",
       "notes": [
         {
           "kind": "substitution",
@@ -77,7 +57,7 @@
     },
     {
       "surface": "גדלו",
-      "english": "o rei engrandeceu",
+      "gloss": "o rei engrandeceu",
       "notes": [
         {
           "kind": "substitution",
@@ -88,11 +68,11 @@
     },
     {
       "surface": "המלך",
-      "english": "rei"
+      "gloss": "rei"
     },
     {
       "surface": "הלוא",
-      "english": "não estão",
+      "gloss": "não estão",
       "notes": [
         {
           "kind": "substitution",
@@ -103,35 +83,35 @@
     },
     {
       "surface": "הם",
-      "english": "eles"
+      "gloss": "eles"
     },
     {
       "surface": "כתובים",
-      "english": "escritos"
+      "gloss": "escritos"
     },
     {
       "surface": "על",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ספר",
-      "english": "livro"
+      "gloss": "livro"
     },
     {
       "surface": "דברי",
-      "english": "das crónicas"
+      "gloss": "das crónicas"
     },
     {
       "surface": "הימים",
-      "english": "dos reis"
+      "gloss": "dos reis"
     },
     {
       "surface": "למלכי",
-      "english": "da Média"
+      "gloss": "da Média"
     },
     {
       "surface": "מדי",
-      "english": "e da Pérsia",
+      "gloss": "e da Pérsia",
       "notes": [
         {
           "kind": "substitution",
@@ -142,10 +122,19 @@
     },
     {
       "surface": "ופרס",
-      "english": "e Pérsia"
+      "gloss": "e Pérsia"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:45:27.216192470Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [
+    {
+      "from": "Mardoqueu",
+      "to": "Mordejai",
+      "token-index": 6,
+      "strongs": 4782,
+      "hebrew": "מרדכי"
+    }
+  ],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "psalms 106:40",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 70414,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70818
-  },
+  "verse": 40,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:46:45.077066212Z",
   "translation": "E a ira de YHWH se acendeu contra ⟨o⟩ seu povo, e Ele abominou ⟨את⟩ a sua herança",
   "tokens": [
     {
       "surface": "ויחר",
-      "english": "E a ira ... se acendeu"
+      "gloss": "E a ira ... se acendeu"
     },
     {
       "surface": "אף",
-      "english": "ira"
+      "gloss": "ira"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "בעמו",
-      "english": "contra ⟨o⟩ seu povo"
+      "gloss": "contra ⟨o⟩ seu povo"
     },
     {
       "surface": "ויתעב",
-      "english": "e Ele abominou"
+      "gloss": "e Ele abominou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a sua herança"
     },
     {
       "surface": "נחלתו",
-      "english": "a sua herança"
+      "gloss": "a sua herança"
     }
-  ],
-  "timestamp": "2026-07-16T17:46:45.077066212Z",
-  "model": "glm-4.5"
+  ]
 }

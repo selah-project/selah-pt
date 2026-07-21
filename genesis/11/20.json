@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 11:20",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 365,
-    "prompt_tokens": 28792,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29157
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:43:07.294661527Z",
   "translation": "E Reu viveu trinta e dois anos e gerou ⟨את⟩ Serug:",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "E ... viveu"
+      "gloss": "E ... viveu"
     },
     {
       "surface": "רעו",
-      "english": "Reu"
+      "gloss": "Reu"
     },
     {
       "surface": "שתים",
-      "english": "trinta"
+      "gloss": "trinta"
     },
     {
       "surface": "ושלשים",
-      "english": "e dois"
+      "gloss": "e dois"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "ויולד",
-      "english": "e gerou"
+      "gloss": "e gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Serug"
     },
     {
       "surface": "שרוג",
-      "english": "Serug:"
+      "gloss": "Serug:"
     }
-  ],
-  "timestamp": "2026-07-16T14:43:07.294661527Z",
-  "model": "glm-4.5"
+  ]
 }

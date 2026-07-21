@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 12:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20085,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20450
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:53:49.158724904Z",
   "translation": "Eis que ⟨Ele⟩ detém ⟨את⟩ as águas e elas secam; e as envia e elas arruínam ⟨a⟩ terra.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "Eis que"
+      "gloss": "Eis que"
     },
     {
       "surface": "יעצר",
-      "english": "detém"
+      "gloss": "detém"
     },
     {
       "surface": "במים",
-      "english": "⟨את⟩ as águas",
+      "gloss": "⟨את⟩ as águas",
       "marks": "as águas"
     },
     {
       "surface": "ויבשו",
-      "english": "e elas secam"
+      "gloss": "e elas secam"
     },
     {
       "surface": "וישלחם",
-      "english": "e as envia"
+      "gloss": "e as envia"
     },
     {
       "surface": "ויהפכו",
-      "english": "e elas arruínam"
+      "gloss": "e elas arruínam"
     },
     {
       "surface": "ארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:53:49.158724904Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

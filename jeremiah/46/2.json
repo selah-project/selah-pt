@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "jeremiah 46:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 46,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:50:04.350027988Z",
+  "translation": "Para o Mitzráyim, contra ⟨o⟩ exército de Faraó Neco, rei do Mitzráyim, que ⟨estava⟩ ⟨junto⟩ ⟨ao⟩ rio Eufrates em Carquêmis, a quem Nevujadnetzar, rei da Bavel, derrotou no quarto ano de Jeoaquim, filho de Yoshiyahu, rei de Yehudá.",
+  "tokens": [
+    {
+      "surface": "למצרים",
+      "gloss": "Para o Egito"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨o⟩ exército"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraó"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Neco"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨estava⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨junto⟩ ⟨ao⟩"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "rio"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Eufrates"
+    },
+    {
+      "surface": "בכרכמש",
+      "gloss": "em Carquêmis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a quem"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "derrotou"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevujadnetzar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "da Bavel"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "no ano"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "quarto"
+    },
+    {
+      "surface": "ליהויקים",
+      "gloss": "de Jeoaquim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "de Yoshiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -41,124 +148,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 975,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19112,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 20087
-  },
-  "translation": "Para o Mitzráyim, contra ⟨o⟩ exército de Faraó Neco, rei do Mitzráyim, que ⟨estava⟩ ⟨junto⟩ ⟨ao⟩ rio Eufrates em Carquêmis, a quem Nevujadnetzar, rei da Bavel, derrotou no quarto ano de Jeoaquim, filho de Yoshiyahu, rei de Yehudá.",
-  "tokens": [
-    {
-      "surface": "למצרים",
-      "english": "Para o Egito"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "חיל",
-      "english": "⟨o⟩ exército"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Faraó"
-    },
-    {
-      "surface": "נכו",
-      "english": "Neco"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨estava⟩"
-    },
-    {
-      "surface": "על",
-      "english": "⟨junto⟩ ⟨ao⟩"
-    },
-    {
-      "surface": "נהר",
-      "english": "rio"
-    },
-    {
-      "surface": "פרת",
-      "english": "Eufrates"
-    },
-    {
-      "surface": "בכרכמש",
-      "english": "em Carquêmis"
-    },
-    {
-      "surface": "אשר",
-      "english": "a quem"
-    },
-    {
-      "surface": "הכה",
-      "english": "derrotou"
-    },
-    {
-      "surface": "נבוכדראצר",
-      "english": "Nevujadnetzar"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "da Bavel"
-    },
-    {
-      "surface": "בשנת",
-      "english": "no ano"
-    },
-    {
-      "surface": "הרביעית",
-      "english": "quarto"
-    },
-    {
-      "surface": "ליהויקים",
-      "english": "de Jeoaquim"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "יאשיהו",
-      "english": "de Yoshiyahu"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:50:04.350027988Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

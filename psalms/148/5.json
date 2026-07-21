@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 148:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 430,
-    "prompt_tokens": 70454,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70884
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:52:26.392375430Z",
   "translation": "Louvem ⟨את⟩ o nome de YHWH, pois ele ordenou, e foram criados.",
   "tokens": [
     {
       "surface": "יהללו",
-      "english": "Louvem"
+      "gloss": "Louvem"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o nome de YHWH"
     },
     {
       "surface": "שם",
-      "english": "o nome"
+      "gloss": "o nome"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "הוא",
-      "english": "ele"
+      "gloss": "ele"
     },
     {
       "surface": "צוה",
-      "english": "ordenou"
+      "gloss": "ordenou"
     },
     {
       "surface": "ונבראו",
-      "english": "e foram criados"
+      "gloss": "e foram criados"
     }
-  ],
-  "timestamp": "2026-07-16T17:52:26.392375430Z",
-  "model": "glm-4.5"
+  ]
 }

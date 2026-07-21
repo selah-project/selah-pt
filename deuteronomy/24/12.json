@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "deuteronomy 24:12",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 386,
-    "prompt_tokens": 24900,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25286
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:26:13.322200041Z",
   "translation": "E se ⟨o⟩ homem ⟨for⟩ pobre, não ⟨tu⟩ deitarás com ⟨o⟩ ⟨seu⟩ penhor:",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "E se"
+      "gloss": "E se"
     },
     {
       "surface": "איש",
-      "english": "homem"
+      "gloss": "homem"
     },
     {
       "surface": "עני",
-      "english": "pobre"
+      "gloss": "pobre"
     },
     {
       "surface": "הוא",
-      "english": "⟨for⟩"
+      "gloss": "⟨for⟩"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תשכב",
-      "english": "deitarás"
+      "gloss": "deitarás"
     },
     {
       "surface": "בעבטו",
-      "english": "com ⟨o⟩ ⟨seu⟩ penhor",
+      "gloss": "com ⟨o⟩ ⟨seu⟩ penhor",
       "marks": "penhor"
     }
-  ],
-  "timestamp": "2026-07-16T13:26:13.322200041Z",
-  "model": "glm-4.5"
+  ]
 }

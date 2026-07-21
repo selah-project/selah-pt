@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 40:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 40,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:43:32.336921845Z",
+  "translation": "Falai ao ⟨o⟩ coração ⟨de⟩ Yerushalayim e clamai a ela, que ⟨a⟩ sua guerra ⟨está⟩ cumprida, que ⟨a⟩ sua iniquidade ⟨é⟩ aplacada, pois recebeu ⟨da⟩ mão ⟨de⟩ YHWH o dobro por todos ⟨os⟩ seus pecados.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Falai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨o⟩ coração"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨de⟩ Yerushalayim"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "e clamai"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "a ela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "⟨a⟩ sua guerra ⟨está⟩ cumprida"
+    },
+    {
+      "surface": "צבאה",
+      "gloss": "guerra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "נרצה",
+      "gloss": "⟨a⟩ sua iniquidade ⟨é⟩ aplacada"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "iniquidade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "recebeu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "⟨da⟩ mão"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "כפלים",
+      "gloss": "o dobro"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "por todos ⟨os⟩"
+    },
+    {
+      "surface": "חטאתיה",
+      "gloss": "seus pecados"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,100 +96,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 40,
-  "usage": {
-    "completion_tokens": 904,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20108,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 21012
-  },
-  "translation": "Falai ao ⟨o⟩ coração ⟨de⟩ Yerushalayim e clamai a ela, que ⟨a⟩ sua guerra ⟨está⟩ cumprida, que ⟨a⟩ sua iniquidade ⟨é⟩ aplacada, pois recebeu ⟨da⟩ mão ⟨de⟩ YHWH o dobro por todos ⟨os⟩ seus pecados.",
-  "tokens": [
-    {
-      "surface": "דברו",
-      "english": "Falai"
-    },
-    {
-      "surface": "על",
-      "english": "ao"
-    },
-    {
-      "surface": "לב",
-      "english": "⟨o⟩ coração"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨de⟩ Yerushalayim"
-    },
-    {
-      "surface": "וקראו",
-      "english": "e clamai"
-    },
-    {
-      "surface": "אליה",
-      "english": "a ela"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "מלאה",
-      "english": "⟨a⟩ sua guerra ⟨está⟩ cumprida"
-    },
-    {
-      "surface": "צבאה",
-      "english": "guerra"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "נרצה",
-      "english": "⟨a⟩ sua iniquidade ⟨é⟩ aplacada"
-    },
-    {
-      "surface": "עונה",
-      "english": "iniquidade"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "לקחה",
-      "english": "recebeu"
-    },
-    {
-      "surface": "מיד",
-      "english": "⟨da⟩ mão"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    },
-    {
-      "surface": "כפלים",
-      "english": "o dobro"
-    },
-    {
-      "surface": "בכל",
-      "english": "por todos ⟨os⟩"
-    },
-    {
-      "surface": "חטאתיה",
-      "english": "seus pecados"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:43:32.336921845Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

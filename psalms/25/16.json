@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 25:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62798,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63240
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:55:07.071441393Z",
   "translation": "Volve-te para mim ⟨e⟩ tem misericórdia de mim ⟨את⟩: pois ⟨sou⟩ solitário ⟨e⟩ aflito ⟨e⟩ eu ⟨sou⟩.",
   "tokens": [
     {
       "surface": "פנה",
-      "english": "Volve-te para mim"
+      "gloss": "Volve-te para mim"
     },
     {
       "surface": "אלי",
-      "english": "⟨e⟩"
+      "gloss": "⟨e⟩"
     },
     {
       "surface": "וחנני",
-      "english": "tem misericórdia de mim",
+      "gloss": "tem misericórdia de mim",
       "marks": "me (objeto direto da misericórdia)"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "יחיד",
-      "english": "solitário"
+      "gloss": "solitário"
     },
     {
       "surface": "ועני",
-      "english": "⟨e⟩ aflito ⟨e⟩"
+      "gloss": "⟨e⟩ aflito ⟨e⟩"
     },
     {
       "surface": "אני",
-      "english": "eu ⟨sou⟩"
+      "gloss": "eu ⟨sou⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:55:07.071441393Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "genesis 42:30",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 622,
-    "prompt_tokens": 29211,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29833
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:00:58.308938952Z",
   "translation": "⟨O⟩ homem, ⟨o⟩ senhor de ⟨a⟩ terra, falou conosco severamente e nos pôs como espias da terra",
   "tokens": [
     {
       "surface": "דבר",
-      "english": "falou"
+      "gloss": "falou"
     },
     {
       "surface": "האיש",
-      "english": "⟨O⟩ homem"
+      "gloss": "⟨O⟩ homem"
     },
     {
       "surface": "אדני",
-      "english": "⟨o⟩ senhor"
+      "gloss": "⟨o⟩ senhor"
     },
     {
       "surface": "הארץ",
-      "english": "de ⟨a⟩ terra"
+      "gloss": "de ⟨a⟩ terra"
     },
     {
       "surface": "אתנו",
-      "english": "conosco"
+      "gloss": "conosco"
     },
     {
       "surface": "קשות",
-      "english": "severamente"
+      "gloss": "severamente"
     },
     {
       "surface": "ויתן",
-      "english": "e nos pôs"
+      "gloss": "e nos pôs"
     },
     {
       "surface": "אתנו",
-      "english": "como",
+      "gloss": "como",
       "marks": "esp"
     },
     {
       "surface": "כמרגלים",
-      "english": "ias"
+      "gloss": "ias"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a terra"
     },
     {
       "surface": "הארץ",
-      "english": "terra"
+      "gloss": "terra"
     }
-  ],
-  "timestamp": "2026-07-16T15:00:58.308938952Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "song-of-songs 8:4",
   "book": "song-of-songs",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 574,
-    "prompt_tokens": 28478,
-    "prompt_tokens_details": {
-      "cached_tokens": 26752
-    },
-    "total_tokens": 29052
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:55:05.574819316Z",
   "translation": "Eu ⟨tenho⟩ conjurado ⟨vós⟩, filhas de Yerushalayim: por que ⟨vós⟩ despertais e por que ⟨vós⟩ excitais ⟨את⟩ o amor, até que ⟨ele⟩ queira?",
   "tokens": [
     {
       "surface": "השבעתי",
-      "english": "Eu conjurei"
+      "gloss": "Eu conjurei"
     },
     {
       "surface": "אתכם",
-      "english": "⟨vós⟩",
+      "gloss": "⟨vós⟩",
       "marks": "filhas de Yerushalayim"
     },
     {
       "surface": "בנות",
-      "english": "filhas"
+      "gloss": "filhas"
     },
     {
       "surface": "ירושלם",
-      "english": "de Yerushalayim"
+      "gloss": "de Yerushalayim"
     },
     {
       "surface": "מה",
-      "english": "por que"
+      "gloss": "por que"
     },
     {
       "surface": "תעירו",
-      "english": "despertais"
+      "gloss": "despertais"
     },
     {
       "surface": "ומה",
-      "english": "e por que"
+      "gloss": "e por que"
     },
     {
       "surface": "תעררו",
-      "english": "excitais"
+      "gloss": "excitais"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o amor"
     },
     {
       "surface": "האהבה",
-      "english": "o amor"
+      "gloss": "o amor"
     },
     {
       "surface": "עד",
-      "english": "até que"
+      "gloss": "até que"
     },
     {
       "surface": "שתחפץ",
-      "english": "queira"
+      "gloss": "queira"
     }
-  ],
-  "timestamp": "2026-07-16T17:55:05.574819316Z",
-  "model": "glm-4.5"
+  ]
 }

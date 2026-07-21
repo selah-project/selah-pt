@@ -1,9 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "ezekiel 23:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 23,
+  "verse": 33,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:27:43.004531855Z",
+  "translation": "Com embriaguez e tristeza ⟨te⟩ encherás ⟨á⟩, o cálice ⟨de⟩ assombro ⟨e⟩ devastação, o cálice ⟨de⟩ tua irmã Shomron.",
+  "tokens": [
+    {
+      "surface": "שכרון",
+      "gloss": "Com embriaguez"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "e tristeza"
+    },
+    {
+      "surface": "תמלאי",
+      "gloss": "⟨te⟩ encherás ⟨á⟩"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "o cálice"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "⟨de⟩ assombro",
+      "marks": "o cálice"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "⟨e⟩ devastação"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "o cálice"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "⟨de⟩ tua irmã",
+      "marks": "o cálice"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samaria",
@@ -13,62 +58,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17543,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18097
-  },
-  "translation": "Com embriaguez e tristeza ⟨te⟩ encherás ⟨á⟩, o cálice ⟨de⟩ assombro ⟨e⟩ devastação, o cálice ⟨de⟩ tua irmã Shomron.",
-  "tokens": [
-    {
-      "surface": "שכרון",
-      "english": "Com embriaguez"
-    },
-    {
-      "surface": "ויגון",
-      "english": "e tristeza"
-    },
-    {
-      "surface": "תמלאי",
-      "english": "⟨te⟩ encherás ⟨á⟩"
-    },
-    {
-      "surface": "כוס",
-      "english": "o cálice"
-    },
-    {
-      "surface": "שמה",
-      "english": "⟨de⟩ assombro",
-      "marks": "o cálice"
-    },
-    {
-      "surface": "ושממה",
-      "english": "⟨e⟩ devastação"
-    },
-    {
-      "surface": "כוס",
-      "english": "o cálice"
-    },
-    {
-      "surface": "אחותך",
-      "english": "⟨de⟩ tua irmã",
-      "marks": "o cálice"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomron"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:27:43.004531855Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

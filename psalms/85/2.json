@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 85:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62833,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63337
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:36:20.299119974Z",
   "translation": "Comprazeste-Te, YHWH, ⟨com⟩ ⟨a⟩ tua terra; fizeste regressar ⟨o⟩ cativeiro de Yaacov.",
   "tokens": [
     {
       "surface": "רצית",
-      "english": "Comprazeste-Te"
+      "gloss": "Comprazeste-Te"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ארצך",
-      "english": "⟨com⟩ ⟨a⟩ tua terra",
+      "gloss": "⟨com⟩ ⟨a⟩ tua terra",
       "marks": "tua terra"
     },
     {
       "surface": "שבת",
-      "english": "fizeste regressar"
+      "gloss": "fizeste regressar"
     },
     {
       "surface": "שבות",
-      "english": "⟨o⟩ cativeiro",
+      "gloss": "⟨o⟩ cativeiro",
       "marks": "cativeiro"
     },
     {
       "surface": "יעקב",
-      "english": "Yaacov"
+      "gloss": "Yaacov"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:36:20.299119974Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

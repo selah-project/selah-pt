@@ -1,9 +1,111 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "deuteronomy 17:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 17,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:08:06.444254567Z",
+  "translation": "para que seu coração ⟨não⟩ ⟨seja⟩ exaltado sobre seus irmãos, e ⟨para que⟩ ⟨não⟩ ⟨se⟩ desvie ⟨do⟩ mandamento, ⟨para⟩ a direita ou para a esquerda, a fim de que prolongue os dias sobre seu reino, ele e seus filhos, no meio de Yisrael.",
+  "tokens": [
+    {
+      "surface": "לבלתי",
+      "gloss": "Para que",
+      "marks": ""
+    },
+    {
+      "surface": "רום",
+      "gloss": "⟨não⟩ ⟨seja⟩ exaltado",
+      "marks": "seu coração"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "seu coração",
+      "marks": ""
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "sobre seus irmãos",
+      "marks": ""
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "e ⟨para que⟩ ⟨não⟩",
+      "marks": ""
+    },
+    {
+      "surface": "סור",
+      "gloss": "⟨se⟩ desvie",
+      "marks": ""
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨do⟩",
+      "marks": "mandamento"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "mandamento",
+      "marks": ""
+    },
+    {
+      "surface": "ימין",
+      "gloss": "⟨para⟩ a direita",
+      "marks": ""
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ou para a esquerda",
+      "marks": ""
+    },
+    {
+      "surface": "למען",
+      "gloss": "a fim de que",
+      "marks": ""
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "prolongue",
+      "marks": ""
+    },
+    {
+      "surface": "ימים",
+      "gloss": "os dias",
+      "marks": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre",
+      "marks": ""
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "seu reino",
+      "marks": ""
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele",
+      "marks": ""
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e seus filhos",
+      "marks": ""
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "no meio de",
+      "marks": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,119 +115,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 762,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18745,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 19507
-  },
-  "translation": "para que seu coração ⟨não⟩ ⟨seja⟩ exaltado sobre seus irmãos, e ⟨para que⟩ ⟨não⟩ ⟨se⟩ desvie ⟨do⟩ mandamento, ⟨para⟩ a direita ou para a esquerda, a fim de que prolongue os dias sobre seu reino, ele e seus filhos, no meio de Yisrael.",
-  "tokens": [
-    {
-      "surface": "לבלתי",
-      "english": "Para que",
-      "marks": ""
-    },
-    {
-      "surface": "רום",
-      "english": "⟨não⟩ ⟨seja⟩ exaltado",
-      "marks": "seu coração"
-    },
-    {
-      "surface": "לבבו",
-      "english": "seu coração",
-      "marks": ""
-    },
-    {
-      "surface": "מאחיו",
-      "english": "sobre seus irmãos",
-      "marks": ""
-    },
-    {
-      "surface": "ולבלתי",
-      "english": "e ⟨para que⟩ ⟨não⟩",
-      "marks": ""
-    },
-    {
-      "surface": "סור",
-      "english": "⟨se⟩ desvie",
-      "marks": ""
-    },
-    {
-      "surface": "מן",
-      "english": "⟨do⟩",
-      "marks": "mandamento"
-    },
-    {
-      "surface": "המצוה",
-      "english": "mandamento",
-      "marks": ""
-    },
-    {
-      "surface": "ימין",
-      "english": "⟨para⟩ a direita",
-      "marks": ""
-    },
-    {
-      "surface": "ושמאול",
-      "english": "ou para a esquerda",
-      "marks": ""
-    },
-    {
-      "surface": "למען",
-      "english": "a fim de que",
-      "marks": ""
-    },
-    {
-      "surface": "יאריך",
-      "english": "prolongue",
-      "marks": ""
-    },
-    {
-      "surface": "ימים",
-      "english": "os dias",
-      "marks": ""
-    },
-    {
-      "surface": "על",
-      "english": "sobre",
-      "marks": ""
-    },
-    {
-      "surface": "ממלכתו",
-      "english": "seu reino",
-      "marks": ""
-    },
-    {
-      "surface": "הוא",
-      "english": "ele",
-      "marks": ""
-    },
-    {
-      "surface": "ובניו",
-      "english": "e seus filhos",
-      "marks": ""
-    },
-    {
-      "surface": "בקרב",
-      "english": "no meio de",
-      "marks": ""
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:08:06.444254567Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,82 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "joshua 12:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 12,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:37:44.993444199Z",
+  "translation": "Moshé, servo de YHWH, e os filhos de Yisrael ⟨os⟩ golpearam; e Moshé, servo de YHWH, deu ⟨a⟩ possessão ⟨para⟩ ⟨o⟩ rubenita, e ⟨o⟩ gadita, e ⟨para⟩ metade ⟨da⟩ tribo ⟨de⟩ Manassés",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הכום",
+      "gloss": "⟨os⟩ golpearam",
+      "marks": "os reis"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "e deu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "⟨a⟩ possessão",
+      "marks": "a terra"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "⟨para⟩ ⟨o⟩ rubenita"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "e ⟨o⟩ gadita"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "e ⟨para⟩ metade ⟨da⟩"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribo ⟨de⟩"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Manassés"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,90 +86,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 630,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17242,
-    "prompt_tokens_details": {
-      "cached_tokens": 15287
-    },
-    "total_tokens": 17872
-  },
-  "translation": "Moshé, servo de YHWH, e os filhos de Yisrael ⟨os⟩ golpearam; e Moshé, servo de YHWH, deu ⟨a⟩ possessão ⟨para⟩ ⟨o⟩ rubenita, e ⟨o⟩ gadita, e ⟨para⟩ metade ⟨da⟩ tribo ⟨de⟩ Manassés",
-  "tokens": [
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "עבד",
-      "english": "servo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "ובני",
-      "english": "e os filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "הכום",
-      "english": "⟨os⟩ golpearam",
-      "marks": "os reis"
-    },
-    {
-      "surface": "ויתנה",
-      "english": "e deu"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "עבד",
-      "english": "servo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "ירשה",
-      "english": "⟨a⟩ possessão",
-      "marks": "a terra"
-    },
-    {
-      "surface": "לראובני",
-      "english": "⟨para⟩ ⟨o⟩ rubenita"
-    },
-    {
-      "surface": "ולגדי",
-      "english": "e ⟨o⟩ gadita"
-    },
-    {
-      "surface": "ולחצי",
-      "english": "e ⟨para⟩ metade ⟨da⟩"
-    },
-    {
-      "surface": "שבט",
-      "english": "tribo ⟨de⟩"
-    },
-    {
-      "surface": "המנשה",
-      "english": "Manassés"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:37:44.993444199Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

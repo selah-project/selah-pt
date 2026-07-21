@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 129:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 129,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:06:45.653878534Z",
+  "translation": "Envergonhem-se e voltem para trás todos os que odeiam ⟨Tzion⟩",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Envergonhem-se"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "e voltem para trás"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "para trás"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos os"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "que odeiam"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion",
+      "marks": "todos os que odeiam Sião"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sião",
@@ -13,49 +45,6 @@
       "hebrew": "ציון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 129,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62749,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63021
-  },
-  "translation": "Envergonhem-se e voltem para trás todos os que odeiam ⟨Tzion⟩",
-  "tokens": [
-    {
-      "surface": "יבשו",
-      "english": "Envergonhem-se"
-    },
-    {
-      "surface": "ויסגו",
-      "english": "e voltem para trás"
-    },
-    {
-      "surface": "אחור",
-      "english": "para trás"
-    },
-    {
-      "surface": "כל",
-      "english": "todos os"
-    },
-    {
-      "surface": "שנאי",
-      "english": "que odeiam"
-    },
-    {
-      "surface": "ציון",
-      "english": "Tzion",
-      "marks": "todos os que odeiam Sião"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:06:45.653878534Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

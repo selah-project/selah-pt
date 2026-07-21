@@ -1,38 +1,30 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "joshua 19:3",
   "book": "joshua",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 297,
-    "prompt_tokens": 23315,
-    "prompt_tokens_details": {
-      "cached_tokens": 22656
-    },
-    "total_tokens": 23612
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:14:13.795355495Z",
   "translation": "e ⟨o⟩ Chatsar-Shual, e Balá, e ⟨o⟩ Azem",
   "tokens": [
     {
       "surface": "וחצר",
-      "english": "e ⟨o⟩ Chatsar-Shual"
+      "gloss": "e ⟨o⟩ Chatsar-Shual"
     },
     {
       "surface": "שועל",
-      "english": "",
+      "gloss": "",
       "marks": "Chatsar-Shual"
     },
     {
       "surface": "ובלה",
-      "english": ", e Balá"
+      "gloss": ", e Balá"
     },
     {
       "surface": "ועצם",
-      "english": ", e ⟨o⟩ Azem"
+      "gloss": ", e ⟨o⟩ Azem"
     }
-  ],
-  "timestamp": "2026-07-16T16:14:13.795355495Z",
-  "model": "glm-4.5"
+  ]
 }

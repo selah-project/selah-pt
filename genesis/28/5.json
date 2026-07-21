@@ -1,90 +1,82 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 28:5",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 600,
-    "prompt_tokens": 29786,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 30386
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:51:09.407113306Z",
   "translation": "E Yitzjak enviou ⟨את⟩ Yaakov; e ele foi a Padan-Aram, a Laban, filho de Betuel, o arameu, irmão de Rivka, mãe de Yaakov e de Esav.",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "E Yitzjak enviou"
+      "gloss": "E Yitzjak enviou"
     },
     {
       "surface": "יצחק",
-      "english": "Yitzjak"
+      "gloss": "Yitzjak"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yaakov"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "וילך",
-      "english": "; e ele foi"
+      "gloss": "; e ele foi"
     },
     {
       "surface": "פדנה",
-      "english": "a Padan"
+      "gloss": "a Padan"
     },
     {
       "surface": "ארם",
-      "english": "-Aram"
+      "gloss": "-Aram"
     },
     {
       "surface": "אל",
-      "english": ", a"
+      "gloss": ", a"
     },
     {
       "surface": "לבן",
-      "english": "Laban"
+      "gloss": "Laban"
     },
     {
       "surface": "בן",
-      "english": ", filho de"
+      "gloss": ", filho de"
     },
     {
       "surface": "בתואל",
-      "english": "Betuel"
+      "gloss": "Betuel"
     },
     {
       "surface": "הארמי",
-      "english": ", o arameu"
+      "gloss": ", o arameu"
     },
     {
       "surface": "אחי",
-      "english": ", irmão de"
+      "gloss": ", irmão de"
     },
     {
       "surface": "רבקה",
-      "english": "Rivka"
+      "gloss": "Rivka"
     },
     {
       "surface": "אם",
-      "english": ", mãe de"
+      "gloss": ", mãe de"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "ועשו",
-      "english": "e de Esav"
+      "gloss": "e de Esav"
     }
-  ],
-  "timestamp": "2026-07-16T14:51:09.407113306Z",
-  "model": "glm-4.5"
+  ]
 }

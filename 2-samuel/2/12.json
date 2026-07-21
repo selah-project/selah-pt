@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-samuel 2:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 2,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:44:09.230314203Z",
+  "translation": "E saiu Abner filho de Ner e ⟨os⟩ servos de Is-Bosete filho de Shaul de Maanaim a Givon",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E saiu"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "נר",
+      "gloss": "de Ner"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "e ⟨os⟩ servos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de Is"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Bosete"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaul"
+    },
+    {
+      "surface": "ממחנים",
+      "gloss": "de Maanaim"
+    },
+    {
+      "surface": "גבעונה",
+      "gloss": "a Givon"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -20,68 +71,6 @@
       "hebrew": "גבעון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17498,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 17879
-  },
-  "translation": "E saiu Abner filho de Ner e ⟨os⟩ servos de Is-Bosete filho de Shaul de Maanaim a Givon",
-  "tokens": [
-    {
-      "surface": "ויצא",
-      "english": "E saiu"
-    },
-    {
-      "surface": "אבנר",
-      "english": "Abner"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "נר",
-      "english": "de Ner"
-    },
-    {
-      "surface": "ועבדי",
-      "english": "e ⟨os⟩ servos"
-    },
-    {
-      "surface": "איש",
-      "english": "de Is"
-    },
-    {
-      "surface": "בשת",
-      "english": "Bosete"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "שאול",
-      "english": "de Shaul"
-    },
-    {
-      "surface": "ממחנים",
-      "english": "de Maanaim"
-    },
-    {
-      "surface": "גבעונה",
-      "english": "a Givon"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:44:09.230314203Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

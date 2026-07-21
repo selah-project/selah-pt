@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 37:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20153,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20659
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:11:18.353618362Z",
   "translation": "Abaixo de todos ⟨os⟩ céus ele ⟨o⟩ dirige, e ⟨o⟩ seu ⟨o⟩ ⟨luz⟩ sobre ⟨as⟩ asas ⟨da⟩ terra",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "Abaixo"
+      "gloss": "Abaixo"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "השמים",
-      "english": "⟨os⟩ céus"
+      "gloss": "⟨os⟩ céus"
     },
     {
       "surface": "ישרהו",
-      "english": "ele ⟨o⟩ dirige"
+      "gloss": "ele ⟨o⟩ dirige"
     },
     {
       "surface": "ואורו",
-      "english": "e ⟨o⟩ seu ⟨o⟩ ⟨luz⟩"
+      "gloss": "e ⟨o⟩ seu ⟨o⟩ ⟨luz⟩"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כנפות",
-      "english": "⟨as⟩ asas"
+      "gloss": "⟨as⟩ asas"
     },
     {
       "surface": "הארץ",
-      "english": "⟨da⟩ terra"
+      "gloss": "⟨da⟩ terra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:11:18.353618362Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

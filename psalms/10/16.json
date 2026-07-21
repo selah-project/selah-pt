@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 10:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62849,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 63228
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:45:32.057702491Z",
   "translation": "YHWH ⟨é⟩ Rei para ⟨o⟩ mundo e ⟨para⟩ sempre; nações pereceram da ⟨sua⟩ terra.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מלך",
-      "english": "Rei"
+      "gloss": "Rei"
     },
     {
       "surface": "עולם",
-      "english": "para ⟨o⟩ mundo"
+      "gloss": "para ⟨o⟩ mundo"
     },
     {
       "surface": "ועד",
-      "english": "e ⟨para⟩ sempre"
+      "gloss": "e ⟨para⟩ sempre"
     },
     {
       "surface": "אבדו",
-      "english": "pereceram"
+      "gloss": "pereceram"
     },
     {
       "surface": "גוים",
-      "english": "nações"
+      "gloss": "nações"
     },
     {
       "surface": "מארצו",
-      "english": "da ⟨sua⟩ terra"
+      "gloss": "da ⟨sua⟩ terra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:45:32.057702491Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

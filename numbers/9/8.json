@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "numbers 9:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 9,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:19:00.412580931Z",
+  "translation": "E Moshé disse-lhes: ⟨permaneçai⟩ em ⟨vós⟩ e ⟨eu⟩ ouvirei o que YHWH ordenará ⟨את⟩ a vós.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Mosheh disse"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "a eles"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "permanecei"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "e eu ouvirei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "o que"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ordenará"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a vós"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,60 +56,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18099,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 18550
-  },
-  "translation": "E Moshé disse-lhes: ⟨permaneçai⟩ em ⟨vós⟩ e ⟨eu⟩ ouvirei o que YHWH ordenará ⟨את⟩ a vós.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Mosheh disse"
-    },
-    {
-      "surface": "אלהם",
-      "english": "a eles"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "עמדו",
-      "english": "permanecei"
-    },
-    {
-      "surface": "ואשמעה",
-      "english": "e eu ouvirei"
-    },
-    {
-      "surface": "מה",
-      "english": "o que"
-    },
-    {
-      "surface": "יצוה",
-      "english": "ordenará"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לכם",
-      "english": "a vós"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:19:00.412580931Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

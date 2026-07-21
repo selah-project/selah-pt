@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 146:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62986,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63446
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:15:26.033359075Z",
   "translation": "Seu fôlego ⟨sai⟩, ⟨ele⟩ retorna ⟨ao⟩ ⟨seu⟩ pó; ⟨no⟩ dia ⟨aquele⟩ perecem ⟨os⟩ pensamentos ⟨dele⟩",
   "tokens": [
     {
       "surface": "תצא",
-      "english": "Sai"
+      "gloss": "Sai"
     },
     {
       "surface": "רוחו",
-      "english": "fôlego"
+      "gloss": "fôlego"
     },
     {
       "surface": "ישב",
-      "english": "retorna"
+      "gloss": "retorna"
     },
     {
       "surface": "לאדמתו",
-      "english": "⟨ao⟩ ⟨seu⟩ pó",
+      "gloss": "⟨ao⟩ ⟨seu⟩ pó",
       "marks": "pó"
     },
     {
       "surface": "ביום",
-      "english": "⟨no⟩ dia"
+      "gloss": "⟨no⟩ dia"
     },
     {
       "surface": "ההוא",
-      "english": "⟨aquele⟩"
+      "gloss": "⟨aquele⟩"
     },
     {
       "surface": "אבדו",
-      "english": "perecem"
+      "gloss": "perecem"
     },
     {
       "surface": "עשתנתיו",
-      "english": "⟨os⟩ pensamentos ⟨dele⟩"
+      "gloss": "⟨os⟩ pensamentos ⟨dele⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:15:26.033359075Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,120 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "joshua 8:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 8,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:32:38.533981308Z",
+  "translation": "E aconteceu quando o rei ⟨de⟩ Ai viu, que eles se apressaram e se levantaram cedo, e os homens ⟨da⟩ cidade saíram ao encontro ⟨de⟩ Yisrael ⟨para⟩ ⟨a⟩ batalha, ele e todo o seu povo ⟨ao⟩ tempo designado, diante ⟨da⟩ Arabá; mas ele não soube que havia ⟨uma⟩ emboscada ⟨contra⟩ ele por trás ⟨da⟩ cidade.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "quando"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei ⟨de⟩"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "viu, que eles se apressaram"
+    },
+    {
+      "surface": "וישכימו",
+      "gloss": "e se levantaram cedo"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "e os homens ⟨da⟩"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "cidade"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "saíram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ao encontro ⟨de⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨para⟩ ⟨a⟩ batalha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo ⟨o⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "seu povo"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "⟨ao⟩ tempo designado"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante ⟨da⟩"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabá"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mas ele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "soube"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "havia ⟨uma⟩ emboscada ⟨contra⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ele"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "por trás ⟨da⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cidade"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,128 +124,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 1096,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17996,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 19092
-  },
-  "translation": "E aconteceu quando o rei ⟨de⟩ Ai viu, que eles se apressaram e se levantaram cedo, e os homens ⟨da⟩ cidade saíram ao encontro ⟨de⟩ Yisrael ⟨para⟩ ⟨a⟩ batalha, ele e todo o seu povo ⟨ao⟩ tempo designado, diante ⟨da⟩ Arabá; mas ele não soube que havia ⟨uma⟩ emboscada ⟨contra⟩ ele por trás ⟨da⟩ cidade.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "כראות",
-      "english": "quando"
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei ⟨de⟩"
-    },
-    {
-      "surface": "העי",
-      "english": "Ai"
-    },
-    {
-      "surface": "וימהרו",
-      "english": "viu, que eles se apressaram"
-    },
-    {
-      "surface": "וישכימו",
-      "english": "e se levantaram cedo"
-    },
-    {
-      "surface": "ויצאו",
-      "english": "e os homens ⟨da⟩"
-    },
-    {
-      "surface": "אנשי",
-      "english": "cidade"
-    },
-    {
-      "surface": "העיר",
-      "english": "saíram"
-    },
-    {
-      "surface": "לקראת",
-      "english": "ao encontro ⟨de⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "למלחמה",
-      "english": "⟨para⟩ ⟨a⟩ batalha"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo ⟨o⟩"
-    },
-    {
-      "surface": "עמו",
-      "english": "seu povo"
-    },
-    {
-      "surface": "למועד",
-      "english": "⟨ao⟩ tempo designado"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante ⟨da⟩"
-    },
-    {
-      "surface": "הערבה",
-      "english": "Arabá"
-    },
-    {
-      "surface": "והוא",
-      "english": "mas ele"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "ידע",
-      "english": "soube"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "ארב",
-      "english": "havia ⟨uma⟩ emboscada ⟨contra⟩"
-    },
-    {
-      "surface": "לו",
-      "english": "ele"
-    },
-    {
-      "surface": "מאחרי",
-      "english": "por trás ⟨da⟩"
-    },
-    {
-      "surface": "העיר",
-      "english": "cidade"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:32:38.533981308Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

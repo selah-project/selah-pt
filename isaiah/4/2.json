@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 4:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 4,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:15:56.261122267Z",
+  "translation": "Naquele dia ⟨é⟩ ⟨o⟩ Tzémaj de YHWH para ⟨ornamento⟩ e ⟨para⟩ glória, e ⟨o⟩ fruto da terra para ⟨ornamento⟩ e ⟨para⟩ formosura para ⟨os⟩ que escapam de Yisrael",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Naquele dia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "Tzémaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "para ⟨ornamento⟩"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "e ⟨para⟩ glória"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "e ⟨o⟩ fruto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "da terra"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "para ⟨ornamento⟩"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "e ⟨para⟩ formosura"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "para ⟨os⟩ que escapam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Renovo",
@@ -20,76 +79,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 688,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19608,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20296
-  },
-  "translation": "Naquele dia ⟨é⟩ ⟨o⟩ Tzémaj de YHWH para ⟨ornamento⟩ e ⟨para⟩ glória, e ⟨o⟩ fruto da terra para ⟨ornamento⟩ e ⟨para⟩ formosura para ⟨os⟩ que escapam de Yisrael",
-  "tokens": [
-    {
-      "surface": "ביום",
-      "english": "Naquele dia"
-    },
-    {
-      "surface": "ההוא",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "יהיה",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "צמח",
-      "english": "Tzémaj"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לצבי",
-      "english": "para ⟨ornamento⟩"
-    },
-    {
-      "surface": "ולכבוד",
-      "english": "e ⟨para⟩ glória"
-    },
-    {
-      "surface": "ופרי",
-      "english": "e ⟨o⟩ fruto"
-    },
-    {
-      "surface": "הארץ",
-      "english": "da terra"
-    },
-    {
-      "surface": "לגאון",
-      "english": "para ⟨ornamento⟩"
-    },
-    {
-      "surface": "ולתפארת",
-      "english": "e ⟨para⟩ formosura"
-    },
-    {
-      "surface": "לפליטת",
-      "english": "para ⟨os⟩ que escapam"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:15:56.261122267Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 137:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 296,
-    "prompt_tokens": 70413,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70709
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:44.406248088Z",
   "translation": "Como cantaremos ⟨את⟩ a canção de YHWH sobre solo de estrangeiro?",
   "tokens": [
     {
       "surface": "איך",
-      "english": "Como"
+      "gloss": "Como"
     },
     {
       "surface": "נשיר",
-      "english": "cantaremos"
+      "gloss": "cantaremos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a canção de YHWH"
     },
     {
       "surface": "שיר",
-      "english": "a canção"
+      "gloss": "a canção"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "אדמת",
-      "english": "solo"
+      "gloss": "solo"
     },
     {
       "surface": "נכר",
-      "english": "de estrangeiro"
+      "gloss": "de estrangeiro"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:44.406248088Z",
-  "model": "glm-4.5"
+  ]
 }

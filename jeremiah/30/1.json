@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 30:1",
   "book": "jeremiah",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 433,
-    "prompt_tokens": 24711,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25144
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:35:28.966058177Z",
   "translation": "A palavra que ⟨foi⟩ a Yirmeyahu, de YHWH, ⟨para⟩ dizer:",
   "tokens": [
     {
       "surface": "הדבר",
-      "english": "A palavra"
+      "gloss": "A palavra"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "היה",
-      "english": "⟨foi⟩"
+      "gloss": "⟨foi⟩"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "ירמיהו",
-      "english": "Yirmeyahu"
+      "gloss": "Yirmeyahu"
     },
     {
       "surface": "מאת",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ dizer"
+      "gloss": "⟨para⟩ dizer"
     }
-  ],
-  "timestamp": "2026-07-16T15:35:28.966058177Z",
-  "model": "glm-4.5"
+  ]
 }

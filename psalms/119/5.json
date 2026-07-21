@@ -1,51 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 119:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 289,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62679,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 62968
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:58:43.261488833Z",
   "translation": "Oh that my ways were established to keep ⟨the⟩ statutes ⟨of⟩ you!",
   "tokens": [
     {
       "surface": "אחלי",
-      "english": "Oh that",
+      "gloss": "Oh that",
       "notes": "Interjection expressing desire; literally 'would that!'"
     },
     {
       "surface": "יכנו",
-      "english": "my ways were established"
+      "gloss": "my ways were established"
     },
     {
       "surface": "דרכי",
-      "english": "my ways",
+      "gloss": "my ways",
       "marks": "established"
     },
     {
       "surface": "לשמר",
-      "english": "to keep"
+      "gloss": "to keep"
     },
     {
       "surface": "חקיך",
-      "english": "statutes",
+      "gloss": "statutes",
       "notes": "literally 'enactments\/appointments'; -ך suffix = 'your'"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:58:43.261488833Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

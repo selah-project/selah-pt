@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "ezekiel 15:1",
   "book": "ezekiel",
-  "lang": "pt",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 345,
-    "prompt_tokens": 24383,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 24728
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:13:19.115167600Z",
   "translation": "E aconteceu ⟨a⟩ palavra de YHWH ⟨a⟩ mim, ⟨para⟩ dizer:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E aconteceu"
+      "gloss": "E aconteceu"
     },
     {
       "surface": "דבר",
-      "english": "palavra"
+      "gloss": "palavra"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "אלי",
-      "english": "⟨a⟩ mim",
+      "gloss": "⟨a⟩ mim",
       "marks": "mim"
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ dizer:"
+      "gloss": "⟨para⟩ dizer:"
     }
-  ],
-  "timestamp": "2026-07-16T14:13:19.115167600Z",
-  "model": "glm-4.5"
+  ]
 }

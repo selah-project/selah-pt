@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 83:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62981,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63424
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:35:05.384299415Z",
   "translation": "Elohim, não te cales ⟨para⟩ ti; não tejas silencioso e não estejas ⟨o⟩ quieto, Mighty.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "דמי",
-      "english": "te cales"
+      "gloss": "te cales"
     },
     {
       "surface": "לך",
-      "english": "⟨para⟩ ti",
+      "gloss": "⟨para⟩ ti",
       "marks": "ti"
     },
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תחרש",
-      "english": "tejas silencioso"
+      "gloss": "tejas silencioso"
     },
     {
       "surface": "ואל",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "תשקט",
-      "english": "estejas ⟨o⟩ quieto",
+      "gloss": "estejas ⟨o⟩ quieto",
       "marks": "quieto"
     },
     {
       "surface": "אל",
-      "english": "Mighty"
+      "gloss": "Mighty"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:35:05.384299415Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

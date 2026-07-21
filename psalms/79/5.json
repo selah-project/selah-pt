@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 79:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63040,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63486
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:32:56.168366263Z",
   "translation": "Até ⟨quando⟩, YHWH? ⟨estará⟩ irado ⟨por⟩ sempre? ⟨sua⟩ ciúmes arderá como fogo?",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Até",
+      "gloss": "Até",
       "marks": "quando"
     },
     {
       "surface": "מה",
-      "english": "⟨quando⟩"
+      "gloss": "⟨quando⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "תאנף",
-      "english": "⟨estará⟩ irado"
+      "gloss": "⟨estará⟩ irado"
     },
     {
       "surface": "לנצח",
-      "english": "⟨por⟩ sempre"
+      "gloss": "⟨por⟩ sempre"
     },
     {
       "surface": "תבער",
-      "english": "arderá"
+      "gloss": "arderá"
     },
     {
       "surface": "כמו",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "אש",
-      "english": "fogo"
+      "gloss": "fogo"
     },
     {
       "surface": "קנאתך",
-      "english": "⟨sua⟩ ciúmes"
+      "gloss": "⟨sua⟩ ciúmes"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:32:56.168366263Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

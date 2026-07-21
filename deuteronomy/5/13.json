@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "deuteronomy 5:13",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 271,
-    "prompt_tokens": 24919,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25190
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:13:32.673008222Z",
   "translation": "Seis dias trabalharás, e farás toda ⟨a⟩ tua obra,",
   "tokens": [
     {
       "surface": "ששת",
-      "english": "Seis"
+      "gloss": "Seis"
     },
     {
       "surface": "ימים",
-      "english": "dias"
+      "gloss": "dias"
     },
     {
       "surface": "תעבד",
-      "english": "trabalharás"
+      "gloss": "trabalharás"
     },
     {
       "surface": "ועשית",
-      "english": "e farás"
+      "gloss": "e farás"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "מלאכתך",
-      "english": "tua obra"
+      "gloss": "tua obra"
     }
-  ],
-  "timestamp": "2026-07-16T13:13:32.673008222Z",
-  "model": "glm-4.5"
+  ]
 }

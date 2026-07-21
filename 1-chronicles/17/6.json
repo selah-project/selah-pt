@@ -1,9 +1,110 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-chronicles 17:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 17,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:52:24.185814872Z",
+  "translation": "em todo lugar que andei com toda Yisrael ⟨foi⟩ que falei uma palavra ⟨ao⟩ ⟨um⟩ dos juízes de Yisrael, aos quais ordenei apascentar ⟨o⟩ meu povo, dizendo: Por que não construistes para mim ⟨uma⟩ casa de cedros?",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Em todo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lugar que"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "andei"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "com toda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨foi⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "que falei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ao⟩",
+      "marks": "אחד"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "dos juízes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aos quais"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ordenei"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "apascentar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨o⟩",
+      "marks": "עמי"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meu povo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Por que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "בניתם",
+      "gloss": "construístes"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para mim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨uma⟩"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "casa de cedros"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,118 +121,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 712,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58630,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 59342
-  },
-  "translation": "em todo lugar que andei com toda Yisrael ⟨foi⟩ que falei uma palavra ⟨ao⟩ ⟨um⟩ dos juízes de Yisrael, aos quais ordenei apascentar ⟨o⟩ meu povo, dizendo: Por que não construistes para mim ⟨uma⟩ casa de cedros?",
-  "tokens": [
-    {
-      "surface": "בכל",
-      "english": "Em todo"
-    },
-    {
-      "surface": "אשר",
-      "english": "lugar que"
-    },
-    {
-      "surface": "התהלכתי",
-      "english": "andei"
-    },
-    {
-      "surface": "בכל",
-      "english": "com toda"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "הדבר",
-      "english": "⟨foi⟩"
-    },
-    {
-      "surface": "דברתי",
-      "english": "que falei"
-    },
-    {
-      "surface": "את",
-      "english": "⟨ao⟩",
-      "marks": "אחד"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "שפטי",
-      "english": "dos juízes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "aos quais"
-    },
-    {
-      "surface": "צויתי",
-      "english": "ordenei"
-    },
-    {
-      "surface": "לרעות",
-      "english": "apascentar"
-    },
-    {
-      "surface": "את",
-      "english": "⟨o⟩",
-      "marks": "עמי"
-    },
-    {
-      "surface": "עמי",
-      "english": "meu povo"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "למה",
-      "english": "Por que"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "בניתם",
-      "english": "construístes"
-    },
-    {
-      "surface": "לי",
-      "english": "para mim"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨uma⟩"
-    },
-    {
-      "surface": "ארזים",
-      "english": "casa de cedros"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:52:24.185814872Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

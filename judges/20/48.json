@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 48,
   "ref": "judges 20:48",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 20,
+  "verse": 48,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:11:44.403752322Z",
+  "translation": "E os homens de Yisrael voltaram-se contra os filhos de Biniamin e golpearam-los ⟨com⟩ ⟨a⟩ ponta da espada ⟨desde⟩ a cidade ⟨completa⟩ até ⟨o⟩ gado, até tudo ⟨o⟩ que ⟨foi⟩ encontrado; também todas as cidades que foram encontradas eles enviaram em fogo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "E os homens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "voltaram-se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "de Biniamin"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "e golpearam-los"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨a⟩ ponta da espada"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "⟨desde⟩ a cidade"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "⟨completa⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "⟨o⟩ gado"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tudo ⟨o⟩"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "que ⟨foi⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todas"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "as cidades"
+    },
+    {
+      "surface": "הנמצאות",
+      "gloss": "que foram"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "encontradas eles enviaram"
+    },
+    {
+      "surface": "באש",
+      "gloss": "em fogo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,112 +108,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 816,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17465,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 18281
-  },
-  "translation": "E os homens de Yisrael voltaram-se contra os filhos de Biniamin e golpearam-los ⟨com⟩ ⟨a⟩ ponta da espada ⟨desde⟩ a cidade ⟨completa⟩ até ⟨o⟩ gado, até tudo ⟨o⟩ que ⟨foi⟩ encontrado; também todas as cidades que foram encontradas eles enviaram em fogo.",
-  "tokens": [
-    {
-      "surface": "ואיש",
-      "english": "E os homens"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "שבו",
-      "english": "voltaram-se"
-    },
-    {
-      "surface": "אל",
-      "english": "contra"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "בנימן",
-      "english": "de Biniamin"
-    },
-    {
-      "surface": "ויכום",
-      "english": "e golpearam-los"
-    },
-    {
-      "surface": "לפי",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "חרב",
-      "english": "⟨a⟩ ponta da espada"
-    },
-    {
-      "surface": "מעיר",
-      "english": "⟨desde⟩ a cidade"
-    },
-    {
-      "surface": "מתם",
-      "english": "⟨completa⟩"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "בהמה",
-      "english": "⟨o⟩ gado"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "כל",
-      "english": "tudo ⟨o⟩"
-    },
-    {
-      "surface": "הנמצא",
-      "english": "que ⟨foi⟩"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "כל",
-      "english": "todas"
-    },
-    {
-      "surface": "הערים",
-      "english": "as cidades"
-    },
-    {
-      "surface": "הנמצאות",
-      "english": "que foram"
-    },
-    {
-      "surface": "שלחו",
-      "english": "encontradas eles enviaram"
-    },
-    {
-      "surface": "באש",
-      "english": "em fogo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:11:44.403752322Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

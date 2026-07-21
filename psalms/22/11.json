@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 22:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 22,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:52:50.938460136Z",
+  "translation": "Não ⟨estejas⟩ longe de mim, pois ⟨a⟩ aflição ⟨está⟩ perto; pois não há ⟨um⟩ que ⟨vá⟩ ⟨ajudar⟩.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "De mim"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "⟨estejas⟩"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "longe"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "de"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meu El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨um⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Deus",
@@ -13,52 +48,6 @@
       "hebrew": "אל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62846,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63202
-  },
-  "translation": "Não ⟨estejas⟩ longe de mim, pois ⟨a⟩ aflição ⟨está⟩ perto; pois não há ⟨um⟩ que ⟨vá⟩ ⟨ajudar⟩.",
-  "tokens": [
-    {
-      "surface": "עליך",
-      "english": "De mim"
-    },
-    {
-      "surface": "השלכתי",
-      "english": "⟨estejas⟩"
-    },
-    {
-      "surface": "מרחם",
-      "english": "longe"
-    },
-    {
-      "surface": "מבטן",
-      "english": "de"
-    },
-    {
-      "surface": "אמי",
-      "english": "mim"
-    },
-    {
-      "surface": "אלי",
-      "english": "meu El"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨um⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:52:50.938460136Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

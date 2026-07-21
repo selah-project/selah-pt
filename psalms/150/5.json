@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 150:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 150,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62868,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63294
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:17:34.741963025Z",
   "translation": "Louvem-no ⟨com⟩ ⟨os⟩ címbalos ⟨de⟩ som ⟨alto⟩; louvem-no ⟨com⟩ ⟨os⟩ címbalos ⟨de⟩ júbilo ⟨ressoante⟩",
   "tokens": [
     {
       "surface": "הללוהו",
-      "english": "Louvem-no"
+      "gloss": "Louvem-no"
     },
     {
       "surface": "בצלצלי",
-      "english": "⟨com⟩ ⟨os⟩ címbalos",
+      "gloss": "⟨com⟩ ⟨os⟩ címbalos",
       "marks": "címbalos"
     },
     {
       "surface": "שמע",
-      "english": "⟨de⟩ som ⟨alto⟩",
+      "gloss": "⟨de⟩ som ⟨alto⟩",
       "marks": "som alto"
     },
     {
       "surface": "הללוהו",
-      "english": "louvem-no"
+      "gloss": "louvem-no"
     },
     {
       "surface": "בצלצלי",
-      "english": "⟨com⟩ ⟨os⟩ címbalos",
+      "gloss": "⟨com⟩ ⟨os⟩ címbalos",
       "marks": "címbalos"
     },
     {
       "surface": "תרועה",
-      "english": "⟨de⟩ júbilo ⟨ressoante⟩",
+      "gloss": "⟨de⟩ júbilo ⟨ressoante⟩",
       "marks": "júbilo ressoante"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:17:34.741963025Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

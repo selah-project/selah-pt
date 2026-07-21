@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "numbers 3:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 3,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:10:43.706681582Z",
+  "translation": "e os filhos de Queate ⟨por⟩ suas famílias: Amram e Izhar, Jevron e Uziel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos",
+      "lemma": "c\/1121",
+      "gv": 68,
+      "freq": 220,
+      "in_books": 25
+    },
+    {
+      "surface": "קהת",
+      "gloss": "de Queate",
+      "lemma": "6955",
+      "gv": 505,
+      "freq": 27,
+      "in_books": 5
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨por⟩ suas famílias",
+      "lemma": "l\/4940",
+      "gv": 898,
+      "freq": 74,
+      "in_books": 4
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram",
+      "lemma": "6019",
+      "gv": 350,
+      "freq": 13,
+      "in_books": 4
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "e Izhar",
+      "lemma": "c\/3324",
+      "gv": 311,
+      "freq": 8,
+      "in_books": 7
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Jevron",
+      "lemma": "2275 b",
+      "gv": 266,
+      "freq": 34,
+      "in_books": 7
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "e Uziel",
+      "lemma": "c\/5816",
+      "gv": 124,
+      "freq": 9,
+      "in_books": 4
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Hebrom",
@@ -13,80 +76,6 @@
       "hebrew": "חברון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 572,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17998,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18570
-  },
-  "translation": "e os filhos de Queate ⟨por⟩ suas famílias: Amram e Izhar, Jevron e Uziel.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos",
-      "lemma": "c\/1121",
-      "gv": 68,
-      "freq": 220,
-      "in_books": 25
-    },
-    {
-      "surface": "קהת",
-      "english": "de Queate",
-      "lemma": "6955",
-      "gv": 505,
-      "freq": 27,
-      "in_books": 5
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "⟨por⟩ suas famílias",
-      "lemma": "l\/4940",
-      "gv": 898,
-      "freq": 74,
-      "in_books": 4
-    },
-    {
-      "surface": "עמרם",
-      "english": "Amram",
-      "lemma": "6019",
-      "gv": 350,
-      "freq": 13,
-      "in_books": 4
-    },
-    {
-      "surface": "ויצהר",
-      "english": "e Izhar",
-      "lemma": "c\/3324",
-      "gv": 311,
-      "freq": 8,
-      "in_books": 7
-    },
-    {
-      "surface": "חברון",
-      "english": "Jevron",
-      "lemma": "2275 b",
-      "gv": 266,
-      "freq": 34,
-      "in_books": 7
-    },
-    {
-      "surface": "ועזיאל",
-      "english": "e Uziel",
-      "lemma": "c\/5816",
-      "gv": 124,
-      "freq": 9,
-      "in_books": 4
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:10:43.706681582Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

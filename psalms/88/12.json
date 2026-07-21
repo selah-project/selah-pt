@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 88:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 517,
-    "prompt_tokens": 70157,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70674
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:46.931457473Z",
   "translation": "Será contado no sheol o teu Jésed, a tua Emuná em Avadon?",
   "tokens": [
     {
       "surface": "היספר",
-      "english": "Será contado"
+      "gloss": "Será contado"
     },
     {
       "surface": "בקבר",
-      "english": "no sheol",
+      "gloss": "no sheol",
       "marks": "o teu Jésed"
     },
     {
       "surface": "חסדך",
-      "english": "o teu Jésed"
+      "gloss": "o teu Jésed"
     },
     {
       "surface": "אמונתך",
-      "english": "a tua Emuná"
+      "gloss": "a tua Emuná"
     },
     {
       "surface": "באבדון",
-      "english": "em Avadon"
+      "gloss": "em Avadon"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:46.931457473Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,98 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 17:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 17,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:52:27.751237175Z",
+  "translation": "E aconteceu que, quando Davidd habitava em ⟨sua⟩ casa, Davidd disse a Nathan, ⟨o⟩ profeta: Eis ⟨que⟩ eu habitava em uma casa de cedros, ⟨mas⟩ ⟨a⟩ arca ⟨da⟩ Brit de YHWH ⟨está⟩ sob ⟨as⟩ cortinas.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "que, quando"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "habitava"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "em ⟨sua⟩ casa",
+      "marks": "sua casa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨o⟩ profeta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis ⟨que⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "habitava"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "em uma casa"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "de cedros"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "⟨a⟩ arca",
+      "marks": "a arca da aliança de YHWH sob as cortinas"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨da⟩ Brit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sob"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "⟨as⟩ cortinas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,106 +116,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 785,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58107,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 58892
-  },
-  "translation": "E aconteceu que, quando Davidd habitava em ⟨sua⟩ casa, Davidd disse a Nathan, ⟨o⟩ profeta: Eis ⟨que⟩ eu habitava em uma casa de cedros, ⟨mas⟩ ⟨a⟩ arca ⟨da⟩ Brit de YHWH ⟨está⟩ sob ⟨as⟩ cortinas.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "כאשר",
-      "english": "que, quando"
-    },
-    {
-      "surface": "ישב",
-      "english": "habitava"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בביתו",
-      "english": "em ⟨sua⟩ casa",
-      "marks": "sua casa"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "disse"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "נתן",
-      "english": "Nathan"
-    },
-    {
-      "surface": "הנביא",
-      "english": "⟨o⟩ profeta"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis ⟨que⟩"
-    },
-    {
-      "surface": "אנכי",
-      "english": "eu"
-    },
-    {
-      "surface": "יושב",
-      "english": "habitava"
-    },
-    {
-      "surface": "בבית",
-      "english": "em uma casa"
-    },
-    {
-      "surface": "הארזים",
-      "english": "de cedros"
-    },
-    {
-      "surface": "וארון",
-      "english": "⟨a⟩ arca",
-      "marks": "a arca da aliança de YHWH sob as cortinas"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨da⟩ Brit"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "תחת",
-      "english": "sob"
-    },
-    {
-      "surface": "יריעות",
-      "english": "⟨as⟩ cortinas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:52:27.751237175Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

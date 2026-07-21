@@ -1,9 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "genesis 30:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 30,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:11:59.978719057Z",
+  "translation": "E concebeu novamente Leah e deu à luz ⟨o⟩ sexto filho para Jacó",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "E concebeu",
+      "marks": ""
+    },
+    {
+      "surface": "עוד",
+      "gloss": "novamente",
+      "marks": ""
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah",
+      "marks": ""
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e deu à luz",
+      "marks": ""
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ sexto filho",
+      "marks": ""
+    },
+    {
+      "surface": "ששי",
+      "gloss": "sexta",
+      "marks": ""
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "para Jacó",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Lia",
@@ -13,59 +55,6 @@
       "hebrew": "לאה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21193,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21536
-  },
-  "translation": "E concebeu novamente Leah e deu à luz ⟨o⟩ sexto filho para Jacó",
-  "tokens": [
-    {
-      "surface": "ותהר",
-      "english": "E concebeu",
-      "marks": ""
-    },
-    {
-      "surface": "עוד",
-      "english": "novamente",
-      "marks": ""
-    },
-    {
-      "surface": "לאה",
-      "english": "Leah",
-      "marks": ""
-    },
-    {
-      "surface": "ותלד",
-      "english": "e deu à luz",
-      "marks": ""
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ sexto filho",
-      "marks": ""
-    },
-    {
-      "surface": "ששי",
-      "english": "sexta",
-      "marks": ""
-    },
-    {
-      "surface": "ליעקב",
-      "english": "para Jacó",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:11:59.978719057Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

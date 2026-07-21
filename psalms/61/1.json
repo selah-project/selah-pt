@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 61:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 61,
-  "usage": {
-    "completion_tokens": 294,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62618,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 62912
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:19:05.991788791Z",
   "translation": "Ao maestro ⟨sobre⟩ a melodia de David",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Ao maestro",
+      "gloss": "Ao maestro",
       "marks": null
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩",
+      "gloss": "⟨sobre⟩",
       "marks": "a melodia"
     },
     {
       "surface": "נגינת",
-      "english": "a melodia",
+      "gloss": "a melodia",
       "marks": null
     },
     {
       "surface": "לדוד",
-      "english": "de David",
+      "gloss": "de David",
       "marks": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:19:05.991788791Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "hosea 8:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 8,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:58:53.236322335Z",
+  "translation": "Pois eles subiram à Ashshur ⟨como⟩ um jumento selvagem ⟨isolado⟩ por si mesmo; Efráyim apresentou amantes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eles"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "subiram"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "à Ashshur"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "um jumento selvagem"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "⟨isolado⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "por si mesmo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "התנו",
+      "gloss": "apresentou"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "amantes"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Assíria",
@@ -20,64 +67,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19682,
-    "prompt_tokens_details": {
-      "cached_tokens": 18475
-    },
-    "total_tokens": 20064
-  },
-  "translation": "Pois eles subiram à Ashshur ⟨como⟩ um jumento selvagem ⟨isolado⟩ por si mesmo; Efráyim apresentou amantes.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "המה",
-      "english": "eles"
-    },
-    {
-      "surface": "עלו",
-      "english": "subiram"
-    },
-    {
-      "surface": "אשור",
-      "english": "à Ashshur"
-    },
-    {
-      "surface": "פרא",
-      "english": "um jumento selvagem"
-    },
-    {
-      "surface": "בודד",
-      "english": "⟨isolado⟩"
-    },
-    {
-      "surface": "לו",
-      "english": "por si mesmo"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "התנו",
-      "english": "apresentou"
-    },
-    {
-      "surface": "אהבים",
-      "english": "amantes"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:58:53.236322335Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

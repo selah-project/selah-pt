@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "isaiah 3:26",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26158,
-    "prompt_tokens_details": {
-      "cached_tokens": 25329
-    },
-    "total_tokens": 26624
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:09:32.947126692Z",
   "translation": "⟨e⟩ ela ⟨estará⟩ vazia ⟨e⟩ sentará ⟨sobre⟩ a terra.",
   "tokens": [
     {
       "surface": "ואנו",
-      "english": "⟨e⟩ ela ⟨estará⟩ vazia",
+      "gloss": "⟨e⟩ ela ⟨estará⟩ vazia",
       "marks": "gates\/entrances"
     },
     {
       "surface": "ואבלו",
-      "english": "⟨e⟩",
+      "gloss": "⟨e⟩",
       "marks": "lament"
     },
     {
       "surface": "פתחיה",
-      "english": "",
+      "gloss": "",
       "marks": "her gates\/openings"
     },
     {
       "surface": "ונקתה",
-      "english": "vazia",
+      "gloss": "vazia",
       "marks": ""
     },
     {
       "surface": "לארץ",
-      "english": "⟨sobre⟩ a terra",
+      "gloss": "⟨sobre⟩ a terra",
       "marks": ""
     },
     {
       "surface": "תשב",
-      "english": "sentará",
+      "gloss": "sentará",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-13T06:09:32.947126692Z",
-  "model": "glm-4.5"
+  ]
 }

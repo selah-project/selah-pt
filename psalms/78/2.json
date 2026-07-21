@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 78:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62930,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63316
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:31:05.923685195Z",
   "translation": "I will open ⟨in⟩ a parable my mouth, I will utter dark sayings ⟨from⟩ of old",
   "tokens": [
     {
       "surface": "אפתחה",
-      "english": "I will open"
+      "gloss": "I will open"
     },
     {
       "surface": "במשל",
-      "english": "⟨in⟩ a parable",
+      "gloss": "⟨in⟩ a parable",
       "marks": "a parable"
     },
     {
       "surface": "פי",
-      "english": "my mouth"
+      "gloss": "my mouth"
     },
     {
       "surface": "אביעה",
-      "english": "I will utter"
+      "gloss": "I will utter"
     },
     {
       "surface": "חידות",
-      "english": "dark sayings"
+      "gloss": "dark sayings"
     },
     {
       "surface": "מני",
-      "english": "⟨from⟩",
+      "gloss": "⟨from⟩",
       "marks": "dark sayings of old"
     },
     {
       "surface": "קדם",
-      "english": "of old"
+      "gloss": "of old"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:31:05.923685195Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

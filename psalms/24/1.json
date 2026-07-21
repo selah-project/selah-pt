@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 24:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 576,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62907,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63483
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:54:29.658368445Z",
   "translation": "Para David um salmo ⟨para⟩ YHWH ⟨a⟩ terra e ⟨a⟩ sua plenitude ⟨o⟩ mundo e ⟨os⟩ que ⟨nele⟩ habitam",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "Para David"
+      "gloss": "Para David"
     },
     {
       "surface": "מזמור",
-      "english": "um salmo"
+      "gloss": "um salmo"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨para⟩ YHWH",
+      "gloss": "⟨para⟩ YHWH",
       "marks": "YHWH"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "ומלואה",
-      "english": "e ⟨a⟩ sua plenitude",
+      "gloss": "e ⟨a⟩ sua plenitude",
       "marks": "sua plenitude"
     },
     {
       "surface": "תבל",
-      "english": "⟨o⟩ mundo"
+      "gloss": "⟨o⟩ mundo"
     },
     {
       "surface": "וישבי",
-      "english": "e ⟨os⟩ que"
+      "gloss": "e ⟨os⟩ que"
     },
     {
       "surface": "בה",
-      "english": "⟨nele⟩ habitam",
+      "gloss": "⟨nele⟩ habitam",
       "marks": "mundo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:54:29.658368445Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

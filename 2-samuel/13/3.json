@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-samuel 13:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 13,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:54:12.384978013Z",
+  "translation": "E a Amnon ⟨era⟩ um companheiro, e seu nome ⟨era⟩ Jonadab, filho de Shimá, irmão de Davidd, e Jonadab ⟨era⟩ um homem ⟨muito⟩ sábio.",
+  "tokens": [
+    {
+      "surface": "ולאמנון",
+      "gloss": "E a Amnon",
+      "marks": null
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨era⟩ um companheiro",
+      "marks": null
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "e seu nome",
+      "marks": null
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "⟨era⟩ Jonadab",
+      "marks": null
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho",
+      "marks": null
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "de Shimá",
+      "marks": null
+    },
+    {
+      "surface": "אחי",
+      "gloss": "irmão",
+      "marks": null
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd",
+      "marks": null
+    },
+    {
+      "surface": "ויונדב",
+      "gloss": "e Jonadab",
+      "marks": null
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨era⟩ um homem",
+      "marks": null
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sábio",
+      "marks": null
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨muito⟩",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,84 +80,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17638,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18147
-  },
-  "translation": "E a Amnon ⟨era⟩ um companheiro, e seu nome ⟨era⟩ Jonadab, filho de Shimá, irmão de Davidd, e Jonadab ⟨era⟩ um homem ⟨muito⟩ sábio.",
-  "tokens": [
-    {
-      "surface": "ולאמנון",
-      "english": "E a Amnon",
-      "marks": null
-    },
-    {
-      "surface": "רע",
-      "english": "⟨era⟩ um companheiro",
-      "marks": null
-    },
-    {
-      "surface": "ושמו",
-      "english": "e seu nome",
-      "marks": null
-    },
-    {
-      "surface": "יונדב",
-      "english": "⟨era⟩ Jonadab",
-      "marks": null
-    },
-    {
-      "surface": "בן",
-      "english": "filho",
-      "marks": null
-    },
-    {
-      "surface": "שמעה",
-      "english": "de Shimá",
-      "marks": null
-    },
-    {
-      "surface": "אחי",
-      "english": "irmão",
-      "marks": null
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd",
-      "marks": null
-    },
-    {
-      "surface": "ויונדב",
-      "english": "e Jonadab",
-      "marks": null
-    },
-    {
-      "surface": "איש",
-      "english": "⟨era⟩ um homem",
-      "marks": null
-    },
-    {
-      "surface": "חכם",
-      "english": "sábio",
-      "marks": null
-    },
-    {
-      "surface": "מאד",
-      "english": "⟨muito⟩",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:54:12.384978013Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

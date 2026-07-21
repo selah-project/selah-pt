@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "1-samuel 23:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 23,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:35:37.017043025Z",
+  "translation": "E os zifitas subiram a Shaúl em Gibeá, dizendo: ⟨Não⟩ ⟨está⟩ Davidd escondido conosco nas fortalezas, no bosque, no monte de Haquila, ⟨que está⟩ ⟨à⟩ direita de Jeshimon?",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "E subiram"
+    },
+    {
+      "surface": "זפים",
+      "gloss": "os zifitas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "em Gibeá"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "⟨Não⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "escondido"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "conosco"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "nas fortalezas"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "no bosque"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "no monte"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "de Haquila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que está⟩"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "⟨à⟩ direita"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "de Jeshimon"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,92 +88,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17346,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17950
-  },
-  "translation": "E os zifitas subiram a Shaúl em Gibeá, dizendo: ⟨Não⟩ ⟨está⟩ Davidd escondido conosco nas fortalezas, no bosque, no monte de Haquila, ⟨que está⟩ ⟨à⟩ direita de Jeshimon?",
-  "tokens": [
-    {
-      "surface": "ויעלו",
-      "english": "E subiram"
-    },
-    {
-      "surface": "זפים",
-      "english": "os zifitas"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "הגבעתה",
-      "english": "em Gibeá"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "הלוא",
-      "english": "⟨Não⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מסתתר",
-      "english": "escondido"
-    },
-    {
-      "surface": "עמנו",
-      "english": "conosco"
-    },
-    {
-      "surface": "במצדות",
-      "english": "nas fortalezas"
-    },
-    {
-      "surface": "בחרשה",
-      "english": "no bosque"
-    },
-    {
-      "surface": "בגבעת",
-      "english": "no monte"
-    },
-    {
-      "surface": "החכילה",
-      "english": "de Haquila"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que está⟩"
-    },
-    {
-      "surface": "מימין",
-      "english": "⟨à⟩ direita"
-    },
-    {
-      "surface": "הישימון",
-      "english": "de Jeshimon"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:35:37.017043025Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

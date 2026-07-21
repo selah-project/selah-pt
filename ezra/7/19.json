@@ -1,64 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "ezra 7:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 636,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45162,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 45798
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:09:21.249735414Z",
   "translation": "E também os utensílios que ⟨são⟩ dados a ti para ⟨o⟩ serviço ⟨da⟩ Casa de teu Elohim, esses entrega ⟨perante⟩ Elohim em Jerusalém.",
   "tokens": [
     {
       "surface": "ומאניא",
-      "english": "E também",
+      "gloss": "E também",
       "notes": null
     },
     {
       "surface": "די",
-      "english": "os",
+      "gloss": "os",
       "notes": null
     },
     {
       "surface": "מתיהבין",
-      "english": "que ⟨são⟩ dados",
+      "gloss": "que ⟨são⟩ dados",
       "marks": "os utensílios"
     },
     {
       "surface": "לך",
-      "english": "a ti",
+      "gloss": "a ti",
       "notes": null
     },
     {
       "surface": "לפלחן",
-      "english": "para ⟨o⟩ serviço",
+      "gloss": "para ⟨o⟩ serviço",
       "notes": null
     },
     {
       "surface": "בית",
-      "english": "⟨da⟩ Casa",
+      "gloss": "⟨da⟩ Casa",
       "notes": null
     },
     {
       "surface": "אלהך",
-      "english": "de teu Elohim",
+      "gloss": "de teu Elohim",
       "notes": null
     },
     {
       "surface": "השלם",
-      "english": "esses entrega",
+      "gloss": "esses entrega",
       "notes": {
         "kind": "substitution",
         "subject": "השלם",
@@ -67,7 +55,7 @@
     },
     {
       "surface": "קדם",
-      "english": "⟨perante⟩",
+      "gloss": "⟨perante⟩",
       "notes": {
         "kind": "addition",
         "subject": "perante",
@@ -76,16 +64,17 @@
     },
     {
       "surface": "אלה",
-      "english": "Elohim",
+      "gloss": "Elohim",
       "notes": null
     },
     {
       "surface": "ירושלם",
-      "english": "em Jerusalém",
+      "gloss": "em Jerusalém",
       "notes": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:09:21.249735414Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

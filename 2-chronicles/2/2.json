@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "2-chronicles 2:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 2,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:07:31.551907881Z",
+  "translation": "E Shelomah enviou a Churam, rei de Tzor, ⟨dizendo⟩: Como fizeste com Davidd, meu pai, e lhe enviaste cedros para construir-lhe ⟨uma⟩ casa ⟨para⟩ ⟨nele⟩ habitar, assim trata comigo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E Shelomah enviou"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Churam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "צר",
+      "gloss": "de Tzor"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨dizendo⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "Como"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "fizeste"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meu pai"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "e lhe enviaste"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lhe"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedros"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "para construir-lhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨uma⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨nele⟩ habitar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,104 +100,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 853,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58983,
-    "prompt_tokens_details": {
-      "cached_tokens": 57025
-    },
-    "total_tokens": 59836
-  },
-  "translation": "E Shelomah enviou a Churam, rei de Tzor, ⟨dizendo⟩: Como fizeste com Davidd, meu pai, e lhe enviaste cedros para construir-lhe ⟨uma⟩ casa ⟨para⟩ ⟨nele⟩ habitar, assim trata comigo.",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "E Shelomah enviou"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomah"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "חורם",
-      "english": "Churam"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "צר",
-      "english": "de Tzor"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨dizendo⟩"
-    },
-    {
-      "surface": "כאשר",
-      "english": "Como"
-    },
-    {
-      "surface": "עשית",
-      "english": "fizeste"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אבי",
-      "english": "meu pai"
-    },
-    {
-      "surface": "ותשלח",
-      "english": "e lhe enviaste"
-    },
-    {
-      "surface": "לו",
-      "english": "lhe"
-    },
-    {
-      "surface": "ארזים",
-      "english": "cedros"
-    },
-    {
-      "surface": "לבנות",
-      "english": "para construir-lhe"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨uma⟩"
-    },
-    {
-      "surface": "בית",
-      "english": "casa"
-    },
-    {
-      "surface": "לשבת",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "בו",
-      "english": "⟨nele⟩ habitar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:07:31.551907881Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

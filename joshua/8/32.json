@@ -1,74 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "joshua 8:32",
   "book": "joshua",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 446,
-    "prompt_tokens": 24427,
-    "prompt_tokens_details": {
-      "cached_tokens": 22656
-    },
-    "total_tokens": 24873
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:09:59.103525665Z",
   "translation": "E escreveu ali sobre as pedras ⟨um⟩ ⟨cópia⟩ ⟨da⟩ Torá de Moshé, a qual ele escreveu diante dos filhos de Yisrael.",
   "tokens": [
     {
       "surface": "ויכתב",
-      "english": "E escreveu"
+      "gloss": "E escreveu"
     },
     {
       "surface": "שם",
-      "english": "ali"
+      "gloss": "ali"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "האבנים",
-      "english": "as pedras"
+      "gloss": "as pedras"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "um ⟨cópia⟩ ⟨da⟩ Torá de Moshé"
     },
     {
       "surface": "משנה",
-      "english": "⟨cópia⟩"
+      "gloss": "⟨cópia⟩"
     },
     {
       "surface": "תורת",
-      "english": "⟨da⟩ Torá"
+      "gloss": "⟨da⟩ Torá"
     },
     {
       "surface": "משה",
-      "english": "de Moshé"
+      "gloss": "de Moshé"
     },
     {
       "surface": "אשר",
-      "english": "a qual"
+      "gloss": "a qual"
     },
     {
       "surface": "כתב",
-      "english": "escreveu"
+      "gloss": "escreveu"
     },
     {
       "surface": "לפני",
-      "english": "diante"
+      "gloss": "diante"
     },
     {
       "surface": "בני",
-      "english": "dos filhos"
+      "gloss": "dos filhos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T16:09:59.103525665Z",
-  "model": "glm-4.5"
+  ]
 }

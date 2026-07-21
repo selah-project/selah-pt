@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "deuteronomy 6:19",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 339,
-    "prompt_tokens": 25120,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25459
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:14:53.498534906Z",
   "translation": "para expulsar ⟨את⟩ todos os teus inimigos de diante de ti, como YHWH ⟨tem⟩ falado",
   "tokens": [
     {
       "surface": "להדף",
-      "english": "para expulsar"
+      "gloss": "para expulsar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todos os teus inimigos"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "איביך",
-      "english": "os teus inimigos"
+      "gloss": "os teus inimigos"
     },
     {
       "surface": "מפניך",
-      "english": "de diante de ti"
+      "gloss": "de diante de ti"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "דבר",
-      "english": "⟨tem⟩ falado"
+      "gloss": "⟨tem⟩ falado"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T13:14:53.498534906Z",
-  "model": "glm-4.5"
+  ]
 }

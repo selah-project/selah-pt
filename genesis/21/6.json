@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 21:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 21,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:00:56.442138956Z",
+  "translation": "E disse Sara: ⟨Está⟩ ⟨O⟩ riso ⟨que⟩ Elohim me fez; todo ⟨o⟩ que ouvir ⟨estará⟩ ⟨risando⟩ por mim",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "⟨O⟩ riso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fez"
+    },
+    {
+      "surface": "לי",
+      "gloss": "por mim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "⟨o⟩ que ouvir"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "⟨estará⟩ ⟨risando⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "por mim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sarah",
@@ -13,64 +60,6 @@
       "hebrew": "שרה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21452,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21904
-  },
-  "translation": "E disse Sara: ⟨Está⟩ ⟨O⟩ riso ⟨que⟩ Elohim me fez; todo ⟨o⟩ que ouvir ⟨estará⟩ ⟨risando⟩ por mim",
-  "tokens": [
-    {
-      "surface": "ותאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "שרה",
-      "english": "Sara"
-    },
-    {
-      "surface": "צחק",
-      "english": "⟨O⟩ riso"
-    },
-    {
-      "surface": "עשה",
-      "english": "fez"
-    },
-    {
-      "surface": "לי",
-      "english": "por mim"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "השמע",
-      "english": "⟨o⟩ que ouvir"
-    },
-    {
-      "surface": "יצחק",
-      "english": "⟨estará⟩ ⟨risando⟩"
-    },
-    {
-      "surface": "לי",
-      "english": "por mim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:00:56.442138956Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

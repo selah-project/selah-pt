@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "numbers 15:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 15,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:26:03.591605071Z",
+  "translation": "E estavam ⟨os⟩ filhos de Yisrael no deserto, e acharam um homem apanhando lenha ⟨no⟩ dia ⟨do⟩ ⟨sábado⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E estavam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "no deserto"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "e acharam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "um homem"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "apanhando"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "lenha"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨no⟩ dia ⟨do⟩"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨sábado⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18240,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18758
-  },
-  "translation": "E estavam ⟨os⟩ filhos de Yisrael no deserto, e acharam um homem apanhando lenha ⟨no⟩ dia ⟨do⟩ ⟨sábado⟩.",
-  "tokens": [
-    {
-      "surface": "ויהיו",
-      "english": "E estavam"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "במדבר",
-      "english": "no deserto"
-    },
-    {
-      "surface": "וימצאו",
-      "english": "e acharam"
-    },
-    {
-      "surface": "איש",
-      "english": "um homem"
-    },
-    {
-      "surface": "מקשש",
-      "english": "apanhando"
-    },
-    {
-      "surface": "עצים",
-      "english": "lenha"
-    },
-    {
-      "surface": "ביום",
-      "english": "⟨no⟩ dia ⟨do⟩"
-    },
-    {
-      "surface": "השבת",
-      "english": "⟨sábado⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:26:03.591605071Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 26:5",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28911,
-    "prompt_tokens_details": {
-      "cached_tokens": 27646
-    },
-    "total_tokens": 29478
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:08:39.402185326Z",
   "translation": "Por ⟨que⟩ Avraham obedeceu ⟨a⟩ minha voz e guardou minha guarda, meus mandamentos, meus estatutos e minhas instruções",
   "tokens": [
     {
       "surface": "עקב",
-      "english": "Por ⟨que⟩"
+      "gloss": "Por ⟨que⟩"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "שמע",
-      "english": "obedeceu"
+      "gloss": "obedeceu"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "בקלי",
-      "english": "⟨a⟩ minha voz"
+      "gloss": "⟨a⟩ minha voz"
     },
     {
       "surface": "וישמר",
-      "english": "e guardou"
+      "gloss": "e guardou"
     },
     {
       "surface": "משמרתי",
-      "english": "minha guarda"
+      "gloss": "minha guarda"
     },
     {
       "surface": "מצותי",
-      "english": "meus mandamentos"
+      "gloss": "meus mandamentos"
     },
     {
       "surface": "חקותי",
-      "english": "meus estatutos"
+      "gloss": "meus estatutos"
     },
     {
       "surface": "ותורתי",
-      "english": "e minhas instruções"
+      "gloss": "e minhas instruções"
     }
-  ],
-  "timestamp": "2026-06-13T05:08:39.402185326Z",
-  "model": "glm-4.5"
+  ]
 }

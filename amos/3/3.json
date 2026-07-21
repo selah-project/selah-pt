@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "amos 3:3",
   "book": "amos",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 415,
-    "prompt_tokens": 23652,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24067
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:01:23.034410764Z",
   "translation": "⟨Will⟩ dois andarem juntos se não ⟨estiverem⟩ ⟨de⟩ ⟨acordo⟩?",
   "tokens": [
     {
       "surface": "הילכו",
-      "english": "⟨Will⟩ ... andarem"
+      "gloss": "⟨Will⟩ ... andarem"
     },
     {
       "surface": "שנים",
-      "english": "dois"
+      "gloss": "dois"
     },
     {
       "surface": "יחדו",
-      "english": "juntos"
+      "gloss": "juntos"
     },
     {
       "surface": "בלתי",
-      "english": "se não"
+      "gloss": "se não"
     },
     {
       "surface": "אם",
-      "english": "⟨estiverem⟩"
+      "gloss": "⟨estiverem⟩"
     },
     {
       "surface": "נועדו",
-      "english": "⟨de⟩ ⟨acordo⟩"
+      "gloss": "⟨de⟩ ⟨acordo⟩"
     }
-  ],
-  "timestamp": "2026-07-16T13:01:23.034410764Z",
-  "model": "glm-4.5"
+  ]
 }

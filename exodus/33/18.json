@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "exodus 33:18",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 315,
-    "prompt_tokens": 24164,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24479
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:01:25.256504735Z",
   "translation": "E ele disse: Mostra-me, rogo-te, ⟨את⟩ tua glória.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ele disse"
+      "gloss": "E ele disse"
     },
     {
       "surface": "הראני",
-      "english": "Mostra-me"
+      "gloss": "Mostra-me"
     },
     {
       "surface": "נא",
-      "english": "rogo-te"
+      "gloss": "rogo-te"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tua glória"
     },
     {
       "surface": "כבדך",
-      "english": "tua glória"
+      "gloss": "tua glória"
     }
-  ],
-  "timestamp": "2026-07-16T14:01:25.256504735Z",
-  "model": "glm-4.5"
+  ]
 }

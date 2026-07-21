@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 28:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 28,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:03:49.826808145Z",
+  "translation": "E a sabedoria, de onde ⟨ela vem⟩? e ⟨onde⟩ ⟨é⟩ ⟨este⟩ lugar de ⟨Biná⟩?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "E a sabedoria"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "⟨ela vem⟩"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "e ⟨onde⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "de ⟨Biná⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "entendimento",
@@ -13,52 +48,6 @@
       "hebrew": "בינה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19965,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20291
-  },
-  "translation": "E a sabedoria, de onde ⟨ela vem⟩? e ⟨onde⟩ ⟨é⟩ ⟨este⟩ lugar de ⟨Biná⟩?",
-  "tokens": [
-    {
-      "surface": "והחכמה",
-      "english": "E a sabedoria"
-    },
-    {
-      "surface": "מאין",
-      "english": "de onde"
-    },
-    {
-      "surface": "תבוא",
-      "english": "⟨ela vem⟩"
-    },
-    {
-      "surface": "ואי",
-      "english": "e ⟨onde⟩"
-    },
-    {
-      "surface": "זה",
-      "english": "⟨este⟩"
-    },
-    {
-      "surface": "מקום",
-      "english": "lugar"
-    },
-    {
-      "surface": "בינה",
-      "english": "de ⟨Biná⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:03:49.826808145Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

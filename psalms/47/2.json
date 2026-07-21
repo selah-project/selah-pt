@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 47:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70276,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70726
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:54:01.576022639Z",
   "translation": "Pois YHWH Altíssimo ⟨é⟩ temível, ⟨um⟩ grande Rei sobre toda ⟨a⟩ terra.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "העמים",
-      "english": "YHWH Altíssimo"
+      "gloss": "YHWH Altíssimo"
     },
     {
       "surface": "תקעו",
-      "english": "⟨é⟩"
+      "gloss": "⟨é⟩"
     },
     {
       "surface": "כף",
-      "english": "temível"
+      "gloss": "temível"
     },
     {
       "surface": "הריעו",
-      "english": "⟨um⟩"
+      "gloss": "⟨um⟩"
     },
     {
       "surface": "לאלהים",
-      "english": "grande Rei"
+      "gloss": "grande Rei"
     },
     {
       "surface": "בקול",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "רנה",
-      "english": "toda ⟨a⟩ terra"
+      "gloss": "toda ⟨a⟩ terra"
     }
-  ],
-  "timestamp": "2026-06-14T04:54:01.576022639Z",
-  "model": "glm-4.5"
+  ]
 }

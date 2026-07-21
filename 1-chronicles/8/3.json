@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-chronicles 8:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 297,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56857,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57154
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:40:57.128379282Z",
   "translation": "E ⟨eram⟩ os filhos ⟨de⟩ Bela: Adar, e Gera, e Avihud.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "E ⟨eram⟩"
+      "gloss": "E ⟨eram⟩"
     },
     {
       "surface": "בנים",
-      "english": "os filhos"
+      "gloss": "os filhos"
     },
     {
       "surface": "לבלע",
-      "english": "⟨de⟩ Bela"
+      "gloss": "⟨de⟩ Bela"
     },
     {
       "surface": "אדר",
-      "english": "Adar"
+      "gloss": "Adar"
     },
     {
       "surface": "וגרא",
-      "english": "e Gera"
+      "gloss": "e Gera"
     },
     {
       "surface": "ואביהוד",
-      "english": "e Avihud"
+      "gloss": "e Avihud"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:40:57.128379282Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

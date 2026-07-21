@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "exodus 6:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 6,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:41:33.001242740Z",
+  "translation": "E aconteceu no dia que YHWH falou a Moshé na terra de Mitsráyim",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "no dia"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshê",
@@ -13,56 +52,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 276,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16853,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17129
-  },
-  "translation": "E aconteceu no dia que YHWH falou a Moshé na terra de Mitsráyim",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "ביום",
-      "english": "no dia"
-    },
-    {
-      "surface": "דבר",
-      "english": "que"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitsráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:41:33.001242740Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

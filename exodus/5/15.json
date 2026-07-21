@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "exodus 5:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 5,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:40:12.640473109Z",
+  "translation": "Then the overseers of ⟨the⟩ sons of Yisrael came and cried ⟨out⟩ to Pharaoh, saying, 'Why do you do ⟨so⟩ to your servants?'",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Then came",
+      "marks": "the overseers"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "overseers"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "and cried"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Why"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "to your servants"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,73 +69,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 498,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17300,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17798
-  },
-  "translation": "Then the overseers of ⟨the⟩ sons of Yisrael came and cried ⟨out⟩ to Pharaoh, saying, 'Why do you do ⟨so⟩ to your servants?'",
-  "tokens": [
-    {
-      "surface": "ויבאו",
-      "english": "Then came",
-      "marks": "the overseers"
-    },
-    {
-      "surface": "שטרי",
-      "english": "overseers"
-    },
-    {
-      "surface": "בני",
-      "english": "sons"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויצעקו",
-      "english": "and cried"
-    },
-    {
-      "surface": "אל",
-      "english": "to"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Pharaoh"
-    },
-    {
-      "surface": "לאמר",
-      "english": "saying"
-    },
-    {
-      "surface": "למה",
-      "english": "Why"
-    },
-    {
-      "surface": "תעשה",
-      "english": "do"
-    },
-    {
-      "surface": "כה",
-      "english": "so"
-    },
-    {
-      "surface": "לעבדיך",
-      "english": "to your servants"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:40:12.640473109Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

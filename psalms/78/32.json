@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "psalms 78:32",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 363,
-    "prompt_tokens": 70251,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70614
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:46.569583316Z",
   "translation": "Em ⟨tudo⟩ isto, pecaram ainda, e não creram nas ⟨suas⟩ maravilhas",
   "tokens": [
     {
       "surface": "בכל",
-      "english": "Em ⟨tudo⟩"
+      "gloss": "Em ⟨tudo⟩"
     },
     {
       "surface": "זאת",
-      "english": "isto"
+      "gloss": "isto"
     },
     {
       "surface": "חטאו",
-      "english": "pecaram"
+      "gloss": "pecaram"
     },
     {
       "surface": "עוד",
-      "english": "ainda"
+      "gloss": "ainda"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "האמינו",
-      "english": "creram"
+      "gloss": "creram"
     },
     {
       "surface": "בנפלאותיו",
-      "english": "nas ⟨suas⟩ maravilhas"
+      "gloss": "nas ⟨suas⟩ maravilhas"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:46.569583316Z",
-  "model": "glm-4.5"
+  ]
 }

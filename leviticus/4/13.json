@@ -1,62 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "leviticus 4:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 3,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 1149,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18475,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 19624
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:39:02.855368105Z",
   "translation": "E se ⟨a⟩ congregação toda de Yisrael errar por ignorância, e ⟨o⟩ ato for escondido dos olhos ⟨da⟩ assembléia, e fizerem uma de todas ⟨as⟩ Mitsvot ⟨de⟩ YHWH ⟨que⟩ não devem ser feitas, e forem culpados",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "E se",
+      "gloss": "E se",
       "notes": null
     },
     {
       "surface": "כל",
-      "english": "toda",
+      "gloss": "toda",
       "notes": null
     },
     {
       "surface": "עדת",
-      "english": "congregação",
+      "gloss": "congregação",
       "notes": null
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael",
+      "gloss": "de Yisrael",
       "notes": null
     },
     {
       "surface": "ישגו",
-      "english": "errar por ignorância",
+      "gloss": "errar por ignorância",
       "notes": null
     },
     {
       "surface": "ונעלם",
-      "english": "e ⟨o⟩ ato for escondido",
+      "gloss": "e ⟨o⟩ ato for escondido",
       "notes": [
         {
           "kind": "addition",
@@ -67,17 +47,17 @@
     },
     {
       "surface": "דבר",
-      "english": "ato",
+      "gloss": "ato",
       "notes": null
     },
     {
       "surface": "מעיני",
-      "english": "dos olhos",
+      "gloss": "dos olhos",
       "notes": null
     },
     {
       "surface": "הקהל",
-      "english": "⟨da⟩ assembléia",
+      "gloss": "⟨da⟩ assembléia",
       "notes": [
         {
           "kind": "addition",
@@ -88,17 +68,17 @@
     },
     {
       "surface": "ועשו",
-      "english": "e fizerem",
+      "gloss": "e fizerem",
       "notes": null
     },
     {
       "surface": "אחת",
-      "english": "uma",
+      "gloss": "uma",
       "notes": null
     },
     {
       "surface": "מכל",
-      "english": "de todas",
+      "gloss": "de todas",
       "notes": [
         {
           "kind": "addition",
@@ -109,7 +89,7 @@
     },
     {
       "surface": "מצות",
-      "english": "Mitsvot",
+      "gloss": "Mitsvot",
       "notes": [
         {
           "kind": "substitution",
@@ -120,7 +100,7 @@
     },
     {
       "surface": "יהוה",
-      "english": "⟨de⟩ YHWH",
+      "gloss": "⟨de⟩ YHWH",
       "notes": [
         {
           "kind": "addition",
@@ -131,7 +111,7 @@
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩",
+      "gloss": "⟨que⟩",
       "notes": [
         {
           "kind": "addition",
@@ -142,12 +122,12 @@
     },
     {
       "surface": "לא",
-      "english": "não",
+      "gloss": "não",
       "notes": null
     },
     {
       "surface": "תעשינה",
-      "english": "devem ser feitas",
+      "gloss": "devem ser feitas",
       "notes": [
         {
           "kind": "addition",
@@ -158,11 +138,20 @@
     },
     {
       "surface": "ואשמו",
-      "english": "e forem culpados",
+      "gloss": "e forem culpados",
       "notes": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:39:02.855368105Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 3,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

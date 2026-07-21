@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 11:24",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 367,
-    "prompt_tokens": 28801,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29168
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:43:09.639321794Z",
   "translation": "E Nachor viveu nove e vinte anos e gerou ⟨את⟩ Terach",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "E ... viveu"
+      "gloss": "E ... viveu"
     },
     {
       "surface": "נחור",
-      "english": "Nachor"
+      "gloss": "Nachor"
     },
     {
       "surface": "תשע",
-      "english": "nove"
+      "gloss": "nove"
     },
     {
       "surface": "ועשרים",
-      "english": "e vinte"
+      "gloss": "e vinte"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "ויולד",
-      "english": "e gerou"
+      "gloss": "e gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Terach"
     },
     {
       "surface": "תרח",
-      "english": "Terach"
+      "gloss": "Terach"
     }
-  ],
-  "timestamp": "2026-07-16T14:43:09.639321794Z",
-  "model": "glm-4.5"
+  ]
 }

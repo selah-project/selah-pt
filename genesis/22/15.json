@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 22:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21329,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 21678
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:01:57.435890042Z",
   "translation": "E o mensageiro de YHWH chamou a Avraham ⟨por⟩ segunda vez ⟨a partir dos⟩ céus",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "E chamou"
+      "gloss": "E chamou"
     },
     {
       "surface": "מלאך",
-      "english": "o mensageiro"
+      "gloss": "o mensageiro"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "שנית",
-      "english": "⟨por⟩ segunda vez"
+      "gloss": "⟨por⟩ segunda vez"
     },
     {
       "surface": "מן",
-      "english": "⟨a partir dos⟩"
+      "gloss": "⟨a partir dos⟩"
     },
     {
       "surface": "השמים",
-      "english": "céus"
+      "gloss": "céus"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:01:57.435890042Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

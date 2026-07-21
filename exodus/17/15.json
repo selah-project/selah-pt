@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "exodus 17:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 17,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:00:14.724127494Z",
+  "translation": "E Moshé construiu ⟨um⟩ altar e chamou o nome ⟨dele⟩: YHWH ⟨é⟩ minha bandeira",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "E Moshe construiu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "⟨um⟩ altar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chamou"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "o nome ⟨dele⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "⟨é⟩ minha bandeira"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshe",
@@ -13,52 +48,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16773,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17145
-  },
-  "translation": "E Moshé construiu ⟨um⟩ altar e chamou o nome ⟨dele⟩: YHWH ⟨é⟩ minha bandeira",
-  "tokens": [
-    {
-      "surface": "ויבן",
-      "english": "E Moshe construiu"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "מזבח",
-      "english": "⟨um⟩ altar"
-    },
-    {
-      "surface": "ויקרא",
-      "english": "e chamou"
-    },
-    {
-      "surface": "שמו",
-      "english": "o nome ⟨dele⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "נסי",
-      "english": "⟨é⟩ minha bandeira"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:00:14.724127494Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

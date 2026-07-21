@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "exodus 16:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 16,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:58:25.097643041Z",
+  "translation": "E YHWH disse a Moshé: Eis que ⟨estou⟩ chovendo para ⟨vocês⟩ pão dos céus, e ⟨o⟩ povo sairá e colherá ⟨o⟩ que ⟨se⟩ basta para cada dia, para que ⟨eu⟩ ⟨o⟩ prove ⟨se andará⟩ na minha Torá ou não.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "disse a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "⟨estou⟩ chovendo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para ⟨vocês⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pão"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dos céus"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨o⟩ povo"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "sairá e colherá"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨o⟩ que"
+    },
+    {
+      "surface": "יום",
+      "gloss": "para cada dia"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "⟨se⟩ basta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "para que"
+    },
+    {
+      "surface": "אנסנו",
+      "gloss": "⟨eu⟩ ⟨o⟩ prove"
+    },
+    {
+      "surface": "הילך",
+      "gloss": "⟨se andará⟩"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "na minha Torá"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,112 +108,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 856,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18225,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 19081
-  },
-  "translation": "E YHWH disse a Moshé: Eis que ⟨estou⟩ chovendo para ⟨vocês⟩ pão dos céus, e ⟨o⟩ povo sairá e colherá ⟨o⟩ que ⟨se⟩ basta para cada dia, para que ⟨eu⟩ ⟨o⟩ prove ⟨se andará⟩ na minha Torá ou não.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "disse a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "הנני",
-      "english": "Eis que"
-    },
-    {
-      "surface": "ממטיר",
-      "english": "⟨estou⟩ chovendo"
-    },
-    {
-      "surface": "לכם",
-      "english": "para ⟨vocês⟩"
-    },
-    {
-      "surface": "לחם",
-      "english": "pão"
-    },
-    {
-      "surface": "מן",
-      "english": "de"
-    },
-    {
-      "surface": "השמים",
-      "english": "dos céus"
-    },
-    {
-      "surface": "ויצא",
-      "english": "e"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨o⟩ povo"
-    },
-    {
-      "surface": "ולקטו",
-      "english": "sairá e colherá"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨o⟩ que"
-    },
-    {
-      "surface": "יום",
-      "english": "para cada dia"
-    },
-    {
-      "surface": "ביומו",
-      "english": "⟨se⟩ basta"
-    },
-    {
-      "surface": "למען",
-      "english": "para que"
-    },
-    {
-      "surface": "אנסנו",
-      "english": "⟨eu⟩ ⟨o⟩ prove"
-    },
-    {
-      "surface": "הילך",
-      "english": "⟨se andará⟩"
-    },
-    {
-      "surface": "בתורתי",
-      "english": "na minha Torá"
-    },
-    {
-      "surface": "אם",
-      "english": "ou"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:58:25.097643041Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

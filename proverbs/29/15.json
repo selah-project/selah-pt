@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 29:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
+  "chapter": 29,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:43:34.996618685Z",
+  "translation": "A vara ⟨e⟩ a repreensão dão Jojmá; mas ⟨o⟩ jovem entregue ⟨a⟩ si mesmo envergonha ⟨sua⟩ mãe.",
+  "tokens": [
+    {
+      "surface": "שבט",
+      "gloss": "Vara"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "⟨e⟩ a repreensão"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dão"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "mas ⟨o⟩ jovem"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "entregue ⟨a⟩ si mesmo"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "envergonha"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "⟨sua⟩ mãe"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -13,56 +52,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52931,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53284
-  },
-  "translation": "A vara ⟨e⟩ a repreensão dão Jojmá; mas ⟨o⟩ jovem entregue ⟨a⟩ si mesmo envergonha ⟨sua⟩ mãe.",
-  "tokens": [
-    {
-      "surface": "שבט",
-      "english": "Vara"
-    },
-    {
-      "surface": "ותוכחת",
-      "english": "⟨e⟩ a repreensão"
-    },
-    {
-      "surface": "יתן",
-      "english": "dão"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "ונער",
-      "english": "mas ⟨o⟩ jovem"
-    },
-    {
-      "surface": "משלח",
-      "english": "entregue ⟨a⟩ si mesmo"
-    },
-    {
-      "surface": "מביש",
-      "english": "envergonha"
-    },
-    {
-      "surface": "אמו",
-      "english": "⟨sua⟩ mãe"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:43:34.996618685Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

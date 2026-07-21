@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 122:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70345,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70709
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:41:19.410757263Z",
   "translation": "Um cântico das subidas, para David. Regozijou-me ⟨quando⟩ disseram a mim: Vamos ⟨à⟩ casa de YHWH!",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Um cântico"
+      "gloss": "Um cântico"
     },
     {
       "surface": "המעלות",
-      "english": "das subidas"
+      "gloss": "das subidas"
     },
     {
       "surface": "לדוד",
-      "english": "para David"
+      "gloss": "para David"
     },
     {
       "surface": "שמחתי",
-      "english": "Regozijou-me"
+      "gloss": "Regozijou-me"
     },
     {
       "surface": "באמרים",
-      "english": "⟨quando⟩ disseram"
+      "gloss": "⟨quando⟩ disseram"
     },
     {
       "surface": "לי",
-      "english": "a mim"
+      "gloss": "a mim"
     },
     {
       "surface": "בית",
-      "english": "casa"
+      "gloss": "casa"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "נלך",
-      "english": "Vamos"
+      "gloss": "Vamos"
     }
-  ],
-  "timestamp": "2026-06-13T06:41:19.410757263Z",
-  "model": "glm-4.5"
+  ]
 }

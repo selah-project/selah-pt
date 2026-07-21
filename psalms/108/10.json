@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 108:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70465,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70824
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:54:24.739418958Z",
   "translation": "Moab ⟨is⟩ my washpot; over Edom I will cast out my sandal-tongue; over Philistia I will shout triumphantly.",
   "tokens": [
     {
       "surface": "מואב",
-      "english": "Moab"
+      "gloss": "Moab"
     },
     {
       "surface": "סיר",
-      "english": "washpot"
+      "gloss": "washpot"
     },
     {
       "surface": "רחצי",
-      "english": "⟨is⟩"
+      "gloss": "⟨is⟩"
     },
     {
       "surface": "על",
-      "english": "over"
+      "gloss": "over"
     },
     {
       "surface": "אדום",
-      "english": "Edom"
+      "gloss": "Edom"
     },
     {
       "surface": "אשליך",
-      "english": "I will cast out"
+      "gloss": "I will cast out"
     },
     {
       "surface": "נעלי",
-      "english": "my sandal-tongue"
+      "gloss": "my sandal-tongue"
     },
     {
       "surface": "עלי",
-      "english": "over"
+      "gloss": "over"
     },
     {
       "surface": "פלשת",
-      "english": "Philistia"
+      "gloss": "Philistia"
     },
     {
       "surface": "אתרועע",
-      "english": "I will shout triumphantly"
+      "gloss": "I will shout triumphantly"
     }
-  ],
-  "timestamp": "2026-06-14T04:54:24.739418958Z",
-  "model": "glm-4.5"
+  ]
 }

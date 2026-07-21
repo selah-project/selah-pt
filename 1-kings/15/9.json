@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-kings 15:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 15,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:33:28.446760231Z",
+  "translation": "E no vigésimo ano ⟨de⟩ Yarobam, rei ⟨de⟩ Yisrael, reinou ⟨o⟩ Asa, rei ⟨de⟩ Yehudá",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "E no"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vigésimo"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "⟨de⟩ Yarobam",
+      "marks": "Yarobam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael",
+      "marks": "Israel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinou"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "⟨o⟩ Asa",
+      "marks": "Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "⟨de⟩ Yehudá",
+      "marks": "Judá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,64 +67,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62454,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62763
-  },
-  "translation": "E no vigésimo ano ⟨de⟩ Yarobam, rei ⟨de⟩ Yisrael, reinou ⟨o⟩ Asa, rei ⟨de⟩ Yehudá",
-  "tokens": [
-    {
-      "surface": "ובשנת",
-      "english": "E no"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vigésimo"
-    },
-    {
-      "surface": "לירבעם",
-      "english": "⟨de⟩ Yarobam",
-      "marks": "Yarobam"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael",
-      "marks": "Israel"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinou"
-    },
-    {
-      "surface": "אסא",
-      "english": "⟨o⟩ Asa",
-      "marks": "Asa"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "⟨de⟩ Yehudá",
-      "marks": "Judá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:33:28.446760231Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

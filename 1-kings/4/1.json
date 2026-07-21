@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-kings 4:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 4,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:14:49.112807464Z",
+  "translation": "E o rei Shlomó ⟨foi⟩ rei sobre todo o Yisrael",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,52 +48,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 208,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62128,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62336
-  },
-  "translation": "E o rei Shlomó ⟨foi⟩ rei sobre todo o Yisrael",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "o Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:14:49.112807464Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

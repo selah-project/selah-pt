@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "leviticus 26:7",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 389,
-    "prompt_tokens": 24830,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25219
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:52:07.734407967Z",
   "translation": "E vós perseguireis ⟨את⟩ vossos inimigos, e eles cairão diante de vós ⟨pela⟩ espada",
   "tokens": [
     {
       "surface": "ורדפתם",
-      "english": "E vós perseguireis"
+      "gloss": "E vós perseguireis"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vossos inimigos"
     },
     {
       "surface": "איביכם",
-      "english": "vossos inimigos"
+      "gloss": "vossos inimigos"
     },
     {
       "surface": "ונפלו",
-      "english": "e eles cairão"
+      "gloss": "e eles cairão"
     },
     {
       "surface": "לפניכם",
-      "english": "diante de vós"
+      "gloss": "diante de vós"
     },
     {
       "surface": "לחרב",
-      "english": "⟨pela⟩ espada"
+      "gloss": "⟨pela⟩ espada"
     }
-  ],
-  "timestamp": "2026-07-16T16:52:07.734407967Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "2-chronicles 35:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 35,
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:51:17.310672034Z",
+  "translation": "e ⟨o⟩ atos de ⟨o⟩ primeiro e ⟨o⟩ último, ⟨eis que⟩ ⟨são⟩ escritos ⟨no⟩ livro ⟨dos⟩ reis de Yisrael e Judá.",
+  "tokens": [
+    {
+      "surface": "ודבריו",
+      "gloss": "E ⟨o⟩ atos de"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "⟨o⟩ primeiro"
+    },
+    {
+      "surface": "והאחרנים",
+      "gloss": "e ⟨o⟩ último"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "⟨eis que⟩ ⟨são⟩"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "livro"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "⟨dos⟩ reis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Judá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 606,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58233,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58839
-  },
-  "translation": "e ⟨o⟩ atos de ⟨o⟩ primeiro e ⟨o⟩ último, ⟨eis que⟩ ⟨são⟩ escritos ⟨no⟩ livro ⟨dos⟩ reis de Yisrael e Judá.",
-  "tokens": [
-    {
-      "surface": "ודבריו",
-      "english": "E ⟨o⟩ atos de"
-    },
-    {
-      "surface": "הראשנים",
-      "english": "⟨o⟩ primeiro"
-    },
-    {
-      "surface": "והאחרנים",
-      "english": "e ⟨o⟩ último"
-    },
-    {
-      "surface": "הנם",
-      "english": "⟨eis que⟩ ⟨são⟩"
-    },
-    {
-      "surface": "כתובים",
-      "english": "escritos"
-    },
-    {
-      "surface": "על",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "ספר",
-      "english": "livro"
-    },
-    {
-      "surface": "מלכי",
-      "english": "⟨dos⟩ reis"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "e Judá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:51:17.310672034Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

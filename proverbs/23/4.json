@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "proverbs 23:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52670,
-    "prompt_tokens_details": {
-      "cached_tokens": 51891
-    },
-    "total_tokens": 53098
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:37:39.643480954Z",
   "translation": "Não te fatigue ⟨para⟩ ⟨את⟩ enriquecer; cessa ⟨de⟩ tua compreensão",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תיגע",
-      "english": "te fatigue"
+      "gloss": "te fatigue"
     },
     {
       "surface": "להעשיר",
-      "english": "⟨para⟩",
+      "gloss": "⟨para⟩",
       "marks": "enriquecer"
     },
     {
       "surface": "מבינתך",
-      "english": "⟨de⟩ tua compreensão"
+      "gloss": "⟨de⟩ tua compreensão"
     },
     {
       "surface": "חדל",
-      "english": "cessa"
+      "gloss": "cessa"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:37:39.643480954Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

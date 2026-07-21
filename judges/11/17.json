@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "judges 11:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 11,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:02:25.424567090Z",
+  "translation": "E Yisrael enviou mensageiros ao rei de Edom, dizendo: Deixe-me passar ⟨por⟩ ⟨a⟩ tua terra, por favor; mas o rei de Edom não escutou. E também enviou ao rei de Moav, e ele não consentiu; e Yisrael permaneceu em Qadesh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E enviou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mensageiros"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "de Edom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "Deixe-me passar"
+    },
+    {
+      "surface": "נא",
+      "gloss": "por favor"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "⟨por⟩ ⟨a⟩ tua terra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "escutou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "de Edom"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "E também"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "enviou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "consentiu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e permaneceu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "em Qadesh"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -27,120 +130,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 672,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17748,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 18420
-  },
-  "translation": "E Yisrael enviou mensageiros ao rei de Edom, dizendo: Deixe-me passar ⟨por⟩ ⟨a⟩ tua terra, por favor; mas o rei de Edom não escutou. E também enviou ao rei de Moav, e ele não consentiu; e Yisrael permaneceu em Qadesh.",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "E enviou"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מלאכים",
-      "english": "mensageiros"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "אדום",
-      "english": "de Edom"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "אעברה",
-      "english": "Deixe-me passar"
-    },
-    {
-      "surface": "נא",
-      "english": "por favor"
-    },
-    {
-      "surface": "בארצך",
-      "english": "⟨por⟩ ⟨a⟩ tua terra"
-    },
-    {
-      "surface": "ולא",
-      "english": "mas"
-    },
-    {
-      "surface": "שמע",
-      "english": "escutou"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "אדום",
-      "english": "de Edom"
-    },
-    {
-      "surface": "וגם",
-      "english": "E também"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "שלח",
-      "english": "enviou"
-    },
-    {
-      "surface": "ולא",
-      "english": "e"
-    },
-    {
-      "surface": "אבה",
-      "english": "consentiu"
-    },
-    {
-      "surface": "וישב",
-      "english": "e permaneceu"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בקדש",
-      "english": "em Qadesh"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:02:25.424567090Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

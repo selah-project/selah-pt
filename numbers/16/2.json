@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "numbers 16:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 16,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:27:11.436719037Z",
+  "translation": "E eles se levantaram diante de Moshé, e ⟨os⟩ homens dos filhos de Yisrael, duzentos e cinquenta, príncipes da congregação, chamados ⟨da⟩ assembleia, homens de renome:",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "E eles se levantaram"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante de"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "e ⟨os⟩ homens"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquenta"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e duzentos"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "príncipes"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "da congregação"
+    },
+    {
+      "surface": "קראי",
+      "gloss": "chamados"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "⟨da⟩ assembleia"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "homens"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de renome"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -20,80 +83,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 585,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18687,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19272
-  },
-  "translation": "E eles se levantaram diante de Moshé, e ⟨os⟩ homens dos filhos de Yisrael, duzentos e cinquenta, príncipes da congregação, chamados ⟨da⟩ assembleia, homens de renome:",
-  "tokens": [
-    {
-      "surface": "ויקמו",
-      "english": "E eles se levantaram"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante de"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ואנשים",
-      "english": "e ⟨os⟩ homens"
-    },
-    {
-      "surface": "מבני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "חמשים",
-      "english": "cinquenta"
-    },
-    {
-      "surface": "ומאתים",
-      "english": "e duzentos"
-    },
-    {
-      "surface": "נשיאי",
-      "english": "príncipes"
-    },
-    {
-      "surface": "עדה",
-      "english": "da congregação"
-    },
-    {
-      "surface": "קראי",
-      "english": "chamados"
-    },
-    {
-      "surface": "מועד",
-      "english": "⟨da⟩ assembleia"
-    },
-    {
-      "surface": "אנשי",
-      "english": "homens"
-    },
-    {
-      "surface": "שם",
-      "english": "de renome"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:27:11.436719037Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 103:15",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 292,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70237,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70529
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:56:12.229000209Z",
   "translation": "O mortal, ⟨seus⟩ dias ⟨são⟩ como a relva; como a flor ⟨do⟩ campo, assim ele floresce.",
   "tokens": [
     {
       "surface": "אנוש",
-      "english": "O mortal"
+      "gloss": "O mortal"
     },
     {
       "surface": "כחציר",
-      "english": "como a relva"
+      "gloss": "como a relva"
     },
     {
       "surface": "ימיו",
-      "english": "⟨seus⟩ dias"
+      "gloss": "⟨seus⟩ dias"
     },
     {
       "surface": "כציץ",
-      "english": "como a flor"
+      "gloss": "como a flor"
     },
     {
       "surface": "השדה",
-      "english": "⟨do⟩ campo"
+      "gloss": "⟨do⟩ campo"
     },
     {
       "surface": "כן",
-      "english": "assim"
+      "gloss": "assim"
     },
     {
       "surface": "יציץ",
-      "english": "ele floresce"
+      "gloss": "ele floresce"
     }
-  ],
-  "timestamp": "2026-06-13T02:56:12.229000209Z",
-  "model": "glm-4.5"
+  ]
 }

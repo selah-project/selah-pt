@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 10:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 633,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52737,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53370
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:25:58.402699666Z",
   "translation": "⟨O⟩ trabalho do justo ⟨é⟩ para ⟨as⟩ vidas; ⟨o⟩ fruto do perverso ⟨é⟩ para ⟨o⟩ pecado.",
   "tokens": [
     {
       "surface": "פעלת",
-      "english": "Trabalho"
+      "gloss": "Trabalho"
     },
     {
       "surface": "צדיק",
-      "english": "justo"
+      "gloss": "justo"
     },
     {
       "surface": "לחיים",
-      "english": "para as vidas"
+      "gloss": "para as vidas"
     },
     {
       "surface": "תבואת",
-      "english": "fruto"
+      "gloss": "fruto"
     },
     {
       "surface": "רשע",
-      "english": "perverso"
+      "gloss": "perverso"
     },
     {
       "surface": "לחטאת",
-      "english": "para o pecado"
+      "gloss": "para o pecado"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:25:58.402699666Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

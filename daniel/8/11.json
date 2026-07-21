@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "daniel 8:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 8,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:56:50.169090544Z",
+  "translation": "E ⟨ele⟩ se engrandeceu ⟨até⟩ ⟨ao⟩ príncipe ⟨do⟩ exército e ⟨por⟩ ele ⟨foi⟩ tirado ⟨o⟩ contínuo ⟨sacrifício⟩ e ⟨o⟩ lugar ⟨do⟩ seu Mikdash ⟨foi⟩ lançado por terra",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "E ⟨ele⟩ se engrandeceu ⟨até⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "⟨ao⟩ príncipe"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "⟨do⟩ exército"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "e ⟨por⟩ ele ⟨foi⟩ tirado"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "⟨o⟩ contínuo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "⟨sacrifício⟩"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "e ⟨o⟩ lugar"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "⟨do⟩ seu santuário ⟨foi⟩ lançado"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "por terra"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "⟨do⟩ seu Mikdash"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "santuário",
@@ -13,64 +60,6 @@
       "hebrew": "מקדש"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17431,
-    "prompt_tokens_details": {
-      "cached_tokens": 16109
-    },
-    "total_tokens": 18004
-  },
-  "translation": "E ⟨ele⟩ se engrandeceu ⟨até⟩ ⟨ao⟩ príncipe ⟨do⟩ exército e ⟨por⟩ ele ⟨foi⟩ tirado ⟨o⟩ contínuo ⟨sacrifício⟩ e ⟨o⟩ lugar ⟨do⟩ seu Mikdash ⟨foi⟩ lançado por terra",
-  "tokens": [
-    {
-      "surface": "ועד",
-      "english": "E ⟨ele⟩ se engrandeceu ⟨até⟩"
-    },
-    {
-      "surface": "שר",
-      "english": "⟨ao⟩ príncipe"
-    },
-    {
-      "surface": "הצבא",
-      "english": "⟨do⟩ exército"
-    },
-    {
-      "surface": "הגדיל",
-      "english": "e ⟨por⟩ ele ⟨foi⟩ tirado"
-    },
-    {
-      "surface": "וממנו",
-      "english": "⟨o⟩ contínuo"
-    },
-    {
-      "surface": "הרים",
-      "english": "⟨sacrifício⟩"
-    },
-    {
-      "surface": "התמיד",
-      "english": "e ⟨o⟩ lugar"
-    },
-    {
-      "surface": "והשלך",
-      "english": "⟨do⟩ seu santuário ⟨foi⟩ lançado"
-    },
-    {
-      "surface": "מכון",
-      "english": "por terra"
-    },
-    {
-      "surface": "מקדשו",
-      "english": "⟨do⟩ seu Mikdash"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:56:50.169090544Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

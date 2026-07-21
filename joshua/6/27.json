@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "joshua 6:27",
   "book": "joshua",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 394,
-    "prompt_tokens": 23783,
-    "prompt_tokens_details": {
-      "cached_tokens": 22656
-    },
-    "total_tokens": 24177
-  },
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:08:40.999872727Z",
   "translation": "E YHWH estava com Yehoshua, e o seu relato ⟨estava⟩ em toda ⟨a⟩ terra",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E"
+      "gloss": "E"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yehoshua"
     },
     {
       "surface": "יהושע",
-      "english": "Yehoshua"
+      "gloss": "Yehoshua"
     },
     {
       "surface": "ויהי",
-      "english": ", e"
+      "gloss": ", e"
     },
     {
       "surface": "שמעו",
-      "english": "o seu relato"
+      "gloss": "o seu relato"
     },
     {
       "surface": "בכל",
-      "english": "em toda"
+      "gloss": "em toda"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     }
-  ],
-  "timestamp": "2026-07-16T16:08:40.999872727Z",
-  "model": "glm-4.5"
+  ]
 }

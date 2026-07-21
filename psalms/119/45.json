@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "psalms 119:45",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 377,
-    "prompt_tokens": 70119,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70496
-  },
+  "verse": 45,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:51.758385834Z",
   "translation": "E eu andarei em ⟨um⟩ lugar largo, pois teus mandamentos busquei",
   "tokens": [
     {
       "surface": "ואתהלכה",
-      "english": "E eu andarei"
+      "gloss": "E eu andarei"
     },
     {
       "surface": "ברחבה",
-      "english": "em ⟨um⟩ lugar largo"
+      "gloss": "em ⟨um⟩ lugar largo"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "פקדיך",
-      "english": "teus mandamentos"
+      "gloss": "teus mandamentos"
     },
     {
       "surface": "דרשתי",
-      "english": "busquei"
+      "gloss": "busquei"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:51.758385834Z",
-  "model": "glm-4.5"
+  ]
 }

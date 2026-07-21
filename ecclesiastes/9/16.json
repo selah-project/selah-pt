@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "ecclesiastes 9:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
+  "chapter": 9,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:34:35.657483048Z",
+  "translation": "Então disse eu: Jojmá ⟨é⟩ boa, ⟨mais⟩ que ⟨a⟩ fortaleza; e ⟨a⟩ Jojmá ⟨do⟩ pobre ⟨é⟩ desprezada, e suas palavras não são ouvidas.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "Então disse eu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "boa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "⟨mais⟩ que ⟨a⟩ fortaleza"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "e ⟨a⟩ sabedoria"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "⟨do⟩ pobre"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "⟨é⟩ desprezada"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "e suas palavras"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "não são"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "ouvidas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -13,68 +64,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17752,
-    "prompt_tokens_details": {
-      "cached_tokens": 16385
-    },
-    "total_tokens": 18216
-  },
-  "translation": "Então disse eu: Jojmá ⟨é⟩ boa, ⟨mais⟩ que ⟨a⟩ fortaleza; e ⟨a⟩ Jojmá ⟨do⟩ pobre ⟨é⟩ desprezada, e suas palavras não são ouvidas.",
-  "tokens": [
-    {
-      "surface": "ואמרתי",
-      "english": "Então disse eu"
-    },
-    {
-      "surface": "אני",
-      "english": "eu"
-    },
-    {
-      "surface": "טובה",
-      "english": "boa"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "מגבורה",
-      "english": "⟨mais⟩ que ⟨a⟩ fortaleza"
-    },
-    {
-      "surface": "וחכמת",
-      "english": "e ⟨a⟩ sabedoria"
-    },
-    {
-      "surface": "המסכן",
-      "english": "⟨do⟩ pobre"
-    },
-    {
-      "surface": "בזויה",
-      "english": "⟨é⟩ desprezada"
-    },
-    {
-      "surface": "ודבריו",
-      "english": "e suas palavras"
-    },
-    {
-      "surface": "אינם",
-      "english": "não são"
-    },
-    {
-      "surface": "נשמעים",
-      "english": "ouvidas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:34:35.657483048Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

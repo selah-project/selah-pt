@@ -1,9 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 103:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 103,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:47:07.833858386Z",
+  "translation": "para ⟨os⟩ que guardam ⟨seu⟩ Brit e ⟨para os⟩ que se lembram ⟨dos⟩ seus mandamentos para fazê-los",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "Para ⟨os⟩ que guardam"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "⟨seu⟩ Brit",
+      "marks": "pacto"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "e ⟨para os⟩ que se lembram"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "⟨dos⟩ seus mandamentos",
+      "marks": "mandamentos"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "para fazê-los"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,46 +42,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 103,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62752,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63275
-  },
-  "translation": "para ⟨os⟩ que guardam ⟨seu⟩ Brit e ⟨para os⟩ que se lembram ⟨dos⟩ seus mandamentos para fazê-los",
-  "tokens": [
-    {
-      "surface": "לשמרי",
-      "english": "Para ⟨os⟩ que guardam"
-    },
-    {
-      "surface": "בריתו",
-      "english": "⟨seu⟩ Brit",
-      "marks": "pacto"
-    },
-    {
-      "surface": "ולזכרי",
-      "english": "e ⟨para os⟩ que se lembram"
-    },
-    {
-      "surface": "פקדיו",
-      "english": "⟨dos⟩ seus mandamentos",
-      "marks": "mandamentos"
-    },
-    {
-      "surface": "לעשותם",
-      "english": "para fazê-los"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:47:07.833858386Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

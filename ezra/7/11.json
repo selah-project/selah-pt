@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "ezra 7:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 7,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:09:37.271431002Z",
+  "translation": "E este ⟨é⟩ ⟨o⟩ texto da carta que o rei Artaxerxes deu a Esdras, o sacerdote, ⟨o⟩ escriba, escriba das palavras ⟨את⟩ dos Mitzvás de YHWH e seus estatutos sobre Yisrael:",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "E este"
+    },
+    {
+      "surface": "פרשגן",
+      "gloss": "⟨é⟩ ⟨o⟩ texto"
+    },
+    {
+      "surface": "הנשתון",
+      "gloss": "da carta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artaxerxes"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "a Esdras"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "o sacerdote"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "⟨o⟩ escriba"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "escriba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "das palavras"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "dos Mitzvás"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "e seus estatutos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamento",
@@ -20,92 +95,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45922,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 46447
-  },
-  "translation": "E este ⟨é⟩ ⟨o⟩ texto da carta que o rei Artaxerxes deu a Esdras, o sacerdote, ⟨o⟩ escriba, escriba das palavras ⟨את⟩ dos Mitzvás de YHWH e seus estatutos sobre Yisrael:",
-  "tokens": [
-    {
-      "surface": "וזה",
-      "english": "E este"
-    },
-    {
-      "surface": "פרשגן",
-      "english": "⟨é⟩ ⟨o⟩ texto"
-    },
-    {
-      "surface": "הנשתון",
-      "english": "da carta"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "נתן",
-      "english": "deu"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "ארתחשסתא",
-      "english": "Artaxerxes"
-    },
-    {
-      "surface": "לעזרא",
-      "english": "a Esdras"
-    },
-    {
-      "surface": "הכהן",
-      "english": "o sacerdote"
-    },
-    {
-      "surface": "הספר",
-      "english": "⟨o⟩ escriba"
-    },
-    {
-      "surface": "ספר",
-      "english": "escriba"
-    },
-    {
-      "surface": "דברי",
-      "english": "das palavras"
-    },
-    {
-      "surface": "מצות",
-      "english": "dos Mitzvás"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "וחקיו",
-      "english": "e seus estatutos"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:09:37.271431002Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

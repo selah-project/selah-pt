@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 102:6",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 367,
-    "prompt_tokens": 70129,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70496
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:53.578221498Z",
   "translation": "Por causa da voz do meu suspiro, os meus ossos aderem à minha carne.",
   "tokens": [
     {
       "surface": "מקול",
-      "english": "Por causa da voz"
+      "gloss": "Por causa da voz"
     },
     {
       "surface": "אנחתי",
-      "english": "do meu suspiro"
+      "gloss": "do meu suspiro"
     },
     {
       "surface": "דבקה",
-      "english": "aderem"
+      "gloss": "aderem"
     },
     {
       "surface": "עצמי",
-      "english": "os meus ossos"
+      "gloss": "os meus ossos"
     },
     {
       "surface": "לבשרי",
-      "english": "à minha carne"
+      "gloss": "à minha carne"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:53.578221498Z",
-  "model": "glm-4.5"
+  ]
 }

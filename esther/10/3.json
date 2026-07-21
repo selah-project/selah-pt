@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "esther 10:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
+  "chapter": 10,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:45:27.737794105Z",
+  "translation": "Pois Mordecai ⟨o⟩ judeu ⟨era⟩ segundo ⟨ao⟩ rei Ahashverosh, e ⟨era⟩ grande para ⟨os⟩ judeus, e aceito ⟨por⟩ ⟨o⟩ número de seus irmãos, buscando ⟨o⟩ bem para ⟨seu⟩ povo, e falando ⟨a⟩ Shalom para ⟨a⟩ totalidade de ⟨sua⟩ descendência",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "⟨o⟩ judeu"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "segundo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨ao⟩ rei"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "e ⟨era⟩ grande"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "para ⟨os⟩ judeus"
+    },
+    {
+      "surface": "ורצוי",
+      "gloss": "e aceito"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "⟨por⟩ ⟨o⟩ número"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "de seus irmãos"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "buscando"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨o⟩ bem"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "para ⟨seu⟩ povo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e falando"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨a⟩ Shalom"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para ⟨a⟩ totalidade"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "de ⟨sua⟩ descendência"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,96 +92,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 1013,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18666,
-    "prompt_tokens_details": {
-      "cached_tokens": 16627
-    },
-    "total_tokens": 19679
-  },
-  "translation": "Pois Mordecai ⟨o⟩ judeu ⟨era⟩ segundo ⟨ao⟩ rei Ahashverosh, e ⟨era⟩ grande para ⟨os⟩ judeus, e aceito ⟨por⟩ ⟨o⟩ número de seus irmãos, buscando ⟨o⟩ bem para ⟨seu⟩ povo, e falando ⟨a⟩ Shalom para ⟨a⟩ totalidade de ⟨sua⟩ descendência",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "מרדכי",
-      "english": "Mordecai"
-    },
-    {
-      "surface": "היהודי",
-      "english": "⟨o⟩ judeu"
-    },
-    {
-      "surface": "משנה",
-      "english": "segundo"
-    },
-    {
-      "surface": "למלך",
-      "english": "⟨ao⟩ rei"
-    },
-    {
-      "surface": "אחשורוש",
-      "english": "Ahashverosh"
-    },
-    {
-      "surface": "וגדול",
-      "english": "e ⟨era⟩ grande"
-    },
-    {
-      "surface": "ליהודים",
-      "english": "para ⟨os⟩ judeus"
-    },
-    {
-      "surface": "ורצוי",
-      "english": "e aceito"
-    },
-    {
-      "surface": "לרב",
-      "english": "⟨por⟩ ⟨o⟩ número"
-    },
-    {
-      "surface": "אחיו",
-      "english": "de seus irmãos"
-    },
-    {
-      "surface": "דרש",
-      "english": "buscando"
-    },
-    {
-      "surface": "טוב",
-      "english": "⟨o⟩ bem"
-    },
-    {
-      "surface": "לעמו",
-      "english": "para ⟨seu⟩ povo"
-    },
-    {
-      "surface": "ודבר",
-      "english": "e falando"
-    },
-    {
-      "surface": "שלום",
-      "english": "⟨a⟩ Shalom"
-    },
-    {
-      "surface": "לכל",
-      "english": "para ⟨a⟩ totalidade"
-    },
-    {
-      "surface": "זרעו",
-      "english": "de ⟨sua⟩ descendência"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:45:27.737794105Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

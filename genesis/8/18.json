@@ -1,9 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 8:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 8,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:49:14.235438138Z",
+  "translation": "E saiu Noaj e seus filhos e sua mulher e as mulheres de seus filhos ⟨com⟩ ele",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E saiu"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e seus filhos"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e sua mulher"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "e as mulheres"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "de seus filhos"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨com⟩ ele",
+      "marks": "Noé e seus familiares"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noé",
@@ -13,53 +49,6 @@
       "hebrew": "נח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 236,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21283,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21519
-  },
-  "translation": "E saiu Noaj e seus filhos e sua mulher e as mulheres de seus filhos ⟨com⟩ ele",
-  "tokens": [
-    {
-      "surface": "ויצא",
-      "english": "E saiu"
-    },
-    {
-      "surface": "נח",
-      "english": "Noaj"
-    },
-    {
-      "surface": "ובניו",
-      "english": "e seus filhos"
-    },
-    {
-      "surface": "ואשתו",
-      "english": "e sua mulher"
-    },
-    {
-      "surface": "ונשי",
-      "english": "e as mulheres"
-    },
-    {
-      "surface": "בניו",
-      "english": "de seus filhos"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨com⟩ ele",
-      "marks": "Noé e seus familiares"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:49:14.235438138Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

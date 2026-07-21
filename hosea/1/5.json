@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "hosea 1:5",
   "book": "hosea",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 480,
-    "prompt_tokens": 27194,
-    "prompt_tokens_details": {
-      "cached_tokens": 25856
-    },
-    "total_tokens": 27674
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:06:41.699132547Z",
   "translation": "E acontecerá naquele dia que quebrarei ⟨את⟩ o arco de Yisrael no vale de Yizreel.",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "E acontecerá"
+      "gloss": "E acontecerá"
     },
     {
       "surface": "ביום",
-      "english": "naquele dia"
+      "gloss": "naquele dia"
     },
     {
       "surface": "ההוא",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "ושברתי",
-      "english": "quebrarei"
+      "gloss": "quebrarei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o arco de Yisrael"
     },
     {
       "surface": "קשת",
-      "english": "o arco"
+      "gloss": "o arco"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "בעמק",
-      "english": "no vale de"
+      "gloss": "no vale de"
     },
     {
       "surface": "יזרעאל",
-      "english": "Yizreel"
+      "gloss": "Yizreel"
     }
-  ],
-  "timestamp": "2026-07-16T15:06:41.699132547Z",
-  "model": "glm-4.5"
+  ]
 }

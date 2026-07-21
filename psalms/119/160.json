@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 160,
   "ref": "psalms 119:160",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 602,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62917,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63519
-  },
+  "verse": 160,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:02:19.404018025Z",
   "translation": "O princípio de ⟨o⟩ teu davar é emet, e para ⟨o⟩ olam todo ⟨o⟩ mishpat da tua tsedeká",
   "tokens": [
     {
       "surface": "ראש",
-      "english": "O princípio de"
+      "gloss": "O princípio de"
     },
     {
       "surface": "דברך",
-      "english": "⟨o⟩ teu davar",
+      "gloss": "⟨o⟩ teu davar",
       "marks": "teu davar"
     },
     {
       "surface": "אמת",
-      "english": "emet"
+      "gloss": "emet"
     },
     {
       "surface": "ולעולם",
-      "english": "e para ⟨o⟩ olam",
+      "gloss": "e para ⟨o⟩ olam",
       "marks": "olam"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "משפט",
-      "english": "⟨o⟩ mishpat",
+      "gloss": "⟨o⟩ mishpat",
       "marks": "mishpat"
     },
     {
       "surface": "צדקך",
-      "english": "da tua tsedeká"
+      "gloss": "da tua tsedeká"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:02:19.404018025Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

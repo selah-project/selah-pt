@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "jeremiah 3:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 3,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:06:29.307228126Z",
+  "translation": "Certamente ⟨a⟩ falsidade ⟨vem⟩ dos outeiros, ⟨o⟩ tumulto dos montes; certamente em YHWH nosso Elohim ⟨está⟩ ⟨a⟩ salvação de Yisrael.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Certamente"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "⟨a⟩ falsidade"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "⟨vem⟩ dos outeiros"
+    },
+    {
+      "surface": "המון",
+      "gloss": "⟨o⟩ tumulto"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dos montes"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "certamente"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "em YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nosso Elohim"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "⟨a⟩ salvação"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17682,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18238
-  },
-  "translation": "Certamente ⟨a⟩ falsidade ⟨vem⟩ dos outeiros, ⟨o⟩ tumulto dos montes; certamente em YHWH nosso Elohim ⟨está⟩ ⟨a⟩ salvação de Yisrael.",
-  "tokens": [
-    {
-      "surface": "אכן",
-      "english": "Certamente"
-    },
-    {
-      "surface": "לשקר",
-      "english": "⟨a⟩ falsidade"
-    },
-    {
-      "surface": "מגבעות",
-      "english": "⟨vem⟩ dos outeiros"
-    },
-    {
-      "surface": "המון",
-      "english": "⟨o⟩ tumulto"
-    },
-    {
-      "surface": "הרים",
-      "english": "dos montes"
-    },
-    {
-      "surface": "אכן",
-      "english": "certamente"
-    },
-    {
-      "surface": "ביהוה",
-      "english": "em YHWH"
-    },
-    {
-      "surface": "אלהינו",
-      "english": "nosso Elohim"
-    },
-    {
-      "surface": "תשועת",
-      "english": "⟨a⟩ salvação"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:06:29.307228126Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

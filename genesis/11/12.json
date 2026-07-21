@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 11:12",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 401,
-    "prompt_tokens": 28816,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29217
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:42:55.254509753Z",
   "translation": "E Arpachshad viveu trinta e cinco anos e gerou ⟨את⟩ Shélach;",
   "tokens": [
     {
       "surface": "וארפכשד",
-      "english": "E Arpachshad"
+      "gloss": "E Arpachshad"
     },
     {
       "surface": "חי",
-      "english": "viveu"
+      "gloss": "viveu"
     },
     {
       "surface": "חמש",
-      "english": "trinta"
+      "gloss": "trinta"
     },
     {
       "surface": "ושלשים",
-      "english": "e cinco"
+      "gloss": "e cinco"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "ויולד",
-      "english": "e gerou"
+      "gloss": "e gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Shélach"
     },
     {
       "surface": "שלח",
-      "english": "Shélach"
+      "gloss": "Shélach"
     }
-  ],
-  "timestamp": "2026-07-16T14:42:55.254509753Z",
-  "model": "glm-4.5"
+  ]
 }

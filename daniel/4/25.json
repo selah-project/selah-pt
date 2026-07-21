@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "daniel 4:25",
   "book": "daniel",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 288,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24467,
-    "prompt_tokens_details": {
-      "cached_tokens": 23433
-    },
-    "total_tokens": 24755
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:53:00.291524954Z",
   "translation": "Tudo ⟨isso⟩ veio ⟨sobre⟩ Nabucodonosor, o rei.",
   "tokens": [
     {
       "surface": "כלא",
-      "english": "Tudo ⟨isso⟩"
+      "gloss": "Tudo ⟨isso⟩"
     },
     {
       "surface": "מטא",
-      "english": "veio"
+      "gloss": "veio"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "נבוכדנצר",
-      "english": "Nabucodonosor"
+      "gloss": "Nabucodonosor"
     },
     {
       "surface": "מלכא",
-      "english": "o rei"
+      "gloss": "o rei"
     }
-  ],
-  "timestamp": "2026-06-13T06:53:00.291524954Z",
-  "model": "glm-4.5"
+  ]
 }

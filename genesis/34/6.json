@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 34:6",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 313,
-    "prompt_tokens": 28738,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29051
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:55:54.207215608Z",
   "translation": "E saiu Chamor, pai de Shekem, para falar com Yaakov.",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "E saiu"
+      "gloss": "E saiu"
     },
     {
       "surface": "חמור",
-      "english": "Chamor"
+      "gloss": "Chamor"
     },
     {
       "surface": "אבי",
-      "english": "pai"
+      "gloss": "pai"
     },
     {
       "surface": "שכם",
-      "english": "de Shekem"
+      "gloss": "de Shekem"
     },
     {
       "surface": "אל",
-      "english": "para"
+      "gloss": "para"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "לדבר",
-      "english": "falar com"
+      "gloss": "falar com"
     },
     {
       "surface": "אתו",
-      "english": "⟨com⟩",
+      "gloss": "⟨com⟩",
       "marks": "Yaakov"
     }
-  ],
-  "timestamp": "2026-07-16T14:55:54.207215608Z",
-  "model": "glm-4.5"
+  ]
 }

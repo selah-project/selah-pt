@@ -1,87 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-kings 23:20",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 477,
-    "prompt_tokens": 25249,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25726
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:44:27.393051736Z",
   "translation": "E sacrificou ⟨את⟩ todos os sacerdotes dos altos que estavam ⟨ lá⟩ sobre os altares, e queimou ⟨את⟩ ossos de homens sobre eles, e retornou a Jerusalém",
   "tokens": [
     {
       "surface": "ויזבח",
-      "english": "E sacrificou"
+      "gloss": "E sacrificou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todos os sacerdotes"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "כהני",
-      "english": "sacerdotes"
+      "gloss": "sacerdotes"
     },
     {
       "surface": "הבמות",
-      "english": "dos altos"
+      "gloss": "dos altos"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "שם",
-      "english": "estavam ⟨ lá⟩"
+      "gloss": "estavam ⟨ lá⟩"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "המזבחות",
-      "english": "os altares"
+      "gloss": "os altares"
     },
     {
       "surface": "וישרף",
-      "english": "e queimou"
+      "gloss": "e queimou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ossos"
     },
     {
       "surface": "עצמות",
-      "english": "ossos"
+      "gloss": "ossos"
     },
     {
       "surface": "אדם",
-      "english": "de homens"
+      "gloss": "de homens"
     },
     {
       "surface": "עליהם",
-      "english": "sobre eles"
+      "gloss": "sobre eles"
     },
     {
       "surface": "וישב",
-      "english": "e retornou"
+      "gloss": "e retornou"
     },
     {
       "surface": "ירושלם",
-      "english": "a Jerusalém"
+      "gloss": "a Jerusalém"
     }
-  ],
-  "timestamp": "2026-07-16T12:44:27.393051736Z",
-  "model": "glm-4.5"
+  ]
 }

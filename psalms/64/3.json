@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 64:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62830,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63231
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:20:43.012164973Z",
   "translation": "Hide me from ⟨the⟩ secret council of evil-doers; from ⟨the⟩ conspiracy of ⟨the⟩ workers of iniquity:",
   "tokens": [
     {
       "surface": "תסתירני",
-      "english": "Hide me"
+      "gloss": "Hide me"
     },
     {
       "surface": "מסוד",
-      "english": "from ⟨the⟩ secret council"
+      "gloss": "from ⟨the⟩ secret council"
     },
     {
       "surface": "מרעים",
-      "english": "of evil-doers"
+      "gloss": "of evil-doers"
     },
     {
       "surface": "מרגשת",
-      "english": "from ⟨the⟩ conspiracy"
+      "gloss": "from ⟨the⟩ conspiracy"
     },
     {
       "surface": "פעלי",
-      "english": "of ⟨the⟩ workers"
+      "gloss": "of ⟨the⟩ workers"
     },
     {
       "surface": "און",
-      "english": "of iniquity"
+      "gloss": "of iniquity"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:20:43.012164973Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

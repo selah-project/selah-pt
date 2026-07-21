@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "numbers 2:15",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 375,
-    "prompt_tokens": 25478,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25853
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:02:32.015185794Z",
   "translation": "e ⟨o⟩ seu exército e ⟨os⟩ contados deles, cinco e quarenta mil e seiscentos e cinquenta",
   "tokens": [
     {
       "surface": "וּצְבָאוֹ",
-      "english": "e ⟨o⟩ seu exército"
+      "gloss": "e ⟨o⟩ seu exército"
     },
     {
       "surface": "וּפְקֻדֵיהֶם",
-      "english": "e ⟨os⟩ contados deles"
+      "gloss": "e ⟨os⟩ contados deles"
     },
     {
       "surface": "חֲמִשָּׁה",
-      "english": "cinco"
+      "gloss": "cinco"
     },
     {
       "surface": "וְאַרְבָּעִים",
-      "english": "e quarenta"
+      "gloss": "e quarenta"
     },
     {
       "surface": "אֶלֶף",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "וְשֵׁשׁ",
-      "english": "e seis"
+      "gloss": "e seis"
     },
     {
       "surface": "מְאוֹת",
-      "english": "centos"
+      "gloss": "centos"
     },
     {
       "surface": "וַחֲמִשִּׁים",
-      "english": "e cinquenta"
+      "gloss": "e cinquenta"
     }
-  ],
-  "timestamp": "2026-07-16T17:02:32.015185794Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "exodus 7:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 7,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:41:59.542593900Z",
+  "translation": "Então ⟨o⟩ Paró chamou também ⟨os⟩ sábios e ⟨os⟩ encantadores, e eles também, ⟨os⟩ magos do Mitzráyim, fizeram ⟨o⟩ mesmo com ⟨as⟩ suas ⟨práticas⟩ secretas",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Então ⟨o⟩ Faraó chamou"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "⟨os⟩ sábios"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "e ⟨os⟩ encantadores"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "e eles também"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "הם",
+      "gloss": "eles"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "⟨os⟩ magos"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "com ⟨as⟩ suas ⟨práticas⟩ secretas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨o⟩ mesmo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraó",
@@ -20,72 +75,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 589,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17389,
-    "prompt_tokens_details": {
-      "cached_tokens": 15859
-    },
-    "total_tokens": 17978
-  },
-  "translation": "Então ⟨o⟩ Paró chamou também ⟨os⟩ sábios e ⟨os⟩ encantadores, e eles também, ⟨os⟩ magos do Mitzráyim, fizeram ⟨o⟩ mesmo com ⟨as⟩ suas ⟨práticas⟩ secretas",
-  "tokens": [
-    {
-      "surface": "ויקרא",
-      "english": "Então ⟨o⟩ Faraó chamou"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "לחכמים",
-      "english": "⟨os⟩ sábios"
-    },
-    {
-      "surface": "ולמכשפים",
-      "english": "e ⟨os⟩ encantadores"
-    },
-    {
-      "surface": "ויעשו",
-      "english": "e eles também"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "הם",
-      "english": "eles"
-    },
-    {
-      "surface": "חרטמי",
-      "english": "⟨os⟩ magos"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "בלהטיהם",
-      "english": "com ⟨as⟩ suas ⟨práticas⟩ secretas"
-    },
-    {
-      "surface": "כן",
-      "english": "⟨o⟩ mesmo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:41:59.542593900Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

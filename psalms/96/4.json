@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 96:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63122,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63645
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:43:45.323186589Z",
   "translation": "Pois grande ⟨é⟩ YHWH e muito ⟨é⟩ para ser louvado; ⟨Ele é⟩ terrível ⟨e⟩ majestoso sobre todos os elohim.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "גדול",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ומהלל",
-      "english": "e muito ⟨é⟩ para ser louvado"
+      "gloss": "e muito ⟨é⟩ para ser louvado"
     },
     {
       "surface": "מאד",
-      "english": "muito ⟨é⟩"
+      "gloss": "muito ⟨é⟩"
     },
     {
       "surface": "נורא",
-      "english": "terrível ⟨e⟩ majestoso"
+      "gloss": "terrível ⟨e⟩ majestoso"
     },
     {
       "surface": "הוא",
-      "english": "⟨Ele é⟩",
+      "gloss": "⟨Ele é⟩",
       "marks": "referência a YHWH"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "אלהים",
-      "english": "elohim"
+      "gloss": "elohim"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:43:45.323186589Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

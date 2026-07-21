@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 7:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 633,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63190,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63823
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:43:46.033804905Z",
   "translation": "⟨Arise⟩, YHWH, ⟨in⟩ Your anger; lift Yourself ⟨up⟩ because ⟨of⟩ the rage ⟨of⟩ my persecutors; and awake ⟨for⟩ me ⟨to⟩ ⟨the⟩ judgment You have commanded.",
   "tokens": [
     {
       "surface": "קומה",
-      "english": "⟨Arise⟩"
+      "gloss": "⟨Arise⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "באפך",
-      "english": "⟨in⟩ Your anger"
+      "gloss": "⟨in⟩ Your anger"
     },
     {
       "surface": "הנשא",
-      "english": "lift Yourself ⟨up⟩"
+      "gloss": "lift Yourself ⟨up⟩"
     },
     {
       "surface": "בעברות",
-      "english": "because ⟨of⟩ the rage ⟨of⟩ my persecutors"
+      "gloss": "because ⟨of⟩ the rage ⟨of⟩ my persecutors"
     },
     {
       "surface": "צוררי",
-      "english": "persecutors"
+      "gloss": "persecutors"
     },
     {
       "surface": "ועורה",
-      "english": "and awake ⟨for⟩ me"
+      "gloss": "and awake ⟨for⟩ me"
     },
     {
       "surface": "אלי",
-      "english": "⟨for⟩ me"
+      "gloss": "⟨for⟩ me"
     },
     {
       "surface": "משפט",
-      "english": "⟨the⟩ judgment"
+      "gloss": "⟨the⟩ judgment"
     },
     {
       "surface": "צוית",
-      "english": "You have commanded"
+      "gloss": "You have commanded"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:43:46.033804905Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

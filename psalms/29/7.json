@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 29:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62637,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 62991
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:56:59.299787218Z",
   "translation": "A voz de YHWH ⟨está⟩ ⟨a⟩ ⟨cortar⟩ ⟨as⟩ chamas ⟨de⟩ fogo",
   "tokens": [
     {
       "surface": "קול",
-      "english": "A voz",
+      "gloss": "A voz",
       "marks": ""
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH",
+      "gloss": "de YHWH",
       "marks": ""
     },
     {
       "surface": "חצב",
-      "english": "⟨está⟩ ⟨a⟩ ⟨cortar⟩",
+      "gloss": "⟨está⟩ ⟨a⟩ ⟨cortar⟩",
       "marks": ""
     },
     {
       "surface": "להבות",
-      "english": "⟨as⟩ chamas",
+      "gloss": "⟨as⟩ chamas",
       "marks": ""
     },
     {
       "surface": "אש",
-      "english": "⟨de⟩ fogo",
+      "gloss": "⟨de⟩ fogo",
       "marks": ""
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:56:59.299787218Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

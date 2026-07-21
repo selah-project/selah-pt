@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "isaiah 64:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 64,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:01:22.417011201Z",
+  "translation": "Tuas cidades sagradas tornaram-se um deserto, Tzion tornou-se um deserto, Yerushalayim ⟨está⟩ em desolação.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "Tuas cidades"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sagradas"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tornaram-se"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "um deserto"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "um deserto"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tornou-se"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "em desolação"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sião",
@@ -20,60 +63,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 64,
-  "usage": {
-    "completion_tokens": 286,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19273,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19559
-  },
-  "translation": "Tuas cidades sagradas tornaram-se um deserto, Tzion tornou-se um deserto, Yerushalayim ⟨está⟩ em desolação.",
-  "tokens": [
-    {
-      "surface": "ערי",
-      "english": "Tuas cidades"
-    },
-    {
-      "surface": "קדשך",
-      "english": "sagradas"
-    },
-    {
-      "surface": "היו",
-      "english": "tornaram-se"
-    },
-    {
-      "surface": "מדבר",
-      "english": "um deserto"
-    },
-    {
-      "surface": "ציון",
-      "english": "Tzion"
-    },
-    {
-      "surface": "מדבר",
-      "english": "um deserto"
-    },
-    {
-      "surface": "היתה",
-      "english": "tornou-se"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "שממה",
-      "english": "em desolação"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:01:22.417011201Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

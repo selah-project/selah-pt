@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "ezekiel 29:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 29,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:33:08.122329370Z",
+  "translation": "E saberão todos os habitantes do Mitzráyim que eu ⟨sou⟩ YHWH, por ⟨terem sido⟩ um suporte de cana para ⟨a⟩ casa de Yisrael",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "E saberão"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "habitantes"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יען",
+      "gloss": "por"
+    },
+    {
+      "surface": "היותם",
+      "gloss": "⟨terem sido⟩"
+    },
+    {
+      "surface": "משענת",
+      "gloss": "um suporte"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "de cana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "para ⟨a⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "casa de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -20,76 +79,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17918,
-    "prompt_tokens_details": {
-      "cached_tokens": 16310
-    },
-    "total_tokens": 18344
-  },
-  "translation": "E saberão todos os habitantes do Mitzráyim que eu ⟨sou⟩ YHWH, por ⟨terem sido⟩ um suporte de cana para ⟨a⟩ casa de Yisrael",
-  "tokens": [
-    {
-      "surface": "וידעו",
-      "english": "E saberão"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "ישבי",
-      "english": "habitantes"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "אני",
-      "english": "eu"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "יען",
-      "english": "por"
-    },
-    {
-      "surface": "היותם",
-      "english": "⟨terem sido⟩"
-    },
-    {
-      "surface": "משענת",
-      "english": "um suporte"
-    },
-    {
-      "surface": "קנה",
-      "english": "de cana"
-    },
-    {
-      "surface": "לבית",
-      "english": "para ⟨a⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "casa de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:33:08.122329370Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

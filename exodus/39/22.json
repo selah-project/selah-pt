@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "exodus 39:22",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 355,
-    "prompt_tokens": 24465,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24820
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:07:26.711123766Z",
   "translation": "E ele fez ⟨את⟩ o manto do Efod, obra de tecelão, todo de azul",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "E ele fez"
+      "gloss": "E ele fez"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o manto"
     },
     {
       "surface": "מעיל",
-      "english": "o manto"
+      "gloss": "o manto"
     },
     {
       "surface": "האפד",
-      "english": "do Efod"
+      "gloss": "do Efod"
     },
     {
       "surface": "מעשה",
-      "english": "obra"
+      "gloss": "obra"
     },
     {
       "surface": "ארג",
-      "english": "de tecelão"
+      "gloss": "de tecelão"
     },
     {
       "surface": "כליל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "תכלת",
-      "english": "de azul"
+      "gloss": "de azul"
     }
-  ],
-  "timestamp": "2026-07-16T14:07:26.711123766Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "2-chronicles 23:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 23,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:33:44.876158231Z",
+  "translation": "E Iehoiada colocou ⟨as⟩ pĕquddot da Casa de YHWH ⟨na⟩ mão ⟨dos⟩ cohanim ⟨e⟩ leviim, ⟨que⟩ Davidd havia designado sobre ⟨a⟩ Casa de YHWH, para fazer subir ⟨as⟩ Olás de YHWH, conforme ⟨está⟩ escrito na Torá ⟨de⟩ Moshé, com alegria e com cântico, ⟨por⟩ mão ⟨de⟩ Davidd",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "E Iehoiada colocou"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Iehoiada"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "⟨as⟩ pĕquddot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "da Casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨na⟩ mão"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨dos⟩ cohanim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "⟨e⟩ leviim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "David havia designado"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ Casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "para fazer subir"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "⟨as⟩ Olás"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "conforme ⟨está⟩ escrito"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "na Torá"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨de⟩ Moshé"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "com alegria"
+    },
+    {
+      "surface": "ובשיר",
+      "gloss": "e com cântico"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mão"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "⟨de⟩ Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -34,124 +141,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 1087,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59800,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 60887
-  },
-  "translation": "E Iehoiada colocou ⟨as⟩ pĕquddot da Casa de YHWH ⟨na⟩ mão ⟨dos⟩ cohanim ⟨e⟩ leviim, ⟨que⟩ Davidd havia designado sobre ⟨a⟩ Casa de YHWH, para fazer subir ⟨as⟩ Olás de YHWH, conforme ⟨está⟩ escrito na Torá ⟨de⟩ Moshé, com alegria e com cântico, ⟨por⟩ mão ⟨de⟩ Davidd",
-  "tokens": [
-    {
-      "surface": "וישם",
-      "english": "E Iehoiada colocou"
-    },
-    {
-      "surface": "יהוידע",
-      "english": "Iehoiada"
-    },
-    {
-      "surface": "פקדת",
-      "english": "⟨as⟩ pĕquddot"
-    },
-    {
-      "surface": "בית",
-      "english": "da Casa"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "ביד",
-      "english": "⟨na⟩ mão"
-    },
-    {
-      "surface": "הכהנים",
-      "english": "⟨dos⟩ cohanim"
-    },
-    {
-      "surface": "הלוים",
-      "english": "⟨e⟩ leviim"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "חלק",
-      "english": "David havia designado"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ Casa"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "להעלות",
-      "english": "para fazer subir"
-    },
-    {
-      "surface": "עלות",
-      "english": "⟨as⟩ Olás"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "ככתוב",
-      "english": "conforme ⟨está⟩ escrito"
-    },
-    {
-      "surface": "בתורת",
-      "english": "na Torá"
-    },
-    {
-      "surface": "משה",
-      "english": "⟨de⟩ Moshé"
-    },
-    {
-      "surface": "בשמחה",
-      "english": "com alegria"
-    },
-    {
-      "surface": "ובשיר",
-      "english": "e com cântico"
-    },
-    {
-      "surface": "על",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "ידי",
-      "english": "mão"
-    },
-    {
-      "surface": "דויד",
-      "english": "⟨de⟩ Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:33:44.876158231Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

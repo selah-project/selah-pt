@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "jeremiah 2:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 2,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:04:42.771159272Z",
+  "translation": "O servo ⟨é⟩ Yisrael? ⟨O⟩ nascido ⟨da⟩ casa ⟨é⟩ ele? Por que ⟨se⟩ tornou ⟨à⟩ presa?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "O servo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "⟨O⟩ nascido"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨da⟩ casa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨é⟩ ele"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Por que"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨se⟩ tornou"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "⟨à⟩ presa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17481,
-    "prompt_tokens_details": {
-      "cached_tokens": 16391
-    },
-    "total_tokens": 17948
-  },
-  "translation": "O servo ⟨é⟩ Yisrael? ⟨O⟩ nascido ⟨da⟩ casa ⟨é⟩ ele? Por que ⟨se⟩ tornou ⟨à⟩ presa?",
-  "tokens": [
-    {
-      "surface": "העבד",
-      "english": "O servo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אם",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "יליד",
-      "english": "⟨O⟩ nascido"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨da⟩ casa"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨é⟩ ele"
-    },
-    {
-      "surface": "מדוע",
-      "english": "Por que"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨se⟩ tornou"
-    },
-    {
-      "surface": "לבז",
-      "english": "⟨à⟩ presa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:04:42.771159272Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

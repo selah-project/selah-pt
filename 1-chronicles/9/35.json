@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "1-chronicles 9:35",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 9,
+  "verse": 35,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:43:05.673142238Z",
+  "translation": "E em Givon habitaram o pai de Givon, Jeiel, e o nome ⟨de⟩ sua mulher ⟨era⟩ Maacá:",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "E em Gibeão"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "habitaram"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "o pai"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "de Givon"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Jeiel"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e o nome"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "⟨de⟩ sua mulher"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maacá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Gibeão",
@@ -13,56 +52,6 @@
       "hebrew": "גבעון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57129,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57443
-  },
-  "translation": "E em Givon habitaram o pai de Givon, Jeiel, e o nome ⟨de⟩ sua mulher ⟨era⟩ Maacá:",
-  "tokens": [
-    {
-      "surface": "ובגבעון",
-      "english": "E em Gibeão"
-    },
-    {
-      "surface": "ישבו",
-      "english": "habitaram"
-    },
-    {
-      "surface": "אבי",
-      "english": "o pai"
-    },
-    {
-      "surface": "גבעון",
-      "english": "de Givon"
-    },
-    {
-      "surface": "יעואל",
-      "english": "Jeiel"
-    },
-    {
-      "surface": "ושם",
-      "english": "e o nome"
-    },
-    {
-      "surface": "אשתו",
-      "english": "⟨de⟩ sua mulher"
-    },
-    {
-      "surface": "מעכה",
-      "english": "Maacá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:43:05.673142238Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

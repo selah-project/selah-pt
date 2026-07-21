@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "ezekiel 1:2",
   "book": "ezekiel",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24723,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 25103
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:24:56.965472345Z",
   "translation": "no ⟨o⟩ quinto dia ⟨do⟩ mês, ⟨que é⟩ o quinto ano ⟨da⟩ deportação ⟨do⟩ rei Joiachim",
   "tokens": [
     {
       "surface": "בחמשה",
-      "english": "no ⟨o⟩ quinto dia"
+      "gloss": "no ⟨o⟩ quinto dia"
     },
     {
       "surface": "לחדש",
-      "english": "⟨do⟩ mês"
+      "gloss": "⟨do⟩ mês"
     },
     {
       "surface": "היא",
-      "english": "⟨que é⟩"
+      "gloss": "⟨que é⟩"
     },
     {
       "surface": "השנה",
-      "english": "o quinto ano"
+      "gloss": "o quinto ano"
     },
     {
       "surface": "החמישית",
-      "english": "⟨da⟩"
+      "gloss": "⟨da⟩"
     },
     {
       "surface": "לגלות",
-      "english": "deportação"
+      "gloss": "deportação"
     },
     {
       "surface": "המלך",
-      "english": "⟨do⟩ rei"
+      "gloss": "⟨do⟩ rei"
     },
     {
       "surface": "יויכין",
-      "english": "Joiachim"
+      "gloss": "Joiachim"
     }
-  ],
-  "timestamp": "2026-06-13T06:24:56.965472345Z",
-  "model": "glm-4.5"
+  ]
 }

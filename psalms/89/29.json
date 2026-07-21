@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "psalms 89:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 89,
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:39:03.788201900Z",
+  "translation": "Para sempre guardarei ⟨para⟩ ele ⟨o⟩ meu ḥessed (Jésed-leal) e ⟨a⟩ minha brit (aliança-pacto) será ne'emánat (firvel-fiel) ⟨para⟩ ele",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Para sempre"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "guardarei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩ ele"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "⟨o⟩ meu ḥessed (Jésed-leal)"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "e ⟨a⟩ minha brit (aliança-pacto)"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "será ne'emánat (firvel-fiel)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩ ele"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "misericórdia",
@@ -13,52 +48,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 89,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62824,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63338
-  },
-  "translation": "Para sempre guardarei ⟨para⟩ ele ⟨o⟩ meu ḥessed (Jésed-leal) e ⟨a⟩ minha brit (aliança-pacto) será ne'emánat (firvel-fiel) ⟨para⟩ ele",
-  "tokens": [
-    {
-      "surface": "לעולם",
-      "english": "Para sempre"
-    },
-    {
-      "surface": "אשמור",
-      "english": "guardarei"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩ ele"
-    },
-    {
-      "surface": "חסדי",
-      "english": "⟨o⟩ meu ḥessed (Jésed-leal)"
-    },
-    {
-      "surface": "ובריתי",
-      "english": "e ⟨a⟩ minha brit (aliança-pacto)"
-    },
-    {
-      "surface": "נאמנת",
-      "english": "será ne'emánat (firvel-fiel)"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩ ele"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:39:03.788201900Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

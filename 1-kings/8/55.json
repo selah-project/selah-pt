@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 55,
   "ref": "1-kings 8:55",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 349,
-    "prompt_tokens": 69955,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 70304
-  },
+  "verse": 55,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:25:30.474579010Z",
   "translation": "e ele pôs-se de pé e abençoou ⟨את⟩ toda a assembleia de Yisrael em voz alta, dizendo",
   "tokens": [
     {
       "surface": "ויעמד",
-      "english": "e ele pôs-se de pé"
+      "gloss": "e ele pôs-se de pé"
     },
     {
       "surface": "ויברך",
-      "english": "e abençoou"
+      "gloss": "e abençoou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toda a assembleia de Yisrael"
     },
     {
       "surface": "כל",
-      "english": "toda a"
+      "gloss": "toda a"
     },
     {
       "surface": "קהל",
-      "english": "assembleia"
+      "gloss": "assembleia"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "קול",
-      "english": "voz"
+      "gloss": "voz"
     },
     {
       "surface": "גדול",
-      "english": "alta"
+      "gloss": "alta"
     },
     {
       "surface": "לאמר",
-      "english": "dizendo"
+      "gloss": "dizendo"
     }
-  ],
-  "timestamp": "2026-07-16T11:25:30.474579010Z",
-  "model": "glm-4.5"
+  ]
 }

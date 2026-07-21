@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 65:3",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 524,
-    "prompt_tokens": 26897,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 27421
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:21:00.780191364Z",
   "translation": "o povo que ⟨está⟩ me provocando ⟨את⟩ à minha face continuamente; sacrificando em jardins e queimando incenso sobre ⟨os⟩ tijolos",
   "tokens": [
     {
       "surface": "העם",
-      "english": "o povo"
+      "gloss": "o povo"
     },
     {
       "surface": "המכעיסים",
-      "english": "que ⟨está⟩ me provocando"
+      "gloss": "que ⟨está⟩ me provocando"
     },
     {
       "surface": "אותי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "à minha face"
     },
     {
       "surface": "על",
-      "english": "à"
+      "gloss": "à"
     },
     {
       "surface": "פני",
-      "english": "minha face"
+      "gloss": "minha face"
     },
     {
       "surface": "תמיד",
-      "english": "continuamente"
+      "gloss": "continuamente"
     },
     {
       "surface": "זבחים",
-      "english": "sacrificando"
+      "gloss": "sacrificando"
     },
     {
       "surface": "בגנות",
-      "english": "em jardins"
+      "gloss": "em jardins"
     },
     {
       "surface": "ומקטרים",
-      "english": "e queimando incenso"
+      "gloss": "e queimando incenso"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הלבנים",
-      "english": "⟨os⟩ tijolos"
+      "gloss": "⟨os⟩ tijolos"
     }
-  ],
-  "timestamp": "2026-07-16T15:21:00.780191364Z",
-  "model": "glm-4.5"
+  ]
 }

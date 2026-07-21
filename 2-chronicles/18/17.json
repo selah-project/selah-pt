@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "2-chronicles 18:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 18,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:25:22.457528845Z",
+  "translation": "Então o rei de Yisrael disse a Yehoshafat: ⟨Porventura⟩ não ⟨o⟩ disse eu a ti, que ⟨ele⟩ não profetizaria ⟨o⟩ bem sobre mim, senão ⟨o⟩ mal?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Então disse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨Porventura⟩ não",
+      "marks": "interrogativa retórica que introduz uma afirmação"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "⟨o⟩ disse eu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "que ⟨ele⟩ não"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "profetizaria"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sobre mim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨o⟩ bem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "senão"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "mal"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,85 +88,6 @@
       "hebrew": "יהושפט"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 685,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58703,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59388
-  },
-  "translation": "Então o rei de Yisrael disse a Yehoshafat: ⟨Porventura⟩ não ⟨o⟩ disse eu a ti, que ⟨ele⟩ não profetizaria ⟨o⟩ bem sobre mim, senão ⟨o⟩ mal?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Então disse"
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "הלא",
-      "english": "⟨Porventura⟩ não",
-      "marks": "interrogativa retórica que introduz uma afirmação"
-    },
-    {
-      "surface": "אמרתי",
-      "english": "⟨o⟩ disse eu"
-    },
-    {
-      "surface": "אליך",
-      "english": "a ti"
-    },
-    {
-      "surface": "לא",
-      "english": "que ⟨ele⟩ não"
-    },
-    {
-      "surface": "יתנבא",
-      "english": "profetizaria"
-    },
-    {
-      "surface": "עלי",
-      "english": "sobre mim"
-    },
-    {
-      "surface": "טוב",
-      "english": "⟨o⟩ bem"
-    },
-    {
-      "surface": "כי",
-      "english": "senão"
-    },
-    {
-      "surface": "אם",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "לרע",
-      "english": "mal"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:25:22.457528845Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

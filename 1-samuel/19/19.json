@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "1-samuel 19:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 19,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:31:31.237608319Z",
+  "translation": "E foi declarado a Saul, dizendo: Eis que Davidd ⟨está⟩ em Naioth em Ramá.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "E foi declarado"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Saul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "em Naioth"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "em Ramá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,52 +48,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 205,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16308,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 16513
-  },
-  "translation": "E foi declarado a Saul, dizendo: Eis que Davidd ⟨está⟩ em Naioth em Ramá.",
-  "tokens": [
-    {
-      "surface": "ויגד",
-      "english": "E foi declarado"
-    },
-    {
-      "surface": "לשאול",
-      "english": "a Saul"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis que"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בנוית",
-      "english": "em Naioth"
-    },
-    {
-      "surface": "ברמה",
-      "english": "em Ramá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:31:31.237608319Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

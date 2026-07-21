@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "song-of-songs 1:3",
   "book": "song-of-songs",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28106,
-    "prompt_tokens_details": {
-      "cached_tokens": 26755
-    },
-    "total_tokens": 28594
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:55:49.765082464Z",
   "translation": "⟨Por⟩ fragrância ⟨de⟩ teus óleos ⟨são⟩ bons, óleo derramado ⟨de⟩ teu nome, portanto as virgens amam-te.",
   "tokens": [
     {
       "surface": "לריח",
-      "english": "⟨Por⟩ fragrância"
+      "gloss": "⟨Por⟩ fragrância"
     },
     {
       "surface": "שמניך",
-      "english": "⟨de⟩ teus óleos"
+      "gloss": "⟨de⟩ teus óleos"
     },
     {
       "surface": "טובים",
-      "english": "⟨são⟩ bons"
+      "gloss": "⟨são⟩ bons"
     },
     {
       "surface": "שמן",
-      "english": "óleo"
+      "gloss": "óleo"
     },
     {
       "surface": "תורק",
-      "english": "derramado"
+      "gloss": "derramado"
     },
     {
       "surface": "שמך",
-      "english": "⟨de⟩ teu nome"
+      "gloss": "⟨de⟩ teu nome"
     },
     {
       "surface": "על",
-      "english": "portanto"
+      "gloss": "portanto"
     },
     {
       "surface": "כן",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "עלמות",
-      "english": "as virgens"
+      "gloss": "as virgens"
     },
     {
       "surface": "אהבוך",
-      "english": "amam-te"
+      "gloss": "amam-te"
     }
-  ],
-  "timestamp": "2026-06-14T04:55:49.765082464Z",
-  "model": "glm-4.5"
+  ]
 }

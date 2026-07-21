@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "genesis 8:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21354,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21816
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:48:53.566454491Z",
   "translation": "E no segundo mês, ⟨no⟩ vinte e sete dias ⟨do⟩ mês, ⟨a⟩ terra ⟨estava⟩ seca",
   "tokens": [
     {
       "surface": "ובחדש",
-      "english": "E no segundo mês"
+      "gloss": "E no segundo mês"
     },
     {
       "surface": "השני",
-      "english": "segundo"
+      "gloss": "segundo"
     },
     {
       "surface": "בשבעה",
-      "english": "vinte e sete"
+      "gloss": "vinte e sete"
     },
     {
       "surface": "ועשרים",
-      "english": "dias"
+      "gloss": "dias"
     },
     {
       "surface": "יום",
-      "english": "dias"
+      "gloss": "dias"
     },
     {
       "surface": "לחדש",
-      "english": "do mês"
+      "gloss": "do mês"
     },
     {
       "surface": "יבשה",
-      "english": "seca"
+      "gloss": "seca"
     },
     {
       "surface": "הארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:48:53.566454491Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

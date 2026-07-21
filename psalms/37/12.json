@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 37:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 279,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62787,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63066
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:03:25.921709405Z",
   "translation": "O perverso trama contra ⟨o⟩ justo e range ⟨os⟩ dentes contra ele",
   "tokens": [
     {
       "surface": "זמם",
-      "english": "Trama"
+      "gloss": "Trama"
     },
     {
       "surface": "רשע",
-      "english": "O perverso"
+      "gloss": "O perverso"
     },
     {
       "surface": "לצדיק",
-      "english": "contra ⟨o⟩ justo",
+      "gloss": "contra ⟨o⟩ justo",
       "marks": "justo"
     },
     {
       "surface": "וחרק",
-      "english": "e range"
+      "gloss": "e range"
     },
     {
       "surface": "עליו",
-      "english": "contra ele"
+      "gloss": "contra ele"
     },
     {
       "surface": "שניו",
-      "english": "⟨os⟩ dentes"
+      "gloss": "⟨os⟩ dentes"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:03:25.921709405Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

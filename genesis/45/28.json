@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "genesis 45:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 45,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:29:54.935163330Z",
+  "translation": "E Yisrael disse: ⟨é⟩ suficiente; ⟨o⟩ Yosef meu filho ⟨ainda⟩ ⟨está⟩ vivo; irei e o verei antes que eu morra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Israel disse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "E Yisrael disse"
+    },
+    {
+      "surface": "רב",
+      "gloss": "⟨é⟩ suficiente"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ainda⟩"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "⟨o⟩ Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "meu filho"
+    },
+    {
+      "surface": "חי",
+      "gloss": "⟨está⟩ vivo"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "irei"
+    },
+    {
+      "surface": "ואראנו",
+      "gloss": "e o verei"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "antes que"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "eu morra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,68 +71,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 45,
-  "usage": {
-    "completion_tokens": 537,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21646,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22183
-  },
-  "translation": "E Yisrael disse: ⟨é⟩ suficiente; ⟨o⟩ Yosef meu filho ⟨ainda⟩ ⟨está⟩ vivo; irei e o verei antes que eu morra.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Israel disse"
-    },
-    {
-      "surface": "ישראל",
-      "english": "E Yisrael disse"
-    },
-    {
-      "surface": "רב",
-      "english": "⟨é⟩ suficiente"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨ainda⟩"
-    },
-    {
-      "surface": "יוסף",
-      "english": "⟨o⟩ Yosef"
-    },
-    {
-      "surface": "בני",
-      "english": "meu filho"
-    },
-    {
-      "surface": "חי",
-      "english": "⟨está⟩ vivo"
-    },
-    {
-      "surface": "אלכה",
-      "english": "irei"
-    },
-    {
-      "surface": "ואראנו",
-      "english": "e o verei"
-    },
-    {
-      "surface": "בטרם",
-      "english": "antes que"
-    },
-    {
-      "surface": "אמות",
-      "english": "eu morra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:29:54.935163330Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

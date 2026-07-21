@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "isaiah 29:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 29,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:34:34.019512298Z",
+  "translation": "E os que erram ⟨em⟩ espírito conhecerão ⟨o⟩ Biná, e os que murmurarão aprenderão ⟨a⟩ instrução.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "E...conhecerão"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "os que erram"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨em⟩ espírito"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "⟨o⟩ Biná"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "e os que murmurarão"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "aprenderão"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "⟨a⟩ instrução"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "entendimento",
@@ -13,52 +48,6 @@
       "hebrew": "בינה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18972,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19309
-  },
-  "translation": "E os que erram ⟨em⟩ espírito conhecerão ⟨o⟩ Biná, e os que murmurarão aprenderão ⟨a⟩ instrução.",
-  "tokens": [
-    {
-      "surface": "וידעו",
-      "english": "E...conhecerão"
-    },
-    {
-      "surface": "תעי",
-      "english": "os que erram"
-    },
-    {
-      "surface": "רוח",
-      "english": "⟨em⟩ espírito"
-    },
-    {
-      "surface": "בינה",
-      "english": "⟨o⟩ Biná"
-    },
-    {
-      "surface": "ורוגנים",
-      "english": "e os que murmurarão"
-    },
-    {
-      "surface": "ילמדו",
-      "english": "aprenderão"
-    },
-    {
-      "surface": "לקח",
-      "english": "⟨a⟩ instrução"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:34:34.019512298Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

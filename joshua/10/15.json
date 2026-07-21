@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "joshua 10:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 10,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:35:43.927105566Z",
+  "translation": "E Yehoshua retornou e todo ⟨o⟩ Yisrael ⟨com⟩ ele ⟨ao⟩ acampamento ⟨em⟩ Gilgal",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E retornou"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨com⟩ ele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "acampamento"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgal"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16298,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 16655
-  },
-  "translation": "E Yehoshua retornou e todo ⟨o⟩ Yisrael ⟨com⟩ ele ⟨ao⟩ acampamento ⟨em⟩ Gilgal",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E retornou"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "עמו",
-      "english": "⟨com⟩ ele"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "המחנה",
-      "english": "acampamento"
-    },
-    {
-      "surface": "הגלגלה",
-      "english": "Gilgal"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:35:43.927105566Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

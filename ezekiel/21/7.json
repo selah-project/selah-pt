@@ -1,9 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "ezekiel 21:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 21,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:24:43.024160613Z",
+  "translation": "Filho do homem, dirige o teu rosto para ⟨o⟩ Yerushalayim e derrama ⟨o⟩ sobre os Mikdashs e profetiza contra ⟨a⟩ terra de Yisrael",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Filho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "do homem"
+    },
+    {
+      "surface": "שים",
+      "gloss": "dirige"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "o teu rosto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨o⟩ Yerushalayim",
+      "marks": "Jerusalém"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "e derrama ⟨o⟩",
+      "marks": "sobre os santuários"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "os Mikdashs"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "e profetiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contra"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "⟨a⟩ terra",
+      "marks": "terra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -27,79 +89,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18097,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18594
-  },
-  "translation": "Filho do homem, dirige o teu rosto para ⟨o⟩ Yerushalayim e derrama ⟨o⟩ sobre os Mikdashs e profetiza contra ⟨a⟩ terra de Yisrael",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Filho"
-    },
-    {
-      "surface": "אדם",
-      "english": "do homem"
-    },
-    {
-      "surface": "שים",
-      "english": "dirige"
-    },
-    {
-      "surface": "פניך",
-      "english": "o teu rosto"
-    },
-    {
-      "surface": "אל",
-      "english": "para"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨o⟩ Yerushalayim",
-      "marks": "Jerusalém"
-    },
-    {
-      "surface": "והטף",
-      "english": "e derrama ⟨o⟩",
-      "marks": "sobre os santuários"
-    },
-    {
-      "surface": "אל",
-      "english": "sobre"
-    },
-    {
-      "surface": "מקדשים",
-      "english": "os Mikdashs"
-    },
-    {
-      "surface": "והנבא",
-      "english": "e profetiza"
-    },
-    {
-      "surface": "אל",
-      "english": "contra"
-    },
-    {
-      "surface": "אדמת",
-      "english": "⟨a⟩ terra",
-      "marks": "terra"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:24:43.024160613Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

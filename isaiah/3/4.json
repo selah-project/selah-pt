@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 3:4",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 453,
-    "prompt_tokens": 26289,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 26742
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:28:38.554003438Z",
   "translation": "E darei ne'arim para serem seus sarim, e tă'alulim governarão sobre eles",
   "tokens": [
     {
       "surface": "ונתתי",
-      "english": "E darei"
+      "gloss": "E darei"
     },
     {
       "surface": "נערים",
-      "english": "ne'arim"
+      "gloss": "ne'arim"
     },
     {
       "surface": "שריהם",
-      "english": "para serem seus sarim"
+      "gloss": "para serem seus sarim"
     },
     {
       "surface": "ותעלולים",
-      "english": "e tă'alulim"
+      "gloss": "e tă'alulim"
     },
     {
       "surface": "ימשלו",
-      "english": "governarão"
+      "gloss": "governarão"
     },
     {
       "surface": "בם",
-      "english": "sobre eles"
+      "gloss": "sobre eles"
     }
-  ],
-  "timestamp": "2026-07-17T00:28:38.554003438Z",
-  "model": "glm-4.5"
+  ]
 }

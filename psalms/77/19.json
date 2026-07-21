@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 77:19",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70401,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70875
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:39:42.629156104Z",
   "translation": "A ⟨do teu⟩ trovão ⟨está⟩ na redemoinho; os relâmpagos iluminam ⟨o⟩ mundo; ⟨a⟩ terra treme e se agita.",
   "tokens": [
     {
       "surface": "קול",
-      "english": "A ⟨do teu⟩ trovão"
+      "gloss": "A ⟨do teu⟩ trovão"
     },
     {
       "surface": "רעמך",
-      "english": "⟨do teu⟩"
+      "gloss": "⟨do teu⟩"
     },
     {
       "surface": "בגלגל",
-      "english": "na redemoinho"
+      "gloss": "na redemoinho"
     },
     {
       "surface": "האירו",
-      "english": "os relâmpagos iluminam"
+      "gloss": "os relâmpagos iluminam"
     },
     {
       "surface": "ברקים",
-      "english": "os relâmpagos"
+      "gloss": "os relâmpagos"
     },
     {
       "surface": "תבל",
-      "english": "⟨o⟩ mundo"
+      "gloss": "⟨o⟩ mundo"
     },
     {
       "surface": "רגזה",
-      "english": "⟨a⟩ terra treme"
+      "gloss": "⟨a⟩ terra treme"
     },
     {
       "surface": "ותרעש",
-      "english": "e se agita"
+      "gloss": "e se agita"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     }
-  ],
-  "timestamp": "2026-06-13T06:39:42.629156104Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "song-of-songs 1:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "song-of-songs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20228,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 20570
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:15:38.890802784Z",
   "translation": "Tuas faces ⟨são⟩ formosas com ⟨os⟩ ornamentos, teu pescoço ⟨com⟩ ⟨os⟩ colares.",
   "tokens": [
     {
       "surface": "נאוו",
-      "english": "⟨São⟩ formosas",
+      "gloss": "⟨São⟩ formosas",
       "marks": "faces"
     },
     {
       "surface": "לחייך",
-      "english": "faces"
+      "gloss": "faces"
     },
     {
       "surface": "בתרים",
-      "english": "com ⟨os⟩ ornamentos"
+      "gloss": "com ⟨os⟩ ornamentos"
     },
     {
       "surface": "צוארך",
-      "english": "teu pescoço"
+      "gloss": "teu pescoço"
     },
     {
       "surface": "בחרוזים",
-      "english": "⟨com⟩ ⟨os⟩ colares"
+      "gloss": "⟨com⟩ ⟨os⟩ colares"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:15:38.890802784Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

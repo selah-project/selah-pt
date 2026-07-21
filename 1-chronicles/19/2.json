@@ -1,9 +1,132 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 19:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 19,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:54:43.343457414Z",
+  "translation": "E disse Dawid: Farei hesed com Hanun, filho de Naash, pois seu pai fez hesed ⟨com⟩igo. E Dawid enviou mensageiros para o consolar por causa de seu pai. E vieram ⟨os⟩servos de Dawid ⟨à⟩terra dos filhos de Ammon, a Hanun, para o consolar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Farei"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "de Naash"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fez"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨com⟩igo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "E enviou"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mensageiros"
+    },
+    {
+      "surface": "לנחמו",
+      "gloss": "para o consolar"
+    },
+    {
+      "surface": "על",
+      "gloss": "por causa de"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "E vieram"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "⟨os⟩servos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Ammon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "לנחמו",
+      "gloss": "para o consolar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amom",
@@ -13,140 +136,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 918,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59034,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 59952
-  },
-  "translation": "E disse Dawid: Farei hesed com Hanun, filho de Naash, pois seu pai fez hesed ⟨com⟩igo. E Dawid enviou mensageiros para o consolar por causa de seu pai. E vieram ⟨os⟩servos de Dawid ⟨à⟩terra dos filhos de Ammon, a Hanun, para o consolar.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "דויד",
-      "english": "Dawid"
-    },
-    {
-      "surface": "אעשה",
-      "english": "Farei"
-    },
-    {
-      "surface": "חסד",
-      "english": "hesed"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "חנון",
-      "english": "Hanun"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "נחש",
-      "english": "de Naash"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "עשה",
-      "english": "fez"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    },
-    {
-      "surface": "עמי",
-      "english": "⟨com⟩igo"
-    },
-    {
-      "surface": "חסד",
-      "english": "hesed"
-    },
-    {
-      "surface": "וישלח",
-      "english": "E enviou"
-    },
-    {
-      "surface": "דויד",
-      "english": "Dawid"
-    },
-    {
-      "surface": "מלאכים",
-      "english": "mensageiros"
-    },
-    {
-      "surface": "לנחמו",
-      "english": "para o consolar"
-    },
-    {
-      "surface": "על",
-      "english": "por causa de"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    },
-    {
-      "surface": "ויבאו",
-      "english": "E vieram"
-    },
-    {
-      "surface": "עבדי",
-      "english": "⟨os⟩servos"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Dawid"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨à⟩"
-    },
-    {
-      "surface": "ארץ",
-      "english": "terra"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Ammon"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "חנון",
-      "english": "Hanun"
-    },
-    {
-      "surface": "לנחמו",
-      "english": "para o consolar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:54:43.343457414Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

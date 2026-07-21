@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 139:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62851,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63344
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:11:32.675754054Z",
   "translation": "Se ⟨fosse⟩ contar-los, eles são mais ⟨do⟩ que ⟨a⟩ areia; quando acordo, eu ainda estou contigo.",
   "tokens": [
     {
       "surface": "אספרם",
-      "english": "Se ⟨fosse⟩ contar-los",
+      "gloss": "Se ⟨fosse⟩ contar-los",
       "marks": "eles"
     },
     {
       "surface": "מחול",
-      "english": "mais ⟨do⟩ que ⟨a⟩ areia"
+      "gloss": "mais ⟨do⟩ que ⟨a⟩ areia"
     },
     {
       "surface": "ירבון",
-      "english": "são"
+      "gloss": "são"
     },
     {
       "surface": "הקיצתי",
-      "english": "quando acordo"
+      "gloss": "quando acordo"
     },
     {
       "surface": "ועודי",
-      "english": "eu ainda"
+      "gloss": "eu ainda"
     },
     {
       "surface": "עמך",
-      "english": "estou contigo"
+      "gloss": "estou contigo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:11:32.675754054Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

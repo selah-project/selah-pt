@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-samuel 22:21",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 548,
-    "prompt_tokens": 24021,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24569
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:56:56.847336550Z",
   "translation": "E Abiathar declarou a David que Shaul ⟨tinha⟩ matado ⟨את⟩ os kohanim de YHWH",
   "tokens": [
     {
       "surface": "ויגד",
-      "english": "e declarou"
+      "gloss": "e declarou"
     },
     {
       "surface": "אביתר",
-      "english": "Abiathar"
+      "gloss": "Abiathar"
     },
     {
       "surface": "לדוד",
-      "english": "a David"
+      "gloss": "a David"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "הרג",
-      "english": "⟨tinha⟩ matado"
+      "gloss": "⟨tinha⟩ matado"
     },
     {
       "surface": "שאול",
-      "english": "Shaul"
+      "gloss": "Shaul"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os kohanim de YHWH"
     },
     {
       "surface": "כהני",
-      "english": "os kohanim"
+      "gloss": "os kohanim"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T11:56:56.847336550Z",
-  "model": "glm-4.5"
+  ]
 }

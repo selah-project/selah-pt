@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "deuteronomy 26:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 26,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:15:35.713785779Z",
+  "translation": "e você dirá à presença de ⟨את⟩ YHWH seu Elohim: Eu ⟨tenho⟩ afastado ⟨o⟩ ⟨que é⟩ sagrado de ⟨a⟩ casa, e também ⟨o⟩ dei ao levita, e ao estrangeiro, ao órfão, e à viúva, conforme todos os teus Mitzvás que me ordenaste; não ⟨tenho⟩ transgredido os teus Mitzvás, e não ⟨tenho⟩ esquecido",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "E você dirá"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "à presença de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "seu Elohim"
+    },
+    {
+      "surface": "בערתי",
+      "gloss": "Eu ⟨tenho⟩ afastado"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨o⟩ ⟨que é⟩ sagrado"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e também"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "⟨o⟩ dei"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "ao levita"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "e ao estrangeiro"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "ao órfão"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "e à viúva"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "conforme todos"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "os teus Mitzvás"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צויתני",
+      "gloss": "me ordenaste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "⟨tenho⟩ transgredido"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "os teus mandamentos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "⟨tenho⟩ esquecido"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamento",
@@ -13,116 +112,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 908,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19346,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 20254
-  },
-  "translation": "e você dirá à presença de ⟨את⟩ YHWH seu Elohim: Eu ⟨tenho⟩ afastado ⟨o⟩ ⟨que é⟩ sagrado de ⟨a⟩ casa, e também ⟨o⟩ dei ao levita, e ao estrangeiro, ao órfão, e à viúva, conforme todos os teus Mitzvás que me ordenaste; não ⟨tenho⟩ transgredido os teus Mitzvás, e não ⟨tenho⟩ esquecido",
-  "tokens": [
-    {
-      "surface": "ואמרת",
-      "english": "E você dirá"
-    },
-    {
-      "surface": "לפני",
-      "english": "à presença de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיך",
-      "english": "seu Elohim"
-    },
-    {
-      "surface": "בערתי",
-      "english": "Eu ⟨tenho⟩ afastado"
-    },
-    {
-      "surface": "הקדש",
-      "english": "⟨o⟩ ⟨que é⟩ sagrado"
-    },
-    {
-      "surface": "מן",
-      "english": "de"
-    },
-    {
-      "surface": "הבית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "וגם",
-      "english": "e também"
-    },
-    {
-      "surface": "נתתיו",
-      "english": "⟨o⟩ dei"
-    },
-    {
-      "surface": "ללוי",
-      "english": "ao levita"
-    },
-    {
-      "surface": "ולגר",
-      "english": "e ao estrangeiro"
-    },
-    {
-      "surface": "ליתום",
-      "english": "ao órfão"
-    },
-    {
-      "surface": "ולאלמנה",
-      "english": "e à viúva"
-    },
-    {
-      "surface": "ככל",
-      "english": "conforme todos"
-    },
-    {
-      "surface": "מצותך",
-      "english": "os teus Mitzvás"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "צויתני",
-      "english": "me ordenaste"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "עברתי",
-      "english": "⟨tenho⟩ transgredido"
-    },
-    {
-      "surface": "ממצותיך",
-      "english": "os teus mandamentos"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "שכחתי",
-      "english": "⟨tenho⟩ esquecido"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:15:35.713785779Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

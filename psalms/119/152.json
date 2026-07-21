@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 152,
   "ref": "psalms 119:152",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 430,
-    "prompt_tokens": 70216,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70646
-  },
+  "verse": 152,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:15.556287243Z",
   "translation": "Desde antigamente conheci das tuas *edot* que as fundaste para sempre.",
   "tokens": [
     {
       "surface": "קדם",
-      "english": "Desde antigamente"
+      "gloss": "Desde antigamente"
     },
     {
       "surface": "ידעתי",
-      "english": "conheci"
+      "gloss": "conheci"
     },
     {
       "surface": "מעדתיך",
-      "english": "das tuas *edot*"
+      "gloss": "das tuas *edot*"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "לעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "יסדתם",
-      "english": "as fundaste"
+      "gloss": "as fundaste"
     }
-  ],
-  "timestamp": "2026-07-16T17:50:15.556287243Z",
-  "model": "glm-4.5"
+  ]
 }

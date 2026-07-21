@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 130:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 348,
-    "prompt_tokens": 70238,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70586
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:22.804690711Z",
   "translation": "E ele remirá ⟨את⟩ Yisrael de todas as suas perversidades",
   "tokens": [
     {
       "surface": "וְ\/הוּא",
-      "english": "E ele"
+      "gloss": "E ele"
     },
     {
       "surface": "יִפְדֶּה",
-      "english": "remirá"
+      "gloss": "remirá"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yisrael"
     },
     {
       "surface": "יִשְׂרָאֵל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "מִ\/כֹּל",
-      "english": "de todas as"
+      "gloss": "de todas as"
     },
     {
       "surface": "עֲוֺנֹתָי\/ו",
-      "english": "suas perversidades"
+      "gloss": "suas perversidades"
     }
-  ],
-  "timestamp": "2026-07-16T17:50:22.804690711Z",
-  "model": "glm-4.5"
+  ]
 }

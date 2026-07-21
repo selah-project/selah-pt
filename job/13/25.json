@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 13:25",
   "book": "job",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 27509,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27944
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:57:10.030313529Z",
   "translation": "Quebras tu uma folha impelida para lá e para cá, e persegues ⟨את⟩ a palha seca?",
   "tokens": [
     {
       "surface": "העלה",
-      "english": "quebras tu"
+      "gloss": "quebras tu"
     },
     {
       "surface": "נדף",
-      "english": "impelida para lá e para cá"
+      "gloss": "impelida para lá e para cá"
     },
     {
       "surface": "תערוץ",
-      "english": "folha"
+      "gloss": "folha"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a palha seca"
     },
     {
       "surface": "קש",
-      "english": "palha"
+      "gloss": "palha"
     },
     {
       "surface": "יבש",
-      "english": "seca"
+      "gloss": "seca"
     },
     {
       "surface": "תרדף",
-      "english": "persegues"
+      "gloss": "persegues"
     }
-  ],
-  "timestamp": "2026-07-16T15:57:10.030313529Z",
-  "model": "glm-4.5"
+  ]
 }

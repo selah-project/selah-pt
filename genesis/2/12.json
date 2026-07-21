@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 2:12",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 429,
-    "prompt_tokens": 28724,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29153
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:37:37.876717242Z",
   "translation": "e o ouro daquela terra ⟨é⟩ bom; ali ⟨há⟩ o bdélio e ⟨a⟩ pedra de ônix",
   "tokens": [
     {
       "surface": "וזהב",
-      "english": "e o ouro"
+      "gloss": "e o ouro"
     },
     {
       "surface": "הארץ",
-      "english": "daquela terra"
+      "gloss": "daquela terra"
     },
     {
       "surface": "ההוא",
-      "english": "⟨é⟩"
+      "gloss": "⟨é⟩"
     },
     {
       "surface": "טוב",
-      "english": "bom"
+      "gloss": "bom"
     },
     {
       "surface": "שם",
-      "english": "ali ⟨há⟩"
+      "gloss": "ali ⟨há⟩"
     },
     {
       "surface": "הבדלח",
-      "english": "o bdélio"
+      "gloss": "o bdélio"
     },
     {
       "surface": "ואבן",
-      "english": "e ⟨a⟩ pedra"
+      "gloss": "e ⟨a⟩ pedra"
     },
     {
       "surface": "השהם",
-      "english": "de ônix"
+      "gloss": "de ônix"
     }
-  ],
-  "timestamp": "2026-07-16T14:37:37.876717242Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,124 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "judges 7:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 7,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:57:30.117013955Z",
+  "translation": "E Gidôon veio, e eis que ⟨um⟩ homem ⟨estava⟩ contando a seu companheiro um sonho, e disse: Eis que sonhei um sonho, e eis que ⟨um⟩ bolo de pão de cevada ⟨estava⟩ rolando no acampamento de Midyan, e chegou até ⟨a⟩ tenda, e golpeou-a, e caiu, e virou-a ⟨para⟩ cima, e a tenda caiu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E...veio"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidôon"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e eis que"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨um⟩ homem"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "contando"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "a seu companheiro"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "um sonho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "um sonho"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "sonhei"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e eis que"
+    },
+    {
+      "surface": "צלול",
+      "gloss": "⟨um⟩ bolo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pão"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "de cevada"
+    },
+    {
+      "surface": "מתהפך",
+      "gloss": "⟨estava⟩ rolando"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "no acampamento"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "de Midyan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e chegou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "⟨a⟩ tenda"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "e golpeou-a"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "e caiu"
+    },
+    {
+      "surface": "ויהפכהו",
+      "gloss": "e virou-a"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "⟨para⟩ cima"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "e a tenda caiu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "a tenda"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Midiã",
@@ -13,132 +128,6 @@
       "hebrew": "מדין"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 924,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18141,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 19065
-  },
-  "translation": "E Gidôon veio, e eis que ⟨um⟩ homem ⟨estava⟩ contando a seu companheiro um sonho, e disse: Eis que sonhei um sonho, e eis que ⟨um⟩ bolo de pão de cevada ⟨estava⟩ rolando no acampamento de Midyan, e chegou até ⟨a⟩ tenda, e golpeou-a, e caiu, e virou-a ⟨para⟩ cima, e a tenda caiu.",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E...veio"
-    },
-    {
-      "surface": "גדעון",
-      "english": "Gidôon"
-    },
-    {
-      "surface": "והנה",
-      "english": "e eis que"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨um⟩ homem"
-    },
-    {
-      "surface": "מספר",
-      "english": "contando"
-    },
-    {
-      "surface": "לרעהו",
-      "english": "a seu companheiro"
-    },
-    {
-      "surface": "חלום",
-      "english": "um sonho"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis que"
-    },
-    {
-      "surface": "חלום",
-      "english": "um sonho"
-    },
-    {
-      "surface": "חלמתי",
-      "english": "sonhei"
-    },
-    {
-      "surface": "והנה",
-      "english": "e eis que"
-    },
-    {
-      "surface": "צלול",
-      "english": "⟨um⟩ bolo"
-    },
-    {
-      "surface": "לחם",
-      "english": "de pão"
-    },
-    {
-      "surface": "שערים",
-      "english": "de cevada"
-    },
-    {
-      "surface": "מתהפך",
-      "english": "⟨estava⟩ rolando"
-    },
-    {
-      "surface": "במחנה",
-      "english": "no acampamento"
-    },
-    {
-      "surface": "מדין",
-      "english": "de Midyan"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e chegou"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "האהל",
-      "english": "⟨a⟩ tenda"
-    },
-    {
-      "surface": "ויכהו",
-      "english": "e golpeou-a"
-    },
-    {
-      "surface": "ויפל",
-      "english": "e caiu"
-    },
-    {
-      "surface": "ויהפכהו",
-      "english": "e virou-a"
-    },
-    {
-      "surface": "למעלה",
-      "english": "⟨para⟩ cima"
-    },
-    {
-      "surface": "ונפל",
-      "english": "e a tenda caiu"
-    },
-    {
-      "surface": "האהל",
-      "english": "a tenda"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:57:30.117013955Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

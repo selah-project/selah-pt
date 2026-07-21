@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "joel 4:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joel",
+  "chapter": 4,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:04:36.368374768Z",
+  "translation": "E ⟨os⟩ filhos de Yehudá e ⟨os⟩ filhos de Yerushalayim vendestes ⟨para⟩ os filhos ⟨dos⟩ gregos, ⟨a fim de⟩ removê-los ⟨para⟩ longe ⟨da⟩ sua fronteira",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E ⟨os⟩ filhos"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e ⟨os⟩ filhos"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "vendestes"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨para⟩ os filhos"
+    },
+    {
+      "surface": "היונים",
+      "gloss": "⟨dos⟩ gregos"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨a fim de⟩"
+    },
+    {
+      "surface": "הרחיקם",
+      "gloss": "removê-los"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨para⟩ longe"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "⟨da⟩ sua fronteira"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,68 +71,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16392,
-    "prompt_tokens_details": {
-      "cached_tokens": 15275
-    },
-    "total_tokens": 16763
-  },
-  "translation": "E ⟨os⟩ filhos de Yehudá e ⟨os⟩ filhos de Yerushalayim vendestes ⟨para⟩ os filhos ⟨dos⟩ gregos, ⟨a fim de⟩ removê-los ⟨para⟩ longe ⟨da⟩ sua fronteira",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E ⟨os⟩ filhos"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ובני",
-      "english": "e ⟨os⟩ filhos"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    },
-    {
-      "surface": "מכרתם",
-      "english": "vendestes"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨para⟩ os filhos"
-    },
-    {
-      "surface": "היונים",
-      "english": "⟨dos⟩ gregos"
-    },
-    {
-      "surface": "למען",
-      "english": "⟨a fim de⟩"
-    },
-    {
-      "surface": "הרחיקם",
-      "english": "removê-los"
-    },
-    {
-      "surface": "מעל",
-      "english": "⟨para⟩ longe"
-    },
-    {
-      "surface": "גבולם",
-      "english": "⟨da⟩ sua fronteira"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:04:36.368374768Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

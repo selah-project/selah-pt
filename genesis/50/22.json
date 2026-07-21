@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "genesis 50:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 50,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:35:26.650301779Z",
+  "translation": "E Yosef habitou no Egito, ele ⟨e⟩ a casa de seu pai, e Yosef viveu cem e dez anos.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E José habitou"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "no Egito"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "⟨e⟩ a casa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de seu pai"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "e José viveu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cem"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "e dez"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "José",
@@ -20,68 +71,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 50,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21626,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21958
-  },
-  "translation": "E Yosef habitou no Egito, ele ⟨e⟩ a casa de seu pai, e Yosef viveu cem e dez anos.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E José habitou"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    },
-    {
-      "surface": "במצרים",
-      "english": "no Egito"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele"
-    },
-    {
-      "surface": "ובית",
-      "english": "⟨e⟩ a casa"
-    },
-    {
-      "surface": "אביו",
-      "english": "de seu pai"
-    },
-    {
-      "surface": "ויחי",
-      "english": "e José viveu"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    },
-    {
-      "surface": "מאה",
-      "english": "cem"
-    },
-    {
-      "surface": "ועשר",
-      "english": "e dez"
-    },
-    {
-      "surface": "שנים",
-      "english": "anos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:35:26.650301779Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

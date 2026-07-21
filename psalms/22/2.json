@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 22:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 760,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63036,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63796
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:53:02.423288160Z",
   "translation": "Eli, Eli, ⟨por⟩ que me abandonaste? ⟨Estás⟩ distante de ⟨o⟩ meu livramento, ⟨nos⟩ ⟨dizeres⟩ do ⟨meu⟩ ⟨rugir⟩.",
   "tokens": [
     {
       "surface": "אלי",
-      "english": "Eli",
+      "gloss": "Eli",
       "marks": ""
     },
     {
       "surface": "אלי",
-      "english": "Eli",
+      "gloss": "Eli",
       "marks": ""
     },
     {
       "surface": "למה",
-      "english": "⟨por⟩ que",
+      "gloss": "⟨por⟩ que",
       "rationale": "Hebrew interrogative; requires preposition 'por' in Portuguese"
     },
     {
       "surface": "עזבתני",
-      "english": "me abandonaste",
+      "gloss": "me abandonaste",
       "rationale": "Perfective 2ms verb: 'you abandoned me'"
     },
     {
       "surface": "רחוק",
-      "english": "⟨Estás⟩ distante",
+      "gloss": "⟨Estás⟩ distante",
       "rationale": "Adjective requires copula in Portuguese; 'distante' conveys remoteness"
     },
     {
       "surface": "מישועתי",
-      "english": "de ⟨o⟩ meu livramento",
+      "gloss": "de ⟨o⟩ meu livramento",
       "rationale": "מישועתי is a hapax (unique word); 'livramento' from the root ישע (deliver\/save)"
     },
     {
       "surface": "דברי",
-      "english": "⟨nos⟩ ⟨dizeres⟩",
+      "gloss": "⟨nos⟩ ⟨dizeres⟩",
       "rationale": "Construct chain: 'dizeres' (from דבר, word) with implied preposition"
     },
     {
       "surface": "שאגתי",
-      "english": "do ⟨meu⟩ ⟨rugir⟩",
+      "gloss": "do ⟨meu⟩ ⟨rugir⟩",
       "rationale": "My roaring\/groaning; שאגה can mean roar or groan"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:53:02.423288160Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

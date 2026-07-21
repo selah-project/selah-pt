@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "2-chronicles 4:15",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 339,
-    "prompt_tokens": 65545,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 65884
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:05:58.099464811Z",
   "translation": "o Mar, um, e ⟨את⟩ os doze bois ⟨את⟩ sob ⟨ele⟩",
   "tokens": [
     {
       "surface": "את",
-      "english": "",
+      "gloss": "",
       "marks": "הים"
     },
     {
       "surface": "הים",
-      "english": "o Mar"
+      "gloss": "o Mar"
     },
     {
       "surface": "אחד",
-      "english": "um"
+      "gloss": "um"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "הבקר"
     },
     {
       "surface": "הבקר",
-      "english": "os doze bois"
+      "gloss": "os doze bois"
     },
     {
       "surface": "שנים",
-      "english": "doze"
+      "gloss": "doze"
     },
     {
       "surface": "עשר",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "תחתיו",
-      "english": "sob ⟨ele⟩"
+      "gloss": "sob ⟨ele⟩"
     }
-  ],
-  "timestamp": "2026-07-16T12:05:58.099464811Z",
-  "model": "glm-4.5"
+  ]
 }

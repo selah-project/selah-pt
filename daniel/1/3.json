@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "daniel 1:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 1,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:46:01.424087779Z",
+  "translation": "E o rei disse ⟨a⟩ Aspenaz, ⟨o⟩ mestre ⟨de⟩ seus eunucos, para trazer ⟨de⟩ entre ⟨os⟩ filhos ⟨de⟩ Yisrael, e ⟨de⟩ ⟨a⟩ descendência ⟨da⟩ realeza, e ⟨de entre⟩ ⟨os⟩ partos:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "לאשפנז",
+      "gloss": "⟨a⟩ Aspenaz",
+      "marks": "Aspenaz"
+    },
+    {
+      "surface": "רב",
+      "gloss": "⟨o⟩ mestre"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "⟨de⟩ seus eunucos"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "para trazer"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "⟨de⟩ entre ⟨os⟩ filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael",
+      "marks": "os filhos de Israel"
+    },
+    {
+      "surface": "ומזרע",
+      "gloss": "e ⟨de⟩ ⟨a⟩ descendência"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "⟨da⟩ realeza"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e ⟨de entre⟩"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "⟨os⟩ partos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,74 +70,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 718,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17705,
-    "prompt_tokens_details": {
-      "cached_tokens": 16111
-    },
-    "total_tokens": 18423
-  },
-  "translation": "E o rei disse ⟨a⟩ Aspenaz, ⟨o⟩ mestre ⟨de⟩ seus eunucos, para trazer ⟨de⟩ entre ⟨os⟩ filhos ⟨de⟩ Yisrael, e ⟨de⟩ ⟨a⟩ descendência ⟨da⟩ realeza, e ⟨de entre⟩ ⟨os⟩ partos:",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ... disse"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "לאשפנז",
-      "english": "⟨a⟩ Aspenaz",
-      "marks": "Aspenaz"
-    },
-    {
-      "surface": "רב",
-      "english": "⟨o⟩ mestre"
-    },
-    {
-      "surface": "סריסיו",
-      "english": "⟨de⟩ seus eunucos"
-    },
-    {
-      "surface": "להביא",
-      "english": "para trazer"
-    },
-    {
-      "surface": "מבני",
-      "english": "⟨de⟩ entre ⟨os⟩ filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael",
-      "marks": "os filhos de Israel"
-    },
-    {
-      "surface": "ומזרע",
-      "english": "e ⟨de⟩ ⟨a⟩ descendência"
-    },
-    {
-      "surface": "המלוכה",
-      "english": "⟨da⟩ realeza"
-    },
-    {
-      "surface": "ומן",
-      "english": "e ⟨de entre⟩"
-    },
-    {
-      "surface": "הפרתמים",
-      "english": "⟨os⟩ partos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:46:01.424087779Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

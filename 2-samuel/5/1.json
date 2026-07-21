@@ -1,9 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-samuel 5:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 5,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:47:19.837418309Z",
+  "translation": "E vieram todas as tribos de Yisrael ⟨a⟩ Davidd em Jevron ⟨e⟩ disseram, dizendo: Eis-nos aqui, osso ⟨teu⟩ ⟨e⟩ carne ⟨tua⟩, nós.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "E vieram"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todas"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tribos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "em Jevron"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "⟨e⟩ disseram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "Eis-nos aqui"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "osso ⟨teu⟩",
+      "marks": "teu"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "⟨e⟩ carne ⟨tua⟩",
+      "marks": "tua"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nós"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -27,79 +89,6 @@
       "hebrew": "חברון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17683,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 18221
-  },
-  "translation": "E vieram todas as tribos de Yisrael ⟨a⟩ Davidd em Jevron ⟨e⟩ disseram, dizendo: Eis-nos aqui, osso ⟨teu⟩ ⟨e⟩ carne ⟨tua⟩, nós.",
-  "tokens": [
-    {
-      "surface": "ויבאו",
-      "english": "E vieram"
-    },
-    {
-      "surface": "כל",
-      "english": "todas"
-    },
-    {
-      "surface": "שבטי",
-      "english": "tribos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩",
-      "marks": "David"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "חברונה",
-      "english": "em Jevron"
-    },
-    {
-      "surface": "ויאמרו",
-      "english": "⟨e⟩ disseram"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "הננו",
-      "english": "Eis-nos aqui"
-    },
-    {
-      "surface": "עצמך",
-      "english": "osso ⟨teu⟩",
-      "marks": "teu"
-    },
-    {
-      "surface": "ובשרך",
-      "english": "⟨e⟩ carne ⟨tua⟩",
-      "marks": "tua"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "nós"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:47:19.837418309Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

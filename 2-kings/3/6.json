@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-kings 3:6",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24439,
-    "prompt_tokens_details": {
-      "cached_tokens": 23108
-    },
-    "total_tokens": 24854
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:42:15.364361167Z",
   "translation": "E saiu ⟨o⟩ rei Yehoram naquele dia de Shomron e convocou ⟨את⟩ todo Yisrael",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "E saiu"
+      "gloss": "E saiu"
     },
     {
       "surface": "המלך",
-      "english": "⟨o⟩ rei"
+      "gloss": "⟨o⟩ rei"
     },
     {
       "surface": "יהורם",
-      "english": "Yehoram"
+      "gloss": "Yehoram"
     },
     {
       "surface": "ביום",
-      "english": "naquele dia"
+      "gloss": "naquele dia"
     },
     {
       "surface": "ההוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "משמרון",
-      "english": "de Shomron"
+      "gloss": "de Shomron"
     },
     {
       "surface": "ויפקד",
-      "english": "e convocou"
+      "gloss": "e convocou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todo Yisrael"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     }
-  ],
-  "timestamp": "2026-06-14T04:42:15.364361167Z",
-  "model": "glm-4.5"
+  ]
 }

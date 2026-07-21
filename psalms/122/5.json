@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 122:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 122,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:04:15.365400763Z",
+  "translation": "Porque ⟨estão⟩ ali tronos ⟨para⟩ juízo, os tronos ⟨da⟩ casa ⟨de⟩ Davidd",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "⟨estão⟩ ali"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tronos"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "⟨para⟩ juízo"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "os tronos"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "⟨de⟩ Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,56 +52,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 122,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62958,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63368
-  },
-  "translation": "Porque ⟨estão⟩ ali tronos ⟨para⟩ juízo, os tronos ⟨da⟩ casa ⟨de⟩ Davidd",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "שמה",
-      "english": "⟨estão⟩ ali"
-    },
-    {
-      "surface": "ישבו",
-      "english": "tronos"
-    },
-    {
-      "surface": "כסאות",
-      "english": "⟨para⟩ juízo"
-    },
-    {
-      "surface": "למשפט",
-      "english": "os tronos"
-    },
-    {
-      "surface": "כסאות",
-      "english": "⟨da⟩"
-    },
-    {
-      "surface": "לבית",
-      "english": "casa"
-    },
-    {
-      "surface": "דויד",
-      "english": "⟨de⟩ Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:04:15.365400763Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

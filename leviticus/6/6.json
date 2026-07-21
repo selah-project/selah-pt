@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "leviticus 6:6",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 365,
-    "prompt_tokens": 24882,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25247
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:37:50.266778713Z",
   "translation": "Fire ⟨shall be⟩ burnt continually upon ⟨the⟩ mizbeiach; ⟨it⟩ shall not be extinguished.",
   "tokens": [
     {
       "surface": "אש",
-      "english": "Fire"
+      "gloss": "Fire"
     },
     {
       "surface": "תמיד",
-      "english": "continually"
+      "gloss": "continually"
     },
     {
       "surface": "תוקד",
-      "english": "shall be burnt"
+      "gloss": "shall be burnt"
     },
     {
       "surface": "על",
-      "english": "upon"
+      "gloss": "upon"
     },
     {
       "surface": "המזבח",
-      "english": "⟨the⟩ mizbeiach"
+      "gloss": "⟨the⟩ mizbeiach"
     },
     {
       "surface": "לא",
-      "english": "shall not"
+      "gloss": "shall not"
     },
     {
       "surface": "תכבה",
-      "english": "be extinguished"
+      "gloss": "be extinguished"
     }
-  ],
-  "timestamp": "2026-07-16T16:37:50.266778713Z",
-  "model": "glm-4.5"
+  ]
 }

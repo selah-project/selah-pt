@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 121:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 121,
-  "usage": {
-    "completion_tokens": 546,
-    "prompt_tokens": 70401,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70947
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:41.981071036Z",
   "translation": "Um cântico ⟨dos⟩ degraus. Eu ergo ⟨meus⟩ olhos ⟨para⟩ os montes: ⟨de onde⟩ virá ⟨o⟩ meu socorro?",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Um cântico"
+      "gloss": "Um cântico"
     },
     {
       "surface": "למעלות",
-      "english": "⟨dos⟩ degraus"
+      "gloss": "⟨dos⟩ degraus"
     },
     {
       "surface": "אשא",
-      "english": "Eu ergo"
+      "gloss": "Eu ergo"
     },
     {
       "surface": "עיני",
-      "english": "⟨meus⟩ olhos"
+      "gloss": "⟨meus⟩ olhos"
     },
     {
       "surface": "אל",
-      "english": "⟨para⟩"
+      "gloss": "⟨para⟩"
     },
     {
       "surface": "ההרים",
-      "english": "os montes"
+      "gloss": "os montes"
     },
     {
       "surface": "מאין",
-      "english": "⟨de onde⟩"
+      "gloss": "⟨de onde⟩"
     },
     {
       "surface": "יבא",
-      "english": "virá"
+      "gloss": "virá"
     },
     {
       "surface": "עזרי",
-      "english": "⟨o⟩ meu socorro"
+      "gloss": "⟨o⟩ meu socorro"
     }
-  ],
-  "timestamp": "2026-07-16T17:50:41.981071036Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "job 38:28",
   "book": "job",
-  "lang": "pt",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 617,
-    "prompt_tokens": 27415,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 28032
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:02:38.977041700Z",
   "translation": "Acaso ⟨há⟩ um pai para a chuva, ou quem gerou as gotas de orvalho?",
   "tokens": [
     {
       "surface": "היש",
-      "english": "Acaso ⟨há⟩"
+      "gloss": "Acaso ⟨há⟩"
     },
     {
       "surface": "למטר",
-      "english": "para a chuva"
+      "gloss": "para a chuva"
     },
     {
       "surface": "אב",
-      "english": "um pai"
+      "gloss": "um pai"
     },
     {
       "surface": "או",
-      "english": "ou"
+      "gloss": "ou"
     },
     {
       "surface": "מי",
-      "english": "quem"
+      "gloss": "quem"
     },
     {
       "surface": "הוליד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "אגלי",
-      "english": "as gotas de"
+      "gloss": "as gotas de"
     },
     {
       "surface": "טל",
-      "english": "orvalho"
+      "gloss": "orvalho"
     }
-  ],
-  "timestamp": "2026-07-16T16:02:38.977041700Z",
-  "model": "glm-4.5"
+  ]
 }

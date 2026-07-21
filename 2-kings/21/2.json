@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "2-kings 21:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 21,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:08:06.236347835Z",
+  "translation": "E ele fez o mal ⟨em⟩ ⟨os⟩ olhos ⟨de⟩ YHWH, conforme ⟨as⟩ abominações ⟨dos⟩ gentios que YHWFH havia expulsado de diante dos filhos ⟨de⟩ Yisrael",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E ele fez"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "o mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "em ⟨os⟩ olhos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "כתועבת",
+      "gloss": "conforme ⟨as⟩ abominações"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨dos⟩ gentios"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "YHWFH havia expulsado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWFH"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de diante"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17293,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17798
-  },
-  "translation": "E ele fez o mal ⟨em⟩ ⟨os⟩ olhos ⟨de⟩ YHWH, conforme ⟨as⟩ abominações ⟨dos⟩ gentios que YHWFH havia expulsado de diante dos filhos ⟨de⟩ Yisrael",
-  "tokens": [
-    {
-      "surface": "ויעש",
-      "english": "E ele fez"
-    },
-    {
-      "surface": "הרע",
-      "english": "o mal"
-    },
-    {
-      "surface": "בעיני",
-      "english": "em ⟨os⟩ olhos"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    },
-    {
-      "surface": "כתועבת",
-      "english": "conforme ⟨as⟩ abominações"
-    },
-    {
-      "surface": "הגוים",
-      "english": "⟨dos⟩ gentios"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "הוריש",
-      "english": "YHWFH havia expulsado"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWFH"
-    },
-    {
-      "surface": "מפני",
-      "english": "de diante"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:08:06.236347835Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

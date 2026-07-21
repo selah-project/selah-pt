@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-chronicles 15:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 15,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:22:09.504998989Z",
+  "translation": "E se reuniram ⟨em⟩ Yerushalayim, ⟨no⟩ terceiro mês, ⟨no⟩ décimo quinto ano ⟨do⟩ reinado ⟨de⟩ Asa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "E se reuniram"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "em Yerushalayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "terceiro mês"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "quinze"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "⟨do⟩ reinado"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "⟨de⟩ Asa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,60 +56,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58223,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58654
-  },
-  "translation": "E se reuniram ⟨em⟩ Yerushalayim, ⟨no⟩ terceiro mês, ⟨no⟩ décimo quinto ano ⟨do⟩ reinado ⟨de⟩ Asa.",
-  "tokens": [
-    {
-      "surface": "ויקבצו",
-      "english": "E se reuniram"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "em Yerushalayim"
-    },
-    {
-      "surface": "בחדש",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "השלישי",
-      "english": "terceiro mês"
-    },
-    {
-      "surface": "לשנת",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "חמש",
-      "english": "quinze"
-    },
-    {
-      "surface": "עשרה",
-      "english": "ano"
-    },
-    {
-      "surface": "למלכות",
-      "english": "⟨do⟩ reinado"
-    },
-    {
-      "surface": "אסא",
-      "english": "⟨de⟩ Asa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:22:09.504998989Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

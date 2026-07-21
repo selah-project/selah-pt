@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 9:6",
   "book": "job",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 301,
-    "prompt_tokens": 27326,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27627
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:56:28.636949077Z",
   "translation": "Quem agita a terra do ⟨seu⟩ lugar, e as colunas dela estremecem",
   "tokens": [
     {
       "surface": "המרגיז",
-      "english": "Quem agita"
+      "gloss": "Quem agita"
     },
     {
       "surface": "ארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     },
     {
       "surface": "ממקומה",
-      "english": "do ⟨seu⟩ lugar"
+      "gloss": "do ⟨seu⟩ lugar"
     },
     {
       "surface": "ועמודיה",
-      "english": "e as colunas dela"
+      "gloss": "e as colunas dela"
     },
     {
       "surface": "יתפלצון",
-      "english": "estremecem"
+      "gloss": "estremecem"
     }
-  ],
-  "timestamp": "2026-07-16T15:56:28.636949077Z",
-  "model": "glm-4.5"
+  ]
 }

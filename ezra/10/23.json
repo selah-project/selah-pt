@@ -1,9 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "ezra 10:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 10,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:13:31.156531437Z",
+  "translation": "E ⟨dos⟩ levitas: Jozabad e Shimei, e Kelaia, ⟨este é⟩ Kelita, Pethachiah, Yehudá e Eliezer.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "E ⟨dos⟩"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitas:"
+    },
+    {
+      "surface": "יוזבד",
+      "gloss": "Jozabad"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "e Shimei"
+    },
+    {
+      "surface": "וקליה",
+      "gloss": "e Kelaia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨este é⟩",
+      "marks": "Kelaia"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "Kelita"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "Pethachiah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "e Eliezer"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,65 +61,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45220,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 45630
-  },
-  "translation": "E ⟨dos⟩ levitas: Jozabad e Shimei, e Kelaia, ⟨este é⟩ Kelita, Pethachiah, Yehudá e Eliezer.",
-  "tokens": [
-    {
-      "surface": "ומן",
-      "english": "E ⟨dos⟩"
-    },
-    {
-      "surface": "הלוים",
-      "english": "levitas:"
-    },
-    {
-      "surface": "יוזבד",
-      "english": "Jozabad"
-    },
-    {
-      "surface": "ושמעי",
-      "english": "e Shimei"
-    },
-    {
-      "surface": "וקליה",
-      "english": "e Kelaia"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨este é⟩",
-      "marks": "Kelaia"
-    },
-    {
-      "surface": "קליטא",
-      "english": "Kelita"
-    },
-    {
-      "surface": "פתחיה",
-      "english": "Pethachiah"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "ואליעזר",
-      "english": "e Eliezer"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:13:31.156531437Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

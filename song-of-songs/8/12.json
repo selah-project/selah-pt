@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "song-of-songs 8:12",
   "book": "song-of-songs",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 499,
-    "prompt_tokens": 28196,
-    "prompt_tokens_details": {
-      "cached_tokens": 26752
-    },
-    "total_tokens": 28695
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:54:58.564921596Z",
   "translation": "A minha vinha, que é minha, está diante de mim: para ti, ó Shlomó, pertencem as mil, e duzentas para os que guardam ⟨את⟩ o seu fruto.",
   "tokens": [
     {
       "surface": "כרמי",
-      "english": "A minha vinha"
+      "gloss": "A minha vinha"
     },
     {
       "surface": "שלי",
-      "english": "que é minha"
+      "gloss": "que é minha"
     },
     {
       "surface": "לפני",
-      "english": "está diante de mim"
+      "gloss": "está diante de mim"
     },
     {
       "surface": "האלף",
-      "english": "as mil"
+      "gloss": "as mil"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "שלמה",
-      "english": "ó Shlomó"
+      "gloss": "ó Shlomó"
     },
     {
       "surface": "ומאתים",
-      "english": "e duzentas"
+      "gloss": "e duzentas"
     },
     {
       "surface": "לנטרים",
-      "english": "para os que guardam"
+      "gloss": "para os que guardam"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o seu fruto"
     },
     {
       "surface": "פריו",
-      "english": "o seu fruto"
+      "gloss": "o seu fruto"
     }
-  ],
-  "timestamp": "2026-07-16T17:54:58.564921596Z",
-  "model": "glm-4.5"
+  ]
 }

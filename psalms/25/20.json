@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 25:20",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70273,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70751
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:37:40.300976793Z",
   "translation": "Guarda ⟨a⟩ minha vida e livra-me; não ⟨eu⟩ ⟨seja⟩ envergonhado, porque em ti confiei.",
   "tokens": [
     {
       "surface": "שמרה",
-      "english": "Guarda"
+      "gloss": "Guarda"
     },
     {
       "surface": "נפשי",
-      "english": "⟨a⟩ minha vida"
+      "gloss": "⟨a⟩ minha vida"
     },
     {
       "surface": "והצילני",
-      "english": "e livra-me"
+      "gloss": "e livra-me"
     },
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "אבוש",
-      "english": "⟨eu⟩ ⟨seja⟩ envergonhado"
+      "gloss": "⟨eu⟩ ⟨seja⟩ envergonhado"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "חסיתי",
-      "english": "em ti confiei"
+      "gloss": "em ti confiei"
     },
     {
       "surface": "בך",
-      "english": "em ti"
+      "gloss": "em ti"
     }
-  ],
-  "timestamp": "2026-06-13T06:37:40.300976793Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 126:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 126,
-  "usage": {
-    "completion_tokens": 413,
-    "prompt_tokens": 70221,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70634
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:52.230363509Z",
   "translation": "YHWH fez grandes coisas conosco; estamos alegres.",
   "tokens": [
     {
       "surface": "הגדיל",
-      "english": "fez grandes"
+      "gloss": "fez grandes"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לעשות",
-      "english": "coisas"
+      "gloss": "coisas"
     },
     {
       "surface": "עמנו",
-      "english": "conosco"
+      "gloss": "conosco"
     },
     {
       "surface": "היינו",
-      "english": "estamos"
+      "gloss": "estamos"
     },
     {
       "surface": "שמחים",
-      "english": "alegres"
+      "gloss": "alegres"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:52.230363509Z",
-  "model": "glm-4.5"
+  ]
 }

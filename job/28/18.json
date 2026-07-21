@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 28:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 28,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:04:06.523831378Z",
+  "translation": "Coral e ⟨o⟩ gabich ⟨não⟩ ⟨são⟩ mencionados, e ⟨o⟩ preço ⟨da⟩ Jojmá ⟨é⟩ ⟨acima de⟩ pérolas.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "Coral"
+    },
+    {
+      "surface": "וגביש",
+      "gloss": "e ⟨o⟩ gabich",
+      "marks": "cristal\/quartzo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨não⟩"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "⟨são⟩ mencionados"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "e ⟨o⟩ preço",
+      "marks": "sabedoria"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "⟨da⟩ Jojmá"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "⟨acima de⟩ pérolas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -13,54 +50,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 679,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20086,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20765
-  },
-  "translation": "Coral e ⟨o⟩ gabich ⟨não⟩ ⟨são⟩ mencionados, e ⟨o⟩ preço ⟨da⟩ Jojmá ⟨é⟩ ⟨acima de⟩ pérolas.",
-  "tokens": [
-    {
-      "surface": "ראמות",
-      "english": "Coral"
-    },
-    {
-      "surface": "וגביש",
-      "english": "e ⟨o⟩ gabich",
-      "marks": "cristal\/quartzo"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨não⟩"
-    },
-    {
-      "surface": "יזכר",
-      "english": "⟨são⟩ mencionados"
-    },
-    {
-      "surface": "ומשך",
-      "english": "e ⟨o⟩ preço",
-      "marks": "sabedoria"
-    },
-    {
-      "surface": "חכמה",
-      "english": "⟨da⟩ Jojmá"
-    },
-    {
-      "surface": "מפנינים",
-      "english": "⟨acima de⟩ pérolas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:04:06.523831378Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

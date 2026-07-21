@@ -1,79 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 22:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57481,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58009
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:56:56.935007834Z",
   "translation": "e madeiras de cedro ⟨são⟩ ⟨em⟩ número ⟨que⟩ ⟨não⟩ ⟨pode⟩ ⟨ser⟩ contado, porque os sidônios e os tírios trouxeram madeiras de cedro em abundância para David",
   "tokens": [
     {
       "surface": "ועצי",
-      "english": "E madeiras"
+      "gloss": "E madeiras"
     },
     {
       "surface": "ארזים",
-      "english": "de cedro"
+      "gloss": "de cedro"
     },
     {
       "surface": "לאין",
-      "english": "⟨são⟩ ⟨em⟩ número ⟨que⟩ ⟨não⟩ ⟨pode⟩ ⟨ser⟩ contado",
+      "gloss": "⟨são⟩ ⟨em⟩ número ⟨que⟩ ⟨não⟩ ⟨pode⟩ ⟨ser⟩ contado",
       "rationale": "Hebraico idiomático 'sem número' requer verbo e artigo em português"
     },
     {
       "surface": "מספר",
-      "english": "contado",
+      "gloss": "contado",
       "rationale": "Parte da construção idiomática 'sem número'"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "הביאו",
-      "english": "trouxeram"
+      "gloss": "trouxeram"
     },
     {
       "surface": "הצידנים",
-      "english": "os sidônios"
+      "gloss": "os sidônios"
     },
     {
       "surface": "והצרים",
-      "english": "e os tírios"
+      "gloss": "e os tírios"
     },
     {
       "surface": "עצי",
-      "english": "madeiras"
+      "gloss": "madeiras"
     },
     {
       "surface": "ארזים",
-      "english": "de cedro"
+      "gloss": "de cedro"
     },
     {
       "surface": "לרב",
-      "english": "em abundância",
+      "gloss": "em abundância",
       "rationale": "Expressão hebraica 'em grande quantidade'"
     },
     {
       "surface": "לדויד",
-      "english": "para David"
+      "gloss": "para David"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:56:56.935007834Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

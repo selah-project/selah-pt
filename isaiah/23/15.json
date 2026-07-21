@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "isaiah 23:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 23,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:30:18.349748338Z",
+  "translation": "E ser⟨á⟩ naquele dia: Tzor será esquecida setenta anos, conforme os dias de um rei; ao fim de setenta anos, Tzor será ⟨como⟩ a canção da prostituta.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E ser⟨á⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "naquele dia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ":"
+    },
+    {
+      "surface": "ונשכחת",
+      "gloss": "Tiro será esquecida"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzor"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "setenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "conforme os dias"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de um rei"
+    },
+    {
+      "surface": "אחד",
+      "gloss": ";"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ao fim"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "setenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "Tiro será ⟨como⟩"
+    },
+    {
+      "surface": "לצר",
+      "gloss": "Tiro"
+    },
+    {
+      "surface": "כשירת",
+      "gloss": "a canção"
+    },
+    {
+      "surface": "הזונה",
+      "gloss": "da prostituta"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Tiro",
@@ -13,92 +88,6 @@
       "hebrew": "צור"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 658,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19823,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20481
-  },
-  "translation": "E ser⟨á⟩ naquele dia: Tzor será esquecida setenta anos, conforme os dias de um rei; ao fim de setenta anos, Tzor será ⟨como⟩ a canção da prostituta.",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "E ser⟨á⟩"
-    },
-    {
-      "surface": "ביום",
-      "english": "naquele dia"
-    },
-    {
-      "surface": "ההוא",
-      "english": ":"
-    },
-    {
-      "surface": "ונשכחת",
-      "english": "Tiro será esquecida"
-    },
-    {
-      "surface": "צר",
-      "english": "Tzor"
-    },
-    {
-      "surface": "שבעים",
-      "english": "setenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "כימי",
-      "english": "conforme os dias"
-    },
-    {
-      "surface": "מלך",
-      "english": "de um rei"
-    },
-    {
-      "surface": "אחד",
-      "english": ";"
-    },
-    {
-      "surface": "מקץ",
-      "english": "ao fim"
-    },
-    {
-      "surface": "שבעים",
-      "english": "setenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "יהיה",
-      "english": "Tiro será ⟨como⟩"
-    },
-    {
-      "surface": "לצר",
-      "english": "Tiro"
-    },
-    {
-      "surface": "כשירת",
-      "english": "a canção"
-    },
-    {
-      "surface": "הזונה",
-      "english": "da prostituta"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:30:18.349748338Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

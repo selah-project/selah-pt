@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 6:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 6,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:41:31.915947159Z",
+  "translation": "E Moshé falou diante de ⟨את⟩ YHWH, dizendo: Eis que ⟨os⟩ filhos de Yisrael não ouviram a mim, e como Paró ouvirá a mim, pois eu ⟨sou⟩ ⟨de⟩ lábios incircuncisos?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E falou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ouviram"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mim"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "e como"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "ouvirá a mim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "pois eu"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "incircuncisos"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lábios"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -27,92 +102,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 660,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17763,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18423
-  },
-  "translation": "E Moshé falou diante de ⟨את⟩ YHWH, dizendo: Eis que ⟨os⟩ filhos de Yisrael não ouviram a mim, e como Paró ouvirá a mim, pois eu ⟨sou⟩ ⟨de⟩ lábios incircuncisos?",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E falou"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "הן",
-      "english": "Eis que"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "שמעו",
-      "english": "ouviram"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mim"
-    },
-    {
-      "surface": "ואיך",
-      "english": "e como"
-    },
-    {
-      "surface": "ישמעני",
-      "english": "ouvirá a mim"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "ואני",
-      "english": "pois eu"
-    },
-    {
-      "surface": "ערל",
-      "english": "incircuncisos"
-    },
-    {
-      "surface": "שפתים",
-      "english": "lábios"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:41:31.915947159Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

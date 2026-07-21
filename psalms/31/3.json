@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 31:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 591,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70611,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 71202
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:54:02.204823310Z",
   "translation": "Inclina ⟨o⟩ teu ouvido para mim, livra-me apressadamente; sê para mim ⟨um⟩ rochedo fortaleza, ⟨uma⟩ casa de fortalezas para ⟨me⟩ livrar.",
   "tokens": [
     {
       "surface": "הטה",
-      "english": "Inclina"
+      "gloss": "Inclina"
     },
     {
       "surface": "אלי",
-      "english": "para mim"
+      "gloss": "para mim"
     },
     {
       "surface": "אזנך",
-      "english": "⟨o⟩ teu ouvido"
+      "gloss": "⟨o⟩ teu ouvido"
     },
     {
       "surface": "מהרה",
-      "english": "apressadamente"
+      "gloss": "apressadamente"
     },
     {
       "surface": "הצילני",
-      "english": "livra-me"
+      "gloss": "livra-me"
     },
     {
       "surface": "היה",
-      "english": "sê"
+      "gloss": "sê"
     },
     {
       "surface": "לי",
-      "english": "para mim"
+      "gloss": "para mim"
     },
     {
       "surface": "לצור",
-      "english": "⟨um⟩ rochedo"
+      "gloss": "⟨um⟩ rochedo"
     },
     {
       "surface": "מעוז",
-      "english": "fortaleza"
+      "gloss": "fortaleza"
     },
     {
       "surface": "לבית",
-      "english": "⟨uma⟩ casa"
+      "gloss": "⟨uma⟩ casa"
     },
     {
       "surface": "מצודות",
-      "english": "de fortalezas"
+      "gloss": "de fortalezas"
     },
     {
       "surface": "להושיעני",
-      "english": "para ⟨me⟩ livrar",
+      "gloss": "para ⟨me⟩ livrar",
       "marks": "me"
     }
-  ],
-  "timestamp": "2026-06-14T04:54:02.204823310Z",
-  "model": "glm-4.5"
+  ]
 }

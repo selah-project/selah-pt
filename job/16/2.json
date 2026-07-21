@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 16:2",
   "book": "job",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 433,
-    "prompt_tokens": 27343,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27776
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:57:46.977854144Z",
   "translation": "Eu ouvi muitas ⟨coisas⟩ como estas: ⟨são⟩ todos vós consoladores de ⟨amargura⟩.",
   "tokens": [
     {
       "surface": "שמעתי",
-      "english": "Eu ouvi"
+      "gloss": "Eu ouvi"
     },
     {
       "surface": "כאלה",
-      "english": "como estas"
+      "gloss": "como estas"
     },
     {
       "surface": "רבות",
-      "english": "muitas ⟨coisas⟩"
+      "gloss": "muitas ⟨coisas⟩"
     },
     {
       "surface": "מנחמי",
-      "english": "consoladores"
+      "gloss": "consoladores"
     },
     {
       "surface": "עמל",
-      "english": "de ⟨amargura⟩"
+      "gloss": "de ⟨amargura⟩"
     },
     {
       "surface": "כלכם",
-      "english": "todos vós"
+      "gloss": "todos vós"
     }
-  ],
-  "timestamp": "2026-07-16T15:57:46.977854144Z",
-  "model": "glm-4.5"
+  ]
 }

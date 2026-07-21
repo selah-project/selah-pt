@@ -1,9 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "2-chronicles 25:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 25,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:36:40.267644704Z",
+  "translation": "E subiu Yoash, ⟨o⟩ rei de Yisrael, e viraram ⟨a⟩ face um ao outro, ele e Amatziahu, ⟨o⟩ rei de Yehudá, em Beit-Shemesh, que ⟨é⟩ de Yehudá.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "E subiu",
+      "marks": "Yoash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei",
+      "marks": "de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויתראו",
+      "gloss": "e viraram ⟨a⟩",
+      "marks": "face um ao outro"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "face",
+      "marks": "um ao outro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "ואמציהו",
+      "gloss": "e Amatziahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei",
+      "marks": "de Yehudá"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "em Beit"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "marks": "⟨é⟩"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "de Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,86 +82,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58688,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59233
-  },
-  "translation": "E subiu Yoash, ⟨o⟩ rei de Yisrael, e viraram ⟨a⟩ face um ao outro, ele e Amatziahu, ⟨o⟩ rei de Yehudá, em Beit-Shemesh, que ⟨é⟩ de Yehudá.",
-  "tokens": [
-    {
-      "surface": "ויעל",
-      "english": "E subiu",
-      "marks": "Yoash"
-    },
-    {
-      "surface": "יואש",
-      "english": "Yoash"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei",
-      "marks": "de Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויתראו",
-      "english": "e viraram ⟨a⟩",
-      "marks": "face um ao outro"
-    },
-    {
-      "surface": "פנים",
-      "english": "face",
-      "marks": "um ao outro"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele"
-    },
-    {
-      "surface": "ואמציהו",
-      "english": "e Amatziahu"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei",
-      "marks": "de Yehudá"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "בבית",
-      "english": "em Beit"
-    },
-    {
-      "surface": "שמש",
-      "english": "Shemesh"
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "marks": "⟨é⟩"
-    },
-    {
-      "surface": "ליהודה",
-      "english": "de Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:36:40.267644704Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

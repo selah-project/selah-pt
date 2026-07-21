@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 36:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 36,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:18:45.527283092Z",
+  "translation": "Estes ⟨são⟩ ⟨os⟩ nomes ⟨dos⟩ filhos de Esav: Elifaz, filho de Adá, mulher ⟨de⟩ Esav; Reuel, filho de Basemate, mulher ⟨de⟩ Esav",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Estes"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "⟨os⟩ nomes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "de Adá"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mulher"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "⟨de⟩ Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "de Basemate"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mulher"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "⟨de⟩ Esav"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Esaú",
@@ -27,80 +90,6 @@
       "hebrew": "עשו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21910,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22426
-  },
-  "translation": "Estes ⟨são⟩ ⟨os⟩ nomes ⟨dos⟩ filhos de Esav: Elifaz, filho de Adá, mulher ⟨de⟩ Esav; Reuel, filho de Basemate, mulher ⟨de⟩ Esav",
-  "tokens": [
-    {
-      "surface": "אלה",
-      "english": "Estes"
-    },
-    {
-      "surface": "שמות",
-      "english": "⟨os⟩ nomes"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos"
-    },
-    {
-      "surface": "עשו",
-      "english": "de Esav"
-    },
-    {
-      "surface": "אליפז",
-      "english": "Elifaz"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "עדה",
-      "english": "de Adá"
-    },
-    {
-      "surface": "אשת",
-      "english": "mulher"
-    },
-    {
-      "surface": "עשו",
-      "english": "⟨de⟩ Esav"
-    },
-    {
-      "surface": "רעואל",
-      "english": "Reuel"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "בשמת",
-      "english": "de Basemate"
-    },
-    {
-      "surface": "אשת",
-      "english": "mulher"
-    },
-    {
-      "surface": "עשו",
-      "english": "⟨de⟩ Esav"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:18:45.527283092Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

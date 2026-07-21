@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 33:12",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 283,
-    "prompt_tokens": 28570,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28853
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:55:09.358337879Z",
   "translation": "E ele disse: Viajemos e andemos, e eu andarei diante de ti.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ele disse"
+      "gloss": "E ele disse"
     },
     {
       "surface": "נסעה",
-      "english": "viajemos"
+      "gloss": "viajemos"
     },
     {
       "surface": "ונלכה",
-      "english": "e andemos"
+      "gloss": "e andemos"
     },
     {
       "surface": "ואלכה",
-      "english": "e eu andarei"
+      "gloss": "e eu andarei"
     },
     {
       "surface": "לנגדך",
-      "english": "diante de ti"
+      "gloss": "diante de ti"
     }
-  ],
-  "timestamp": "2026-07-16T14:55:09.358337879Z",
-  "model": "glm-4.5"
+  ]
 }

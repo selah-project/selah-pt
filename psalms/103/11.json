@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 103:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70387,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70918
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:44.327936895Z",
   "translation": "Porque, ⟨como⟩ alto ⟨estão⟩ os céus sobre ⟨a⟩ terra, grande ⟨é⟩ seu Jésed sobre ⟨os que⟩ o temem",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "כגבה",
-      "english": "⟨como⟩ alto"
+      "gloss": "⟨como⟩ alto"
     },
     {
       "surface": "שמים",
-      "english": "os céus"
+      "gloss": "os céus"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "גבר",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "חסדו",
-      "english": "seu Jésed"
+      "gloss": "seu Jésed"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "יראיו",
-      "english": "⟨os que⟩ o temem"
+      "gloss": "⟨os que⟩ o temem"
     }
-  ],
-  "timestamp": "2026-06-13T06:40:44.327936895Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "joshua 13:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 13,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:38:32.602618161Z",
+  "translation": "E Moshé deu ⟨ao⟩ tribo ⟨dos⟩ filhos de Reuven ⟨para⟩ ⟨as⟩ suas famílias",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "E Mosheh deu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "⟨ao⟩ tribo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨para⟩ ⟨as⟩ suas famílias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,48 +44,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16172,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 16546
-  },
-  "translation": "E Moshé deu ⟨ao⟩ tribo ⟨dos⟩ filhos de Reuven ⟨para⟩ ⟨as⟩ suas famílias",
-  "tokens": [
-    {
-      "surface": "ויתן",
-      "english": "E Mosheh deu"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "למטה",
-      "english": "⟨ao⟩ tribo"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos"
-    },
-    {
-      "surface": "ראובן",
-      "english": "Reuven"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "⟨para⟩ ⟨as⟩ suas famílias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:38:32.602618161Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

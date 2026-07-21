@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "2-kings 9:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 9,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:55:13.350037320Z",
+  "translation": "E Yehorão disse: ⟨Aparelha⟩! e aparelharam ⟨o⟩ seu carro. E saiu Yehorám, rei de Yisrael, e Acazias, rei de Yehudá, cada um em ⟨o⟩ seu carro, e saíram ao encontro de Yehu e o encontraram no campo de Nabot ⟨do⟩ Yizreeli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorão"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "⟨Aparelha⟩"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "e aparelharam"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "⟨o⟩ seu carro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "E saiu"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorám"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ואחזיהו",
+      "gloss": "e Acazias"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada um"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "em ⟨o⟩ seu carro"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "e saíram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ao encontro de"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "e o encontraram"
+    },
+    {
+      "surface": "בחלקת",
+      "gloss": "no campo de"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "⟨do⟩ Yizreeli"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,108 +111,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 653,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18288,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18941
-  },
-  "translation": "E Yehorão disse: ⟨Aparelha⟩! e aparelharam ⟨o⟩ seu carro. E saiu Yehorám, rei de Yisrael, e Acazias, rei de Yehudá, cada um em ⟨o⟩ seu carro, e saíram ao encontro de Yehu e o encontraram no campo de Nabot ⟨do⟩ Yizreeli.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "יהורם",
-      "english": "Yehorão"
-    },
-    {
-      "surface": "אסר",
-      "english": "⟨Aparelha⟩"
-    },
-    {
-      "surface": "ויאסר",
-      "english": "e aparelharam"
-    },
-    {
-      "surface": "רכבו",
-      "english": "⟨o⟩ seu carro"
-    },
-    {
-      "surface": "ויצא",
-      "english": "E saiu"
-    },
-    {
-      "surface": "יהורם",
-      "english": "Yehorám"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ואחזיהו",
-      "english": "e Acazias"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "איש",
-      "english": "cada um"
-    },
-    {
-      "surface": "ברכבו",
-      "english": "em ⟨o⟩ seu carro"
-    },
-    {
-      "surface": "ויצאו",
-      "english": "e saíram"
-    },
-    {
-      "surface": "לקראת",
-      "english": "ao encontro de"
-    },
-    {
-      "surface": "יהוא",
-      "english": "Yehu"
-    },
-    {
-      "surface": "וימצאהו",
-      "english": "e o encontraram"
-    },
-    {
-      "surface": "בחלקת",
-      "english": "no campo de"
-    },
-    {
-      "surface": "נבות",
-      "english": "Nabot"
-    },
-    {
-      "surface": "היזרעאלי",
-      "english": "⟨do⟩ Yizreeli"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:55:13.350037320Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

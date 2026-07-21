@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 18:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62763,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63126
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:49:45.673309685Z",
   "translation": "E disse: eu amo ⟨a⟩ ti, ⟨ó⟩ YHWH, ⟨meu⟩ refúgio.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "ארחמך",
-      "english": "eu amo ⟨a⟩ ti"
+      "gloss": "eu amo ⟨a⟩ ti"
     },
     {
       "surface": "יהוה",
-      "english": "⟨ó⟩ YHWH"
+      "gloss": "⟨ó⟩ YHWH"
     },
     {
       "surface": "חזקי",
-      "english": "⟨meu⟩ refúgio"
+      "gloss": "⟨meu⟩ refúgio"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:49:45.673309685Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,67 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 34:10",
   "book": "job",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27601,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 28162
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:46:15.320786031Z",
   "translation": "Portanto, escutai-me, ⟨vós⟩ homens de entendimento: longe ⟨está⟩ ⟨de⟩ Elohim ⟨o⟩ praticar a maldade, e ⟨de⟩ Shaddai ⟨o⟩ cometer a perversidade.",
   "tokens": [
     {
       "surface": "לכן",
-      "english": "Portanto"
+      "gloss": "Portanto"
     },
     {
       "surface": "אנשי",
-      "english": "homens"
+      "gloss": "homens"
     },
     {
       "surface": "לבב",
-      "english": "de entendimento"
+      "gloss": "de entendimento"
     },
     {
       "surface": "שמעו",
-      "english": "escutai-me"
+      "gloss": "escutai-me"
     },
     {
       "surface": "לי",
-      "english": "⟨vós⟩",
+      "gloss": "⟨vós⟩",
       "marks": "homens de entendimento"
     },
     {
       "surface": "חללה",
-      "english": "longe ⟨está⟩"
+      "gloss": "longe ⟨está⟩"
     },
     {
       "surface": "לאל",
-      "english": "⟨de⟩ Elohim",
+      "gloss": "⟨de⟩ Elohim",
       "marks": "praticar a maldade"
     },
     {
       "surface": "מרשע",
-      "english": "⟨o⟩ praticar a maldade"
+      "gloss": "⟨o⟩ praticar a maldade"
     },
     {
       "surface": "ושדי",
-      "english": "⟨de⟩ Shaddai",
+      "gloss": "⟨de⟩ Shaddai",
       "marks": "cometer a perversidade"
     },
     {
       "surface": "מעול",
-      "english": "cometer a perversidade"
+      "gloss": "cometer a perversidade"
     }
-  ],
-  "timestamp": "2026-06-13T06:46:15.320786031Z",
-  "model": "glm-4.5"
+  ]
 }

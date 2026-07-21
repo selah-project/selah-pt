@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "numbers 2:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 2,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:09:37.910982365Z",
+  "translation": "Todo ⟨o que⟩ foi recenseado do acampamento de Efráyim ⟨são⟩ cem mil e oito mil e cem, segundo os seus exércitos; e ⟨eles⟩ marcharão ⟨em⟩ terceiro lugar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Todo",
+      "english_lemma": "todo"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "⟨o que⟩ foi recenseado",
+      "english_lemma": "recenseado"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "do acampamento de",
+      "english_lemma": "acampamento"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim",
+      "english_lemma": "Efraim"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "cem",
+      "english_lemma": "cem"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil",
+      "english_lemma": "mil"
+    },
+    {
+      "surface": "ושמנת",
+      "gloss": "e oito",
+      "english_lemma": "oito"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil",
+      "english_lemma": "mil"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "e cem",
+      "english_lemma": "cem"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "segundo os seus exércitos",
+      "english_lemma": "exército"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "e ⟨em⟩ terceiro",
+      "english_lemma": "terceiro"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "marcharão",
+      "english_lemma": "marchar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,84 +80,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 741,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18503,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19244
-  },
-  "translation": "Todo ⟨o que⟩ foi recenseado do acampamento de Efráyim ⟨são⟩ cem mil e oito mil e cem, segundo os seus exércitos; e ⟨eles⟩ marcharão ⟨em⟩ terceiro lugar.",
-  "tokens": [
-    {
-      "surface": "כל",
-      "english": "Todo",
-      "english_lemma": "todo"
-    },
-    {
-      "surface": "הפקדים",
-      "english": "⟨o que⟩ foi recenseado",
-      "english_lemma": "recenseado"
-    },
-    {
-      "surface": "למחנה",
-      "english": "do acampamento de",
-      "english_lemma": "acampamento"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim",
-      "english_lemma": "Efraim"
-    },
-    {
-      "surface": "מאת",
-      "english": "cem",
-      "english_lemma": "cem"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil",
-      "english_lemma": "mil"
-    },
-    {
-      "surface": "ושמנת",
-      "english": "e oito",
-      "english_lemma": "oito"
-    },
-    {
-      "surface": "אלפים",
-      "english": "mil",
-      "english_lemma": "mil"
-    },
-    {
-      "surface": "ומאה",
-      "english": "e cem",
-      "english_lemma": "cem"
-    },
-    {
-      "surface": "לצבאתם",
-      "english": "segundo os seus exércitos",
-      "english_lemma": "exército"
-    },
-    {
-      "surface": "ושלשים",
-      "english": "e ⟨em⟩ terceiro",
-      "english_lemma": "terceiro"
-    },
-    {
-      "surface": "יסעו",
-      "english": "marcharão",
-      "english_lemma": "marchar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:09:37.910982365Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

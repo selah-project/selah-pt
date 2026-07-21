@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 1:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 1,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:13:54.367348040Z",
+  "translation": "E ⟨a⟩ filha de Tzion ⟨está⟩ abandonada como ⟨um⟩ abrigo ⟨em⟩ ⟨uma⟩ vinha, como ⟨uma⟩ cabana ⟨em⟩ ⟨um⟩ pomar de pepinos, como ⟨uma⟩ cidade sitiada.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "E ⟨a⟩ filha de Sião ⟨está⟩ abandonada",
+      "marks": "filha de Sião"
+    },
+    {
+      "surface": "בת",
+      "gloss": "filha",
+      "marks": "Sião"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion",
+      "marks": ""
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "como ⟨um⟩ abrigo",
+      "marks": ""
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "⟨em⟩ ⟨uma⟩ vinha",
+      "marks": ""
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "como ⟨uma⟩ cabana",
+      "marks": ""
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "⟨em⟩ ⟨um⟩ pomar de pepinos",
+      "marks": ""
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "como ⟨uma⟩ cidade",
+      "marks": ""
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "sitiada",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sião",
@@ -13,69 +65,6 @@
       "hebrew": "ציון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19274,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19746
-  },
-  "translation": "E ⟨a⟩ filha de Tzion ⟨está⟩ abandonada como ⟨um⟩ abrigo ⟨em⟩ ⟨uma⟩ vinha, como ⟨uma⟩ cabana ⟨em⟩ ⟨um⟩ pomar de pepinos, como ⟨uma⟩ cidade sitiada.",
-  "tokens": [
-    {
-      "surface": "ונותרה",
-      "english": "E ⟨a⟩ filha de Sião ⟨está⟩ abandonada",
-      "marks": "filha de Sião"
-    },
-    {
-      "surface": "בת",
-      "english": "filha",
-      "marks": "Sião"
-    },
-    {
-      "surface": "ציון",
-      "english": "Tzion",
-      "marks": ""
-    },
-    {
-      "surface": "כסכה",
-      "english": "como ⟨um⟩ abrigo",
-      "marks": ""
-    },
-    {
-      "surface": "בכרם",
-      "english": "⟨em⟩ ⟨uma⟩ vinha",
-      "marks": ""
-    },
-    {
-      "surface": "כמלונה",
-      "english": "como ⟨uma⟩ cabana",
-      "marks": ""
-    },
-    {
-      "surface": "במקשה",
-      "english": "⟨em⟩ ⟨um⟩ pomar de pepinos",
-      "marks": ""
-    },
-    {
-      "surface": "כעיר",
-      "english": "como ⟨uma⟩ cidade",
-      "marks": ""
-    },
-    {
-      "surface": "נצורה",
-      "english": "sitiada",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:13:54.367348040Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

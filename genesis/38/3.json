@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 38:3",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 377,
-    "prompt_tokens": 28702,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29079
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:57:36.219923446Z",
   "translation": "E ela concebeu e deu à luz um filho, e ele chamou ⟨את⟩ seu nome Er.",
   "tokens": [
     {
       "surface": "ותהר",
-      "english": "E ela concebeu"
+      "gloss": "E ela concebeu"
     },
     {
       "surface": "ותלד",
-      "english": "e deu à luz"
+      "gloss": "e deu à luz"
     },
     {
       "surface": "בן",
-      "english": "um filho"
+      "gloss": "um filho"
     },
     {
       "surface": "ויקרא",
-      "english": "e ele chamou"
+      "gloss": "e ele chamou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "seu nome"
     },
     {
       "surface": "שמו",
-      "english": "seu nome"
+      "gloss": "seu nome"
     },
     {
       "surface": "ער",
-      "english": "Er"
+      "gloss": "Er"
     }
-  ],
-  "timestamp": "2026-07-16T14:57:36.219923446Z",
-  "model": "glm-4.5"
+  ]
 }

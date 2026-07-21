@@ -1,47 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 142:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 142,
-  "usage": {
-    "completion_tokens": 419,
-    "prompt_tokens": 70328,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70747
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:56.660578542Z",
   "translation": "Derramo ⟨a⟩ minha queixa diante de Siach, ⟨a⟩ minha aflição diante de YHWH declaro.",
   "tokens": [
     {
       "surface": "אשפך",
-      "english": "Derramo"
+      "gloss": "Derramo"
     },
     {
       "surface": "לפניו",
-      "english": "diante de Siach",
+      "gloss": "diante de Siach",
       "marks": "a minha queixa"
     },
     {
       "surface": "שיחי",
-      "english": "⟨a⟩ minha queixa"
+      "gloss": "⟨a⟩ minha queixa"
     },
     {
       "surface": "צרתי",
-      "english": "⟨a⟩ minha aflição"
+      "gloss": "⟨a⟩ minha aflição"
     },
     {
       "surface": "לפניו",
-      "english": "diante de YHWH",
+      "gloss": "diante de YHWH",
       "marks": "a minha aflição"
     },
     {
       "surface": "אגיד",
-      "english": "declaro"
+      "gloss": "declaro"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:56.660578542Z",
-  "model": "glm-4.5"
+  ]
 }

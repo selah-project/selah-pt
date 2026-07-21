@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 23:1",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 440,
-    "prompt_tokens": 60578,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 61018
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:30:34.518259273Z",
   "translation": "Quando te sentares para comer com ⟨את⟩ governante, considera diligentemente ⟨את⟩ que ⟨está⟩ diante de ti",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Quando"
+      "gloss": "Quando"
     },
     {
       "surface": "תשב",
-      "english": "te sentares"
+      "gloss": "te sentares"
     },
     {
       "surface": "ללחום",
-      "english": "para comer"
+      "gloss": "para comer"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "governante"
     },
     {
       "surface": "מושל",
-      "english": "governante"
+      "gloss": "governante"
     },
     {
       "surface": "בין",
-      "english": "considera"
+      "gloss": "considera"
     },
     {
       "surface": "תבין",
-      "english": "diligentemente"
+      "gloss": "diligentemente"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "que"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "לפניך",
-      "english": "diante de ti"
+      "gloss": "diante de ti"
     }
-  ],
-  "timestamp": "2026-07-16T17:30:34.518259273Z",
-  "model": "glm-4.5"
+  ]
 }

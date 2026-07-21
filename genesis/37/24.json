@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 37:24",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 459,
-    "prompt_tokens": 28954,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29413
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:57:08.450071565Z",
   "translation": "e o tomaram e o lançaram ⟨את⟩ ao poço, e o poço ⟨estava⟩ vazio, não ⟨havia⟩ nele água",
   "tokens": [
     {
       "surface": "ויקחהו",
-      "english": "e o tomaram"
+      "gloss": "e o tomaram"
     },
     {
       "surface": "וישלכו",
-      "english": "e o lançaram"
+      "gloss": "e o lançaram"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ao poço"
     },
     {
       "surface": "הברה",
-      "english": "ao poço"
+      "gloss": "ao poço"
     },
     {
       "surface": "והבור",
-      "english": "e o poço"
+      "gloss": "e o poço"
     },
     {
       "surface": "רק",
-      "english": "vazio"
+      "gloss": "vazio"
     },
     {
       "surface": "אין",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "בו",
-      "english": "nele"
+      "gloss": "nele"
     },
     {
       "surface": "מים",
-      "english": "água"
+      "gloss": "água"
     }
-  ],
-  "timestamp": "2026-07-16T14:57:08.450071565Z",
-  "model": "glm-4.5"
+  ]
 }

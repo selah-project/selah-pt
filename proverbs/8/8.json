@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 8:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52876,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53309
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:24:35.162510351Z",
   "translation": "Em justiça todas ⟨as⟩ palavras da minha boca ⟨estão⟩, não há nelas ⟨nada⟩ perverso nem torto.",
   "tokens": [
     {
       "surface": "בצדק",
-      "english": "Em justiça"
+      "gloss": "Em justiça"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "אמרי",
-      "english": "⟨as⟩ palavras",
+      "gloss": "⟨as⟩ palavras",
       "marks": "todas ⟨as⟩ palavras da minha boca ⟨estão⟩"
     },
     {
       "surface": "פי",
-      "english": "da minha boca"
+      "gloss": "da minha boca"
     },
     {
       "surface": "אין",
-      "english": "não há"
+      "gloss": "não há"
     },
     {
       "surface": "בהם",
-      "english": "nelas"
+      "gloss": "nelas"
     },
     {
       "surface": "נפתל",
-      "english": "perverso"
+      "gloss": "perverso"
     },
     {
       "surface": "ועקש",
-      "english": "nem torto"
+      "gloss": "nem torto"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:24:35.162510351Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

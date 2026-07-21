@@ -1,9 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 98,
   "ref": "psalms 119:98",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 119,
+  "verse": 98,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:01:02.274414076Z",
+  "translation": "Through teus Mitzvás ⟨tu⟩ me fazes mais sábio ⟨que⟩ meus inimigos, pois ⟨eles⟩ são ⟨perpétuos⟩ para ⟨mim⟩ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "Meus inimigos"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "me fazes mais sábio"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "teus Mitzvás"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨perpétuos⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨eles⟩ são"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para ⟨mim⟩",
+      "marks": "eles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamento",
@@ -13,53 +49,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 119,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62819,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63250
-  },
-  "translation": "Through teus Mitzvás ⟨tu⟩ me fazes mais sábio ⟨que⟩ meus inimigos, pois ⟨eles⟩ são ⟨perpétuos⟩ para ⟨mim⟩ ⟨את⟩.",
-  "tokens": [
-    {
-      "surface": "מאיבי",
-      "english": "Meus inimigos"
-    },
-    {
-      "surface": "תחכמני",
-      "english": "me fazes mais sábio"
-    },
-    {
-      "surface": "מצותך",
-      "english": "teus Mitzvás"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "לעולם",
-      "english": "⟨perpétuos⟩"
-    },
-    {
-      "surface": "היא",
-      "english": "⟨eles⟩ são"
-    },
-    {
-      "surface": "לי",
-      "english": "para ⟨mim⟩",
-      "marks": "eles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:01:02.274414076Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

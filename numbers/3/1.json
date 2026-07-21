@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "numbers 3:1",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 420,
-    "prompt_tokens": 25754,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 26174
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:02:35.539271607Z",
   "translation": "E estas ⟨são⟩ as gerações de Aharon e de Moshé, no dia que YHWH falou ⟨את⟩ Moshé no monte Sinai.",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "E estas"
+      "gloss": "E estas"
     },
     {
       "surface": "תולדת",
-      "english": "as gerações"
+      "gloss": "as gerações"
     },
     {
       "surface": "אהרן",
-      "english": "de Aharon"
+      "gloss": "de Aharon"
     },
     {
       "surface": "ומשה",
-      "english": "e de Moshé"
+      "gloss": "e de Moshé"
     },
     {
       "surface": "ביום",
-      "english": "no dia"
+      "gloss": "no dia"
     },
     {
       "surface": "דבר",
-      "english": "que YHWH falou"
+      "gloss": "que YHWH falou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Moshé"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "בהר",
-      "english": "no monte"
+      "gloss": "no monte"
     },
     {
       "surface": "סיני",
-      "english": "Sinai"
+      "gloss": "Sinai"
     }
-  ],
-  "timestamp": "2026-07-16T17:02:35.539271607Z",
-  "model": "glm-4.5"
+  ]
 }

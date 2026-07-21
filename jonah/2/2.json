@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "jonah 2:2",
   "book": "jonah",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26845,
-    "prompt_tokens_details": {
-      "cached_tokens": 25845
-    },
-    "total_tokens": 27273
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:33:18.475411656Z",
   "translation": "E orou Yoná a ⟨YHWH⟩ seu ⟨Elohim⟩ a partir ⟨das⟩ entranhas ⟨do⟩ peixe",
   "tokens": [
     {
       "surface": "ויתפלל",
-      "english": "E orou"
+      "gloss": "E orou"
     },
     {
       "surface": "יונה",
-      "english": "Yoná"
+      "gloss": "Yoná"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יהוה",
-      "english": "⟨YHWH⟩"
+      "gloss": "⟨YHWH⟩"
     },
     {
       "surface": "אלהיו",
-      "english": "seu ⟨Elohim⟩"
+      "gloss": "seu ⟨Elohim⟩"
     },
     {
       "surface": "ממעי",
-      "english": "a partir ⟨das⟩ entranhas"
+      "gloss": "a partir ⟨das⟩ entranhas"
     },
     {
       "surface": "הדגה",
-      "english": "⟨do⟩ peixe"
+      "gloss": "⟨do⟩ peixe"
     }
-  ],
-  "timestamp": "2026-06-13T06:33:18.475411656Z",
-  "model": "glm-4.5"
+  ]
 }

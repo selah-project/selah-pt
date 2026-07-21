@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 81:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 594,
-    "prompt_tokens": 70160,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70754
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:49.567261106Z",
   "translation": "Quem dera que ⟨o⟩ meu povo me ouvisse, ⟨e⟩ Israel andasse nos ⟨seus⟩ caminhos!",
   "tokens": [
     {
       "surface": "וָאֲשַׁלְּחֵהוּ",
-      "english": "Quem dera que ⟨o⟩ meu povo me ouvisse"
+      "gloss": "Quem dera que ⟨o⟩ meu povo me ouvisse"
     },
     {
       "surface": "בִשְׁרִירוּת",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לִבָּם",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יֵלְכוּ",
-      "english": "⟨e⟩ Israel andasse"
+      "gloss": "⟨e⟩ Israel andasse"
     },
     {
       "surface": "בְּמֹעֲצֹותֵיהֶם",
-      "english": "nos ⟨seus⟩ caminhos"
+      "gloss": "nos ⟨seus⟩ caminhos"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:49.567261106Z",
-  "model": "glm-4.5"
+  ]
 }

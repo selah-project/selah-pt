@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "genesis 35:28",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 354,
-    "prompt_tokens": 28631,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28985
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:57:07.537889869Z",
   "translation": "E os dias de Yitzjak foram ⟨um⟩ cento e oitenta anos",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "E ... foram"
+      "gloss": "E ... foram"
     },
     {
       "surface": "ימי",
-      "english": "os dias de"
+      "gloss": "os dias de"
     },
     {
       "surface": "יצחק",
-      "english": "Yitzjak"
+      "gloss": "Yitzjak"
     },
     {
       "surface": "מאת",
-      "english": "cento"
+      "gloss": "cento"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "ושמנים",
-      "english": "e oitenta"
+      "gloss": "e oitenta"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     }
-  ],
-  "timestamp": "2026-07-16T14:57:07.537889869Z",
-  "model": "glm-4.5"
+  ]
 }

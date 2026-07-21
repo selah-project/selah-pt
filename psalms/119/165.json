@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 165,
   "ref": "psalms 119:165",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70128,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70580
-  },
+  "verse": 165,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:54:36.034537246Z",
   "translation": "Shalom abundante ⟨tem⟩ ⟨os⟩ que amam ⟨a⟩ tua Torá, e não há ⟨para⟩ eles ⟨de⟩ tropeço.",
   "tokens": [
     {
       "surface": "שלום",
-      "english": "Shalom abundante"
+      "gloss": "Shalom abundante"
     },
     {
       "surface": "רב",
-      "english": "abundante"
+      "gloss": "abundante"
     },
     {
       "surface": "לאהבי",
-      "english": "⟨os⟩ que amam"
+      "gloss": "⟨os⟩ que amam"
     },
     {
       "surface": "תורתך",
-      "english": "⟨a⟩ tua Torá"
+      "gloss": "⟨a⟩ tua Torá"
     },
     {
       "surface": "ואין",
-      "english": "e não há"
+      "gloss": "e não há"
     },
     {
       "surface": "למו",
-      "english": "⟨para⟩ eles"
+      "gloss": "⟨para⟩ eles"
     },
     {
       "surface": "מכשול",
-      "english": "⟨de⟩ tropeço"
+      "gloss": "⟨de⟩ tropeço"
     }
-  ],
-  "timestamp": "2026-06-14T04:54:36.034537246Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 40:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 40,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:06:23.294116304Z",
+  "translation": "Então ⟨eu⟩ disse: Eis que ⟨eu⟩ venho ⟨com⟩ ⟨um⟩ rolo dSéfer escrito ⟨sobre⟩ mim.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Então"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "⟨eu⟩ disse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "⟨eu⟩ venho"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "⟨com⟩ ⟨um⟩ rolo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "dSéfer"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "escrito"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨sobre⟩ mim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "o livro",
@@ -13,56 +52,6 @@
       "hebrew": "תורה־ספר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 40,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62962,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63473
-  },
-  "translation": "Então ⟨eu⟩ disse: Eis que ⟨eu⟩ venho ⟨com⟩ ⟨um⟩ rolo dSéfer escrito ⟨sobre⟩ mim.",
-  "tokens": [
-    {
-      "surface": "אז",
-      "english": "Então"
-    },
-    {
-      "surface": "אמרתי",
-      "english": "⟨eu⟩ disse"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis que"
-    },
-    {
-      "surface": "באתי",
-      "english": "⟨eu⟩ venho"
-    },
-    {
-      "surface": "במגלת",
-      "english": "⟨com⟩ ⟨um⟩ rolo"
-    },
-    {
-      "surface": "ספר",
-      "english": "dSéfer"
-    },
-    {
-      "surface": "כתוב",
-      "english": "escrito"
-    },
-    {
-      "surface": "עלי",
-      "english": "⟨sobre⟩ mim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:06:23.294116304Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

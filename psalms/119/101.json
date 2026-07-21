@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 101,
   "ref": "psalms 119:101",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62937,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63284
-  },
+  "verse": 101,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:00:41.537886445Z",
   "translation": "From ⟨the⟩ every evil way I have restrained my feet ⟨so that⟩ I may keep Thy word.",
   "tokens": [
     {
       "surface": "מכל",
-      "english": "From ⟨the⟩"
+      "gloss": "From ⟨the⟩"
     },
     {
       "surface": "ארח",
-      "english": "every evil way"
+      "gloss": "every evil way"
     },
     {
       "surface": "רע",
-      "english": "evil"
+      "gloss": "evil"
     },
     {
       "surface": "כלאתי",
-      "english": "I have restrained"
+      "gloss": "I have restrained"
     },
     {
       "surface": "רגלי",
-      "english": "my feet"
+      "gloss": "my feet"
     },
     {
       "surface": "למען",
-      "english": "⟨so that⟩"
+      "gloss": "⟨so that⟩"
     },
     {
       "surface": "אשמר",
-      "english": "I may keep"
+      "gloss": "I may keep"
     },
     {
       "surface": "דברך",
-      "english": "Thy word"
+      "gloss": "Thy word"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:00:41.537886445Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

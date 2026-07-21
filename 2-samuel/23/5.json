@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-samuel 23:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 23,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:06:46.815769530Z",
+  "translation": "Pois não ⟨é⟩ assim ⟨a⟩ minha casa ⟨junto⟩ com ⟨o⟩ Elohim, pois ⟨um⟩ Brit eterno ⟨Ele⟩ colocou para mim, estabelecida ⟨em⟩ tudo e guardada, pois ⟨é⟩ toda a minha salvação e ⟨toda⟩ a minha vontade, pois não ⟨a⟩ fará brotar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨é⟩ assim"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "⟨a⟩ minha casa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨junto⟩ com"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨o⟩ Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨um⟩ Brit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eterno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨Ele⟩ colocou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para mim"
+    },
+    {
+      "surface": "ערוכה",
+      "gloss": "estabelecida"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨em⟩ tudo"
+    },
+    {
+      "surface": "ושמרה",
+      "gloss": "e guardada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨é⟩ toda"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "a minha salvação"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ⟨toda⟩"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a minha vontade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "יצמיח",
+      "gloss": "⟨a⟩ fará brotar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,112 +108,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 888,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18517,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 19405
-  },
-  "translation": "Pois não ⟨é⟩ assim ⟨a⟩ minha casa ⟨junto⟩ com ⟨o⟩ Elohim, pois ⟨um⟩ Brit eterno ⟨Ele⟩ colocou para mim, estabelecida ⟨em⟩ tudo e guardada, pois ⟨é⟩ toda a minha salvação e ⟨toda⟩ a minha vontade, pois não ⟨a⟩ fará brotar.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "כן",
-      "english": "⟨é⟩ assim"
-    },
-    {
-      "surface": "ביתי",
-      "english": "⟨a⟩ minha casa"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨junto⟩ com"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨o⟩ Elohim"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨um⟩ Brit"
-    },
-    {
-      "surface": "עולם",
-      "english": "eterno"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨Ele⟩ colocou"
-    },
-    {
-      "surface": "לי",
-      "english": "para mim"
-    },
-    {
-      "surface": "ערוכה",
-      "english": "estabelecida"
-    },
-    {
-      "surface": "בכל",
-      "english": "⟨em⟩ tudo"
-    },
-    {
-      "surface": "ושמרה",
-      "english": "e guardada"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨é⟩ toda"
-    },
-    {
-      "surface": "ישעי",
-      "english": "a minha salvação"
-    },
-    {
-      "surface": "וכל",
-      "english": "e ⟨toda⟩"
-    },
-    {
-      "surface": "חפץ",
-      "english": "a minha vontade"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "יצמיח",
-      "english": "⟨a⟩ fará brotar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:06:46.815769530Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

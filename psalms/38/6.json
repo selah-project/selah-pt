@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 38:6",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 359,
-    "prompt_tokens": 70191,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70550
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:56.383748759Z",
   "translation": "Fediram minhas chagas, apodreceram por causa da minha estultícia.",
   "tokens": [
     {
       "surface": "הבאישו",
-      "english": "Fediram"
+      "gloss": "Fediram"
     },
     {
       "surface": "נמקו",
-      "english": "apodreceram"
+      "gloss": "apodreceram"
     },
     {
       "surface": "חבורתי",
-      "english": "minhas chagas"
+      "gloss": "minhas chagas"
     },
     {
       "surface": "מפני",
-      "english": "por causa da"
+      "gloss": "por causa da"
     },
     {
       "surface": "אולתי",
-      "english": "minha estultícia"
+      "gloss": "minha estultícia"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:56.383748759Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 109:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63220,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63765
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:54:06.338996519Z",
   "translation": "Pois ⟨a⟩ boca dos perversos e ⟨a⟩ boca ⟨de⟩ fraude abriram ⟨a⟩ mim; falaram ⟨com⟩ mim ⟨com⟩ língua ⟨de⟩ mentira.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "פי",
-      "english": "⟨a⟩ boca"
+      "gloss": "⟨a⟩ boca"
     },
     {
       "surface": "רשע",
-      "english": "dos perversos"
+      "gloss": "dos perversos"
     },
     {
       "surface": "ופי",
-      "english": "e ⟨a⟩ boca"
+      "gloss": "e ⟨a⟩ boca"
     },
     {
       "surface": "מרמה",
-      "english": "⟨de⟩ fraude"
+      "gloss": "⟨de⟩ fraude"
     },
     {
       "surface": "עלי",
-      "english": "abriram ⟨a⟩ mim"
+      "gloss": "abriram ⟨a⟩ mim"
     },
     {
       "surface": "פתחו",
-      "english": "falaram"
+      "gloss": "falaram"
     },
     {
       "surface": "דברו",
-      "english": "⟨com⟩ mim"
+      "gloss": "⟨com⟩ mim"
     },
     {
       "surface": "אתי",
-      "english": "⟨com⟩"
+      "gloss": "⟨com⟩"
     },
     {
       "surface": "לשון",
-      "english": "língua ⟨de⟩"
+      "gloss": "língua ⟨de⟩"
     },
     {
       "surface": "שקר",
-      "english": "mentira"
+      "gloss": "mentira"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:54:06.338996519Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

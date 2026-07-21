@@ -1,9 +1,106 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "joshua 10:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 10,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:35:03.398756603Z",
+  "translation": "E aconteceu ⟨quando⟩ Yehoshua e os filhos de Yisrael ⟨fizeram⟩ ⟨o⟩ fim de feri-los com uma ferida muito grande até serem consumidos, e os remanescentes escaparam deles e vieram ⟨para⟩ ⟨as⟩ cidades ⟨do⟩ forte.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu",
+      "marks": ""
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "⟨quando⟩",
+      "marks": ""
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua",
+      "marks": ""
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e os filhos de",
+      "marks": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael",
+      "marks": ""
+    },
+    {
+      "surface": "להכותם",
+      "gloss": "⟨fizeram⟩ feri-los",
+      "marks": ""
+    },
+    {
+      "surface": "מכה",
+      "gloss": "com uma ferida",
+      "marks": ""
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "muito grande",
+      "marks": ""
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muito",
+      "marks": ""
+    },
+    {
+      "surface": "עד",
+      "gloss": "até",
+      "marks": ""
+    },
+    {
+      "surface": "תמם",
+      "gloss": "serem consumidos",
+      "marks": ""
+    },
+    {
+      "surface": "והשרידים",
+      "gloss": "e os remanescentes",
+      "marks": ""
+    },
+    {
+      "surface": "שרדו",
+      "gloss": "escaparam",
+      "marks": ""
+    },
+    {
+      "surface": "מהם",
+      "gloss": "deles",
+      "marks": ""
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e vieram",
+      "marks": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩",
+      "marks": ""
+    },
+    {
+      "surface": "ערי",
+      "gloss": "⟨as⟩ cidades",
+      "marks": ""
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "⟨do⟩ forte",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josué",
@@ -20,114 +117,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 916,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17360,
-    "prompt_tokens_details": {
-      "cached_tokens": 15287
-    },
-    "total_tokens": 18276
-  },
-  "translation": "E aconteceu ⟨quando⟩ Yehoshua e os filhos de Yisrael ⟨fizeram⟩ ⟨o⟩ fim de feri-los com uma ferida muito grande até serem consumidos, e os remanescentes escaparam deles e vieram ⟨para⟩ ⟨as⟩ cidades ⟨do⟩ forte.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu",
-      "marks": ""
-    },
-    {
-      "surface": "ככלות",
-      "english": "⟨quando⟩",
-      "marks": ""
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua",
-      "marks": ""
-    },
-    {
-      "surface": "ובני",
-      "english": "e os filhos de",
-      "marks": ""
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael",
-      "marks": ""
-    },
-    {
-      "surface": "להכותם",
-      "english": "⟨fizeram⟩ feri-los",
-      "marks": ""
-    },
-    {
-      "surface": "מכה",
-      "english": "com uma ferida",
-      "marks": ""
-    },
-    {
-      "surface": "גדולה",
-      "english": "muito grande",
-      "marks": ""
-    },
-    {
-      "surface": "מאד",
-      "english": "muito",
-      "marks": ""
-    },
-    {
-      "surface": "עד",
-      "english": "até",
-      "marks": ""
-    },
-    {
-      "surface": "תמם",
-      "english": "serem consumidos",
-      "marks": ""
-    },
-    {
-      "surface": "והשרידים",
-      "english": "e os remanescentes",
-      "marks": ""
-    },
-    {
-      "surface": "שרדו",
-      "english": "escaparam",
-      "marks": ""
-    },
-    {
-      "surface": "מהם",
-      "english": "deles",
-      "marks": ""
-    },
-    {
-      "surface": "ויבאו",
-      "english": "e vieram",
-      "marks": ""
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩",
-      "marks": ""
-    },
-    {
-      "surface": "ערי",
-      "english": "⟨as⟩ cidades",
-      "marks": ""
-    },
-    {
-      "surface": "המבצר",
-      "english": "⟨do⟩ forte",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:35:03.398756603Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

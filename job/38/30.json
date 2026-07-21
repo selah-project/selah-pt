@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "job 38:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 38,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:12:16.545310208Z",
+  "translation": "como ⟨uma⟩ pedra ⟨as⟩ águas se ocultam, e ⟨a⟩ face ⟨do⟩ Tehom é capturada",
+  "tokens": [
+    {
+      "surface": "כאבן",
+      "gloss": "Como ⟨uma⟩ pedra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨as⟩ águas"
+    },
+    {
+      "surface": "יתחבאו",
+      "gloss": "se ocultam"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "e ⟨a⟩ face"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "⟨do⟩ Tehom"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "é capturada"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "abismo",
@@ -13,48 +44,6 @@
       "hebrew": "תהום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 38,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19963,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20353
-  },
-  "translation": "como ⟨uma⟩ pedra ⟨as⟩ águas se ocultam, e ⟨a⟩ face ⟨do⟩ Tehom é capturada",
-  "tokens": [
-    {
-      "surface": "כאבן",
-      "english": "Como ⟨uma⟩ pedra"
-    },
-    {
-      "surface": "מים",
-      "english": "⟨as⟩ águas"
-    },
-    {
-      "surface": "יתחבאו",
-      "english": "se ocultam"
-    },
-    {
-      "surface": "ופני",
-      "english": "e ⟨a⟩ face"
-    },
-    {
-      "surface": "תהום",
-      "english": "⟨do⟩ Tehom"
-    },
-    {
-      "surface": "יתלכדו",
-      "english": "é capturada"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:12:16.545310208Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "genesis 43:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 43,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:27:34.702981686Z",
+  "translation": "E Yosef apressou-se porque suas entranhas comoveram-se ⟨por⟩ seu irmão, e buscou chorar, e entrou na câmara, e chorou ali.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "E José apressou-se"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "suas entranhas comoveram-se"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "suas entranhas",
+      "marks": "suas entranhas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seu irmão"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "e buscou"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "chorar"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e entrou"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "na câmara"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "e chorou"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ali"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "José",
@@ -13,77 +73,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 43,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21863,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22407
-  },
-  "translation": "E Yosef apressou-se porque suas entranhas comoveram-se ⟨por⟩ seu irmão, e buscou chorar, e entrou na câmara, e chorou ali.",
-  "tokens": [
-    {
-      "surface": "וימהר",
-      "english": "E José apressou-se"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "נכמרו",
-      "english": "suas entranhas comoveram-se"
-    },
-    {
-      "surface": "רחמיו",
-      "english": "suas entranhas",
-      "marks": "suas entranhas"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "אחיו",
-      "english": "seu irmão"
-    },
-    {
-      "surface": "ויבקש",
-      "english": "e buscou"
-    },
-    {
-      "surface": "לבכות",
-      "english": "chorar"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e entrou"
-    },
-    {
-      "surface": "החדרה",
-      "english": "na câmara"
-    },
-    {
-      "surface": "ויבך",
-      "english": "e chorou"
-    },
-    {
-      "surface": "שמה",
-      "english": "ali"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:27:34.702981686Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

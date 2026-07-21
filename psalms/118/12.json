@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 118:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 1000,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70462,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 71462
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:41:46.531667853Z",
   "translation": "Eles me cercaram como abelhas; apagaram-se como fogo de espinhos ⟨porque⟩ ⟨em⟩ ⟨את⟩ o nome de YHWH ⟨eu⟩ ⟨os⟩ cortarei",
   "tokens": [
     {
       "surface": "סבוני",
-      "english": "Eles me cercaram",
+      "gloss": "Eles me cercaram",
       "gv": 128,
       "lemma": 5437,
       "freq": 3,
@@ -29,7 +20,7 @@
     },
     {
       "surface": "כדבורים",
-      "english": "como abelhas",
+      "gloss": "como abelhas",
       "gv": 282,
       "lemma": "k\/1682",
       "freq": 1,
@@ -38,7 +29,7 @@
     },
     {
       "surface": "דעכו",
-      "english": "apagaram-se",
+      "gloss": "apagaram-se",
       "gv": 100,
       "lemma": 1846,
       "freq": 2,
@@ -47,7 +38,7 @@
     },
     {
       "surface": "כאש",
-      "english": "como fogo",
+      "gloss": "como fogo",
       "gv": 321,
       "lemma": "k\/784",
       "freq": 16,
@@ -56,7 +47,7 @@
     },
     {
       "surface": "קוצים",
-      "english": "de espinhos",
+      "gloss": "de espinhos",
       "gv": 246,
       "lemma": 6975,
       "freq": 3,
@@ -65,7 +56,7 @@
     },
     {
       "surface": "בשם",
-      "english": "⟨em⟩",
+      "gloss": "⟨em⟩",
       "gv": 342,
       "lemma": "b\/8034",
       "freq": 73,
@@ -74,7 +65,7 @@
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "gv": 26,
       "lemma": 3068,
       "freq": 6007,
@@ -83,7 +74,7 @@
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩",
+      "gloss": "⟨porque⟩",
       "gv": 30,
       "lemma": 3588,
       "freq": 4376,
@@ -92,14 +83,12 @@
     },
     {
       "surface": "אמילם",
-      "english": "⟨eu⟩ ⟨os⟩ cortarei",
+      "gloss": "⟨eu⟩ ⟨os⟩ cortarei",
       "gv": 121,
       "lemma": 4135,
       "freq": 3,
       "books": 1,
       "anagram_room": "אילםמ (5 members)"
     }
-  ],
-  "timestamp": "2026-06-13T06:41:46.531667853Z",
-  "model": "glm-4.5"
+  ]
 }

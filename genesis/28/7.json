@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "genesis 28:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 28,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:09:46.768734784Z",
+  "translation": "E Yaakov obedeceu ⟨ao⟩ seu pai e ⟨a⟩ sua mãe, e foi ⟨para⟩ Padã-Arã",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Obedeceu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ⟨a⟩"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua mãe"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "e foi"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padã"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arã"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacó",
@@ -13,60 +56,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21410,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21878
-  },
-  "translation": "E Yaakov obedeceu ⟨ao⟩ seu pai e ⟨a⟩ sua mãe, e foi ⟨para⟩ Padã-Arã",
-  "tokens": [
-    {
-      "surface": "וישמע",
-      "english": "Obedeceu"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    },
-    {
-      "surface": "ואל",
-      "english": "e ⟨a⟩"
-    },
-    {
-      "surface": "אמו",
-      "english": "sua mãe"
-    },
-    {
-      "surface": "ואלך",
-      "english": "e foi"
-    },
-    {
-      "surface": "פדנה",
-      "english": "Padã"
-    },
-    {
-      "surface": "ארם",
-      "english": "Arã"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:09:46.768734784Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

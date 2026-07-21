@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 118:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 456,
-    "prompt_tokens": 70273,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70729
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:47:37.275876279Z",
   "translation": "Digam, rogo, os que temem a YHWH: pois ⟨é⟩ para sempre ⟨o⟩ seu Jésed.",
   "tokens": [
     {
       "surface": "יאמרו",
-      "english": "Digam"
+      "gloss": "Digam"
     },
     {
       "surface": "נא",
-      "english": "rogo"
+      "gloss": "rogo"
     },
     {
       "surface": "יראי",
-      "english": "os que temem"
+      "gloss": "os que temem"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "לעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "חסדו",
-      "english": "⟨o⟩ seu Jésed"
+      "gloss": "⟨o⟩ seu Jésed"
     }
-  ],
-  "timestamp": "2026-07-16T17:47:37.275876279Z",
-  "model": "glm-4.5"
+  ]
 }

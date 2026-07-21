@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-samuel 18:10",
   "book": "2-samuel",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 479,
-    "prompt_tokens": 25138,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25617
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:56:23.024218176Z",
   "translation": "E um homem ⟨certo⟩ viu ⟨isso⟩, e contou a Yoav, e disse: Eis que vi ⟨את⟩ Avshalom suspenso numa terebinto.",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "E"
+      "gloss": "E"
     },
     {
       "surface": "איש",
-      "english": "um homem"
+      "gloss": "um homem"
     },
     {
       "surface": "אחד",
-      "english": "⟨certo⟩"
+      "gloss": "⟨certo⟩"
     },
     {
       "surface": "ויגד",
-      "english": "viu ⟨isso⟩, e contou"
+      "gloss": "viu ⟨isso⟩, e contou"
     },
     {
       "surface": "ליואב",
-      "english": "a Yoav"
+      "gloss": "a Yoav"
     },
     {
       "surface": "ויאמר",
-      "english": ", e disse:"
+      "gloss": ", e disse:"
     },
     {
       "surface": "הנה",
-      "english": "Eis que"
+      "gloss": "Eis que"
     },
     {
       "surface": "ראיתי",
-      "english": "vi"
+      "gloss": "vi"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avshalom"
     },
     {
       "surface": "אבשלם",
-      "english": "Avshalom"
+      "gloss": "Avshalom"
     },
     {
       "surface": "תלוי",
-      "english": "suspenso"
+      "gloss": "suspenso"
     },
     {
       "surface": "באלה",
-      "english": "numa terebinto"
+      "gloss": "numa terebinto"
     }
-  ],
-  "timestamp": "2026-07-16T12:56:23.024218176Z",
-  "model": "glm-4.5"
+  ]
 }

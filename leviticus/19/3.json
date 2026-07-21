@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "leviticus 19:3",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 486,
-    "prompt_tokens": 25224,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25710
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:47:25.062763571Z",
   "translation": "Cada homem, sua mãe e seu pai, temereis, e ⟨את⟩ meus Shabats guardareis; eu sou YHWH, vosso Elohim.",
   "tokens": [
     {
       "surface": "איש",
-      "english": "Cada homem"
+      "gloss": "Cada homem"
     },
     {
       "surface": "אמו",
-      "english": "sua mãe"
+      "gloss": "sua mãe"
     },
     {
       "surface": "ואביו",
-      "english": "e seu pai"
+      "gloss": "e seu pai"
     },
     {
       "surface": "תיראו",
-      "english": "temereis"
+      "gloss": "temereis"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "meus Shabats"
     },
     {
       "surface": "שבתתי",
-      "english": "meus Shabats"
+      "gloss": "meus Shabats"
     },
     {
       "surface": "תשמרו",
-      "english": "guardareis"
+      "gloss": "guardareis"
     },
     {
       "surface": "אני",
-      "english": "eu sou"
+      "gloss": "eu sou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיכם",
-      "english": "vosso Elohim"
+      "gloss": "vosso Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T16:47:25.062763571Z",
-  "model": "glm-4.5"
+  ]
 }

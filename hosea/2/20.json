@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "hosea 2:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 2,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:56:04.665057827Z",
+  "translation": "E cortarei para eles ⟨um⟩ Brit naquele dia com ⟨o⟩ animal vivo do campo e com ⟨a⟩ ave dos céus e com ⟨o⟩ réptil da terra; e ⟨o⟩ arco e ⟨a⟩ espada e ⟨a⟩ guerra eu quebrarei da terra e os farei descansar em segurança.",
+  "tokens": [
+    {
+      "surface": "וכרתי",
+      "gloss": "E cortarei"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para eles"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨um⟩ Brit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "naquele dia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "naquele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "חית",
+      "gloss": "⟨o⟩ animal vivo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "do campo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e com"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "⟨a⟩ ave"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dos céus"
+    },
+    {
+      "surface": "ורמש",
+      "gloss": "e com ⟨o⟩ réptil"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "da terra"
+    },
+    {
+      "surface": "וקשת",
+      "gloss": "e ⟨o⟩ arco"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "e ⟨a⟩ espada"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "e ⟨a⟩ guerra"
+    },
+    {
+      "surface": "אשבור",
+      "gloss": "eu quebrarei"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "והשכבתים",
+      "gloss": "e os farei descansar"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "em segurança"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,108 +104,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 919,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20538,
-    "prompt_tokens_details": {
-      "cached_tokens": 18475
-    },
-    "total_tokens": 21457
-  },
-  "translation": "E cortarei para eles ⟨um⟩ Brit naquele dia com ⟨o⟩ animal vivo do campo e com ⟨a⟩ ave dos céus e com ⟨o⟩ réptil da terra; e ⟨o⟩ arco e ⟨a⟩ espada e ⟨a⟩ guerra eu quebrarei da terra e os farei descansar em segurança.",
-  "tokens": [
-    {
-      "surface": "וכרתי",
-      "english": "E cortarei"
-    },
-    {
-      "surface": "להם",
-      "english": "para eles"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨um⟩ Brit"
-    },
-    {
-      "surface": "ביום",
-      "english": "naquele dia"
-    },
-    {
-      "surface": "ההוא",
-      "english": "naquele"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "חית",
-      "english": "⟨o⟩ animal vivo"
-    },
-    {
-      "surface": "השדה",
-      "english": "do campo"
-    },
-    {
-      "surface": "ועם",
-      "english": "e com"
-    },
-    {
-      "surface": "עוף",
-      "english": "⟨a⟩ ave"
-    },
-    {
-      "surface": "השמים",
-      "english": "dos céus"
-    },
-    {
-      "surface": "ורמש",
-      "english": "e com ⟨o⟩ réptil"
-    },
-    {
-      "surface": "האדמה",
-      "english": "da terra"
-    },
-    {
-      "surface": "וקשת",
-      "english": "e ⟨o⟩ arco"
-    },
-    {
-      "surface": "וחרב",
-      "english": "e ⟨a⟩ espada"
-    },
-    {
-      "surface": "ומלחמה",
-      "english": "e ⟨a⟩ guerra"
-    },
-    {
-      "surface": "אשבור",
-      "english": "eu quebrarei"
-    },
-    {
-      "surface": "מן",
-      "english": "da"
-    },
-    {
-      "surface": "הארץ",
-      "english": "terra"
-    },
-    {
-      "surface": "והשכבתים",
-      "english": "e os farei descansar"
-    },
-    {
-      "surface": "לבטח",
-      "english": "em segurança"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:56:04.665057827Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

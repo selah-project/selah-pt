@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 105:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 423,
-    "prompt_tokens": 70197,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70620
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:46:00.504081151Z",
   "translation": "Quando ⟨eles eram⟩ homens ⟨em⟩ número, poucos ⟨de fato⟩, e estrangeiros nela",
   "tokens": [
     {
       "surface": "בהיותם",
-      "english": "Quando ⟨eles eram⟩"
+      "gloss": "Quando ⟨eles eram⟩"
     },
     {
       "surface": "מתי",
-      "english": "homens"
+      "gloss": "homens"
     },
     {
       "surface": "מספר",
-      "english": "⟨em⟩ número"
+      "gloss": "⟨em⟩ número"
     },
     {
       "surface": "כמעט",
-      "english": "poucos ⟨de fato⟩"
+      "gloss": "poucos ⟨de fato⟩"
     },
     {
       "surface": "וגרים",
-      "english": "e estrangeiros"
+      "gloss": "e estrangeiros"
     },
     {
       "surface": "בה",
-      "english": "nela",
+      "gloss": "nela",
       "marks": "terra"
     }
-  ],
-  "timestamp": "2026-07-16T17:46:00.504081151Z",
-  "model": "glm-4.5"
+  ]
 }

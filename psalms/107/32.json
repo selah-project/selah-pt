@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "psalms 107:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62839,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63302
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:52:30.542065461Z",
   "translation": "e ⟨o⟩ exaltem ⟨וירממוהו⟩ na assembleia ⟨בקהל⟩ ⟨do⟩ povo ⟨עם⟩ e ⟨no⟩ assento ⟨ובמושב⟩ ⟨dos⟩ anciãos ⟨זקנים⟩ ⟨o⟩ louvem ⟨יהללוהו⟩",
   "tokens": [
     {
       "surface": "וירממוהו",
-      "english": "⟨O⟩ exaltem",
+      "gloss": "⟨O⟩ exaltem",
       "marks": "no assembly do povo"
     },
     {
       "surface": "בקהל",
-      "english": "na assembleia"
+      "gloss": "na assembleia"
     },
     {
       "surface": "עם",
-      "english": "⟨do⟩ povo"
+      "gloss": "⟨do⟩ povo"
     },
     {
       "surface": "ובמושב",
-      "english": "e ⟨no⟩ assento"
+      "gloss": "e ⟨no⟩ assento"
     },
     {
       "surface": "זקנים",
-      "english": "⟨dos⟩ anciãos"
+      "gloss": "⟨dos⟩ anciãos"
     },
     {
       "surface": "יהללוהו",
-      "english": "⟨o⟩ louvem",
+      "gloss": "⟨o⟩ louvem",
       "marks": "os anciãos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:52:30.542065461Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

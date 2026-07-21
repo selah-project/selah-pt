@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "leviticus 11:16",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 616,
-    "prompt_tokens": 25188,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25804
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:41:36.810212431Z",
   "translation": "e ⟨את⟩ a filha ⟨do⟩ avestruz, e ⟨את⟩ ⟨o⟩ mocho-galego, e ⟨a⟩ gaivota, e ⟨o⟩ gavião, segundo ⟨a⟩ sua espécie",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "בת (a filha)"
     },
     {
       "surface": "בת",
-      "english": "a filha"
+      "gloss": "a filha"
     },
     {
       "surface": "היענה",
-      "english": "⟨do⟩ avestruz"
+      "gloss": "⟨do⟩ avestruz"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "התחמס (o mocho-galego)"
     },
     {
       "surface": "התחמס",
-      "english": "⟨o⟩ mocho-galego"
+      "gloss": "⟨o⟩ mocho-galego"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "השחף (a gaivota)"
     },
     {
       "surface": "השחף",
-      "english": "⟨a⟩ gaivota"
+      "gloss": "⟨a⟩ gaivota"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "הנץ (o gavião)"
     },
     {
       "surface": "הנץ",
-      "english": "⟨o⟩ gavião"
+      "gloss": "⟨o⟩ gavião"
     },
     {
       "surface": "למינהו",
-      "english": "segundo ⟨a⟩ sua espécie"
+      "gloss": "segundo ⟨a⟩ sua espécie"
     }
-  ],
-  "timestamp": "2026-07-16T16:41:36.810212431Z",
-  "model": "glm-4.5"
+  ]
 }

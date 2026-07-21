@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "leviticus 12:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 12,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:48:07.297137938Z",
+  "translation": "E ⟨se⟩ uma menina ela der à luz, então ⟨ela estará⟩ impura duShavuot, como em sua separação; e sessenta e seis dias ela ⟨permanecerá⟩ sobre ⟨o⟩ sangue de sua purificação.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E ⟨se⟩"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "uma menina"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ela der à luz"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "então ⟨ela estará⟩ impura"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "duShavuot"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "como em sua separação"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "e sessenta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "e seis dias"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "seis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dias"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ela ⟨permanecerá⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "⟨o⟩ sangue"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "de sua purificação"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "as semanas",
@@ -13,80 +76,6 @@
       "hebrew": "שבועות"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 690,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18147,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 18837
-  },
-  "translation": "E ⟨se⟩ uma menina ela der à luz, então ⟨ela estará⟩ impura duShavuot, como em sua separação; e sessenta e seis dias ela ⟨permanecerá⟩ sobre ⟨o⟩ sangue de sua purificação.",
-  "tokens": [
-    {
-      "surface": "ואם",
-      "english": "E ⟨se⟩"
-    },
-    {
-      "surface": "נקבה",
-      "english": "uma menina"
-    },
-    {
-      "surface": "תלד",
-      "english": "ela der à luz"
-    },
-    {
-      "surface": "וטמאה",
-      "english": "então ⟨ela estará⟩ impura"
-    },
-    {
-      "surface": "שבעים",
-      "english": "duShavuot"
-    },
-    {
-      "surface": "כנדתה",
-      "english": "como em sua separação"
-    },
-    {
-      "surface": "וששים",
-      "english": "e sessenta"
-    },
-    {
-      "surface": "יום",
-      "english": "e seis dias"
-    },
-    {
-      "surface": "וששת",
-      "english": "seis"
-    },
-    {
-      "surface": "ימים",
-      "english": "dias"
-    },
-    {
-      "surface": "תשב",
-      "english": "ela ⟨permanecerá⟩"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "דמי",
-      "english": "⟨o⟩ sangue"
-    },
-    {
-      "surface": "טהרה",
-      "english": "de sua purificação"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:48:07.297137938Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

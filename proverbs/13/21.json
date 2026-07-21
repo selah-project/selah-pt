@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "proverbs 13:21",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 481,
-    "prompt_tokens": 60386,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60867
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:29:18.523198531Z",
   "translation": "O mal ⟨é⟩ o que persegue aos pecadores, e ⟨ao⟩ justo ⟨será⟩ recompensado ⟨o⟩ bem.",
   "tokens": [
     {
       "surface": "חטאים",
-      "english": "aos pecadores"
+      "gloss": "aos pecadores"
     },
     {
       "surface": "תרדף",
-      "english": "o que persegue"
+      "gloss": "o que persegue"
     },
     {
       "surface": "רעה",
-      "english": "O mal"
+      "gloss": "O mal"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ao justo"
     },
     {
       "surface": "צדיקים",
-      "english": "justo"
+      "gloss": "justo"
     },
     {
       "surface": "ישלם",
-      "english": "⟨será⟩ recompensado"
+      "gloss": "⟨será⟩ recompensado"
     },
     {
       "surface": "טוב",
-      "english": "⟨o⟩ bem"
+      "gloss": "⟨o⟩ bem"
     }
-  ],
-  "timestamp": "2026-07-16T17:29:18.523198531Z",
-  "model": "glm-4.5"
+  ]
 }

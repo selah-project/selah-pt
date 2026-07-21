@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "deuteronomy 11:15",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 396,
-    "prompt_tokens": 24891,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25287
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:18:41.696779623Z",
   "translation": "E Eu darei grama ⟨no⟩ teu campo para ⟨o⟩ teu gado, e comerás e te fartarás",
   "tokens": [
     {
       "surface": "ונתתי",
-      "english": "E Eu darei"
+      "gloss": "E Eu darei"
     },
     {
       "surface": "עשב",
-      "english": "grama"
+      "gloss": "grama"
     },
     {
       "surface": "בשדך",
-      "english": "⟨no⟩ teu campo"
+      "gloss": "⟨no⟩ teu campo"
     },
     {
       "surface": "לבהמתך",
-      "english": "para ⟨o⟩ teu gado"
+      "gloss": "para ⟨o⟩ teu gado"
     },
     {
       "surface": "ואכלת",
-      "english": "e comerás"
+      "gloss": "e comerás"
     },
     {
       "surface": "ושבעת",
-      "english": "e te fartarás"
+      "gloss": "e te fartarás"
     }
-  ],
-  "timestamp": "2026-07-16T13:18:41.696779623Z",
-  "model": "glm-4.5"
+  ]
 }

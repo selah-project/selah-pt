@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 10:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21148,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 21476
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:50:36.683474568Z",
   "translation": "E ⟨os⟩ filhos de Gomer: Ashkenaz, e Rifate, e Togarma.",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "E ⟨os⟩ filhos de"
+      "gloss": "E ⟨os⟩ filhos de"
     },
     {
       "surface": "גמר",
-      "english": "Gomer"
+      "gloss": "Gomer"
     },
     {
       "surface": "אשכנז",
-      "english": "Ashkenaz"
+      "gloss": "Ashkenaz"
     },
     {
       "surface": "וריפת",
-      "english": "e Rifate"
+      "gloss": "e Rifate"
     },
     {
       "surface": "ותגרמה",
-      "english": "e Togarma"
+      "gloss": "e Togarma"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:50:36.683474568Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

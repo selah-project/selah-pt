@@ -1,9 +1,93 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "numbers 33:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 33,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:46:11.009987027Z",
+  "translation": "E partiram de Ramessés no primeiro mês, no dia quinze do primeiro mês, no dia seguinte ⟨ao⟩ Pésaj ⟨saíram⟩ os filhos de Yisrael com mão alta diante dos olhos de todo o Egito",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "E partiram"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "de Ramessés"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "no primeiro mês"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "primeiro"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "no dia quinze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "do"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "do primeiro mês"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "primeiro"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "no dia seguinte"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨ao⟩ Pésaj",
+      "marks": "Pésaj"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "⟨saíram⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "com mão"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "alta"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "diante dos olhos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de todo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egito"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,101 +97,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 661,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19122,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19783
-  },
-  "translation": "E partiram de Ramessés no primeiro mês, no dia quinze do primeiro mês, no dia seguinte ⟨ao⟩ Pésaj ⟨saíram⟩ os filhos de Yisrael com mão alta diante dos olhos de todo o Egito",
-  "tokens": [
-    {
-      "surface": "ויסעו",
-      "english": "E partiram"
-    },
-    {
-      "surface": "מרעמסס",
-      "english": "de Ramessés"
-    },
-    {
-      "surface": "בחדש",
-      "english": "no primeiro mês"
-    },
-    {
-      "surface": "הראשון",
-      "english": "primeiro"
-    },
-    {
-      "surface": "בחמשה",
-      "english": "no dia quinze"
-    },
-    {
-      "surface": "עשר",
-      "english": "do"
-    },
-    {
-      "surface": "יום",
-      "english": "dia"
-    },
-    {
-      "surface": "לחדש",
-      "english": "do primeiro mês"
-    },
-    {
-      "surface": "הראשון",
-      "english": "primeiro"
-    },
-    {
-      "surface": "ממחרת",
-      "english": "no dia seguinte"
-    },
-    {
-      "surface": "הפסח",
-      "english": "⟨ao⟩ Pésaj",
-      "marks": "Pésaj"
-    },
-    {
-      "surface": "יצאו",
-      "english": "⟨saíram⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ביד",
-      "english": "com mão"
-    },
-    {
-      "surface": "רמה",
-      "english": "alta"
-    },
-    {
-      "surface": "לעיני",
-      "english": "diante dos olhos"
-    },
-    {
-      "surface": "כל",
-      "english": "de todo"
-    },
-    {
-      "surface": "מצרים",
-      "english": "Egito"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:46:11.009987027Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

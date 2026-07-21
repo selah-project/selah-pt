@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "genesis 5:9",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 304,
-    "prompt_tokens": 28710,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29014
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:39:38.947395095Z",
   "translation": "E Enosh viveu noventa anos e gerou ⟨את⟩ Kenan",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "E ... viveu"
+      "gloss": "E ... viveu"
     },
     {
       "surface": "אנוש",
-      "english": "Enosh"
+      "gloss": "Enosh"
     },
     {
       "surface": "תשעים",
-      "english": "noventa"
+      "gloss": "noventa"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "ויולד",
-      "english": "e gerou"
+      "gloss": "e gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Kenan"
     },
     {
       "surface": "קינן",
-      "english": "Kenan"
+      "gloss": "Kenan"
     }
-  ],
-  "timestamp": "2026-07-16T14:39:38.947395095Z",
-  "model": "glm-4.5"
+  ]
 }

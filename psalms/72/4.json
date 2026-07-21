@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 72:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63012,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63441
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:26:59.047998035Z",
   "translation": "Ele julgará ⟨os⟩ aflitos ⟨de⟩ ⟨o⟩ povo, salvará ⟨os⟩ filhos ⟨do⟩ necessitado e esmagará ⟨o⟩ opressor.",
   "tokens": [
     {
       "surface": "ישפט",
-      "english": "Ele julgará"
+      "gloss": "Ele julgará"
     },
     {
       "surface": "עניי",
-      "english": "⟨os⟩ aflitos"
+      "gloss": "⟨os⟩ aflitos"
     },
     {
       "surface": "עם",
-      "english": "⟨de⟩ ⟨o⟩ povo"
+      "gloss": "⟨de⟩ ⟨o⟩ povo"
     },
     {
       "surface": "יושיע",
-      "english": "salvará"
+      "gloss": "salvará"
     },
     {
       "surface": "לבני",
-      "english": "⟨os⟩ filhos ⟨do⟩"
+      "gloss": "⟨os⟩ filhos ⟨do⟩"
     },
     {
       "surface": "אביון",
-      "english": "necessitado"
+      "gloss": "necessitado"
     },
     {
       "surface": "וידכא",
-      "english": "e esmagará ⟨o⟩"
+      "gloss": "e esmagará ⟨o⟩"
     },
     {
       "surface": "עושק",
-      "english": "opressor"
+      "gloss": "opressor"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:26:59.047998035Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

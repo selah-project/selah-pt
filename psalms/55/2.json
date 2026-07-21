@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 55:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62862,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63314
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:15:11.279907994Z",
   "translation": "Dá ouvidos ⟨ao⟩ meu clamor, Elohim; e não ⟨te⟩ escondas ⟨da⟩ minha súplica.",
   "tokens": [
     {
       "surface": "האזינה",
-      "english": "Dá ouvidos"
+      "gloss": "Dá ouvidos"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "תפלתי",
-      "english": "⟨ao⟩ meu clamor",
+      "gloss": "⟨ao⟩ meu clamor",
       "marks": "meu clamor"
     },
     {
       "surface": "ואל",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "תתעלם",
-      "english": "⟨te⟩ escondas"
+      "gloss": "⟨te⟩ escondas"
     },
     {
       "surface": "מתחנתי",
-      "english": "⟨da⟩ minha súplica",
+      "gloss": "⟨da⟩ minha súplica",
       "marks": "minha súplica"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:15:11.279907994Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

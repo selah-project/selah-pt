@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 19:1",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 627,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24577,
-    "prompt_tokens_details": {
-      "cached_tokens": 23181
-    },
-    "total_tokens": 25204
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:46:02.595690975Z",
   "translation": "No terceiro mês ⟨da⟩ saída ⟨dos⟩ filhos ⟨de⟩ Israel ⟨da⟩ terra ⟨do⟩ Egito, neste mesmo dia vieram ⟨ao⟩ deserto ⟨do⟩ Sinai.",
   "tokens": [
     {
       "surface": "בחדש",
-      "english": "No terceiro mês"
+      "gloss": "No terceiro mês"
     },
     {
       "surface": "השלישי",
-      "english": "terceiro"
+      "gloss": "terceiro"
     },
     {
       "surface": "לצאת",
-      "english": "⟨da⟩ saída"
+      "gloss": "⟨da⟩ saída"
     },
     {
       "surface": "בני",
-      "english": "⟨dos⟩ filhos"
+      "gloss": "⟨dos⟩ filhos"
     },
     {
       "surface": "ישראל",
-      "english": "⟨de⟩ Israel"
+      "gloss": "⟨de⟩ Israel"
     },
     {
       "surface": "מארץ",
-      "english": "⟨da⟩ terra"
+      "gloss": "⟨da⟩ terra"
     },
     {
       "surface": "מצרים",
-      "english": "⟨do⟩ Egito"
+      "gloss": "⟨do⟩ Egito"
     },
     {
       "surface": "ביום",
-      "english": "neste mesmo dia"
+      "gloss": "neste mesmo dia"
     },
     {
       "surface": "הזה",
-      "english": "mesmo"
+      "gloss": "mesmo"
     },
     {
       "surface": "באו",
-      "english": "vieram"
+      "gloss": "vieram"
     },
     {
       "surface": "מדבר",
-      "english": "⟨ao⟩ deserto"
+      "gloss": "⟨ao⟩ deserto"
     },
     {
       "surface": "סיני",
-      "english": "⟨do⟩ Sinai"
+      "gloss": "⟨do⟩ Sinai"
     }
-  ],
-  "timestamp": "2026-06-13T02:46:02.595690975Z",
-  "model": "glm-4.5"
+  ]
 }

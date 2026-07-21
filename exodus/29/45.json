@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "exodus 29:45",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 29,
+  "verse": 45,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:21:44.225878529Z",
+  "translation": "E habitarei ⟨no⟩ meio dos filhos ⟨de⟩ Yisrael, e serei para eles ⟨por⟩ Elohim",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "E habitarei"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "⟨no⟩ meio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "e serei"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para eles"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨por⟩ Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,52 +48,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16813,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17180
-  },
-  "translation": "E habitarei ⟨no⟩ meio dos filhos ⟨de⟩ Yisrael, e serei para eles ⟨por⟩ Elohim",
-  "tokens": [
-    {
-      "surface": "ושכנתי",
-      "english": "E habitarei"
-    },
-    {
-      "surface": "בתוך",
-      "english": "⟨no⟩ meio"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "והייתי",
-      "english": "e serei"
-    },
-    {
-      "surface": "להם",
-      "english": "para eles"
-    },
-    {
-      "surface": "לאלהים",
-      "english": "⟨por⟩ Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:21:44.225878529Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "deuteronomy 11:19",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 624,
-    "prompt_tokens": 25692,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 26316
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:18:41.012189652Z",
   "translation": "E ⟨você⟩ os ensinará a vossos filhos, falando deles ⟨quando⟩ te sentares em tua casa, e quando andares pelo caminho, e quando te deitares, e quando te levantares.",
   "tokens": [
     {
       "surface": "ולמדתם",
-      "english": "E ⟨você⟩ os ensinará"
+      "gloss": "E ⟨você⟩ os ensinará"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vossos filhos"
     },
     {
       "surface": "בניכם",
-      "english": "vossos filhos"
+      "gloss": "vossos filhos"
     },
     {
       "surface": "לדבר",
-      "english": "falando deles"
+      "gloss": "falando deles"
     },
     {
       "surface": "בם",
-      "english": "deles"
+      "gloss": "deles"
     },
     {
       "surface": "בשבתך",
-      "english": "⟨quando⟩ te sentares"
+      "gloss": "⟨quando⟩ te sentares"
     },
     {
       "surface": "בביתך",
-      "english": "em tua casa"
+      "gloss": "em tua casa"
     },
     {
       "surface": "ובלכתך",
-      "english": "e quando andares"
+      "gloss": "e quando andares"
     },
     {
       "surface": "בדרך",
-      "english": "pelo caminho"
+      "gloss": "pelo caminho"
     },
     {
       "surface": "ובשכבך",
-      "english": "e quando te deitares"
+      "gloss": "e quando te deitares"
     },
     {
       "surface": "ובקומך",
-      "english": "e quando te levantares"
+      "gloss": "e quando te levantares"
     }
-  ],
-  "timestamp": "2026-07-16T13:18:41.012189652Z",
-  "model": "glm-4.5"
+  ]
 }

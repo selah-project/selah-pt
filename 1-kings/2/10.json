@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-kings 2:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 2,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:11:10.984021315Z",
+  "translation": "Então Davidd repousou ⟨com⟩ seus pais, e foi sepultado ⟨na⟩ cidade ⟨de⟩ Davidd.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Então David repousou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais",
+      "marks": "seus pais"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e foi sepultado"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨na⟩ cidade",
+      "marks": "cidade ⟨de⟩ David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,54 +57,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62242,
-    "prompt_tokens_details": {
-      "cached_tokens": 61312
-    },
-    "total_tokens": 62763
-  },
-  "translation": "Então Davidd repousou ⟨com⟩ seus pais, e foi sepultado ⟨na⟩ cidade ⟨de⟩ Davidd.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "Então David repousou"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais",
-      "marks": "seus pais"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "e foi sepultado"
-    },
-    {
-      "surface": "בעיר",
-      "english": "⟨na⟩ cidade",
-      "marks": "cidade ⟨de⟩ David"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:11:10.984021315Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

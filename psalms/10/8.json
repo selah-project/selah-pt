@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 10:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 481,
-    "prompt_tokens": 70624,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71105
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:35:31.477883924Z",
   "translation": "Ele ⟨está⟩ sentado ⟨em⟩ uma emboscada das aldeias, em lugares secretos mata o inocente; seus olhos espreitam o aflito,",
   "tokens": [
     {
       "surface": "ישב",
-      "english": "⟨está⟩ sentado"
+      "gloss": "⟨está⟩ sentado"
     },
     {
       "surface": "במארב",
-      "english": "⟨em⟩ uma emboscada"
+      "gloss": "⟨em⟩ uma emboscada"
     },
     {
       "surface": "חצרים",
-      "english": "das aldeias"
+      "gloss": "das aldeias"
     },
     {
       "surface": "במסתרים",
-      "english": "em lugares secretos"
+      "gloss": "em lugares secretos"
     },
     {
       "surface": "יהרג",
-      "english": "mata"
+      "gloss": "mata"
     },
     {
       "surface": "נקי",
-      "english": "o inocente"
+      "gloss": "o inocente"
     },
     {
       "surface": "עיניו",
-      "english": "seus olhos"
+      "gloss": "seus olhos"
     },
     {
       "surface": "לחלכה",
-      "english": "espreitam o aflito,"
+      "gloss": "espreitam o aflito,"
     },
     {
       "surface": "יצפנו",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T17:35:31.477883924Z",
-  "model": "glm-4.5"
+  ]
 }

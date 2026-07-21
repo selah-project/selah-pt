@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "deuteronomy 5:4",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24925,
-    "prompt_tokens_details": {
-      "cached_tokens": 8199
-    },
-    "total_tokens": 25287
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:29:31.838025240Z",
   "translation": "Face to face YHWH ⟨spoke⟩ ⟨with⟩ you ⟨in⟩ ⟨the⟩ mount ⟨from⟩ ⟨the⟩ midst of ⟨the⟩ fire",
   "tokens": [
     {
       "surface": "פנים",
-      "english": "Face"
+      "gloss": "Face"
     },
     {
       "surface": "בפנים",
-      "english": "to face"
+      "gloss": "to face"
     },
     {
       "surface": "דבר",
-      "english": "spoke"
+      "gloss": "spoke"
     },
     {
       "surface": "י�הוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עמכם",
-      "english": "with you"
+      "gloss": "with you"
     },
     {
       "surface": "בהר",
-      "english": "in the mount"
+      "gloss": "in the mount"
     },
     {
       "surface": "מתוך",
-      "english": "from the midst"
+      "gloss": "from the midst"
     },
     {
       "surface": "האש",
-      "english": "of the fire"
+      "gloss": "of the fire"
     }
-  ],
-  "timestamp": "2026-06-11T23:29:31.838025240Z",
-  "model": "glm-4.5"
+  ]
 }

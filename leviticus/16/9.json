@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "leviticus 16:9",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 534,
-    "prompt_tokens": 25271,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25805
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:45:06.084149915Z",
   "translation": "e Aharon trará ⟨את⟩ ⟨o⟩ bode ⟨que⟩ subiu ⟨sobre⟩ ele ⟨o⟩ sorteio para YHWH e fá-lo-á ⟨uma⟩ oferta pelo pecado",
   "tokens": [
     {
       "surface": "והקריב",
-      "english": "e Aharon trará"
+      "gloss": "e Aharon trará"
     },
     {
       "surface": "אהרן",
-      "english": "Aharon"
+      "gloss": "Aharon"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨o⟩ bode"
     },
     {
       "surface": "השעיר",
-      "english": "⟨o⟩ bode"
+      "gloss": "⟨o⟩ bode"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "עלה",
-      "english": "subiu"
+      "gloss": "subiu"
     },
     {
       "surface": "עליו",
-      "english": "⟨sobre⟩ ele"
+      "gloss": "⟨sobre⟩ ele"
     },
     {
       "surface": "הגורל",
-      "english": "⟨o⟩ sorteio"
+      "gloss": "⟨o⟩ sorteio"
     },
     {
       "surface": "ליהוה",
-      "english": "para YHWH"
+      "gloss": "para YHWH"
     },
     {
       "surface": "ועשהו",
-      "english": "e fá-lo-á"
+      "gloss": "e fá-lo-á"
     },
     {
       "surface": "חטאת",
-      "english": "⟨uma⟩ oferta pelo pecado"
+      "gloss": "⟨uma⟩ oferta pelo pecado"
     }
-  ],
-  "timestamp": "2026-07-16T16:45:06.084149915Z",
-  "model": "glm-4.5"
+  ]
 }

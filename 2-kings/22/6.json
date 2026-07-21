@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-kings 22:6",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 551,
-    "prompt_tokens": 24617,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25168
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:43:50.793962457Z",
   "translation": "aos carpinteiros, e aos construtores, e aos pedreiros, e para comprar madeira e ⟨את⟩ pedras lavradas para reparar a casa",
   "tokens": [
     {
       "surface": "לחרשים",
-      "english": "aos carpinteiros"
+      "gloss": "aos carpinteiros"
     },
     {
       "surface": "ולבנים",
-      "english": "e aos construtores"
+      "gloss": "e aos construtores"
     },
     {
       "surface": "ולגדרים",
-      "english": "e aos pedreiros"
+      "gloss": "e aos pedreiros"
     },
     {
       "surface": "ולקנות",
-      "english": "e para comprar"
+      "gloss": "e para comprar"
     },
     {
       "surface": "עצים",
-      "english": "madeira"
+      "gloss": "madeira"
     },
     {
       "surface": "ואבני",
-      "english": "e ⟨as⟩"
+      "gloss": "e ⟨as⟩"
     },
     {
       "surface": "מחצב",
-      "english": "pedras lavradas"
+      "gloss": "pedras lavradas"
     },
     {
       "surface": "לחזק",
-      "english": "para reparar"
+      "gloss": "para reparar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הבית"
     },
     {
       "surface": "הבית",
-      "english": "a casa"
+      "gloss": "a casa"
     }
-  ],
-  "timestamp": "2026-07-16T12:43:50.793962457Z",
-  "model": "glm-4.5"
+  ]
 }

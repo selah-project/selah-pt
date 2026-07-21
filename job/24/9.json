@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 24:9",
   "book": "job",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27262,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27561
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:45:36.456653721Z",
   "translation": "Eles roubam ⟨o⟩ órfão do seio e sobre ⟨o⟩ necessitado tomam um penhor",
   "tokens": [
     {
       "surface": "יגזלו",
-      "english": "Eles roubam"
+      "gloss": "Eles roubam"
     },
     {
       "surface": "משד",
-      "english": "do seio",
+      "gloss": "do seio",
       "marks": "órfão"
     },
     {
       "surface": "יתום",
-      "english": "órfão"
+      "gloss": "órfão"
     },
     {
       "surface": "ועל",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "עני",
-      "english": "necessitado"
+      "gloss": "necessitado"
     },
     {
       "surface": "יחבלו",
-      "english": "tomam um penhor"
+      "gloss": "tomam um penhor"
     }
-  ],
-  "timestamp": "2026-06-13T06:45:36.456653721Z",
-  "model": "glm-4.5"
+  ]
 }

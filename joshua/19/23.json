@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "joshua 19:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 19,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:44:12.430344945Z",
+  "translation": "Esta ⟨é⟩ ⟨a⟩ herança ⟨da⟩ tribo ⟨dos⟩ filhos ⟨de⟩ Yissacar, segundo ⟨as⟩ suas famílias: ⟨as⟩ cidades e ⟨os⟩ seus povoados.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Esta"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "herança"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissacar"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segundo ⟨as⟩ suas famílias"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "⟨as⟩ cidades"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "e ⟨os⟩ seus povoados"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Issacar",
@@ -13,56 +52,6 @@
       "hebrew": "יששכר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16413,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 16894
-  },
-  "translation": "Esta ⟨é⟩ ⟨a⟩ herança ⟨da⟩ tribo ⟨dos⟩ filhos ⟨de⟩ Yissacar, segundo ⟨as⟩ suas famílias: ⟨as⟩ cidades e ⟨os⟩ seus povoados.",
-  "tokens": [
-    {
-      "surface": "זאת",
-      "english": "Esta"
-    },
-    {
-      "surface": "נחלת",
-      "english": "herança"
-    },
-    {
-      "surface": "מטה",
-      "english": "tribo"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "יששכר",
-      "english": "Yissacar"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "segundo ⟨as⟩ suas famílias"
-    },
-    {
-      "surface": "הערים",
-      "english": "⟨as⟩ cidades"
-    },
-    {
-      "surface": "וחצריהן",
-      "english": "e ⟨os⟩ seus povoados"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:44:12.430344945Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

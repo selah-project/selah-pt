@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 5:1",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 613,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26765,
-    "prompt_tokens_details": {
-      "cached_tokens": 25327
-    },
-    "total_tokens": 27378
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:09:24.764364121Z",
   "translation": "Let me sing, ⟨I pray⟩, for my beloved a song of my beloved ⟨for⟩ his vineyard. ⟨A⟩ vineyard ⟨was⟩ for my beloved in a horn, ⟨a⟩ son ⟨of⟩ oil.",
   "tokens": [
     {
       "surface": "אשירה",
-      "english": "Let me sing"
+      "gloss": "Let me sing"
     },
     {
       "surface": "נא",
-      "english": "⟨I pray⟩"
+      "gloss": "⟨I pray⟩"
     },
     {
       "surface": "לידידי",
-      "english": "for my beloved"
+      "gloss": "for my beloved"
     },
     {
       "surface": "שירת",
-      "english": "a song"
+      "gloss": "a song"
     },
     {
       "surface": "דודי",
-      "english": "of my beloved"
+      "gloss": "of my beloved"
     },
     {
       "surface": "לכרמו",
-      "english": "⟨for⟩ his vineyard"
+      "gloss": "⟨for⟩ his vineyard"
     },
     {
       "surface": "כרם",
-      "english": "⟨A⟩ vineyard"
+      "gloss": "⟨A⟩ vineyard"
     },
     {
       "surface": "היה",
-      "english": "⟨was⟩"
+      "gloss": "⟨was⟩"
     },
     {
       "surface": "לידידי",
-      "english": "for my beloved"
+      "gloss": "for my beloved"
     },
     {
       "surface": "בקרן",
-      "english": "in a horn"
+      "gloss": "in a horn"
     },
     {
       "surface": "בן",
-      "english": "⟨a⟩ son ⟨of⟩"
+      "gloss": "⟨a⟩ son ⟨of⟩"
     },
     {
       "surface": "שמן",
-      "english": "oil"
+      "gloss": "oil"
     }
-  ],
-  "timestamp": "2026-06-13T06:09:24.764364121Z",
-  "model": "glm-4.5"
+  ]
 }

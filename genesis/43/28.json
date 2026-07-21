@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "genesis 43:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 43,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:27:32.363774761Z",
+  "translation": "Eles disseram: ⟨É⟩ Shalom ⟨para⟩ ⟨o⟩ servo ⟨de⟩ HaShem, nosso pai, ainda ⟨está⟩ vivo; e eles se inclinaram e se prostraram.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Eles disseram"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨É⟩ Shalom"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "⟨para⟩ ⟨o⟩ servo ⟨de⟩"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "HaShem, nosso pai"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "ainda ⟨está⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "e eles se inclinaram"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "e se prostraram"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,56 +52,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 43,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21469,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21977
-  },
-  "translation": "Eles disseram: ⟨É⟩ Shalom ⟨para⟩ ⟨o⟩ servo ⟨de⟩ HaShem, nosso pai, ainda ⟨está⟩ vivo; e eles se inclinaram e se prostraram.",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "Eles disseram"
-    },
-    {
-      "surface": "שלום",
-      "english": "⟨É⟩ Shalom"
-    },
-    {
-      "surface": "לעבדך",
-      "english": "⟨para⟩ ⟨o⟩ servo ⟨de⟩"
-    },
-    {
-      "surface": "לאבינו",
-      "english": "HaShem, nosso pai"
-    },
-    {
-      "surface": "עודנו",
-      "english": "ainda ⟨está⟩"
-    },
-    {
-      "surface": "חי",
-      "english": "vivo"
-    },
-    {
-      "surface": "ויקדו",
-      "english": "e eles se inclinaram"
-    },
-    {
-      "surface": "וישתחו",
-      "english": "e se prostraram"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:27:32.363774761Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

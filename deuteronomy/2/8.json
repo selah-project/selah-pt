@@ -1,9 +1,86 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "deuteronomy 2:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 2,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:51:51.179635645Z",
+  "translation": "E passamos ⟨por⟩ ⟨את⟩ nossos irmãos, os filhos de Esav, ⟨os que⟩ habitam em Seir, ⟨por⟩ o caminho da Arabá, ⟨de⟩ Elat e ⟨de⟩ Etsiom-Gaver, e ⟨nos⟩ viramos e passamos ⟨por⟩ o caminho do deserto de Moav.",
+  "tokens": [
+    {
+      "surface": "ונעבר",
+      "gloss": "E passamos"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨por⟩",
+      "marks": "nossos irmãos"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "nossos irmãos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "⟨os que⟩ habitam"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "em Seir"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "⟨por⟩ o caminho"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "da Arabá"
+    },
+    {
+      "surface": "מאילת",
+      "gloss": "⟨de⟩ Elat"
+    },
+    {
+      "surface": "ומעצין",
+      "gloss": "⟨e⟩ ⟨de⟩ Etsiom-Gaver",
+      "marks": "Elat e Etsiom-Gaver"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Etsiom-Gaver"
+    },
+    {
+      "surface": "ונפן",
+      "gloss": "e ⟨nos⟩ viramos"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "e passamos"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨por⟩ o caminho"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "do deserto"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -13,94 +90,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 701,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18608,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 19309
-  },
-  "translation": "E passamos ⟨por⟩ ⟨את⟩ nossos irmãos, os filhos de Esav, ⟨os que⟩ habitam em Seir, ⟨por⟩ o caminho da Arabá, ⟨de⟩ Elat e ⟨de⟩ Etsiom-Gaver, e ⟨nos⟩ viramos e passamos ⟨por⟩ o caminho do deserto de Moav.",
-  "tokens": [
-    {
-      "surface": "ונעבר",
-      "english": "E passamos"
-    },
-    {
-      "surface": "מאת",
-      "english": "⟨por⟩",
-      "marks": "nossos irmãos"
-    },
-    {
-      "surface": "אחינו",
-      "english": "nossos irmãos"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "עשו",
-      "english": "de Esav"
-    },
-    {
-      "surface": "הישבים",
-      "english": "⟨os que⟩ habitam"
-    },
-    {
-      "surface": "בשעיר",
-      "english": "em Seir"
-    },
-    {
-      "surface": "מדרך",
-      "english": "⟨por⟩ o caminho"
-    },
-    {
-      "surface": "הערבה",
-      "english": "da Arabá"
-    },
-    {
-      "surface": "מאילת",
-      "english": "⟨de⟩ Elat"
-    },
-    {
-      "surface": "ומעצין",
-      "english": "⟨e⟩ ⟨de⟩ Etsiom-Gaver",
-      "marks": "Elat e Etsiom-Gaver"
-    },
-    {
-      "surface": "גבר",
-      "english": "Etsiom-Gaver"
-    },
-    {
-      "surface": "ונפן",
-      "english": "e ⟨nos⟩ viramos"
-    },
-    {
-      "surface": "ונעבר",
-      "english": "e passamos"
-    },
-    {
-      "surface": "דרך",
-      "english": "⟨por⟩ o caminho"
-    },
-    {
-      "surface": "מדבר",
-      "english": "do deserto"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:51:51.179635645Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

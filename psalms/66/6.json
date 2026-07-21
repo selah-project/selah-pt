@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 66:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63055,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63531
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:21:46.561991483Z",
   "translation": "Ele virou ⟨o⟩ mar ⟨em⟩ terra seca; ⟨no⟩ rio ⟨os⟩ atravessaram a ⟨pé⟩; ali nos alegramos nele.",
   "tokens": [
     {
       "surface": "הפך",
-      "english": "Ele virou"
+      "gloss": "Ele virou"
     },
     {
       "surface": "ים",
-      "english": "⟨o⟩ mar"
+      "gloss": "⟨o⟩ mar"
     },
     {
       "surface": "ליבשה",
-      "english": "⟨em⟩ terra seca"
+      "gloss": "⟨em⟩ terra seca"
     },
     {
       "surface": "בנהר",
-      "english": "⟨no⟩ rio"
+      "gloss": "⟨no⟩ rio"
     },
     {
       "surface": "יעברו",
-      "english": "⟨os⟩ atravessaram"
+      "gloss": "⟨os⟩ atravessaram"
     },
     {
       "surface": "ברגל",
-      "english": "a ⟨pé⟩"
+      "gloss": "a ⟨pé⟩"
     },
     {
       "surface": "שם",
-      "english": "ali"
+      "gloss": "ali"
     },
     {
       "surface": "נשמחה",
-      "english": "nos alegramos"
+      "gloss": "nos alegramos"
     },
     {
       "surface": "בו",
-      "english": "nele"
+      "gloss": "nele"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:21:46.561991483Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

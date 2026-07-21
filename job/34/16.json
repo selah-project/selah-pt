@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 34:16",
   "book": "job",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 391,
-    "prompt_tokens": 27397,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27788
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:00:55.196839580Z",
   "translation": "E se ⟨tu tens⟩ Biná, ouve isto; inclina ⟨o teu⟩ ouvido à voz ⟨das⟩ minhas palavras.",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "E se"
+      "gloss": "E se"
     },
     {
       "surface": "בינה",
-      "english": "Biná"
+      "gloss": "Biná"
     },
     {
       "surface": "שמעה",
-      "english": "ouve"
+      "gloss": "ouve"
     },
     {
       "surface": "זאת",
-      "english": "isto"
+      "gloss": "isto"
     },
     {
       "surface": "האזינה",
-      "english": "inclina ⟨o teu⟩ ouvido"
+      "gloss": "inclina ⟨o teu⟩ ouvido"
     },
     {
       "surface": "לקול",
-      "english": "à voz"
+      "gloss": "à voz"
     },
     {
       "surface": "מלי",
-      "english": "⟨das⟩ minhas palavras"
+      "gloss": "⟨das⟩ minhas palavras"
     }
-  ],
-  "timestamp": "2026-07-16T16:00:55.196839580Z",
-  "model": "glm-4.5"
+  ]
 }

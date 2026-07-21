@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "judges 5:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 5,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:54:35.160830395Z",
+  "translation": "Meu coração ⟨está⟩ para ⟨os⟩ legisladores de Yisrael, ⟨os⟩ que se oferecem voluntariamente entre o povo. Bendizei ⟨a⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Meu coração"
+    },
+    {
+      "surface": "לחוקקי",
+      "gloss": "para ⟨os⟩ legisladores"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "⟨os⟩ que se oferecem voluntariamente"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "entre o povo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "Bendizei ⟨a⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,52 +48,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16178,
-    "prompt_tokens_details": {
-      "cached_tokens": 15157
-    },
-    "total_tokens": 16524
-  },
-  "translation": "Meu coração ⟨está⟩ para ⟨os⟩ legisladores de Yisrael, ⟨os⟩ que se oferecem voluntariamente entre o povo. Bendizei ⟨a⟩ YHWH.",
-  "tokens": [
-    {
-      "surface": "לבי",
-      "english": "Meu coração"
-    },
-    {
-      "surface": "לחוקקי",
-      "english": "para ⟨os⟩ legisladores"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "המתנדבים",
-      "english": "⟨os⟩ que se oferecem voluntariamente"
-    },
-    {
-      "surface": "בעם",
-      "english": "entre o povo"
-    },
-    {
-      "surface": "ברכו",
-      "english": "Bendizei ⟨a⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:54:35.160830395Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

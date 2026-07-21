@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "ecclesiastes 1:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17294,
-    "prompt_tokens_details": {
-      "cached_tokens": 16387
-    },
-    "total_tokens": 17722
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:28:43.837821425Z",
   "translation": "Geração vai ⟨e⟩ geração vem, mas ⟨a⟩ terra ⟨permanece⟩ ⟨para⟩ sempre.",
   "tokens": [
     {
       "surface": "דור",
-      "english": "Geração"
+      "gloss": "Geração"
     },
     {
       "surface": "הלך",
-      "english": "vai"
+      "gloss": "vai"
     },
     {
       "surface": "ודור",
-      "english": "⟨e⟩ geração"
+      "gloss": "⟨e⟩ geração"
     },
     {
       "surface": "בא",
-      "english": "vem"
+      "gloss": "vem"
     },
     {
       "surface": "והארץ",
-      "english": "mas ⟨a⟩ terra"
+      "gloss": "mas ⟨a⟩ terra"
     },
     {
       "surface": "לעולם",
-      "english": "⟨para⟩ sempre"
+      "gloss": "⟨para⟩ sempre"
     },
     {
       "surface": "עמדת",
-      "english": "⟨permanece⟩"
+      "gloss": "⟨permanece⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:28:43.837821425Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

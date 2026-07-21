@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-kings 17:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 17,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:36:05.396899503Z",
+  "translation": "O pote ⟨de⟩ farinha não se esgotou, ⟨e⟩ a jarra ⟨de⟩ azeite não faltou, conforme ⟨a⟩ palavra ⟨de⟩ YHWH, que Ele falou ⟨por⟩ mão ⟨de⟩ Eliyahu.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "O pote ⟨de⟩"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "farinha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "se esgotou"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "⟨e⟩ a jarra ⟨de⟩"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "azeite"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "faltou"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "conforme ⟨a⟩ palavra ⟨de⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ele falou"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨por⟩ mão ⟨de⟩"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Elias",
@@ -13,80 +76,6 @@
       "hebrew": "אליהו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 687,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62916,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63603
-  },
-  "translation": "O pote ⟨de⟩ farinha não se esgotou, ⟨e⟩ a jarra ⟨de⟩ azeite não faltou, conforme ⟨a⟩ palavra ⟨de⟩ YHWH, que Ele falou ⟨por⟩ mão ⟨de⟩ Eliyahu.",
-  "tokens": [
-    {
-      "surface": "כד",
-      "english": "O pote ⟨de⟩"
-    },
-    {
-      "surface": "הקמח",
-      "english": "farinha"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "כלתה",
-      "english": "se esgotou"
-    },
-    {
-      "surface": "וצפחת",
-      "english": "⟨e⟩ a jarra ⟨de⟩"
-    },
-    {
-      "surface": "השמן",
-      "english": "azeite"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "חסר",
-      "english": "faltou"
-    },
-    {
-      "surface": "כדבר",
-      "english": "conforme ⟨a⟩ palavra ⟨de⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "דבר",
-      "english": "Ele falou"
-    },
-    {
-      "surface": "ביד",
-      "english": "⟨por⟩ mão ⟨de⟩"
-    },
-    {
-      "surface": "אליהו",
-      "english": "Eliyahu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:36:05.396899503Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

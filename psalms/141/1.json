@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 141:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 141,
-  "usage": {
-    "completion_tokens": 499,
-    "prompt_tokens": 70587,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71086
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:03.976146220Z",
   "translation": "Um mizmor de David. YHWH, clamei a Ti; apressa-Te para mim; inclina ⟨o⟩ ouvido à minha voz quando clamo a Ti.",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "Um mizmor"
+      "gloss": "Um mizmor"
     },
     {
       "surface": "לדוד",
-      "english": "de David"
+      "gloss": "de David"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "קראתיך",
-      "english": "clamei a Ti"
+      "gloss": "clamei a Ti"
     },
     {
       "surface": "חושה",
-      "english": "apressa-Te"
+      "gloss": "apressa-Te"
     },
     {
       "surface": "לי",
-      "english": "para mim"
+      "gloss": "para mim"
     },
     {
       "surface": "האזינה",
-      "english": "inclina ⟨o⟩ ouvido"
+      "gloss": "inclina ⟨o⟩ ouvido"
     },
     {
       "surface": "קולי",
-      "english": "à minha voz"
+      "gloss": "à minha voz"
     },
     {
       "surface": "בקראי",
-      "english": "quando clamo"
+      "gloss": "quando clamo"
     },
     {
       "surface": "לך",
-      "english": "a Ti"
+      "gloss": "a Ti"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:03.976146220Z",
-  "model": "glm-4.5"
+  ]
 }

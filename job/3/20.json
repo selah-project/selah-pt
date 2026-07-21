@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 3:20",
   "book": "job",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 481,
-    "prompt_tokens": 27394,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27875
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:56:08.299672614Z",
   "translation": "Por que ⟨ele⟩ dá luz ao que ⟨está⟩ em miséria e vida aos amargos de alma",
   "tokens": [
     {
       "surface": "למה",
-      "english": "Por que"
+      "gloss": "Por que"
     },
     {
       "surface": "יתן",
-      "english": "⟨ele⟩ dá"
+      "gloss": "⟨ele⟩ dá"
     },
     {
       "surface": "לעמל",
-      "english": "ao que ⟨está⟩ em miséria"
+      "gloss": "ao que ⟨está⟩ em miséria"
     },
     {
       "surface": "אור",
-      "english": "luz"
+      "gloss": "luz"
     },
     {
       "surface": "וחיים",
-      "english": "e vida"
+      "gloss": "e vida"
     },
     {
       "surface": "למרי",
-      "english": "aos amargos"
+      "gloss": "aos amargos"
     },
     {
       "surface": "נפש",
-      "english": "de alma"
+      "gloss": "de alma"
     }
-  ],
-  "timestamp": "2026-07-16T15:56:08.299672614Z",
-  "model": "glm-4.5"
+  ]
 }

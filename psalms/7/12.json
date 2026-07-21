@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 7:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62862,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63274
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:43:17.782532292Z",
   "translation": "Elohim ⟨é⟩ um juiz justo; e Elohim ⟨está⟩ indignado ⟨com⟩ os ímpios todos ⟨os⟩ dias.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "שופט",
-      "english": "⟨é⟩ um juiz"
+      "gloss": "⟨é⟩ um juiz"
     },
     {
       "surface": "צדיק",
-      "english": "justo"
+      "gloss": "justo"
     },
     {
       "surface": "ואל",
-      "english": "e Elohim"
+      "gloss": "e Elohim"
     },
     {
       "surface": "זעם",
-      "english": "⟨está⟩ indignado"
+      "gloss": "⟨está⟩ indignado"
     },
     {
       "surface": "בכל",
-      "english": "⟨com⟩ os ímpios todos"
+      "gloss": "⟨com⟩ os ímpios todos"
     },
     {
       "surface": "יום",
-      "english": "⟨os⟩ dias"
+      "gloss": "⟨os⟩ dias"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:43:17.782532292Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

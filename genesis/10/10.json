@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 10:10",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 451,
-    "prompt_tokens": 28948,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29399
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:42:26.083526612Z",
   "translation": "E o princípio ⟨do⟩ seu reino foi Bavel, e Erech, e Accad, e Calneh, na terra de Shinár.",
   "tokens": [
     {
       "surface": "ותהי",
-      "english": "E o princípio foi"
+      "gloss": "E o princípio foi"
     },
     {
       "surface": "ראשית",
-      "english": "o princípio"
+      "gloss": "o princípio"
     },
     {
       "surface": "ממלכתו",
-      "english": "⟨do⟩ seu reino"
+      "gloss": "⟨do⟩ seu reino"
     },
     {
       "surface": "בבל",
-      "english": "Bavel"
+      "gloss": "Bavel"
     },
     {
       "surface": "וארך",
-      "english": ", e Erech"
+      "gloss": ", e Erech"
     },
     {
       "surface": "ואכד",
-      "english": ", e Accad"
+      "gloss": ", e Accad"
     },
     {
       "surface": "וכלנה",
-      "english": ", e Calneh"
+      "gloss": ", e Calneh"
     },
     {
       "surface": "בארץ",
-      "english": "na terra"
+      "gloss": "na terra"
     },
     {
       "surface": "שנער",
-      "english": "de Shinár"
+      "gloss": "de Shinár"
     }
-  ],
-  "timestamp": "2026-07-16T14:42:26.083526612Z",
-  "model": "glm-4.5"
+  ]
 }

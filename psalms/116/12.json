@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 116:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 416,
-    "prompt_tokens": 70147,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70563
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:30.188595028Z",
   "translation": "O que retribuirei a YHWH por todos ⟨os⟩ seus benefícios ⟨sobre⟩ mim?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "O que"
+      "gloss": "O que"
     },
     {
       "surface": "אשיב",
-      "english": "retribuirei"
+      "gloss": "retribuirei"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "כל",
-      "english": "por todos"
+      "gloss": "por todos"
     },
     {
       "surface": "תגמולוהי",
-      "english": "⟨os⟩ seus benefícios"
+      "gloss": "⟨os⟩ seus benefícios"
     },
     {
       "surface": "עלי",
-      "english": "⟨sobre⟩ mim"
+      "gloss": "⟨sobre⟩ mim"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:30.188595028Z",
-  "model": "glm-4.5"
+  ]
 }

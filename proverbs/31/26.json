@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "proverbs 31:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
+  "chapter": 31,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:45:49.392165244Z",
+  "translation": "Ela ⟨está⟩ aberta ⟨a⟩ boca com sabedoria, e ⟨a⟩ torá de Jésed ⟨está⟩ sobre ⟨a⟩ sua língua.",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "Sua boca",
+      "marks": "ela"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "⟨está⟩ aberta",
+      "marks": "boca"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "com sabedoria"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "e ⟨a⟩ torá"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "de Jésed"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "⟨a⟩ sua língua"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "bondade",
@@ -13,54 +50,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52841,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53239
-  },
-  "translation": "Ela ⟨está⟩ aberta ⟨a⟩ boca com sabedoria, e ⟨a⟩ torá de Jésed ⟨está⟩ sobre ⟨a⟩ sua língua.",
-  "tokens": [
-    {
-      "surface": "פיה",
-      "english": "Sua boca",
-      "marks": "ela"
-    },
-    {
-      "surface": "פתחה",
-      "english": "⟨está⟩ aberta",
-      "marks": "boca"
-    },
-    {
-      "surface": "בחכמה",
-      "english": "com sabedoria"
-    },
-    {
-      "surface": "ותורת",
-      "english": "e ⟨a⟩ torá"
-    },
-    {
-      "surface": "חסד",
-      "english": "de Jésed"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "לשונה",
-      "english": "⟨a⟩ sua língua"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:45:49.392165244Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

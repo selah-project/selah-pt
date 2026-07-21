@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 55:16",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70385,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70804
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:54:12.214291705Z",
   "translation": "Quanto a mim, invocarei a Elohim; e YHWH ⟨salvará⟩ me.",
   "tokens": [
     {
       "surface": "ישימות",
-      "english": "Quanto a mim"
+      "gloss": "Quanto a mim"
     },
     {
       "surface": "עלימו",
-      "english": "invocarei"
+      "gloss": "invocarei"
     },
     {
       "surface": "ירדו",
-      "english": "a Elohim"
+      "gloss": "a Elohim"
     },
     {
       "surface": "שאול",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "חיים",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "⟨salvará⟩"
+      "gloss": "⟨salvará⟩"
     },
     {
       "surface": "רעות",
-      "english": "me"
+      "gloss": "me"
     },
     {
       "surface": "במגורם",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "בקרבם",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-06-14T04:54:12.214291705Z",
-  "model": "glm-4.5"
+  ]
 }

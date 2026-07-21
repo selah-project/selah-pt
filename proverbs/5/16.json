@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 5:16",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 361,
-    "prompt_tokens": 60182,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60543
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:28:10.768495642Z",
   "translation": "⟨Sejam⟩ dispersas ⟨as⟩ tuas fontes e, ⟨nas⟩ ruas, ⟨os⟩ canais de águas",
   "tokens": [
     {
       "surface": "יפוצו",
-      "english": "⟨Sejam⟩ dispersas"
+      "gloss": "⟨Sejam⟩ dispersas"
     },
     {
       "surface": "מעינתיך",
-      "english": "⟨as⟩ tuas fontes"
+      "gloss": "⟨as⟩ tuas fontes"
     },
     {
       "surface": "חוצה",
-      "english": "e, ⟨nas⟩ ruas"
+      "gloss": "e, ⟨nas⟩ ruas"
     },
     {
       "surface": "ברחבות",
-      "english": "ruas"
+      "gloss": "ruas"
     },
     {
       "surface": "פלגי",
-      "english": "⟨os⟩ canais"
+      "gloss": "⟨os⟩ canais"
     },
     {
       "surface": "מים",
-      "english": "de águas"
+      "gloss": "de águas"
     }
-  ],
-  "timestamp": "2026-07-16T17:28:10.768495642Z",
-  "model": "glm-4.5"
+  ]
 }

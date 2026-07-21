@@ -1,78 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 23:15",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 639,
-    "prompt_tokens": 29450,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 30089
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:48:37.990029059Z",
   "translation": "Meu senhor, ouve-me: ⟨a⟩ terra ⟨é⟩ quatrocentos siclos de prata; o que ⟨é⟩ isso entre mim e ti? Sepulta, pois, ⟨את⟩ o teu morto.",
   "tokens": [
     {
       "surface": "אדני",
-      "english": "Meu senhor"
+      "gloss": "Meu senhor"
     },
     {
       "surface": "שמעני",
-      "english": "ouve-me"
+      "gloss": "ouve-me"
     },
     {
       "surface": "ארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "ארבע",
-      "english": "quatrocentos"
+      "gloss": "quatrocentos"
     },
     {
       "surface": "מאת",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "שקל",
-      "english": "siclos"
+      "gloss": "siclos"
     },
     {
       "surface": "כסף",
-      "english": "de prata"
+      "gloss": "de prata"
     },
     {
       "surface": "ביני",
-      "english": "entre mim"
+      "gloss": "entre mim"
     },
     {
       "surface": "ובינך",
-      "english": "e ti"
+      "gloss": "e ti"
     },
     {
       "surface": "מה",
-      "english": "o que ⟨é⟩ isso"
+      "gloss": "o que ⟨é⟩ isso"
     },
     {
       "surface": "הוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o teu morto"
     },
     {
       "surface": "מתך",
-      "english": "o teu morto"
+      "gloss": "o teu morto"
     },
     {
       "surface": "קבר",
-      "english": "Sepulta, pois"
+      "gloss": "Sepulta, pois"
     }
-  ],
-  "timestamp": "2026-07-16T14:48:37.990029059Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "numbers 34:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 34,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:47:42.838594723Z",
+  "translation": "e da tribo ⟨dos⟩ filhos de Shimon, Shemuel filho de Ammihud",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "E da tribo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "de Shimon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "de Ammihud"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Simeão",
@@ -13,48 +44,6 @@
       "hebrew": "שמעון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 257,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17877,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18134
-  },
-  "translation": "e da tribo ⟨dos⟩ filhos de Shimon, Shemuel filho de Ammihud",
-  "tokens": [
-    {
-      "surface": "ולמטה",
-      "english": "E da tribo"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos"
-    },
-    {
-      "surface": "שמעון",
-      "english": "de Shimon"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shemuel"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "עמיהוד",
-      "english": "de Ammihud"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:47:42.838594723Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

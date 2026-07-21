@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 29:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 358,
-    "prompt_tokens": 70185,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70543
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:36:00.797047420Z",
   "translation": "A voz de YHWH ⟨está⟩ em poder, a voz de YHWH ⟨está⟩ em majestade",
   "tokens": [
     {
       "surface": "קול",
-      "english": "A voz"
+      "gloss": "A voz"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "בכח",
-      "english": "⟨está⟩ em poder"
+      "gloss": "⟨está⟩ em poder"
     },
     {
       "surface": "קול",
-      "english": "a voz"
+      "gloss": "a voz"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "בהדר",
-      "english": "⟨está⟩ em majestade"
+      "gloss": "⟨está⟩ em majestade"
     }
-  ],
-  "timestamp": "2026-07-16T17:36:00.797047420Z",
-  "model": "glm-4.5"
+  ]
 }

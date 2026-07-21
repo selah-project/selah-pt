@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 62:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 736,
-    "prompt_tokens": 70697,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71433
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:40:55.929399939Z",
   "translation": "Somente por causa ⟨da⟩ sua riqueza eles deliberam para derrubar; com falsidade, com a qual se comprazem, eles ⟨o⟩ abençoam com ⟨a⟩ boca, mas inwardly eles o amaldiçoam. Selah.",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Somente"
+      "gloss": "Somente"
     },
     {
       "surface": "משאתו",
-      "english": "por causa ⟨da⟩ sua riqueza"
+      "gloss": "por causa ⟨da⟩ sua riqueza"
     },
     {
       "surface": "יעצו",
-      "english": "eles deliberam"
+      "gloss": "eles deliberam"
     },
     {
       "surface": "להדיח",
-      "english": "para derrubar"
+      "gloss": "para derrubar"
     },
     {
       "surface": "ירצו",
-      "english": "com a qual se comprazem"
+      "gloss": "com a qual se comprazem"
     },
     {
       "surface": "כזב",
-      "english": "falsidade"
+      "gloss": "falsidade"
     },
     {
       "surface": "בפיו",
-      "english": "com ⟨a⟩ boca"
+      "gloss": "com ⟨a⟩ boca"
     },
     {
       "surface": "יברכו",
-      "english": "eles ⟨o⟩ abençoam"
+      "gloss": "eles ⟨o⟩ abençoam"
     },
     {
       "surface": "ובקרבם",
-      "english": "mas inwardly"
+      "gloss": "mas inwardly"
     },
     {
       "surface": "יקללו",
-      "english": "eles o amaldiçoam"
+      "gloss": "eles o amaldiçoam"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-07-16T17:40:55.929399939Z",
-  "model": "glm-4.5"
+  ]
 }

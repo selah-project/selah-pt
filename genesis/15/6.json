@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 15:6",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 377,
-    "prompt_tokens": 28502,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28879
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:44:33.506458895Z",
   "translation": "E ele creu em YHWH, e ⟨foi⟩ contado para ⟨ele⟩ retidão",
   "tokens": [
     {
       "surface": "והאמן",
-      "english": "E ele creu"
+      "gloss": "E ele creu"
     },
     {
       "surface": "ביהוה",
-      "english": "em YHWH"
+      "gloss": "em YHWH"
     },
     {
       "surface": "ויחשבה",
-      "english": "e ⟨foi⟩ contado"
+      "gloss": "e ⟨foi⟩ contado"
     },
     {
       "surface": "לו",
-      "english": "para ⟨ele⟩"
+      "gloss": "para ⟨ele⟩"
     },
     {
       "surface": "צדקה",
-      "english": "retidão"
+      "gloss": "retidão"
     }
-  ],
-  "timestamp": "2026-07-16T14:44:33.506458895Z",
-  "model": "glm-4.5"
+  ]
 }

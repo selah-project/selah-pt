@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 29:4",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 432,
-    "prompt_tokens": 65659,
-    "prompt_tokens_details": {
-      "cached_tokens": 64384
-    },
-    "total_tokens": 66091
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:21:35.238492219Z",
   "translation": "E ele trouxe ⟨את⟩ os Kohanim e ⟨את⟩ os Levitas, e os reuniu na praça ⟨le⟩ leste.",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "E ele trouxe"
+      "gloss": "E ele trouxe"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os Kohanim"
     },
     {
       "surface": "הכהנים",
-      "english": "os Kohanim"
+      "gloss": "os Kohanim"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os Levitas"
     },
     {
       "surface": "הלוים",
-      "english": "os Levitas"
+      "gloss": "os Levitas"
     },
     {
       "surface": "ויאספם",
-      "english": "e os reuniu"
+      "gloss": "e os reuniu"
     },
     {
       "surface": "לרחוב",
-      "english": "na praça"
+      "gloss": "na praça"
     },
     {
       "surface": "המזרח",
-      "english": "leste"
+      "gloss": "leste"
     }
-  ],
-  "timestamp": "2026-07-16T12:21:35.238492219Z",
-  "model": "glm-4.5"
+  ]
 }

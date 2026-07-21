@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-chronicles 26:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57004,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57295
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:01:15.044297173Z",
   "translation": "Elam ⟨o⟩ quinto, Jeoanan ⟨o⟩ sexto, Elioenai ⟨o⟩ sétimo",
   "tokens": [
     {
       "surface": "עילם",
-      "english": "Elam"
+      "gloss": "Elam"
     },
     {
       "surface": "החמישי",
-      "english": "⟨o⟩ quinto",
+      "gloss": "⟨o⟩ quinto",
       "marks": "Elam"
     },
     {
       "surface": "יהוחנן",
-      "english": "Jeoanan"
+      "gloss": "Jeoanan"
     },
     {
       "surface": "הששי",
-      "english": "⟨o⟩ sexto",
+      "gloss": "⟨o⟩ sexto",
       "marks": "Jeoanan"
     },
     {
       "surface": "אליהועיני",
-      "english": "Elioenai"
+      "gloss": "Elioenai"
     },
     {
       "surface": "השביעי",
-      "english": "⟨o⟩ sétimo",
+      "gloss": "⟨o⟩ sétimo",
       "marks": "Elioenai"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:01:15.044297173Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

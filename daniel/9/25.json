@@ -1,9 +1,106 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "daniel 9:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 9,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:58:46.254916609Z",
+  "translation": "E ⟨você⟩ saberá e entenderá ⟨a partir de⟩ ⟨a⟩ saída ⟨da⟩ palavra para restaurar ⟨a⟩ Yerushalayim e ⟨para⟩ construir ⟨a⟩ Yerushalayim até ⟨ao⟩ Mashíaj ⟨o⟩ príncipe: sete semanas e sessenta e duas semanas ⟨ela⟩ voltará e ⟨será⟩ reconstruída ⟨a⟩ praça e ⟨o⟩ fosso e ⟨em⟩ ⟨os⟩ apertos ⟨dos⟩ tempos.",
+  "tokens": [
+    {
+      "surface": "ותדע",
+      "gloss": "E ⟨você⟩ saberá"
+    },
+    {
+      "surface": "ותשכל",
+      "gloss": "e entenderá"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨a partir de⟩"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "⟨a⟩ saída"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨da⟩ palavra"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "para restaurar"
+    },
+    {
+      "surface": "ולבנות",
+      "gloss": "e ⟨para⟩ construir"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨a⟩ Yerushalayim",
+      "marks": "a Jerusalém"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até ⟨ao⟩"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "⟨ao⟩ Mashíaj",
+      "marks": "o Mashíaj"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "⟨o⟩ príncipe"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sete semanas"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "sessenta e duas semanas"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sessenta"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "e duas"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "⟨ela⟩ voltará"
+    },
+    {
+      "surface": "ונבנתה",
+      "gloss": "e ⟨será⟩ reconstruída"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "⟨a⟩ praça"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "e ⟨o⟩ fosso"
+    },
+    {
+      "surface": "ובצוק",
+      "gloss": "e ⟨em⟩ ⟨os⟩"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "apertos ⟨dos⟩ tempos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,114 +110,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 1277,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18716,
-    "prompt_tokens_details": {
-      "cached_tokens": 16111
-    },
-    "total_tokens": 19993
-  },
-  "translation": "E ⟨você⟩ saberá e entenderá ⟨a partir de⟩ ⟨a⟩ saída ⟨da⟩ palavra para restaurar ⟨a⟩ Yerushalayim e ⟨para⟩ construir ⟨a⟩ Yerushalayim até ⟨ao⟩ Mashíaj ⟨o⟩ príncipe: sete semanas e sessenta e duas semanas ⟨ela⟩ voltará e ⟨será⟩ reconstruída ⟨a⟩ praça e ⟨o⟩ fosso e ⟨em⟩ ⟨os⟩ apertos ⟨dos⟩ tempos.",
-  "tokens": [
-    {
-      "surface": "ותדע",
-      "english": "E ⟨você⟩ saberá"
-    },
-    {
-      "surface": "ותשכל",
-      "english": "e entenderá"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨a partir de⟩"
-    },
-    {
-      "surface": "מצא",
-      "english": "⟨a⟩ saída"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨da⟩ palavra"
-    },
-    {
-      "surface": "להשיב",
-      "english": "para restaurar"
-    },
-    {
-      "surface": "ולבנות",
-      "english": "e ⟨para⟩ construir"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨a⟩ Yerushalayim",
-      "marks": "a Jerusalém"
-    },
-    {
-      "surface": "עד",
-      "english": "até ⟨ao⟩"
-    },
-    {
-      "surface": "משיח",
-      "english": "⟨ao⟩ Mashíaj",
-      "marks": "o Mashíaj"
-    },
-    {
-      "surface": "נגיד",
-      "english": "⟨o⟩ príncipe"
-    },
-    {
-      "surface": "שבעים",
-      "english": "sete semanas"
-    },
-    {
-      "surface": "שבעה",
-      "english": "e"
-    },
-    {
-      "surface": "ושבעים",
-      "english": "sessenta e duas semanas"
-    },
-    {
-      "surface": "ששים",
-      "english": "sessenta"
-    },
-    {
-      "surface": "ושנים",
-      "english": "e duas"
-    },
-    {
-      "surface": "תשוב",
-      "english": "⟨ela⟩ voltará"
-    },
-    {
-      "surface": "ונבנתה",
-      "english": "e ⟨será⟩ reconstruída"
-    },
-    {
-      "surface": "רחוב",
-      "english": "⟨a⟩ praça"
-    },
-    {
-      "surface": "וחרוץ",
-      "english": "e ⟨o⟩ fosso"
-    },
-    {
-      "surface": "ובצוק",
-      "english": "e ⟨em⟩ ⟨os⟩"
-    },
-    {
-      "surface": "העתים",
-      "english": "apertos ⟨dos⟩ tempos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:58:46.254916609Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "exodus 3:10",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 537,
-    "prompt_tokens": 24737,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25274
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:43:42.117307844Z",
   "translation": "E agora, vem, e ⟨eu⟩ enviarei você a Paró, e ⟨tu⟩ farás sair ⟨את⟩ o meu povo, os filhos de Yisrael, do Egito",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "E agora"
+      "gloss": "E agora"
     },
     {
       "surface": "לכה",
-      "english": "vem"
+      "gloss": "vem"
     },
     {
       "surface": "ואשלחך",
-      "english": "e ⟨eu⟩ enviarei você"
+      "gloss": "e ⟨eu⟩ enviarei você"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "והוצא",
-      "english": "e ⟨tu⟩ farás sair"
+      "gloss": "e ⟨tu⟩ farás sair"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o meu povo"
     },
     {
       "surface": "עמי",
-      "english": "o meu povo"
+      "gloss": "o meu povo"
     },
     {
       "surface": "בני",
-      "english": "os filhos"
+      "gloss": "os filhos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "ממצרים",
-      "english": "do Egito"
+      "gloss": "do Egito"
     }
-  ],
-  "timestamp": "2026-07-16T13:43:42.117307844Z",
-  "model": "glm-4.5"
+  ]
 }

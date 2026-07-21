@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "deuteronomy 25:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17271,
-    "prompt_tokens_details": {
-      "cached_tokens": 16575
-    },
-    "total_tokens": 17628
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:14:31.731049605Z",
   "translation": "Não ⟨o⟩ ⟨matarás⟩ ⟨a⟩ ⟨fome⟩ do boi quando ⟨ele⟩ pisoteia ⟨a⟩ cereal.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תחסם",
-      "english": "⟨o⟩ ⟨matarás⟩ ⟨a⟩ ⟨fome⟩",
+      "gloss": "⟨o⟩ ⟨matarás⟩ ⟨a⟩ ⟨fome⟩",
       "marks": "do boi"
     },
     {
       "surface": "שור",
-      "english": "boi"
+      "gloss": "boi"
     },
     {
       "surface": "בדישו",
-      "english": "quando ⟨ele⟩ pisoteia ⟨a⟩ cereal"
+      "gloss": "quando ⟨ele⟩ pisoteia ⟨a⟩ cereal"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:14:31.731049605Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

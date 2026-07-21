@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 105:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 633,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70217,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70850
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:35:50.561040673Z",
   "translation": "Louvem ⟨a⟩ YHWH ⟨e⟩ chamem ⟨por⟩ ⟨o⟩ ⟨Seu⟩ nome ⟨e⟩ anunciem ⟨entre⟩ ⟨os⟩ povos ⟨as⟩ ⟨Suas⟩ proezas",
   "tokens": [
     {
       "surface": "הודו",
-      "english": "Louvem ⟨a⟩"
+      "gloss": "Louvem ⟨a⟩"
     },
     {
       "surface": "ליהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "קראו",
-      "english": "⟨e⟩ chamem ⟨por⟩"
+      "gloss": "⟨e⟩ chamem ⟨por⟩"
     },
     {
       "surface": "בשמו",
-      "english": "⟨o⟩ ⟨Seu⟩ nome"
+      "gloss": "⟨o⟩ ⟨Seu⟩ nome"
     },
     {
       "surface": "הודיעו",
-      "english": "⟨e⟩ anunciem ⟨entre⟩"
+      "gloss": "⟨e⟩ anunciem ⟨entre⟩"
     },
     {
       "surface": "בעמים",
-      "english": "⟨os⟩ povos"
+      "gloss": "⟨os⟩ povos"
     },
     {
       "surface": "עלילותיו",
-      "english": "⟨as⟩ ⟨Suas⟩ proezas"
+      "gloss": "⟨as⟩ ⟨Suas⟩ proezas"
     }
-  ],
-  "timestamp": "2026-06-11T23:35:50.561040673Z",
-  "model": "glm-4.5"
+  ]
 }

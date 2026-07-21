@@ -1,9 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "isaiah 37:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 37,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:41:03.301461299Z",
+  "translation": "A quem ⟨את⟩ insultaste e blasfemaste? e contra quem elevaste ⟨a⟩ voz e levantaste ⟨o⟩ orgulho de teus olhos para ⟨o⟩ Santo de Yisrael?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "A quem",
+      "marks": "quem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "quem"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "insultaste"
+    },
+    {
+      "surface": "וגדפת",
+      "gloss": "e blasfemaste"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e contra quem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "quem"
+    },
+    {
+      "surface": "הרימותה",
+      "gloss": "elevaste"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨a⟩ voz"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "e levantaste"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨o⟩ orgulho"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "de teus olhos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "⟨o⟩ Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,81 +77,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19849,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20361
-  },
-  "translation": "A quem ⟨את⟩ insultaste e blasfemaste? e contra quem elevaste ⟨a⟩ voz e levantaste ⟨o⟩ orgulho de teus olhos para ⟨o⟩ Santo de Yisrael?",
-  "tokens": [
-    {
-      "surface": "את",
-      "english": "A quem",
-      "marks": "quem"
-    },
-    {
-      "surface": "מי",
-      "english": "quem"
-    },
-    {
-      "surface": "חרפת",
-      "english": "insultaste"
-    },
-    {
-      "surface": "וגדפת",
-      "english": "e blasfemaste"
-    },
-    {
-      "surface": "ועל",
-      "english": "e contra quem"
-    },
-    {
-      "surface": "מי",
-      "english": "quem"
-    },
-    {
-      "surface": "הרימותה",
-      "english": "elevaste"
-    },
-    {
-      "surface": "קול",
-      "english": "⟨a⟩ voz"
-    },
-    {
-      "surface": "ותשא",
-      "english": "e levantaste"
-    },
-    {
-      "surface": "מרום",
-      "english": "⟨o⟩ orgulho"
-    },
-    {
-      "surface": "עיניך",
-      "english": "de teus olhos"
-    },
-    {
-      "surface": "אל",
-      "english": "para"
-    },
-    {
-      "surface": "קדוש",
-      "english": "⟨o⟩ Santo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:41:03.301461299Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

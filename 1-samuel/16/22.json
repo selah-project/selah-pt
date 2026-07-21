@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-samuel 16:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 16,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:27:13.249358679Z",
+  "translation": "E Shaul enviou a Jishai, dizendo: ⟨se⟩ ⟨ponha⟩ David ⟨perante⟩ ⟨a⟩ minha face, pois encontrou favor ⟨em⟩ ⟨os⟩ meus olhos.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E Saul enviou"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo:"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "⟨se⟩ ⟨ponha⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨perante⟩ ⟨a⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "encontrou"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨em⟩ ⟨os⟩ meus olhos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -20,76 +79,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 569,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16819,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17388
-  },
-  "translation": "E Shaul enviou a Jishai, dizendo: ⟨se⟩ ⟨ponha⟩ David ⟨perante⟩ ⟨a⟩ minha face, pois encontrou favor ⟨em⟩ ⟨os⟩ meus olhos.",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "E Saul enviou"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "ישי",
-      "english": "Jishai"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo:"
-    },
-    {
-      "surface": "יעמד",
-      "english": "⟨se⟩ ⟨ponha⟩"
-    },
-    {
-      "surface": "נא",
-      "english": "⟨⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨perante⟩ ⟨a⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "מצא",
-      "english": "encontrou"
-    },
-    {
-      "surface": "חן",
-      "english": "favor"
-    },
-    {
-      "surface": "בעיני",
-      "english": "⟨em⟩ ⟨os⟩ meus olhos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:27:13.249358679Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

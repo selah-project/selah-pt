@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 125:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 125,
-  "usage": {
-    "completion_tokens": 678,
-    "prompt_tokens": 70823,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71501
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:08.623998230Z",
   "translation": "Mas quanto aos que se voltam para ⟨os⟩ seus caminhos tortuosos, YHWH os levará com os que praticam ⟨את⟩ a iniquidade; paz sobre Yisrael.",
   "tokens": [
     {
       "surface": "והמטים",
-      "english": "Mas quanto aos que se voltam"
+      "gloss": "Mas quanto aos que se voltam"
     },
     {
       "surface": "עקלקלותם",
-      "english": "para ⟨os⟩ seus caminhos tortuosos"
+      "gloss": "para ⟨os⟩ seus caminhos tortuosos"
     },
     {
       "surface": "יוליכם",
-      "english": "YHWH os levará"
+      "gloss": "YHWH os levará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a iniquidade"
     },
     {
       "surface": "פעלי",
-      "english": "os que praticam"
+      "gloss": "os que praticam"
     },
     {
       "surface": "האון",
-      "english": "a iniquidade"
+      "gloss": "a iniquidade"
     },
     {
       "surface": "שלום",
-      "english": "paz"
+      "gloss": "paz"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T17:50:08.623998230Z",
-  "model": "glm-4.5"
+  ]
 }

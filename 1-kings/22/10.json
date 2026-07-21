@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-kings 22:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 22,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:44:27.123581678Z",
+  "translation": "E o rei de Yisrael e Josafá, rei de Yehudá, ⟨estavam⟩ sentados, cada um ⟨em⟩ seu trono, vestidos ⟨de⟩ roupas, ⟨em⟩ uma eira, ⟨à⟩ entrada ⟨do⟩ portão ⟨de⟩ Shomron; e todos ⟨os⟩ profetas ⟨estavam⟩ profetizando ⟨em⟩ frente ⟨deles⟩.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "E o rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "e Josafá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "⟨estavam⟩ sentados"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada um"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "seu trono"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "vestidos ⟨de⟩"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "roupas"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "⟨em⟩ uma eira"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "⟨à⟩ entrada"
+    },
+    {
+      "surface": "שער",
+      "gloss": "⟨do⟩ portão"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "⟨de⟩ Shomron"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todos ⟨os⟩"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profetas"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "⟨estavam⟩ profetizando ⟨em⟩"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "frente ⟨deles⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -27,100 +110,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 729,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63591,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 64320
-  },
-  "translation": "E o rei de Yisrael e Josafá, rei de Yehudá, ⟨estavam⟩ sentados, cada um ⟨em⟩ seu trono, vestidos ⟨de⟩ roupas, ⟨em⟩ uma eira, ⟨à⟩ entrada ⟨do⟩ portão ⟨de⟩ Shomron; e todos ⟨os⟩ profetas ⟨estavam⟩ profetizando ⟨em⟩ frente ⟨deles⟩.",
-  "tokens": [
-    {
-      "surface": "ומלך",
-      "english": "E o rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויהושפט",
-      "english": "e Josafá"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ישבים",
-      "english": "⟨estavam⟩ sentados"
-    },
-    {
-      "surface": "איש",
-      "english": "cada um"
-    },
-    {
-      "surface": "על",
-      "english": "⟨em⟩"
-    },
-    {
-      "surface": "כסאו",
-      "english": "seu trono"
-    },
-    {
-      "surface": "מלבשים",
-      "english": "vestidos ⟨de⟩"
-    },
-    {
-      "surface": "בגדים",
-      "english": "roupas"
-    },
-    {
-      "surface": "בגרן",
-      "english": "⟨em⟩ uma eira"
-    },
-    {
-      "surface": "פתח",
-      "english": "⟨à⟩ entrada"
-    },
-    {
-      "surface": "שער",
-      "english": "⟨do⟩ portão"
-    },
-    {
-      "surface": "שמרון",
-      "english": "⟨de⟩ Shomron"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todos ⟨os⟩"
-    },
-    {
-      "surface": "הנביאים",
-      "english": "profetas"
-    },
-    {
-      "surface": "מתנבאים",
-      "english": "⟨estavam⟩ profetizando ⟨em⟩"
-    },
-    {
-      "surface": "לפניהם",
-      "english": "frente ⟨deles⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:44:27.123581678Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

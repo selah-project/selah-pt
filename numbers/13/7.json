@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "numbers 13:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 13,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:22:52.410381778Z",
+  "translation": "⟨para⟩ ⟨a tribo⟩ de Issachar ⟨está⟩ Jigal ⟨o⟩ filho de Yosef",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "⟨Para⟩ ⟨a tribo⟩"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "de Issachar"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "Jigal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "de Yosef"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "José",
@@ -13,44 +40,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17726,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18055
-  },
-  "translation": "⟨para⟩ ⟨a tribo⟩ de Issachar ⟨está⟩ Jigal ⟨o⟩ filho de Yosef",
-  "tokens": [
-    {
-      "surface": "למטה",
-      "english": "⟨Para⟩ ⟨a tribo⟩"
-    },
-    {
-      "surface": "יששכר",
-      "english": "de Issachar"
-    },
-    {
-      "surface": "יגאל",
-      "english": "Jigal"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "יוסף",
-      "english": "de Yosef"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:22:52.410381778Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

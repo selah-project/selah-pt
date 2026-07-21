@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "numbers 21:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 21,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:31:57.778636026Z",
+  "translation": "E Yisrael enviou mensageiros ⟨para⟩ Sihon, rei ⟨dos⟩ amorreus, dizendo",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E enviou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mensageiros"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "⟨dos⟩ amorreus"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18037,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 18376
-  },
-  "translation": "E Yisrael enviou mensageiros ⟨para⟩ Sihon, rei ⟨dos⟩ amorreus, dizendo",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "E enviou"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מלאכים",
-      "english": "mensageiros"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "סיחן",
-      "english": "Sihon"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "האמרי",
-      "english": "⟨dos⟩ amorreus"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:31:57.778636026Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

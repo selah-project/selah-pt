@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 115:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62837,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63378
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:56:33.258970165Z",
   "translation": "Os céus ⟨são⟩ os céus ⟨de⟩ YHWH, mas ⟨a⟩ terra ⟨ele⟩ deu ⟨para⟩ ⟨os⟩ filhos de Adam.",
   "tokens": [
     {
       "surface": "השמים",
-      "english": "Os céus"
+      "gloss": "Os céus"
     },
     {
       "surface": "שמים",
-      "english": "os céus"
+      "gloss": "os céus"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨de⟩ YHWH"
+      "gloss": "⟨de⟩ YHWH"
     },
     {
       "surface": "והארץ",
-      "english": "mas ⟨a⟩ terra"
+      "gloss": "mas ⟨a⟩ terra"
     },
     {
       "surface": "נתן",
-      "english": "⟨ele⟩ deu"
+      "gloss": "⟨ele⟩ deu"
     },
     {
       "surface": "לבני",
-      "english": "⟨para⟩ ⟨os⟩ filhos"
+      "gloss": "⟨para⟩ ⟨os⟩ filhos"
     },
     {
       "surface": "אדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:56:33.258970165Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

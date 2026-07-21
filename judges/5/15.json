@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "judges 5:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 5,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:54:53.190732498Z",
+  "translation": "E os príncipes ⟨em⟩ Issacar estavam ⟨com⟩ Devorá, e Issacar, como também Barak: ⟨foi⟩ enviado ⟨em⟩ pé ⟨ao⟩ vale. Nas divisões ⟨de⟩ Reuvén, ⟨houve⟩ grandes resoluções ⟨de⟩ coração.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "E os príncipes"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "⟨em⟩ Issacar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "Devorá"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "e Issacar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "como também"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "⟨foi⟩ enviado ⟨em⟩ pé ⟨ao⟩ vale"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "⟨foi⟩ enviado"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "⟨em⟩ pé"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "Nas divisões ⟨de⟩"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvén"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grandes"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "resoluções"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨de⟩ coração"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Débora",
@@ -27,84 +94,6 @@
       "hebrew": "ראובן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 606,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17000,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17606
-  },
-  "translation": "E os príncipes ⟨em⟩ Issacar estavam ⟨com⟩ Devorá, e Issacar, como também Barak: ⟨foi⟩ enviado ⟨em⟩ pé ⟨ao⟩ vale. Nas divisões ⟨de⟩ Reuvén, ⟨houve⟩ grandes resoluções ⟨de⟩ coração.",
-  "tokens": [
-    {
-      "surface": "ושרי",
-      "english": "E os príncipes"
-    },
-    {
-      "surface": "ביששכר",
-      "english": "⟨em⟩ Issacar"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "דברה",
-      "english": "Devorá"
-    },
-    {
-      "surface": "ויששכר",
-      "english": "e Issacar"
-    },
-    {
-      "surface": "כן",
-      "english": "como também"
-    },
-    {
-      "surface": "ברק",
-      "english": "Barak"
-    },
-    {
-      "surface": "בעמק",
-      "english": "⟨foi⟩ enviado ⟨em⟩ pé ⟨ao⟩ vale"
-    },
-    {
-      "surface": "שלח",
-      "english": "⟨foi⟩ enviado"
-    },
-    {
-      "surface": "ברגליו",
-      "english": "⟨em⟩ pé"
-    },
-    {
-      "surface": "בפלגות",
-      "english": "Nas divisões ⟨de⟩"
-    },
-    {
-      "surface": "ראובן",
-      "english": "Reuvén"
-    },
-    {
-      "surface": "גדלים",
-      "english": "grandes"
-    },
-    {
-      "surface": "חקקי",
-      "english": "resoluções"
-    },
-    {
-      "surface": "לב",
-      "english": "⟨de⟩ coração"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:54:53.190732498Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

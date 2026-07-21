@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 11:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 11,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:44:31.930938755Z",
+  "translation": "Então todo o Yisrael se congregou ⟨junto a⟩ Davidd em Hebron, ⟨⟩dizendo: Eis que ⟨somos⟩ ⟨o⟩ teu osso e ⟨a⟩ tua carne, e nós.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Então ... se congregou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨junto a⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨⟩dizendo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "⟨somos⟩ ⟨o⟩ teu osso"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "e ⟨a⟩ tua carne"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "e nós"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,68 +71,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 624,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57361,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57985
-  },
-  "translation": "Então todo o Yisrael se congregou ⟨junto a⟩ Davidd em Hebron, ⟨⟩dizendo: Eis que ⟨somos⟩ ⟨o⟩ teu osso e ⟨a⟩ tua carne, e nós.",
-  "tokens": [
-    {
-      "surface": "ויקבצו",
-      "english": "Então ... se congregou"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨junto a⟩"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "חברונה",
-      "english": "Hebron"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨⟩dizendo"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis que"
-    },
-    {
-      "surface": "עצמך",
-      "english": "⟨somos⟩ ⟨o⟩ teu osso"
-    },
-    {
-      "surface": "ובשרך",
-      "english": "e ⟨a⟩ tua carne"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "e nós"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:44:31.930938755Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

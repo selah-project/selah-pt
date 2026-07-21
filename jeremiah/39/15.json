@@ -1,9 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "jeremiah 39:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 39,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:44:05.204568094Z",
+  "translation": "E para Yirmeyahu ⟨era⟩ a palavra de YHWH em ⟨o⟩ seu estar detido ⟨no⟩ pátio da prisão ⟨para⟩ dizer",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "E para",
+      "marks": "Jeremias"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a palavra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "em ⟨o⟩ seu estar detido"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "detido"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "⟨no⟩ pátio"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "da prisão"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨para⟩ dizer"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeremias",
@@ -13,65 +61,6 @@
       "hebrew": "ירמיה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 39,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17652,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18073
-  },
-  "translation": "E para Yirmeyahu ⟨era⟩ a palavra de YHWH em ⟨o⟩ seu estar detido ⟨no⟩ pátio da prisão ⟨para⟩ dizer",
-  "tokens": [
-    {
-      "surface": "ואל",
-      "english": "E para",
-      "marks": "Jeremias"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "Yirmeyahu"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨era⟩"
-    },
-    {
-      "surface": "דבר",
-      "english": "a palavra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "בהיתו",
-      "english": "em ⟨o⟩ seu estar detido"
-    },
-    {
-      "surface": "עצור",
-      "english": "detido"
-    },
-    {
-      "surface": "בחצר",
-      "english": "⟨no⟩ pátio"
-    },
-    {
-      "surface": "המטרה",
-      "english": "da prisão"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨para⟩ dizer"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:44:05.204568094Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

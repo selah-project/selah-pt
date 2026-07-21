@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-chronicles 16:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 16,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:51:12.940461926Z",
+  "translation": "E ⟨o⟩ estabeleceu para Yaacov ⟨como⟩ estatuto, para Yisrael ⟨uma⟩ Brit ⟨para⟩ sempre.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "E ⟨o⟩ estabeleceu"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "para Yaacov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "⟨como⟩ estatuto"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "para Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨uma⟩ Brit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨para⟩ sempre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "aliança",
@@ -13,48 +44,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56918,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57336
-  },
-  "translation": "E ⟨o⟩ estabeleceu para Yaacov ⟨como⟩ estatuto, para Yisrael ⟨uma⟩ Brit ⟨para⟩ sempre.",
-  "tokens": [
-    {
-      "surface": "ויעמידה",
-      "english": "E ⟨o⟩ estabeleceu"
-    },
-    {
-      "surface": "ליעקב",
-      "english": "para Yaacov"
-    },
-    {
-      "surface": "לחק",
-      "english": "⟨como⟩ estatuto"
-    },
-    {
-      "surface": "לישראל",
-      "english": "para Yisrael"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨uma⟩ Brit"
-    },
-    {
-      "surface": "עולם",
-      "english": "⟨para⟩ sempre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:51:12.940461926Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

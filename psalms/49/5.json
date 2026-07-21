@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 49:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62827,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63324
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:11:12.720469730Z",
   "translation": "I ⟨will⟩ bend ⟨my⟩ ear ⟨to⟩ a proverb ⟨I will⟩ open my riddle ⟨with⟩ ⟨the⟩ harp",
   "tokens": [
     {
       "surface": "אטה",
-      "english": "I ⟨will⟩ bend"
+      "gloss": "I ⟨will⟩ bend"
     },
     {
       "surface": "למשל",
-      "english": "⟨to⟩ a proverb"
+      "gloss": "⟨to⟩ a proverb"
     },
     {
       "surface": "אזני",
-      "english": "⟨my⟩ ear"
+      "gloss": "⟨my⟩ ear"
     },
     {
       "surface": "אפתח",
-      "english": "⟨I will⟩ open"
+      "gloss": "⟨I will⟩ open"
     },
     {
       "surface": "בכנור",
-      "english": "⟨with⟩ ⟨the⟩ harp"
+      "gloss": "⟨with⟩ ⟨the⟩ harp"
     },
     {
       "surface": "חידתי",
-      "english": "my riddle"
+      "gloss": "my riddle"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:11:12.720469730Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

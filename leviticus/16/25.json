@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "leviticus 16:25",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 455,
-    "prompt_tokens": 24738,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25193
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:46:05.047706874Z",
   "translation": "e ⟨את⟩ gordura da oferta pelo pecado ele fará fumaça sobre ⟨o⟩ altar",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "gordura"
     },
     {
       "surface": "חלב",
-      "english": "gordura"
+      "gloss": "gordura"
     },
     {
       "surface": "החטאת",
-      "english": "da oferta pelo pecado"
+      "gloss": "da oferta pelo pecado"
     },
     {
       "surface": "יקטיר",
-      "english": "ele fará fumaça"
+      "gloss": "ele fará fumaça"
     },
     {
       "surface": "המזבחה",
-      "english": "sobre ⟨o⟩ altar"
+      "gloss": "sobre ⟨o⟩ altar"
     }
-  ],
-  "timestamp": "2026-07-16T16:46:05.047706874Z",
-  "model": "glm-4.5"
+  ]
 }

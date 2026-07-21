@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "genesis 30:21",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 342,
-    "prompt_tokens": 28729,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29071
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:52:33.883877076Z",
   "translation": "E depois ela deu à luz ⟨um⟩ filha, e chamou ⟨את⟩ o nome dela Dinah.",
   "tokens": [
     {
       "surface": "ואחר",
-      "english": "E depois"
+      "gloss": "E depois"
     },
     {
       "surface": "ילדה",
-      "english": "ela deu à luz"
+      "gloss": "ela deu à luz"
     },
     {
       "surface": "בת",
-      "english": "⟨um⟩ filha"
+      "gloss": "⟨um⟩ filha"
     },
     {
       "surface": "ותקרא",
-      "english": "e chamou"
+      "gloss": "e chamou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o nome dela"
     },
     {
       "surface": "שמה",
-      "english": "o nome dela"
+      "gloss": "o nome dela"
     },
     {
       "surface": "דינה",
-      "english": "Dinah"
+      "gloss": "Dinah"
     }
-  ],
-  "timestamp": "2026-07-16T14:52:33.883877076Z",
-  "model": "glm-4.5"
+  ]
 }

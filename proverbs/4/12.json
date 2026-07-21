@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 4:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52960,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53300
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:20:46.436657364Z",
   "translation": "Ao andares, ⟨o⟩ teu passo não será apertado, e se correres, não tropeçarás.",
   "tokens": [
     {
       "surface": "בלכתך",
-      "english": "Ao andares"
+      "gloss": "Ao andares"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יצר",
-      "english": "será apertado"
+      "gloss": "será apertado"
     },
     {
       "surface": "צעדך",
-      "english": "⟨o⟩ teu passo",
+      "gloss": "⟨o⟩ teu passo",
       "marks": "teu passo"
     },
     {
       "surface": "ואם",
-      "english": "e se"
+      "gloss": "e se"
     },
     {
       "surface": "תרוץ",
-      "english": "correres"
+      "gloss": "correres"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תכשל",
-      "english": "tropeçarás"
+      "gloss": "tropeçarás"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:20:46.436657364Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "ruth 1:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ruth",
+  "chapter": 1,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:20:24.939181419Z",
+  "translation": "Ela saiu do lugar onde ⟨estava⟩ com suas duas noras ⟨ela⟩ com ⟨ela⟩; e foram pelo caminho para voltar à terra de Yehudá.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "Ela saiu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "do"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onde"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨estava⟩"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "com"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "suas duas"
+    },
+    {
+      "surface": "כלתיה",
+      "gloss": "noras"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "⟨ela⟩"
+    },
+    {
+      "surface": "ותלכנה",
+      "gloss": "e foram"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pelo caminho"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "para voltar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,84 +80,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21684,
-    "prompt_tokens_details": {
-      "cached_tokens": 19951
-    },
-    "total_tokens": 22177
-  },
-  "translation": "Ela saiu do lugar onde ⟨estava⟩ com suas duas noras ⟨ela⟩ com ⟨ela⟩; e foram pelo caminho para voltar à terra de Yehudá.",
-  "tokens": [
-    {
-      "surface": "ותצא",
-      "english": "Ela saiu"
-    },
-    {
-      "surface": "מן",
-      "english": "do"
-    },
-    {
-      "surface": "המקום",
-      "english": "lugar"
-    },
-    {
-      "surface": "אשר",
-      "english": "onde"
-    },
-    {
-      "surface": "היתה",
-      "english": "⟨estava⟩"
-    },
-    {
-      "surface": "שמה",
-      "english": "com"
-    },
-    {
-      "surface": "ושתי",
-      "english": "suas duas"
-    },
-    {
-      "surface": "כלתיה",
-      "english": "noras"
-    },
-    {
-      "surface": "עמה",
-      "english": "⟨ela⟩"
-    },
-    {
-      "surface": "ותלכנה",
-      "english": "e foram"
-    },
-    {
-      "surface": "בדרך",
-      "english": "pelo caminho"
-    },
-    {
-      "surface": "לשוב",
-      "english": "para voltar"
-    },
-    {
-      "surface": "אל",
-      "english": "à"
-    },
-    {
-      "surface": "ארץ",
-      "english": "terra"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:20:24.939181419Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

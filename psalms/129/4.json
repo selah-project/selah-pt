@@ -1,29 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 129:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 129,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62711,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63232
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:06:51.485601035Z",
   "translation": "YHWH ⟨is⟩ ⟨the⟩ Just; cortou ⟨as⟩ cordas ⟨dos⟩ perversos",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "lemma": "3068",
       "gv": 26,
       "freq": 6007,
@@ -31,7 +19,7 @@
     },
     {
       "surface": "צדיק",
-      "english": "⟨o⟩ Justo",
+      "gloss": "⟨o⟩ Justo",
       "lemma": "6662",
       "gv": 204,
       "freq": 110,
@@ -39,7 +27,7 @@
     },
     {
       "surface": "קצץ",
-      "english": "cortou",
+      "gloss": "cortou",
       "lemma": "7112",
       "gv": 280,
       "freq": 2,
@@ -47,7 +35,7 @@
     },
     {
       "surface": "עבות",
-      "english": "cordas",
+      "gloss": "cordas",
       "lemma": "5688",
       "gv": 478,
       "freq": 3,
@@ -55,14 +43,15 @@
     },
     {
       "surface": "רשעים",
-      "english": "perversos",
+      "gloss": "perversos",
       "lemma": "7563",
       "gv": 620,
       "freq": 105,
       "anagram_room": "יםערש (4 members)"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:06:51.485601035Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

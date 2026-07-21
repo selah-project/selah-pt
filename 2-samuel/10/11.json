@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-samuel 10:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 10,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:51:29.314765922Z",
+  "translation": "E ele disse: Se Aram ⟨se⟩ ⟨tornar⟩ forte ⟨contra⟩ mim, então tu ⟨virás⟩ ⟨para⟩ mim ⟨para⟩ socorro; e se os filhos de Ammon ⟨se⟩ ⟨tornarem⟩ fortes ⟨contra⟩ ti, então eu irei ⟨para⟩ salvar-te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ele disse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תחזק",
+      "gloss": "⟨se⟩ ⟨tornar⟩ forte"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨contra⟩ mim"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "então tu ⟨virás⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨para⟩ mim"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "⟨para⟩ socorro"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Ammon"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "⟨se⟩ ⟨tornarem⟩ fortes"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨contra⟩ ti"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "então eu irei"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "⟨para⟩ salvar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amom",
@@ -13,88 +84,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 668,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18019,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18687
-  },
-  "translation": "E ele disse: Se Aram ⟨se⟩ ⟨tornar⟩ forte ⟨contra⟩ mim, então tu ⟨virás⟩ ⟨para⟩ mim ⟨para⟩ socorro; e se os filhos de Ammon ⟨se⟩ ⟨tornarem⟩ fortes ⟨contra⟩ ti, então eu irei ⟨para⟩ salvar-te.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ele disse"
-    },
-    {
-      "surface": "אם",
-      "english": "Se"
-    },
-    {
-      "surface": "תחזק",
-      "english": "⟨se⟩ ⟨tornar⟩ forte"
-    },
-    {
-      "surface": "ארם",
-      "english": "Aram"
-    },
-    {
-      "surface": "ממני",
-      "english": "⟨contra⟩ mim"
-    },
-    {
-      "surface": "והיתה",
-      "english": "então tu ⟨virás⟩"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨para⟩ mim"
-    },
-    {
-      "surface": "לישועה",
-      "english": "⟨para⟩ socorro"
-    },
-    {
-      "surface": "ואם",
-      "english": "e se"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Ammon"
-    },
-    {
-      "surface": "יחזקו",
-      "english": "⟨se⟩ ⟨tornarem⟩ fortes"
-    },
-    {
-      "surface": "ממך",
-      "english": "⟨contra⟩ ti"
-    },
-    {
-      "surface": "והלכתי",
-      "english": "então eu irei"
-    },
-    {
-      "surface": "להושיע",
-      "english": "⟨para⟩ salvar"
-    },
-    {
-      "surface": "לך",
-      "english": "te"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:51:29.314765922Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

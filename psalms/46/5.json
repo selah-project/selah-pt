@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 46:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 46,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:09:41.543732058Z",
+  "translation": "um rio, seus canais ⟨fazem⟩ alegrar ⟨a⟩ cidade de Elohim, ⟨o⟩ lugar santíssimo dos Mishkáns dElyon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "Um rio"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "seus canais"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "⟨fazem⟩ alegrar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨a⟩ cidade"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨o⟩ lugar santíssimo"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "dos Mishkáns"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "dElyon"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "tabernáculo",
@@ -20,56 +59,6 @@
       "hebrew": "עליון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63097,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63458
-  },
-  "translation": "um rio, seus canais ⟨fazem⟩ alegrar ⟨a⟩ cidade de Elohim, ⟨o⟩ lugar santíssimo dos Mishkáns dElyon.",
-  "tokens": [
-    {
-      "surface": "נהר",
-      "english": "Um rio"
-    },
-    {
-      "surface": "פלגיו",
-      "english": "seus canais"
-    },
-    {
-      "surface": "ישמחו",
-      "english": "⟨fazem⟩ alegrar"
-    },
-    {
-      "surface": "עיר",
-      "english": "⟨a⟩ cidade"
-    },
-    {
-      "surface": "אלהים",
-      "english": "de Elohim"
-    },
-    {
-      "surface": "קדש",
-      "english": "⟨o⟩ lugar santíssimo"
-    },
-    {
-      "surface": "משכני",
-      "english": "dos Mishkáns"
-    },
-    {
-      "surface": "עליון",
-      "english": "dElyon"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:09:41.543732058Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 113:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 113,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62889,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63449
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:55:38.175042797Z",
   "translation": "From the rising of ⟨the⟩ sun until its setting, ⟨is⟩ praised ⟨the⟩ name ⟨of⟩ YHWH.",
   "tokens": [
     {
       "surface": "ממזרח",
-      "english": "From the rising of",
+      "gloss": "From the rising of",
       "rationale": "preposition + noun 'east'; idiomatically 'from the rising'"
     },
     {
       "surface": "שמש",
-      "english": "⟨the⟩ sun",
+      "gloss": "⟨the⟩ sun",
       "rationale": "Hebrew lacks article; English requires 'the' for natural reading"
     },
     {
       "surface": "עד",
-      "english": "until",
+      "gloss": "until",
       "rationale": "temporal preposition indicating extent of time\/space"
     },
     {
       "surface": "מבואו",
-      "english": "its setting",
+      "gloss": "its setting",
       "rationale": "literally 'its coming in\/entrance'; idiom for sunset"
     },
     {
       "surface": "מהלל",
-      "english": "⟨is⟩ praised",
+      "gloss": "⟨is⟩ praised",
       "rationale": "Hebrew participle 'praised\/blessed'; English requires copula 'is'"
     },
     {
       "surface": "שם",
-      "english": "⟨the⟩ name",
+      "gloss": "⟨the⟩ name",
       "rationale": "Hebrew lacks article; English requires 'the' for natural reading"
     },
     {
       "surface": "יהוה",
-      "english": "⟨of⟩ YHWH",
+      "gloss": "⟨of⟩ YHWH",
       "rationale": "Hebrew genitive construction; English requires 'of' to show possession"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:55:38.175042797Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

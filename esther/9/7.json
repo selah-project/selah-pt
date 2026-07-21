@@ -1,48 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "esther 9:7",
   "book": "esther",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 227,
-    "prompt_tokens": 25178,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25405
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:40:39.420426843Z",
   "translation": "e ⟨את⟩ Parshandatha e ⟨את⟩ Dalphon e ⟨את⟩ Aspatha",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Parshandatha"
     },
     {
       "surface": "פרשנדתא",
-      "english": "Parshandatha"
+      "gloss": "Parshandatha"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Dalphon"
     },
     {
       "surface": "דלפון",
-      "english": "Dalphon"
+      "gloss": "Dalphon"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Aspatha"
     },
     {
       "surface": "אספתא",
-      "english": "Aspatha"
+      "gloss": "Aspatha"
     }
-  ],
-  "timestamp": "2026-07-16T13:40:39.420426843Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "genesis 35:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 35,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:18:04.030194948Z",
+  "translation": "E os filhos de Zilpá, serva de Leia: Gad e Aser. Estes ⟨são⟩ os filhos de Yaakov, que nasceram a ele em Padã-Arã.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpá"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "serva"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leia"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e Aser"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Estes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nasceram"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "em Padã"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arã"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Gade",
@@ -20,80 +83,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21878,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22287
-  },
-  "translation": "E os filhos de Zilpá, serva de Leia: Gad e Aser. Estes ⟨são⟩ os filhos de Yaakov, que nasceram a ele em Padã-Arã.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos"
-    },
-    {
-      "surface": "זלפה",
-      "english": "Zilpá"
-    },
-    {
-      "surface": "שפחת",
-      "english": "serva"
-    },
-    {
-      "surface": "לאה",
-      "english": "Leia"
-    },
-    {
-      "surface": "גד",
-      "english": "Gad"
-    },
-    {
-      "surface": "ואשר",
-      "english": "e Aser"
-    },
-    {
-      "surface": "אלה",
-      "english": "Estes"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "ילד",
-      "english": "nasceram"
-    },
-    {
-      "surface": "לו",
-      "english": "a ele"
-    },
-    {
-      "surface": "בפדן",
-      "english": "em Padã"
-    },
-    {
-      "surface": "ארם",
-      "english": "Arã"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:18:04.030194948Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

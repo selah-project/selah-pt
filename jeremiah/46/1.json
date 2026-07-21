@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 46:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 46,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:49:33.976644069Z",
+  "translation": "A palavra de YHWH, que veio ⟨a⟩ Yirmeyahu ⟨o⟩ profeta, concernente ⟨a⟩s nações",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "A"
+    },
+    {
+      "surface": "היה",
+      "gloss": "palavra de"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "YHWH, que veio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨a⟩ Jeremias ⟨o⟩ profeta, concernente ⟨a⟩s nações"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨o⟩ profeta,"
+    },
+    {
+      "surface": "על",
+      "gloss": "concernente ⟨a⟩s"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nações"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeremias",
@@ -13,60 +56,6 @@
       "hebrew": "ירמיה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17470,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 17856
-  },
-  "translation": "A palavra de YHWH, que veio ⟨a⟩ Yirmeyahu ⟨o⟩ profeta, concernente ⟨a⟩s nações",
-  "tokens": [
-    {
-      "surface": "אשר",
-      "english": "A"
-    },
-    {
-      "surface": "היה",
-      "english": "palavra de"
-    },
-    {
-      "surface": "דבר",
-      "english": "YHWH, que veio"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨a⟩ Jeremias ⟨o⟩ profeta, concernente ⟨a⟩s nações"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "Yirmeyahu"
-    },
-    {
-      "surface": "הנביא",
-      "english": "⟨o⟩ profeta,"
-    },
-    {
-      "surface": "על",
-      "english": "concernente ⟨a⟩s"
-    },
-    {
-      "surface": "הגוים",
-      "english": "nações"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:49:33.976644069Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

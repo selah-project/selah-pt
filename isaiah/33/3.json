@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 33:3",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26348,
-    "prompt_tokens_details": {
-      "cached_tokens": 25327
-    },
-    "total_tokens": 26650
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:12:17.749079975Z",
   "translation": "Da voz do tumulto fugiram povos; da tua exaltação ⟨estão⟩ dispersas ⟨as⟩ nações.",
   "tokens": [
     {
       "surface": "מקול",
-      "english": "Da voz"
+      "gloss": "Da voz"
     },
     {
       "surface": "המון",
-      "english": "do tumulto"
+      "gloss": "do tumulto"
     },
     {
       "surface": "נדדו",
-      "english": "fugiram"
+      "gloss": "fugiram"
     },
     {
       "surface": "עמים",
-      "english": "povos"
+      "gloss": "povos"
     },
     {
       "surface": "מרוממתך",
-      "english": "da tua exaltação"
+      "gloss": "da tua exaltação"
     },
     {
       "surface": "נפצו",
-      "english": "⟨estão⟩ dispersas"
+      "gloss": "⟨estão⟩ dispersas"
     },
     {
       "surface": "גוים",
-      "english": "⟨as⟩ nações"
+      "gloss": "⟨as⟩ nações"
     }
-  ],
-  "timestamp": "2026-06-13T06:12:17.749079975Z",
-  "model": "glm-4.5"
+  ]
 }

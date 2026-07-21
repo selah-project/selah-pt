@@ -1,57 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-chronicles 6:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 7,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 973,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58328,
-    "prompt_tokens_details": {
-      "cached_tokens": 57025
-    },
-    "total_tokens": 59301
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:11:36.788132413Z",
   "translation": "E ele ⟨se⟩ pôs ⟨em⟩ pé diante do altar de YHWH, ⟨frente a⟩ toda a assembleia de Yisrael, e estendeu as ⟨suas⟩ mãos ⟨abertas⟩ ⟨em⟩ oração.",
   "tokens": [
     {
       "surface": "ויעמד",
-      "english": "E ele ⟨se⟩ pôs ⟨em⟩ pé",
+      "gloss": "E ele ⟨se⟩ pôs ⟨em⟩ pé",
       "notes": []
     },
     {
       "surface": "לפני",
-      "english": "diante de",
+      "gloss": "diante de",
       "notes": []
     },
     {
       "surface": "מזבח",
-      "english": "altar",
+      "gloss": "altar",
       "notes": []
     },
     {
       "surface": "י�הוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "notes": []
     },
     {
       "surface": "נגד",
-      "english": "⟨frente a⟩",
+      "gloss": "⟨frente a⟩",
       "notes": [
         {
           "kind": "addition",
@@ -62,12 +42,12 @@
     },
     {
       "surface": "כל",
-      "english": "toda",
+      "gloss": "toda",
       "notes": []
     },
     {
       "surface": "קהל",
-      "english": "assembleia",
+      "gloss": "assembleia",
       "notes": [
         {
           "kind": "substitution",
@@ -78,17 +58,17 @@
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael",
+      "gloss": "Yisrael",
       "notes": []
     },
     {
       "surface": "ויפרש",
-      "english": "e estendeu",
+      "gloss": "e estendeu",
       "notes": []
     },
     {
       "surface": "כפיו",
-      "english": "as ⟨suas⟩ mãos ⟨abertas⟩ ⟨em⟩ oração",
+      "gloss": "as ⟨suas⟩ mãos ⟨abertas⟩ ⟨em⟩ oração",
       "notes": [
         {
           "kind": "addition",
@@ -108,7 +88,16 @@
       ]
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:11:36.788132413Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 7,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

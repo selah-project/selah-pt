@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "song-of-songs 6:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "song-of-songs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20465,
-    "prompt_tokens_details": {
-      "cached_tokens": 19435
-    },
-    "total_tokens": 20860
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:18:42.199569577Z",
   "translation": "Não ⟨sabia⟩ ⟨que⟩ ⟨eu⟩ ⟨era⟩ consciente, ⟨minha⟩ alma me pôs entre ⟨os⟩ carros de ⟨meu⟩ povo nobre",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Não",
+      "gloss": "Não",
       "marks": "sabia"
     },
     {
       "surface": "ידעתי",
-      "english": "sabia",
+      "gloss": "sabia",
       "marks": "que eu era consciente"
     },
     {
       "surface": "נפשי",
-      "english": "minha alma",
+      "gloss": "minha alma",
       "marks": "consciente"
     },
     {
       "surface": "שמתני",
-      "english": "me pôs",
+      "gloss": "me pôs",
       "marks": ""
     },
     {
       "surface": "מרכבות",
-      "english": "carros",
+      "gloss": "carros",
       "marks": "os"
     },
     {
       "surface": "עמי",
-      "english": "meu povo",
+      "gloss": "meu povo",
       "marks": "meu"
     },
     {
       "surface": "נדיב",
-      "english": "nobre",
+      "gloss": "nobre",
       "marks": ""
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:18:42.199569577Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

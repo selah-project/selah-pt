@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 29:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 486,
-    "prompt_tokens": 70539,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71025
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:04.830525263Z",
   "translation": "YHWH dará força ao seu povo; YHWH abençoará ⟨את⟩ o seu povo com shalom.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עז",
-      "english": "força"
+      "gloss": "força"
     },
     {
       "surface": "לעמו",
-      "english": "ao seu povo"
+      "gloss": "ao seu povo"
     },
     {
       "surface": "יתן",
-      "english": "dará"
+      "gloss": "dará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יברך",
-      "english": "abençoará"
+      "gloss": "abençoará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o seu povo"
     },
     {
       "surface": "עמו",
-      "english": "o seu povo"
+      "gloss": "o seu povo"
     },
     {
       "surface": "בשלום",
-      "english": "com shalom"
+      "gloss": "com shalom"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:04.830525263Z",
-  "model": "glm-4.5"
+  ]
 }

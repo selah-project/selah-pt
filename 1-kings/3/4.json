@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-kings 3:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 3,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:13:56.150784696Z",
+  "translation": "E o rei foi a Givon para oferecer ⟨um⟩ sacrifício lá, pois ela ⟨é⟩ a grande alta; mil ofertas de ascensão Shlomó ofereceu sobre o altar aquele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "E foi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "a Givon"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "para oferecer ⟨um⟩ sacrifício"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ela ⟨é⟩"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "a alta"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ofertas de ascensão"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ofereceu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "o altar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aquele"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Gibeão",
@@ -20,88 +91,6 @@
       "hebrew": "שלמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63078,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63582
-  },
-  "translation": "E o rei foi a Givon para oferecer ⟨um⟩ sacrifício lá, pois ela ⟨é⟩ a grande alta; mil ofertas de ascensão Shlomó ofereceu sobre o altar aquele.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "E foi"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "גבענה",
-      "english": "a Givon"
-    },
-    {
-      "surface": "לזבח",
-      "english": "para oferecer ⟨um⟩ sacrifício"
-    },
-    {
-      "surface": "שם",
-      "english": "lá"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "היא",
-      "english": "ela ⟨é⟩"
-    },
-    {
-      "surface": "הבמה",
-      "english": "a alta"
-    },
-    {
-      "surface": "הגדולה",
-      "english": "grande"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil"
-    },
-    {
-      "surface": "עלות",
-      "english": "ofertas de ascensão"
-    },
-    {
-      "surface": "יעלה",
-      "english": "ofereceu"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "המזבח",
-      "english": "o altar"
-    },
-    {
-      "surface": "ההוא",
-      "english": "aquele"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:13:56.150784696Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

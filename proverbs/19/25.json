@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 19:25",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60301,
-    "prompt_tokens_details": {
-      "cached_tokens": 59215
-    },
-    "total_tokens": 60703
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:43:24.207912117Z",
   "translation": "Smite ⟨the⟩ scorner ⟨so that⟩ ⟨the⟩ simple ⟨will⟩ beware, ⟨and⟩ reprove ⟨one who has⟩ understanding ⟨and⟩ he will understand knowledge.",
   "tokens": [
     {
       "surface": "לץ",
-      "english": "scorner"
+      "gloss": "scorner"
     },
     {
       "surface": "תכה",
-      "english": "Smite"
+      "gloss": "Smite"
     },
     {
       "surface": "ופתי",
-      "english": "simple"
+      "gloss": "simple"
     },
     {
       "surface": "יערם",
-      "english": "beware"
+      "gloss": "beware"
     },
     {
       "surface": "והוכיח",
-      "english": "reprove"
+      "gloss": "reprove"
     },
     {
       "surface": "לנבון",
-      "english": "understanding"
+      "gloss": "understanding"
     },
     {
       "surface": "יבין",
-      "english": "understand"
+      "gloss": "understand"
     },
     {
       "surface": "דעת",
-      "english": "knowledge"
+      "gloss": "knowledge"
     }
-  ],
-  "timestamp": "2026-06-13T06:43:24.207912117Z",
-  "model": "glm-4.5"
+  ]
 }

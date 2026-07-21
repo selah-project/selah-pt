@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-samuel 11:5",
   "book": "2-samuel",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 446,
-    "prompt_tokens": 24582,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25028
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:51:15.153238507Z",
   "translation": "E ⟨a⟩ mulher concebeu; e ⟨ela⟩ enviou e ⟨o⟩ contou a David, e disse: Estou grávida.",
   "tokens": [
     {
       "surface": "וַתַּהַר",
-      "english": "concebeu"
+      "gloss": "concebeu"
     },
     {
       "surface": "הָאִשָּׁה",
-      "english": "⟨a⟩ mulher"
+      "gloss": "⟨a⟩ mulher"
     },
     {
       "surface": "וַתִּשְׁלַח",
-      "english": "e ⟨ela⟩ enviou"
+      "gloss": "e ⟨ela⟩ enviou"
     },
     {
       "surface": "וַתַּגֵּד",
-      "english": "e ⟨o⟩ contou"
+      "gloss": "e ⟨o⟩ contou"
     },
     {
       "surface": "לְדָוִד",
-      "english": "a David"
+      "gloss": "a David"
     },
     {
       "surface": "וַתֹּאמֶר",
-      "english": "e disse"
+      "gloss": "e disse"
     },
     {
       "surface": "הָרָה",
-      "english": "Estou grávida"
+      "gloss": "Estou grávida"
     },
     {
       "surface": "אָנֹכִי",
-      "english": "Estou"
+      "gloss": "Estou"
     }
-  ],
-  "timestamp": "2026-07-16T12:51:15.153238507Z",
-  "model": "glm-4.5"
+  ]
 }

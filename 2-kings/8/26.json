@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-kings 8:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 8,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:54:09.433992778Z",
+  "translation": "Filho de vinte e dois anos ⟨foi⟩ Acazias quando começou a reinar, e um ano reinou em Jerusalém; e ⟨o⟩ nome de sua mãe ⟨foi⟩ Atalyá, filha de Omri, rei de Yisrael.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Filho de"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vinte"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "e dois"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Acazias"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "quando começou a reinar"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "e um"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ano"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinou"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Jerusalém"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e ⟨o⟩ nome"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "de sua mãe"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyá"
+    },
+    {
+      "surface": "בת",
+      "gloss": "filha"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "de Omri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Atalia",
@@ -20,92 +95,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17749,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18295
-  },
-  "translation": "Filho de vinte e dois anos ⟨foi⟩ Acazias quando começou a reinar, e um ano reinou em Jerusalém; e ⟨o⟩ nome de sua mãe ⟨foi⟩ Atalyá, filha de Omri, rei de Yisrael.",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Filho de"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vinte"
-    },
-    {
-      "surface": "ושתים",
-      "english": "e dois"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "אחזיהו",
-      "english": "Acazias"
-    },
-    {
-      "surface": "במלכו",
-      "english": "quando começou a reinar"
-    },
-    {
-      "surface": "ושנה",
-      "english": "e um"
-    },
-    {
-      "surface": "אחת",
-      "english": "ano"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinou"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Jerusalém"
-    },
-    {
-      "surface": "ושם",
-      "english": "e ⟨o⟩ nome"
-    },
-    {
-      "surface": "אמו",
-      "english": "de sua mãe"
-    },
-    {
-      "surface": "עתליהו",
-      "english": "Atalyá"
-    },
-    {
-      "surface": "בת",
-      "english": "filha"
-    },
-    {
-      "surface": "עמרי",
-      "english": "de Omri"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:54:09.433992778Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

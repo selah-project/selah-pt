@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 151,
   "ref": "psalms 119:151",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 439,
-    "prompt_tokens": 70153,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70592
-  },
+  "verse": 151,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:58.437938953Z",
   "translation": "Perto ⟨estás⟩, YHWH, e todos ⟨os teus⟩ mandamentos ⟨são⟩ emet.",
   "tokens": [
     {
       "surface": "קרוב",
-      "english": "Perto"
+      "gloss": "Perto"
     },
     {
       "surface": "אתה",
-      "english": "⟨estás⟩"
+      "gloss": "⟨estás⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "וכל",
-      "english": "e todos"
+      "gloss": "e todos"
     },
     {
       "surface": "מצותיך",
-      "english": "⟨os teus⟩ mandamentos"
+      "gloss": "⟨os teus⟩ mandamentos"
     },
     {
       "surface": "אמת",
-      "english": "emet"
+      "gloss": "emet"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:58.437938953Z",
-  "model": "glm-4.5"
+  ]
 }

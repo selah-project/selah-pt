@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 29:16",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 405,
-    "prompt_tokens": 24657,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25062
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:58:28.331042461Z",
   "translation": "e matarás ⟨o⟩ ⟨את⟩ carneiro, e tomarás ⟨o⟩ ⟨את⟩ sangue dele, e espargirás sobre ⟨o⟩ altar ao redor",
   "tokens": [
     {
       "surface": "ושחטת",
-      "english": "e matarás"
+      "gloss": "e matarás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "carneiro"
     },
     {
       "surface": "האיל",
-      "english": "⟨o⟩ carneiro"
+      "gloss": "⟨o⟩ carneiro"
     },
     {
       "surface": "ולקחת",
-      "english": "e tomarás"
+      "gloss": "e tomarás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sangue"
     },
     {
       "surface": "דמו",
-      "english": "⟨o⟩ sangue dele"
+      "gloss": "⟨o⟩ sangue dele"
     },
     {
       "surface": "וזרקת",
-      "english": "e espargirás"
+      "gloss": "e espargirás"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "המזבח",
-      "english": "⟨o⟩ altar"
+      "gloss": "⟨o⟩ altar"
     },
     {
       "surface": "סביב",
-      "english": "ao redor"
+      "gloss": "ao redor"
     }
-  ],
-  "timestamp": "2026-07-16T13:58:28.331042461Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "zechariah 1:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "zechariah",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 274,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16000,
-    "prompt_tokens_details": {
-      "cached_tokens": 15081
-    },
-    "total_tokens": 16274
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:28:06.923653912Z",
   "translation": "Vossos pais, onde ⟨estão⟩ eles? E ⟨os⟩ profetas, viverão para sempre?",
   "tokens": [
     {
       "surface": "אבותיכם",
-      "english": "Vossos pais"
+      "gloss": "Vossos pais"
     },
     {
       "surface": "איה",
-      "english": "onde"
+      "gloss": "onde"
     },
     {
       "surface": "הם",
-      "english": "eles"
+      "gloss": "eles"
     },
     {
       "surface": "והנבאים",
-      "english": "e ⟨os⟩ profetas"
+      "gloss": "e ⟨os⟩ profetas"
     },
     {
       "surface": "הלעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "יחיו",
-      "english": "viverão"
+      "gloss": "viverão"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:28:06.923653912Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

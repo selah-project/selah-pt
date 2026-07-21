@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-samuel 2:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 2,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:44:28.508241885Z",
+  "translation": "Um filho de quarenta anos ⟨foi⟩ Ish-Bosheth ⟨o⟩ filho de Shaul ⟨em⟩ ⟨o⟩ seu reinado sobre Yisrael, e dois anos reinou; porém ⟨a⟩ casa de Yehudá esteve após Davidd.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Um filho"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "de quarenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨foi⟩"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Ish-Bosheth"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "⟨em⟩ ⟨o⟩ seu reinado"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "e dois"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinou"
+    },
+    {
+      "surface": "אך",
+      "gloss": "porém"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "היו",
+      "gloss": "esteve"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "após"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -34,100 +117,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 727,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18176,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18903
-  },
-  "translation": "Um filho de quarenta anos ⟨foi⟩ Ish-Bosheth ⟨o⟩ filho de Shaul ⟨em⟩ ⟨o⟩ seu reinado sobre Yisrael, e dois anos reinou; porém ⟨a⟩ casa de Yehudá esteve após Davidd.",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Um filho"
-    },
-    {
-      "surface": "ארבעים",
-      "english": "de quarenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨foi⟩"
-    },
-    {
-      "surface": "בשת",
-      "english": "Ish-Bosheth"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "שאול",
-      "english": "de Shaul"
-    },
-    {
-      "surface": "במלכו",
-      "english": "⟨em⟩ ⟨o⟩ seu reinado"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ושתים",
-      "english": "e dois"
-    },
-    {
-      "surface": "שנים",
-      "english": "anos"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinou"
-    },
-    {
-      "surface": "אך",
-      "english": "porém"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "היו",
-      "english": "esteve"
-    },
-    {
-      "surface": "אחרי",
-      "english": "após"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:44:28.508241885Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

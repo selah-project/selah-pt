@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "2-kings 15:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 15,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:01:07.421215042Z",
+  "translation": "E o restante ⟨dos⟩ atos de Salum e ⟨a sua⟩ conspiração que ele fez, ⟨eis que⟩ estão escritos no livro ⟨das⟩ crônicas ⟨dos⟩ reis ⟨de⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "E o restante"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨dos⟩ atos"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de Salum"
+    },
+    {
+      "surface": "וקשרו",
+      "gloss": "e ⟨a sua⟩ conspiração"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ele fez"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "⟨eis que⟩"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "estão escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "no"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "livro ⟨das⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "crônicas"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "⟨dos⟩"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "reis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,80 +76,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 581,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17500,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18081
-  },
-  "translation": "E o restante ⟨dos⟩ atos de Salum e ⟨a sua⟩ conspiração que ele fez, ⟨eis que⟩ estão escritos no livro ⟨das⟩ crônicas ⟨dos⟩ reis ⟨de⟩ Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "E o restante"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨dos⟩ atos"
-    },
-    {
-      "surface": "שלום",
-      "english": "de Salum"
-    },
-    {
-      "surface": "וקשרו",
-      "english": "e ⟨a sua⟩ conspiração"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "קשר",
-      "english": "ele fez"
-    },
-    {
-      "surface": "הנם",
-      "english": "⟨eis que⟩"
-    },
-    {
-      "surface": "כתבים",
-      "english": "estão escritos"
-    },
-    {
-      "surface": "על",
-      "english": "no"
-    },
-    {
-      "surface": "ספר",
-      "english": "livro ⟨das⟩"
-    },
-    {
-      "surface": "דברי",
-      "english": "crônicas"
-    },
-    {
-      "surface": "הימים",
-      "english": "⟨dos⟩"
-    },
-    {
-      "surface": "למלכי",
-      "english": "reis"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:01:07.421215042Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

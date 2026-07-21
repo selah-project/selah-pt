@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "leviticus 13:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 13,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:48:22.233390686Z",
+  "translation": "E YHWH falou ⟨a⟩ Moshé e ⟨a⟩ Aharon, ⟨para⟩ dizer:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩",
+      "marks": "Moshê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ⟨a⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨para⟩ dizer"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshê",
@@ -13,54 +50,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17251,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 17587
-  },
-  "translation": "E YHWH falou ⟨a⟩ Moshé e ⟨a⟩ Aharon, ⟨para⟩ dizer:",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩",
-      "marks": "Moshê"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ואל",
-      "english": "e ⟨a⟩",
-      "marks": "Aharon"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharon"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨para⟩ dizer"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:48:22.233390686Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

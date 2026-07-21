@@ -1,78 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 104:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 910,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63200,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 64110
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:48:07.203960326Z",
   "translation": "Como ⟨são⟩ numerosas as tuas obras, ⟨ó⟩ YHWH! Todas ⟨elas⟩ fizeste com sabedoria; ⟨a⟩ terra ⟨está⟩ cheia das tuas criaturas.",
   "tokens": [
     {
       "surface": "מה",
-      "english": "Como",
+      "gloss": "Como",
       "rationale": "Interrogativo exaltado, 'como!', 'quantas!' — expressão de admiração, não pergunta literal."
     },
     {
       "surface": "רבו",
-      "english": "⟨são⟩ numerosas",
+      "gloss": "⟨são⟩ numerosas",
       "rationale": "Particípio passivo 'multiplicadas', 'numerosas'; requer copula em português."
     },
     {
       "surface": "מעשיך",
-      "english": "as tuas obras",
+      "gloss": "as tuas obras",
       "rationale": "'Tuas ações\/feitos' — 'obras' capta melhor o sentido criativo."
     },
     {
       "surface": "יהוה",
-      "english": "⟨ó⟩ YHWH",
+      "gloss": "⟨ó⟩ YHWH",
       "rationale": "Vocativo de admiração; 'ó' traduz a pausa\/exclamação implícita. Preserva-se o Nome."
     },
     {
       "surface": "כלם",
-      "english": "Todas ⟨elas⟩",
+      "gloss": "Todas ⟨elas⟩",
       "rationale": "'Todas elas' (feminino plural para concordar com 'obras'); 'elas' é adição para clareza anafórica."
     },
     {
       "surface": "בחכמה",
-      "english": "com sabedoria",
+      "gloss": "com sabedoria",
       "rationale": "Preposição בְּ + 'sabedoria' — 'com' é a preposição natural em português."
     },
     {
       "surface": "עשית",
-      "english": "fizeste",
+      "gloss": "fizeste",
       "rationale": "Verbo 'fazer' no perfeito 2ms — concorda com 'tu' (YHWH)."
     },
     {
       "surface": "מלאה",
-      "english": "⟨está⟩ cheia",
+      "gloss": "⟨está⟩ cheia",
       "rationale": "Verbo 'estar cheio' (particípio fem. sing.) — requer copula ⟨está⟩ em português."
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra",
+      "gloss": "⟨a⟩ terra",
       "rationale": "Artigo definido הַ — 'a' em português."
     },
     {
       "surface": "קנינך",
-      "english": "das tuas criaturas",
+      "gloss": "das tuas criaturas",
       "rationale": "'Tuas possessões\/aquisições' — no contexto criativo, 'criaturas' (sentido primário de קנין) é a melhor tradução."
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:48:07.203960326Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

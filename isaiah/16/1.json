@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 16:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 16,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:25:00.924679775Z",
+  "translation": "Enviai ⟨um⟩ cordeiro ⟨ao⟩ governador ⟨da⟩ terra, ⟨desde⟩ Sela ⟨no⟩ deserto até ⟨o⟩ monte ⟨da⟩ filha de Tzion",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Enviai"
+    },
+    {
+      "surface": "כר",
+      "gloss": "⟨um⟩ cordeiro"
+    },
+    {
+      "surface": "משל",
+      "gloss": "⟨ao⟩ governador"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨da⟩ terra"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "⟨desde⟩ Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "⟨no⟩ deserto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "até"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨o⟩ monte"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⟨da⟩ filha"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "de Tzion"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sião",
@@ -13,64 +60,6 @@
       "hebrew": "ציון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 630,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19168,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19798
-  },
-  "translation": "Enviai ⟨um⟩ cordeiro ⟨ao⟩ governador ⟨da⟩ terra, ⟨desde⟩ Sela ⟨no⟩ deserto até ⟨o⟩ monte ⟨da⟩ filha de Tzion",
-  "tokens": [
-    {
-      "surface": "שלחו",
-      "english": "Enviai"
-    },
-    {
-      "surface": "כר",
-      "english": "⟨um⟩ cordeiro"
-    },
-    {
-      "surface": "משל",
-      "english": "⟨ao⟩ governador"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨da⟩ terra"
-    },
-    {
-      "surface": "מסלע",
-      "english": "⟨desde⟩ Sela"
-    },
-    {
-      "surface": "מדברה",
-      "english": "⟨no⟩ deserto"
-    },
-    {
-      "surface": "אל",
-      "english": "até"
-    },
-    {
-      "surface": "הר",
-      "english": "⟨o⟩ monte"
-    },
-    {
-      "surface": "בת",
-      "english": "⟨da⟩ filha"
-    },
-    {
-      "surface": "ציון",
-      "english": "de Tzion"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:25:00.924679775Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

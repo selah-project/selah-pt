@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 26:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 26,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:37:13.429380121Z",
+  "translation": "Ruben, o primogênito de Yisrael: ⟨os⟩ filhos de Ruben ⟨são⟩ ⟨o⟩ Hanoch, ⟨do qual é⟩ ⟨a⟩ família ⟨dos⟩ Hanochitas; ⟨ao⟩ Palu, ⟨a⟩ família ⟨dos⟩ Paluitas.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "o primogênito de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "de Ruben"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoch"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨do qual é⟩ ⟨a⟩ família"
+    },
+    {
+      "surface": "החנכי",
+      "gloss": "⟨dos⟩ Hanochitas"
+    },
+    {
+      "surface": "לפלוא",
+      "gloss": "⟨ao⟩ Palu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨a⟩ família"
+    },
+    {
+      "surface": "הפלאי",
+      "gloss": "⟨dos⟩ Paluitas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18498,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 19053
-  },
-  "translation": "Ruben, o primogênito de Yisrael: ⟨os⟩ filhos de Ruben ⟨são⟩ ⟨o⟩ Hanoch, ⟨do qual é⟩ ⟨a⟩ família ⟨dos⟩ Hanochitas; ⟨ao⟩ Palu, ⟨a⟩ família ⟨dos⟩ Paluitas.",
-  "tokens": [
-    {
-      "surface": "ראובן",
-      "english": "Ruben"
-    },
-    {
-      "surface": "בכור",
-      "english": "o primogênito de Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "ראובן",
-      "english": "de Ruben"
-    },
-    {
-      "surface": "חנוך",
-      "english": "Hanoch"
-    },
-    {
-      "surface": "משפחת",
-      "english": "⟨do qual é⟩ ⟨a⟩ família"
-    },
-    {
-      "surface": "החנכי",
-      "english": "⟨dos⟩ Hanochitas"
-    },
-    {
-      "surface": "לפלוא",
-      "english": "⟨ao⟩ Palu"
-    },
-    {
-      "surface": "משפחת",
-      "english": "⟨a⟩ família"
-    },
-    {
-      "surface": "הפלאי",
-      "english": "⟨dos⟩ Paluitas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:37:13.429380121Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

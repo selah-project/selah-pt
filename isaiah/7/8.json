@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 7:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 7,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:18:02.560365743Z",
+  "translation": "Porque a cabeça de Aram ⟨é⟩ Damesek, e a cabeça de Damesek ⟨é⟩ Rasim; e ainda sessenta e cinco anos, e Efráyim será quebrado, ⟨de modo que⟩ não ⟨seja⟩ um povo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "cabeça"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesek"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "e cabeça"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesek"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Rasim"
+    },
+    {
+      "surface": "ובעוד",
+      "gloss": "e ainda"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sessenta"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "e cinco"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "será quebrado"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "⟨de modo que⟩ não ⟨seja⟩ um povo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Damasco",
@@ -27,80 +90,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19641,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 20205
-  },
-  "translation": "Porque a cabeça de Aram ⟨é⟩ Damesek, e a cabeça de Damesek ⟨é⟩ Rasim; e ainda sessenta e cinco anos, e Efráyim será quebrado, ⟨de modo que⟩ não ⟨seja⟩ um povo.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "ראש",
-      "english": "cabeça"
-    },
-    {
-      "surface": "ארם",
-      "english": "Aram"
-    },
-    {
-      "surface": "דמשק",
-      "english": "Damesek"
-    },
-    {
-      "surface": "וראש",
-      "english": "e cabeça"
-    },
-    {
-      "surface": "דמשק",
-      "english": "Damesek"
-    },
-    {
-      "surface": "רצין",
-      "english": "Rasim"
-    },
-    {
-      "surface": "ובעוד",
-      "english": "e ainda"
-    },
-    {
-      "surface": "ששים",
-      "english": "sessenta"
-    },
-    {
-      "surface": "וחמש",
-      "english": "e cinco"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "יחת",
-      "english": "será quebrado"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "מעם",
-      "english": "⟨de modo que⟩ não ⟨seja⟩ um povo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:18:02.560365743Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

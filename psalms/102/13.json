@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 102:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 670,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62893,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63563
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:46:12.063210204Z",
   "translation": "E Tu, ⟨o⟩ YHWH, ⟨es⟩ ⟨para⟩ sempre ⟨sentado⟩, e ⟨o⟩ Teu memorial ⟨é⟩ ⟨para⟩ geração e geração.",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "E Tu",
+      "gloss": "E Tu",
       "marks": "o sujeito da frase: Tu"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לעולם",
-      "english": "⟨para⟩ sempre"
+      "gloss": "⟨para⟩ sempre"
     },
     {
       "surface": "תשב",
-      "english": "⟨es⟩ ⟨sentado⟩"
+      "gloss": "⟨es⟩ ⟨sentado⟩"
     },
     {
       "surface": "וזכרך",
-      "english": "e ⟨o⟩ Teu memorial"
+      "gloss": "e ⟨o⟩ Teu memorial"
     },
     {
       "surface": "לדר",
-      "english": "⟨para⟩ geração"
+      "gloss": "⟨para⟩ geração"
     },
     {
       "surface": "ודר",
-      "english": "e geração"
+      "gloss": "e geração"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:46:12.063210204Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

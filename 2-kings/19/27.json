@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "2-kings 19:27",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 357,
-    "prompt_tokens": 24388,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24745
-  },
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:42:03.334581528Z",
   "translation": "E sei ⟨o⟩ teu sentar-te, e ⟨o⟩ teu sair, e ⟨o⟩ teu entrar, e ⟨a⟩ tua fúria contra mim,",
   "tokens": [
     {
       "surface": "ושבתך",
-      "english": "e sei ⟨o⟩ teu sentar-te"
+      "gloss": "e sei ⟨o⟩ teu sentar-te"
     },
     {
       "surface": "וצאתך",
-      "english": "e ⟨o⟩ teu sair"
+      "gloss": "e ⟨o⟩ teu sair"
     },
     {
       "surface": "ובאך",
-      "english": "e ⟨o⟩ teu entrar"
+      "gloss": "e ⟨o⟩ teu entrar"
     },
     {
       "surface": "ידעתי",
-      "english": "sei"
+      "gloss": "sei"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a tua fúria"
     },
     {
       "surface": "התרגזך",
-      "english": "tua fúria"
+      "gloss": "tua fúria"
     },
     {
       "surface": "אלי",
-      "english": "contra mim"
+      "gloss": "contra mim"
     }
-  ],
-  "timestamp": "2026-07-16T12:42:03.334581528Z",
-  "model": "glm-4.5"
+  ]
 }

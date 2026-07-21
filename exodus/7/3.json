@@ -1,9 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 7:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 7,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:42:08.027751019Z",
+  "translation": "E Eu endurecerei ⟨o⟩ coração ⟨de⟩ Paró, e multiplicarei ⟨meus⟩ sinais ⟨e⟩ ⟨meus⟩ prodígios ⟨em⟩ ⟨a⟩ terra ⟨do⟩ Mitzráyim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "E Eu"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "endurecerei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨o⟩",
+      "marks": "coração ⟨de⟩ Faraó"
+    },
+    {
+      "surface": "לב",
+      "gloss": "coração"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "⟨de⟩ Paró"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "e multiplicarei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨meus⟩",
+      "marks": "sinais"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "sinais"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨e⟩",
+      "marks": "⟨meus⟩ prodígios"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "⟨meus⟩ prodígios"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨em⟩ ⟨a⟩ terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨do⟩ Mitzráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraó",
@@ -20,75 +78,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 762,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17468,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18230
-  },
-  "translation": "E Eu endurecerei ⟨o⟩ coração ⟨de⟩ Paró, e multiplicarei ⟨meus⟩ sinais ⟨e⟩ ⟨meus⟩ prodígios ⟨em⟩ ⟨a⟩ terra ⟨do⟩ Mitzráyim.",
-  "tokens": [
-    {
-      "surface": "ואני",
-      "english": "E Eu"
-    },
-    {
-      "surface": "אקשה",
-      "english": "endurecerei"
-    },
-    {
-      "surface": "את",
-      "english": "⟨o⟩",
-      "marks": "coração ⟨de⟩ Faraó"
-    },
-    {
-      "surface": "לב",
-      "english": "coração"
-    },
-    {
-      "surface": "פרעה",
-      "english": "⟨de⟩ Paró"
-    },
-    {
-      "surface": "והרביתי",
-      "english": "e multiplicarei"
-    },
-    {
-      "surface": "את",
-      "english": "⟨meus⟩",
-      "marks": "sinais"
-    },
-    {
-      "surface": "אתתי",
-      "english": "sinais"
-    },
-    {
-      "surface": "ואת",
-      "english": "⟨e⟩",
-      "marks": "⟨meus⟩ prodígios"
-    },
-    {
-      "surface": "מופתי",
-      "english": "⟨meus⟩ prodígios"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨em⟩ ⟨a⟩ terra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨do⟩ Mitzráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:42:08.027751019Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "numbers 34:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 34,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:47:41.147633410Z",
+  "translation": "⟨Por⟩ ⟨a⟩ tribo ⟨de⟩ Binyamim, ⟨o⟩ Elidad ⟨filho⟩ ⟨de⟩ Kislon.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "⟨Por⟩ ⟨a⟩ tribo ⟨de⟩"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamim"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "⟨o⟩ Elidad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨filho⟩ ⟨de⟩"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "Kislon"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Benjamim",
@@ -13,44 +40,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 281,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17734,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18015
-  },
-  "translation": "⟨Por⟩ ⟨a⟩ tribo ⟨de⟩ Binyamim, ⟨o⟩ Elidad ⟨filho⟩ ⟨de⟩ Kislon.",
-  "tokens": [
-    {
-      "surface": "למטה",
-      "english": "⟨Por⟩ ⟨a⟩ tribo ⟨de⟩"
-    },
-    {
-      "surface": "בנימן",
-      "english": "Binyamim"
-    },
-    {
-      "surface": "אלידד",
-      "english": "⟨o⟩ Elidad"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨filho⟩ ⟨de⟩"
-    },
-    {
-      "surface": "כסלון",
-      "english": "Kislon"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:47:41.147633410Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

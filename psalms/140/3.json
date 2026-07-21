@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 140:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63012,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63328
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:11:51.965395519Z",
   "translation": "que tramam maldades ⟨no⟩ coração; todo ⟨o⟩ dia provocam guerras",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Que"
+      "gloss": "Que"
     },
     {
       "surface": "חשבו",
-      "english": "tramam"
+      "gloss": "tramam"
     },
     {
       "surface": "רעות",
-      "english": "maldades"
+      "gloss": "maldades"
     },
     {
       "surface": "בלב",
-      "english": "⟨no⟩ coração",
+      "gloss": "⟨no⟩ coração",
       "marks": "coração"
     },
     {
       "surface": "כל",
-      "english": "todo ⟨o⟩"
+      "gloss": "todo ⟨o⟩"
     },
     {
       "surface": "יום",
-      "english": "dia"
+      "gloss": "dia"
     },
     {
       "surface": "יגורו",
-      "english": "provocam"
+      "gloss": "provocam"
     },
     {
       "surface": "מלחמות",
-      "english": "guerras"
+      "gloss": "guerras"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:11:51.965395519Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

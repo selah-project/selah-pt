@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-chronicles 24:10",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 400,
-    "prompt_tokens": 65712,
-    "prompt_tokens_details": {
-      "cached_tokens": 64384
-    },
-    "total_tokens": 66112
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:19:14.715324125Z",
   "translation": "E todos os príncipes e todo o povo se alegraram, e trouxeram, e lançaram ⟨para⟩ ⟨o⟩ Aron, até que terminaram.",
   "tokens": [
     {
       "surface": "וישמחו",
-      "english": "E todos ... se alegraram"
+      "gloss": "E todos ... se alegraram"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "השרים",
-      "english": "os príncipes"
+      "gloss": "os príncipes"
     },
     {
       "surface": "וכל",
-      "english": "e todo"
+      "gloss": "e todo"
     },
     {
       "surface": "העם",
-      "english": "o povo"
+      "gloss": "o povo"
     },
     {
       "surface": "ויביאו",
-      "english": "e trouxeram"
+      "gloss": "e trouxeram"
     },
     {
       "surface": "וישליכו",
-      "english": "e lançaram"
+      "gloss": "e lançaram"
     },
     {
       "surface": "לארון",
-      "english": "⟨para⟩ ⟨o⟩ Aron"
+      "gloss": "⟨para⟩ ⟨o⟩ Aron"
     },
     {
       "surface": "עד",
-      "english": "até que"
+      "gloss": "até que"
     },
     {
       "surface": "לכלה",
-      "english": "terminaram"
+      "gloss": "terminaram"
     }
-  ],
-  "timestamp": "2026-07-16T12:19:14.715324125Z",
-  "model": "glm-4.5"
+  ]
 }

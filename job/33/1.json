@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "job 33:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 33,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:07:41.821652869Z",
+  "translation": "Mas agora, por favor, ó Iyov, ouve ⟨o⟩ meu discurso, e presta atenção a todas ⟨as⟩ minhas palavras.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Mas agora"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ouve"
+    },
+    {
+      "surface": "נא",
+      "gloss": "por favor"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ó Iyov"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "⟨o⟩ meu discurso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todas ⟨as⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "minhas palavras"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "presta atenção"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jó",
@@ -13,56 +52,6 @@
       "hebrew": "איוב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20076,
-    "prompt_tokens_details": {
-      "cached_tokens": 19084
-    },
-    "total_tokens": 20391
-  },
-  "translation": "Mas agora, por favor, ó Iyov, ouve ⟨o⟩ meu discurso, e presta atenção a todas ⟨as⟩ minhas palavras.",
-  "tokens": [
-    {
-      "surface": "ואולם",
-      "english": "Mas agora"
-    },
-    {
-      "surface": "שמע",
-      "english": "ouve"
-    },
-    {
-      "surface": "נא",
-      "english": "por favor"
-    },
-    {
-      "surface": "איוב",
-      "english": "ó Iyov"
-    },
-    {
-      "surface": "מלי",
-      "english": "⟨o⟩ meu discurso"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todas ⟨as⟩"
-    },
-    {
-      "surface": "דברי",
-      "english": "minhas palavras"
-    },
-    {
-      "surface": "האזינה",
-      "english": "presta atenção"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:07:41.821652869Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

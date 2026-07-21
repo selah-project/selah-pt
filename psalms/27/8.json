@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 27:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 316,
-    "prompt_tokens": 70613,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70929
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:36:39.540646591Z",
   "translation": "A ti disse o meu coração: ‘busquem a minha face’; a tua face, YHWH, buscarei ⟨את⟩.",
   "tokens": [
     {
       "surface": "לך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "אמר",
-      "english": "disse"
+      "gloss": "disse"
     },
     {
       "surface": "לבי",
-      "english": "o meu coração"
+      "gloss": "o meu coração"
     },
     {
       "surface": "בקשו",
-      "english": "busquem"
+      "gloss": "busquem"
     },
     {
       "surface": "פני",
-      "english": "a minha face"
+      "gloss": "a minha face"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a tua face"
     },
     {
       "surface": "פניך",
-      "english": "a tua face"
+      "gloss": "a tua face"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אבקש",
-      "english": "buscarei"
+      "gloss": "buscarei"
     }
-  ],
-  "timestamp": "2026-07-16T17:36:39.540646591Z",
-  "model": "glm-4.5"
+  ]
 }

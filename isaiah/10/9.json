@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "isaiah 10:9",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26611,
-    "prompt_tokens_details": {
-      "cached_tokens": 25329
-    },
-    "total_tokens": 27059
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:10:27.487568829Z",
   "translation": "הֲ\/לֹ֥א כְּ\/כַרְכְּמִ֖ישׁ כַּלְנ֑וֹ אִם לֹ֤א כְ\/אַרְפַּד֙ חֲמָ֔ת אִם לֹ֥א כְ\/דַמֶּ֖שֶׂק שֹׁמְרֽוֹן",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "⟨Is⟩ ⟨not⟩"
+      "gloss": "⟨Is⟩ ⟨not⟩"
     },
     {
       "surface": "ככרכמיש",
-      "english": "Calno"
+      "gloss": "Calno"
     },
     {
       "surface": "כלנו",
-      "english": "as Carchemish"
+      "gloss": "as Carchemish"
     },
     {
       "surface": "אם",
-      "english": "⟨Is⟩ ⟨not⟩"
+      "gloss": "⟨Is⟩ ⟨not⟩"
     },
     {
       "surface": "לא",
-      "english": "Hamath"
+      "gloss": "Hamath"
     },
     {
       "surface": "כארפד",
-      "english": "as Arpad"
+      "gloss": "as Arpad"
     },
     {
       "surface": "חמת",
-      "english": "⟨Is⟩ ⟨not⟩"
+      "gloss": "⟨Is⟩ ⟨not⟩"
     },
     {
       "surface": "אם",
-      "english": "Samaria"
+      "gloss": "Samaria"
     },
     {
       "surface": "לא",
-      "english": "as Damascus"
+      "gloss": "as Damascus"
     },
     {
       "surface": "כדמשק",
-      "english": "Damascus"
+      "gloss": "Damascus"
     },
     {
       "surface": "שמרון",
-      "english": "Samaria"
+      "gloss": "Samaria"
     }
-  ],
-  "timestamp": "2026-06-13T06:10:27.487568829Z",
-  "model": "glm-4.5"
+  ]
 }

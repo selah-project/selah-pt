@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 141:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 141,
-  "usage": {
-    "completion_tokens": 624,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63059,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63683
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:12:46.586252540Z",
   "translation": "Seus juízes foram lançados ⟨pelas⟩ mãos ⟨do⟩ rochedo, e ouvirão ⟨as⟩ minhas palavras, porque ⟨elas são⟩ agradáveis.",
   "tokens": [
     {
       "surface": "נשמטו",
-      "english": "Foram lançados",
+      "gloss": "Foram lançados",
       "marks": null
     },
     {
       "surface": "בידי",
-      "english": "⟨pelas⟩ mãos ⟨do⟩",
+      "gloss": "⟨pelas⟩ mãos ⟨do⟩",
       "marks": "rochedo"
     },
     {
       "surface": "סלע",
-      "english": "rochedo",
+      "gloss": "rochedo",
       "marks": null
     },
     {
       "surface": "שפטיהם",
-      "english": "juízes",
+      "gloss": "juízes",
       "marks": null
     },
     {
       "surface": "ושמעו",
-      "english": "e ouvirão",
+      "gloss": "e ouvirão",
       "marks": null
     },
     {
       "surface": "אמרי",
-      "english": "⟨as⟩ minhas palavras",
+      "gloss": "⟨as⟩ minhas palavras",
       "marks": null
     },
     {
       "surface": "כי",
-      "english": "porque",
+      "gloss": "porque",
       "marks": null
     },
     {
       "surface": "נעמו",
-      "english": "⟨elas são⟩ agradáveis",
+      "gloss": "⟨elas são⟩ agradáveis",
       "marks": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:12:46.586252540Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

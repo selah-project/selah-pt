@@ -1,29 +1,21 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "exodus 20:14",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 222,
-    "prompt_tokens": 23706,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 23928
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:53:09.510618019Z",
   "translation": "Não cometas ⟨adultério⟩",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תנאף",
-      "english": "cometas ⟨adultério⟩"
+      "gloss": "cometas ⟨adultério⟩"
     }
-  ],
-  "timestamp": "2026-07-16T13:53:09.510618019Z",
-  "model": "glm-4.5"
+  ]
 }

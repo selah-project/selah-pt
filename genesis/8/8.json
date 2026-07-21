@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "genesis 8:8",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 375,
-    "prompt_tokens": 28969,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29344
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:41:53.890329485Z",
   "translation": "E ele enviou ⟨את⟩ a pomba de consigo, para ver se haviam diminuído ⟨as⟩ águas de sobre ⟨a⟩ face da terra",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "E ele enviou"
+      "gloss": "E ele enviou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a pomba"
     },
     {
       "surface": "היונה",
-      "english": "a pomba"
+      "gloss": "a pomba"
     },
     {
       "surface": "מאתו",
-      "english": "de consigo"
+      "gloss": "de consigo"
     },
     {
       "surface": "לראות",
-      "english": "para ver"
+      "gloss": "para ver"
     },
     {
       "surface": "הקלו",
-      "english": "se haviam diminuído"
+      "gloss": "se haviam diminuído"
     },
     {
       "surface": "המים",
-      "english": "⟨as⟩ águas"
+      "gloss": "⟨as⟩ águas"
     },
     {
       "surface": "מעל",
-      "english": "de sobre"
+      "gloss": "de sobre"
     },
     {
       "surface": "פני",
-      "english": "⟨a⟩ face"
+      "gloss": "⟨a⟩ face"
     },
     {
       "surface": "האדמה",
-      "english": "da terra"
+      "gloss": "da terra"
     }
-  ],
-  "timestamp": "2026-07-16T14:41:53.890329485Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 132:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 413,
-    "prompt_tokens": 70428,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70841
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:50:22.191038787Z",
   "translation": "Cântico ⟨dos⟩ graus. Lembra-te, YHWH, ⟨de⟩ David — ⟨de⟩ ⟨toda⟩ ⟨a⟩ sua aflição:",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Cântico"
+      "gloss": "Cântico"
     },
     {
       "surface": "המעלות",
-      "english": "⟨dos⟩ graus"
+      "gloss": "⟨dos⟩ graus"
     },
     {
       "surface": "זכור",
-      "english": "Lembra-te"
+      "gloss": "Lembra-te"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David"
+      "gloss": "⟨de⟩ David"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toda a sua aflição"
     },
     {
       "surface": "כל",
-      "english": "⟨toda⟩"
+      "gloss": "⟨toda⟩"
     },
     {
       "surface": "ענותו",
-      "english": "⟨a⟩ sua aflição"
+      "gloss": "⟨a⟩ sua aflição"
     }
-  ],
-  "timestamp": "2026-07-16T17:50:22.191038787Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 78:14",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70106,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70530
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:39:42.475517073Z",
   "translation": "E ⟨os⟩ conduziu ⟨por⟩ nuvem ⟨no⟩ dia, e ⟨por⟩ toda ⟨a⟩ noite ⟨com⟩ luz ⟨de⟩ fogo.",
   "tokens": [
     {
       "surface": "וינחם",
-      "english": "E ⟨os⟩ conduziu",
+      "gloss": "E ⟨os⟩ conduziu",
       "marks": "os israelitas no deserto"
     },
     {
       "surface": "בענן",
-      "english": "⟨por⟩ nuvem",
+      "gloss": "⟨por⟩ nuvem",
       "marks": "a coluna de nuvem"
     },
     {
       "surface": "יומם",
-      "english": "⟨no⟩ dia"
+      "gloss": "⟨no⟩ dia"
     },
     {
       "surface": "וכל",
-      "english": "e ⟨por⟩ toda"
+      "gloss": "e ⟨por⟩ toda"
     },
     {
       "surface": "הלילה",
-      "english": "⟨a⟩ noite"
+      "gloss": "⟨a⟩ noite"
     },
     {
       "surface": "באור",
-      "english": "⟨com⟩ luz",
+      "gloss": "⟨com⟩ luz",
       "marks": "a luz da coluna de fogo"
     },
     {
       "surface": "אש",
-      "english": "⟨de⟩ fogo"
+      "gloss": "⟨de⟩ fogo"
     }
-  ],
-  "timestamp": "2026-06-13T06:39:42.475517073Z",
-  "model": "glm-4.5"
+  ]
 }

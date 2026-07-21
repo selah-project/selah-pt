@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 94:15",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70334,
-    "prompt_tokens_details": {
-      "cached_tokens": 53558
-    },
-    "total_tokens": 70771
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:35:46.379691549Z",
   "translation": "Pois ⟨até⟩ à justiça retornará ⟨o⟩ julgamento, e todos ⟨os⟩ retos de coração o seguirão.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "עד",
-      "english": "⟨até⟩"
+      "gloss": "⟨até⟩"
     },
     {
       "surface": "צדק",
-      "english": "à justiça"
+      "gloss": "à justiça"
     },
     {
       "surface": "ישוב",
-      "english": "retornará"
+      "gloss": "retornará"
     },
     {
       "surface": "משפט",
-      "english": "⟨o⟩ julgamento"
+      "gloss": "⟨o⟩ julgamento"
     },
     {
       "surface": "ואחריו",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "כל",
-      "english": "todos ⟨os⟩"
+      "gloss": "todos ⟨os⟩"
     },
     {
       "surface": "ישרי",
-      "english": "retos"
+      "gloss": "retos"
     },
     {
       "surface": "לב",
-      "english": "de coração"
+      "gloss": "de coração"
     }
-  ],
-  "timestamp": "2026-06-11T23:35:46.379691549Z",
-  "model": "glm-4.5"
+  ]
 }

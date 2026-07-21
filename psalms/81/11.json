@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 81:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 483,
-    "prompt_tokens": 70477,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70960
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:47.475683078Z",
   "translation": "Eu sou YHWH, teu Elohim, aquele que te fez subir da terra de Mitsráyim; abre ⟨a⟩ boca ⟨tua⟩, e eu a encherei.",
   "tokens": [
     {
       "surface": "אנכי",
-      "english": "Eu sou"
+      "gloss": "Eu sou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיך",
-      "english": "teu Elohim"
+      "gloss": "teu Elohim"
     },
     {
       "surface": "המעלך",
-      "english": "aquele que te fez subir"
+      "gloss": "aquele que te fez subir"
     },
     {
       "surface": "מארץ",
-      "english": "da terra"
+      "gloss": "da terra"
     },
     {
       "surface": "מצרים",
-      "english": "Mitsráyim"
+      "gloss": "Mitsráyim"
     },
     {
       "surface": "הרחב",
-      "english": "abre"
+      "gloss": "abre"
     },
     {
       "surface": "פיך",
-      "english": "⟨a⟩ boca ⟨tua⟩"
+      "gloss": "⟨a⟩ boca ⟨tua⟩"
     },
     {
       "surface": "ואמלאהו",
-      "english": "e eu a encherei"
+      "gloss": "e eu a encherei"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:47.475683078Z",
-  "model": "glm-4.5"
+  ]
 }

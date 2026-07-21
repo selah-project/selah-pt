@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "ruth 2:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ruth",
+  "chapter": 2,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:21:31.230143335Z",
+  "translation": "E o servo que ⟨estava⟩ posto sobre ⟨os⟩ ceifeiros respondeu e disse: ⟨É⟩ uma moabita moça, que veio com Naomi do campo de Moav.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "E respondeu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "o servo"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "posto sobre"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "os ceifeiros"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "moça"
+    },
+    {
+      "surface": "מואביה",
+      "gloss": "moabita"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨É⟩"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "que veio"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "do campo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noemi",
@@ -20,80 +83,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21545,
-    "prompt_tokens_details": {
-      "cached_tokens": 19951
-    },
-    "total_tokens": 22054
-  },
-  "translation": "E o servo que ⟨estava⟩ posto sobre ⟨os⟩ ceifeiros respondeu e disse: ⟨É⟩ uma moabita moça, que veio com Naomi do campo de Moav.",
-  "tokens": [
-    {
-      "surface": "ויען",
-      "english": "E respondeu"
-    },
-    {
-      "surface": "הנער",
-      "english": "o servo"
-    },
-    {
-      "surface": "הנצב",
-      "english": "posto sobre"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "הקוצרים",
-      "english": "os ceifeiros"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "נערה",
-      "english": "moça"
-    },
-    {
-      "surface": "מואביה",
-      "english": "moabita"
-    },
-    {
-      "surface": "היא",
-      "english": "⟨É⟩"
-    },
-    {
-      "surface": "השבה",
-      "english": "que veio"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "נעמי",
-      "english": "Naomi"
-    },
-    {
-      "surface": "משדה",
-      "english": "do campo"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:21:31.230143335Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

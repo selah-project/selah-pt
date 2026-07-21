@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-chronicles 12:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 12,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:46:06.425017276Z",
+  "translation": "E eles ajudaram ⟨a⟩ Davidd ⟨com⟩ o bando, porque ⟨eram⟩ todos homens poderosos de ⟨força⟩, e ⟨eram⟩ comandantes no exército.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "E eles"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "ajudaram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "o bando"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "homens poderosos"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "de ⟨força⟩"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "todos"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "⟨eram⟩"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "comandantes"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "no exército"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,76 +72,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57537,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 57994
-  },
-  "translation": "E eles ajudaram ⟨a⟩ Davidd ⟨com⟩ o bando, porque ⟨eram⟩ todos homens poderosos de ⟨força⟩, e ⟨eram⟩ comandantes no exército.",
-  "tokens": [
-    {
-      "surface": "והמה",
-      "english": "E eles"
-    },
-    {
-      "surface": "עזרו",
-      "english": "ajudaram"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "על",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "הגדוד",
-      "english": "o bando"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "גבורי",
-      "english": "homens poderosos"
-    },
-    {
-      "surface": "חיל",
-      "english": "de ⟨força⟩"
-    },
-    {
-      "surface": "כלם",
-      "english": "todos"
-    },
-    {
-      "surface": "ויהיו",
-      "english": "⟨eram⟩"
-    },
-    {
-      "surface": "שרים",
-      "english": "comandantes"
-    },
-    {
-      "surface": "בצבא",
-      "english": "no exército"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:46:06.425017276Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

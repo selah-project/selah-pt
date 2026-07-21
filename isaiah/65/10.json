@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 65:10",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 420,
-    "prompt_tokens": 26820,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 27240
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:20:14.747369265Z",
   "translation": "E Sharon será ⟨um⟩ pasto para rebanhos, e o vale de Acor ⟨um⟩ lugar de descanso para o gado, para o meu povo que me buscou.",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "E ... será"
+      "gloss": "E ... será"
     },
     {
       "surface": "השרון",
-      "english": "Sharon"
+      "gloss": "Sharon"
     },
     {
       "surface": "לנוה",
-      "english": "⟨um⟩ pasto para"
+      "gloss": "⟨um⟩ pasto para"
     },
     {
       "surface": "צאן",
-      "english": "rebanhos"
+      "gloss": "rebanhos"
     },
     {
       "surface": "ועמק",
-      "english": "e o vale de"
+      "gloss": "e o vale de"
     },
     {
       "surface": "עכור",
-      "english": "Acor"
+      "gloss": "Acor"
     },
     {
       "surface": "לרבץ",
-      "english": "⟨um⟩ lugar de descanso"
+      "gloss": "⟨um⟩ lugar de descanso"
     },
     {
       "surface": "בקר",
-      "english": "para o gado"
+      "gloss": "para o gado"
     },
     {
       "surface": "לעמי",
-      "english": "para o meu povo"
+      "gloss": "para o meu povo"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "דרשוני",
-      "english": "me buscou"
+      "gloss": "me buscou"
     }
-  ],
-  "timestamp": "2026-07-16T15:20:14.747369265Z",
-  "model": "glm-4.5"
+  ]
 }

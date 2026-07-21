@@ -1,9 +1,128 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 29:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 29,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:34:42.259820948Z",
+  "translation": "E será como aquele que sonha, faminto, e eis que está comendo, e desperta, e ⟨sua⟩ alma está vazia; e como aquele que sonha, sedento, e eis que está bebendo, e desperta, e eis que está exausto, e ⟨sua⟩ alma está anelante; assim será a multidão de todas as nações que fazem guerra contra o monte Tzion.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E será"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como aquele que"
+    },
+    {
+      "surface": "יחלם",
+      "gloss": "sonha"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "faminto"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e eis que"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "está comendo"
+    },
+    {
+      "surface": "והקיץ",
+      "gloss": "e desperta"
+    },
+    {
+      "surface": "וריקה",
+      "gloss": "e ⟨sua⟩"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "alma está vazia"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "e como aquele que"
+    },
+    {
+      "surface": "יחלם",
+      "gloss": "sonha"
+    },
+    {
+      "surface": "הצמא",
+      "gloss": "sedento"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e eis que"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "está bebendo"
+    },
+    {
+      "surface": "והקיץ",
+      "gloss": "e desperta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e eis que"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "está exausto"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "e ⟨sua⟩"
+    },
+    {
+      "surface": "שוקקה",
+      "gloss": "alma está anelante"
+    },
+    {
+      "surface": "כן",
+      "gloss": "assim"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "será"
+    },
+    {
+      "surface": "המון",
+      "gloss": "a multidão"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de todas"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "as nações"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "que fazem guerra"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "הר",
+      "gloss": "o monte"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sião",
@@ -13,136 +132,6 @@
       "hebrew": "ציון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 841,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21056,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 21897
-  },
-  "translation": "E será como aquele que sonha, faminto, e eis que está comendo, e desperta, e ⟨sua⟩ alma está vazia; e como aquele que sonha, sedento, e eis que está bebendo, e desperta, e eis que está exausto, e ⟨sua⟩ alma está anelante; assim será a multidão de todas as nações que fazem guerra contra o monte Tzion.",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "E será"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como aquele que"
-    },
-    {
-      "surface": "יחלם",
-      "english": "sonha"
-    },
-    {
-      "surface": "הרעב",
-      "english": "faminto"
-    },
-    {
-      "surface": "והנה",
-      "english": "e eis que"
-    },
-    {
-      "surface": "אוכל",
-      "english": "está comendo"
-    },
-    {
-      "surface": "והקיץ",
-      "english": "e desperta"
-    },
-    {
-      "surface": "וריקה",
-      "english": "e ⟨sua⟩"
-    },
-    {
-      "surface": "נפשו",
-      "english": "alma está vazia"
-    },
-    {
-      "surface": "וכאשר",
-      "english": "e como aquele que"
-    },
-    {
-      "surface": "יחלם",
-      "english": "sonha"
-    },
-    {
-      "surface": "הצמא",
-      "english": "sedento"
-    },
-    {
-      "surface": "והנה",
-      "english": "e eis que"
-    },
-    {
-      "surface": "שתה",
-      "english": "está bebendo"
-    },
-    {
-      "surface": "והקיץ",
-      "english": "e desperta"
-    },
-    {
-      "surface": "והנה",
-      "english": "e eis que"
-    },
-    {
-      "surface": "עיף",
-      "english": "está exausto"
-    },
-    {
-      "surface": "ונפשו",
-      "english": "e ⟨sua⟩"
-    },
-    {
-      "surface": "שוקקה",
-      "english": "alma está anelante"
-    },
-    {
-      "surface": "כן",
-      "english": "assim"
-    },
-    {
-      "surface": "יהיה",
-      "english": "será"
-    },
-    {
-      "surface": "המון",
-      "english": "a multidão"
-    },
-    {
-      "surface": "כל",
-      "english": "de todas"
-    },
-    {
-      "surface": "הגוים",
-      "english": "as nações"
-    },
-    {
-      "surface": "הצבאים",
-      "english": "que fazem guerra"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "הר",
-      "english": "o monte"
-    },
-    {
-      "surface": "ציון",
-      "english": "Tzion"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:34:42.259820948Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-kings 11:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 11,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:27:23.660422386Z",
+  "translation": "E Hadade ⟨ouviu⟩ no Egito que David ⟨se deitara⟩ ⟨com⟩ seus pais e que morrera Joabe, ⟨o⟩ comandante do exército; e disse Hadade ⟨ao⟩ Paró: Envia-me ⟨para⟩ ⟨ir⟩ ⟨à⟩ minha terra.",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "E Hadade"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨ouviu⟩"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "no Egito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "⟨se deitara⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e que"
+    },
+    {
+      "surface": "מת",
+      "gloss": "morrera"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "⟨o⟩ comandante"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "do exército"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Envia-me ⟨para⟩"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "minha terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,108 +111,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 768,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63502,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 64270
-  },
-  "translation": "E Hadade ⟨ouviu⟩ no Egito que David ⟨se deitara⟩ ⟨com⟩ seus pais e que morrera Joabe, ⟨o⟩ comandante do exército; e disse Hadade ⟨ao⟩ Paró: Envia-me ⟨para⟩ ⟨ir⟩ ⟨à⟩ minha terra.",
-  "tokens": [
-    {
-      "surface": "והדד",
-      "english": "E Hadade"
-    },
-    {
-      "surface": "שמע",
-      "english": "⟨ouviu⟩"
-    },
-    {
-      "surface": "במצרים",
-      "english": "no Egito"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "שכב",
-      "english": "⟨se deitara⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "וכי",
-      "english": "e que"
-    },
-    {
-      "surface": "מת",
-      "english": "morrera"
-    },
-    {
-      "surface": "יואב",
-      "english": "Joabe"
-    },
-    {
-      "surface": "שר",
-      "english": "⟨o⟩ comandante"
-    },
-    {
-      "surface": "הצבא",
-      "english": "do exército"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "הדד",
-      "english": "Hadade"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "שלחני",
-      "english": "Envia-me ⟨para⟩"
-    },
-    {
-      "surface": "ואלך",
-      "english": "⟨ir⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨à⟩"
-    },
-    {
-      "surface": "ארצי",
-      "english": "minha terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:27:23.660422386Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "2-kings 20:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 20,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:07:40.379727029Z",
+  "translation": "E Jizkiyahu dormiu com seus pais, e Menashé, seu filho, reinou em seu lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "E dormiu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Jizkiyahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e reinou"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "em seu lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Ezequias",
@@ -20,56 +59,6 @@
       "hebrew": "מנשה־מלך"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 200,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16885,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17085
-  },
-  "translation": "E Jizkiyahu dormiu com seus pais, e Menashé, seu filho, reinou em seu lugar.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "E dormiu"
-    },
-    {
-      "surface": "חזקיהו",
-      "english": "Jizkiyahu"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e reinou"
-    },
-    {
-      "surface": "מנשה",
-      "english": "Menashé"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "em seu lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:07:40.379727029Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

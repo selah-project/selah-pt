@@ -1,9 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "isaiah 45:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 45,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:48:17.056326156Z",
+  "translation": "Assim ⟨diz⟩ YHWH, Santo de Yisrael, e seu Criador: Consultai-Me ⟨sobre⟩ as ⟨coisas⟩ que virão ⟨concernentes⟩ a meus filhos, e ⟨sobre⟩ a obra de minhas mãos ordenai-Me.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨diz⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "e seu Criador"
+    },
+    {
+      "surface": "האתיות",
+      "gloss": "⟨sobre⟩ as ⟨coisas⟩ que virão",
+      "marks": "coisas que virão"
+    },
+    {
+      "surface": "שאלוני",
+      "gloss": "Consultai-Me"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a meus filhos"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e ⟨sobre⟩"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "a obra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "de minhas mãos"
+    },
+    {
+      "surface": "תצוני",
+      "gloss": "ordenai-Me"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,81 +77,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 45,
-  "usage": {
-    "completion_tokens": 590,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19696,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20286
-  },
-  "translation": "Assim ⟨diz⟩ YHWH, Santo de Yisrael, e seu Criador: Consultai-Me ⟨sobre⟩ as ⟨coisas⟩ que virão ⟨concernentes⟩ a meus filhos, e ⟨sobre⟩ a obra de minhas mãos ordenai-Me.",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "⟨diz⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "קדוש",
-      "english": "Santo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויצרו",
-      "english": "e seu Criador"
-    },
-    {
-      "surface": "האתיות",
-      "english": "⟨sobre⟩ as ⟨coisas⟩ que virão",
-      "marks": "coisas que virão"
-    },
-    {
-      "surface": "שאלוני",
-      "english": "Consultai-Me"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "a meus filhos"
-    },
-    {
-      "surface": "ועל",
-      "english": "e ⟨sobre⟩"
-    },
-    {
-      "surface": "פעל",
-      "english": "a obra"
-    },
-    {
-      "surface": "ידי",
-      "english": "de minhas mãos"
-    },
-    {
-      "surface": "תצוני",
-      "english": "ordenai-Me"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:48:17.056326156Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

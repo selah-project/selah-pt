@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "deuteronomy 24:9",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 411,
-    "prompt_tokens": 25360,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25771
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:27:03.054750631Z",
   "translation": "Lembra-te ⟨do⟩ que YHWH teu Elohim fez ⟨את⟩ a Miriã, no caminho, na vossa saída do Egito.",
   "tokens": [
     {
       "surface": "זכור",
-      "english": "Lembra-te"
+      "gloss": "Lembra-te"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Miriã"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "עשה",
-      "english": "fez"
+      "gloss": "fez"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיך",
-      "english": "teu Elohim"
+      "gloss": "teu Elohim"
     },
     {
       "surface": "למרים",
-      "english": "a Miriã"
+      "gloss": "a Miriã"
     },
     {
       "surface": "בדרך",
-      "english": "no caminho"
+      "gloss": "no caminho"
     },
     {
       "surface": "בצאתכם",
-      "english": "na vossa saída"
+      "gloss": "na vossa saída"
     },
     {
       "surface": "ממצרים",
-      "english": "do Egito"
+      "gloss": "do Egito"
     }
-  ],
-  "timestamp": "2026-07-16T13:27:03.054750631Z",
-  "model": "glm-4.5"
+  ]
 }

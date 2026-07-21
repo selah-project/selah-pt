@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 8:15",
   "book": "job",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27516,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 27999
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:44:34.222057440Z",
   "translation": "Ele se apoiará sobre ⟨a sua⟩ casa e ⟨ela⟩ não permanecerá ⟨em pé⟩; ele se apegará ⟨a⟩ ela e ⟨ela⟩ não se levantará.",
   "tokens": [
     {
       "surface": "ישען",
-      "english": "Ele se apoiará"
+      "gloss": "Ele se apoiará"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ביתו",
-      "english": "⟨a sua⟩ casa"
+      "gloss": "⟨a sua⟩ casa"
     },
     {
       "surface": "ולא",
-      "english": "e ⟨ela⟩ não"
+      "gloss": "e ⟨ela⟩ não"
     },
     {
       "surface": "יעמד",
-      "english": "permanecerá ⟨em pé⟩"
+      "gloss": "permanecerá ⟨em pé⟩"
     },
     {
       "surface": "יחזיק",
-      "english": "ele se apegará"
+      "gloss": "ele se apegará"
     },
     {
       "surface": "בו",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "ולא",
-      "english": "e ⟨ela⟩ não"
+      "gloss": "e ⟨ela⟩ não"
     },
     {
       "surface": "י�קום",
-      "english": "se levantará"
+      "gloss": "se levantará"
     }
-  ],
-  "timestamp": "2026-06-13T06:44:34.222057440Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,75 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "genesis 1:22",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 583,
-    "prompt_tokens": 29357,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29940
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:23:40.918697068Z",
   "translation": "E Elohim ⟨os⟩ abençoou, dizendo: Frutificai e multiplicai-vos, e enchei ⟨את⟩ ⟨as⟩ águas nos mares, e ⟨a⟩ ave se multiplique na terra.",
   "tokens": [
     {
       "surface": "ויברך",
-      "english": "E ... abençoou"
+      "gloss": "E ... abençoou"
     },
     {
       "surface": "אתם",
-      "english": "⟨os⟩",
+      "gloss": "⟨os⟩",
       "marks": "Elohim"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "לאמר",
-      "english": "dizendo"
+      "gloss": "dizendo"
     },
     {
       "surface": "פרו",
-      "english": "Frutificai"
+      "gloss": "Frutificai"
     },
     {
       "surface": "ורבו",
-      "english": "e multiplicai-vos"
+      "gloss": "e multiplicai-vos"
     },
     {
       "surface": "ומלאו",
-      "english": "e enchei"
+      "gloss": "e enchei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "as águas"
     },
     {
       "surface": "המים",
-      "english": "⟨as⟩ águas"
+      "gloss": "⟨as⟩ águas"
     },
     {
       "surface": "בימים",
-      "english": "nos mares"
+      "gloss": "nos mares"
     },
     {
       "surface": "והעוף",
-      "english": "e ⟨a⟩ ave"
+      "gloss": "e ⟨a⟩ ave"
     },
     {
       "surface": "ירב",
-      "english": "se multiplique"
+      "gloss": "se multiplique"
     },
     {
       "surface": "בארץ",
-      "english": "na terra"
+      "gloss": "na terra"
     }
-  ],
-  "timestamp": "2026-07-17T00:23:40.918697068Z",
-  "model": "glm-4.5"
+  ]
 }

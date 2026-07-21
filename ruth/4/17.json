@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "ruth 4:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ruth",
+  "chapter": 4,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:23:07.997761020Z",
+  "translation": "E ⟨as⟩ vizinhas deram-lhe um nome, dizendo: Nasceu um filho para Naomí; e ela chamou o seu nome Obed; ele ⟨é⟩ pai de Jessé, pai de Davidd.",
+  "tokens": [
+    {
+      "surface": "ותקראנה",
+      "gloss": "Deram-lhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lhe"
+    },
+    {
+      "surface": "השכנות",
+      "gloss": "⟨as⟩ vizinhas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "um nome"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "Nasceu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "um filho"
+    },
+    {
+      "surface": "לנעמי",
+      "gloss": "para Naomí"
+    },
+    {
+      "surface": "ותקראנה",
+      "gloss": "e ela chamou"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "o seu nome"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "de Jessé"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "pai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,88 +84,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21700,
-    "prompt_tokens_details": {
-      "cached_tokens": 19951
-    },
-    "total_tokens": 22218
-  },
-  "translation": "E ⟨as⟩ vizinhas deram-lhe um nome, dizendo: Nasceu um filho para Naomí; e ela chamou o seu nome Obed; ele ⟨é⟩ pai de Jessé, pai de Davidd.",
-  "tokens": [
-    {
-      "surface": "ותקראנה",
-      "english": "Deram-lhe"
-    },
-    {
-      "surface": "לו",
-      "english": "lhe"
-    },
-    {
-      "surface": "השכנות",
-      "english": "⟨as⟩ vizinhas"
-    },
-    {
-      "surface": "שם",
-      "english": "um nome"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "ילד",
-      "english": "Nasceu"
-    },
-    {
-      "surface": "בן",
-      "english": "um filho"
-    },
-    {
-      "surface": "לנעמי",
-      "english": "para Naomí"
-    },
-    {
-      "surface": "ותקראנה",
-      "english": "e ela chamou"
-    },
-    {
-      "surface": "שמו",
-      "english": "o seu nome"
-    },
-    {
-      "surface": "עובד",
-      "english": "Obed"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele"
-    },
-    {
-      "surface": "אבי",
-      "english": "pai"
-    },
-    {
-      "surface": "ישי",
-      "english": "de Jessé"
-    },
-    {
-      "surface": "אבי",
-      "english": "pai"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:23:07.997761020Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

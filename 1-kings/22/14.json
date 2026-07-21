@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-kings 22:14",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 469,
-    "prompt_tokens": 70374,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 70843
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:39:21.216396057Z",
   "translation": "E Micaia disse: Vive YHWH, pois ⟨את⟩ o que YHWH disser a mim, ⟨את⟩ isso falarei.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ... disse"
+      "gloss": "E ... disse"
     },
     {
       "surface": "מיכיהו",
-      "english": "Micaia"
+      "gloss": "Micaia"
     },
     {
       "surface": "חי",
-      "english": "Vive"
+      "gloss": "Vive"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o que ... disser a mim"
     },
     {
       "surface": "אשר",
-      "english": "o que"
+      "gloss": "o que"
     },
     {
       "surface": "יאמר",
-      "english": "disser"
+      "gloss": "disser"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלי",
-      "english": "a mim"
+      "gloss": "a mim"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "isso"
     },
     {
       "surface": "אדבר",
-      "english": "falarei"
+      "gloss": "falarei"
     }
-  ],
-  "timestamp": "2026-07-16T11:39:21.216396057Z",
-  "model": "glm-4.5"
+  ]
 }

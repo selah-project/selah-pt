@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 78:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 78,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:31:19.187271351Z",
+  "translation": "Na frente ⟨dos⟩ seus antepassados Ele fez um prodígio ⟨na⟩ terra do Mitzráyim ⟨no⟩ campo de Zoan",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "Na frente",
+      "marks": "dos seus antepassados"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "⟨dos⟩ seus antepassados"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ele fez"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "um prodígio"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "⟨no⟩ campo"
+    },
+    {
+      "surface": "צען",
+      "gloss": "de Zoan"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,57 +53,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 78,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62983,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63370
-  },
-  "translation": "Na frente ⟨dos⟩ seus antepassados Ele fez um prodígio ⟨na⟩ terra do Mitzráyim ⟨no⟩ campo de Zoan",
-  "tokens": [
-    {
-      "surface": "נגד",
-      "english": "Na frente",
-      "marks": "dos seus antepassados"
-    },
-    {
-      "surface": "אבותם",
-      "english": "⟨dos⟩ seus antepassados"
-    },
-    {
-      "surface": "עשה",
-      "english": "Ele fez"
-    },
-    {
-      "surface": "פלא",
-      "english": "um prodígio"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨na⟩ terra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "שדה",
-      "english": "⟨no⟩ campo"
-    },
-    {
-      "surface": "צען",
-      "english": "de Zoan"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:31:19.187271351Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

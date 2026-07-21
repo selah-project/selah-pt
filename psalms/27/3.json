@@ -1,85 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 27:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 634,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63541,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 64175
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:56:20.291333729Z",
   "translation": "Se ⟨um⟩ exército ⟨se⟩ acampar contra mim, meu coração ⟨se⟩ temerá; ⟨não⟩ ⟨את⟩: embora ⟨a⟩ guerra ⟨se⟩ levante contra mim, ⟨em⟩ isto eu confiarei.",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Se"
+      "gloss": "Se"
     },
     {
       "surface": "תחנה",
-      "english": "⟨um⟩ exército ⟨se⟩ acampar"
+      "gloss": "⟨um⟩ exército ⟨se⟩ acampar"
     },
     {
       "surface": "עלי",
-      "english": "contra mim"
+      "gloss": "contra mim"
     },
     {
       "surface": "מחנה",
-      "english": "exército"
+      "gloss": "exército"
     },
     {
       "surface": "לא",
-      "english": "⟨não⟩"
+      "gloss": "⟨não⟩"
     },
     {
       "surface": "יירא",
-      "english": "⟨se⟩ temerá"
+      "gloss": "⟨se⟩ temerá"
     },
     {
       "surface": "לבי",
-      "english": "meu coração",
+      "gloss": "meu coração",
       "marks": "meu coração"
     },
     {
       "surface": "אם",
-      "english": "embora"
+      "gloss": "embora"
     },
     {
       "surface": "תקום",
-      "english": "⟨se⟩ levante"
+      "gloss": "⟨se⟩ levante"
     },
     {
       "surface": "עלי",
-      "english": "contra mim"
+      "gloss": "contra mim"
     },
     {
       "surface": "מלחמה",
-      "english": "⟨a⟩ guerra"
+      "gloss": "⟨a⟩ guerra"
     },
     {
       "surface": "בזאת",
-      "english": "⟨em⟩ isto"
+      "gloss": "⟨em⟩ isto"
     },
     {
       "surface": "אני",
-      "english": "eu"
+      "gloss": "eu"
     },
     {
       "surface": "בוטח",
-      "english": "confiarei"
+      "gloss": "confiarei"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:56:20.291333729Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

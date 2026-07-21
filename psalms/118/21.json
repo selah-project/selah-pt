@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 118:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62766,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63139
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:58:05.991658877Z",
   "translation": "Eu ⟨te⟩ agradecerei, porque me respondeste, e te tornaste para mim ⟨para⟩ ⟨a⟩ ⟨minha⟩ salvação.",
   "tokens": [
     {
       "surface": "אודך",
-      "english": "Eu ⟨te⟩ agradecerei"
+      "gloss": "Eu ⟨te⟩ agradecerei"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "עניתני",
-      "english": "me respondeste"
+      "gloss": "me respondeste"
     },
     {
       "surface": "ותהי",
-      "english": "e te tornaste"
+      "gloss": "e te tornaste"
     },
     {
       "surface": "לי",
-      "english": "para mim"
+      "gloss": "para mim"
     },
     {
       "surface": "לישועה",
-      "english": "⟨para⟩ ⟨a⟩ ⟨minha⟩ salvação"
+      "gloss": "⟨para⟩ ⟨a⟩ ⟨minha⟩ salvação"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:58:05.991658877Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

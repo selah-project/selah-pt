@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "2-samuel 18:15",
   "book": "2-samuel",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 431,
-    "prompt_tokens": 25001,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25432
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:56:29.263206429Z",
   "translation": "E cercaram dez jovens ⟨que⟩ portavam ⟨os⟩ equipamentos de Yoav, e feriram ⟨את⟩ Avshalom, e o mataram.",
   "tokens": [
     {
       "surface": "ויסבו",
-      "english": "E cercaram"
+      "gloss": "E cercaram"
     },
     {
       "surface": "עשרה",
-      "english": "dez"
+      "gloss": "dez"
     },
     {
       "surface": "נערים",
-      "english": "jovens"
+      "gloss": "jovens"
     },
     {
       "surface": "נשאי",
-      "english": "⟨que⟩ portavam"
+      "gloss": "⟨que⟩ portavam"
     },
     {
       "surface": "כלי",
-      "english": "⟨os⟩ equipamentos"
+      "gloss": "⟨os⟩ equipamentos"
     },
     {
       "surface": "יואב",
-      "english": "de Yoav"
+      "gloss": "de Yoav"
     },
     {
       "surface": "ויכו",
-      "english": "e feriram"
+      "gloss": "e feriram"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avshalom"
     },
     {
       "surface": "אבשלום",
-      "english": "Avshalom"
+      "gloss": "Avshalom"
     },
     {
       "surface": "וימיתהו",
-      "english": "e o mataram"
+      "gloss": "e o mataram"
     }
-  ],
-  "timestamp": "2026-07-16T12:56:29.263206429Z",
-  "model": "glm-4.5"
+  ]
 }

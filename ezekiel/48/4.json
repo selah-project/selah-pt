@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "ezekiel 48:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 48,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:53:54.820543372Z",
+  "translation": "E sobre ⟨o⟩ fronteiro de Naftali, desde ⟨o⟩ lado ⟨do⟩ oriente até ⟨o⟩ lado ⟨do⟩ mar ocidental, Menashé, ⟨um⟩",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E sobre"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨o⟩ fronteiro"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "de Naftali"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "desde ⟨o⟩ lado"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "⟨do⟩ oriente"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨o⟩ lado"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "⟨do⟩ mar ocidental"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨um⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Manassés",
@@ -13,64 +60,6 @@
       "hebrew": "מנשה־מלך"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17546,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 17921
-  },
-  "translation": "E sobre ⟨o⟩ fronteiro de Naftali, desde ⟨o⟩ lado ⟨do⟩ oriente até ⟨o⟩ lado ⟨do⟩ mar ocidental, Menashé, ⟨um⟩",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "E sobre"
-    },
-    {
-      "surface": "גבול",
-      "english": "⟨o⟩ fronteiro"
-    },
-    {
-      "surface": "נפתלי",
-      "english": "de Naftali"
-    },
-    {
-      "surface": "מפאת",
-      "english": "desde ⟨o⟩ lado"
-    },
-    {
-      "surface": "קדמה",
-      "english": "⟨do⟩ oriente"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "פאת",
-      "english": "⟨o⟩ lado"
-    },
-    {
-      "surface": "ימה",
-      "english": "⟨do⟩ mar ocidental"
-    },
-    {
-      "surface": "מנשה",
-      "english": "Menashé"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨um⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:53:54.820543372Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

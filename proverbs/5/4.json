@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "proverbs 5:4",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 400,
-    "prompt_tokens": 60150,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60550
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:28:45.280257852Z",
   "translation": "E o seu fim é amargo como losna, ⟨é⟩ aguda como espada de ⟨bocas⟩",
   "tokens": [
     {
       "surface": "ואחריתה",
-      "english": "E o seu fim"
+      "gloss": "E o seu fim"
     },
     {
       "surface": "מרה",
-      "english": "é amargo"
+      "gloss": "é amargo"
     },
     {
       "surface": "כלענה",
-      "english": "como losna"
+      "gloss": "como losna"
     },
     {
       "surface": "חדה",
-      "english": "aguda"
+      "gloss": "aguda"
     },
     {
       "surface": "כחרב",
-      "english": "como espada"
+      "gloss": "como espada"
     },
     {
       "surface": "פיות",
-      "english": "⟨bocas⟩"
+      "gloss": "⟨bocas⟩"
     }
-  ],
-  "timestamp": "2026-07-16T17:28:45.280257852Z",
-  "model": "glm-4.5"
+  ]
 }

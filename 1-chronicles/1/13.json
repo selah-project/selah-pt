@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-chronicles 1:13",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 329,
-    "prompt_tokens": 64511,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64840
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:05:36.156135713Z",
   "translation": "e Kenaan gerou ⟨את⟩ Tzidon, seu primogênito, e ⟨את⟩ Jet",
   "tokens": [
     {
       "surface": "וכנען",
-      "english": "e Kenaan"
+      "gloss": "e Kenaan"
     },
     {
       "surface": "ילד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Tzidon"
     },
     {
       "surface": "צידון",
-      "english": "Tzidon"
+      "gloss": "Tzidon"
     },
     {
       "surface": "בכרו",
-      "english": "seu primogênito"
+      "gloss": "seu primogênito"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Jet"
     },
     {
       "surface": "חת",
-      "english": "Jet"
+      "gloss": "Jet"
     }
-  ],
-  "timestamp": "2026-07-16T11:05:36.156135713Z",
-  "model": "glm-4.5"
+  ]
 }

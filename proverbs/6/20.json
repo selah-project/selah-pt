@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 6:20",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 424,
-    "prompt_tokens": 60357,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60781
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:28:29.521627658Z",
   "translation": "Meu filho, guarda o mandamento de teu pai e não abandones a Torá de tua mãe",
   "tokens": [
     {
       "surface": "נצר",
-      "english": "guarda"
+      "gloss": "guarda"
     },
     {
       "surface": "בני",
-      "english": "meu filho"
+      "gloss": "meu filho"
     },
     {
       "surface": "מצות",
-      "english": "o mandamento"
+      "gloss": "o mandamento"
     },
     {
       "surface": "אביך",
-      "english": "de teu pai"
+      "gloss": "de teu pai"
     },
     {
       "surface": "ואל",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "תטש",
-      "english": "abandones"
+      "gloss": "abandones"
     },
     {
       "surface": "תורת",
-      "english": "a Torá"
+      "gloss": "a Torá"
     },
     {
       "surface": "אמך",
-      "english": "de tua mãe"
+      "gloss": "de tua mãe"
     }
-  ],
-  "timestamp": "2026-07-16T17:28:29.521627658Z",
-  "model": "glm-4.5"
+  ]
 }

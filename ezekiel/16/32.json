@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "ezekiel 16:32",
   "book": "ezekiel",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 338,
-    "prompt_tokens": 24805,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25143
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:14:55.562026163Z",
   "translation": "A esposa adultera, que ⟨ela⟩ toma ⟨את⟩ estranhos no lugar de seu marido",
   "tokens": [
     {
       "surface": "האשה",
-      "english": "A esposa"
+      "gloss": "A esposa"
     },
     {
       "surface": "המנאפת",
-      "english": "adúltera"
+      "gloss": "adúltera"
     },
     {
       "surface": "תחת",
-      "english": "no lugar de"
+      "gloss": "no lugar de"
     },
     {
       "surface": "אישה",
-      "english": "seu marido"
+      "gloss": "seu marido"
     },
     {
       "surface": "תקח",
-      "english": "que ⟨ela⟩ toma"
+      "gloss": "que ⟨ela⟩ toma"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "estranhos"
     },
     {
       "surface": "זרים",
-      "english": "estranhos"
+      "gloss": "estranhos"
     }
-  ],
-  "timestamp": "2026-07-16T14:14:55.562026163Z",
-  "model": "glm-4.5"
+  ]
 }

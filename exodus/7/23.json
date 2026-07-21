@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "exodus 7:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 7,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:42:35.683879181Z",
+  "translation": "E o Paró virou-se e veio à sua casa, e não ⟨colocou⟩ seu coração ⟨nem⟩ a isto também.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "E o Faraó virou-se"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "o Paró"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e veio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sua casa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "שת",
+      "gloss": "⟨colocou⟩"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "seu coração"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨nem⟩"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "a isto também"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraó",
@@ -13,64 +60,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16995,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17453
-  },
-  "translation": "E o Paró virou-se e veio à sua casa, e não ⟨colocou⟩ seu coração ⟨nem⟩ a isto também.",
-  "tokens": [
-    {
-      "surface": "ויפן",
-      "english": "E o Faraó virou-se"
-    },
-    {
-      "surface": "פרעה",
-      "english": "o Paró"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e veio"
-    },
-    {
-      "surface": "אל",
-      "english": "à"
-    },
-    {
-      "surface": "ביתו",
-      "english": "sua casa"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "שת",
-      "english": "⟨colocou⟩"
-    },
-    {
-      "surface": "לבו",
-      "english": "seu coração"
-    },
-    {
-      "surface": "גם",
-      "english": "⟨nem⟩"
-    },
-    {
-      "surface": "לזאת",
-      "english": "a isto também"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:42:35.683879181Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

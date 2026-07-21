@@ -1,37 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "numbers 1:8",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 295,
-    "prompt_tokens": 25054,
-    "prompt_tokens_details": {
-      "cached_tokens": 21248
-    },
-    "total_tokens": 25349
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:01:56.492973836Z",
   "translation": "para Yissacar ⟨está⟩ Netaneel ⟨o⟩ filho ⟨de⟩ Tzuar",
   "tokens": [
     {
       "surface": "ליששכר",
-      "english": "para Yissacar"
+      "gloss": "para Yissacar"
     },
     {
       "surface": "נתנאל",
-      "english": "Netaneel"
+      "gloss": "Netaneel"
     },
     {
       "surface": "בן",
-      "english": "⟨o⟩ filho ⟨de⟩"
+      "gloss": "⟨o⟩ filho ⟨de⟩"
     },
     {
       "surface": "צוער",
-      "english": "Tzuar"
+      "gloss": "Tzuar"
     }
-  ],
-  "timestamp": "2026-07-16T17:01:56.492973836Z",
-  "model": "glm-4.5"
+  ]
 }

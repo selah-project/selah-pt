@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 20:12",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60220,
-    "prompt_tokens_details": {
-      "cached_tokens": 59213
-    },
-    "total_tokens": 60535
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:43:22.108353688Z",
   "translation": "An ear ⟨that is⟩ hearing and an eye ⟨that is⟩ seeing, YHWH made ⟨את⟩ both of them ⟨את⟩",
   "tokens": [
     {
       "surface": "אזן",
-      "english": "An ear"
+      "gloss": "An ear"
     },
     {
       "surface": "שמעת",
-      "english": "⟨that is⟩ hearing"
+      "gloss": "⟨that is⟩ hearing"
     },
     {
       "surface": "ועין",
-      "english": "and an eye"
+      "gloss": "and an eye"
     },
     {
       "surface": "ראה",
-      "english": "⟨that is⟩ seeing"
+      "gloss": "⟨that is⟩ seeing"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עשה",
-      "english": "made"
+      "gloss": "made"
     },
     {
       "surface": "גם",
-      "english": "both of them"
+      "gloss": "both of them"
     },
     {
       "surface": "שניהם",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-06-13T06:43:22.108353688Z",
-  "model": "glm-4.5"
+  ]
 }

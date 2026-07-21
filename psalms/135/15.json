@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 135:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62871,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63334
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:09:14.228242560Z",
   "translation": "Os ídolos ⟨das⟩ nações ⟨são⟩ prata e ouro, obra ⟨das⟩ mãos do homem.",
   "tokens": [
     {
       "surface": "עצבי",
-      "english": "Os ídolos ⟨das⟩ nações",
+      "gloss": "Os ídolos ⟨das⟩ nações",
       "marks": "prata e ouro, obra ⟨das⟩ mãos do homem"
     },
     {
       "surface": "הגוים",
-      "english": "nações"
+      "gloss": "nações"
     },
     {
       "surface": "כסף",
-      "english": "prata"
+      "gloss": "prata"
     },
     {
       "surface": "וזהב",
-      "english": "e ouro"
+      "gloss": "e ouro"
     },
     {
       "surface": "מעשה",
-      "english": "obra ⟨das⟩"
+      "gloss": "obra ⟨das⟩"
     },
     {
       "surface": "ידי",
-      "english": "mãos ⟨das⟩"
+      "gloss": "mãos ⟨das⟩"
     },
     {
       "surface": "אדם",
-      "english": "homem"
+      "gloss": "homem"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:09:14.228242560Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 40:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 320,
-    "prompt_tokens": 70401,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70721
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:25:22.013024390Z",
   "translation": "Para fazer ⟨o⟩ teu querer, Elohim, desejei, e a tua Torá ⟨está⟩ dentro do meu ⟨interior⟩.",
   "tokens": [
     {
       "surface": "לעשות",
-      "english": "Para fazer"
+      "gloss": "Para fazer"
     },
     {
       "surface": "רצונך",
-      "english": "⟨o⟩ teu querer"
+      "gloss": "⟨o⟩ teu querer"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "חפצתי",
-      "english": "desejei"
+      "gloss": "desejei"
     },
     {
       "surface": "ותורתך",
-      "english": "e a tua Torá"
+      "gloss": "e a tua Torá"
     },
     {
       "surface": "בתוך",
-      "english": "⟨está⟩ dentro"
+      "gloss": "⟨está⟩ dentro"
     },
     {
       "surface": "מעי",
-      "english": "do meu ⟨interior⟩"
+      "gloss": "do meu ⟨interior⟩"
     }
-  ],
-  "timestamp": "2026-07-17T00:25:22.013024390Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "exodus 36:25",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24252,
-    "prompt_tokens_details": {
-      "cached_tokens": 23183
-    },
-    "total_tokens": 24724
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:22:24.815606795Z",
   "translation": "E ⟨para⟩ ⟨o⟩ lado ⟨do⟩ Mishkán ⟨o⟩ segundo ⟨para⟩ ⟨o⟩ lado ⟨do⟩ norte ele fez vinte tábuas",
   "tokens": [
     {
       "surface": "ולצלע",
-      "english": "E ⟨para⟩ ⟨o⟩ lado"
+      "gloss": "E ⟨para⟩ ⟨o⟩ lado"
     },
     {
       "surface": "המשכן",
-      "english": "⟨do⟩ Mishkán"
+      "gloss": "⟨do⟩ Mishkán"
     },
     {
       "surface": "השנית",
-      "english": "⟨o⟩ segundo"
+      "gloss": "⟨o⟩ segundo"
     },
     {
       "surface": "לפאת",
-      "english": "⟨para⟩ ⟨o⟩ lado"
+      "gloss": "⟨para⟩ ⟨o⟩ lado"
     },
     {
       "surface": "צפון",
-      "english": "⟨do⟩ norte"
+      "gloss": "⟨do⟩ norte"
     },
     {
       "surface": "עשה",
-      "english": "ele fez"
+      "gloss": "ele fez"
     },
     {
       "surface": "עשרים",
-      "english": "vinte"
+      "gloss": "vinte"
     },
     {
       "surface": "קרשים",
-      "english": "tábuas"
+      "gloss": "tábuas"
     }
-  ],
-  "timestamp": "2026-06-13T05:22:24.815606795Z",
-  "model": "glm-4.5"
+  ]
 }

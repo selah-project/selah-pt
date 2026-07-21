@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-kings 24:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 24,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:11:13.445489769Z",
+  "translation": "E Nevujadnetzar rei de Bavel veio ⟨para⟩ ⟨a⟩ cidade, e seus servos a cercaram.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E veio"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevujadnetzar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨a⟩ cidade"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "e seus servos"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "cercaram"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨a⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nabucodonosor",
@@ -20,60 +63,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16986,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17349
-  },
-  "translation": "E Nevujadnetzar rei de Bavel veio ⟨para⟩ ⟨a⟩ cidade, e seus servos a cercaram.",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E veio"
-    },
-    {
-      "surface": "נבוכדנאצר",
-      "english": "Nevujadnetzar"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "על",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "העיר",
-      "english": "⟨a⟩ cidade"
-    },
-    {
-      "surface": "ועבדיו",
-      "english": "e seus servos"
-    },
-    {
-      "surface": "צרים",
-      "english": "cercaram"
-    },
-    {
-      "surface": "עליה",
-      "english": "⟨a⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:11:13.445489769Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "joshua 22:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 22,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:47:30.216188350Z",
+  "translation": "Não foi Acã filho de Zerá que cometeu traição ⟨em⟩ ⟨o⟩ anátema, e veio ⟨o⟩ furor sobre toda ⟨a⟩ congregação de Yisrael? E ele ⟨era⟩ um ⟨homem⟩ ⟨único⟩ que não expirou em sua iniquidade.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Não foi"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Acã"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "de Zerá"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "que cometeu traição"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "em"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "⟨o⟩ anátema"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e veio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "⟨a⟩ congregação"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "⟨o⟩ furor"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e ele"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨homem⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨único⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "que não"
+    },
+    {
+      "surface": "גוע",
+      "gloss": "expirou"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "em sua iniquidade"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,100 +96,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 717,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17337,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 18054
-  },
-  "translation": "Não foi Acã filho de Zerá que cometeu traição ⟨em⟩ ⟨o⟩ anátema, e veio ⟨o⟩ furor sobre toda ⟨a⟩ congregação de Yisrael? E ele ⟨era⟩ um ⟨homem⟩ ⟨único⟩ que não expirou em sua iniquidade.",
-  "tokens": [
-    {
-      "surface": "הלוא",
-      "english": "Não foi"
-    },
-    {
-      "surface": "עכן",
-      "english": "Acã"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "זרח",
-      "english": "de Zerá"
-    },
-    {
-      "surface": "מעל",
-      "english": "que cometeu traição"
-    },
-    {
-      "surface": "מעל",
-      "english": "em"
-    },
-    {
-      "surface": "בחרם",
-      "english": "⟨o⟩ anátema"
-    },
-    {
-      "surface": "ועל",
-      "english": "e veio"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "עדת",
-      "english": "⟨a⟩ congregação"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨era⟩"
-    },
-    {
-      "surface": "קצף",
-      "english": "⟨o⟩ furor"
-    },
-    {
-      "surface": "והוא",
-      "english": "e ele"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨homem⟩"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨único⟩"
-    },
-    {
-      "surface": "לא",
-      "english": "que não"
-    },
-    {
-      "surface": "גוע",
-      "english": "expirou"
-    },
-    {
-      "surface": "בעונו",
-      "english": "em sua iniquidade"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:47:30.216188350Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

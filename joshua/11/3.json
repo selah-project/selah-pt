@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "joshua 11:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 11,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:36:52.069005602Z",
+  "translation": "ao ⟨את⟩ cananeu ⟨do⟩ leste e ⟨do⟩ oeste, e ⟨ao⟩ amorreu, e ⟨ao⟩ heteu, e ⟨ao⟩ ferezeu, e ⟨ao⟩ jebuseu na montanha, e ⟨ao⟩ heveu ⟨debaixo de⟩ Jermon na terra ⟨de⟩ Mizpá",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "Ao cananeu"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "⟨do⟩ leste"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "e ⟨do⟩ oeste"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "e ⟨ao⟩ amorreu"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "e ⟨ao⟩ heteu"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e ⟨ao⟩ ferezeu"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e ⟨ao⟩ jebuseu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na montanha"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "e ⟨ao⟩ heveu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨debaixo de⟩"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Jermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra ⟨de⟩"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mizpá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Hermom",
@@ -13,76 +72,6 @@
       "hebrew": "חרמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17052,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 17571
-  },
-  "translation": "ao ⟨את⟩ cananeu ⟨do⟩ leste e ⟨do⟩ oeste, e ⟨ao⟩ amorreu, e ⟨ao⟩ heteu, e ⟨ao⟩ ferezeu, e ⟨ao⟩ jebuseu na montanha, e ⟨ao⟩ heveu ⟨debaixo de⟩ Jermon na terra ⟨de⟩ Mizpá",
-  "tokens": [
-    {
-      "surface": "הכנעני",
-      "english": "Ao cananeu"
-    },
-    {
-      "surface": "ממזרח",
-      "english": "⟨do⟩ leste"
-    },
-    {
-      "surface": "ומים",
-      "english": "e ⟨do⟩ oeste"
-    },
-    {
-      "surface": "והאמרי",
-      "english": "e ⟨ao⟩ amorreu"
-    },
-    {
-      "surface": "והחתי",
-      "english": "e ⟨ao⟩ heteu"
-    },
-    {
-      "surface": "והפרזי",
-      "english": "e ⟨ao⟩ ferezeu"
-    },
-    {
-      "surface": "והיבוסי",
-      "english": "e ⟨ao⟩ jebuseu"
-    },
-    {
-      "surface": "בהר",
-      "english": "na montanha"
-    },
-    {
-      "surface": "והחוי",
-      "english": "e ⟨ao⟩ heveu"
-    },
-    {
-      "surface": "תחת",
-      "english": "⟨debaixo de⟩"
-    },
-    {
-      "surface": "חרמון",
-      "english": "Jermon"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra ⟨de⟩"
-    },
-    {
-      "surface": "המצפה",
-      "english": "Mizpá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:36:52.069005602Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

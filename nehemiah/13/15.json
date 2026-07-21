@@ -1,9 +1,120 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "nehemiah 13:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 13,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:29:01.808376634Z",
+  "translation": "Naqueles dias ⟨vi⟩ em Judá ⟨os⟩ que pisavam lagares no Shabat e ⟨que⟩ traziam ⟨as⟩ feixes e ⟨que⟩ carregavam jumentos ⟨com⟩ vinho, uvas e figos e ⟨todo⟩ fardo e traziam a Yerushalayim no dia do Shabat; ⟨e⟩ ⟨eu⟩ protestei contra eles no dia em que vendiam mantimentos.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Naqueles dias"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "⟨os⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "⟨vi⟩"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "em Judá"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "que pisavam"
+    },
+    {
+      "surface": "גתות",
+      "gloss": "lagares"
+    },
+    {
+      "surface": "בשבת",
+      "gloss": "no Shabat"
+    },
+    {
+      "surface": "ומביאים",
+      "gloss": "e ⟨que⟩ traziam"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "⟨as⟩ feixes"
+    },
+    {
+      "surface": "ועמסים",
+      "gloss": "e ⟨que⟩ carregavam"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "החמרים",
+      "gloss": "jumentos"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "e"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinho"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "uvas"
+    },
+    {
+      "surface": "ותאנים",
+      "gloss": "e figos"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ⟨todo⟩"
+    },
+    {
+      "surface": "משא",
+      "gloss": "fardo"
+    },
+    {
+      "surface": "ומביאים",
+      "gloss": "e traziam"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "no dia"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "do Shabat"
+    },
+    {
+      "surface": "ואעיד",
+      "gloss": "e ⟨eu⟩ protestei"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "no dia"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "em que vendiam"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "mantimentos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,128 +124,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 1054,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51387,
-    "prompt_tokens_details": {
-      "cached_tokens": 48507
-    },
-    "total_tokens": 52441
-  },
-  "translation": "Naqueles dias ⟨vi⟩ em Judá ⟨os⟩ que pisavam lagares no Shabat e ⟨que⟩ traziam ⟨as⟩ feixes e ⟨que⟩ carregavam jumentos ⟨com⟩ vinho, uvas e figos e ⟨todo⟩ fardo e traziam a Yerushalayim no dia do Shabat; ⟨e⟩ ⟨eu⟩ protestei contra eles no dia em que vendiam mantimentos.",
-  "tokens": [
-    {
-      "surface": "בימים",
-      "english": "Naqueles dias"
-    },
-    {
-      "surface": "ההמה",
-      "english": "⟨os⟩"
-    },
-    {
-      "surface": "ראיתי",
-      "english": "⟨vi⟩"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "em Judá"
-    },
-    {
-      "surface": "דרכים",
-      "english": "que pisavam"
-    },
-    {
-      "surface": "גתות",
-      "english": "lagares"
-    },
-    {
-      "surface": "בשבת",
-      "english": "no Shabat"
-    },
-    {
-      "surface": "ומביאים",
-      "english": "e ⟨que⟩ traziam"
-    },
-    {
-      "surface": "הערמות",
-      "english": "⟨as⟩ feixes"
-    },
-    {
-      "surface": "ועמסים",
-      "english": "e ⟨que⟩ carregavam"
-    },
-    {
-      "surface": "על",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "החמרים",
-      "english": "jumentos"
-    },
-    {
-      "surface": "ואף",
-      "english": "e"
-    },
-    {
-      "surface": "יין",
-      "english": "vinho"
-    },
-    {
-      "surface": "ענבים",
-      "english": "uvas"
-    },
-    {
-      "surface": "ותאנים",
-      "english": "e figos"
-    },
-    {
-      "surface": "וכל",
-      "english": "e ⟨todo⟩"
-    },
-    {
-      "surface": "משא",
-      "english": "fardo"
-    },
-    {
-      "surface": "ומביאים",
-      "english": "e traziam"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "a Yerushalayim"
-    },
-    {
-      "surface": "ביום",
-      "english": "no dia"
-    },
-    {
-      "surface": "השבת",
-      "english": "do Shabat"
-    },
-    {
-      "surface": "ואעיד",
-      "english": "e ⟨eu⟩ protestei"
-    },
-    {
-      "surface": "ביום",
-      "english": "no dia"
-    },
-    {
-      "surface": "מכרם",
-      "english": "em que vendiam"
-    },
-    {
-      "surface": "ציד",
-      "english": "mantimentos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:29:01.808376634Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

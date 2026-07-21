@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 26:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62787,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63212
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:55:33.416378731Z",
   "translation": "cujas mãos ⟨estão⟩ cheias ⟨de⟩ esquema, e ⟨a⟩ sua mão direita ⟨está⟩ cheia ⟨de⟩ suborno",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Cujas"
+      "gloss": "Cujas"
     },
     {
       "surface": "בידיהם",
-      "english": "mãos ⟨estão⟩ cheias ⟨de⟩",
+      "gloss": "mãos ⟨estão⟩ cheias ⟨de⟩",
       "marks": "esquema"
     },
     {
       "surface": "זמה",
-      "english": "esquema"
+      "gloss": "esquema"
     },
     {
       "surface": "וימינם",
-      "english": "e ⟨a⟩ sua mão direita ⟨está⟩ cheia ⟨de⟩",
+      "gloss": "e ⟨a⟩ sua mão direita ⟨está⟩ cheia ⟨de⟩",
       "marks": "suborno"
     },
     {
       "surface": "מלאה",
-      "english": "cheia ⟨de⟩"
+      "gloss": "cheia ⟨de⟩"
     },
     {
       "surface": "שחד",
-      "english": "suborno"
+      "gloss": "suborno"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:55:33.416378731Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

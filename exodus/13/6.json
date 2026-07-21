@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 13:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16970,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17473
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:52:41.565356800Z",
   "translation": "Sete dias comerás matzot e ⟨no⟩ sétimo dia ⟨será⟩ um festival ⟨para⟩ ⟨YHWH⟩",
   "tokens": [
     {
       "surface": "שבעת",
-      "english": "Sete dias",
+      "gloss": "Sete dias",
       "marks": null
     },
     {
       "surface": "ימים",
-      "english": "dias",
+      "gloss": "dias",
       "marks": null
     },
     {
       "surface": "תאכל",
-      "english": "comerás",
+      "gloss": "comerás",
       "marks": null
     },
     {
       "surface": "מצת",
-      "english": "matzot",
+      "gloss": "matzot",
       "marks": null
     },
     {
       "surface": "וביום",
-      "english": "e ⟨no⟩",
+      "gloss": "e ⟨no⟩",
       "marks": "sétimo dia"
     },
     {
       "surface": "השביעי",
-      "english": "sétimo dia",
+      "gloss": "sétimo dia",
       "marks": null
     },
     {
       "surface": "חג",
-      "english": "festival",
+      "gloss": "festival",
       "marks": null
     },
     {
       "surface": "ליהוה",
-      "english": "⟨para⟩ ⟨YHWH⟩",
+      "gloss": "⟨para⟩ ⟨YHWH⟩",
       "marks": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:52:41.565356800Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 94,
   "ref": "psalms 119:94",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62766,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63066
-  },
+  "verse": 94,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:00:01.341072776Z",
   "translation": "para ti eu ⟨sou⟩ salvo-me porque ⟨as tuas⟩ ordens ⟨eu⟩ busquei",
   "tokens": [
     {
       "surface": "לך",
-      "english": "Para ti"
+      "gloss": "Para ti"
     },
     {
       "surface": "אני",
-      "english": "eu"
+      "gloss": "eu"
     },
     {
       "surface": "הושיעני",
-      "english": "salvo-me"
+      "gloss": "salvo-me"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "פקודיך",
-      "english": "⟨as tuas⟩ ordens",
+      "gloss": "⟨as tuas⟩ ordens",
       "marks": "ordens"
     },
     {
       "surface": "דרשתי",
-      "english": "⟨eu⟩ busquei"
+      "gloss": "⟨eu⟩ busquei"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:00:01.341072776Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

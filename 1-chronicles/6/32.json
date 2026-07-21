@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "1-chronicles 6:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 6,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:38:09.866821305Z",
+  "translation": "⟨o⟩ filho de Mahli, ⟨o⟩ filho de Mushi, ⟨o⟩ filho de Merari, ⟨o⟩ filho de Leví.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "⟨O⟩ filho",
+      "marks": "de Mahli"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Mahli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho",
+      "marks": "de Mushi"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Mushi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho",
+      "marks": "de Merari"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho",
+      "marks": "de Levi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leví"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Levi",
@@ -13,60 +56,6 @@
       "hebrew": "לוי"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 261,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57175,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57436
-  },
-  "translation": "⟨o⟩ filho de Mahli, ⟨o⟩ filho de Mushi, ⟨o⟩ filho de Merari, ⟨o⟩ filho de Leví.",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "⟨O⟩ filho",
-      "marks": "de Mahli"
-    },
-    {
-      "surface": "מחלי",
-      "english": "Mahli"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho",
-      "marks": "de Mushi"
-    },
-    {
-      "surface": "מושי",
-      "english": "Mushi"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho",
-      "marks": "de Merari"
-    },
-    {
-      "surface": "מררי",
-      "english": "Merari"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho",
-      "marks": "de Levi"
-    },
-    {
-      "surface": "לוי",
-      "english": "Leví"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:38:09.866821305Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

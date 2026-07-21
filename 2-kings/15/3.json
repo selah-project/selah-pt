@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-kings 15:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 15,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:00:48.086241288Z",
+  "translation": "E ele fez ⟨o⟩ que ⟨era⟩ direito aos olhos ⟨do⟩ YHWH, segundo tudo que fez Amatsias, seu pai",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E ele fez"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "⟨o⟩ que ⟨era⟩ direito"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aos olhos ⟨do⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "segundo tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fez"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsias"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Senhor",
@@ -13,60 +56,6 @@
       "hebrew": "יהוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16929,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17273
-  },
-  "translation": "E ele fez ⟨o⟩ que ⟨era⟩ direito aos olhos ⟨do⟩ YHWH, segundo tudo que fez Amatsias, seu pai",
-  "tokens": [
-    {
-      "surface": "ויעש",
-      "english": "E ele fez"
-    },
-    {
-      "surface": "הישר",
-      "english": "⟨o⟩ que ⟨era⟩ direito"
-    },
-    {
-      "surface": "בעיני",
-      "english": "aos olhos ⟨do⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "ככל",
-      "english": "segundo tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עשה",
-      "english": "fez"
-    },
-    {
-      "surface": "אמציהו",
-      "english": "Amatsias"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:00:48.086241288Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 51:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 51,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:55:43.982487139Z",
+  "translation": "Assim diz YHWH: Eis que ⟨estou⟩ despertando ⟨contra⟩ Bavel ⟨e contra⟩ ⟨os⟩ que habitam ⟨no⟩ meio ⟨dos⟩ que se levantam contra mim, um vento destruidor.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "⟨estou⟩ despertando"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨contra⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨e contra⟩"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨os⟩ que habitam"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨no⟩ meio"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "⟨dos⟩ que se levantam"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "um vento"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "destruidor"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babilônia",
@@ -13,76 +72,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 51,
-  "usage": {
-    "completion_tokens": 584,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17841,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18425
-  },
-  "translation": "Assim diz YHWH: Eis que ⟨estou⟩ despertando ⟨contra⟩ Bavel ⟨e contra⟩ ⟨os⟩ que habitam ⟨no⟩ meio ⟨dos⟩ que se levantam contra mim, um vento destruidor.",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "הנני",
-      "english": "Eis que"
-    },
-    {
-      "surface": "מעיר",
-      "english": "⟨estou⟩ despertando"
-    },
-    {
-      "surface": "על",
-      "english": "⟨contra⟩"
-    },
-    {
-      "surface": "בבל",
-      "english": "Bavel"
-    },
-    {
-      "surface": "ואל",
-      "english": "⟨e contra⟩"
-    },
-    {
-      "surface": "ישבי",
-      "english": "⟨os⟩ que habitam"
-    },
-    {
-      "surface": "לב",
-      "english": "⟨no⟩ meio"
-    },
-    {
-      "surface": "קמי",
-      "english": "⟨dos⟩ que se levantam"
-    },
-    {
-      "surface": "רוח",
-      "english": "um vento"
-    },
-    {
-      "surface": "משחית",
-      "english": "destruidor"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:55:43.982487139Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

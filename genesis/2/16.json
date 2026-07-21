@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 2:16",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 538,
-    "prompt_tokens": 28955,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29493
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:38:21.325661654Z",
   "translation": "E YHWH Elohim ordenou sobre o homem, dizendo: ⟨de⟩ toda árvore do jardim comer ⟨ás⟩ tu comerás",
   "tokens": [
     {
       "surface": "ויצו",
-      "english": "E ordenou"
+      "gloss": "E ordenou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "האדם",
-      "english": "o homem"
+      "gloss": "o homem"
     },
     {
       "surface": "לאמר",
-      "english": ", dizendo:"
+      "gloss": ", dizendo:"
     },
     {
       "surface": "מכל",
-      "english": "⟨de⟩ toda"
+      "gloss": "⟨de⟩ toda"
     },
     {
       "surface": "עץ",
-      "english": "árvore"
+      "gloss": "árvore"
     },
     {
       "surface": "הגן",
-      "english": "do jardim"
+      "gloss": "do jardim"
     },
     {
       "surface": "אכל",
-      "english": "comer ⟨ás⟩"
+      "gloss": "comer ⟨ás⟩"
     },
     {
       "surface": "תאכל",
-      "english": "tu comerás"
+      "gloss": "tu comerás"
     }
-  ],
-  "timestamp": "2026-07-16T14:38:21.325661654Z",
-  "model": "glm-4.5"
+  ]
 }

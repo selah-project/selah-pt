@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 46:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 46,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:49:07.242590312Z",
+  "translation": "Bel se curvou, Nevo se encurva, ⟨os⟩ ídolos deles ⟨são⟩ sobre ⟨o⟩ animal e sobre ⟨o⟩ gado, ⟨o⟩ que vós carregais ⟨está⟩ pesadamente carregado, ⟨um⟩ fardo para ⟨o⟩ animal cansado.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Bel se curvou"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Bel"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "Nebo se encurva"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨os⟩ ídolos deles ⟨são⟩"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ídolos deles"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "sobre ⟨o⟩ animal"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "e sobre ⟨o⟩ gado"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "⟨o⟩ que vós carregais ⟨está⟩"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "pesadamente carregado"
+    },
+    {
+      "surface": "משא",
+      "gloss": "⟨um⟩ fardo"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "para ⟨o⟩ animal cansado"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nebo",
@@ -13,72 +68,6 @@
       "hebrew": "נבו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 834,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19489,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20323
-  },
-  "translation": "Bel se curvou, Nevo se encurva, ⟨os⟩ ídolos deles ⟨são⟩ sobre ⟨o⟩ animal e sobre ⟨o⟩ gado, ⟨o⟩ que vós carregais ⟨está⟩ pesadamente carregado, ⟨um⟩ fardo para ⟨o⟩ animal cansado.",
-  "tokens": [
-    {
-      "surface": "כרע",
-      "english": "Bel se curvou"
-    },
-    {
-      "surface": "בל",
-      "english": "Bel"
-    },
-    {
-      "surface": "קרס",
-      "english": "Nebo se encurva"
-    },
-    {
-      "surface": "נבו",
-      "english": "Nevo"
-    },
-    {
-      "surface": "היו",
-      "english": "⟨os⟩ ídolos deles ⟨são⟩"
-    },
-    {
-      "surface": "עצביהם",
-      "english": "ídolos deles"
-    },
-    {
-      "surface": "לחיה",
-      "english": "sobre ⟨o⟩ animal"
-    },
-    {
-      "surface": "ולבהמה",
-      "english": "e sobre ⟨o⟩ gado"
-    },
-    {
-      "surface": "נשאתיכם",
-      "english": "⟨o⟩ que vós carregais ⟨está⟩"
-    },
-    {
-      "surface": "עמוסות",
-      "english": "pesadamente carregado"
-    },
-    {
-      "surface": "משא",
-      "english": "⟨um⟩ fardo"
-    },
-    {
-      "surface": "לעיפה",
-      "english": "para ⟨o⟩ animal cansado"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:49:07.242590312Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "ezekiel 10:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 10,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:09:59.716472540Z",
+  "translation": "Esta é a criatura ⟨que⟩ eu vi ⟨por⟩ baixo ⟨de⟩ Elohim ⟨de⟩ Yisrael ⟨pelo⟩ rio Quebar, e eu soube ⟨que⟩ querubins ⟨são⟩ eles.",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "Esta"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "a criatura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "eu vi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨por⟩ baixo ⟨de⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "⟨pelo⟩ rio"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Quebar"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "e eu soube"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "querubins"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨são⟩ eles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17839,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18358
-  },
-  "translation": "Esta é a criatura ⟨que⟩ eu vi ⟨por⟩ baixo ⟨de⟩ Elohim ⟨de⟩ Yisrael ⟨pelo⟩ rio Quebar, e eu soube ⟨que⟩ querubins ⟨são⟩ eles.",
-  "tokens": [
-    {
-      "surface": "היא",
-      "english": "Esta"
-    },
-    {
-      "surface": "החיה",
-      "english": "a criatura"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "ראיתי",
-      "english": "eu vi"
-    },
-    {
-      "surface": "תחת",
-      "english": "⟨por⟩ baixo ⟨de⟩"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "בנהר",
-      "english": "⟨pelo⟩ rio"
-    },
-    {
-      "surface": "כבר",
-      "english": "Quebar"
-    },
-    {
-      "surface": "ואדע",
-      "english": "e eu soube"
-    },
-    {
-      "surface": "כי",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "כרובים",
-      "english": "querubins"
-    },
-    {
-      "surface": "המה",
-      "english": "⟨são⟩ eles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:09:59.716472540Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

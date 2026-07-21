@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "hosea 9:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 9,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:59:25.397757768Z",
+  "translation": "Efráyim como uma ave ⟨é⟩ glória deles ⟨que⟩ foge, de ⟨o⟩ parto e da madre e ⟨da⟩ concepção.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "como uma ave"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "glória deles ⟨que⟩ foge"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "glória deles"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "de ⟨o⟩ parto"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "e da madre"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "e ⟨da⟩ concepção"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,52 +48,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19623,
-    "prompt_tokens_details": {
-      "cached_tokens": 18473
-    },
-    "total_tokens": 19999
-  },
-  "translation": "Efráyim como uma ave ⟨é⟩ glória deles ⟨que⟩ foge, de ⟨o⟩ parto e da madre e ⟨da⟩ concepção.",
-  "tokens": [
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "כעוף",
-      "english": "como uma ave"
-    },
-    {
-      "surface": "יתעופף",
-      "english": "glória deles ⟨que⟩ foge"
-    },
-    {
-      "surface": "כבודם",
-      "english": "glória deles"
-    },
-    {
-      "surface": "מלדה",
-      "english": "de ⟨o⟩ parto"
-    },
-    {
-      "surface": "ומבטן",
-      "english": "e da madre"
-    },
-    {
-      "surface": "ומהריון",
-      "english": "e ⟨da⟩ concepção"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:59:25.397757768Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

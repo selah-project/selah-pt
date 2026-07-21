@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 80:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 411,
-    "prompt_tokens": 70694,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71105
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:43:23.180685170Z",
   "translation": "Diante de Efráyim, Binyamim e Menashé, desperta ⟨o⟩ teu poder, e vem para a nossa salvação.",
   "tokens": [
     {
       "surface": "לפני",
-      "english": "Diante de"
+      "gloss": "Diante de"
     },
     {
       "surface": "אפרים",
-      "english": "Efráyim"
+      "gloss": "Efráyim"
     },
     {
       "surface": "ובנימן",
-      "english": ", Binyamim"
+      "gloss": ", Binyamim"
     },
     {
       "surface": "ומנשה",
-      "english": "e Menashé"
+      "gloss": "e Menashé"
     },
     {
       "surface": "עוררה",
-      "english": "desperta"
+      "gloss": "desperta"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o teu poder"
     },
     {
       "surface": "גבורתך",
-      "english": "teu poder"
+      "gloss": "teu poder"
     },
     {
       "surface": "ולכה",
-      "english": ", e vem"
+      "gloss": ", e vem"
     },
     {
       "surface": "לישעתה",
-      "english": "para a nossa salvação"
+      "gloss": "para a nossa salvação"
     },
     {
       "surface": "לנו",
-      "english": "nossa"
+      "gloss": "nossa"
     }
-  ],
-  "timestamp": "2026-07-16T17:43:23.180685170Z",
-  "model": "glm-4.5"
+  ]
 }

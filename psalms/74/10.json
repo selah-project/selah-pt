@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 74:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 488,
-    "prompt_tokens": 70482,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70970
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:31.996877402Z",
   "translation": "Até quando, Elohim, o adversário ⟨irá⟩ reprovar? ⟨O⟩ inimigo ⟨irá⟩ desprezar o teu nome para sempre?",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Até quando"
+      "gloss": "Até quando"
     },
     {
       "surface": "מתי",
-      "english": "quando"
+      "gloss": "quando"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יחרף",
-      "english": "⟨irá⟩ reprovar"
+      "gloss": "⟨irá⟩ reprovar"
     },
     {
       "surface": "צר",
-      "english": "o adversário"
+      "gloss": "o adversário"
     },
     {
       "surface": "ינאץ",
-      "english": "⟨irá⟩ desprezar"
+      "gloss": "⟨irá⟩ desprezar"
     },
     {
       "surface": "אויב",
-      "english": "⟨O⟩ inimigo"
+      "gloss": "⟨O⟩ inimigo"
     },
     {
       "surface": "שמך",
-      "english": "o teu nome"
+      "gloss": "o teu nome"
     },
     {
       "surface": "לנצח",
-      "english": "para sempre"
+      "gloss": "para sempre"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:31.996877402Z",
-  "model": "glm-4.5"
+  ]
 }

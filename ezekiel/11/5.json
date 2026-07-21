@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ezekiel 11:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 11,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:11:18.258239482Z",
+  "translation": "E ⟨o⟩ Rúaj de YHWH caiu sobre mim, e disse a mim: 'Diga: Assim diz YHWH: Assim haveis dito, ó Casa de Yisrael, e os pensamentos do vosso espírito eu ⟨o⟩ conheci.'",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "E caiu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sobre mim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Rúaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "'Diga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "haveis dito"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ó Casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ומעלות",
+      "gloss": "e os pensamentos"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "do vosso espírito"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ידעתיה",
+      "gloss": "⟨o⟩ conheci"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,96 +92,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18333,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18878
-  },
-  "translation": "E ⟨o⟩ Rúaj de YHWH caiu sobre mim, e disse a mim: 'Diga: Assim diz YHWH: Assim haveis dito, ó Casa de Yisrael, e os pensamentos do vosso espírito eu ⟨o⟩ conheci.'",
-  "tokens": [
-    {
-      "surface": "ותפל",
-      "english": "E caiu"
-    },
-    {
-      "surface": "עלי",
-      "english": "sobre mim"
-    },
-    {
-      "surface": "רוח",
-      "english": "Rúaj"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mim"
-    },
-    {
-      "surface": "אמר",
-      "english": "'Diga"
-    },
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "כן",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמרתם",
-      "english": "haveis dito"
-    },
-    {
-      "surface": "בית",
-      "english": "ó Casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ומעלות",
-      "english": "e os pensamentos"
-    },
-    {
-      "surface": "רוחכם",
-      "english": "do vosso espírito"
-    },
-    {
-      "surface": "אני",
-      "english": "eu"
-    },
-    {
-      "surface": "ידעתיה",
-      "english": "⟨o⟩ conheci"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:11:18.258239482Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

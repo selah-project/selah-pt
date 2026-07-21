@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "psalms 107:29",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 327,
-    "prompt_tokens": 70096,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70423
-  },
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:47:19.765851472Z",
   "translation": "Ele faz a tempestade aquietar-se, de modo que se acalmam ⟨as⟩ ondas ⟨deles⟩.",
   "tokens": [
     {
       "surface": "יקם",
-      "english": "Ele faz"
+      "gloss": "Ele faz"
     },
     {
       "surface": "סערה",
-      "english": "a tempestade"
+      "gloss": "a tempestade"
     },
     {
       "surface": "לדממה",
-      "english": "aquietar-se"
+      "gloss": "aquietar-se"
     },
     {
       "surface": "ויחשו",
-      "english": "de modo que se acalmam"
+      "gloss": "de modo que se acalmam"
     },
     {
       "surface": "גליהם",
-      "english": "⟨as⟩ ondas ⟨deles⟩"
+      "gloss": "⟨as⟩ ondas ⟨deles⟩"
     }
-  ],
-  "timestamp": "2026-07-16T17:47:19.765851472Z",
-  "model": "glm-4.5"
+  ]
 }

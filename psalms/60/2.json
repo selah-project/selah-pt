@@ -1,92 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 60:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 739,
-    "prompt_tokens": 71313,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 72052
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:40:28.772543663Z",
   "translation": "Ao contender com ⟨את⟩ Aram-Naharaim e com ⟨את⟩ Aram-Zobá, e Yoav retornou e feriu ⟨את⟩ Edom no Vale do Sal — doze mil.",
   "tokens": [
     {
       "surface": "בהצותו",
-      "english": "Ao contender"
+      "gloss": "Ao contender"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Aram-Naharaim"
     },
     {
       "surface": "ארם",
-      "english": "Aram"
+      "gloss": "Aram"
     },
     {
       "surface": "נהרים",
-      "english": "-Naharaim"
+      "gloss": "-Naharaim"
     },
     {
       "surface": "ואת",
-      "english": "e com ⟨את⟩",
+      "gloss": "e com ⟨את⟩",
       "marks": "Aram-Zobá"
     },
     {
       "surface": "ארם",
-      "english": "Aram"
+      "gloss": "Aram"
     },
     {
       "surface": "צובה",
-      "english": "-Zobá"
+      "gloss": "-Zobá"
     },
     {
       "surface": "וישב",
-      "english": "e Yoav retornou"
+      "gloss": "e Yoav retornou"
     },
     {
       "surface": "יואב",
-      "english": "Yoav"
+      "gloss": "Yoav"
     },
     {
       "surface": "ויך",
-      "english": "e feriu"
+      "gloss": "e feriu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Edom"
     },
     {
       "surface": "אדום",
-      "english": "Edom"
+      "gloss": "Edom"
     },
     {
       "surface": "בגיא",
-      "english": "no Vale"
+      "gloss": "no Vale"
     },
     {
       "surface": "מלח",
-      "english": "do Sal"
+      "gloss": "do Sal"
     },
     {
       "surface": "שנים",
-      "english": "doze"
+      "gloss": "doze"
     },
     {
       "surface": "עשר",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "אלף",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T17:40:28.772543663Z",
-  "model": "glm-4.5"
+  ]
 }

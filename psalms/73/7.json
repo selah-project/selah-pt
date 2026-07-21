@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 73:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 410,
-    "prompt_tokens": 70231,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70641
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:01.276450262Z",
   "translation": "Saíram da gordura ⟨os⟩ ⟨seus⟩ olhos; ultrapassaram ⟨as⟩ imaginações do coração.",
   "tokens": [
     {
       "surface": "יצא",
-      "english": "Saíram"
+      "gloss": "Saíram"
     },
     {
       "surface": "מחלב",
-      "english": "da gordura"
+      "gloss": "da gordura"
     },
     {
       "surface": "עינמו",
-      "english": "⟨os⟩ ⟨seus⟩ olhos"
+      "gloss": "⟨os⟩ ⟨seus⟩ olhos"
     },
     {
       "surface": "עברו",
-      "english": "ultrapassaram"
+      "gloss": "ultrapassaram"
     },
     {
       "surface": "משכיות",
-      "english": "⟨as⟩ imaginações"
+      "gloss": "⟨as⟩ imaginações"
     },
     {
       "surface": "לבב",
-      "english": "do coração"
+      "gloss": "do coração"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:01.276450262Z",
-  "model": "glm-4.5"
+  ]
 }

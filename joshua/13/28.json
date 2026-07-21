@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "joshua 13:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 13,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:38:47.203985754Z",
+  "translation": "Esta ⟨é⟩ ⟨a⟩ herança ⟨dos⟩ filhos de Gad segundo suas famílias, ⟨as⟩ cidades e ⟨os⟩ seus vilarejos.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Esta"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "⟨a⟩ herança"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos"
+    },
+    {
+      "surface": "גד",
+      "gloss": "de Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segundo suas famílias"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "⟨as⟩ cidades"
+    },
+    {
+      "surface": "וחצריהם",
+      "gloss": "e ⟨os⟩ seus vilarejos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Gade",
@@ -13,52 +48,6 @@
       "hebrew": "גד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16313,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 16650
-  },
-  "translation": "Esta ⟨é⟩ ⟨a⟩ herança ⟨dos⟩ filhos de Gad segundo suas famílias, ⟨as⟩ cidades e ⟨os⟩ seus vilarejos.",
-  "tokens": [
-    {
-      "surface": "זאת",
-      "english": "Esta"
-    },
-    {
-      "surface": "נחלת",
-      "english": "⟨a⟩ herança"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos"
-    },
-    {
-      "surface": "גד",
-      "english": "de Gad"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "segundo suas famílias"
-    },
-    {
-      "surface": "הערים",
-      "english": "⟨as⟩ cidades"
-    },
-    {
-      "surface": "וחצריהם",
-      "english": "e ⟨os⟩ seus vilarejos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:38:47.203985754Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

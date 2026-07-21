@@ -1,9 +1,111 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "jeremiah 17:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 17,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:20:14.265065137Z",
+  "translation": "E entrarão ⟨את⟩ pelos portões desta cidade, reis e príncipes sentados ⟨את⟩ sobre o trono de Davidd, cavalgando ⟨את⟩ em carros e em cavalos, eles e seus príncipes, homem de Yehudá e habitantes de Yerushalayim; e esta cidade ⟨será⟩ habitada para sempre.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "E entrarão"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "pelos portões"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "da cidade"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "desta"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "reis"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "e príncipes"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "sentados"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "o trono"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "cavalgando"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "em carros"
+    },
+    {
+      "surface": "ובסוסים",
+      "gloss": "e em cavalos"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eles"
+    },
+    {
+      "surface": "ושריהם",
+      "gloss": "e seus príncipes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "e habitantes"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "e esta cidade",
+      "marks": "esta cidade"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a cidade",
+      "marks": "a cidade"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "esta",
+      "marks": "esta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "para sempre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,119 +129,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 677,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18978,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 19655
-  },
-  "translation": "E entrarão ⟨את⟩ pelos portões desta cidade, reis e príncipes sentados ⟨את⟩ sobre o trono de Davidd, cavalgando ⟨את⟩ em carros e em cavalos, eles e seus príncipes, homem de Yehudá e habitantes de Yerushalayim; e esta cidade ⟨será⟩ habitada para sempre.",
-  "tokens": [
-    {
-      "surface": "ובאו",
-      "english": "E entrarão"
-    },
-    {
-      "surface": "בשערי",
-      "english": "pelos portões"
-    },
-    {
-      "surface": "העיר",
-      "english": "da cidade"
-    },
-    {
-      "surface": "הזאת",
-      "english": "desta"
-    },
-    {
-      "surface": "מלכים",
-      "english": "reis"
-    },
-    {
-      "surface": "ושרים",
-      "english": "e príncipes"
-    },
-    {
-      "surface": "ישבים",
-      "english": "sentados"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כסא",
-      "english": "o trono"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "רכבים",
-      "english": "cavalgando"
-    },
-    {
-      "surface": "ברכב",
-      "english": "em carros"
-    },
-    {
-      "surface": "ובסוסים",
-      "english": "e em cavalos"
-    },
-    {
-      "surface": "המה",
-      "english": "eles"
-    },
-    {
-      "surface": "ושריהם",
-      "english": "e seus príncipes"
-    },
-    {
-      "surface": "איש",
-      "english": "homem"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "וישבי",
-      "english": "e habitantes"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    },
-    {
-      "surface": "וישבה",
-      "english": "e esta cidade",
-      "marks": "esta cidade"
-    },
-    {
-      "surface": "העיר",
-      "english": "a cidade",
-      "marks": "a cidade"
-    },
-    {
-      "surface": "הזאת",
-      "english": "esta",
-      "marks": "esta"
-    },
-    {
-      "surface": "לעולם",
-      "english": "para sempre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:20:14.265065137Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

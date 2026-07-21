@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 35:24",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 337,
-    "prompt_tokens": 70318,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70655
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:11.649580292Z",
   "translation": "Julga-me, YHWH meu Elohim, segundo a tua justiça, e que não se alegrem por minha causa.",
   "tokens": [
     {
       "surface": "שפטני",
-      "english": "Julga-me"
+      "gloss": "Julga-me"
     },
     {
       "surface": "כצדקך",
-      "english": "segundo a tua justiça"
+      "gloss": "segundo a tua justiça"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהי",
-      "english": "meu Elohim"
+      "gloss": "meu Elohim"
     },
     {
       "surface": "ואל",
-      "english": "e que"
+      "gloss": "e que"
     },
     {
       "surface": "ישמחו",
-      "english": "não se alegrem"
+      "gloss": "não se alegrem"
     },
     {
       "surface": "לי",
-      "english": "por minha causa"
+      "gloss": "por minha causa"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:11.649580292Z",
-  "model": "glm-4.5"
+  ]
 }

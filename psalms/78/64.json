@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 64,
   "ref": "psalms 78:64",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 78,
+  "verse": 64,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:32:20.807301599Z",
+  "translation": "Seus Kohens ⟨caíram⟩ ⟨pela⟩ espada ⟨e⟩ ⟨suas⟩ viúvas ⟨não⟩ lamentaram.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "Seus Kohens"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "⟨pela⟩ espada"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "⟨caíram⟩"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "⟨e⟩ ⟨suas⟩ viúvas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨não⟩"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "lamentaram"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,48 +44,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 78,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62781,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63168
-  },
-  "translation": "Seus Kohens ⟨caíram⟩ ⟨pela⟩ espada ⟨e⟩ ⟨suas⟩ viúvas ⟨não⟩ lamentaram.",
-  "tokens": [
-    {
-      "surface": "כהניו",
-      "english": "Seus Kohens"
-    },
-    {
-      "surface": "בחרב",
-      "english": "⟨pela⟩ espada"
-    },
-    {
-      "surface": "נפלו",
-      "english": "⟨caíram⟩"
-    },
-    {
-      "surface": "ואלמנתיו",
-      "english": "⟨e⟩ ⟨suas⟩ viúvas"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨não⟩"
-    },
-    {
-      "surface": "תבכינה",
-      "english": "lamentaram"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:32:20.807301599Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

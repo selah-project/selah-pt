@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 115:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 303,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62775,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63078
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:56:13.800698377Z",
   "translation": "Os ídolos deles ⟨são⟩ prata e ouro, obra ⟨das⟩ mãos ⟨de⟩ homem.",
   "tokens": [
     {
       "surface": "עצביהם",
-      "english": "Os ídolos deles",
+      "gloss": "Os ídolos deles",
       "marks": "prata e ouro"
     },
     {
       "surface": "כסף",
-      "english": "prata"
+      "gloss": "prata"
     },
     {
       "surface": "וזהב",
-      "english": "e ouro"
+      "gloss": "e ouro"
     },
     {
       "surface": "מעשה",
-      "english": "obra"
+      "gloss": "obra"
     },
     {
       "surface": "ידי",
-      "english": "mãos",
+      "gloss": "mãos",
       "marks": "obra"
     },
     {
       "surface": "אדם",
-      "english": "homem"
+      "gloss": "homem"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:56:13.800698377Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

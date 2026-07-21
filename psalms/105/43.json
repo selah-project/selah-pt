@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 43,
   "ref": "psalms 105:43",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 313,
-    "prompt_tokens": 70268,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70581
-  },
+  "verse": 43,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:46:34.527416916Z",
   "translation": "E Ele fez sair ⟨o⟩ Seu povo com exultação, e Seus escolhidos com canto de júbilo.",
   "tokens": [
     {
       "surface": "ויוצא",
-      "english": "E Ele fez sair"
+      "gloss": "E Ele fez sair"
     },
     {
       "surface": "עמו",
-      "english": "⟨o⟩ Seu povo"
+      "gloss": "⟨o⟩ Seu povo"
     },
     {
       "surface": "בששון",
-      "english": "com exultação"
+      "gloss": "com exultação"
     },
     {
       "surface": "ברנה",
-      "english": "com canto de júbilo"
+      "gloss": "com canto de júbilo"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Seus escolhidos"
     },
     {
       "surface": "בחיריו",
-      "english": "Seus escolhidos"
+      "gloss": "Seus escolhidos"
     }
-  ],
-  "timestamp": "2026-07-16T17:46:34.527416916Z",
-  "model": "glm-4.5"
+  ]
 }

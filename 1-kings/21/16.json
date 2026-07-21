@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-kings 21:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 21,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:42:55.519278691Z",
+  "translation": "E aconteceu quando Ajáv ⟨ouviu⟩ que Nabote ⟨estava⟩ morto, que Ajáv se levantou para descer ⟨até⟩ a vinha de Nabote, o ⟨homem⟩ de Jezreel, ⟨para⟩ ⟨tomar⟩ ⟨a⟩ posse ⟨dela⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "quando Acabe ⟨ouviu⟩"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajáv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מת",
+      "gloss": "Nabote ⟨estava⟩ morto"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "que"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "que Acabe se levantou"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajáv"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "para descer ⟨até⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinha de Nabote, o ⟨homem⟩ de Jezreel"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "de Jezreel"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "⟨para⟩ ⟨tomar⟩ ⟨a⟩ posse ⟨dela⟩"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "⟨dela⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Acabe",
@@ -20,80 +83,6 @@
       "hebrew": "אחאב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 783,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62920,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63703
-  },
-  "translation": "E aconteceu quando Ajáv ⟨ouviu⟩ que Nabote ⟨estava⟩ morto, que Ajáv se levantou para descer ⟨até⟩ a vinha de Nabote, o ⟨homem⟩ de Jezreel, ⟨para⟩ ⟨tomar⟩ ⟨a⟩ posse ⟨dela⟩.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "כשמע",
-      "english": "quando Acabe ⟨ouviu⟩"
-    },
-    {
-      "surface": "אחאב",
-      "english": "Ajáv"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "מת",
-      "english": "Nabote ⟨estava⟩ morto"
-    },
-    {
-      "surface": "נבות",
-      "english": "que"
-    },
-    {
-      "surface": "ויקם",
-      "english": "que Acabe se levantou"
-    },
-    {
-      "surface": "אחאב",
-      "english": "Ajáv"
-    },
-    {
-      "surface": "לרדת",
-      "english": "para descer ⟨até⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "כרם",
-      "english": "vinha de Nabote, o ⟨homem⟩ de Jezreel"
-    },
-    {
-      "surface": "נבות",
-      "english": "de Jezreel"
-    },
-    {
-      "surface": "היזרעאלי",
-      "english": "⟨para⟩ ⟨tomar⟩ ⟨a⟩ posse ⟨dela⟩"
-    },
-    {
-      "surface": "לרשתו",
-      "english": "⟨dela⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:42:55.519278691Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

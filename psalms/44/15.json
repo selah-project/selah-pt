@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 44:15",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70200,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70674
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:53:57.162801391Z",
   "translation": "You ⟨make⟩ us ⟨a⟩ byword ⟨among⟩ ⟨the⟩ nations, ⟨a⟩ shaking ⟨of the⟩ head ⟨among⟩ ⟨the⟩ peoples.",
   "tokens": [
     {
       "surface": "תשימנו",
-      "english": "You ⟨make⟩ us"
+      "gloss": "You ⟨make⟩ us"
     },
     {
       "surface": "משל",
-      "english": "⟨a⟩ byword"
+      "gloss": "⟨a⟩ byword"
     },
     {
       "surface": "בגוים",
-      "english": "⟨among⟩ ⟨the⟩ nations"
+      "gloss": "⟨among⟩ ⟨the⟩ nations"
     },
     {
       "surface": "מנוד",
-      "english": "⟨a⟩ shaking ⟨of the⟩ head"
+      "gloss": "⟨a⟩ shaking ⟨of the⟩ head"
     },
     {
       "surface": "ראש",
-      "english": "head"
+      "gloss": "head"
     },
     {
       "surface": "בל",
-      "english": "⟨among⟩ ⟨the⟩ peoples"
+      "gloss": "⟨among⟩ ⟨the⟩ peoples"
     },
     {
       "surface": "אמים",
-      "english": "peoples"
+      "gloss": "peoples"
     }
-  ],
-  "timestamp": "2026-06-14T04:53:57.162801391Z",
-  "model": "glm-4.5"
+  ]
 }

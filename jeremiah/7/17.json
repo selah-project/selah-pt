@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "jeremiah 7:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 7,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:10:41.432055183Z",
+  "translation": "Não ⟨estás⟩ vendo o que ⟨eles⟩ estão fazendo nas cidades de Yehudá e nas ruas de Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "האינך",
+      "gloss": "Não ⟨estás⟩ vendo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vendo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "o que"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨eles⟩"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "estão fazendo"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "nas cidades de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "e nas ruas de"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,60 +63,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17542,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 17897
-  },
-  "translation": "Não ⟨estás⟩ vendo o que ⟨eles⟩ estão fazendo nas cidades de Yehudá e nas ruas de Yerushalayim?",
-  "tokens": [
-    {
-      "surface": "האינך",
-      "english": "Não ⟨estás⟩ vendo"
-    },
-    {
-      "surface": "ראה",
-      "english": "vendo"
-    },
-    {
-      "surface": "מה",
-      "english": "o que"
-    },
-    {
-      "surface": "המה",
-      "english": "⟨eles⟩"
-    },
-    {
-      "surface": "עשים",
-      "english": "estão fazendo"
-    },
-    {
-      "surface": "בערי",
-      "english": "nas cidades de"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "ובחצות",
-      "english": "e nas ruas de"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:10:41.432055183Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

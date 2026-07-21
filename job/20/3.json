@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 20:3",
   "book": "job",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 407,
-    "prompt_tokens": 27398,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27805
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:26:13.296451593Z",
   "translation": "Ouço ⟨a⟩ correção ⟨de⟩ minha vergonha, e o espírito ⟨do⟩ meu entendimento me fará responder.",
   "tokens": [
     {
       "surface": "מוסר",
-      "english": "⟨a⟩ correção"
+      "gloss": "⟨a⟩ correção"
     },
     {
       "surface": "כלמתי",
-      "english": "⟨de⟩ minha vergonha"
+      "gloss": "⟨de⟩ minha vergonha"
     },
     {
       "surface": "אשמע",
-      "english": "ouço"
+      "gloss": "ouço"
     },
     {
       "surface": "ורוח",
-      "english": "e o espírito"
+      "gloss": "e o espírito"
     },
     {
       "surface": "מבינתי",
-      "english": "⟨do⟩ meu entendimento"
+      "gloss": "⟨do⟩ meu entendimento"
     },
     {
       "surface": "יענני",
-      "english": "me fará responder"
+      "gloss": "me fará responder"
     }
-  ],
-  "timestamp": "2026-07-17T00:26:13.296451593Z",
-  "model": "glm-4.5"
+  ]
 }

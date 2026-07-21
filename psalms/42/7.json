@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 42:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 42,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:07:37.137302072Z",
+  "translation": "A minha alma está abatida ⟨em⟩ mim, ó Elohim; por ⟨isso⟩ me lembrarei de ti ⟨da⟩ terra do Yardén ⟨e⟩ das alturas do Hermom, ⟨do⟩ monte Mizar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Ó Elohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨em⟩ mim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "A minha alma"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "está abatida"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨isso⟩"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "me lembrarei de ti"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨da⟩ terra"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "do Yardén"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "⟨e⟩ das alturas do Hermom"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "⟨do⟩ monte"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mizar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jordão",
@@ -13,72 +68,6 @@
       "hebrew": "ירדן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 42,
-  "usage": {
-    "completion_tokens": 710,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63387,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 64097
-  },
-  "translation": "A minha alma está abatida ⟨em⟩ mim, ó Elohim; por ⟨isso⟩ me lembrarei de ti ⟨da⟩ terra do Yardén ⟨e⟩ das alturas do Hermom, ⟨do⟩ monte Mizar.",
-  "tokens": [
-    {
-      "surface": "אלהי",
-      "english": "Ó Elohim"
-    },
-    {
-      "surface": "עלי",
-      "english": "⟨em⟩ mim"
-    },
-    {
-      "surface": "נפשי",
-      "english": "A minha alma"
-    },
-    {
-      "surface": "תשתוחח",
-      "english": "está abatida"
-    },
-    {
-      "surface": "על",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "כן",
-      "english": "⟨isso⟩"
-    },
-    {
-      "surface": "אזכרך",
-      "english": "me lembrarei de ti"
-    },
-    {
-      "surface": "מארץ",
-      "english": "⟨da⟩ terra"
-    },
-    {
-      "surface": "ירדן",
-      "english": "do Yardén"
-    },
-    {
-      "surface": "וחרמונים",
-      "english": "⟨e⟩ das alturas do Hermom"
-    },
-    {
-      "surface": "מהר",
-      "english": "⟨do⟩ monte"
-    },
-    {
-      "surface": "מצער",
-      "english": "Mizar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:07:37.137302072Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

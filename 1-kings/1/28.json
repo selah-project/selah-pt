@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "1-kings 1:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 1,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:08:56.570956990Z",
+  "translation": "Então ⟨o⟩ rei Davidd respondeu e disse: 'Chamai ⟨para⟩ mim ⟨a⟩ Bat-Seba.' E ela veio ⟨perante⟩ ⟨o⟩ rei e ficou de ⟨pé⟩ ⟨perante⟩ ⟨o⟩ rei.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Então"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨o⟩ rei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "respondeu e disse"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Chamai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨para⟩ mim"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-Seba"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "E ela veio"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨perante⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨o⟩ rei"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "e ficou de ⟨pé⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨perante⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨o⟩ rei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,80 +76,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 737,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62815,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63552
-  },
-  "translation": "Então ⟨o⟩ rei Davidd respondeu e disse: 'Chamai ⟨para⟩ mim ⟨a⟩ Bat-Seba.' E ela veio ⟨perante⟩ ⟨o⟩ rei e ficou de ⟨pé⟩ ⟨perante⟩ ⟨o⟩ rei.",
-  "tokens": [
-    {
-      "surface": "ויען",
-      "english": "Então"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨o⟩ rei"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "respondeu e disse"
-    },
-    {
-      "surface": "קראו",
-      "english": "Chamai"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨para⟩ mim"
-    },
-    {
-      "surface": "לבת",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "שבע",
-      "english": "Bat-Seba"
-    },
-    {
-      "surface": "ותבא",
-      "english": "E ela veio"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨perante⟩"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨o⟩ rei"
-    },
-    {
-      "surface": "ותעמד",
-      "english": "e ficou de ⟨pé⟩"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨perante⟩"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨o⟩ rei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:08:56.570956990Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

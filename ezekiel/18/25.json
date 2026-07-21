@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "ezekiel 18:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 18,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:21:38.648793016Z",
+  "translation": "E direis: ⟨O⟩ caminho ⟨de⟩ Adonai não ⟨é⟩ justo. Ouvi, pois, ⟨ó⟩ casa de Yisrael: ⟨O⟩ meu caminho não ⟨é⟩ justo? ⟨Ou⟩ não ⟨são⟩ injustos os vossos caminhos?",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "E direis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "justo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "caminho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "⟨de⟩ Adonai"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Ouvi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pois"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨ó⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "הדרכי",
+      "gloss": "⟨O⟩ meu caminho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "justo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨Ou⟩"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "os vossos caminhos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "יתכנו",
+      "gloss": "justos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 617,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18241,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18858
-  },
-  "translation": "E direis: ⟨O⟩ caminho ⟨de⟩ Adonai não ⟨é⟩ justo. Ouvi, pois, ⟨ó⟩ casa de Yisrael: ⟨O⟩ meu caminho não ⟨é⟩ justo? ⟨Ou⟩ não ⟨são⟩ injustos os vossos caminhos?",
-  "tokens": [
-    {
-      "surface": "ואמרתם",
-      "english": "E direis"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "יתכן",
-      "english": "justo"
-    },
-    {
-      "surface": "דרך",
-      "english": "caminho"
-    },
-    {
-      "surface": "אדני",
-      "english": "⟨de⟩ Adonai"
-    },
-    {
-      "surface": "שמעו",
-      "english": "Ouvi"
-    },
-    {
-      "surface": "נא",
-      "english": "pois"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨ó⟩ casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "הדרכי",
-      "english": "⟨O⟩ meu caminho"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "יתכן",
-      "english": "justo"
-    },
-    {
-      "surface": "הלא",
-      "english": "⟨Ou⟩"
-    },
-    {
-      "surface": "דרכיכם",
-      "english": "os vossos caminhos"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "יתכנו",
-      "english": "justos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:21:38.648793016Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

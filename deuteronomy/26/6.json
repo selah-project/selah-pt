@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "deuteronomy 26:6",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 440,
-    "prompt_tokens": 25194,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25634
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:28:19.547507315Z",
   "translation": "e ⟨את⟩ os egípcios nos fizeram mal, e nos afligiram, e puseram sobre nós serviço duro:",
   "tokens": [
     {
       "surface": "וירעו",
-      "english": "e nos fizeram mal"
+      "gloss": "e nos fizeram mal"
     },
     {
       "surface": "אתנו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os egípcios"
     },
     {
       "surface": "המצרים",
-      "english": "os egípcios"
+      "gloss": "os egípcios"
     },
     {
       "surface": "ויענונו",
-      "english": "e nos afligiram"
+      "gloss": "e nos afligiram"
     },
     {
       "surface": "ויתנו",
-      "english": "e puseram"
+      "gloss": "e puseram"
     },
     {
       "surface": "עלינו",
-      "english": "sobre nós"
+      "gloss": "sobre nós"
     },
     {
       "surface": "עבדה",
-      "english": "serviço"
+      "gloss": "serviço"
     },
     {
       "surface": "קשה",
-      "english": "duro"
+      "gloss": "duro"
     }
-  ],
-  "timestamp": "2026-07-16T13:28:19.547507315Z",
-  "model": "glm-4.5"
+  ]
 }

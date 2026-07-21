@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "song-of-songs 3:1",
   "book": "song-of-songs",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 416,
-    "prompt_tokens": 28254,
-    "prompt_tokens_details": {
-      "cached_tokens": 26752
-    },
-    "total_tokens": 28670
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:55:47.742459917Z",
   "translation": "Em minha cama ⟨pelas⟩ noites, busquei aquele a quem minha alma ama; busquei-o, mas não o encontrei.",
   "tokens": [
     {
       "surface": "על",
-      "english": "Em"
+      "gloss": "Em"
     },
     {
       "surface": "משכבי",
-      "english": "minha cama"
+      "gloss": "minha cama"
     },
     {
       "surface": "בלילות",
-      "english": "⟨pelas⟩ noites"
+      "gloss": "⟨pelas⟩ noites"
     },
     {
       "surface": "בקשתי",
-      "english": "busquei"
+      "gloss": "busquei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "aquele a quem minha alma ama"
     },
     {
       "surface": "שאהבה",
-      "english": "aquele a quem minha alma ama"
+      "gloss": "aquele a quem minha alma ama"
     },
     {
       "surface": "נפשי",
-      "english": "minha alma"
+      "gloss": "minha alma"
     },
     {
       "surface": "בקשתיו",
-      "english": "busquei-o"
+      "gloss": "busquei-o"
     },
     {
       "surface": "ולא",
-      "english": "mas não"
+      "gloss": "mas não"
     },
     {
       "surface": "מצאתיו",
-      "english": "o encontrei"
+      "gloss": "o encontrei"
     }
-  ],
-  "timestamp": "2026-07-16T17:55:47.742459917Z",
-  "model": "glm-4.5"
+  ]
 }

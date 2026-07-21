@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 142:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 142,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62940,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63265
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:13:10.035087993Z",
   "translation": "Minha voz ⟨a⟩ YHWH eu clamo, minha voz ⟨a⟩ YHWH eu suplico",
   "tokens": [
     {
       "surface": "קולי",
-      "english": "Minha voz"
+      "gloss": "Minha voz"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אזעק",
-      "english": "eu clamo"
+      "gloss": "eu clamo"
     },
     {
       "surface": "קולי",
-      "english": "minha voz"
+      "gloss": "minha voz"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אתחנן",
-      "english": "eu suplico"
+      "gloss": "eu suplico"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:13:10.035087993Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

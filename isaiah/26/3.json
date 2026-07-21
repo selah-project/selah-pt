@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 26:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 26,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:32:09.088471204Z",
+  "translation": "A mente ⟨que⟩ tu sustentas ⟨את⟩ tu guardarás em Shalom perfeita, Shalom! Porque em ti ⟨ela⟩ ⟨é⟩ confiante.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "A mente"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "⟨que⟩ tu sustentas"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "tu guardarás"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "em Shalom perfeita"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "בך",
+      "gloss": "em ti"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "⟨ela⟩ ⟨é⟩ confiante"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -20,56 +59,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19050,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19521
-  },
-  "translation": "A mente ⟨que⟩ tu sustentas ⟨את⟩ tu guardarás em Shalom perfeita, Shalom! Porque em ti ⟨ela⟩ ⟨é⟩ confiante.",
-  "tokens": [
-    {
-      "surface": "יצר",
-      "english": "A mente"
-    },
-    {
-      "surface": "סמוך",
-      "english": "⟨que⟩ tu sustentas"
-    },
-    {
-      "surface": "תצר",
-      "english": "tu guardarás"
-    },
-    {
-      "surface": "שלום",
-      "english": "em Shalom perfeita"
-    },
-    {
-      "surface": "שלום",
-      "english": "Shalom"
-    },
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "בך",
-      "english": "em ti"
-    },
-    {
-      "surface": "בטוח",
-      "english": "⟨ela⟩ ⟨é⟩ confiante"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:32:09.088471204Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

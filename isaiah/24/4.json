@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 24:4",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26588,
-    "prompt_tokens_details": {
-      "cached_tokens": 25327
-    },
-    "total_tokens": 26996
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:11:23.318166747Z",
   "translation": "Mourned, faded ⟨is⟩ ⟨the⟩ land, languished, faded ⟨is⟩ ⟨the⟩ world, languished ⟨are⟩ ⟨the⟩ high places of ⟨the⟩ people of ⟨the⟩ land",
   "tokens": [
     {
       "surface": "אבלה",
-      "english": "Mourned"
+      "gloss": "Mourned"
     },
     {
       "surface": "נבלה",
-      "english": "faded"
+      "gloss": "faded"
     },
     {
       "surface": "הארץ",
-      "english": "⟨the⟩ land"
+      "gloss": "⟨the⟩ land"
     },
     {
       "surface": "אמללה",
-      "english": "languished"
+      "gloss": "languished"
     },
     {
       "surface": "נבלה",
-      "english": "faded"
+      "gloss": "faded"
     },
     {
       "surface": "תבל",
-      "english": "⟨the⟩ world"
+      "gloss": "⟨the⟩ world"
     },
     {
       "surface": "אמללו",
-      "english": "languished ⟨are⟩"
+      "gloss": "languished ⟨are⟩"
     },
     {
       "surface": "מרום",
-      "english": "⟨the⟩ high places"
+      "gloss": "⟨the⟩ high places"
     },
     {
       "surface": "עם",
-      "english": "of ⟨the⟩ people"
+      "gloss": "of ⟨the⟩ people"
     },
     {
       "surface": "הארץ",
-      "english": "of ⟨the⟩ land"
+      "gloss": "of ⟨the⟩ land"
     }
-  ],
-  "timestamp": "2026-06-13T06:11:23.318166747Z",
-  "model": "glm-4.5"
+  ]
 }

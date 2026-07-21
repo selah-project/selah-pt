@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "isaiah 32:19",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26183,
-    "prompt_tokens_details": {
-      "cached_tokens": 25329
-    },
-    "total_tokens": 26617
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:12:17.244868120Z",
   "translation": "E ⟨o⟩ granizo ⟨descerá⟩ na descida ⟨do⟩ bosque, e ⟨pela⟩ baixeza ⟨a⟩ cidade ⟨será⟩ rebaixada.",
   "tokens": [
     {
       "surface": "וברד",
-      "english": "E ⟨o⟩ granizo ⟨descerá⟩"
+      "gloss": "E ⟨o⟩ granizo ⟨descerá⟩"
     },
     {
       "surface": "ברדת",
-      "english": "na descida"
+      "gloss": "na descida"
     },
     {
       "surface": "היער",
-      "english": "⟨do⟩ bosque"
+      "gloss": "⟨do⟩ bosque"
     },
     {
       "surface": "ובשפלה",
-      "english": "e ⟨pela⟩ baixeza"
+      "gloss": "e ⟨pela⟩ baixeza"
     },
     {
       "surface": "תשפל",
-      "english": "⟨a⟩ cidade ⟨será⟩ rebaixada"
+      "gloss": "⟨a⟩ cidade ⟨será⟩ rebaixada"
     },
     {
       "surface": "העיר",
-      "english": "⟨a⟩ cidade"
+      "gloss": "⟨a⟩ cidade"
     }
-  ],
-  "timestamp": "2026-06-13T06:12:17.244868120Z",
-  "model": "glm-4.5"
+  ]
 }

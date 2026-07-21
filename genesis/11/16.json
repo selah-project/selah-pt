@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 11:16",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 379,
-    "prompt_tokens": 28801,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29180
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:42:45.116537210Z",
   "translation": "Eber viveu trinta e quatro anos e gerou ⟨את⟩ Peleg",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "Eber viveu"
+      "gloss": "Eber viveu"
     },
     {
       "surface": "עבר",
-      "english": "Eber"
+      "gloss": "Eber"
     },
     {
       "surface": "ארבע",
-      "english": "trinta"
+      "gloss": "trinta"
     },
     {
       "surface": "ושלשים",
-      "english": "e quatro"
+      "gloss": "e quatro"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "ויולד",
-      "english": "e gerou"
+      "gloss": "e gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Peleg"
     },
     {
       "surface": "פלג",
-      "english": "Peleg"
+      "gloss": "Peleg"
     }
-  ],
-  "timestamp": "2026-07-16T14:42:45.116537210Z",
-  "model": "glm-4.5"
+  ]
 }

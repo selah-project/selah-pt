@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 34:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 379,
-    "prompt_tokens": 70319,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70698
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:02.202913742Z",
   "translation": "Vinde, filhos, ouvi-me; eu vos ensinarei o temor de YHWH.",
   "tokens": [
     {
       "surface": "לכו",
-      "english": "Vinde"
+      "gloss": "Vinde"
     },
     {
       "surface": "בנים",
-      "english": "filhos"
+      "gloss": "filhos"
     },
     {
       "surface": "שמעו",
-      "english": "ouvi-me"
+      "gloss": "ouvi-me"
     },
     {
       "surface": "לי",
-      "english": "me"
+      "gloss": "me"
     },
     {
       "surface": "יראת",
-      "english": "o temor"
+      "gloss": "o temor"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "אלמדכם",
-      "english": "eu vos ensinarei"
+      "gloss": "eu vos ensinarei"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:02.202913742Z",
-  "model": "glm-4.5"
+  ]
 }

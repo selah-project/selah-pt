@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 74:21",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 657,
-    "prompt_tokens": 70349,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71006
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:57.989227606Z",
   "translation": "Não ⟨deixe⟩ o oprimido retornar envergonhado; ⟨deixem⟩ o pobre e o necessitado louvarem ⟨o⟩ teu ⟨Nome⟩.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "ישב",
-      "english": "⟨deixe⟩ ... retornar"
+      "gloss": "⟨deixe⟩ ... retornar"
     },
     {
       "surface": "דך",
-      "english": "envergonhado"
+      "gloss": "envergonhado"
     },
     {
       "surface": "נכלם",
-      "english": "o oprimido"
+      "gloss": "o oprimido"
     },
     {
       "surface": "עני",
-      "english": "o pobre"
+      "gloss": "o pobre"
     },
     {
       "surface": "ואביון",
-      "english": "e o necessitado"
+      "gloss": "e o necessitado"
     },
     {
       "surface": "יהללו",
-      "english": "⟨deixem⟩ ... louvarem"
+      "gloss": "⟨deixem⟩ ... louvarem"
     },
     {
       "surface": "שמך",
-      "english": "⟨o⟩ teu ⟨Nome⟩"
+      "gloss": "⟨o⟩ teu ⟨Nome⟩"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:57.989227606Z",
-  "model": "glm-4.5"
+  ]
 }

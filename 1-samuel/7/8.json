@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-samuel 7:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 7,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:18:18.921400949Z",
+  "translation": "E os filhos de Yisrael disseram a Shemuel: Não cales por nós de clamar a YHWH nosso Elohim, e ⟨Ele⟩ nos salve da mão dos filisteus.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E disseram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Não"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "cales"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "por nós"
+    },
+    {
+      "surface": "מזעק",
+      "gloss": "de clamar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nosso Elohim"
+    },
+    {
+      "surface": "וישענו",
+      "gloss": "e ⟨Ele⟩ nos salve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "da mão"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dos filisteus"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17173,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 17696
-  },
-  "translation": "E os filhos de Yisrael disseram a Shemuel: Não cales por nós de clamar a YHWH nosso Elohim, e ⟨Ele⟩ nos salve da mão dos filisteus.",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "E disseram"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shemuel"
-    },
-    {
-      "surface": "אל",
-      "english": "Não"
-    },
-    {
-      "surface": "תחרש",
-      "english": "cales"
-    },
-    {
-      "surface": "ממנו",
-      "english": "por nós"
-    },
-    {
-      "surface": "מזעק",
-      "english": "de clamar"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהינו",
-      "english": "nosso Elohim"
-    },
-    {
-      "surface": "וישענו",
-      "english": "e ⟨Ele⟩ nos salve"
-    },
-    {
-      "surface": "מיד",
-      "english": "da mão"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "dos filisteus"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:18:18.921400949Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

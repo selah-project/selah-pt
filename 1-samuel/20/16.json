@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-samuel 20:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:32:01.798528857Z",
+  "translation": "E Yonatan cortou ⟨um⟩ pacto com ⟨a⟩ casa de David, e YHWH ⟨o⟩ exigirá da mão ⟨dos⟩ inimigos de David",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "E Jônatas cortou"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "e YHWH ⟨o⟩ exigirá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "da mão"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dos inimigos"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jônatas",
@@ -27,64 +74,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16596,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17071
-  },
-  "translation": "E Yonatan cortou ⟨um⟩ pacto com ⟨a⟩ casa de David, e YHWH ⟨o⟩ exigirá da mão ⟨dos⟩ inimigos de David",
-  "tokens": [
-    {
-      "surface": "ויכרת",
-      "english": "E Jônatas cortou"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Yonatan"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "בית",
-      "english": "casa"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "ובקש",
-      "english": "e YHWH ⟨o⟩ exigirá"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "מיד",
-      "english": "da mão"
-    },
-    {
-      "surface": "איבי",
-      "english": "dos inimigos"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:32:01.798528857Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

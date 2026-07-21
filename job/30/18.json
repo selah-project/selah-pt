@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 30:18",
   "book": "job",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27404,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27807
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:33:02.351943402Z",
   "translation": "Na abundância de ⟨o⟩ poder, ⟨é⟩ meu vestuário mudado, como ⟨o⟩ colar de ⟨minha⟩ túnica ⟨me⟩ cinge",
   "tokens": [
     {
       "surface": "ברב",
-      "english": "Na abundância de"
+      "gloss": "Na abundância de"
     },
     {
       "surface": "כח",
-      "english": "poder"
+      "gloss": "poder"
     },
     {
       "surface": "יתחפש",
-      "english": "⟨é⟩ meu vestuário mudado"
+      "gloss": "⟨é⟩ meu vestuário mudado"
     },
     {
       "surface": "לבושי",
-      "english": "vestuário"
+      "gloss": "vestuário"
     },
     {
       "surface": "כפי",
-      "english": "como ⟨o⟩ colar"
+      "gloss": "como ⟨o⟩ colar"
     },
     {
       "surface": "כתנתי",
-      "english": "túnica"
+      "gloss": "túnica"
     },
     {
       "surface": "יאזרני",
-      "english": "⟨me⟩ cinge"
+      "gloss": "⟨me⟩ cinge"
     }
-  ],
-  "timestamp": "2026-06-11T23:33:02.351943402Z",
-  "model": "glm-4.5"
+  ]
 }

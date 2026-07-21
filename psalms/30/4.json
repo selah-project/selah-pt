@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 30:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70365,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70828
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:37:40.808305175Z",
   "translation": "YHWH, Tu fizeste subir minha alma do Sheol, fizeste-me viver ⟨para que⟩ não descesse ⟨ao⟩ Bor.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "העלית",
-      "english": "Tu fizeste subir"
+      "gloss": "Tu fizeste subir"
     },
     {
       "surface": "מן",
-      "english": "do"
+      "gloss": "do"
     },
     {
       "surface": "שאול",
-      "english": "Sheol"
+      "gloss": "Sheol"
     },
     {
       "surface": "נפשי",
-      "english": "minha alma"
+      "gloss": "minha alma"
     },
     {
       "surface": "חייתני",
-      "english": "fizeste-me viver"
+      "gloss": "fizeste-me viver"
     },
     {
       "surface": "מיורדי",
-      "english": "⟨para que⟩ não descesse",
+      "gloss": "⟨para que⟩ não descesse",
       "marks": "result of living"
     },
     {
       "surface": "בור",
-      "english": "⟨ao⟩ Bor",
+      "gloss": "⟨ao⟩ Bor",
       "marks": "pit"
     }
-  ],
-  "timestamp": "2026-06-13T06:37:40.808305175Z",
-  "model": "glm-4.5"
+  ]
 }

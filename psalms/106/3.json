@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 106:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62857,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63221
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:50:28.666613102Z",
   "translation": "Felizes ⟨são⟩ ⟨os⟩ que guardam ⟨o⟩ juízo, ⟨e⟩ que fazem ⟨a⟩ justiça em todo ⟨o⟩ tempo",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "Felizes"
+      "gloss": "Felizes"
     },
     {
       "surface": "שמרי",
-      "english": "⟨os⟩ que guardam"
+      "gloss": "⟨os⟩ que guardam"
     },
     {
       "surface": "משפט",
-      "english": "⟨o⟩ juízo"
+      "gloss": "⟨o⟩ juízo"
     },
     {
       "surface": "עשה",
-      "english": "⟨e⟩ que fazem"
+      "gloss": "⟨e⟩ que fazem"
     },
     {
       "surface": "צדקה",
-      "english": "⟨a⟩ justiça"
+      "gloss": "⟨a⟩ justiça"
     },
     {
       "surface": "בכל",
-      "english": "em todo"
+      "gloss": "em todo"
     },
     {
       "surface": "עת",
-      "english": "⟨o⟩ tempo"
+      "gloss": "⟨o⟩ tempo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:50:28.666613102Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

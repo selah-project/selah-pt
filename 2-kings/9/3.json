@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-kings 9:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 9,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:54:37.786993297Z",
+  "translation": "E tomarás ⟨o⟩ frasco ⟨do⟩ óleo e o derramarás sobre ⟨a⟩ sua cabeça e dirás: 'Assim diz YHWH: 'Eu te ungi como rei sobre Yisrael'. E abrirás ⟨a⟩ porta e fugirás e não esperarás.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "E tomarás"
+    },
+    {
+      "surface": "פך",
+      "gloss": "⟨o⟩ frasco"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "⟨do⟩ óleo"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "e o derramarás"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "⟨a⟩ sua cabeça"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e dirás"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "Eu te ungi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "como rei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "E abrirás"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "⟨a⟩ porta"
+    },
+    {
+      "surface": "ונסתה",
+      "gloss": "e fugirás"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "תחכה",
+      "gloss": "esperarás"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,100 +96,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 691,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17938,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18629
-  },
-  "translation": "E tomarás ⟨o⟩ frasco ⟨do⟩ óleo e o derramarás sobre ⟨a⟩ sua cabeça e dirás: 'Assim diz YHWH: 'Eu te ungi como rei sobre Yisrael'. E abrirás ⟨a⟩ porta e fugirás e não esperarás.",
-  "tokens": [
-    {
-      "surface": "ולקחת",
-      "english": "E tomarás"
-    },
-    {
-      "surface": "פך",
-      "english": "⟨o⟩ frasco"
-    },
-    {
-      "surface": "השמן",
-      "english": "⟨do⟩ óleo"
-    },
-    {
-      "surface": "ויצקת",
-      "english": "e o derramarás"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ראשו",
-      "english": "⟨a⟩ sua cabeça"
-    },
-    {
-      "surface": "ואמרת",
-      "english": "e dirás"
-    },
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "משחתיך",
-      "english": "Eu te ungi"
-    },
-    {
-      "surface": "למלך",
-      "english": "como rei"
-    },
-    {
-      "surface": "אל",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ופתחת",
-      "english": "E abrirás"
-    },
-    {
-      "surface": "הדלת",
-      "english": "⟨a⟩ porta"
-    },
-    {
-      "surface": "ונסתה",
-      "english": "e fugirás"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "תחכה",
-      "english": "esperarás"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:54:37.786993297Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

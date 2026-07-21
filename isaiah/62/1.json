@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 62:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 62,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:00:11.298311561Z",
+  "translation": "Por amor a Tzion, não me calarei, e por amor a Yerushalayim, não descansarei, até que ⟨sua⟩ justiça saia como resplendor e ⟨sua⟩ salvação como uma tocha que arde.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Por amor a"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "me calarei"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e por amor a"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "אשקוט",
+      "gloss": "descansarei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até que"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "saia"
+    },
+    {
+      "surface": "כנגה",
+      "gloss": "como resplendor"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "justiça"
+    },
+    {
+      "surface": "וישועתה",
+      "gloss": "e ⟨sua⟩ salvação",
+      "marks": "salvação"
+    },
+    {
+      "surface": "כלפיד",
+      "gloss": "como uma tocha"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "que arde"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sião",
@@ -20,85 +88,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 62,
-  "usage": {
-    "completion_tokens": 569,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19802,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20371
-  },
-  "translation": "Por amor a Tzion, não me calarei, e por amor a Yerushalayim, não descansarei, até que ⟨sua⟩ justiça saia como resplendor e ⟨sua⟩ salvação como uma tocha que arde.",
-  "tokens": [
-    {
-      "surface": "למען",
-      "english": "Por amor a"
-    },
-    {
-      "surface": "ציון",
-      "english": "Tzion"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "אחשה",
-      "english": "me calarei"
-    },
-    {
-      "surface": "ולמען",
-      "english": "e por amor a"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "אשקוט",
-      "english": "descansarei"
-    },
-    {
-      "surface": "עד",
-      "english": "até que"
-    },
-    {
-      "surface": "יצא",
-      "english": "saia"
-    },
-    {
-      "surface": "כנגה",
-      "english": "como resplendor"
-    },
-    {
-      "surface": "צדקה",
-      "english": "justiça"
-    },
-    {
-      "surface": "וישועתה",
-      "english": "e ⟨sua⟩ salvação",
-      "marks": "salvação"
-    },
-    {
-      "surface": "כלפיד",
-      "english": "como uma tocha"
-    },
-    {
-      "surface": "יבער",
-      "english": "que arde"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:00:11.298311561Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

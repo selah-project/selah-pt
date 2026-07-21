@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 86:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70188,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70571
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:04.535641395Z",
   "translation": "Favor-me, ó Adonai, pois ⟨a⟩ ti eu clamarei ⟨por⟩ todo ⟨o⟩ dia",
   "tokens": [
     {
       "surface": "חנני",
-      "english": "Favor-me"
+      "gloss": "Favor-me"
     },
     {
       "surface": "אדני",
-      "english": "ó Adonai"
+      "gloss": "ó Adonai"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "אליך",
-      "english": "⟨a⟩ ti"
+      "gloss": "⟨a⟩ ti"
     },
     {
       "surface": "אקרא",
-      "english": "eu clamarei ⟨por⟩"
+      "gloss": "eu clamarei ⟨por⟩"
     },
     {
       "surface": "כל",
-      "english": "todo ⟨o⟩"
+      "gloss": "todo ⟨o⟩"
     },
     {
       "surface": "היום",
-      "english": "dia"
+      "gloss": "dia"
     }
-  ],
-  "timestamp": "2026-06-13T06:40:04.535641395Z",
-  "model": "glm-4.5"
+  ]
 }

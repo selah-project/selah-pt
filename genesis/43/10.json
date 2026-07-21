@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 43:10",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 375,
-    "prompt_tokens": 28804,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29179
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:01:08.629488058Z",
   "translation": "pois, se não nos tivéssemos demorado, agora já teríamos voltado ⟨esta⟩ segunda vez.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "לולא",
-      "english": "se não"
+      "gloss": "se não"
     },
     {
       "surface": "התמהמהנו",
-      "english": "nos tivéssemos demorado"
+      "gloss": "nos tivéssemos demorado"
     },
     {
       "surface": "כי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "עתה",
-      "english": "agora"
+      "gloss": "agora"
     },
     {
       "surface": "שבנו",
-      "english": "já teríamos voltado"
+      "gloss": "já teríamos voltado"
     },
     {
       "surface": "זה",
-      "english": "⟨esta⟩"
+      "gloss": "⟨esta⟩"
     },
     {
       "surface": "פעמים",
-      "english": "segunda vez"
+      "gloss": "segunda vez"
     }
-  ],
-  "timestamp": "2026-07-16T15:01:08.629488058Z",
-  "model": "glm-4.5"
+  ]
 }

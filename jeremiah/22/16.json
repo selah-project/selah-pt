@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "jeremiah 22:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 22,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:24:05.331517784Z",
+  "translation": "Julgar ⟨o⟩ julgamento do pobre e ⟨do⟩ necessitado — então ⟨é⟩ bom. Não ⟨é⟩ este ⟨o⟩ conhecimento de ⟨me⟩? ⟨declara⟩ o ⟨YHWH⟩.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Julgar"
+    },
+    {
+      "surface": "דין",
+      "gloss": "⟨o⟩ julgamento"
+    },
+    {
+      "surface": "עני",
+      "gloss": "do pobre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e ⟨do⟩ necessitado"
+    },
+    {
+      "surface": "אז",
+      "gloss": "então"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨é⟩ bom"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Não ⟨é⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "este"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "⟨o⟩ conhecimento"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨me⟩",
+      "marks": "נאם"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "⟨declara⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨o⟩ ⟨YHWH⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Senhor",
@@ -13,73 +69,6 @@
       "hebrew": "יהוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17861,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18396
-  },
-  "translation": "Julgar ⟨o⟩ julgamento do pobre e ⟨do⟩ necessitado — então ⟨é⟩ bom. Não ⟨é⟩ este ⟨o⟩ conhecimento de ⟨me⟩? ⟨declara⟩ o ⟨YHWH⟩.",
-  "tokens": [
-    {
-      "surface": "דן",
-      "english": "Julgar"
-    },
-    {
-      "surface": "דין",
-      "english": "⟨o⟩ julgamento"
-    },
-    {
-      "surface": "עני",
-      "english": "do pobre"
-    },
-    {
-      "surface": "ואביון",
-      "english": "e ⟨do⟩ necessitado"
-    },
-    {
-      "surface": "אז",
-      "english": "então"
-    },
-    {
-      "surface": "טוב",
-      "english": "⟨é⟩ bom"
-    },
-    {
-      "surface": "הלוא",
-      "english": "Não ⟨é⟩"
-    },
-    {
-      "surface": "היא",
-      "english": "este"
-    },
-    {
-      "surface": "הדעת",
-      "english": "⟨o⟩ conhecimento"
-    },
-    {
-      "surface": "אתי",
-      "english": "⟨me⟩",
-      "marks": "נאם"
-    },
-    {
-      "surface": "נאם",
-      "english": "⟨declara⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨o⟩ ⟨YHWH⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:24:05.331517784Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

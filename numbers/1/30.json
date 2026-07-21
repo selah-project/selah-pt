@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "numbers 1:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 1,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:08:25.960177130Z",
+  "translation": "Para ⟨os⟩ filhos de Zevulun, ⟨as⟩ suas gerações ⟨pelas⟩ suas famílias ⟨pela⟩ casa de seus pais, ⟨pelo⟩ número ⟨dos⟩ seus nomes, ⟨de⟩ vinte anos ⟨e⟩ acima, todo ⟨o⟩ que sai ⟨para o⟩ exército",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Para ⟨os⟩ filhos"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "de Zevulun"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "⟨as⟩ suas gerações"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨pelas⟩ suas famílias"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨pela⟩ casa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "de seus pais"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "⟨pelo⟩ número"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "⟨dos⟩ seus nomes"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "⟨de⟩ vinte anos"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vinte"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "⟨e⟩ acima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo ⟨o⟩"
+    },
+    {
+      "surface": "י�צא",
+      "gloss": "que sai"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨para o⟩ exército"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zebulom",
@@ -13,84 +80,6 @@
       "hebrew": "זבולן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 915,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18803,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19718
-  },
-  "translation": "Para ⟨os⟩ filhos de Zevulun, ⟨as⟩ suas gerações ⟨pelas⟩ suas famílias ⟨pela⟩ casa de seus pais, ⟨pelo⟩ número ⟨dos⟩ seus nomes, ⟨de⟩ vinte anos ⟨e⟩ acima, todo ⟨o⟩ que sai ⟨para o⟩ exército",
-  "tokens": [
-    {
-      "surface": "לבני",
-      "english": "Para ⟨os⟩ filhos"
-    },
-    {
-      "surface": "זבולן",
-      "english": "de Zevulun"
-    },
-    {
-      "surface": "תולדתם",
-      "english": "⟨as⟩ suas gerações"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "⟨pelas⟩ suas famílias"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨pela⟩ casa"
-    },
-    {
-      "surface": "אבתם",
-      "english": "de seus pais"
-    },
-    {
-      "surface": "במספר",
-      "english": "⟨pelo⟩ número"
-    },
-    {
-      "surface": "שמת",
-      "english": "⟨dos⟩ seus nomes"
-    },
-    {
-      "surface": "מבן",
-      "english": "⟨de⟩ vinte anos"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vinte"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "ומעלה",
-      "english": "⟨e⟩ acima"
-    },
-    {
-      "surface": "כל",
-      "english": "todo ⟨o⟩"
-    },
-    {
-      "surface": "י�צא",
-      "english": "que sai"
-    },
-    {
-      "surface": "צבא",
-      "english": "⟨para o⟩ exército"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:08:25.960177130Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

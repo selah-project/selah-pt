@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 17:25",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 496,
-    "prompt_tokens": 60154,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60650
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:31:05.721675215Z",
   "translation": "um filho insensato é ⟨o⟩ aborrecimento de seu pai, e amargura para ⟨a⟩ que ⟨o⟩ gerou",
   "tokens": [
     {
       "surface": "כעס",
-      "english": "aborrecimento"
+      "gloss": "aborrecimento"
     },
     {
       "surface": "לאביו",
-      "english": "de seu pai"
+      "gloss": "de seu pai"
     },
     {
       "surface": "בן",
-      "english": "um filho"
+      "gloss": "um filho"
     },
     {
       "surface": "כסיל",
-      "english": "insensato"
+      "gloss": "insensato"
     },
     {
       "surface": "וממר",
-      "english": "e amargura"
+      "gloss": "e amargura"
     },
     {
       "surface": "ליולדתו",
-      "english": "para ⟨a⟩ que ⟨o⟩ gerou"
+      "gloss": "para ⟨a⟩ que ⟨o⟩ gerou"
     }
-  ],
-  "timestamp": "2026-07-16T17:31:05.721675215Z",
-  "model": "glm-4.5"
+  ]
 }

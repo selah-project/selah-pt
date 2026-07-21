@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "joshua 4:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 4,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:28:09.651348224Z",
+  "translation": "E aconteceu quando todo ⟨o⟩ povo acabou de atravessar, ⟨que⟩ ⟨o⟩ Aron de YHWH atravessou, e ⟨os⟩ sacerdotes, diante ⟨de⟩ ⟨o⟩ povo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תם",
+      "gloss": "acabou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨o⟩ povo"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "de atravessar"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "⟨que⟩ ⟨o⟩ arca de YHWH atravessou"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨o⟩ Aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "e ⟨os⟩ sacerdotes"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante ⟨de⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨o⟩ povo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "arca",
@@ -13,72 +68,6 @@
       "hebrew": "ארון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16707,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 17242
-  },
-  "translation": "E aconteceu quando todo ⟨o⟩ povo acabou de atravessar, ⟨que⟩ ⟨o⟩ Aron de YHWH atravessou, e ⟨os⟩ sacerdotes, diante ⟨de⟩ ⟨o⟩ povo.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "כאשר",
-      "english": "quando"
-    },
-    {
-      "surface": "תם",
-      "english": "acabou"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨o⟩ povo"
-    },
-    {
-      "surface": "לעבור",
-      "english": "de atravessar"
-    },
-    {
-      "surface": "ויעבר",
-      "english": "⟨que⟩ ⟨o⟩ arca de YHWH atravessou"
-    },
-    {
-      "surface": "ארון",
-      "english": "⟨o⟩ Aron"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "והכהנים",
-      "english": "e ⟨os⟩ sacerdotes"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante ⟨de⟩"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨o⟩ povo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:28:09.651348224Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "2-kings 12:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 12,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:58:04.844096536Z",
+  "translation": "No sétimo ano de Jehu, Jehoash ⟨começou⟩ a reinar; e quarenta anos reinou ⟨em⟩ Jerusalém. E ⟨o⟩ nome de ⟨sua⟩ mãe ⟨era⟩ Zibia ⟨de⟩ Beer-Sheva.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "No ano de"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sétimo"
+    },
+    {
+      "surface": "ליהוא",
+      "gloss": "de Jehu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "começou a reinar"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoash"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e quarenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinou"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Jerusalém"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e nome"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua mãe"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "Zibia"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "de Berseba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beer-Sheva"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Berseba",
@@ -13,80 +76,6 @@
       "hebrew": "באר־שבע"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17341,
-    "prompt_tokens_details": {
-      "cached_tokens": 15784
-    },
-    "total_tokens": 17936
-  },
-  "translation": "No sétimo ano de Jehu, Jehoash ⟨começou⟩ a reinar; e quarenta anos reinou ⟨em⟩ Jerusalém. E ⟨o⟩ nome de ⟨sua⟩ mãe ⟨era⟩ Zibia ⟨de⟩ Beer-Sheva.",
-  "tokens": [
-    {
-      "surface": "בשנת",
-      "english": "No ano de"
-    },
-    {
-      "surface": "שבע",
-      "english": "sétimo"
-    },
-    {
-      "surface": "ליהוא",
-      "english": "de Jehu"
-    },
-    {
-      "surface": "מלך",
-      "english": "começou a reinar"
-    },
-    {
-      "surface": "יהואש",
-      "english": "Jehoash"
-    },
-    {
-      "surface": "וארבעים",
-      "english": "e quarenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinou"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Jerusalém"
-    },
-    {
-      "surface": "ושם",
-      "english": "e nome"
-    },
-    {
-      "surface": "אמו",
-      "english": "sua mãe"
-    },
-    {
-      "surface": "צביה",
-      "english": "Zibia"
-    },
-    {
-      "surface": "מבאר",
-      "english": "de Berseba"
-    },
-    {
-      "surface": "שבע",
-      "english": "Beer-Sheva"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:58:04.844096536Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

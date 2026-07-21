@@ -1,9 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 19:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 19,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:58:53.266281877Z",
+  "translation": "E saiu Lot ⟨para⟩ eles, ⟨ao⟩ portão, e ⟨a⟩ porta fechou ⟨atrás⟩ dele",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E saiu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨para⟩ eles",
+      "marks": "eles"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "⟨ao⟩ portão",
+      "marks": "portão"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "e ⟨a⟩ porta",
+      "marks": "porta"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "fechou"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "⟨atrás⟩ dele"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Ló",
@@ -13,55 +51,6 @@
       "hebrew": "לוט"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21238,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21591
-  },
-  "translation": "E saiu Lot ⟨para⟩ eles, ⟨ao⟩ portão, e ⟨a⟩ porta fechou ⟨atrás⟩ dele",
-  "tokens": [
-    {
-      "surface": "ויצא",
-      "english": "E saiu"
-    },
-    {
-      "surface": "אלהם",
-      "english": "⟨para⟩ eles",
-      "marks": "eles"
-    },
-    {
-      "surface": "לוט",
-      "english": "Lot"
-    },
-    {
-      "surface": "הפתחה",
-      "english": "⟨ao⟩ portão",
-      "marks": "portão"
-    },
-    {
-      "surface": "והדלת",
-      "english": "e ⟨a⟩ porta",
-      "marks": "porta"
-    },
-    {
-      "surface": "סגר",
-      "english": "fechou"
-    },
-    {
-      "surface": "אחריו",
-      "english": "⟨atrás⟩ dele"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:58:53.266281877Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

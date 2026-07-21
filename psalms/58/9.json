@@ -1,29 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 58:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 1061,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63066,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 64127
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:17:33.087479417Z",
   "translation": "como um caramujo que se liquefaz ⟨se⟩ vai ⟨andando⟩, ⟨como⟩ um aborto ⟨que⟩ não ⟨vai⟩ ver ⟨o⟩ sol",
   "tokens": [
     {
       "surface": "כמו",
-      "english": "Como",
+      "gloss": "Como",
       "lemma": 3644,
       "freq": 56,
       "gv": 66,
@@ -33,7 +21,7 @@
     },
     {
       "surface": "שבלול",
-      "english": "caramujo",
+      "gloss": "caramujo",
       "lemma": 7642,
       "freq": 1,
       "gv": 368,
@@ -43,7 +31,7 @@
     },
     {
       "surface": "תמס",
-      "english": "que se liquefaz",
+      "gloss": "que se liquefaz",
       "lemma": 8557,
       "freq": 1,
       "gv": 500,
@@ -53,7 +41,7 @@
     },
     {
       "surface": "יהלך",
-      "english": "⟨se⟩ vai",
+      "gloss": "⟨se⟩ vai",
       "lemma": 1980,
       "freq": 8,
       "gv": 65,
@@ -63,7 +51,7 @@
     },
     {
       "surface": "נפל",
-      "english": "⟨como⟩ um aborto",
+      "gloss": "⟨como⟩ um aborto",
       "lemma": 5309,
       "freq": 42,
       "gv": 160,
@@ -73,7 +61,7 @@
     },
     {
       "surface": "אשת",
-      "english": "⟨que⟩",
+      "gloss": "⟨que⟩",
       "lemma": 802,
       "freq": 98,
       "gv": 701,
@@ -83,7 +71,7 @@
     },
     {
       "surface": "בל",
-      "english": "não",
+      "gloss": "não",
       "lemma": 1077,
       "freq": 67,
       "gv": 32,
@@ -93,7 +81,7 @@
     },
     {
       "surface": "חזו",
-      "english": "⟨vai⟩",
+      "gloss": "⟨vai⟩",
       "lemma": 2372,
       "freq": 9,
       "gv": 21,
@@ -103,7 +91,7 @@
     },
     {
       "surface": "שמש",
-      "english": "⟨o⟩ sol",
+      "gloss": "⟨o⟩ sol",
       "lemma": 8121,
       "freq": 52,
       "gv": 640,
@@ -112,7 +100,8 @@
       "hapax": false
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:17:33.087479417Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "1-samuel 20:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:32:37.125996012Z",
+  "translation": "E o rei sentou-se ⟨no⟩ seu assento, como ⟨por⟩ vez ⟨por⟩ vez, ⟨no⟩ assento ⟨do⟩ muro; e Jonathan levantou-se, e Abner sentou-se ao lado de Shaul, e ⟨o⟩ lugar de Davidd ⟨estava⟩ vazio.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E sentou-se"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "seu assento"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "como ⟨por⟩ vez"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "⟨por⟩ vez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "assento"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "⟨do⟩ muro"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "e levantou-se"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e sentou-se"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ao lado de"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "e ⟨o⟩ lugar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "⟨lugar⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd ⟨estava⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -20,96 +99,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 570,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17359,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17929
-  },
-  "translation": "E o rei sentou-se ⟨no⟩ seu assento, como ⟨por⟩ vez ⟨por⟩ vez, ⟨no⟩ assento ⟨do⟩ muro; e Jonathan levantou-se, e Abner sentou-se ao lado de Shaul, e ⟨o⟩ lugar de Davidd ⟨estava⟩ vazio.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E sentou-se"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "על",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "מושבו",
-      "english": "seu assento"
-    },
-    {
-      "surface": "כפעם",
-      "english": "como ⟨por⟩ vez"
-    },
-    {
-      "surface": "בפעם",
-      "english": "⟨por⟩ vez"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "מושב",
-      "english": "assento"
-    },
-    {
-      "surface": "הקיר",
-      "english": "⟨do⟩ muro"
-    },
-    {
-      "surface": "ויקם",
-      "english": "e levantou-se"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Jonathan"
-    },
-    {
-      "surface": "וישב",
-      "english": "e sentou-se"
-    },
-    {
-      "surface": "אבנר",
-      "english": "Abner"
-    },
-    {
-      "surface": "מצד",
-      "english": "ao lado de"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "ויפקד",
-      "english": "e ⟨o⟩ lugar"
-    },
-    {
-      "surface": "מקום",
-      "english": "⟨lugar⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd ⟨estava⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:32:37.125996012Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

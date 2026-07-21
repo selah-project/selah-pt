@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 42:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 624,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70495,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 71119
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:38:07.477333961Z",
   "translation": "Diariamente ⟨é⟩ constituído ⟨o⟩ chésed de YHWH, e à noite ⟨a⟩ canção ⟨está⟩ comigo, ⟨é⟩ uma oração ⟨ao⟩ Elohim ⟨da⟩ minha vida.",
   "tokens": [
     {
       "surface": "יומם",
-      "english": "Diariamente"
+      "gloss": "Diariamente"
     },
     {
       "surface": "יצוה",
-      "english": "⟨é⟩ constituído"
+      "gloss": "⟨é⟩ constituído"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חסדו",
-      "english": "⟨o⟩ chésed"
+      "gloss": "⟨o⟩ chésed"
     },
     {
       "surface": "ובלילה",
-      "english": "e à noite"
+      "gloss": "e à noite"
     },
     {
       "surface": "שירה",
-      "english": "⟨a⟩ canção"
+      "gloss": "⟨a⟩ canção"
     },
     {
       "surface": "עמי",
-      "english": "⟨está⟩ comigo"
+      "gloss": "⟨está⟩ comigo"
     },
     {
       "surface": "תפלה",
-      "english": "⟨é⟩ uma oração"
+      "gloss": "⟨é⟩ uma oração"
     },
     {
       "surface": "לאל",
-      "english": "⟨ao⟩ Elohim"
+      "gloss": "⟨ao⟩ Elohim"
     },
     {
       "surface": "חיי",
-      "english": "⟨da⟩ minha vida"
+      "gloss": "⟨da⟩ minha vida"
     }
-  ],
-  "timestamp": "2026-06-13T06:38:07.477333961Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 38,
   "ref": "psalms 105:38",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 105,
+  "verse": 38,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:49:47.933059644Z",
+  "translation": "O Mitzráyim se alegrou em ⟨a⟩ sua saída, porque ⟨o⟩ medo deles caiu sobre eles.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Se alegrou"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "O Mitzráyim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "em ⟨a⟩ sua saída"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "caiu"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "⟨o⟩ medo deles"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sobre eles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,52 +48,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 105,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62929,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63238
-  },
-  "translation": "O Mitzráyim se alegrou em ⟨a⟩ sua saída, porque ⟨o⟩ medo deles caiu sobre eles.",
-  "tokens": [
-    {
-      "surface": "שמח",
-      "english": "Se alegrou"
-    },
-    {
-      "surface": "מצרים",
-      "english": "O Mitzráyim"
-    },
-    {
-      "surface": "בצאתם",
-      "english": "em ⟨a⟩ sua saída"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "נפל",
-      "english": "caiu"
-    },
-    {
-      "surface": "פחדם",
-      "english": "⟨o⟩ medo deles"
-    },
-    {
-      "surface": "עליהם",
-      "english": "sobre eles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:49:47.933059644Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

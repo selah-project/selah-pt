@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "2-samuel 2:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 2,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:44:34.920618795Z",
+  "translation": "E ⟨foi⟩ ⟨a⟩ batalha muito severa naquele dia, e Abner e ⟨os⟩ homens de Yisrael foram derrotados ⟨por⟩ ⟨os⟩ servos de Davidd",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "E ⟨foi⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "⟨a⟩ batalha"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "muito severa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "muito"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muito"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "naquele dia"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "naquele dia"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "foram derrotados"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "e ⟨os⟩ homens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨por⟩ ⟨os⟩"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servos"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,80 +83,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17727,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18268
-  },
-  "translation": "E ⟨foi⟩ ⟨a⟩ batalha muito severa naquele dia, e Abner e ⟨os⟩ homens de Yisrael foram derrotados ⟨por⟩ ⟨os⟩ servos de Davidd",
-  "tokens": [
-    {
-      "surface": "ותהי",
-      "english": "E ⟨foi⟩"
-    },
-    {
-      "surface": "המלחמה",
-      "english": "⟨a⟩ batalha"
-    },
-    {
-      "surface": "קשה",
-      "english": "muito severa"
-    },
-    {
-      "surface": "עד",
-      "english": "muito"
-    },
-    {
-      "surface": "מאד",
-      "english": "muito"
-    },
-    {
-      "surface": "ביום",
-      "english": "naquele dia"
-    },
-    {
-      "surface": "ההוא",
-      "english": "naquele dia"
-    },
-    {
-      "surface": "וינגף",
-      "english": "foram derrotados"
-    },
-    {
-      "surface": "אבנר",
-      "english": "Abner"
-    },
-    {
-      "surface": "ואנשי",
-      "english": "e ⟨os⟩ homens"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨por⟩ ⟨os⟩"
-    },
-    {
-      "surface": "עבדי",
-      "english": "servos"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:44:34.920618795Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-samuel 2:12",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 334,
-    "prompt_tokens": 23929,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24263
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:41:40.507413460Z",
   "translation": "E os filhos de Eli ⟨eram⟩ filhos de Belial; não conheceram ⟨את⟩ YHWH.",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "E os filhos"
+      "gloss": "E os filhos"
     },
     {
       "surface": "עלי",
-      "english": "de Eli"
+      "gloss": "de Eli"
     },
     {
       "surface": "בני",
-      "english": "filhos"
+      "gloss": "filhos"
     },
     {
       "surface": "בליעל",
-      "english": "de Belial"
+      "gloss": "de Belial"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "ידעו",
-      "english": "conheceram"
+      "gloss": "conheceram"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T11:41:40.507413460Z",
-  "model": "glm-4.5"
+  ]
 }

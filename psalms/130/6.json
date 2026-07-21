@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 130:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62811,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63249
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:07:12.116187890Z",
   "translation": "Minha alma ⟨está⟩ ⟨para⟩ Adonai ⟨mais do⟩ ⟨os⟩ vigias ⟨da⟩ manhã, vigias ⟨da⟩ manhã",
   "tokens": [
     {
       "surface": "נפשי",
-      "english": "Minha alma"
+      "gloss": "Minha alma"
     },
     {
       "surface": "לאדני",
-      "english": "⟨para⟩ Adonai"
+      "gloss": "⟨para⟩ Adonai"
     },
     {
       "surface": "משמרים",
-      "english": "⟨mais do⟩ ⟨os⟩ vigias"
+      "gloss": "⟨mais do⟩ ⟨os⟩ vigias"
     },
     {
       "surface": "לבקר",
-      "english": "⟨da⟩ manhã"
+      "gloss": "⟨da⟩ manhã"
     },
     {
       "surface": "שמרים",
-      "english": "vigias"
+      "gloss": "vigias"
     },
     {
       "surface": "לבקר",
-      "english": "⟨da⟩ manhã"
+      "gloss": "⟨da⟩ manhã"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:07:12.116187890Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

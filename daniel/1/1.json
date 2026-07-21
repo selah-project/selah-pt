@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "daniel 1:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 1,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:45:57.094035106Z",
+  "translation": "No terceiro ano ⟨do⟩ reinado de Yehoyakim ⟨rei⟩ de Yehudá, veio Nevujadnetzar ⟨rei⟩ de Bavel contra Yerushalaim e ⟨a⟩ cercou.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "No terceiro ano"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "terceiro"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "⟨do⟩ reinado"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨rei⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "בא",
+      "gloss": "veio"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevujadnetzar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨rei⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "contra Yerushalaim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "e ⟨a⟩ cercou"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨a⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nabucodonosor",
@@ -13,76 +72,6 @@
       "hebrew": "נבוכדנאצר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 524,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17705,
-    "prompt_tokens_details": {
-      "cached_tokens": 16111
-    },
-    "total_tokens": 18229
-  },
-  "translation": "No terceiro ano ⟨do⟩ reinado de Yehoyakim ⟨rei⟩ de Yehudá, veio Nevujadnetzar ⟨rei⟩ de Bavel contra Yerushalaim e ⟨a⟩ cercou.",
-  "tokens": [
-    {
-      "surface": "בשנת",
-      "english": "No terceiro ano"
-    },
-    {
-      "surface": "שלוש",
-      "english": "terceiro"
-    },
-    {
-      "surface": "למלכות",
-      "english": "⟨do⟩ reinado"
-    },
-    {
-      "surface": "יהויקים",
-      "english": "Yehoyakim"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨rei⟩"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "בא",
-      "english": "veio"
-    },
-    {
-      "surface": "נבוכדנאצר",
-      "english": "Nevujadnetzar"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨rei⟩"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "contra Yerushalaim"
-    },
-    {
-      "surface": "ויצר",
-      "english": "e ⟨a⟩ cercou"
-    },
-    {
-      "surface": "עליה",
-      "english": "⟨a⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:45:57.094035106Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

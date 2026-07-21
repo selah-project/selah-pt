@@ -1,9 +1,97 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "1-chronicles 7:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 7,
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:40:26.424895764Z",
+  "translation": "e ⟨pelas⟩ mãos ⟨dos⟩ filhos de Menashé ⟨estavam⟩ Bet-Shean e suas vilas, Taanaque e suas vilas, Megido e suas vilas, Dor e suas vilas; nestas habitaram ⟨os⟩ filhos de Yosef, filho de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E ⟨pelas⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mãos ⟨dos⟩",
+      "marks": "filhos de Manassés"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שאן",
+      "gloss": "Shean"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "e suas vilas",
+      "marks": "Bet-Shean"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanaque"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "e suas vilas",
+      "marks": "Taanaque"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megido"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "e suas vilas",
+      "marks": "Megido"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "e suas vilas",
+      "marks": "Dor"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "nestas"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "habitaram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Manassés",
@@ -27,105 +115,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 684,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58222,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58906
-  },
-  "translation": "e ⟨pelas⟩ mãos ⟨dos⟩ filhos de Menashé ⟨estavam⟩ Bet-Shean e suas vilas, Taanaque e suas vilas, Megido e suas vilas, Dor e suas vilas; nestas habitaram ⟨os⟩ filhos de Yosef, filho de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "E ⟨pelas⟩"
-    },
-    {
-      "surface": "ידי",
-      "english": "mãos ⟨dos⟩",
-      "marks": "filhos de Manassés"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "מנשה",
-      "english": "Menashé"
-    },
-    {
-      "surface": "בית",
-      "english": "Bet-"
-    },
-    {
-      "surface": "שאן",
-      "english": "Shean"
-    },
-    {
-      "surface": "ובנתיה",
-      "english": "e suas vilas",
-      "marks": "Bet-Shean"
-    },
-    {
-      "surface": "תענך",
-      "english": "Taanaque"
-    },
-    {
-      "surface": "ובנתיה",
-      "english": "e suas vilas",
-      "marks": "Taanaque"
-    },
-    {
-      "surface": "מגדו",
-      "english": "Megido"
-    },
-    {
-      "surface": "ובנותיה",
-      "english": "e suas vilas",
-      "marks": "Megido"
-    },
-    {
-      "surface": "דור",
-      "english": "Dor"
-    },
-    {
-      "surface": "ובנותיה",
-      "english": "e suas vilas",
-      "marks": "Dor"
-    },
-    {
-      "surface": "באלה",
-      "english": "nestas"
-    },
-    {
-      "surface": "ישבו",
-      "english": "habitaram"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:40:26.424895764Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

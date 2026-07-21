@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 10:1",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 400,
-    "prompt_tokens": 60542,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60942
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:29:22.560295752Z",
   "translation": "Provérbios de Shlomó: um filho sábio alegra ⟨o⟩ pai, mas um filho tolo é ⟨a⟩ tristeza de sua mãe",
   "tokens": [
     {
       "surface": "משלי",
-      "english": "Provérbios"
+      "gloss": "Provérbios"
     },
     {
       "surface": "שלמה",
-      "english": "de Shlomó"
+      "gloss": "de Shlomó"
     },
     {
       "surface": "בן",
-      "english": "um filho"
+      "gloss": "um filho"
     },
     {
       "surface": "חכם",
-      "english": "sábio"
+      "gloss": "sábio"
     },
     {
       "surface": "ישמח",
-      "english": "alegra"
+      "gloss": "alegra"
     },
     {
       "surface": "אב",
-      "english": "⟨o⟩ pai"
+      "gloss": "⟨o⟩ pai"
     },
     {
       "surface": "ובן",
-      "english": "mas um filho"
+      "gloss": "mas um filho"
     },
     {
       "surface": "כסיל",
-      "english": "tolo"
+      "gloss": "tolo"
     },
     {
       "surface": "תוגת",
-      "english": "é ⟨a⟩ tristeza"
+      "gloss": "é ⟨a⟩ tristeza"
     },
     {
       "surface": "אמו",
-      "english": "de sua mãe"
+      "gloss": "de sua mãe"
     }
-  ],
-  "timestamp": "2026-07-16T17:29:22.560295752Z",
-  "model": "glm-4.5"
+  ]
 }

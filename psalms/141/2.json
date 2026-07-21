@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 141:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 141,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:12:43.174200206Z",
+  "translation": "⟨Que⟩ minha oração ⟨seja⟩ posta ⟨como⟩ Ketoret ⟨diante⟩ de ti, ⟨e⟩ o erguer ⟨de⟩ minhas mãos ⟨como⟩ a oferta da tarde",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "⟨Que⟩ minha oração ⟨seja⟩ posta"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "minha oração"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "⟨como⟩ Ketoret"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "⟨diante⟩ de ti"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "⟨e⟩ o erguer"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "⟨de⟩ minhas mãos"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "⟨como⟩ a oferta"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "da tarde"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "incenso",
@@ -13,56 +52,6 @@
       "hebrew": "קטרת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 141,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63015,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63484
-  },
-  "translation": "⟨Que⟩ minha oração ⟨seja⟩ posta ⟨como⟩ Ketoret ⟨diante⟩ de ti, ⟨e⟩ o erguer ⟨de⟩ minhas mãos ⟨como⟩ a oferta da tarde",
-  "tokens": [
-    {
-      "surface": "תכון",
-      "english": "⟨Que⟩ minha oração ⟨seja⟩ posta"
-    },
-    {
-      "surface": "תפלתי",
-      "english": "minha oração"
-    },
-    {
-      "surface": "קטרת",
-      "english": "⟨como⟩ Ketoret"
-    },
-    {
-      "surface": "לפניך",
-      "english": "⟨diante⟩ de ti"
-    },
-    {
-      "surface": "משאת",
-      "english": "⟨e⟩ o erguer"
-    },
-    {
-      "surface": "כפי",
-      "english": "⟨de⟩ minhas mãos"
-    },
-    {
-      "surface": "מנחת",
-      "english": "⟨como⟩ a oferta"
-    },
-    {
-      "surface": "ערב",
-      "english": "da tarde"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:12:43.174200206Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

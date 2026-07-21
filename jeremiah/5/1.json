@@ -1,9 +1,111 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 5:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 5,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:08:24.224460825Z",
+  "translation": "Correi pelas ruas ⟨de⟩ Yerushalayim e vede agora e conhecei e buscai ⟨em⟩ suas praças ⟨largas⟩, se encontrardes ⟨um⟩ homem, se ⟨há⟩ alguém que faça ⟨o⟩ juízo, ⟨um⟩ que busque ⟨a⟩ fidelidade; e perdoarei a ela.",
+  "tokens": [
+    {
+      "surface": "שוטטו",
+      "gloss": "Correi",
+      "marks": "apelo imperativo para percorrer"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "pelas ruas",
+      "marks": "preposição 'em' com 'ruas'"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim",
+      "marks": "nome próprio da cidade"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "e vede",
+      "marks": "imperativo para ver"
+    },
+    {
+      "surface": "נא",
+      "gloss": "agora",
+      "marks": "partícula de súplica\/enfatização"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "e conhecei",
+      "marks": "imperativo para conhecer"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "e buscai",
+      "marks": "imperativo para buscar"
+    },
+    {
+      "surface": "ברחובותיה",
+      "gloss": "em suas praças ⟨largas⟩",
+      "marks": "preposição 'em' com 'suas praças largas'"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se",
+      "marks": "partícula condicional"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "encontrardes",
+      "marks": "verbo 'achar' no futuro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨um⟩ homem",
+      "marks": "substantivo 'homem' com artigo indefinido implícito"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se",
+      "marks": "partícula condicional"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨há⟩",
+      "marks": "verbo de existência"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "que faça",
+      "marks": "verbo 'fazer'"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨o⟩ juízo",
+      "marks": "substantivo 'juízo\/justiça' com artigo definido implícito"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "⟨um⟩ que busque",
+      "marks": "particípio ativo 'buscando'"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "⟨a⟩ fidelidade",
+      "marks": "substantivo 'fidelidade\/fé' com artigo definido implícito"
+    },
+    {
+      "surface": "ואסלח",
+      "gloss": "e perdoarei",
+      "marks": "verbo 'perdoar' no futuro"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a ela",
+      "marks": "pronome feminino 'a ela' referindo-se a Jerusalém"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,119 +115,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 1231,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18532,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 19763
-  },
-  "translation": "Correi pelas ruas ⟨de⟩ Yerushalayim e vede agora e conhecei e buscai ⟨em⟩ suas praças ⟨largas⟩, se encontrardes ⟨um⟩ homem, se ⟨há⟩ alguém que faça ⟨o⟩ juízo, ⟨um⟩ que busque ⟨a⟩ fidelidade; e perdoarei a ela.",
-  "tokens": [
-    {
-      "surface": "שוטטו",
-      "english": "Correi",
-      "marks": "apelo imperativo para percorrer"
-    },
-    {
-      "surface": "בחוצות",
-      "english": "pelas ruas",
-      "marks": "preposição 'em' com 'ruas'"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim",
-      "marks": "nome próprio da cidade"
-    },
-    {
-      "surface": "וראו",
-      "english": "e vede",
-      "marks": "imperativo para ver"
-    },
-    {
-      "surface": "נא",
-      "english": "agora",
-      "marks": "partícula de súplica\/enfatização"
-    },
-    {
-      "surface": "ודעו",
-      "english": "e conhecei",
-      "marks": "imperativo para conhecer"
-    },
-    {
-      "surface": "ובקשו",
-      "english": "e buscai",
-      "marks": "imperativo para buscar"
-    },
-    {
-      "surface": "ברחובותיה",
-      "english": "em suas praças ⟨largas⟩",
-      "marks": "preposição 'em' com 'suas praças largas'"
-    },
-    {
-      "surface": "אם",
-      "english": "se",
-      "marks": "partícula condicional"
-    },
-    {
-      "surface": "תמצאו",
-      "english": "encontrardes",
-      "marks": "verbo 'achar' no futuro"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨um⟩ homem",
-      "marks": "substantivo 'homem' com artigo indefinido implícito"
-    },
-    {
-      "surface": "אם",
-      "english": "se",
-      "marks": "partícula condicional"
-    },
-    {
-      "surface": "יש",
-      "english": "⟨há⟩",
-      "marks": "verbo de existência"
-    },
-    {
-      "surface": "עשה",
-      "english": "que faça",
-      "marks": "verbo 'fazer'"
-    },
-    {
-      "surface": "משפט",
-      "english": "⟨o⟩ juízo",
-      "marks": "substantivo 'juízo\/justiça' com artigo definido implícito"
-    },
-    {
-      "surface": "מבקש",
-      "english": "⟨um⟩ que busque",
-      "marks": "particípio ativo 'buscando'"
-    },
-    {
-      "surface": "אמונה",
-      "english": "⟨a⟩ fidelidade",
-      "marks": "substantivo 'fidelidade\/fé' com artigo definido implícito"
-    },
-    {
-      "surface": "ואסלח",
-      "english": "e perdoarei",
-      "marks": "verbo 'perdoar' no futuro"
-    },
-    {
-      "surface": "לה",
-      "english": "a ela",
-      "marks": "pronome feminino 'a ela' referindo-se a Jerusalém"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:08:24.224460825Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

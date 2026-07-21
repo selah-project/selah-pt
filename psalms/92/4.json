@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 92:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62910,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63350
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:41:38.612403385Z",
   "translation": "Sobre ⟨o⟩ asor ⟨את⟩ e sobre ⟨o⟩ nevel ⟨את⟩, sobre ⟨o⟩ higayon com ⟨o⟩ kinor",
   "tokens": [
     {
       "surface": "עלי",
-      "english": "Sobre"
+      "gloss": "Sobre"
     },
     {
       "surface": "עשור",
-      "english": "⟨o⟩ asor",
+      "gloss": "⟨o⟩ asor",
       "marks": "asor"
     },
     {
       "surface": "ועלי",
-      "english": "e sobre"
+      "gloss": "e sobre"
     },
     {
       "surface": "נבל",
-      "english": "⟨o⟩ nevel",
+      "gloss": "⟨o⟩ nevel",
       "marks": "nevel"
     },
     {
       "surface": "עלי",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הגיון",
-      "english": "⟨o⟩ higayon",
+      "gloss": "⟨o⟩ higayon",
       "marks": "higayon"
     },
     {
       "surface": "בכנור",
-      "english": "com ⟨o⟩ kinor",
+      "gloss": "com ⟨o⟩ kinor",
       "marks": "kinor"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:41:38.612403385Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

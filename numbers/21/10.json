@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 21:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 21,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:32:29.091550893Z",
+  "translation": "E ⟨os⟩ filhos de Yisrael partirem, e acamparam em Oboth",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Partirem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e acamparam"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "em Oboth"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,44 +40,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 215,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17768,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 17983
-  },
-  "translation": "E ⟨os⟩ filhos de Yisrael partirem, e acamparam em Oboth",
-  "tokens": [
-    {
-      "surface": "ויסעו",
-      "english": "Partirem"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויחנו",
-      "english": "e acamparam"
-    },
-    {
-      "surface": "באבת",
-      "english": "em Oboth"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:32:29.091550893Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 80:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 510,
-    "prompt_tokens": 70344,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70854
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:39.265727349Z",
   "translation": "Tu a enviaste ⟨a⟩ tua videira até ⟨o⟩ mar, e ⟨as⟩ suas renovéis até ⟨o⟩ rio.",
   "tokens": [
     {
       "surface": "תשלח",
-      "english": "Tu a enviaste"
+      "gloss": "Tu a enviaste"
     },
     {
       "surface": "קצירה",
-      "english": "⟨a⟩ tua videira"
+      "gloss": "⟨a⟩ tua videira"
     },
     {
       "surface": "עד",
-      "english": "até"
+      "gloss": "até"
     },
     {
       "surface": "ים",
-      "english": "⟨o⟩ mar"
+      "gloss": "⟨o⟩ mar"
     },
     {
       "surface": "ואל",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "נהר",
-      "english": "⟨o⟩ rio"
+      "gloss": "⟨o⟩ rio"
     },
     {
       "surface": "יונקותיה",
-      "english": "⟨as⟩ suas renovéis"
+      "gloss": "⟨as⟩ suas renovéis"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:39.265727349Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "joshua 21:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 21,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:46:09.067591810Z",
+  "translation": "E ⟨para⟩ as famílias dos filhos de Quate, ⟨os⟩ levitas que restaram dos filhos de Quate, ⟨e foram⟩ cidades ⟨do⟩ seu lote da tribo de Efráyim",
+  "tokens": [
+    {
+      "surface": "ולמשפחות",
+      "gloss": "E ⟨para⟩ as famílias"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "de Quate"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "⟨os⟩ levitas"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "que restaram"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "de Quate"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨e foram⟩"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cidades"
+    },
+    {
+      "surface": "גורלם",
+      "gloss": "⟨do⟩ seu lote"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "da tribo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,72 +68,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16776,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 17285
-  },
-  "translation": "E ⟨para⟩ as famílias dos filhos de Quate, ⟨os⟩ levitas que restaram dos filhos de Quate, ⟨e foram⟩ cidades ⟨do⟩ seu lote da tribo de Efráyim",
-  "tokens": [
-    {
-      "surface": "ולמשפחות",
-      "english": "E ⟨para⟩ as famílias"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "קהת",
-      "english": "de Quate"
-    },
-    {
-      "surface": "הלוים",
-      "english": "⟨os⟩ levitas"
-    },
-    {
-      "surface": "הנותרים",
-      "english": "que restaram"
-    },
-    {
-      "surface": "מבני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "קהת",
-      "english": "de Quate"
-    },
-    {
-      "surface": "ויהי",
-      "english": "⟨e foram⟩"
-    },
-    {
-      "surface": "ערי",
-      "english": "cidades"
-    },
-    {
-      "surface": "גורלם",
-      "english": "⟨do⟩ seu lote"
-    },
-    {
-      "surface": "ממטה",
-      "english": "da tribo"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:46:09.067591810Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

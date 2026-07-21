@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "psalms 89:40",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 89,
+  "verse": 40,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:39:45.057586407Z",
+  "translation": "Tu ⟨tens⟩ rejeitado ⟨את⟩ Brit do teu servo; ⟨tens⟩ profanado ⟨את⟩ sua coroa até à terra ⟨lançando⟩-a",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "⟨Tens⟩ rejeitado"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Brit"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "do teu servo"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "⟨tens⟩ profanado"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "até à terra ⟨lançando⟩-a"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sua coroa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "o pacto",
@@ -13,48 +44,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 89,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62787,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63186
-  },
-  "translation": "Tu ⟨tens⟩ rejeitado ⟨את⟩ Brit do teu servo; ⟨tens⟩ profanado ⟨את⟩ sua coroa até à terra ⟨lançando⟩-a",
-  "tokens": [
-    {
-      "surface": "נארתה",
-      "english": "⟨Tens⟩ rejeitado"
-    },
-    {
-      "surface": "ברית",
-      "english": "Brit"
-    },
-    {
-      "surface": "עבדך",
-      "english": "do teu servo"
-    },
-    {
-      "surface": "חללת",
-      "english": "⟨tens⟩ profanado"
-    },
-    {
-      "surface": "לארץ",
-      "english": "até à terra ⟨lançando⟩-a"
-    },
-    {
-      "surface": "נזרו",
-      "english": "sua coroa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:39:45.057586407Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

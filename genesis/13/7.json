@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "genesis 13:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 13,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:53:35.728336938Z",
+  "translation": "E aconteceu uma contenda ⟨entre⟩ os pastores ⟨de⟩ ⟨o⟩ ⟨gado⟩ ⟨de⟩ Avram e ⟨entre⟩ os pastores ⟨de⟩ ⟨o⟩ ⟨gado⟩ ⟨de⟩ Lot; e ⟨o⟩ Cananeu e ⟨o⟩ Ferezeu estavam então habitando na terra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "uma contenda"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨entre⟩"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "os pastores"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "⟨o⟩ ⟨gado⟩ ⟨de⟩ Avram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e ⟨entre⟩"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "os pastores"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "⟨o⟩ ⟨gado⟩ ⟨de⟩ Lot"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "e ⟨o⟩ Cananeu"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e ⟨o⟩ Ferezeu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "então"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "estavam habitando"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Ló",
@@ -13,84 +80,6 @@
       "hebrew": "לוט"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 661,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21998,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22659
-  },
-  "translation": "E aconteceu uma contenda ⟨entre⟩ os pastores ⟨de⟩ ⟨o⟩ ⟨gado⟩ ⟨de⟩ Avram e ⟨entre⟩ os pastores ⟨de⟩ ⟨o⟩ ⟨gado⟩ ⟨de⟩ Lot; e ⟨o⟩ Cananeu e ⟨o⟩ Ferezeu estavam então habitando na terra.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "ריב",
-      "english": "uma contenda"
-    },
-    {
-      "surface": "בין",
-      "english": "⟨entre⟩"
-    },
-    {
-      "surface": "רעי",
-      "english": "os pastores"
-    },
-    {
-      "surface": "מקנה",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "אברם",
-      "english": "⟨o⟩ ⟨gado⟩ ⟨de⟩ Avram"
-    },
-    {
-      "surface": "ובין",
-      "english": "e ⟨entre⟩"
-    },
-    {
-      "surface": "רעי",
-      "english": "os pastores"
-    },
-    {
-      "surface": "מקנה",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "לוט",
-      "english": "⟨o⟩ ⟨gado⟩ ⟨de⟩ Lot"
-    },
-    {
-      "surface": "והכנעני",
-      "english": "e ⟨o⟩ Cananeu"
-    },
-    {
-      "surface": "והפרזי",
-      "english": "e ⟨o⟩ Ferezeu"
-    },
-    {
-      "surface": "אז",
-      "english": "então"
-    },
-    {
-      "surface": "ישב",
-      "english": "estavam habitando"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:53:35.728336938Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 144:15",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 427,
-    "prompt_tokens": 70316,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70743
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:52:42.810293037Z",
   "translation": "Feliz ⟨é⟩ o povo para quem ⟨é⟩ assim; feliz ⟨é⟩ o povo cujo Elohim ⟨é⟩ YHWH",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "Feliz"
+      "gloss": "Feliz"
     },
     {
       "surface": "העם",
-      "english": "o povo"
+      "gloss": "o povo"
     },
     {
       "surface": "שככה",
-      "english": "para quem ⟨é⟩ assim"
+      "gloss": "para quem ⟨é⟩ assim"
     },
     {
       "surface": "לו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אשרי",
-      "english": "feliz"
+      "gloss": "feliz"
     },
     {
       "surface": "העם",
-      "english": "o povo"
+      "gloss": "o povo"
     },
     {
       "surface": "שיהוה",
-      "english": "cujo Elohim ⟨é⟩ YHWH"
+      "gloss": "cujo Elohim ⟨é⟩ YHWH"
     },
     {
       "surface": "אלהיו",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T17:52:42.810293037Z",
-  "model": "glm-4.5"
+  ]
 }

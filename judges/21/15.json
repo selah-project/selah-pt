@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "judges 21:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 21,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:12:09.825079875Z",
+  "translation": "E ⟨o⟩ povo se arrependeu por Benjamim, porque YHWH fizera ⟨um⟩ abismo nas tribos de Yisrael.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "E ⟨o⟩ povo"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "se arrependeu"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "por Benjamim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fizera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "⟨um⟩ abismo"
+    },
+    {
+      "surface": "בשבטי",
+      "gloss": "nas tribos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16318,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 16661
-  },
-  "translation": "E ⟨o⟩ povo se arrependeu por Benjamim, porque YHWH fizera ⟨um⟩ abismo nas tribos de Yisrael.",
-  "tokens": [
-    {
-      "surface": "והעם",
-      "english": "E ⟨o⟩ povo"
-    },
-    {
-      "surface": "נחם",
-      "english": "se arrependeu"
-    },
-    {
-      "surface": "לבנימן",
-      "english": "por Benjamim"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "עשה",
-      "english": "fizera"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "פרץ",
-      "english": "⟨um⟩ abismo"
-    },
-    {
-      "surface": "בשבטי",
-      "english": "nas tribos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:12:09.825079875Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

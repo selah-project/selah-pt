@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 9:18",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 467,
-    "prompt_tokens": 70337,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70804
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:34:13.582666913Z",
   "translation": "Os ímpios ⟨serão⟩ retornados à Sheol, todas as nações, ⟨as⟩ esquecidas de Elohim",
   "tokens": [
     {
       "surface": "ישובו",
-      "english": "serão retornados"
+      "gloss": "serão retornados"
     },
     {
       "surface": "רשעים",
-      "english": "os ímpios"
+      "gloss": "os ímpios"
     },
     {
       "surface": "לשאולה",
-      "english": "à Sheol"
+      "gloss": "à Sheol"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "גוים",
-      "english": "as nações"
+      "gloss": "as nações"
     },
     {
       "surface": "שכחי",
-      "english": "⟨as⟩ esquecidas"
+      "gloss": "⟨as⟩ esquecidas"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T17:34:13.582666913Z",
-  "model": "glm-4.5"
+  ]
 }

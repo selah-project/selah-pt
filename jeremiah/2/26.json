@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "jeremiah 2:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 2,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:05:24.170479854Z",
+  "translation": "Com ⟨o⟩ ladrão ⟨que⟩ é envergonhado quando ⟨é⟩ encontrado, assim ⟨a⟩ casa de Yisrael ⟨foi⟩ envergonhada; eles, seus reis, seus príncipes, e seus sacerdotes, e seus profetas.",
+  "tokens": [
+    {
+      "surface": "כבשת",
+      "gloss": "Com ⟨o⟩"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ladrão"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "⟨é⟩ encontrado"
+    },
+    {
+      "surface": "כן",
+      "gloss": "assim"
+    },
+    {
+      "surface": "הבישו",
+      "gloss": "⟨a⟩ casa de Israel ⟨foi⟩ envergonhada"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eles"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "seus reis"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "seus príncipes"
+    },
+    {
+      "surface": "וכהניהם",
+      "gloss": "e seus sacerdotes"
+    },
+    {
+      "surface": "ונביאיהם",
+      "gloss": "e seus profetas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 623,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18048,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18671
-  },
-  "translation": "Com ⟨o⟩ ladrão ⟨que⟩ é envergonhado quando ⟨é⟩ encontrado, assim ⟨a⟩ casa de Yisrael ⟨foi⟩ envergonhada; eles, seus reis, seus príncipes, e seus sacerdotes, e seus profetas.",
-  "tokens": [
-    {
-      "surface": "כבשת",
-      "english": "Com ⟨o⟩"
-    },
-    {
-      "surface": "גנב",
-      "english": "ladrão"
-    },
-    {
-      "surface": "כי",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "ימצא",
-      "english": "⟨é⟩ encontrado"
-    },
-    {
-      "surface": "כן",
-      "english": "assim"
-    },
-    {
-      "surface": "הבישו",
-      "english": "⟨a⟩ casa de Israel ⟨foi⟩ envergonhada"
-    },
-    {
-      "surface": "בית",
-      "english": "casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "המה",
-      "english": "eles"
-    },
-    {
-      "surface": "מלכיהם",
-      "english": "seus reis"
-    },
-    {
-      "surface": "שריהם",
-      "english": "seus príncipes"
-    },
-    {
-      "surface": "וכהניהם",
-      "english": "e seus sacerdotes"
-    },
-    {
-      "surface": "ונביאיהם",
-      "english": "e seus profetas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:05:24.170479854Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

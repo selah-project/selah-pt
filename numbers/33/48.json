@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 48,
   "ref": "numbers 33:48",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 33,
+  "verse": 48,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:46:32.607935174Z",
+  "translation": "E partiram dos montes de Abarim e acamparam nas estepes de Moav ⟨junto⟩ ⟨ao⟩ Yardén ⟨perto de⟩ Yerijó.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "E partiram"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "dos montes"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "de Abarim"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e acamparam"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "nas estepes"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨junto⟩",
+      "marks": "ao Jordão"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "⟨ao⟩ Yardén"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "⟨perto de⟩ Yerijó"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -27,61 +71,6 @@
       "hebrew": "יריחו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18140,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18470
-  },
-  "translation": "E partiram dos montes de Abarim e acamparam nas estepes de Moav ⟨junto⟩ ⟨ao⟩ Yardén ⟨perto de⟩ Yerijó.",
-  "tokens": [
-    {
-      "surface": "ויסעו",
-      "english": "E partiram"
-    },
-    {
-      "surface": "מהרי",
-      "english": "dos montes"
-    },
-    {
-      "surface": "העברים",
-      "english": "de Abarim"
-    },
-    {
-      "surface": "ויחנו",
-      "english": "e acamparam"
-    },
-    {
-      "surface": "בערבת",
-      "english": "nas estepes"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "על",
-      "english": "⟨junto⟩",
-      "marks": "ao Jordão"
-    },
-    {
-      "surface": "ירדן",
-      "english": "⟨ao⟩ Yardén"
-    },
-    {
-      "surface": "ירחו",
-      "english": "⟨perto de⟩ Yerijó"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:46:32.607935174Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

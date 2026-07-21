@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "genesis 26:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 200,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20978,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21178
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:07:18.885913276Z",
   "translation": "E ele subiu dali para ⟨o⟩ Beer-Sheba",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "E ele subiu"
+      "gloss": "E ele subiu"
     },
     {
       "surface": "משם",
-      "english": "dali"
+      "gloss": "dali"
     },
     {
       "surface": "באר",
-      "english": "para ⟨o⟩"
+      "gloss": "para ⟨o⟩"
     },
     {
       "surface": "שבע",
-      "english": "Beer-Sheba"
+      "gloss": "Beer-Sheba"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:07:18.885913276Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 146:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 370,
-    "prompt_tokens": 70293,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70663
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:52:17.270294113Z",
   "translation": "Louvai ⟨a⟩ YH. Louva, ó minha alma, ⟨את⟩ YHWH.",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "Louvai"
+      "gloss": "Louvai"
     },
     {
       "surface": "יה",
-      "english": "⟨a⟩ YH"
+      "gloss": "⟨a⟩ YH"
     },
     {
       "surface": "הללי",
-      "english": "Louva"
+      "gloss": "Louva"
     },
     {
       "surface": "נפשי",
-      "english": "ó minha alma"
+      "gloss": "ó minha alma"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T17:52:17.270294113Z",
-  "model": "glm-4.5"
+  ]
 }

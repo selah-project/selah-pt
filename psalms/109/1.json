@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 109:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70210,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70690
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:53.435555074Z",
   "translation": "⟨ao⟩ maestro ⟨para⟩ David um canto de louvor Elohim da minha exaltação ⟨o⟩ silences ⟨tu⟩",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨ao⟩ maestro"
+      "gloss": "⟨ao⟩ maestro"
     },
     {
       "surface": "לדוד",
-      "english": "⟨para⟩ David"
+      "gloss": "⟨para⟩ David"
     },
     {
       "surface": "מזמור",
-      "english": "um canto de louvor"
+      "gloss": "um canto de louvor"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "תהלתי",
-      "english": "da minha exaltação"
+      "gloss": "da minha exaltação"
     },
     {
       "surface": "אל",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "תחרש",
-      "english": "silences ⟨tu⟩"
+      "gloss": "silences ⟨tu⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:40:53.435555074Z",
-  "model": "glm-4.5"
+  ]
 }

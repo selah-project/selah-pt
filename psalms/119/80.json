@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 80,
   "ref": "psalms 119:80",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62842,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63295
-  },
+  "verse": 80,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:00:40.832459900Z",
   "translation": "Let my heart be ⟨perfect⟩ in your statutes, so that I ⟨am⟩ not ashamed.",
   "tokens": [
     {
       "surface": "יהי",
-      "english": "Let... be",
+      "gloss": "Let... be",
       "marks": "my heart"
     },
     {
       "surface": "לבי",
-      "english": "my heart"
+      "gloss": "my heart"
     },
     {
       "surface": "תמים",
-      "english": "⟨perfect⟩"
+      "gloss": "⟨perfect⟩"
     },
     {
       "surface": "בחקיך",
-      "english": "in your statutes"
+      "gloss": "in your statutes"
     },
     {
       "surface": "למען",
-      "english": "so that"
+      "gloss": "so that"
     },
     {
       "surface": "לא",
-      "english": "not"
+      "gloss": "not"
     },
     {
       "surface": "אבוש",
-      "english": "ashamed"
+      "gloss": "ashamed"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:00:40.832459900Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

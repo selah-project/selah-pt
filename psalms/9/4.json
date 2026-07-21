@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 9:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 362,
-    "prompt_tokens": 70216,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70578
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:34:28.432088987Z",
   "translation": "Porque ⟨ao⟩ voltar os meus inimigos para trás, tropeçarão e perecerão diante de ti.",
   "tokens": [
     {
       "surface": "בשוב",
-      "english": "Porque ⟨ao⟩ voltar"
+      "gloss": "Porque ⟨ao⟩ voltar"
     },
     {
       "surface": "אויבי",
-      "english": "os meus inimigos"
+      "gloss": "os meus inimigos"
     },
     {
       "surface": "אחור",
-      "english": "para trás"
+      "gloss": "para trás"
     },
     {
       "surface": "יכשלו",
-      "english": "tropeçarão"
+      "gloss": "tropeçarão"
     },
     {
       "surface": "ויאבדו",
-      "english": "e perecerão"
+      "gloss": "e perecerão"
     },
     {
       "surface": "מפניך",
-      "english": "diante de ti"
+      "gloss": "diante de ti"
     }
-  ],
-  "timestamp": "2026-07-16T17:34:28.432088987Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 14:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52821,
-    "prompt_tokens_details": {
-      "cached_tokens": 51891
-    },
-    "total_tokens": 53313
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:29:12.228964884Z",
   "translation": "⟨O⟩ sábio ⟨é⟩ temente e desvia-se ⟨do⟩ mal, ⟨mas⟩ ⟨o⟩ insensato transgride ⟨e⟩ ⟨é⟩ confiante.",
   "tokens": [
     {
       "surface": "חכם",
-      "english": "Sábio"
+      "gloss": "Sábio"
     },
     {
       "surface": "ירא",
-      "english": "temente"
+      "gloss": "temente"
     },
     {
       "surface": "וסר",
-      "english": "desvia-se"
+      "gloss": "desvia-se"
     },
     {
       "surface": "מרע",
-      "english": "do mal"
+      "gloss": "do mal"
     },
     {
       "surface": "וכסיל",
-      "english": "insensato"
+      "gloss": "insensato"
     },
     {
       "surface": "מתעבר",
-      "english": "transgride"
+      "gloss": "transgride"
     },
     {
       "surface": "ובוטח",
-      "english": "é confiante"
+      "gloss": "é confiante"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:29:12.228964884Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

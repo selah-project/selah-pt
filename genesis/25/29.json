@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "genesis 25:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 25,
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:05:56.965141416Z",
+  "translation": "E Yaakov ⟨fez⟩ cozido ⟨um⟩ guisado, e Esav veio ⟨do⟩ campo e ⟨ele⟩ estava exausto",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "E Jacob ⟨fez⟩ cozido"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "⟨um⟩ guisado"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e veio"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "campo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e ⟨ele⟩"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "estava exausto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacob",
@@ -20,60 +63,6 @@
       "hebrew": "עשו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21384,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21766
-  },
-  "translation": "E Yaakov ⟨fez⟩ cozido ⟨um⟩ guisado, e Esav veio ⟨do⟩ campo e ⟨ele⟩ estava exausto",
-  "tokens": [
-    {
-      "surface": "ויזד",
-      "english": "E Jacob ⟨fez⟩ cozido"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "נזיד",
-      "english": "⟨um⟩ guisado"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e veio"
-    },
-    {
-      "surface": "עשו",
-      "english": "Esav"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨do⟩"
-    },
-    {
-      "surface": "השדה",
-      "english": "campo"
-    },
-    {
-      "surface": "והוא",
-      "english": "e ⟨ele⟩"
-    },
-    {
-      "surface": "עיף",
-      "english": "estava exausto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:05:56.965141416Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

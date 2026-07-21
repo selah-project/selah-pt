@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 86:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70347,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70863
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:10.576322198Z",
   "translation": "Porque ⟨o⟩ teu Jésed é grande sobre mim e entregaste a minha alma de Sheol ⟨o⟩ mais profundo ⟨por baixo⟩",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "חסדך",
-      "english": "teu Jésed"
+      "gloss": "teu Jésed"
     },
     {
       "surface": "גדול",
-      "english": "é grande"
+      "gloss": "é grande"
     },
     {
       "surface": "עלי",
-      "english": "sobre mim"
+      "gloss": "sobre mim"
     },
     {
       "surface": "והצלת",
-      "english": "e entregaste"
+      "gloss": "e entregaste"
     },
     {
       "surface": "נפשי",
-      "english": "a minha alma"
+      "gloss": "a minha alma"
     },
     {
       "surface": "משאול",
-      "english": "de Sheol"
+      "gloss": "de Sheol"
     },
     {
       "surface": "תחתיה",
-      "english": "⟨por baixo⟩"
+      "gloss": "⟨por baixo⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:40:10.576322198Z",
-  "model": "glm-4.5"
+  ]
 }

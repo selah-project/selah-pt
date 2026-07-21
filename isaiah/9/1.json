@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 9:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 9,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:19:47.526486667Z",
+  "translation": "O ⟨povo⟩ que anda ⟨em⟩ trevas ⟨vê⟩ ⟨uma⟩ grande luz; os que habitam ⟨na⟩ terra ⟨da⟩ Tzalmavet, sobre eles ⟨brilha⟩ ⟨a⟩ luz.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "O ⟨povo⟩"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "que anda"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "⟨em⟩ trevas"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "⟨vê⟩"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨uma⟩ grande luz"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "os que habitam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ terra"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "⟨da⟩ Tzalmavet"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨a⟩ luz"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "⟨brilha⟩"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sobre eles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sombra da morte",
@@ -13,72 +68,6 @@
       "hebrew": "צלמות"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 748,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19553,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20301
-  },
-  "translation": "O ⟨povo⟩ que anda ⟨em⟩ trevas ⟨vê⟩ ⟨uma⟩ grande luz; os que habitam ⟨na⟩ terra ⟨da⟩ Tzalmavet, sobre eles ⟨brilha⟩ ⟨a⟩ luz.",
-  "tokens": [
-    {
-      "surface": "העם",
-      "english": "O ⟨povo⟩"
-    },
-    {
-      "surface": "ההלכים",
-      "english": "que anda"
-    },
-    {
-      "surface": "בחשך",
-      "english": "⟨em⟩ trevas"
-    },
-    {
-      "surface": "ראו",
-      "english": "⟨vê⟩"
-    },
-    {
-      "surface": "אור",
-      "english": "⟨uma⟩ grande luz"
-    },
-    {
-      "surface": "גדול",
-      "english": "grande"
-    },
-    {
-      "surface": "ישבי",
-      "english": "os que habitam"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨na⟩ terra"
-    },
-    {
-      "surface": "צלמות",
-      "english": "⟨da⟩ Tzalmavet"
-    },
-    {
-      "surface": "אור",
-      "english": "⟨a⟩ luz"
-    },
-    {
-      "surface": "נגה",
-      "english": "⟨brilha⟩"
-    },
-    {
-      "surface": "עליהם",
-      "english": "sobre eles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:19:47.526486667Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

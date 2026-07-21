@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "proverbs 13:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52876,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53245
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:28:19.908942797Z",
   "translation": "There is who makes himself rich and has nothing, and there is who makes himself poor ⟨and has⟩ abundant wealth.",
   "tokens": [
     {
       "surface": "יש",
-      "english": "There is"
+      "gloss": "There is"
     },
     {
       "surface": "מתעשר",
-      "english": "who makes himself rich"
+      "gloss": "who makes himself rich"
     },
     {
       "surface": "ואין",
-      "english": "and has nothing"
+      "gloss": "and has nothing"
     },
     {
       "surface": "כל",
-      "english": "and"
+      "gloss": "and"
     },
     {
       "surface": "מתרושש",
-      "english": "who makes himself poor"
+      "gloss": "who makes himself poor"
     },
     {
       "surface": "והון",
-      "english": "⟨and has⟩",
+      "gloss": "⟨and has⟩",
       "marks": "abundant wealth"
     },
     {
       "surface": "רב",
-      "english": "abundant wealth"
+      "gloss": "abundant wealth"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:28:19.908942797Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

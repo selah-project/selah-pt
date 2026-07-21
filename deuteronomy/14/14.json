@@ -1,38 +1,30 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "deuteronomy 14:14",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 133,
-    "prompt_tokens": 24654,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 24787
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:19:59.816614212Z",
   "translation": "and ⟨את⟩ every raven after its kind",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "and ⟨את⟩",
+      "gloss": "and ⟨את⟩",
       "marks": "every raven"
     },
     {
       "surface": "כל",
-      "english": "every"
+      "gloss": "every"
     },
     {
       "surface": "ערב",
-      "english": "raven"
+      "gloss": "raven"
     },
     {
       "surface": "למינו",
-      "english": "after its kind"
+      "gloss": "after its kind"
     }
-  ],
-  "timestamp": "2026-07-16T13:19:59.816614212Z",
-  "model": "glm-4.5"
+  ]
 }

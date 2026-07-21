@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "isaiah 22:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 22,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:29:24.922172815Z",
+  "translation": "E ⟨o⟩ vestirei com tua túnica e ⟨o⟩ fortalecerei com teu cinto; ⟨o⟩ darei teu domínio em sua mão, e ele será para pai aos moradores de Yerushalayim e à casa de Yehudá.",
+  "tokens": [
+    {
+      "surface": "והלבשתיו",
+      "gloss": "E ⟨o⟩ vestirei"
+    },
+    {
+      "surface": "כתנתך",
+      "gloss": "com tua túnica"
+    },
+    {
+      "surface": "ואבנטך",
+      "gloss": "e ⟨o⟩ fortalecerei"
+    },
+    {
+      "surface": "אחזקנו",
+      "gloss": "com teu cinto"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "⟨o⟩ darei teu domínio"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨o⟩ darei"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "em sua mão"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e ele será"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "para pai"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "aos moradores"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "e à casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -20,76 +79,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 550,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19772,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20322
-  },
-  "translation": "E ⟨o⟩ vestirei com tua túnica e ⟨o⟩ fortalecerei com teu cinto; ⟨o⟩ darei teu domínio em sua mão, e ele será para pai aos moradores de Yerushalayim e à casa de Yehudá.",
-  "tokens": [
-    {
-      "surface": "והלבשתיו",
-      "english": "E ⟨o⟩ vestirei"
-    },
-    {
-      "surface": "כתנתך",
-      "english": "com tua túnica"
-    },
-    {
-      "surface": "ואבנטך",
-      "english": "e ⟨o⟩ fortalecerei"
-    },
-    {
-      "surface": "אחזקנו",
-      "english": "com teu cinto"
-    },
-    {
-      "surface": "וממשלתך",
-      "english": "⟨o⟩ darei teu domínio"
-    },
-    {
-      "surface": "אתן",
-      "english": "⟨o⟩ darei"
-    },
-    {
-      "surface": "בידו",
-      "english": "em sua mão"
-    },
-    {
-      "surface": "והיה",
-      "english": "e ele será"
-    },
-    {
-      "surface": "לאב",
-      "english": "para pai"
-    },
-    {
-      "surface": "ליושב",
-      "english": "aos moradores"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    },
-    {
-      "surface": "ולבית",
-      "english": "e à casa"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:29:24.922172815Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

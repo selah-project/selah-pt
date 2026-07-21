@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 74:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62932,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63360
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:28:53.398669931Z",
   "translation": "Não ⟨esqueças⟩ ⟨o⟩ som ⟨dos⟩ teus opressores ⟨e⟩ ⟨o⟩ tumulto ⟨dos⟩ que se levantam contra ti sobe ⟨את⟩ continuamente",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תשכח",
-      "english": "⟨esqueças⟩"
+      "gloss": "⟨esqueças⟩"
     },
     {
       "surface": "קול",
-      "english": "⟨o⟩ som"
+      "gloss": "⟨o⟩ som"
     },
     {
       "surface": "צרריך",
-      "english": "⟨dos⟩ teus opressores"
+      "gloss": "⟨dos⟩ teus opressores"
     },
     {
       "surface": "שאון",
-      "english": "⟨e⟩ ⟨o⟩ tumulto"
+      "gloss": "⟨e⟩ ⟨o⟩ tumulto"
     },
     {
       "surface": "קמיך",
-      "english": "⟨dos⟩ que se levantam contra ti"
+      "gloss": "⟨dos⟩ que se levantam contra ti"
     },
     {
       "surface": "עלה",
-      "english": "sobe"
+      "gloss": "sobe"
     },
     {
       "surface": "תמיד",
-      "english": "continuamente"
+      "gloss": "continuamente"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:28:53.398669931Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

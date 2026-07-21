@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "deuteronomy 10:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 10,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:00:56.657138528Z",
+  "translation": "E eu fiz umAron ⟨de⟩ madeira ⟨de⟩ acácia, e ⟨eu⟩ esculpi duas tábuas ⟨de⟩ pedra, como ⟨as⟩ primeiras, e subi ⟨ao⟩ monte, e ⟨as⟩ duas tábuas ⟨estavam⟩ ⟨em⟩ minha mão.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "E eu fiz"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "umAron"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "⟨de⟩ madeira"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "⟨de⟩ acácia"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "e ⟨eu⟩ esculpi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duas"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tábuas"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "⟨de⟩ pedra"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "como ⟨as⟩ primeiras"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "e subi"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "⟨ao⟩ monte"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "e ⟨as⟩ duas"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tábuas"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "⟨em⟩ minha mão"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a arca",
@@ -13,80 +76,6 @@
       "hebrew": "ארון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 622,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18166,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 18788
-  },
-  "translation": "E eu fiz umAron ⟨de⟩ madeira ⟨de⟩ acácia, e ⟨eu⟩ esculpi duas tábuas ⟨de⟩ pedra, como ⟨as⟩ primeiras, e subi ⟨ao⟩ monte, e ⟨as⟩ duas tábuas ⟨estavam⟩ ⟨em⟩ minha mão.",
-  "tokens": [
-    {
-      "surface": "ואעש",
-      "english": "E eu fiz"
-    },
-    {
-      "surface": "ארון",
-      "english": "umAron"
-    },
-    {
-      "surface": "עצי",
-      "english": "⟨de⟩ madeira"
-    },
-    {
-      "surface": "שטים",
-      "english": "⟨de⟩ acácia"
-    },
-    {
-      "surface": "ואפסל",
-      "english": "e ⟨eu⟩ esculpi"
-    },
-    {
-      "surface": "שני",
-      "english": "duas"
-    },
-    {
-      "surface": "לחת",
-      "english": "tábuas"
-    },
-    {
-      "surface": "אבנים",
-      "english": "⟨de⟩ pedra"
-    },
-    {
-      "surface": "כראשנים",
-      "english": "como ⟨as⟩ primeiras"
-    },
-    {
-      "surface": "ואעל",
-      "english": "e subi"
-    },
-    {
-      "surface": "ההרה",
-      "english": "⟨ao⟩ monte"
-    },
-    {
-      "surface": "ושני",
-      "english": "e ⟨as⟩ duas"
-    },
-    {
-      "surface": "הלחת",
-      "english": "tábuas"
-    },
-    {
-      "surface": "בידי",
-      "english": "⟨em⟩ minha mão"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:00:56.657138528Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

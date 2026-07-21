@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-chronicles 22:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 22,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:57:01.950387690Z",
+  "translation": "Eis! um filho ⟨é⟩ nascido para ti, ele ⟨é⟩ um homem de descanso e darei descanso a ele de todos os seus inimigos ao redor; porque Shlomá ⟨será⟩ seu nome, e darei shalóm e tranquilidade a Yisrael em seus dias.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Eis!"
+    },
+    {
+      "surface": "בן",
+      "gloss": "um filho"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "⟨é⟩ nascido"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "um homem"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "de descanso"
+    },
+    {
+      "surface": "והנחותי",
+      "gloss": "e darei descanso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de todos"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "seus inimigos"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ao redor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomá"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨será⟩"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seu nome"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "e darei shalóm"
+    },
+    {
+      "surface": "ושקט",
+      "gloss": "e tranquilidade"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "a Israel"
+    },
+    {
+      "surface": "על",
+      "gloss": "em"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "em seus dias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,116 +112,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 704,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58510,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 59214
-  },
-  "translation": "Eis! um filho ⟨é⟩ nascido para ti, ele ⟨é⟩ um homem de descanso e darei descanso a ele de todos os seus inimigos ao redor; porque Shlomá ⟨será⟩ seu nome, e darei shalóm e tranquilidade a Yisrael em seus dias.",
-  "tokens": [
-    {
-      "surface": "הנה",
-      "english": "Eis!"
-    },
-    {
-      "surface": "בן",
-      "english": "um filho"
-    },
-    {
-      "surface": "נולד",
-      "english": "⟨é⟩ nascido"
-    },
-    {
-      "surface": "לך",
-      "english": "para ti"
-    },
-    {
-      "surface": "הוא",
-      "english": "ele"
-    },
-    {
-      "surface": "יהיה",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "איש",
-      "english": "um homem"
-    },
-    {
-      "surface": "מנוחה",
-      "english": "de descanso"
-    },
-    {
-      "surface": "והנחותי",
-      "english": "e darei descanso"
-    },
-    {
-      "surface": "לו",
-      "english": "a ele"
-    },
-    {
-      "surface": "מכל",
-      "english": "de todos"
-    },
-    {
-      "surface": "אויביו",
-      "english": "seus inimigos"
-    },
-    {
-      "surface": "מסביב",
-      "english": "ao redor"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomá"
-    },
-    {
-      "surface": "יהיה",
-      "english": "⟨será⟩"
-    },
-    {
-      "surface": "שמו",
-      "english": "seu nome"
-    },
-    {
-      "surface": "ושלום",
-      "english": "e darei shalóm"
-    },
-    {
-      "surface": "ושקט",
-      "english": "e tranquilidade"
-    },
-    {
-      "surface": "אתן",
-      "english": "a Israel"
-    },
-    {
-      "surface": "על",
-      "english": "em"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בימיו",
-      "english": "em seus dias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:57:01.950387690Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

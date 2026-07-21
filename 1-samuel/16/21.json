@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-samuel 16:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 16,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:27:33.519925263Z",
+  "translation": "E Davidd veio ⟨a⟩ Shaul e ficou diante ⟨dele⟩; e o amou ⟨a ele⟩ ⟨com⟩ veemência e foi ⟨para⟩ ele ⟨um⟩ portador ⟨de⟩ equipamento",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E veio"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e ficou"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "diante ⟨dele⟩"
+    },
+    {
+      "surface": "ויאהבהו",
+      "gloss": "e o amou ⟨a ele⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨com⟩ veemência"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e foi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩ ele"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "⟨um⟩ portador"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "⟨de⟩ equipamento"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,72 +75,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 592,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16734,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17326
-  },
-  "translation": "E Davidd veio ⟨a⟩ Shaul e ficou diante ⟨dele⟩; e o amou ⟨a ele⟩ ⟨com⟩ veemência e foi ⟨para⟩ ele ⟨um⟩ portador ⟨de⟩ equipamento",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E veio"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "ויעמד",
-      "english": "e ficou"
-    },
-    {
-      "surface": "לפניו",
-      "english": "diante ⟨dele⟩"
-    },
-    {
-      "surface": "ויאהבהו",
-      "english": "e o amou ⟨a ele⟩"
-    },
-    {
-      "surface": "מאד",
-      "english": "⟨com⟩ veemência"
-    },
-    {
-      "surface": "ויהי",
-      "english": "e foi"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩ ele"
-    },
-    {
-      "surface": "נשא",
-      "english": "⟨um⟩ portador"
-    },
-    {
-      "surface": "כלים",
-      "english": "⟨de⟩ equipamento"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:27:33.519925263Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

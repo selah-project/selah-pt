@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "daniel 11:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 11,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:00:30.428463833Z",
+  "translation": "e ⟨as⟩ braços ⟨do⟩ aguaceiro serão inundados diante ⟨dele⟩ e ⟨serão⟩ quebrados; ⟨e⟩ também ⟨o⟩ líder ⟨da⟩ Brit",
+  "tokens": [
+    {
+      "surface": "וזרעות",
+      "gloss": "E ⟨as⟩ braços ⟨do⟩"
+    },
+    {
+      "surface": "השטף",
+      "gloss": "aguaceiro"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "serão inundados"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "diante ⟨dele⟩"
+    },
+    {
+      "surface": "וישברו",
+      "gloss": "e ⟨serão⟩ quebrados"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "⟨e⟩ também"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "⟨o⟩ líder"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨da⟩ Brit"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "aliança",
@@ -13,56 +52,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17272,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 17800
-  },
-  "translation": "e ⟨as⟩ braços ⟨do⟩ aguaceiro serão inundados diante ⟨dele⟩ e ⟨serão⟩ quebrados; ⟨e⟩ também ⟨o⟩ líder ⟨da⟩ Brit",
-  "tokens": [
-    {
-      "surface": "וזרעות",
-      "english": "E ⟨as⟩ braços ⟨do⟩"
-    },
-    {
-      "surface": "השטף",
-      "english": "aguaceiro"
-    },
-    {
-      "surface": "ישטפו",
-      "english": "serão inundados"
-    },
-    {
-      "surface": "מלפניו",
-      "english": "diante ⟨dele⟩"
-    },
-    {
-      "surface": "וישברו",
-      "english": "e ⟨serão⟩ quebrados"
-    },
-    {
-      "surface": "וגם",
-      "english": "⟨e⟩ também"
-    },
-    {
-      "surface": "נגיד",
-      "english": "⟨o⟩ líder"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨da⟩ Brit"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:00:30.428463833Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "hosea 12:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 12,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:01:13.150252410Z",
+  "translation": "E tu, ⟨o teu⟩ Elohim, te volta, Jésed e juízo guarda, e espera ⟨a⟩ Elohim, teu ⟨deus⟩ continuamente.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E tu"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "⟨o teu⟩ Elohim",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "te volta"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Jésed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e juízo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "guarda"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "e espera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim, teu ⟨deus⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuamente"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "misericórdia",
@@ -13,66 +62,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19671,
-    "prompt_tokens_details": {
-      "cached_tokens": 18475
-    },
-    "total_tokens": 20075
-  },
-  "translation": "E tu, ⟨o teu⟩ Elohim, te volta, Jésed e juízo guarda, e espera ⟨a⟩ Elohim, teu ⟨deus⟩ continuamente.",
-  "tokens": [
-    {
-      "surface": "ואתה",
-      "english": "E tu"
-    },
-    {
-      "surface": "באלהיך",
-      "english": "⟨o teu⟩ Elohim",
-      "marks": "Elohim"
-    },
-    {
-      "surface": "תשוב",
-      "english": "te volta"
-    },
-    {
-      "surface": "חסד",
-      "english": "Jésed"
-    },
-    {
-      "surface": "ומשפט",
-      "english": "e juízo"
-    },
-    {
-      "surface": "שמר",
-      "english": "guarda"
-    },
-    {
-      "surface": "וקוה",
-      "english": "e espera"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "אלהיך",
-      "english": "Elohim, teu ⟨deus⟩",
-      "marks": "Elohim"
-    },
-    {
-      "surface": "תמיד",
-      "english": "continuamente"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:01:13.150252410Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

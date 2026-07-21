@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 25:1",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 298,
-    "prompt_tokens": 23919,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24217
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:55:23.947766051Z",
   "translation": "E YHWH falou a Moshé, dizendo:",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "E ⟨YHWH⟩ falou"
+      "gloss": "E ⟨YHWH⟩ falou"
     },
     {
       "surface": "יהוה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "לאמר",
-      "english": ", dizendo:"
+      "gloss": ", dizendo:"
     }
-  ],
-  "timestamp": "2026-07-16T13:55:23.947766051Z",
-  "model": "glm-4.5"
+  ]
 }

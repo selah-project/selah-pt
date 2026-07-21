@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 45:24",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 588,
-    "prompt_tokens": 29009,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29597
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:03:46.576193649Z",
   "translation": "E ele enviou ⟨את⟩ seus irmãos, e eles partiram, e disse a eles: Não contendas na ⟨estrada⟩.",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "E ele enviou"
+      "gloss": "E ele enviou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "seus irmãos"
     },
     {
       "surface": "אחיו",
-      "english": "seus irmãos"
+      "gloss": "seus irmãos"
     },
     {
       "surface": "וילכו",
-      "english": "e eles partiram"
+      "gloss": "e eles partiram"
     },
     {
       "surface": "ואמר",
-      "english": "e disse"
+      "gloss": "e disse"
     },
     {
       "surface": "אלהם",
-      "english": "a eles"
+      "gloss": "a eles"
     },
     {
       "surface": "אל",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תרגזו",
-      "english": "contendas"
+      "gloss": "contendas"
     },
     {
       "surface": "בדרך",
-      "english": "na ⟨estrada⟩"
+      "gloss": "na ⟨estrada⟩"
     }
-  ],
-  "timestamp": "2026-07-16T15:03:46.576193649Z",
-  "model": "glm-4.5"
+  ]
 }

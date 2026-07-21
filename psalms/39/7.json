@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 39:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 586,
-    "prompt_tokens": 70757,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71343
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:25:28.777603343Z",
   "translation": "Apenas ⟨em⟩ ⟨uma⟩ sombra um homem caminha; apenas em vão se agitam; ele acumula ⟨riquezas⟩ e não sabe quem ⟨as⟩ recolherá.",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Apenas"
+      "gloss": "Apenas"
     },
     {
       "surface": "בצלם",
-      "english": "⟨em⟩ ⟨uma⟩ sombra"
+      "gloss": "⟨em⟩ ⟨uma⟩ sombra"
     },
     {
       "surface": "יתהלך",
-      "english": "um homem caminha"
+      "gloss": "um homem caminha"
     },
     {
       "surface": "איש",
-      "english": "um homem"
+      "gloss": "um homem"
     },
     {
       "surface": "אך",
-      "english": "apenas"
+      "gloss": "apenas"
     },
     {
       "surface": "הבל",
-      "english": "em vão"
+      "gloss": "em vão"
     },
     {
       "surface": "יהמיון",
-      "english": "se agitam"
+      "gloss": "se agitam"
     },
     {
       "surface": "יצבר",
-      "english": "ele acumula"
+      "gloss": "ele acumula"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "ידע",
-      "english": "sabe"
+      "gloss": "sabe"
     },
     {
       "surface": "מי",
-      "english": "quem"
+      "gloss": "quem"
     },
     {
       "surface": "אספם",
-      "english": "⟨as⟩ recolherá",
+      "gloss": "⟨as⟩ recolherá",
       "marks": "riquezas"
     }
-  ],
-  "timestamp": "2026-07-17T00:25:28.777603343Z",
-  "model": "glm-4.5"
+  ]
 }

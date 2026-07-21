@@ -1,9 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "proverbs 2:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
+  "chapter": 2,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:18:56.957511686Z",
+  "translation": "Porque YHWH dá Jojmá, ⟨da⟩ sua ⟨boca⟩ ⟨vêm⟩ Daat e ⟨entendimento⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "⟨da⟩ sua ⟨boca⟩",
+      "marks": "conhecimento e entendimento"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Daat"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "e ⟨entendimento⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -20,53 +56,6 @@
       "hebrew": "דעת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52793,
-    "prompt_tokens_details": {
-      "cached_tokens": 51891
-    },
-    "total_tokens": 53159
-  },
-  "translation": "Porque YHWH dá Jojmá, ⟨da⟩ sua ⟨boca⟩ ⟨vêm⟩ Daat e ⟨entendimento⟩",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "יתן",
-      "english": "dá"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "מפיו",
-      "english": "⟨da⟩ sua ⟨boca⟩",
-      "marks": "conhecimento e entendimento"
-    },
-    {
-      "surface": "דעת",
-      "english": "Daat"
-    },
-    {
-      "surface": "ותבונה",
-      "english": "e ⟨entendimento⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:18:56.957511686Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 97:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 97,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62903,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63366
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:44:07.140640210Z",
   "translation": "YHWH ⟨é⟩ Rei; ⟨a⟩ terra ⟨está⟩ jubilosa; muitas ilhas ⟨estão⟩ jubilosas.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מלך",
-      "english": "⟨é⟩ Rei"
+      "gloss": "⟨é⟩ Rei"
     },
     {
       "surface": "תגל",
-      "english": "⟨a⟩ terra ⟨está⟩ jubilosa"
+      "gloss": "⟨a⟩ terra ⟨está⟩ jubilosa"
     },
     {
       "surface": "הארץ",
-      "english": "terra"
+      "gloss": "terra"
     },
     {
       "surface": "ישמחו",
-      "english": "muitas ilhas ⟨estão⟩ jubilosas"
+      "gloss": "muitas ilhas ⟨estão⟩ jubilosas"
     },
     {
       "surface": "איים",
-      "english": "ilhas"
+      "gloss": "ilhas"
     },
     {
       "surface": "רבים",
-      "english": "muitas"
+      "gloss": "muitas"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:44:07.140640210Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

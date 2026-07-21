@@ -1,9 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "1-kings 14:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 14,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:32:28.514731885Z",
+  "translation": "E aconteceu no ano quinto ⟨do⟩ reinado de Rejavam, que Sisaque, rei ⟨do⟩ Mitzráyim, subiu contra Yerushalayim",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "no ano"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "quinto"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨do⟩ reinado",
+      "marks": "Reoboão"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "subiu"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "Sisaque"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨do⟩ Mitzráyim",
+      "marks": "Sisaque"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboão",
@@ -27,70 +80,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62668,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63136
-  },
-  "translation": "E aconteceu no ano quinto ⟨do⟩ reinado de Rejavam, que Sisaque, rei ⟨do⟩ Mitzráyim, subiu contra Yerushalayim",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "בשנה",
-      "english": "no ano"
-    },
-    {
-      "surface": "החמישית",
-      "english": "quinto"
-    },
-    {
-      "surface": "למלך",
-      "english": "⟨do⟩ reinado",
-      "marks": "Reoboão"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "עלה",
-      "english": "subiu"
-    },
-    {
-      "surface": "שושק",
-      "english": "Sisaque"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨do⟩ Mitzráyim",
-      "marks": "Sisaque"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:32:28.514731885Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

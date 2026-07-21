@@ -1,80 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "1-kings 3:25",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 607,
-    "prompt_tokens": 70432,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 71039
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:30:08.954713314Z",
   "translation": "E o rei disse: Cortai ⟨את⟩ a criança viva em dois, e dai ⟨את⟩ a metade a uma, e ⟨את⟩ a metade à outra.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ... disse"
+      "gloss": "E ... disse"
     },
     {
       "surface": "המלך",
-      "english": "o rei"
+      "gloss": "o rei"
     },
     {
       "surface": "גזרו",
-      "english": "Cortai"
+      "gloss": "Cortai"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a criança"
     },
     {
       "surface": "הילד",
-      "english": "a criança"
+      "gloss": "a criança"
     },
     {
       "surface": "החי",
-      "english": "viva"
+      "gloss": "viva"
     },
     {
       "surface": "לשנים",
-      "english": "em dois"
+      "gloss": "em dois"
     },
     {
       "surface": "ותנו",
-      "english": "e dai"
+      "gloss": "e dai"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a metade"
     },
     {
       "surface": "החצי",
-      "english": "a metade"
+      "gloss": "a metade"
     },
     {
       "surface": "לאחת",
-      "english": "a uma"
+      "gloss": "a uma"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "a metade"
     },
     {
       "surface": "החצי",
-      "english": "a metade"
+      "gloss": "a metade"
     },
     {
       "surface": "לאחת",
-      "english": "à outra"
+      "gloss": "à outra"
     }
-  ],
-  "timestamp": "2026-07-17T00:30:08.954713314Z",
-  "model": "glm-4.5"
+  ]
 }

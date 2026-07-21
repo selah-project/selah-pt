@@ -1,9 +1,81 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-chronicles 1:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 1,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:06:33.370895868Z",
+  "translation": "Agora, portanto, YHWH Elohim, confirme a tua palavra ⟨que⟩ prometeste a Davidd, meu pai; pois tu me fizeste reinar sobre um povo numeroso como o pó ⟨da⟩ terra.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Agora, portanto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "confirme"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "a tua palavra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨que⟩",
+      "marks": "prometeste"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meu pai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "המלכתני",
+      "gloss": "me fizeste reinar"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "עם",
+      "gloss": "um povo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "numeroso"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "como o pó"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨da⟩ terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,89 +85,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 663,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58854,
-    "prompt_tokens_details": {
-      "cached_tokens": 4884
-    },
-    "total_tokens": 59517
-  },
-  "translation": "Agora, portanto, YHWH Elohim, confirme a tua palavra ⟨que⟩ prometeste a Davidd, meu pai; pois tu me fizeste reinar sobre um povo numeroso como o pó ⟨da⟩ terra.",
-  "tokens": [
-    {
-      "surface": "עתה",
-      "english": "Agora, portanto"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "יאמן",
-      "english": "confirme"
-    },
-    {
-      "surface": "דברך",
-      "english": "a tua palavra"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨que⟩",
-      "marks": "prometeste"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אבי",
-      "english": "meu pai"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "אתה",
-      "english": "tu"
-    },
-    {
-      "surface": "המלכתני",
-      "english": "me fizeste reinar"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "עם",
-      "english": "um povo"
-    },
-    {
-      "surface": "רב",
-      "english": "numeroso"
-    },
-    {
-      "surface": "כעפר",
-      "english": "como o pó"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨da⟩ terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:06:33.370895868Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

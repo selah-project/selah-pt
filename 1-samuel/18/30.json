@@ -1,9 +1,86 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "1-samuel 18:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 18,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:30:46.799753752Z",
+  "translation": "Então os príncipes ⟨dos⟩ filisteus saíram; e aconteceu que, ⟨depois de⟩ sua saída, Davidd agiu com mais inteligência do que todos ⟨os⟩ servos de Shaul; e ⟨o⟩ seu nome ⟨se tornou⟩ muito estimado.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Então ... saíram",
+      "marks": "os príncipes dos filisteus"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "os príncipes",
+      "marks": ""
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨dos⟩ filisteus",
+      "marks": "os príncipes"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e aconteceu que",
+      "marks": ""
+    },
+    {
+      "surface": "מדי",
+      "gloss": "⟨depois de⟩",
+      "marks": "sua saída"
+    },
+    {
+      "surface": "צאתם",
+      "gloss": "sua saída",
+      "marks": "dos príncipes dos filisteus"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "agiu com mais inteligência",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd",
+      "marks": ""
+    },
+    {
+      "surface": "מכל",
+      "gloss": "do que todos ⟨os⟩",
+      "marks": "servos"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servos",
+      "marks": "de Saul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaul",
+      "marks": ""
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "e ⟨o⟩ seu nome ⟨se tornou⟩",
+      "marks": "muito estimado"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "o seu nome",
+      "marks": ""
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muito estimado",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,94 +97,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 810,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16982,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17792
-  },
-  "translation": "Então os príncipes ⟨dos⟩ filisteus saíram; e aconteceu que, ⟨depois de⟩ sua saída, Davidd agiu com mais inteligência do que todos ⟨os⟩ servos de Shaul; e ⟨o⟩ seu nome ⟨se tornou⟩ muito estimado.",
-  "tokens": [
-    {
-      "surface": "ויצאו",
-      "english": "Então ... saíram",
-      "marks": "os príncipes dos filisteus"
-    },
-    {
-      "surface": "שרי",
-      "english": "os príncipes",
-      "marks": ""
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨dos⟩ filisteus",
-      "marks": "os príncipes"
-    },
-    {
-      "surface": "ויהי",
-      "english": "e aconteceu que",
-      "marks": ""
-    },
-    {
-      "surface": "מדי",
-      "english": "⟨depois de⟩",
-      "marks": "sua saída"
-    },
-    {
-      "surface": "צאתם",
-      "english": "sua saída",
-      "marks": "dos príncipes dos filisteus"
-    },
-    {
-      "surface": "שכל",
-      "english": "agiu com mais inteligência",
-      "marks": "David"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd",
-      "marks": ""
-    },
-    {
-      "surface": "מכל",
-      "english": "do que todos ⟨os⟩",
-      "marks": "servos"
-    },
-    {
-      "surface": "עבדי",
-      "english": "servos",
-      "marks": "de Saul"
-    },
-    {
-      "surface": "שאול",
-      "english": "de Shaul",
-      "marks": ""
-    },
-    {
-      "surface": "וייקר",
-      "english": "e ⟨o⟩ seu nome ⟨se tornou⟩",
-      "marks": "muito estimado"
-    },
-    {
-      "surface": "שמו",
-      "english": "o seu nome",
-      "marks": ""
-    },
-    {
-      "surface": "מאד",
-      "english": "muito estimado",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:30:46.799753752Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

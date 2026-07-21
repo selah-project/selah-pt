@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 83:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 215,
-    "prompt_tokens": 70324,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70539
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:43:18.822842974Z",
   "translation": "Gebal, e Amom, e Amaleque; Filístia com ⟨os⟩ habitantes de Tiro;",
   "tokens": [
     {
       "surface": "גבל",
-      "english": "Gebal"
+      "gloss": "Gebal"
     },
     {
       "surface": "ועמון",
-      "english": ", e Amom"
+      "gloss": ", e Amom"
     },
     {
       "surface": "ועמלק",
-      "english": ", e Amaleque"
+      "gloss": ", e Amaleque"
     },
     {
       "surface": "פלשת",
-      "english": "; Filístia"
+      "gloss": "; Filístia"
     },
     {
       "surface": "עם",
-      "english": " com"
+      "gloss": " com"
     },
     {
       "surface": "ישבי",
-      "english": " ⟨os⟩ habitantes"
+      "gloss": " ⟨os⟩ habitantes"
     },
     {
       "surface": "צור",
-      "english": " de Tiro"
+      "gloss": " de Tiro"
     }
-  ],
-  "timestamp": "2026-07-16T17:43:18.822842974Z",
-  "model": "glm-4.5"
+  ]
 }

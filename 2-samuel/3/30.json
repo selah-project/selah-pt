@@ -1,74 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "2-samuel 3:30",
   "book": "2-samuel",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 494,
-    "prompt_tokens": 25248,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25742
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:47:11.311671701Z",
   "translation": "E Yoav e Avishai, seu irmão, mataram Avner, por ⟨ter⟩ morto ⟨את⟩ Asael, irmão deles, em Givon, na guerra.",
   "tokens": [
     {
       "surface": "ויואב",
-      "english": "E Yoav"
+      "gloss": "E Yoav"
     },
     {
       "surface": "ואבישי",
-      "english": "e Avishai"
+      "gloss": "e Avishai"
     },
     {
       "surface": "אחיו",
-      "english": ", seu irmão,"
+      "gloss": ", seu irmão,"
     },
     {
       "surface": "הרגו",
-      "english": "mataram"
+      "gloss": "mataram"
     },
     {
       "surface": "לאבנר",
-      "english": "Avner,"
+      "gloss": "Avner,"
     },
     {
       "surface": "על",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "אשר",
-      "english": "⟨ter⟩"
+      "gloss": "⟨ter⟩"
     },
     {
       "surface": "המית",
-      "english": "morto"
+      "gloss": "morto"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Asael"
     },
     {
       "surface": "עשהאל",
-      "english": "Asael,"
+      "gloss": "Asael,"
     },
     {
       "surface": "אחיהם",
-      "english": "irmão deles,"
+      "gloss": "irmão deles,"
     },
     {
       "surface": "בגבעון",
-      "english": "em Givon,"
+      "gloss": "em Givon,"
     },
     {
       "surface": "במלחמה",
-      "english": "na guerra."
+      "gloss": "na guerra."
     }
-  ],
-  "timestamp": "2026-07-16T12:47:11.311671701Z",
-  "model": "glm-4.5"
+  ]
 }

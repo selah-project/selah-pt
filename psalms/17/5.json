@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 17:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 444,
-    "prompt_tokens": 70242,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70686
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:35:32.722132863Z",
   "translation": "Sustém ⟨os meus⟩ passos em tuas veredas, ⟨para que⟩ não resvalem ⟨os meus⟩ pés.",
   "tokens": [
     {
       "surface": "תמך",
-      "english": "Sustém"
+      "gloss": "Sustém"
     },
     {
       "surface": "אשרי",
-      "english": "⟨os meus⟩ passos"
+      "gloss": "⟨os meus⟩ passos"
     },
     {
       "surface": "במעגלותיך",
-      "english": "em tuas veredas"
+      "gloss": "em tuas veredas"
     },
     {
       "surface": "בל",
-      "english": "⟨para que⟩ não"
+      "gloss": "⟨para que⟩ não"
     },
     {
       "surface": "נמוטו",
-      "english": "resvalem"
+      "gloss": "resvalem"
     },
     {
       "surface": "פעמי",
-      "english": "⟨os meus⟩ pés"
+      "gloss": "⟨os meus⟩ pés"
     }
-  ],
-  "timestamp": "2026-07-16T17:35:32.722132863Z",
-  "model": "glm-4.5"
+  ]
 }

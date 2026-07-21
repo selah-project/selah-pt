@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "daniel 7:3",
   "book": "daniel",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24569,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 24958
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:58:20.277351164Z",
   "translation": "e quatro grandes bestas ⟨são⟩ diversas ⟨uma⟩ da outra, subiram ⟨do⟩ mar; esta ⟨é⟩ ⟨da⟩quela",
   "tokens": [
     {
       "surface": "וארבע",
-      "english": "e quatro"
+      "gloss": "e quatro"
     },
     {
       "surface": "חיון",
-      "english": "grandes"
+      "gloss": "grandes"
     },
     {
       "surface": "רברבן",
-      "english": "bestas"
+      "gloss": "bestas"
     },
     {
       "surface": "סלקן",
-      "english": "subiram"
+      "gloss": "subiram"
     },
     {
       "surface": "מן",
-      "english": "⟨do⟩",
+      "gloss": "⟨do⟩",
       "marks": "mar"
     },
     {
       "surface": "ימא",
-      "english": "mar"
+      "gloss": "mar"
     },
     {
       "surface": "שנין",
-      "english": "⟨são⟩ diversas ⟨uma⟩ da outra"
+      "gloss": "⟨são⟩ diversas ⟨uma⟩ da outra"
     },
     {
       "surface": "דא",
-      "english": "esta"
+      "gloss": "esta"
     },
     {
       "surface": "מן",
-      "english": "⟨da⟩",
+      "gloss": "⟨da⟩",
       "marks": "aquela"
     },
     {
       "surface": "דא",
-      "english": "⟨é⟩"
+      "gloss": "⟨é⟩"
     }
-  ],
-  "timestamp": "2026-06-13T02:58:20.277351164Z",
-  "model": "glm-4.5"
+  ]
 }

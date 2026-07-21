@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "2-samuel 10:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 10,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:51:36.455563990Z",
+  "translation": "E Aram viu que ⟨foi⟩ derrotado ⟨diante de⟩ Yisrael, e eles se reuniram ⟨juntos⟩",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E Aram viu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "foi derrotado"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "e eles se reuniram"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "juntos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17264,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 17589
-  },
-  "translation": "E Aram viu que ⟨foi⟩ derrotado ⟨diante de⟩ Yisrael, e eles se reuniram ⟨juntos⟩",
-  "tokens": [
-    {
-      "surface": "וירא",
-      "english": "E Aram viu"
-    },
-    {
-      "surface": "ארם",
-      "english": "Aram"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "נגף",
-      "english": "foi derrotado"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויאספו",
-      "english": "e eles se reuniram"
-    },
-    {
-      "surface": "יחד",
-      "english": "juntos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:51:36.455563990Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

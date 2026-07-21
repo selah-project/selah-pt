@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "job 37:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 37,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:11:01.216526599Z",
+  "translation": "⟨O⟩ Shaddai, não podemos encontrá-lo; ⟨é⟩ magnífico em poder e em juízo e em abundante justiça, não oprimirá.",
+  "tokens": [
+    {
+      "surface": "שדי",
+      "gloss": "⟨O⟩ Shaddai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "מצאנהו",
+      "gloss": "podemos encontrá-lo"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "magnífico"
+    },
+    {
+      "surface": "כח",
+      "gloss": "em poder"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e em juízo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e em abundante"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "justiça"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "oprimirá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Todo-Poderoso",
@@ -13,64 +60,6 @@
       "hebrew": "שדי"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 495,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20326,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20821
-  },
-  "translation": "⟨O⟩ Shaddai, não podemos encontrá-lo; ⟨é⟩ magnífico em poder e em juízo e em abundante justiça, não oprimirá.",
-  "tokens": [
-    {
-      "surface": "שדי",
-      "english": "⟨O⟩ Shaddai"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "מצאנהו",
-      "english": "podemos encontrá-lo"
-    },
-    {
-      "surface": "שגיא",
-      "english": "magnífico"
-    },
-    {
-      "surface": "כח",
-      "english": "em poder"
-    },
-    {
-      "surface": "ומשפט",
-      "english": "e em juízo"
-    },
-    {
-      "surface": "ורב",
-      "english": "e em abundante"
-    },
-    {
-      "surface": "צדקה",
-      "english": "justiça"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "יענה",
-      "english": "oprimirá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:11:01.216526599Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

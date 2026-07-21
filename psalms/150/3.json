@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 150:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 150,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62833,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63180
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:17:33.138800769Z",
   "translation": "Louvai-o ⟨com⟩ ⟨o⟩ toque ⟨de⟩ trombeta; louvai-o ⟨com⟩ ⟨o⟩ saltério e ⟨a⟩ harpa.",
   "tokens": [
     {
       "surface": "הללוהו",
-      "english": "Louvai-o"
+      "gloss": "Louvai-o"
     },
     {
       "surface": "בתקע",
-      "english": "⟨com⟩ ⟨o⟩ toque ⟨de⟩"
+      "gloss": "⟨com⟩ ⟨o⟩ toque ⟨de⟩"
     },
     {
       "surface": "שופר",
-      "english": "trombeta"
+      "gloss": "trombeta"
     },
     {
       "surface": "הללוהו",
-      "english": "louvai-o"
+      "gloss": "louvai-o"
     },
     {
       "surface": "בנבל",
-      "english": "⟨com⟩ ⟨o⟩"
+      "gloss": "⟨com⟩ ⟨o⟩"
     },
     {
       "surface": "וכנור",
-      "english": "saltério e ⟨a⟩ harpa"
+      "gloss": "saltério e ⟨a⟩ harpa"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:17:33.138800769Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

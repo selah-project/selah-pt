@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 88:14",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 386,
-    "prompt_tokens": 70388,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70774
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:43:59.136921578Z",
   "translation": "E eu, a ti, YHWH, clamei, e pela manhã ⟨a⟩ minha oração te antecipará",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "E eu"
+      "gloss": "E eu"
     },
     {
       "surface": "אליך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "שועתי",
-      "english": "clamei"
+      "gloss": "clamei"
     },
     {
       "surface": "ובבקר",
-      "english": "e pela manhã"
+      "gloss": "e pela manhã"
     },
     {
       "surface": "תפלתי",
-      "english": "⟨a⟩ minha oração"
+      "gloss": "⟨a⟩ minha oração"
     },
     {
       "surface": "תקדמך",
-      "english": "te antecipará"
+      "gloss": "te antecipará"
     }
-  ],
-  "timestamp": "2026-07-16T17:43:59.136921578Z",
-  "model": "glm-4.5"
+  ]
 }

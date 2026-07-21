@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 8:6",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 422,
-    "prompt_tokens": 70246,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70668
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:34:33.896280809Z",
   "translation": "e fizeste-o um pouco menor que Elohim, e de glória e de honra o coroaste",
   "tokens": [
     {
       "surface": "ותחסרהו",
-      "english": "e fizeste-o"
+      "gloss": "e fizeste-o"
     },
     {
       "surface": "מעט",
-      "english": "um pouco"
+      "gloss": "um pouco"
     },
     {
       "surface": "מאלהים",
-      "english": "que Elohim"
+      "gloss": "que Elohim"
     },
     {
       "surface": "וכבוד",
-      "english": "e de glória"
+      "gloss": "e de glória"
     },
     {
       "surface": "והדר",
-      "english": "e de honra"
+      "gloss": "e de honra"
     },
     {
       "surface": "תעטרהו",
-      "english": "o coroaste"
+      "gloss": "o coroaste"
     }
-  ],
-  "timestamp": "2026-07-16T17:34:33.896280809Z",
-  "model": "glm-4.5"
+  ]
 }

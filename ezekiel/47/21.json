@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "ezekiel 47:21",
   "book": "ezekiel",
-  "lang": "pt",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 337,
-    "prompt_tokens": 24797,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25134
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:34:02.837525725Z",
   "translation": "E vós dividireis ⟨את⟩ esta terra para vós, conforme as tribos de Yisrael",
   "tokens": [
     {
       "surface": "וחלקתם",
-      "english": "E vós dividireis"
+      "gloss": "E vós dividireis"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "esta terra"
     },
     {
       "surface": "הארץ",
-      "english": "esta terra"
+      "gloss": "esta terra"
     },
     {
       "surface": "הזאת",
-      "english": "esta"
+      "gloss": "esta"
     },
     {
       "surface": "לכם",
-      "english": "para vós"
+      "gloss": "para vós"
     },
     {
       "surface": "לשבטי",
-      "english": "conforme as tribos"
+      "gloss": "conforme as tribos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T14:34:02.837525725Z",
-  "model": "glm-4.5"
+  ]
 }

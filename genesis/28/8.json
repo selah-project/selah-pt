@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "genesis 28:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 28,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:09:49.449766262Z",
+  "translation": "E Esau viu que as filhas de Kenaan ⟨eram⟩ más aos olhos de ⟨o⟩ seu pai Yitzchak",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E Esau viu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "más"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "filhas"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Kenaan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aos olhos de"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitzchak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "⟨o⟩ seu pai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Canaã",
@@ -13,60 +56,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21414,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21769
-  },
-  "translation": "E Esau viu que as filhas de Kenaan ⟨eram⟩ más aos olhos de ⟨o⟩ seu pai Yitzchak",
-  "tokens": [
-    {
-      "surface": "וירא",
-      "english": "E Esau viu"
-    },
-    {
-      "surface": "עשו",
-      "english": "Esau"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "רעות",
-      "english": "más"
-    },
-    {
-      "surface": "בנות",
-      "english": "filhas"
-    },
-    {
-      "surface": "כנען",
-      "english": "de Kenaan"
-    },
-    {
-      "surface": "בעיני",
-      "english": "aos olhos de"
-    },
-    {
-      "surface": "יצחק",
-      "english": "Yitzchak"
-    },
-    {
-      "surface": "אביו",
-      "english": "⟨o⟩ seu pai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:09:49.449766262Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 103:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62861,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63239
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:47:21.232339175Z",
   "translation": "who redeems ⟨your⟩ life from ⟨the⟩ pit; who crowns you with kindness and compassions",
   "tokens": [
     {
       "surface": "הגואל",
-      "english": "Who redeems"
+      "gloss": "Who redeems"
     },
     {
       "surface": "משחת",
-      "english": "from ⟨the⟩ pit"
+      "gloss": "from ⟨the⟩ pit"
     },
     {
       "surface": "חייכי",
-      "english": "⟨your⟩ life"
+      "gloss": "⟨your⟩ life"
     },
     {
       "surface": "המעטרכי",
-      "english": "who crowns you"
+      "gloss": "who crowns you"
     },
     {
       "surface": "חסד",
-      "english": "with kindness"
+      "gloss": "with kindness"
     },
     {
       "surface": "ורחמים",
-      "english": "and compassions"
+      "gloss": "and compassions"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:47:21.232339175Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

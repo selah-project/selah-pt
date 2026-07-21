@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "job 9:32",
   "book": "job",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27451,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 27852
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:44:41.980993935Z",
   "translation": "Pois ele não ⟨é⟩ um homem como eu, para que eu ⟨o⟩ responda; não podemos vir ⟨os⟩ dois juntos ⟨ao⟩ julgamento.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "איש",
-      "english": "um homem"
+      "gloss": "um homem"
     },
     {
       "surface": "כמני",
-      "english": "como eu"
+      "gloss": "como eu"
     },
     {
       "surface": "אעננו",
-      "english": "para que eu ⟨o⟩ responda"
+      "gloss": "para que eu ⟨o⟩ responda"
     },
     {
       "surface": "נבוא",
-      "english": "não podemos vir"
+      "gloss": "não podemos vir"
     },
     {
       "surface": "יחדו",
-      "english": "⟨os⟩ dois juntos"
+      "gloss": "⟨os⟩ dois juntos"
     },
     {
       "surface": "במשפט",
-      "english": "⟨ao⟩ julgamento"
+      "gloss": "⟨ao⟩ julgamento"
     }
-  ],
-  "timestamp": "2026-06-13T06:44:41.980993935Z",
-  "model": "glm-4.5"
+  ]
 }

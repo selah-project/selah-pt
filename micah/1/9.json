@@ -1,9 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "micah 1:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "micah",
+  "chapter": 1,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:15:12.605005811Z",
+  "translation": "Porque ferida ⟨dela⟩ ⟨é⟩ incurável; porque chegou até Yehudá, tocou ⟨no⟩ portão ⟨do⟩ meu povo, até Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "ferida"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "⟨dela⟩",
+      "marks": "ferida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "באה",
+      "gloss": "chegou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "tocou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portão"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨do⟩ meu povo",
+      "marks": "portão"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,78 +81,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 548,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16308,
-    "prompt_tokens_details": {
-      "cached_tokens": 14744
-    },
-    "total_tokens": 16856
-  },
-  "translation": "Porque ferida ⟨dela⟩ ⟨é⟩ incurável; porque chegou até Yehudá, tocou ⟨no⟩ portão ⟨do⟩ meu povo, até Yerushalayim.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "אנושה",
-      "english": "ferida"
-    },
-    {
-      "surface": "מכותיה",
-      "english": "⟨dela⟩",
-      "marks": "ferida"
-    },
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "באה",
-      "english": "chegou"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "נגע",
-      "english": "tocou"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "שער",
-      "english": "portão"
-    },
-    {
-      "surface": "עמי",
-      "english": "⟨do⟩ meu povo",
-      "marks": "portão"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:15:12.605005811Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 118:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62942,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63374
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:58:16.523492155Z",
   "translation": "Bendito ⟨é⟩ ⟨o⟩ que vem ⟨em⟩ nome de YHWH; nós vos bendizemos ⟨de⟩ ⟨a⟩ Casa de YHWH.",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "Bendito"
+      "gloss": "Bendito"
     },
     {
       "surface": "הבא",
-      "english": "⟨o⟩ que vem"
+      "gloss": "⟨o⟩ que vem"
     },
     {
       "surface": "בשם",
-      "english": "⟨em⟩ nome"
+      "gloss": "⟨em⟩ nome"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ברכנוכם",
-      "english": "nós vos bendizemos"
+      "gloss": "nós vos bendizemos"
     },
     {
       "surface": "מבית",
-      "english": "⟨de⟩ ⟨a⟩ Casa"
+      "gloss": "⟨de⟩ ⟨a⟩ Casa"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:58:16.523492155Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

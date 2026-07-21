@@ -1,9 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "hosea 10:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 10,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:00:04.424917568Z",
+  "translation": "Shomron ⟨is⟩ cut off; its king ⟨is⟩ as foam ⟨את⟩ upon the face of the waters.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "Cut off"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "its king"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "as foam"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face",
+      "marks": "the waters"
+    },
+    {
+      "surface": "מים",
+      "gloss": "the waters"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samaria",
@@ -13,53 +49,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19465,
-    "prompt_tokens_details": {
-      "cached_tokens": 18475
-    },
-    "total_tokens": 19803
-  },
-  "translation": "Shomron ⟨is⟩ cut off; its king ⟨is⟩ as foam ⟨את⟩ upon the face of the waters.",
-  "tokens": [
-    {
-      "surface": "נדמה",
-      "english": "Cut off"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomron"
-    },
-    {
-      "surface": "מלכה",
-      "english": "its king"
-    },
-    {
-      "surface": "כקצף",
-      "english": "as foam"
-    },
-    {
-      "surface": "על",
-      "english": "upon"
-    },
-    {
-      "surface": "פני",
-      "english": "face",
-      "marks": "the waters"
-    },
-    {
-      "surface": "מים",
-      "english": "the waters"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:00:04.424917568Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

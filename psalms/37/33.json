@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "psalms 37:33",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 438,
-    "prompt_tokens": 70301,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70739
-  },
+  "verse": 33,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:34.755306066Z",
   "translation": "YHWH não o deixará ⟨em⟩ sua mão, e não o condenará quando ⟨ele for⟩ julgado",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יעזבנו",
-      "english": "o deixará"
+      "gloss": "o deixará"
     },
     {
       "surface": "בידו",
-      "english": "⟨em⟩ sua mão"
+      "gloss": "⟨em⟩ sua mão"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "ירשיענו",
-      "english": "o condenará"
+      "gloss": "o condenará"
     },
     {
       "surface": "בהשפטו",
-      "english": "quando ⟨ele for⟩ julgado"
+      "gloss": "quando ⟨ele for⟩ julgado"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:34.755306066Z",
-  "model": "glm-4.5"
+  ]
 }

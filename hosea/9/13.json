@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "hosea 9:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 9,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:59:28.736280292Z",
+  "translation": "Efráyim, como eu vi ⟨a⟩ Tiro, ⟨está⟩ plantado ⟨em⟩ ⟨um⟩ lugar agradável; mas Efráyim ⟨irá⟩ ⟨ao⟩ matador ⟨com⟩ seus filhos.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "eu vi"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "⟨a⟩ Tiro"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "⟨está⟩ plantado"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "⟨em⟩ ⟨um⟩ lugar agradável"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "mas Efraim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "⟨irá⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "matador"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "⟨com⟩ seus filhos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,68 +64,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19796,
-    "prompt_tokens_details": {
-      "cached_tokens": 18475
-    },
-    "total_tokens": 20341
-  },
-  "translation": "Efráyim, como eu vi ⟨a⟩ Tiro, ⟨está⟩ plantado ⟨em⟩ ⟨um⟩ lugar agradável; mas Efráyim ⟨irá⟩ ⟨ao⟩ matador ⟨com⟩ seus filhos.",
-  "tokens": [
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como"
-    },
-    {
-      "surface": "ראיתי",
-      "english": "eu vi"
-    },
-    {
-      "surface": "לצור",
-      "english": "⟨a⟩ Tiro"
-    },
-    {
-      "surface": "שתולה",
-      "english": "⟨está⟩ plantado"
-    },
-    {
-      "surface": "בנוה",
-      "english": "⟨em⟩ ⟨um⟩ lugar agradável"
-    },
-    {
-      "surface": "ואפרים",
-      "english": "mas Efraim"
-    },
-    {
-      "surface": "להוציא",
-      "english": "⟨irá⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "הרג",
-      "english": "matador"
-    },
-    {
-      "surface": "בניו",
-      "english": "⟨com⟩ seus filhos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:59:28.736280292Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

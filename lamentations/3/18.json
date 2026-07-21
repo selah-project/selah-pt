@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "lamentations 3:18",
   "book": "lamentations",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 289,
-    "prompt_tokens": 39258,
-    "prompt_tokens_details": {
-      "cached_tokens": 38400
-    },
-    "total_tokens": 39547
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:32:59.559235178Z",
   "translation": "E eu disse: pereceu ⟨a⟩ minha força e ⟨a⟩ minha esperança ⟨de⟩ YHWH.",
   "tokens": [
     {
       "surface": "ואמר",
-      "english": "E eu disse"
+      "gloss": "E eu disse"
     },
     {
       "surface": "אבד",
-      "english": "pereceu"
+      "gloss": "pereceu"
     },
     {
       "surface": "נצחי",
-      "english": "⟨a⟩ minha força"
+      "gloss": "⟨a⟩ minha força"
     },
     {
       "surface": "ותוחלתי",
-      "english": "e ⟨a⟩ minha esperança"
+      "gloss": "e ⟨a⟩ minha esperança"
     },
     {
       "surface": "מיהוה",
-      "english": "⟨de⟩ YHWH"
+      "gloss": "⟨de⟩ YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T16:32:59.559235178Z",
-  "model": "glm-4.5"
+  ]
 }

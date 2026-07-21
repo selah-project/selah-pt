@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "2-chronicles 13:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 13,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:20:27.276279944Z",
+  "translation": "E os filhos de Yisrael fugiram de diante de Yehudá, e Elohim os entregou em ⟨a⟩ mão deles.",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "E fugiram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de diante de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "e entregou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "em ⟨a⟩ mão deles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,56 +59,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 279,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58110,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58389
-  },
-  "translation": "E os filhos de Yisrael fugiram de diante de Yehudá, e Elohim os entregou em ⟨a⟩ mão deles.",
-  "tokens": [
-    {
-      "surface": "וינוסו",
-      "english": "E fugiram"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מפני",
-      "english": "de diante de"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "ויתנם",
-      "english": "e entregou"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "בידם",
-      "english": "em ⟨a⟩ mão deles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:20:27.276279944Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

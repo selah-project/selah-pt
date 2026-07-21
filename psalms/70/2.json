@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 70:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 70,
-  "usage": {
-    "completion_tokens": 288,
-    "prompt_tokens": 70225,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70513
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:40:21.620781876Z",
   "translation": "Elohim, para me livrar; YHWH, para minha ajuda, apressa-te.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "להצילני",
-      "english": "para me livrar"
+      "gloss": "para me livrar"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לעזרתי",
-      "english": "para minha ajuda"
+      "gloss": "para minha ajuda"
     },
     {
       "surface": "חושה",
-      "english": "apressa-te"
+      "gloss": "apressa-te"
     }
-  ],
-  "timestamp": "2026-07-16T17:40:21.620781876Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 147:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62711,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63183
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:16:08.548810006Z",
   "translation": "⟨O que⟩ cura ⟨os⟩ quebrados de coração e ⟨que⟩ ata ⟨as⟩ suas feridas",
   "tokens": [
     {
       "surface": "הרפא",
-      "english": "⟨O que⟩ cura"
+      "gloss": "⟨O que⟩ cura"
     },
     {
       "surface": "לשבורי",
-      "english": "⟨os⟩ quebrados"
+      "gloss": "⟨os⟩ quebrados"
     },
     {
       "surface": "לב",
-      "english": "de coração"
+      "gloss": "de coração"
     },
     {
       "surface": "ומחבש",
-      "english": "e ⟨que⟩ ata"
+      "gloss": "e ⟨que⟩ ata"
     },
     {
       "surface": "לעצבותם",
-      "english": "⟨as⟩ suas feridas"
+      "gloss": "⟨as⟩ suas feridas"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:16:08.548810006Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

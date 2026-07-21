@@ -1,9 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 46,
   "ref": "numbers 26:46",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 26,
+  "verse": 46,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:38:09.203030392Z",
+  "translation": "e ⟨o⟩ nome da filha de Asher ⟨é⟩ Serach",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "E ⟨o⟩ nome"
+    },
+    {
+      "surface": "בת",
+      "gloss": "da filha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de Asher"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "Serach"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Aser",
@@ -13,40 +36,6 @@
       "hebrew": "אשר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17632,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 17959
-  },
-  "translation": "e ⟨o⟩ nome da filha de Asher ⟨é⟩ Serach",
-  "tokens": [
-    {
-      "surface": "ושם",
-      "english": "E ⟨o⟩ nome"
-    },
-    {
-      "surface": "בת",
-      "english": "da filha"
-    },
-    {
-      "surface": "אשר",
-      "english": "de Asher"
-    },
-    {
-      "surface": "שרח",
-      "english": "Serach"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:38:09.203030392Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

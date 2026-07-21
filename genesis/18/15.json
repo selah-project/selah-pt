@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 18:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 18,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:58:09.240028158Z",
+  "translation": "E Sara negou ⟨dizendo⟩, 'Não ri ⟨את⟩'; pois temia. E Ele disse: 'Não ⟨é⟩ assim; mas riste ⟨את⟩'",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "E Sarah negou"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨dizendo⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "ri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "temia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E Ele disse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "'Não"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨é⟩ assim"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "riste"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sarah",
@@ -13,68 +64,6 @@
       "hebrew": "שרה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21674,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22139
-  },
-  "translation": "E Sara negou ⟨dizendo⟩, 'Não ri ⟨את⟩'; pois temia. E Ele disse: 'Não ⟨é⟩ assim; mas riste ⟨את⟩'",
-  "tokens": [
-    {
-      "surface": "ותכחש",
-      "english": "E Sarah negou"
-    },
-    {
-      "surface": "שרה",
-      "english": "Sara"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨dizendo⟩"
-    },
-    {
-      "surface": "לא",
-      "english": "Não"
-    },
-    {
-      "surface": "צחקתי",
-      "english": "ri"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "יראה",
-      "english": "temia"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E Ele disse"
-    },
-    {
-      "surface": "לא",
-      "english": "'Não"
-    },
-    {
-      "surface": "כי",
-      "english": "⟨é⟩ assim"
-    },
-    {
-      "surface": "צחקת",
-      "english": "riste"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:58:09.240028158Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "psalms 105:32",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 300,
-    "prompt_tokens": 70177,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70477
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:47:14.240468762Z",
   "translation": "Deu-lhes ⟨את⟩ granizo por chuva, e fogo de labaredas em ⟨a⟩ terra deles.",
   "tokens": [
     {
       "surface": "נתן",
-      "english": "Deu-lhes"
+      "gloss": "Deu-lhes"
     },
     {
       "surface": "גשמיהם",
-      "english": "⟨את⟩ granizo por chuva"
+      "gloss": "⟨את⟩ granizo por chuva"
     },
     {
       "surface": "ברד",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אש",
-      "english": "fogo"
+      "gloss": "fogo"
     },
     {
       "surface": "להבות",
-      "english": "de labaredas"
+      "gloss": "de labaredas"
     },
     {
       "surface": "בארצם",
-      "english": "em ⟨a⟩ terra deles"
+      "gloss": "em ⟨a⟩ terra deles"
     }
-  ],
-  "timestamp": "2026-07-16T17:47:14.240468762Z",
-  "model": "glm-4.5"
+  ]
 }

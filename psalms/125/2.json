@@ -1,9 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 125:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 125,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:05:21.846968277Z",
+  "translation": "Yerushalayim ⟨os⟩ montes ⟨estão⟩ ⟨ao⟩ redor ⟨dela⟩ ⟨e⟩ YHWH ⟨está⟩ ⟨ao⟩ redor ⟨de⟩ seu povo desde agora ⟨e⟩ até ⟨o⟩ para ⟨sempre⟩",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "montes"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "⟨ao⟩ redor",
+      "marks": "Jerusalém"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨dela⟩",
+      "marks": "Jerusalém"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "⟨e⟩ YHWH"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "⟨ao⟩ redor",
+      "marks": "seu povo"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "⟨de⟩ seu povo"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "desde agora"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨e⟩ até ⟨o⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "para ⟨sempre⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,67 +63,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 125,
-  "usage": {
-    "completion_tokens": 750,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63156,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63906
-  },
-  "translation": "Yerushalayim ⟨os⟩ montes ⟨estão⟩ ⟨ao⟩ redor ⟨dela⟩ ⟨e⟩ YHWH ⟨está⟩ ⟨ao⟩ redor ⟨de⟩ seu povo desde agora ⟨e⟩ até ⟨o⟩ para ⟨sempre⟩",
-  "tokens": [
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "הרים",
-      "english": "montes"
-    },
-    {
-      "surface": "סביב",
-      "english": "⟨ao⟩ redor",
-      "marks": "Jerusalém"
-    },
-    {
-      "surface": "לה",
-      "english": "⟨dela⟩",
-      "marks": "Jerusalém"
-    },
-    {
-      "surface": "ויהוה",
-      "english": "⟨e⟩ YHWH"
-    },
-    {
-      "surface": "סביב",
-      "english": "⟨ao⟩ redor",
-      "marks": "seu povo"
-    },
-    {
-      "surface": "לעמו",
-      "english": "⟨de⟩ seu povo"
-    },
-    {
-      "surface": "מעתה",
-      "english": "desde agora"
-    },
-    {
-      "surface": "ועד",
-      "english": "⟨e⟩ até ⟨o⟩"
-    },
-    {
-      "surface": "עולם",
-      "english": "para ⟨sempre⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:05:21.846968277Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

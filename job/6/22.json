@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "job 6:22",
   "book": "job",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27316,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 27711
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:57:15.201969691Z",
   "translation": "Have I said: 'Give ⟨to me⟩'? And, 'By your power bribe ⟨for me⟩'?",
   "tokens": [
     {
       "surface": "הכי",
-      "english": "Have I"
+      "gloss": "Have I"
     },
     {
       "surface": "אמרתי",
-      "english": "said"
+      "gloss": "said"
     },
     {
       "surface": "הבו",
-      "english": "'Give"
+      "gloss": "'Give"
     },
     {
       "surface": "לי",
-      "english": "⟨to me⟩"
+      "gloss": "⟨to me⟩"
     },
     {
       "surface": "ומכחכם",
-      "english": "And, 'By your power"
+      "gloss": "And, 'By your power"
     },
     {
       "surface": "שחדו",
-      "english": "bribe"
+      "gloss": "bribe"
     },
     {
       "surface": "בעדי",
-      "english": "⟨for me⟩'"
+      "gloss": "⟨for me⟩'"
     }
-  ],
-  "timestamp": "2026-06-13T02:57:15.201969691Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 30:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 30,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:35:01.144863876Z",
+  "translation": "E ⟨será⟩ para vós um refúgio ⟨de⟩ Paró para vergonha e ⟨uma⟩ proteção ⟨na⟩ sombra ⟨do⟩ Mitzráyim para humilhação",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E ⟨será⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para vós"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "um refúgio"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "⟨de⟩ Paró"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "para vergonha"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "e ⟨uma⟩ proteção"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "⟨na⟩ sombra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨do⟩ Mitzráyim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "para humilhação"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,60 +56,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 623,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19108,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19731
-  },
-  "translation": "E ⟨será⟩ para vós um refúgio ⟨de⟩ Paró para vergonha e ⟨uma⟩ proteção ⟨na⟩ sombra ⟨do⟩ Mitzráyim para humilhação",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "E ⟨será⟩"
-    },
-    {
-      "surface": "לכם",
-      "english": "para vós"
-    },
-    {
-      "surface": "מעוז",
-      "english": "um refúgio"
-    },
-    {
-      "surface": "פרעה",
-      "english": "⟨de⟩ Paró"
-    },
-    {
-      "surface": "לבשת",
-      "english": "para vergonha"
-    },
-    {
-      "surface": "והחסות",
-      "english": "e ⟨uma⟩ proteção"
-    },
-    {
-      "surface": "בצל",
-      "english": "⟨na⟩ sombra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨do⟩ Mitzráyim"
-    },
-    {
-      "surface": "לכלמה",
-      "english": "para humilhação"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:35:01.144863876Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

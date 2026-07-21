@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 39:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62878,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63207
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:05:38.560238225Z",
   "translation": "Fiquei em silêncio, não abri ⟨a⟩ minha boca, porque tu o fizeste.",
   "tokens": [
     {
       "surface": "נאלמתי",
-      "english": "Fiquei em silêncio"
+      "gloss": "Fiquei em silêncio"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "אפתח",
-      "english": "abri"
+      "gloss": "abri"
     },
     {
       "surface": "פי",
-      "english": "⟨a⟩ minha boca",
+      "gloss": "⟨a⟩ minha boca",
       "marks": "minha boca"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אתה",
-      "english": "tu"
+      "gloss": "tu"
     },
     {
       "surface": "עשית",
-      "english": "o fizeste"
+      "gloss": "o fizeste"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:05:38.560238225Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

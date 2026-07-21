@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-kings 15:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 15,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:32:54.720954868Z",
+  "translation": "E ele andou em todos os pecados ⟨de⟩ seu pai, que ele fizera ⟨perante⟩ ele, e seu coração não foi ⟨estava⟩ completo com YHWH seu Elohim, como o coração ⟨de⟩ Davidd seu pai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "E ele andou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "em todos"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "pecados"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "⟨de⟩ seu pai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ele fizera"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "⟨perante⟩ ele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e"
+    },
+    {
+      "surface": "היה",
+      "gloss": "não foi ⟨estava⟩"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "seu coração"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "completo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "seu Elohim"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "como o coração"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "⟨de⟩ Davidd"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,92 +88,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 650,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63149,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63799
-  },
-  "translation": "E ele andou em todos os pecados ⟨de⟩ seu pai, que ele fizera ⟨perante⟩ ele, e seu coração não foi ⟨estava⟩ completo com YHWH seu Elohim, como o coração ⟨de⟩ Davidd seu pai.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "E ele andou"
-    },
-    {
-      "surface": "בכל",
-      "english": "em todos"
-    },
-    {
-      "surface": "חטאות",
-      "english": "pecados"
-    },
-    {
-      "surface": "אביו",
-      "english": "⟨de⟩ seu pai"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עשה",
-      "english": "ele fizera"
-    },
-    {
-      "surface": "לפניו",
-      "english": "⟨perante⟩ ele"
-    },
-    {
-      "surface": "ולא",
-      "english": "e"
-    },
-    {
-      "surface": "היה",
-      "english": "não foi ⟨estava⟩"
-    },
-    {
-      "surface": "לבבו",
-      "english": "seu coração"
-    },
-    {
-      "surface": "שלם",
-      "english": "completo"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיו",
-      "english": "seu Elohim"
-    },
-    {
-      "surface": "כלבב",
-      "english": "como o coração"
-    },
-    {
-      "surface": "דוד",
-      "english": "⟨de⟩ Davidd"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:32:54.720954868Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

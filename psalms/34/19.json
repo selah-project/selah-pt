@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 34:19",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 70537,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70941
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:37.020994596Z",
   "translation": "YHWH ⟨está⟩ perto ⟨dos⟩ quebrantados de coração, e ⟨את⟩ aos de espírito oprimido Ele salvará.",
   "tokens": [
     {
       "surface": "קרוב",
-      "english": "perto"
+      "gloss": "perto"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לנשברי",
-      "english": "⟨dos⟩ quebrantados"
+      "gloss": "⟨dos⟩ quebrantados"
     },
     {
       "surface": "לב",
-      "english": "coração"
+      "gloss": "coração"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "aos de espírito oprimido"
     },
     {
       "surface": "דכאי",
-      "english": "oprimido"
+      "gloss": "oprimido"
     },
     {
       "surface": "רוח",
-      "english": "espírito"
+      "gloss": "espírito"
     },
     {
       "surface": "יושיע",
-      "english": "Ele salvará"
+      "gloss": "Ele salvará"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:37.020994596Z",
-  "model": "glm-4.5"
+  ]
 }

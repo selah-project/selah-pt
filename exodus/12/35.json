@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "exodus 12:35",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 12,
+  "verse": 35,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:51:09.497380432Z",
+  "translation": "E os filhos de Yisrael fizeram ⟨conforme⟩ ⟨a⟩ palavra de Moshé, e pediram aos egípcios utensílios de prata ⟨e⟩ utensílios de ouro ⟨e⟩ vestes.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fizeram"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "⟨conforme⟩ ⟨a⟩ palavra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshé"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "e pediram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "aos egípcios"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "utensílios de"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "prata"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "⟨e⟩ utensílios de"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ouro"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "⟨e⟩ vestes"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 550,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17316,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17866
-  },
-  "translation": "E os filhos de Yisrael fizeram ⟨conforme⟩ ⟨a⟩ palavra de Moshé, e pediram aos egípcios utensílios de prata ⟨e⟩ utensílios de ouro ⟨e⟩ vestes.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "עשו",
-      "english": "fizeram"
-    },
-    {
-      "surface": "כדבר",
-      "english": "⟨conforme⟩ ⟨a⟩ palavra"
-    },
-    {
-      "surface": "משה",
-      "english": "de Moshé"
-    },
-    {
-      "surface": "וישאלו",
-      "english": "e pediram"
-    },
-    {
-      "surface": "ממצרים",
-      "english": "aos egípcios"
-    },
-    {
-      "surface": "כלי",
-      "english": "utensílios de"
-    },
-    {
-      "surface": "כסף",
-      "english": "prata"
-    },
-    {
-      "surface": "וכלי",
-      "english": "⟨e⟩ utensílios de"
-    },
-    {
-      "surface": "זהב",
-      "english": "ouro"
-    },
-    {
-      "surface": "ושמלת",
-      "english": "⟨e⟩ vestes"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:51:09.497380432Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

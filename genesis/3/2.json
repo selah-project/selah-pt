@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 3:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21319,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21711
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:44:40.454219635Z",
   "translation": "E disse a mulher ⟨ao⟩ serpente: Do fruto ⟨das⟩ árvores ⟨do⟩ jardim nós podemos comer.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "האשה",
-      "english": "a mulher"
+      "gloss": "a mulher"
     },
     {
       "surface": "אל",
-      "english": "⟨ao⟩"
+      "gloss": "⟨ao⟩"
     },
     {
       "surface": "הנחש",
-      "english": "serpente"
+      "gloss": "serpente"
     },
     {
       "surface": "מפרי",
-      "english": "Do fruto"
+      "gloss": "Do fruto"
     },
     {
       "surface": "עץ",
-      "english": "⟨das⟩ árvores"
+      "gloss": "⟨das⟩ árvores"
     },
     {
       "surface": "הגן",
-      "english": "⟨do⟩ jardim"
+      "gloss": "⟨do⟩ jardim"
     },
     {
       "surface": "נאכל",
-      "english": "nós podemos comer"
+      "gloss": "nós podemos comer"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:44:40.454219635Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

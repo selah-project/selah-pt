@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 2:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 304,
-    "prompt_tokens": 70275,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70579
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:33:54.958067591Z",
   "translation": "Servi ⟨את⟩ YHWH com temor e exultai com tremor",
   "tokens": [
     {
       "surface": "עבדו",
-      "english": "Servi"
+      "gloss": "Servi"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ביראה",
-      "english": "com temor"
+      "gloss": "com temor"
     },
     {
       "surface": "וגילו",
-      "english": "e exultai"
+      "gloss": "e exultai"
     },
     {
       "surface": "ברעדה",
-      "english": "com tremor"
+      "gloss": "com tremor"
     }
-  ],
-  "timestamp": "2026-07-16T17:33:54.958067591Z",
-  "model": "glm-4.5"
+  ]
 }

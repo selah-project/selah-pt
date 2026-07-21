@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "2-samuel 20:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 20,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:03:13.529967142Z",
+  "translation": "E ele passou por todas ⟨as⟩ tribos de Yisrael até Abel e ⟨a⟩ casa de Maacá e todos ⟨os⟩ Berim e eles se ajuntaram e foram também após ele",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "E ele passou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "por todas ⟨as⟩"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tribos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "até Abel"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e ⟨a⟩ casa"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "de Maacá"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todos ⟨os⟩"
+    },
+    {
+      "surface": "הברים",
+      "gloss": "Berim"
+    },
+    {
+      "surface": "ויקלהו",
+      "gloss": "e eles se ajuntaram"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e foram"
+    },
+    {
+      "surface": "אף",
+      "gloss": "também"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "após ele"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17729,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 18184
-  },
-  "translation": "E ele passou por todas ⟨as⟩ tribos de Yisrael até Abel e ⟨a⟩ casa de Maacá e todos ⟨os⟩ Berim e eles se ajuntaram e foram também após ele",
-  "tokens": [
-    {
-      "surface": "ויעבר",
-      "english": "E ele passou"
-    },
-    {
-      "surface": "בכל",
-      "english": "por todas ⟨as⟩"
-    },
-    {
-      "surface": "שבטי",
-      "english": "tribos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אבלה",
-      "english": "até Abel"
-    },
-    {
-      "surface": "ובית",
-      "english": "e ⟨a⟩ casa"
-    },
-    {
-      "surface": "מעכה",
-      "english": "de Maacá"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todos ⟨os⟩"
-    },
-    {
-      "surface": "הברים",
-      "english": "Berim"
-    },
-    {
-      "surface": "ויקלהו",
-      "english": "e eles se ajuntaram"
-    },
-    {
-      "surface": "ויבאו",
-      "english": "e foram"
-    },
-    {
-      "surface": "אף",
-      "english": "também"
-    },
-    {
-      "surface": "אחריו",
-      "english": "após ele"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:03:13.529967142Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

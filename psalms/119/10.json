@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 119:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 403,
-    "prompt_tokens": 70224,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70627
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:47:56.928397434Z",
   "translation": "Com ⟨todo⟩ ⟨o⟩ meu coração te busquei; não me faças errar de ⟨os⟩ teus mandamentos.",
   "tokens": [
     {
       "surface": "בכל",
-      "english": "Com todo"
+      "gloss": "Com todo"
     },
     {
       "surface": "לבי",
-      "english": "o meu coração"
+      "gloss": "o meu coração"
     },
     {
       "surface": "דרשתיך",
-      "english": "te busquei"
+      "gloss": "te busquei"
     },
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תשגני",
-      "english": "me faças errar"
+      "gloss": "me faças errar"
     },
     {
       "surface": "ממצותיך",
-      "english": "de os teus mandamentos"
+      "gloss": "de os teus mandamentos"
     }
-  ],
-  "timestamp": "2026-07-16T17:47:56.928397434Z",
-  "model": "glm-4.5"
+  ]
 }

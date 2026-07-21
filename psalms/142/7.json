@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 142:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 142,
-  "usage": {
-    "completion_tokens": 536,
-    "prompt_tokens": 70716,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71252
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:59.531366431Z",
   "translation": "Inclina ⟨o⟩ ouvido ⟨ao⟩ meu clamor, pois estou muito fraco; liberta-me dos meus perseguidores, pois são mais fortes do que eu.",
   "tokens": [
     {
       "surface": "הקשיבה",
-      "english": "Inclina"
+      "gloss": "Inclina"
     },
     {
       "surface": "אל",
-      "english": "⟨ao⟩",
+      "gloss": "⟨ao⟩",
       "marks": "clamor"
     },
     {
       "surface": "רנתי",
-      "english": "meu clamor"
+      "gloss": "meu clamor"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "דלותי",
-      "english": "estou muito fraco"
+      "gloss": "estou muito fraco"
     },
     {
       "surface": "מאד",
-      "english": "muito"
+      "gloss": "muito"
     },
     {
       "surface": "הצילני",
-      "english": "liberta-me"
+      "gloss": "liberta-me"
     },
     {
       "surface": "מרדפי",
-      "english": "dos meus perseguidores"
+      "gloss": "dos meus perseguidores"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "אמצו",
-      "english": "são mais fortes"
+      "gloss": "são mais fortes"
     },
     {
       "surface": "ממני",
-      "english": "do que eu"
+      "gloss": "do que eu"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:59.531366431Z",
-  "model": "glm-4.5"
+  ]
 }

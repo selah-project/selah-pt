@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "daniel 5:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16931,
-    "prompt_tokens_details": {
-      "cached_tokens": 16111
-    },
-    "total_tokens": 17317
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:53:40.148447436Z",
   "translation": "Naquela noite ⟨foi⟩ morto Belshazzar, o rei dos caldeus.",
   "tokens": [
     {
       "surface": "בה",
-      "english": "Naquela",
+      "gloss": "Naquela",
       "marks": "noite"
     },
     {
       "surface": "בליליא",
-      "english": "noite"
+      "gloss": "noite"
     },
     {
       "surface": "קטיל",
-      "english": "foi morto"
+      "gloss": "foi morto"
     },
     {
       "surface": "בלאשצר",
-      "english": "Belshazzar"
+      "gloss": "Belshazzar"
     },
     {
       "surface": "מלכא",
-      "english": "o rei"
+      "gloss": "o rei"
     },
     {
       "surface": "כשדיא",
-      "english": "dos caldeus"
+      "gloss": "dos caldeus"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:53:40.148447436Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

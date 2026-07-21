@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "jeremiah 34:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 34,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:38:45.163475986Z",
+  "translation": "E o exército do rei de Bavel estava lutando contra Yerushalayim e contra todas as cidades de Yehudá ⟨que⟩ restavam, ⟨contra⟩ Laquis e ⟨contra⟩ Azeca, porque ⟨eis que⟩ estas eram as ⟨que⟩ restaram das cidades de Yehudá, cidades fortificadas.",
+  "tokens": [
+    {
+      "surface": "וחיל",
+      "gloss": "E o exército"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "do rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "estava lutando"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e contra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todas"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cidades"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "הנותרות",
+      "gloss": "⟨que⟩ restavam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨contra⟩"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Laquis"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ⟨contra⟩"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨eis que⟩"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "⟨que⟩ restaram"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "das cidades"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cidades"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fortificadas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -34,112 +129,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 631,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18759,
-    "prompt_tokens_details": {
-      "cached_tokens": 16391
-    },
-    "total_tokens": 19390
-  },
-  "translation": "E o exército do rei de Bavel estava lutando contra Yerushalayim e contra todas as cidades de Yehudá ⟨que⟩ restavam, ⟨contra⟩ Laquis e ⟨contra⟩ Azeca, porque ⟨eis que⟩ estas eram as ⟨que⟩ restaram das cidades de Yehudá, cidades fortificadas.",
-  "tokens": [
-    {
-      "surface": "וחיל",
-      "english": "E o exército"
-    },
-    {
-      "surface": "מלך",
-      "english": "do rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "נלחמים",
-      "english": "estava lutando"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "ועל",
-      "english": "e contra"
-    },
-    {
-      "surface": "כל",
-      "english": "todas"
-    },
-    {
-      "surface": "ערי",
-      "english": "cidades"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "הנותרות",
-      "english": "⟨que⟩ restavam"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨contra⟩"
-    },
-    {
-      "surface": "לכיש",
-      "english": "Laquis"
-    },
-    {
-      "surface": "ואל",
-      "english": "e ⟨contra⟩"
-    },
-    {
-      "surface": "עזקה",
-      "english": "Azeca"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "הנה",
-      "english": "⟨eis que⟩"
-    },
-    {
-      "surface": "נשארו",
-      "english": "⟨que⟩ restaram"
-    },
-    {
-      "surface": "בערי",
-      "english": "das cidades"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ערי",
-      "english": "cidades"
-    },
-    {
-      "surface": "מבצר",
-      "english": "fortificadas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:38:45.163475986Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

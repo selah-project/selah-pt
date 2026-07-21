@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "numbers 5:16",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 25432,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25836
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:04:58.757834062Z",
   "translation": "e o Kohen fará ⟨ela⟩ chegar e a fará permanecer ⟨את⟩ diante de YHWH",
   "tokens": [
     {
       "surface": "והקריב",
-      "english": "e fará chegar"
+      "gloss": "e fará chegar"
     },
     {
       "surface": "אתה",
-      "english": "ela"
+      "gloss": "ela"
     },
     {
       "surface": "הכהן",
-      "english": "o Kohen"
+      "gloss": "o Kohen"
     },
     {
       "surface": "והעמדה",
-      "english": "e a fará permanecer",
+      "gloss": "e a fará permanecer",
       "marks": "ela"
     },
     {
       "surface": "לפני",
-      "english": "diante de"
+      "gloss": "diante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T17:04:58.757834062Z",
-  "model": "glm-4.5"
+  ]
 }

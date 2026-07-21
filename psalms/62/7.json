@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 62:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62905,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63296
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:19:40.099749460Z",
   "translation": "Porém ele ⟨é⟩ a minha rocha e ⟨o⟩ meu livramento, ⟨o⟩ meu refúgio alto — não ⟨serei⟩ abalado.",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Porém"
+      "gloss": "Porém"
     },
     {
       "surface": "הוא",
-      "english": "ele",
+      "gloss": "ele",
       "marks": "YHWH"
     },
     {
       "surface": "צורי",
-      "english": "a minha rocha"
+      "gloss": "a minha rocha"
     },
     {
       "surface": "וישועתי",
-      "english": "e ⟨o⟩ meu livramento"
+      "gloss": "e ⟨o⟩ meu livramento"
     },
     {
       "surface": "משגבי",
-      "english": "⟨o⟩ meu refúgio alto"
+      "gloss": "⟨o⟩ meu refúgio alto"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "אמוט",
-      "english": "⟨serei⟩ abalado"
+      "gloss": "⟨serei⟩ abalado"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:19:40.099749460Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

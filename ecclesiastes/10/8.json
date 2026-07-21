@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "ecclesiastes 10:8",
   "book": "ecclesiastes",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 286,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24773,
-    "prompt_tokens_details": {
-      "cached_tokens": 23709
-    },
-    "total_tokens": 25059
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:49:54.249585664Z",
   "translation": "Quem cava ⟨uma⟩ cova cairá nela, e quem arromba ⟨um⟩ muro ⟨será⟩ mordido por ⟨uma⟩ serpente.",
   "tokens": [
     {
       "surface": "חפר",
-      "english": "cava"
+      "gloss": "cava"
     },
     {
       "surface": "גומץ",
-      "english": "cova"
+      "gloss": "cova"
     },
     {
       "surface": "בו",
-      "english": "nela"
+      "gloss": "nela"
     },
     {
       "surface": "יפול",
-      "english": "cairá"
+      "gloss": "cairá"
     },
     {
       "surface": "ופרץ",
-      "english": "arromba"
+      "gloss": "arromba"
     },
     {
       "surface": "גדר",
-      "english": "muro"
+      "gloss": "muro"
     },
     {
       "surface": "ישכנו",
-      "english": "será mordido por"
+      "gloss": "será mordido por"
     },
     {
       "surface": "נחש",
-      "english": "serpente"
+      "gloss": "serpente"
     }
-  ],
-  "timestamp": "2026-06-13T06:49:54.249585664Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "exodus 29:11",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 506,
-    "prompt_tokens": 24411,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24917
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:58:22.278865650Z",
   "translation": "E degolarás ⟨את⟩ ⟨o⟩ novilho diante de YHWH ⟨na⟩ entrada da tenda da congregação",
   "tokens": [
     {
       "surface": "ושחטת",
-      "english": "E degolarás"
+      "gloss": "E degolarás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o novilho"
     },
     {
       "surface": "הפר",
-      "english": "o novilho"
+      "gloss": "o novilho"
     },
     {
       "surface": "לפני",
-      "english": "diante de"
+      "gloss": "diante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "פתח",
-      "english": "⟨na⟩ entrada"
+      "gloss": "⟨na⟩ entrada"
     },
     {
       "surface": "אהל",
-      "english": "da tenda"
+      "gloss": "da tenda"
     },
     {
       "surface": "מועד",
-      "english": "da congregação"
+      "gloss": "da congregação"
     }
-  ],
-  "timestamp": "2026-07-16T13:58:22.278865650Z",
-  "model": "glm-4.5"
+  ]
 }

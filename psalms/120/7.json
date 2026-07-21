@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 120:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 120,
-  "usage": {
-    "completion_tokens": 360,
-    "prompt_tokens": 62692,
-    "prompt_tokens_details": {
-      "cached_tokens": 61824
-    },
-    "total_tokens": 63052
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:03:41.915200974Z",
   "translation": "Eu sou ⟨pela⟩ shalom; mas quando falo, eles são para a guerra.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Eu sou"
+      "gloss": "Eu sou"
     },
     {
       "surface": "שלום",
-      "english": "shalom"
+      "gloss": "shalom"
     },
     {
       "surface": "וכי",
-      "english": "mas quando"
+      "gloss": "mas quando"
     },
     {
       "surface": "אדבר",
-      "english": "falo"
+      "gloss": "falo"
     },
     {
       "surface": "המה",
-      "english": "eles são"
+      "gloss": "eles são"
     },
     {
       "surface": "למלחמה",
-      "english": "para a guerra"
+      "gloss": "para a guerra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:03:41.915200974Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

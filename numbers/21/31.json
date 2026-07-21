@@ -1,9 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "numbers 21:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 21,
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:31:55.512996354Z",
+  "translation": "E Yisrael habitou ⟨na⟩ terra ⟨dos⟩ amorreus.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E Israel habitou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ terra"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "⟨dos⟩ amorreus"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,40 +36,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 232,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17682,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 17914
-  },
-  "translation": "E Yisrael habitou ⟨na⟩ terra ⟨dos⟩ amorreus.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E Israel habitou"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨na⟩ terra"
-    },
-    {
-      "surface": "האמרי",
-      "english": "⟨dos⟩ amorreus"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:31:55.512996354Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

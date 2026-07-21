@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 47:6",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 462,
-    "prompt_tokens": 70225,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70687
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:38:40.756006748Z",
   "translation": "Elohim subiu com ⟨um⟩ grito de júbilo, YHWH com ⟨o⟩ som de ⟨o⟩ shofar.",
   "tokens": [
     {
       "surface": "עלה",
-      "english": "subiu"
+      "gloss": "subiu"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בתרועה",
-      "english": "com ⟨um⟩ grito de júbilo"
+      "gloss": "com ⟨um⟩ grito de júbilo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בקול",
-      "english": "com ⟨o⟩ som de"
+      "gloss": "com ⟨o⟩ som de"
     },
     {
       "surface": "שופר",
-      "english": "⟨o⟩ shofar"
+      "gloss": "⟨o⟩ shofar"
     }
-  ],
-  "timestamp": "2026-07-16T17:38:40.756006748Z",
-  "model": "glm-4.5"
+  ]
 }

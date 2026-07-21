@@ -1,52 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 88:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 623,
-    "prompt_tokens": 70393,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71016
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:43:35.376685853Z",
   "translation": "Sobre mim ⟨pesa⟩ tua indignação, e ⟨com⟩ todos ⟨os⟩ teus vagalhões ⟨esmagas⟩ a mim, selá.",
   "tokens": [
     {
       "surface": "עלי",
-      "english": "Sobre mim"
+      "gloss": "Sobre mim"
     },
     {
       "surface": "סמכה",
-      "english": "⟨pesa⟩",
+      "gloss": "⟨pesa⟩",
       "notes": "substitution: traduzido por 'pesa' para captar a ideia de peso e pressão contínua, embora o sentido literal de 'apoiar\/encostar' (סמך) esteja presente na raiz."
     },
     {
       "surface": "חמתך",
-      "english": "tua indignação"
+      "gloss": "tua indignação"
     },
     {
       "surface": "וכל",
-      "english": "e todos"
+      "gloss": "e todos"
     },
     {
       "surface": "משבריך",
-      "english": "teus vagalhões",
+      "gloss": "teus vagalhões",
       "notes": "idiom: מִשְׁבָּר refere-se às ondas quebrantes do mar; 'vagalhões' transmite a imagem de força avassaladora."
     },
     {
       "surface": "ענית",
-      "english": "⟨esmagas⟩ a mim",
+      "gloss": "⟨esmagas⟩ a mim",
       "notes": "substitution: a forma עָנָה (aná) pode significar 'humilhar' ou 'oprimir'; 'esmagas' reforça o peso das ondas mencionadas anteriormente."
     },
     {
       "surface": "סלה",
-      "english": "selá"
+      "gloss": "selá"
     }
-  ],
-  "timestamp": "2026-07-16T17:43:35.376685853Z",
-  "model": "glm-4.5"
+  ]
 }

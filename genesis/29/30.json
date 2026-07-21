@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "genesis 29:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 29,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:10:56.986283356Z",
+  "translation": "E entrou também ⟨a⟩ Rajel, e amou ⟨a⟩ Rajel mais ⟨do⟩ ⟨que⟩ Leia, e serviu com ele ainda sete outros anos",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E entrou"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "e amou"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Raquel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "mais ⟨do⟩ ⟨que⟩ Leia"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "e serviu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "com ele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ainda"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sete"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anos"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "outros"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Raquel",
@@ -20,85 +88,6 @@
       "hebrew": "רחל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 533,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21995,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22528
-  },
-  "translation": "E entrou também ⟨a⟩ Rajel, e amou ⟨a⟩ Rajel mais ⟨do⟩ ⟨que⟩ Leia, e serviu com ele ainda sete outros anos",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E entrou"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "רחל",
-      "english": "Rajel"
-    },
-    {
-      "surface": "ויאהב",
-      "english": "e amou"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Raquel"
-    },
-    {
-      "surface": "רחל",
-      "english": "Rajel"
-    },
-    {
-      "surface": "מלאה",
-      "english": "mais ⟨do⟩ ⟨que⟩ Leia"
-    },
-    {
-      "surface": "ויעבד",
-      "english": "e serviu"
-    },
-    {
-      "surface": "עמו",
-      "english": "com ele"
-    },
-    {
-      "surface": "עוד",
-      "english": "ainda"
-    },
-    {
-      "surface": "שבע",
-      "english": "sete"
-    },
-    {
-      "surface": "שנים",
-      "english": "anos"
-    },
-    {
-      "surface": "אחרות",
-      "english": "outros"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:10:56.986283356Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "numbers 16:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 16,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:26:59.240552174Z",
+  "translation": "E Moshé ouviu e caiu sobre ⟨o⟩ ⟨seu⟩ rosto",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "E Mosheh ouviu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואיפל",
+      "gloss": "e caiu"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨o⟩ ⟨seu⟩ rosto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,44 +40,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 192,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17778,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 17970
-  },
-  "translation": "E Moshé ouviu e caiu sobre ⟨o⟩ ⟨seu⟩ rosto",
-  "tokens": [
-    {
-      "surface": "וישמע",
-      "english": "E Mosheh ouviu"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ואיפל",
-      "english": "e caiu"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "פניו",
-      "english": "⟨o⟩ ⟨seu⟩ rosto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:26:59.240552174Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

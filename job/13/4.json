@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 13:4",
   "book": "job",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 519,
-    "prompt_tokens": 27462,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27981
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:57:24.615425336Z",
   "translation": "Mas vós sois forjadores de mentira, médicos de nada ⟨vós todos⟩",
   "tokens": [
     {
       "surface": "ואולם",
-      "english": "Mas"
+      "gloss": "Mas"
     },
     {
       "surface": "אתם",
-      "english": "vós sois"
+      "gloss": "vós sois"
     },
     {
       "surface": "טפלי",
-      "english": "forjadores"
+      "gloss": "forjadores"
     },
     {
       "surface": "שקר",
-      "english": "de mentira"
+      "gloss": "de mentira"
     },
     {
       "surface": "רפאי",
-      "english": "médicos"
+      "gloss": "médicos"
     },
     {
       "surface": "אלל",
-      "english": "de nada"
+      "gloss": "de nada"
     },
     {
       "surface": "כלכם",
-      "english": "⟨vós todos⟩"
+      "gloss": "⟨vós todos⟩"
     }
-  ],
-  "timestamp": "2026-07-16T15:57:24.615425336Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 96:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 586,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70729,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 71315
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:26.156323077Z",
   "translation": "Digam ⟨entre⟩ as nações: YHWH ⟨é⟩ Rei, ⟨também⟩ ⟨o⟩ mundo ⟨está⟩ estabelecido ⟨para que⟩ não ⟨se⟩ mova; Ele julgará ⟨os⟩ povos com ⟨a⟩ justiça.",
   "tokens": [
     {
       "surface": "אמרו",
-      "english": "Digam"
+      "gloss": "Digam"
     },
     {
       "surface": "בגוים",
-      "english": "⟨entre⟩ as nações"
+      "gloss": "⟨entre⟩ as nações"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מלך",
-      "english": "⟨é⟩ Rei"
+      "gloss": "⟨é⟩ Rei"
     },
     {
       "surface": "אף",
-      "english": "⟨também⟩"
+      "gloss": "⟨também⟩"
     },
     {
       "surface": "תכון",
-      "english": "⟨o⟩ mundo ⟨está⟩ estabelecido"
+      "gloss": "⟨o⟩ mundo ⟨está⟩ estabelecido"
     },
     {
       "surface": "תבל",
-      "english": "⟨para que⟩ não"
+      "gloss": "⟨para que⟩ não"
     },
     {
       "surface": "בל",
-      "english": "⟨se⟩ mova"
+      "gloss": "⟨se⟩ mova"
     },
     {
       "surface": "תמוט",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ידין",
-      "english": "Ele julgará"
+      "gloss": "Ele julgará"
     },
     {
       "surface": "עמים",
-      "english": "⟨os⟩ povos"
+      "gloss": "⟨os⟩ povos"
     },
     {
       "surface": "במישרים",
-      "english": "com ⟨a⟩ justiça"
+      "gloss": "com ⟨a⟩ justiça"
     }
-  ],
-  "timestamp": "2026-06-13T06:40:26.156323077Z",
-  "model": "glm-4.5"
+  ]
 }

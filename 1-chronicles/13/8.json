@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-chronicles 13:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 13,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:47:47.132095168Z",
+  "translation": "E David e todo Yisrael jogavam (dançavam) perante ⟨o⟩ Elohim com toda ⟨a⟩ força, e com cânticos, e com harpas, e com saltérios, e com tamborins, e com címbalos, e com trombetas",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "E David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "jogavam (dançavam)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "perante"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨o⟩ Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "com toda ⟨a⟩"
+    },
+    {
+      "surface": "עז",
+      "gloss": "força"
+    },
+    {
+      "surface": "ובשירים",
+      "gloss": "e com cânticos"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "e com harpas"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "e com saltérios"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "e com tamborins"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "e com címbalos"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "e com trombetas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,80 +76,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57839,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 58406
-  },
-  "translation": "E David e todo Yisrael jogavam (dançavam) perante ⟨o⟩ Elohim com toda ⟨a⟩ força, e com cânticos, e com harpas, e com saltérios, e com tamborins, e com címbalos, e com trombetas",
-  "tokens": [
-    {
-      "surface": "ודויד",
-      "english": "E David"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "משחקים",
-      "english": "jogavam (dançavam)"
-    },
-    {
-      "surface": "לפני",
-      "english": "perante"
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨o⟩ Elohim"
-    },
-    {
-      "surface": "בכל",
-      "english": "com toda ⟨a⟩"
-    },
-    {
-      "surface": "עז",
-      "english": "força"
-    },
-    {
-      "surface": "ובשירים",
-      "english": "e com cânticos"
-    },
-    {
-      "surface": "ובכנרות",
-      "english": "e com harpas"
-    },
-    {
-      "surface": "ובנבלים",
-      "english": "e com saltérios"
-    },
-    {
-      "surface": "ובתפים",
-      "english": "e com tamborins"
-    },
-    {
-      "surface": "ובמצלתים",
-      "english": "e com címbalos"
-    },
-    {
-      "surface": "ובחצצרות",
-      "english": "e com trombetas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:47:47.132095168Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

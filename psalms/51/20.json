@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 51:20",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 476,
-    "prompt_tokens": 70277,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70753
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:38:48.721233185Z",
   "translation": "Faze o bem conforme a tua vontade ⟨את⟩ Tzion, constrói os muros de Yerushalayim",
   "tokens": [
     {
       "surface": "היטיבה",
-      "english": "Faze o bem"
+      "gloss": "Faze o bem"
     },
     {
       "surface": "ברצונך",
-      "english": "conforme a tua vontade"
+      "gloss": "conforme a tua vontade"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Tzion"
     },
     {
       "surface": "ציון",
-      "english": "Tzion"
+      "gloss": "Tzion"
     },
     {
       "surface": "תבנה",
-      "english": "constrói"
+      "gloss": "constrói"
     },
     {
       "surface": "חומות",
-      "english": "os muros"
+      "gloss": "os muros"
     },
     {
       "surface": "ירושלם",
-      "english": "de Yerushalayim"
+      "gloss": "de Yerushalayim"
     }
-  ],
-  "timestamp": "2026-07-16T17:38:48.721233185Z",
-  "model": "glm-4.5"
+  ]
 }

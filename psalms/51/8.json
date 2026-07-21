@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 51:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 51,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:12:55.205918100Z",
+  "translation": "Eis que ⟨tu⟩ desejaste Emet ⟨no⟩ ⟨oculto⟩ e ⟨em⟩ segredo Jojmá me farás saber",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Emet"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "desejaste"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "⟨no⟩ ⟨oculto⟩"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "⟨em⟩ segredo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "me farás saber"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "verdade",
@@ -20,52 +55,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 51,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62927,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63354
-  },
-  "translation": "Eis que ⟨tu⟩ desejaste Emet ⟨no⟩ ⟨oculto⟩ e ⟨em⟩ segredo Jojmá me farás saber",
-  "tokens": [
-    {
-      "surface": "הן",
-      "english": "Eis que"
-    },
-    {
-      "surface": "אמת",
-      "english": "Emet"
-    },
-    {
-      "surface": "חפצת",
-      "english": "desejaste"
-    },
-    {
-      "surface": "בטחות",
-      "english": "⟨no⟩ ⟨oculto⟩"
-    },
-    {
-      "surface": "ובסתם",
-      "english": "⟨em⟩ segredo"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "תודיעני",
-      "english": "me farás saber"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:12:55.205918100Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

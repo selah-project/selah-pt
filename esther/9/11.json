@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "esther 9:11",
   "book": "esther",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25105,
-    "prompt_tokens_details": {
-      "cached_tokens": 23947
-    },
-    "total_tokens": 25563
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:57:12.144968913Z",
   "translation": "Naquele dia ⟨veio⟩ ⟨o⟩ número ⟨dos⟩ mortos ⟨em⟩ Susã ⟨a⟩ cidadela ⟨diante de⟩ o rei",
   "tokens": [
     {
       "surface": "ביום",
-      "english": "Naquele dia"
+      "gloss": "Naquele dia"
     },
     {
       "surface": "ההוא",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "בא",
-      "english": "⟨veio⟩"
+      "gloss": "⟨veio⟩"
     },
     {
       "surface": "מספר",
-      "english": "número"
+      "gloss": "número"
     },
     {
       "surface": "ההרוגים",
-      "english": "⟨dos⟩ mortos"
+      "gloss": "⟨dos⟩ mortos"
     },
     {
       "surface": "בשושן",
-      "english": "⟨em⟩ Susã"
+      "gloss": "⟨em⟩ Susã"
     },
     {
       "surface": "הבירה",
-      "english": "⟨a⟩ cidadela"
+      "gloss": "⟨a⟩ cidadela"
     },
     {
       "surface": "לפני",
-      "english": "⟨diante de⟩"
+      "gloss": "⟨diante de⟩"
     },
     {
       "surface": "המלך",
-      "english": "o rei"
+      "gloss": "o rei"
     }
-  ],
-  "timestamp": "2026-06-14T04:57:12.144968913Z",
-  "model": "glm-4.5"
+  ]
 }

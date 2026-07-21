@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "ecclesiastes 7:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
+  "chapter": 7,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:32:59.795151470Z",
+  "translation": "Pois na sombra da sabedoria ⟨está⟩ na sombra da prata e ⟨o⟩ vantagem ⟨do⟩ Daat da sabedoria ⟨é que⟩ ela dá vida aos seus donos",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "na sombra"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "da sabedoria"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "na sombra"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "da prata"
+    },
+    {
+      "surface": "ו�יתרון",
+      "gloss": "e ⟨o⟩ vantagem"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "⟨do⟩ Daat"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "da sabedoria"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "⟨é que⟩ ela dá vida"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "aos seus donos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "conhecimento",
@@ -13,64 +60,6 @@
       "hebrew": "דעת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17607,
-    "prompt_tokens_details": {
-      "cached_tokens": 16385
-    },
-    "total_tokens": 18078
-  },
-  "translation": "Pois na sombra da sabedoria ⟨está⟩ na sombra da prata e ⟨o⟩ vantagem ⟨do⟩ Daat da sabedoria ⟨é que⟩ ela dá vida aos seus donos",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "בצל",
-      "english": "na sombra"
-    },
-    {
-      "surface": "החכמה",
-      "english": "da sabedoria"
-    },
-    {
-      "surface": "בצל",
-      "english": "na sombra"
-    },
-    {
-      "surface": "הכסף",
-      "english": "da prata"
-    },
-    {
-      "surface": "ו�יתרון",
-      "english": "e ⟨o⟩ vantagem"
-    },
-    {
-      "surface": "דעת",
-      "english": "⟨do⟩ Daat"
-    },
-    {
-      "surface": "החכמה",
-      "english": "da sabedoria"
-    },
-    {
-      "surface": "תחיה",
-      "english": "⟨é que⟩ ela dá vida"
-    },
-    {
-      "surface": "בעליה",
-      "english": "aos seus donos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:32:59.795151470Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

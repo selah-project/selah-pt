@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 50:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62901,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63339
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:12:11.640907682Z",
   "translation": "⟨He⟩ chamará ⟨para⟩ os céus ⟨de⟩ cima e ⟨para⟩ a terra, ⟨para⟩ julgar ⟨o⟩ seu povo.",
   "tokens": [
     {
       "surface": "יקרא",
-      "english": "Chamará"
+      "gloss": "Chamará"
     },
     {
       "surface": "אל",
-      "english": "⟨para⟩"
+      "gloss": "⟨para⟩"
     },
     {
       "surface": "השמים",
-      "english": "os céus"
+      "gloss": "os céus"
     },
     {
       "surface": "מעל",
-      "english": "⟨de⟩ cima"
+      "gloss": "⟨de⟩ cima"
     },
     {
       "surface": "ואל",
-      "english": "e ⟨para⟩"
+      "gloss": "e ⟨para⟩"
     },
     {
       "surface": "הארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     },
     {
       "surface": "לדין",
-      "english": "⟨para⟩ julgar"
+      "gloss": "⟨para⟩ julgar"
     },
     {
       "surface": "עמו",
-      "english": "⟨o⟩ seu povo"
+      "gloss": "⟨o⟩ seu povo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:12:11.640907682Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 22:12",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 542,
-    "prompt_tokens": 24348,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24890
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:54:28.653960344Z",
   "translation": "Se for dilacerado, que o traga como ⟨testemunha⟩, a dilaceração não ⟨será⟩ restituída",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Se"
+      "gloss": "Se"
     },
     {
       "surface": "טרף",
-      "english": "for dilacerado"
+      "gloss": "for dilacerado"
     },
     {
       "surface": "יטרף",
-      "english": "que o traga"
+      "gloss": "que o traga"
     },
     {
       "surface": "יבאהו",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "עד",
-      "english": "⟨testemunha⟩"
+      "gloss": "⟨testemunha⟩"
     },
     {
       "surface": "הטרפה",
-      "english": "a dilaceração"
+      "gloss": "a dilaceração"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "ישלם",
-      "english": "⟨será⟩ restituída"
+      "gloss": "⟨será⟩ restituída"
     }
-  ],
-  "timestamp": "2026-07-16T13:54:28.653960344Z",
-  "model": "glm-4.5"
+  ]
 }

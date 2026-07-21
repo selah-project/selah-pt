@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "deuteronomy 24:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17458,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 17857
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:13:43.941928600Z",
   "translation": "e ⟨ela⟩ sair ⟨de⟩ ⟨a⟩ sua casa e ⟨ela⟩ ir e ⟨ela⟩ ser ⟨para⟩ homem outro",
   "tokens": [
     {
       "surface": "ויצאה",
-      "english": "E ⟨ela⟩ sair",
+      "gloss": "E ⟨ela⟩ sair",
       "marks": null
     },
     {
       "surface": "מביתו",
-      "english": "⟨de⟩ ⟨a⟩ sua casa",
+      "gloss": "⟨de⟩ ⟨a⟩ sua casa",
       "marks": "casa"
     },
     {
       "surface": "והלכה",
-      "english": "e ⟨ela⟩ ir",
+      "gloss": "e ⟨ela⟩ ir",
       "marks": null
     },
     {
       "surface": "והיתה",
-      "english": "e ⟨ela⟩ ser",
+      "gloss": "e ⟨ela⟩ ser",
       "marks": null
     },
     {
       "surface": "לאיש",
-      "english": "⟨para⟩ homem",
+      "gloss": "⟨para⟩ homem",
       "marks": "homem"
     },
     {
       "surface": "אחר",
-      "english": "outro",
+      "gloss": "outro",
       "marks": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:13:43.941928600Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

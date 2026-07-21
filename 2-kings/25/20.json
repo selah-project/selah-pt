@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-kings 25:20",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 448,
-    "prompt_tokens": 24789,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25237
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:45:13.433175583Z",
   "translation": "E Nevuzaradan, o ⟨את⟩ rab-tabachim, tomou-os e levou-os ao rei de Bavel, a Rivlá.",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "e tomou"
+      "gloss": "e tomou"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Nevuzaradan"
     },
     {
       "surface": "נבוזראדן",
-      "english": "Nevuzaradan"
+      "gloss": "Nevuzaradan"
     },
     {
       "surface": "רב",
-      "english": "o"
+      "gloss": "o"
     },
     {
       "surface": "טבחים",
-      "english": "rab-tabachim"
+      "gloss": "rab-tabachim"
     },
     {
       "surface": "וילך",
-      "english": "e levou-os"
+      "gloss": "e levou-os"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a"
     },
     {
       "surface": "על",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "מלך",
-      "english": "rei"
+      "gloss": "rei"
     },
     {
       "surface": "בבל",
-      "english": "de Bavel"
+      "gloss": "de Bavel"
     },
     {
       "surface": "רבלתה",
-      "english": "a Rivlá"
+      "gloss": "a Rivlá"
     }
-  ],
-  "timestamp": "2026-07-16T12:45:13.433175583Z",
-  "model": "glm-4.5"
+  ]
 }

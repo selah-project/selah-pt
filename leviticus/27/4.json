@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "leviticus 27:4",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24659,
-    "prompt_tokens_details": {
-      "cached_tokens": 23736
-    },
-    "total_tokens": 25004
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:27:54.967116477Z",
   "translation": "E se ⟨ela⟩ ⟨for⟩ uma mulher, então ⟨o teu⟩ ⟨avaliação⟩ ⟨será⟩ trinta siclos",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "E se"
+      "gloss": "E se"
     },
     {
       "surface": "נקבה",
-      "english": "uma mulher"
+      "gloss": "uma mulher"
     },
     {
       "surface": "הוא",
-      "english": "ela"
+      "gloss": "ela"
     },
     {
       "surface": "והיה",
-      "english": "então"
+      "gloss": "então"
     },
     {
       "surface": "ערכך",
-      "english": "avaliação"
+      "gloss": "avaliação"
     },
     {
       "surface": "שלשים",
-      "english": "trinta"
+      "gloss": "trinta"
     },
     {
       "surface": "שקל",
-      "english": "siclos"
+      "gloss": "siclos"
     }
-  ],
-  "timestamp": "2026-06-13T05:27:54.967116477Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "numbers 26:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 26,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:37:35.906020376Z",
+  "translation": "E ⟨eram⟩ ⟨os⟩ filhos de Yehudá ⟨nas suas⟩ famílias: ⟨de⟩ Selá, a família dos shelanitas; ⟨de⟩ Peretz, a família dos peretzitas; ⟨de⟩ Zerach, a família dos zerachitas",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E ⟨eram⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨nas suas⟩ famílias"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "⟨de⟩ Selá"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "a família"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "dos shelanitas"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "⟨de⟩ Peretz"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "a família"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "dos peretzitas"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "⟨de⟩ Zerach"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "a família"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "dos zerachitas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,76 +72,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 540,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18689,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19229
-  },
-  "translation": "E ⟨eram⟩ ⟨os⟩ filhos de Yehudá ⟨nas suas⟩ famílias: ⟨de⟩ Selá, a família dos shelanitas; ⟨de⟩ Peretz, a família dos peretzitas; ⟨de⟩ Zerach, a família dos zerachitas",
-  "tokens": [
-    {
-      "surface": "ויהיו",
-      "english": "E ⟨eram⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "⟨nas suas⟩ famílias"
-    },
-    {
-      "surface": "לשלה",
-      "english": "⟨de⟩ Selá"
-    },
-    {
-      "surface": "משפחת",
-      "english": "a família"
-    },
-    {
-      "surface": "השלני",
-      "english": "dos shelanitas"
-    },
-    {
-      "surface": "לפרץ",
-      "english": "⟨de⟩ Peretz"
-    },
-    {
-      "surface": "משפחת",
-      "english": "a família"
-    },
-    {
-      "surface": "הפרצי",
-      "english": "dos peretzitas"
-    },
-    {
-      "surface": "לזרח",
-      "english": "⟨de⟩ Zerach"
-    },
-    {
-      "surface": "משפחת",
-      "english": "a família"
-    },
-    {
-      "surface": "הזרחי",
-      "english": "dos zerachitas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:37:35.906020376Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 21:3",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 496,
-    "prompt_tokens": 60116,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60612
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:30:48.978505902Z",
   "translation": "Fazer tzédaká e mishpát é escolhido por YHWH ⟨mais do que⟩ sacrifício",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "Fazer"
+      "gloss": "Fazer"
     },
     {
       "surface": "צדקה",
-      "english": "tzédaká"
+      "gloss": "tzédaká"
     },
     {
       "surface": "ומשפט",
-      "english": "e mishpát"
+      "gloss": "e mishpát"
     },
     {
       "surface": "נבחר",
-      "english": "é escolhido"
+      "gloss": "é escolhido"
     },
     {
       "surface": "ליהוה",
-      "english": "por YHWH"
+      "gloss": "por YHWH"
     },
     {
       "surface": "מזבח",
-      "english": "sacrifício"
+      "gloss": "sacrifício"
     }
-  ],
-  "timestamp": "2026-07-16T17:30:48.978505902Z",
-  "model": "glm-4.5"
+  ]
 }

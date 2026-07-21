@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 99:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 99,
-  "usage": {
-    "completion_tokens": 307,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62795,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63102
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:44:55.459369850Z",
   "translation": "Louvem ⟨o⟩ teu nome, grande e temível, ⟨ele é⟩ santo",
   "tokens": [
     {
       "surface": "יודו",
-      "english": "Louvem"
+      "gloss": "Louvem"
     },
     {
       "surface": "שמך",
-      "english": "⟨o⟩ teu nome"
+      "gloss": "⟨o⟩ teu nome"
     },
     {
       "surface": "גדול",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "ונורא",
-      "english": "e temível"
+      "gloss": "e temível"
     },
     {
       "surface": "קדוש",
-      "english": "santo"
+      "gloss": "santo"
     },
     {
       "surface": "הוא",
-      "english": "⟨ele é⟩"
+      "gloss": "⟨ele é⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:44:55.459369850Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

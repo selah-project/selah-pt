@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "jeremiah 6:14",
   "book": "jeremiah",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 535,
-    "prompt_tokens": 25294,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25829
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:23:48.779018119Z",
   "translation": "Eles curaram ⟨את⟩ a ferida do meu povo levemente, dizendo: Shalom, shalom; e não há shalom.",
   "tokens": [
     {
       "surface": "וירפאו",
-      "english": "Eles curaram"
+      "gloss": "Eles curaram"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a ferida do meu povo"
     },
     {
       "surface": "שבר",
-      "english": "a ferida"
+      "gloss": "a ferida"
     },
     {
       "surface": "עמי",
-      "english": "do meu povo"
+      "gloss": "do meu povo"
     },
     {
       "surface": "על",
-      "english": "levemente"
+      "gloss": "levemente"
     },
     {
       "surface": "נקלה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לאמר",
-      "english": "dizendo"
+      "gloss": "dizendo"
     },
     {
       "surface": "שלום",
-      "english": "Shalom"
+      "gloss": "Shalom"
     },
     {
       "surface": "שלום",
-      "english": "shalom"
+      "gloss": "shalom"
     },
     {
       "surface": "ואין",
-      "english": "e não há"
+      "gloss": "e não há"
     },
     {
       "surface": "שלום",
-      "english": "shalom"
+      "gloss": "shalom"
     }
-  ],
-  "timestamp": "2026-07-16T15:23:48.779018119Z",
-  "model": "glm-4.5"
+  ]
 }

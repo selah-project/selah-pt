@@ -1,9 +1,111 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "2-kings 18:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 18,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:04:47.992115283Z",
+  "translation": "E Rab-Shakeh lhes disse: Dizei, ⟨por⟩ favor, a Chizkijahu: Assim diz o ⟨grande⟩ rei, o rei da Ashshur: Que confiança ⟨é⟩ esta em que confias?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse",
+      "marks": "Rab-Shakeh"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "a eles",
+      "marks": "lhes"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab",
+      "marks": "Rab-Shakeh"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Shakeh",
+      "marks": "Rab-Shakeh"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dizei",
+      "marks": ""
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨por⟩ favor",
+      "marks": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "a",
+      "marks": "Chizkijahu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu",
+      "marks": ""
+    },
+    {
+      "surface": "כה",
+      "gloss": "assim",
+      "marks": ""
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz",
+      "marks": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o ⟨grande⟩",
+      "marks": "rei"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "rei",
+      "marks": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei",
+      "marks": ""
+    },
+    {
+      "surface": "אשור",
+      "gloss": "da Ashshur",
+      "marks": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "que",
+      "marks": ""
+    },
+    {
+      "surface": "הבטחון",
+      "gloss": "confiança",
+      "marks": ""
+    },
+    {
+      "surface": "הזה",
+      "gloss": "esta",
+      "marks": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "em que",
+      "marks": ""
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "confias",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Assíria",
@@ -13,119 +115,6 @@
       "hebrew": "אשור"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 691,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17812,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18503
-  },
-  "translation": "E Rab-Shakeh lhes disse: Dizei, ⟨por⟩ favor, a Chizkijahu: Assim diz o ⟨grande⟩ rei, o rei da Ashshur: Que confiança ⟨é⟩ esta em que confias?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse",
-      "marks": "Rab-Shakeh"
-    },
-    {
-      "surface": "אלהם",
-      "english": "a eles",
-      "marks": "lhes"
-    },
-    {
-      "surface": "רב",
-      "english": "Rab",
-      "marks": "Rab-Shakeh"
-    },
-    {
-      "surface": "שקה",
-      "english": "Shakeh",
-      "marks": "Rab-Shakeh"
-    },
-    {
-      "surface": "אמרו",
-      "english": "dizei",
-      "marks": ""
-    },
-    {
-      "surface": "נא",
-      "english": "⟨por⟩ favor",
-      "marks": ""
-    },
-    {
-      "surface": "אל",
-      "english": "a",
-      "marks": "Chizkijahu"
-    },
-    {
-      "surface": "חזקיהו",
-      "english": "Chizkijahu",
-      "marks": ""
-    },
-    {
-      "surface": "כה",
-      "english": "assim",
-      "marks": ""
-    },
-    {
-      "surface": "אמר",
-      "english": "diz",
-      "marks": ""
-    },
-    {
-      "surface": "המלך",
-      "english": "o ⟨grande⟩",
-      "marks": "rei"
-    },
-    {
-      "surface": "הגדול",
-      "english": "rei",
-      "marks": ""
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei",
-      "marks": ""
-    },
-    {
-      "surface": "אשור",
-      "english": "da Ashshur",
-      "marks": ""
-    },
-    {
-      "surface": "מה",
-      "english": "que",
-      "marks": ""
-    },
-    {
-      "surface": "הבטחון",
-      "english": "confiança",
-      "marks": ""
-    },
-    {
-      "surface": "הזה",
-      "english": "esta",
-      "marks": ""
-    },
-    {
-      "surface": "אשר",
-      "english": "em que",
-      "marks": ""
-    },
-    {
-      "surface": "בטחת",
-      "english": "confias",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:04:47.992115283Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

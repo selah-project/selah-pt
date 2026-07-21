@@ -1,9 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "2-chronicles 29:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 29,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:41:41.044259623Z",
+  "translation": "e dentre ⟨os⟩ filhos de Elitsafán: Shimri e Yeiel; e dentre ⟨os⟩ filhos de Asaf: Zekharyá e Matanias;",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "E dentre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos de",
+      "marks": "Elitsafán"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Elitsafán"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Shimri"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "e Yeiel"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e dentre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos de",
+      "marks": "Asaf"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyá"
+    },
+    {
+      "surface": "ומתניהו",
+      "gloss": "e Matanias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zacarias",
@@ -13,66 +62,6 @@
       "hebrew": "זכריה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58396,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 58780
-  },
-  "translation": "e dentre ⟨os⟩ filhos de Elitsafán: Shimri e Yeiel; e dentre ⟨os⟩ filhos de Asaf: Zekharyá e Matanias;",
-  "tokens": [
-    {
-      "surface": "ומן",
-      "english": "E dentre"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos de",
-      "marks": "Elitsafán"
-    },
-    {
-      "surface": "אליצפן",
-      "english": "Elitsafán"
-    },
-    {
-      "surface": "שמרי",
-      "english": "Shimri"
-    },
-    {
-      "surface": "ויעואל",
-      "english": "e Yeiel"
-    },
-    {
-      "surface": "ומן",
-      "english": "e dentre"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos de",
-      "marks": "Asaf"
-    },
-    {
-      "surface": "אסף",
-      "english": "Asaf"
-    },
-    {
-      "surface": "זכריהו",
-      "english": "Zekharyá"
-    },
-    {
-      "surface": "ומתניהו",
-      "english": "e Matanias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:41:41.044259623Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 125,
   "ref": "psalms 119:125",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 327,
-    "prompt_tokens": 70059,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70386
-  },
+  "verse": 125,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:14.848220165Z",
   "translation": "Teu servo ⟨eu sou⟩, faze-me entender, e conhecerei ⟨as⟩ tuas testemunhas.",
   "tokens": [
     {
       "surface": "עבדך",
-      "english": "Teu servo"
+      "gloss": "Teu servo"
     },
     {
       "surface": "אני",
-      "english": "⟨eu sou⟩"
+      "gloss": "⟨eu sou⟩"
     },
     {
       "surface": "הבינני",
-      "english": "faze-me entender"
+      "gloss": "faze-me entender"
     },
     {
       "surface": "ואדעה",
-      "english": "e conhecerei"
+      "gloss": "e conhecerei"
     },
     {
       "surface": "עדתיך",
-      "english": "⟨as⟩ tuas testemunhas"
+      "gloss": "⟨as⟩ tuas testemunhas"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:14.848220165Z",
-  "model": "glm-4.5"
+  ]
 }

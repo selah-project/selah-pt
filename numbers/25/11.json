@@ -1,9 +1,107 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "numbers 25:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 25,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:36:51.491106802Z",
+  "translation": "Pinechas, filho de Elazar, filho de Aharon, ⟨o⟩ kohen, desviou ⟨a⟩ ira de sobre ⟨os⟩ filhos de Yisrael, com ⟨o⟩ seu zelo por ⟨a⟩ minha honra ⟨את⟩ minha inveja no meio deles, e não consumi ⟨את⟩ ⟨os⟩ filhos de Yisrael na minha inveja.",
+  "tokens": [
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨o⟩ kohen"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "desviou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "ira de"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "ira de"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בקנאו",
+      "gloss": "com ⟨o⟩ seu zelo por"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "minha honra"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "minha honra"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "no meio deles"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "consumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨⟩",
+      "marks": "filhos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "na minha inveja"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Eleazar",
@@ -13,115 +111,6 @@
       "hebrew": "אלעזר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 764,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19598,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 20362
-  },
-  "translation": "Pinechas, filho de Elazar, filho de Aharon, ⟨o⟩ kohen, desviou ⟨a⟩ ira de sobre ⟨os⟩ filhos de Yisrael, com ⟨o⟩ seu zelo por ⟨a⟩ minha honra ⟨את⟩ minha inveja no meio deles, e não consumi ⟨את⟩ ⟨os⟩ filhos de Yisrael na minha inveja.",
-  "tokens": [
-    {
-      "surface": "פינחס",
-      "english": "Pinechas"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "אלעזר",
-      "english": "Elazar"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharon"
-    },
-    {
-      "surface": "הכהן",
-      "english": "⟨o⟩ kohen"
-    },
-    {
-      "surface": "השיב",
-      "english": "desviou"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "ira de"
-    },
-    {
-      "surface": "חמתי",
-      "english": "ira de"
-    },
-    {
-      "surface": "מעל",
-      "english": "sobre"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בקנאו",
-      "english": "com ⟨o⟩ seu zelo por"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "minha honra"
-    },
-    {
-      "surface": "קנאתי",
-      "english": "minha honra"
-    },
-    {
-      "surface": "בתוכם",
-      "english": "no meio deles"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "כליתי",
-      "english": "consumi"
-    },
-    {
-      "surface": "את",
-      "english": "⟨⟩",
-      "marks": "filhos"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בקנאתי",
-      "english": "na minha inveja"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:36:51.491106802Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

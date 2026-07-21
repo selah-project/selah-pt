@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 58:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62907,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63320
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:17:30.988760346Z",
   "translation": "os ímpios ⟨são⟩ estranhos desde ⟨o⟩ ventre; ⟨os⟩ que falam mentira ⟨se⟩ desviam desde ⟨o⟩ seio.",
   "tokens": [
     {
       "surface": "זרו",
-      "english": "Os ímpios ⟨são⟩ estranhos"
+      "gloss": "Os ímpios ⟨são⟩ estranhos"
     },
     {
       "surface": "רשעים",
-      "english": "ímpios"
+      "gloss": "ímpios"
     },
     {
       "surface": "מרחם",
-      "english": "desde ⟨o⟩ ventre"
+      "gloss": "desde ⟨o⟩ ventre"
     },
     {
       "surface": "תעו",
-      "english": "⟨os que⟩ falam mentira ⟨se⟩ desviam"
+      "gloss": "⟨os que⟩ falam mentira ⟨se⟩ desviam"
     },
     {
       "surface": "מבטן",
-      "english": "desde ⟨o⟩ seio"
+      "gloss": "desde ⟨o⟩ seio"
     },
     {
       "surface": "דברי",
-      "english": "⟨os que⟩ falam"
+      "gloss": "⟨os que⟩ falam"
     },
     {
       "surface": "כזב",
-      "english": "mentira"
+      "gloss": "mentira"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:17:30.988760346Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

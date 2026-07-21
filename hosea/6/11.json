@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "hosea 6:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 6,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:57:50.069386093Z",
+  "translation": "Também, ó Yehudá, ⟨está⟩ ⟨um⟩ plantio para ti, quando eu ⟨des⟩ voltar ⟨o⟩ cativeiro do meu povo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Também"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ó Yehudá"
+    },
+    {
+      "surface": "שת",
+      "gloss": "⟨está⟩"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "⟨um⟩ plantio"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ti"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "quando eu ⟨des⟩ voltar"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "⟨o⟩ cativeiro"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "do meu povo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,56 +52,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19496,
-    "prompt_tokens_details": {
-      "cached_tokens": 18475
-    },
-    "total_tokens": 20008
-  },
-  "translation": "Também, ó Yehudá, ⟨está⟩ ⟨um⟩ plantio para ti, quando eu ⟨des⟩ voltar ⟨o⟩ cativeiro do meu povo.",
-  "tokens": [
-    {
-      "surface": "גם",
-      "english": "Também"
-    },
-    {
-      "surface": "יהודה",
-      "english": "ó Yehudá"
-    },
-    {
-      "surface": "שת",
-      "english": "⟨está⟩"
-    },
-    {
-      "surface": "קציר",
-      "english": "⟨um⟩ plantio"
-    },
-    {
-      "surface": "לך",
-      "english": "para ti"
-    },
-    {
-      "surface": "בשובי",
-      "english": "quando eu ⟨des⟩ voltar"
-    },
-    {
-      "surface": "שבות",
-      "english": "⟨o⟩ cativeiro"
-    },
-    {
-      "surface": "עמי",
-      "english": "do meu povo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:57:50.069386093Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

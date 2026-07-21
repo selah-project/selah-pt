@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "exodus 14:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 14,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:54:29.602659838Z",
+  "translation": "E os filhos de Yisrael entraram no meio do mar ⟨em⟩ terra seca, e as águas foram para eles ⟨como⟩ um muro ⟨à⟩ sua direita e ⟨à⟩ sua esquerda.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "E entraram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "no meio de"
+    },
+    {
+      "surface": "הים",
+      "gloss": "o mar"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "⟨em⟩ terra seca"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "e as águas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para eles"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "⟨como⟩ um muro"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "⟨à⟩ sua direita"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "e ⟨à⟩ sua esquerda"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17235,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17753
-  },
-  "translation": "E os filhos de Yisrael entraram no meio do mar ⟨em⟩ terra seca, e as águas foram para eles ⟨como⟩ um muro ⟨à⟩ sua direita e ⟨à⟩ sua esquerda.",
-  "tokens": [
-    {
-      "surface": "ויבאו",
-      "english": "E entraram"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בתוך",
-      "english": "no meio de"
-    },
-    {
-      "surface": "הים",
-      "english": "o mar"
-    },
-    {
-      "surface": "ביבשה",
-      "english": "⟨em⟩ terra seca"
-    },
-    {
-      "surface": "והמים",
-      "english": "e as águas"
-    },
-    {
-      "surface": "להם",
-      "english": "para eles"
-    },
-    {
-      "surface": "חמה",
-      "english": "⟨como⟩ um muro"
-    },
-    {
-      "surface": "מימינם",
-      "english": "⟨à⟩ sua direita"
-    },
-    {
-      "surface": "ומשמאלם",
-      "english": "e ⟨à⟩ sua esquerda"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:54:29.602659838Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,91 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "amos 2:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 2,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:06:25.750780964Z",
+  "translation": "Assim diz YHWH: Por três transgressões ⟨de⟩ Yisrael, e por quatro, não ⟨a⟩ revogarei; por ⟨terem⟩ vendido ⟨o⟩ justo por prata, e ⟨o⟩ necessitado por ⟨um⟩ par ⟨de⟩ sandálias.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "Por"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "três"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "transgressões"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e por"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "quatro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "⟨a⟩ revogarei"
+    },
+    {
+      "surface": "על",
+      "gloss": "por"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "⟨terem⟩ vendido"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "⟨o⟩ justo por prata",
+      "marks": "o justo por prata"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "justo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e ⟨o⟩ necessitado"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "por ⟨um⟩ par",
+      "marks": "um par"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "⟨de⟩ sandálias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,99 +95,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 833,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17428,
-    "prompt_tokens_details": {
-      "cached_tokens": 15413
-    },
-    "total_tokens": 18261
-  },
-  "translation": "Assim diz YHWH: Por três transgressões ⟨de⟩ Yisrael, e por quatro, não ⟨a⟩ revogarei; por ⟨terem⟩ vendido ⟨o⟩ justo por prata, e ⟨o⟩ necessitado por ⟨um⟩ par ⟨de⟩ sandálias.",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "על",
-      "english": "Por"
-    },
-    {
-      "surface": "שלשה",
-      "english": "três"
-    },
-    {
-      "surface": "פשעי",
-      "english": "transgressões"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ועל",
-      "english": "e por"
-    },
-    {
-      "surface": "ארבעה",
-      "english": "quatro"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "אשיבנו",
-      "english": "⟨a⟩ revogarei"
-    },
-    {
-      "surface": "על",
-      "english": "por"
-    },
-    {
-      "surface": "מכרם",
-      "english": "⟨terem⟩ vendido"
-    },
-    {
-      "surface": "בכסף",
-      "english": "⟨o⟩ justo por prata",
-      "marks": "o justo por prata"
-    },
-    {
-      "surface": "צדיק",
-      "english": "justo"
-    },
-    {
-      "surface": "ואביון",
-      "english": "e ⟨o⟩ necessitado"
-    },
-    {
-      "surface": "בעבור",
-      "english": "por ⟨um⟩ par",
-      "marks": "um par"
-    },
-    {
-      "surface": "נעלים",
-      "english": "⟨de⟩ sandálias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:06:25.750780964Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

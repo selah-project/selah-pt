@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "job 12:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 12,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:53:31.909207037Z",
+  "translation": "Com ⟨Ele⟩ ⟨há⟩ Jojmá e poder; a ⟨Ele⟩ ⟨pertencem⟩ conselho e entendimento.",
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "Com ⟨Ele⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "e poder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ⟨Ele⟩"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "conselho"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "e entendimento"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -13,48 +44,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 290,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19886,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20176
-  },
-  "translation": "Com ⟨Ele⟩ ⟨há⟩ Jojmá e poder; a ⟨Ele⟩ ⟨pertencem⟩ conselho e entendimento.",
-  "tokens": [
-    {
-      "surface": "עמו",
-      "english": "Com ⟨Ele⟩"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "וגבורה",
-      "english": "e poder"
-    },
-    {
-      "surface": "לו",
-      "english": "a ⟨Ele⟩"
-    },
-    {
-      "surface": "עצה",
-      "english": "conselho"
-    },
-    {
-      "surface": "ותבונה",
-      "english": "e entendimento"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:53:31.909207037Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

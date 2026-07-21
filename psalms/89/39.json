@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 39,
   "ref": "psalms 89:39",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62818,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63164
-  },
+  "verse": 39,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:39:30.849853104Z",
   "translation": "E tu ⟨o⟩ rejeitaste e ⟨o⟩ desprezaste, te iraste ⟨com⟩ o teu Mashíaj",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "E tu ⟨o⟩",
+      "gloss": "E tu ⟨o⟩",
       "marks": "rejeitaste"
     },
     {
       "surface": "זנחת",
-      "english": "rejeitaste"
+      "gloss": "rejeitaste"
     },
     {
       "surface": "ותמאס",
-      "english": "e ⟨o⟩ desprezaste",
+      "gloss": "e ⟨o⟩ desprezaste",
       "marks": "desprezaste"
     },
     {
       "surface": "התעברת",
-      "english": "te iraste"
+      "gloss": "te iraste"
     },
     {
       "surface": "עם",
-      "english": "⟨com⟩"
+      "gloss": "⟨com⟩"
     },
     {
       "surface": "משיחך",
-      "english": "o teu Mashíaj"
+      "gloss": "o teu Mashíaj"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:39:30.849853104Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

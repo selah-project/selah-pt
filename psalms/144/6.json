@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 144:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62834,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63205
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:14:06.900544689Z",
   "translation": "lança teus relâmpagos e ⟨os⟩ dispersa; envia tuas flechas e ⟨os⟩ confunde",
   "tokens": [
     {
       "surface": "ברוק",
-      "english": "Lança teus relâmpagos"
+      "gloss": "Lança teus relâmpagos"
     },
     {
       "surface": "ברק",
-      "english": "relâmpagos"
+      "gloss": "relâmpagos"
     },
     {
       "surface": "ותפיצם",
-      "english": "e ⟨os⟩ dispersa"
+      "gloss": "e ⟨os⟩ dispersa"
     },
     {
       "surface": "שלח",
-      "english": "envia"
+      "gloss": "envia"
     },
     {
       "surface": "חציך",
-      "english": "tuas flechas"
+      "gloss": "tuas flechas"
     },
     {
       "surface": "ותהמם",
-      "english": "e ⟨os⟩ confunde"
+      "gloss": "e ⟨os⟩ confunde"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:14:06.900544689Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 104:17",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 384,
-    "prompt_tokens": 70362,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70746
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:56.862987516Z",
   "translation": "onde as aves fazem seus ninhos: a cegonha, ⟨o⟩ cipreste é sua casa.",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "onde"
+      "gloss": "onde"
     },
     {
       "surface": "שם",
-      "english": "as aves fazem seus ninhos"
+      "gloss": "as aves fazem seus ninhos"
     },
     {
       "surface": "צפרים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יקננו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "חסידה",
-      "english": "a cegonha"
+      "gloss": "a cegonha"
     },
     {
       "surface": "ברושים",
-      "english": "⟨o⟩ cipreste"
+      "gloss": "⟨o⟩ cipreste"
     },
     {
       "surface": "ביתה",
-      "english": "é sua casa"
+      "gloss": "é sua casa"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:56.862987516Z",
-  "model": "glm-4.5"
+  ]
 }

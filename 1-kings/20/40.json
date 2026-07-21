@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "1-kings 20:40",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 20,
+  "verse": 40,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:41:57.995762493Z",
+  "translation": "E aconteceu, ⟨o⟩ teu servo fazendo aqui e ali, e ele não estava ⟨presente⟩, e disse ⟨a⟩ ele, rei de Yisrael, 'Assim ⟨será⟩ ⟨o⟩ teu juízo; tu mesmo ⟨o⟩ decidiste.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨o⟩ teu servo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fazendo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "aqui"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ali"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e ele"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "não estava ⟨presente⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ ele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "כן",
+      "gloss": "'Assim ⟨será⟩"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "⟨o⟩ teu juízo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu mesmo"
+    },
+    {
+      "surface": "חרצת",
+      "gloss": "⟨o⟩ decidiste.'"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 692,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63116,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63808
-  },
-  "translation": "E aconteceu, ⟨o⟩ teu servo fazendo aqui e ali, e ele não estava ⟨presente⟩, e disse ⟨a⟩ ele, rei de Yisrael, 'Assim ⟨será⟩ ⟨o⟩ teu juízo; tu mesmo ⟨o⟩ decidiste.'",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "עבדך",
-      "english": "⟨o⟩ teu servo"
-    },
-    {
-      "surface": "עשה",
-      "english": "fazendo"
-    },
-    {
-      "surface": "הנה",
-      "english": "aqui"
-    },
-    {
-      "surface": "והנה",
-      "english": "e ali"
-    },
-    {
-      "surface": "והוא",
-      "english": "e ele"
-    },
-    {
-      "surface": "איננו",
-      "english": "não estava ⟨presente⟩"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ ele"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "כן",
-      "english": "'Assim ⟨será⟩"
-    },
-    {
-      "surface": "משפטך",
-      "english": "⟨o⟩ teu juízo"
-    },
-    {
-      "surface": "אתה",
-      "english": "tu mesmo"
-    },
-    {
-      "surface": "חרצת",
-      "english": "⟨o⟩ decidiste.'"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:41:57.995762493Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

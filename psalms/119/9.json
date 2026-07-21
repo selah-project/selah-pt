@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 119:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 480,
-    "prompt_tokens": 70358,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70838
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:47:34.101895814Z",
   "translation": "Com ⟨que⟩ um jovem limpará ⟨o⟩ ⟨seu⟩ caminho? Ao guardá-lo segundo a tua palavra.",
   "tokens": [
     {
       "surface": "במה",
-      "english": "Com ⟨que⟩"
+      "gloss": "Com ⟨que⟩"
     },
     {
       "surface": "יזכה",
-      "english": "limpará"
+      "gloss": "limpará"
     },
     {
       "surface": "נער",
-      "english": "um jovem"
+      "gloss": "um jovem"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o seu caminho"
     },
     {
       "surface": "ארחו",
-      "english": "o seu caminho"
+      "gloss": "o seu caminho"
     },
     {
       "surface": "לשמר",
-      "english": "Ao guardá-lo"
+      "gloss": "Ao guardá-lo"
     },
     {
       "surface": "כדברך",
-      "english": "segundo a tua palavra"
+      "gloss": "segundo a tua palavra"
     }
-  ],
-  "timestamp": "2026-07-16T17:47:34.101895814Z",
-  "model": "glm-4.5"
+  ]
 }

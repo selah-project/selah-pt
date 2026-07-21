@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "leviticus 12:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 12,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:48:04.919480533Z",
+  "translation": "Dize aos filhos de Yisrael, dizendo: Uma mulher, quando ⟨é⟩ semeada e dá à luz um menino, ⟨então⟩ ⟨ela⟩ será impura sete dias; segundo os dias da impureza da sua menstruação será impura.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Dize"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo:"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Uma mulher"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "⟨é⟩ semeada"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "e dá à luz"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "um menino"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "⟨então⟩ ⟨ela⟩ será impura"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sete"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dias"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "segundo os dias"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "da impureza"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "da sua menstruação"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "será impura"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,92 +88,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18364,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 18947
-  },
-  "translation": "Dize aos filhos de Yisrael, dizendo: Uma mulher, quando ⟨é⟩ semeada e dá à luz um menino, ⟨então⟩ ⟨ela⟩ será impura sete dias; segundo os dias da impureza da sua menstruação será impura.",
-  "tokens": [
-    {
-      "surface": "דבר",
-      "english": "Dize"
-    },
-    {
-      "surface": "אל",
-      "english": "aos"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo:"
-    },
-    {
-      "surface": "אשה",
-      "english": "Uma mulher"
-    },
-    {
-      "surface": "כי",
-      "english": "quando"
-    },
-    {
-      "surface": "תזריע",
-      "english": "⟨é⟩ semeada"
-    },
-    {
-      "surface": "וילדה",
-      "english": "e dá à luz"
-    },
-    {
-      "surface": "זכר",
-      "english": "um menino"
-    },
-    {
-      "surface": "וטמאה",
-      "english": "⟨então⟩ ⟨ela⟩ será impura"
-    },
-    {
-      "surface": "שבעת",
-      "english": "sete"
-    },
-    {
-      "surface": "ימים",
-      "english": "dias"
-    },
-    {
-      "surface": "כימי",
-      "english": "segundo os dias"
-    },
-    {
-      "surface": "נדת",
-      "english": "da impureza"
-    },
-    {
-      "surface": "דותה",
-      "english": "da sua menstruação"
-    },
-    {
-      "surface": "תטמא",
-      "english": "será impura"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:48:04.919480533Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

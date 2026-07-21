@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "numbers 10:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 10,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:20:03.692137641Z",
+  "translation": "E sobre ⟨o⟩ exército ⟨da⟩ tribo ⟨dos⟩ filhos ⟨de⟩ Yissacar ⟨estava⟩ Netanel ⟨o⟩ filho ⟨de⟩ Zuar",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E sobre"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨o⟩ exército"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨da⟩ tribo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "⟨de⟩ Yissacar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "⟨de⟩ Zuar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Issacar",
@@ -13,56 +52,6 @@
       "hebrew": "יששכר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18053,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18588
-  },
-  "translation": "E sobre ⟨o⟩ exército ⟨da⟩ tribo ⟨dos⟩ filhos ⟨de⟩ Yissacar ⟨estava⟩ Netanel ⟨o⟩ filho ⟨de⟩ Zuar",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "E sobre"
-    },
-    {
-      "surface": "צבא",
-      "english": "⟨o⟩ exército"
-    },
-    {
-      "surface": "מטה",
-      "english": "⟨da⟩ tribo"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos"
-    },
-    {
-      "surface": "יששכר",
-      "english": "⟨de⟩ Yissacar"
-    },
-    {
-      "surface": "נתנאל",
-      "english": "Netanel"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "צוער",
-      "english": "⟨de⟩ Zuar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:20:03.692137641Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

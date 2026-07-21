@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 140:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 704,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63111,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63815
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:12:12.020874410Z",
   "translation": "⟨Um⟩ homem ⟨de⟩ língua ⟨seja⟩ estabelecido ⟨no⟩ mundo ⟨o⟩ homem ⟨de⟩ violência ⟨e⟩ maldade caia ⟨em⟩ ciladas",
   "tokens": [
     {
       "surface": "איש",
-      "english": "⟨Um⟩ homem"
+      "gloss": "⟨Um⟩ homem"
     },
     {
       "surface": "לשון",
-      "english": "⟨de⟩ língua",
+      "gloss": "⟨de⟩ língua",
       "marks": "homem"
     },
     {
       "surface": "בל",
-      "english": "⟨seja⟩",
+      "gloss": "⟨seja⟩",
       "rationale": "Negativa enfática 'não' implícita no contexto, literalmente 'não'"
     },
     {
       "surface": "יכון",
-      "english": "estabelecido"
+      "gloss": "estabelecido"
     },
     {
       "surface": "בארץ",
-      "english": "⟨no⟩ mundo"
+      "gloss": "⟨no⟩ mundo"
     },
     {
       "surface": "איש",
-      "english": "⟨o⟩ homem"
+      "gloss": "⟨o⟩ homem"
     },
     {
       "surface": "חמס",
-      "english": "⟨de⟩ violência"
+      "gloss": "⟨de⟩ violência"
     },
     {
       "surface": "רע",
-      "english": "⟨e⟩ maldade"
+      "gloss": "⟨e⟩ maldade"
     },
     {
       "surface": "יצודנו",
-      "english": "caia ⟨em⟩ ciladas",
+      "gloss": "caia ⟨em⟩ ciladas",
       "rationale": "Literalmente 'seja caçado\/preso'; 'ciladas' captura a imagem de emboscada"
     },
     {
       "surface": "למדחפת",
-      "english": "⟨em⟩ ciladas",
+      "gloss": "⟨em⟩ ciladas",
       "rationale": "Preposição com imagem violenta de ser esmagado ou derrubado; ligada a 'caça' do verbo anterior"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:12:12.020874410Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

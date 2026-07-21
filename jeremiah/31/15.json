@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "jeremiah 31:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 31,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:34:32.771384826Z",
+  "translation": "Assim diz YHWH: ⟨um⟩ voz em Ramá ⟨é⟩ ouvido, lamento e choro amargo; Rajel está chorando por seus filhos, e recusa ser consolada por seus filhos, porque não ⟨estão⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨um⟩ voz"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "em Ramá"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "⟨é⟩ ouvido"
+    },
+    {
+      "surface": "נהי",
+      "gloss": "lamento"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "e choro"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "amargo"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "מבכה",
+      "gloss": "está chorando"
+    },
+    {
+      "surface": "על",
+      "gloss": "por"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "seus filhos"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "e recusa"
+    },
+    {
+      "surface": "להנחם",
+      "gloss": "ser consolada"
+    },
+    {
+      "surface": "על",
+      "gloss": "por"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "seus filhos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "não ⟨estão⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Raquel",
@@ -13,100 +96,6 @@
       "hebrew": "רחל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 612,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18438,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 19050
-  },
-  "translation": "Assim diz YHWH: ⟨um⟩ voz em Ramá ⟨é⟩ ouvido, lamento e choro amargo; Rajel está chorando por seus filhos, e recusa ser consolada por seus filhos, porque não ⟨estão⟩.",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "קול",
-      "english": "⟨um⟩ voz"
-    },
-    {
-      "surface": "ברמה",
-      "english": "em Ramá"
-    },
-    {
-      "surface": "נשמע",
-      "english": "⟨é⟩ ouvido"
-    },
-    {
-      "surface": "נהי",
-      "english": "lamento"
-    },
-    {
-      "surface": "בכי",
-      "english": "e choro"
-    },
-    {
-      "surface": "תמרורים",
-      "english": "amargo"
-    },
-    {
-      "surface": "רחל",
-      "english": "Rajel"
-    },
-    {
-      "surface": "מבכה",
-      "english": "está chorando"
-    },
-    {
-      "surface": "על",
-      "english": "por"
-    },
-    {
-      "surface": "בניה",
-      "english": "seus filhos"
-    },
-    {
-      "surface": "מאנה",
-      "english": "e recusa"
-    },
-    {
-      "surface": "להנחם",
-      "english": "ser consolada"
-    },
-    {
-      "surface": "על",
-      "english": "por"
-    },
-    {
-      "surface": "בניה",
-      "english": "seus filhos"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "איננו",
-      "english": "não ⟨estão⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:34:32.771384826Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

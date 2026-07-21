@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 135:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 135,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:08:55.444384603Z",
+  "translation": "Quem golpeou ⟨os⟩ primogênitos do Mitzráyim, ⟨de⟩ homem até animal",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Quem golpeou"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "⟨os⟩ primogênitos"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "⟨de⟩ homem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "animal"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,48 +44,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 135,
-  "usage": {
-    "completion_tokens": 286,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62762,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63048
-  },
-  "translation": "Quem golpeou ⟨os⟩ primogênitos do Mitzráyim, ⟨de⟩ homem até animal",
-  "tokens": [
-    {
-      "surface": "שהכה",
-      "english": "Quem golpeou"
-    },
-    {
-      "surface": "בכורי",
-      "english": "⟨os⟩ primogênitos"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "מאדם",
-      "english": "⟨de⟩ homem"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "בהמה",
-      "english": "animal"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:08:55.444384603Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

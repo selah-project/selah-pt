@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "hosea 5:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 5,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:57:16.886553898Z",
+  "translation": "Tocai ⟨o⟩ shofar em Gibeá, ⟨a⟩ trombeta em Ramá; ⟨fazei⟩ ressoar ⟨o⟩ alarme em Beit-Áven, atrás de ti, ⟨ó⟩ Binyamim.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Tocai"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "em Gibeá"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "trombeta"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "em Ramá"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "⟨fazei⟩ ressoar ⟨o⟩ alarme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "און",
+      "gloss": "Áven"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "atrás de ti"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Benjamim",
@@ -13,64 +60,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19771,
-    "prompt_tokens_details": {
-      "cached_tokens": 18473
-    },
-    "total_tokens": 20313
-  },
-  "translation": "Tocai ⟨o⟩ shofar em Gibeá, ⟨a⟩ trombeta em Ramá; ⟨fazei⟩ ressoar ⟨o⟩ alarme em Beit-Áven, atrás de ti, ⟨ó⟩ Binyamim.",
-  "tokens": [
-    {
-      "surface": "תקעו",
-      "english": "Tocai"
-    },
-    {
-      "surface": "שופר",
-      "english": "shofar"
-    },
-    {
-      "surface": "בגבעה",
-      "english": "em Gibeá"
-    },
-    {
-      "surface": "חצצרה",
-      "english": "trombeta"
-    },
-    {
-      "surface": "ברמה",
-      "english": "em Ramá"
-    },
-    {
-      "surface": "הריעו",
-      "english": "⟨fazei⟩ ressoar ⟨o⟩ alarme"
-    },
-    {
-      "surface": "בית",
-      "english": "Beit"
-    },
-    {
-      "surface": "און",
-      "english": "Áven"
-    },
-    {
-      "surface": "אחריך",
-      "english": "atrás de ti"
-    },
-    {
-      "surface": "בנימין",
-      "english": "Binyamim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:57:16.886553898Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

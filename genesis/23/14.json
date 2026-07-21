@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "genesis 23:14",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 247,
-    "prompt_tokens": 28640,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28887
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:48:27.225274979Z",
   "translation": "E Ephron respondeu a Avraham, dizendo-lhe:",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "E respondeu"
+      "gloss": "E respondeu"
     },
     {
       "surface": "עפרון",
-      "english": "Ephron"
+      "gloss": "Ephron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avraham"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "לאמר",
-      "english": ", dizendo"
+      "gloss": ", dizendo"
     },
     {
       "surface": "לו",
-      "english": "-lhe"
+      "gloss": "-lhe"
     }
-  ],
-  "timestamp": "2026-07-16T14:48:27.225274979Z",
-  "model": "glm-4.5"
+  ]
 }

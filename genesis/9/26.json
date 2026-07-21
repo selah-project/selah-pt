@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "genesis 9:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 9,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:50:16.492357444Z",
+  "translation": "E ⟨ele⟩ disse: Bendito ⟨seja⟩ YHWH ⟨o⟩ Elohim de Shem, e ⟨seja⟩ Kenaano servo ⟨de⟩ ⟨ele⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ⟨ele⟩ disse",
+      "marks": ""
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Bendito ⟨seja⟩",
+      "marks": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH",
+      "marks": ""
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨o⟩ Elohim",
+      "marks": "de Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de Shem",
+      "marks": ""
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ⟨seja⟩",
+      "marks": ""
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaano",
+      "marks": ""
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servo",
+      "marks": ""
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨de⟩ ⟨ele⟩",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Canaã",
@@ -13,69 +65,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21402,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21859
-  },
-  "translation": "E ⟨ele⟩ disse: Bendito ⟨seja⟩ YHWH ⟨o⟩ Elohim de Shem, e ⟨seja⟩ Kenaano servo ⟨de⟩ ⟨ele⟩",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ⟨ele⟩ disse",
-      "marks": ""
-    },
-    {
-      "surface": "ברוך",
-      "english": "Bendito ⟨seja⟩",
-      "marks": ""
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH",
-      "marks": ""
-    },
-    {
-      "surface": "אלהי",
-      "english": "⟨o⟩ Elohim",
-      "marks": "de Shem"
-    },
-    {
-      "surface": "שם",
-      "english": "de Shem",
-      "marks": ""
-    },
-    {
-      "surface": "ויהי",
-      "english": "e ⟨seja⟩",
-      "marks": ""
-    },
-    {
-      "surface": "כנען",
-      "english": "Kenaano",
-      "marks": ""
-    },
-    {
-      "surface": "עבד",
-      "english": "servo",
-      "marks": ""
-    },
-    {
-      "surface": "למו",
-      "english": "⟨de⟩ ⟨ele⟩",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:50:16.492357444Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

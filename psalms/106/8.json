@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 106:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 313,
-    "prompt_tokens": 70391,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70704
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:46:49.106458810Z",
   "translation": "E salvou-os por causa do Seu nome, para fazer conhecida ⟨את⟩ a Sua força",
   "tokens": [
     {
       "surface": "ויושיעם",
-      "english": "E salvou-os"
+      "gloss": "E salvou-os"
     },
     {
       "surface": "למען",
-      "english": "por causa de"
+      "gloss": "por causa de"
     },
     {
       "surface": "שמו",
-      "english": "o Seu nome"
+      "gloss": "o Seu nome"
     },
     {
       "surface": "להודיע",
-      "english": "para fazer conhecida"
+      "gloss": "para fazer conhecida"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Sua força"
     },
     {
       "surface": "גבורתו",
-      "english": "a Sua força"
+      "gloss": "a Sua força"
     }
-  ],
-  "timestamp": "2026-07-16T17:46:49.106458810Z",
-  "model": "glm-4.5"
+  ]
 }

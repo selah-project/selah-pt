@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 140:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70486,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70985
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:42:22.639282690Z",
   "translation": "Guarda-me, YHWH, das mãos dos perversos; livra-me do homem ⟨violento⟩, que ⟨são⟩ como serpente ⟨com⟩ veneno ⟨de⟩ áspide ⟨sob⟩ ⟨os⟩ seus lábios. ⟨Selá⟩",
   "tokens": [
     {
       "surface": "שננו",
-      "english": "Guarda-me"
+      "gloss": "Guarda-me"
     },
     {
       "surface": "לשונם",
-      "english": "⟨os⟩"
+      "gloss": "⟨os⟩"
     },
     {
       "surface": "כמו",
-      "english": "⟨com⟩"
+      "gloss": "⟨com⟩"
     },
     {
       "surface": "נחש",
-      "english": "serpente"
+      "gloss": "serpente"
     },
     {
       "surface": "חמת",
-      "english": "⟨com⟩"
+      "gloss": "⟨com⟩"
     },
     {
       "surface": "עכשוב",
-      "english": "veneno ⟨de⟩ áspide"
+      "gloss": "veneno ⟨de⟩ áspide"
     },
     {
       "surface": "תחת",
-      "english": "⟨sob⟩"
+      "gloss": "⟨sob⟩"
     },
     {
       "surface": "שפתימו",
-      "english": "⟨os⟩ seus lábios"
+      "gloss": "⟨os⟩ seus lábios"
     },
     {
       "surface": "סלה",
-      "english": "⟨Selá⟩"
+      "gloss": "⟨Selá⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:42:22.639282690Z",
-  "model": "glm-4.5"
+  ]
 }

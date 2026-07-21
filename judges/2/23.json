@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "judges 2:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 2,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:51:57.245627862Z",
+  "translation": "E YHWH deixou ⟨את⟩ estas nações para não expulsá-las rapidamente, e não as entregou na mão de Yehoshua",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "E deixou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "estas nações"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "estas nações"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "estas"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "para não"
+    },
+    {
+      "surface": "הורישם",
+      "gloss": "expulsá-las"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "rapidamente"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "as entregou"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na mão de"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josué",
@@ -13,73 +69,6 @@
       "hebrew": "יהושע"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16615,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17033
-  },
-  "translation": "E YHWH deixou ⟨את⟩ estas nações para não expulsá-las rapidamente, e não as entregou na mão de Yehoshua",
-  "tokens": [
-    {
-      "surface": "וינח",
-      "english": "E deixou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "estas nações"
-    },
-    {
-      "surface": "הגוים",
-      "english": "estas nações"
-    },
-    {
-      "surface": "האלה",
-      "english": "estas"
-    },
-    {
-      "surface": "לבלתי",
-      "english": "para não"
-    },
-    {
-      "surface": "הורישם",
-      "english": "expulsá-las"
-    },
-    {
-      "surface": "מהר",
-      "english": "rapidamente"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "נתנם",
-      "english": "as entregou"
-    },
-    {
-      "surface": "ביד",
-      "english": "na mão de"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:51:57.245627862Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

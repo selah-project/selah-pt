@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-samuel 11:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 11,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:52:02.307822215Z",
+  "translation": "Então Davidd disse a Uriah: Permanece ⟨em⟩ este lugar também hoje, e amanhã eu ⟨te⟩ enviarei. E Uriah permaneceu em Jerusalém ⟨no⟩ aquele dia e ⟨no⟩ dia seguinte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Então disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Permanece"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "⟨em⟩ este"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "e amanhã"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "eu ⟨te⟩ enviarei"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "E permaneceu"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Jerusalém"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aquele dia"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "e ⟨no⟩ dia seguinte"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,88 +84,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18023,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 18538
-  },
-  "translation": "Então Davidd disse a Uriah: Permanece ⟨em⟩ este lugar também hoje, e amanhã eu ⟨te⟩ enviarei. E Uriah permaneceu em Jerusalém ⟨no⟩ aquele dia e ⟨no⟩ dia seguinte.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Então disse"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אוריה",
-      "english": "Uriah"
-    },
-    {
-      "surface": "שב",
-      "english": "Permanece"
-    },
-    {
-      "surface": "בזה",
-      "english": "⟨em⟩ este"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    },
-    {
-      "surface": "ומחר",
-      "english": "e amanhã"
-    },
-    {
-      "surface": "אשלחך",
-      "english": "eu ⟨te⟩ enviarei"
-    },
-    {
-      "surface": "וישב",
-      "english": "E permaneceu"
-    },
-    {
-      "surface": "אוריה",
-      "english": "Uriah"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Jerusalém"
-    },
-    {
-      "surface": "ביום",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "ההוא",
-      "english": "aquele dia"
-    },
-    {
-      "surface": "וממחרת",
-      "english": "e ⟨no⟩ dia seguinte"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:52:02.307822215Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 148:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 653,
-    "prompt_tokens": 70844,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71497
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:53:12.532395988Z",
   "translation": "Louvem ⟨o⟩ nome de YHWH pois ⟨o⟩ nome dEle é exaltado; a glória dEle ⟨está⟩ sobre a terra e os céus",
   "tokens": [
     {
       "surface": "יהללו",
-      "english": "Louvem"
+      "gloss": "Louvem"
     },
     {
       "surface": "את",
-      "english": "⟨o⟩",
+      "gloss": "⟨o⟩",
       "marks": "nome"
     },
     {
       "surface": "שם",
-      "english": "nome"
+      "gloss": "nome"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "נשגב",
-      "english": "é exaltado"
+      "gloss": "é exaltado"
     },
     {
       "surface": "שמו",
-      "english": "nome dEle"
+      "gloss": "nome dEle"
     },
     {
       "surface": "לבדו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "הודו",
-      "english": "glória dEle"
+      "gloss": "glória dEle"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     },
     {
       "surface": "ושמים",
-      "english": "e os céus"
+      "gloss": "e os céus"
     }
-  ],
-  "timestamp": "2026-07-16T17:53:12.532395988Z",
-  "model": "glm-4.5"
+  ]
 }

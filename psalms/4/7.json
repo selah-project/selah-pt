@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 4:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 423,
-    "prompt_tokens": 70627,
-    "prompt_tokens_details": {
-      "cached_tokens": 53632
-    },
-    "total_tokens": 71050
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:30:57.577170080Z",
   "translation": "Muitos dizem: Quem nos mostrará ⟨o⟩ bem? ⟨O⟩ YHWH, levanta a luz da tua face sobre nós.",
   "tokens": [
     {
       "surface": "רבים",
-      "english": "Muitos"
+      "gloss": "Muitos"
     },
     {
       "surface": "אמרים",
-      "english": "dizem"
+      "gloss": "dizem"
     },
     {
       "surface": "מי",
-      "english": "Quem"
+      "gloss": "Quem"
     },
     {
       "surface": "יראנו",
-      "english": "nos mostrará"
+      "gloss": "nos mostrará"
     },
     {
       "surface": "טוב",
-      "english": "⟨o⟩ bem"
+      "gloss": "⟨o⟩ bem"
     },
     {
       "surface": "נסה",
-      "english": "levanta"
+      "gloss": "levanta"
     },
     {
       "surface": "עלינו",
-      "english": "sobre nós"
+      "gloss": "sobre nós"
     },
     {
       "surface": "אור",
-      "english": "a luz"
+      "gloss": "a luz"
     },
     {
       "surface": "פניך",
-      "english": "da tua face"
+      "gloss": "da tua face"
     },
     {
       "surface": "יהוה",
-      "english": "⟨O⟩ YHWH"
+      "gloss": "⟨O⟩ YHWH"
     }
-  ],
-  "timestamp": "2026-07-21T02:30:57.577170080Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 14:4",
   "book": "job",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27232,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27628
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:44:53.951863424Z",
   "translation": "Quem pode dar ⟨o⟩ puro ⟨a partir do⟩ impuro? ⟨Nenhum⟩ um ⟨o pode⟩.",
   "tokens": [
     {
       "surface": "מי",
-      "english": "Quem"
+      "gloss": "Quem"
     },
     {
       "surface": "יתן",
-      "english": "pode dar"
+      "gloss": "pode dar"
     },
     {
       "surface": "טהור",
-      "english": "⟨o⟩ puro"
+      "gloss": "⟨o⟩ puro"
     },
     {
       "surface": "מטמא",
-      "english": "⟨a partir do⟩ impuro"
+      "gloss": "⟨a partir do⟩ impuro"
     },
     {
       "surface": "לא",
-      "english": "⟨Nenhum⟩"
+      "gloss": "⟨Nenhum⟩"
     },
     {
       "surface": "אחד",
-      "english": "um ⟨o pode⟩"
+      "gloss": "um ⟨o pode⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:44:53.951863424Z",
-  "model": "glm-4.5"
+  ]
 }

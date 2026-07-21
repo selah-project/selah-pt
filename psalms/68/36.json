@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "psalms 68:36",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 68,
+  "verse": 36,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:23:36.906616744Z",
+  "translation": "Temível ⟨é⟩ Elohim desde ⟨os⟩ teus santuários; o Elohim de Yisrael, Ele ⟨é⟩ quem dá força e poder ⟨ao⟩ povo; bendito ⟨seja⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "Temível"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ממקדשיך",
+      "gloss": "desde ⟨os⟩ teus santuários"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ele ⟨é⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "quem dá"
+    },
+    {
+      "surface": "עז",
+      "gloss": "força"
+    },
+    {
+      "surface": "ותעצמות",
+      "gloss": "e poder"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨ao⟩ povo"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "bendito ⟨seja⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 68,
-  "usage": {
-    "completion_tokens": 630,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63218,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63848
-  },
-  "translation": "Temível ⟨é⟩ Elohim desde ⟨os⟩ teus santuários; o Elohim de Yisrael, Ele ⟨é⟩ quem dá força e poder ⟨ao⟩ povo; bendito ⟨seja⟩ Elohim.",
-  "tokens": [
-    {
-      "surface": "נורא",
-      "english": "Temível"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ממקדשיך",
-      "english": "desde ⟨os⟩ teus santuários"
-    },
-    {
-      "surface": "אל",
-      "english": "o Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "הוא",
-      "english": "Ele ⟨é⟩"
-    },
-    {
-      "surface": "נתן",
-      "english": "quem dá"
-    },
-    {
-      "surface": "עז",
-      "english": "força"
-    },
-    {
-      "surface": "ותעצמות",
-      "english": "e poder"
-    },
-    {
-      "surface": "לעם",
-      "english": "⟨ao⟩ povo"
-    },
-    {
-      "surface": "ברוך",
-      "english": "bendito ⟨seja⟩"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:23:36.906616744Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

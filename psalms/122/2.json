@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 122:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 176,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62776,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 62952
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:04:12.841168212Z",
   "translation": "Our feet ⟨are⟩ standing within thy gates, O Jerusalem;",
   "tokens": [
     {
       "surface": "עמדות",
-      "english": "Standing"
+      "gloss": "Standing"
     },
     {
       "surface": "היו",
-      "english": "⟨are⟩"
+      "gloss": "⟨are⟩"
     },
     {
       "surface": "רגלינו",
-      "english": "Our feet"
+      "gloss": "Our feet"
     },
     {
       "surface": "בשעריך",
-      "english": "within thy gates"
+      "gloss": "within thy gates"
     },
     {
       "surface": "ירושלם",
-      "english": "O Jerusalem"
+      "gloss": "O Jerusalem"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:04:12.841168212Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

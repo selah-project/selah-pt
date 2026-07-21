@@ -1,9 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-samuel 20:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:32:03.588421625Z",
+  "translation": "Se ele disser assim: Bom, Shalom ⟨é⟩ para ⟨o teu⟩ servo; mas se ⟨estiver⟩ muito furioso, então sabe que ⟨o⟩ mal ⟨está⟩ determinado por ele",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "כה",
+      "gloss": "assim"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "disser"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "para ⟨o teu⟩ servo",
+      "marks": "para ⟨o teu⟩ servo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mas se"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "⟨estiver⟩ furioso"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "⟨estiver⟩ furioso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "por ele"
+    },
+    {
+      "surface": "דע",
+      "gloss": "sabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "⟨está⟩ determinado"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "⟨o⟩ mal",
+      "marks": "⟨o⟩ mal"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "por ele"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,86 +82,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17073,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17640
-  },
-  "translation": "Se ele disser assim: Bom, Shalom ⟨é⟩ para ⟨o teu⟩ servo; mas se ⟨estiver⟩ muito furioso, então sabe que ⟨o⟩ mal ⟨está⟩ determinado por ele",
-  "tokens": [
-    {
-      "surface": "אם",
-      "english": "Se"
-    },
-    {
-      "surface": "כה",
-      "english": "assim"
-    },
-    {
-      "surface": "יאמר",
-      "english": "disser"
-    },
-    {
-      "surface": "טוב",
-      "english": "bom"
-    },
-    {
-      "surface": "שלום",
-      "english": "Shalom"
-    },
-    {
-      "surface": "לעבדך",
-      "english": "para ⟨o teu⟩ servo",
-      "marks": "para ⟨o teu⟩ servo"
-    },
-    {
-      "surface": "ואם",
-      "english": "mas se"
-    },
-    {
-      "surface": "חרה",
-      "english": "⟨estiver⟩ furioso"
-    },
-    {
-      "surface": "יחרה",
-      "english": "⟨estiver⟩ furioso"
-    },
-    {
-      "surface": "לו",
-      "english": "por ele"
-    },
-    {
-      "surface": "דע",
-      "english": "sabe"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "כלתה",
-      "english": "⟨está⟩ determinado"
-    },
-    {
-      "surface": "הרעה",
-      "english": "⟨o⟩ mal",
-      "marks": "⟨o⟩ mal"
-    },
-    {
-      "surface": "מעמו",
-      "english": "por ele"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:32:03.588421625Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

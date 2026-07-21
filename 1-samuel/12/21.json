@@ -1,81 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-samuel 12:21",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 728,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24198,
-    "prompt_tokens_details": {
-      "cached_tokens": 22715
-    },
-    "total_tokens": 24926
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:50:26.638997241Z",
   "translation": "e ⟨não⟩ vos desvieis porque ⟨após⟩ o ⟨vazio⟩ que ⟨não⟩ trará proveito e ⟨não⟩ livrará porque ⟨vazio⟩ ⟨é⟩ ⟨o que⟩ eles são",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "e ⟨não⟩",
+      "gloss": "e ⟨não⟩",
       "marks": "proibição de desviar"
     },
     {
       "surface": "תסורו",
-      "english": "vos desvieis"
+      "gloss": "vos desvieis"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אחרי",
-      "english": "⟨após⟩"
+      "gloss": "⟨após⟩"
     },
     {
       "surface": "התהו",
-      "english": "⟨o vazio⟩",
+      "gloss": "⟨o vazio⟩",
       "marks": "objeto perseguido"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩",
+      "gloss": "⟨que⟩",
       "marks": "referência ao vazio"
     },
     {
       "surface": "לא",
-      "english": "⟨não⟩",
+      "gloss": "⟨não⟩",
       "marks": "negação do proveito"
     },
     {
       "surface": "יועילו",
-      "english": "trará proveito"
+      "gloss": "trará proveito"
     },
     {
       "surface": "ולא",
-      "english": "e ⟨não⟩",
+      "gloss": "e ⟨não⟩",
       "marks": "negação do livramento"
     },
     {
       "surface": "יצילו",
-      "english": "livrará"
+      "gloss": "livrará"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "תהו",
-      "english": "⟨vazio⟩"
+      "gloss": "⟨vazio⟩"
     },
     {
       "surface": "המה",
-      "english": "⟨é⟩ ⟨o que⟩ eles são"
+      "gloss": "⟨é⟩ ⟨o que⟩ eles são"
     }
-  ],
-  "timestamp": "2026-06-13T05:50:26.638997241Z",
-  "model": "glm-4.5"
+  ]
 }

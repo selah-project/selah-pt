@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 35:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 35,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:17:58.842576719Z",
+  "translation": "E Yaakov estabeleceu ⟨um⟩ pilar ⟨sobre⟩ ⟨o⟩ sepulcro dela; ⟨este⟩ ⟨é⟩ ⟨o⟩ pilar do sepulcro de Rajel até ⟨o⟩ dia de hoje.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "E Yaakov estabeleceu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "⟨um⟩ pilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "⟨o⟩ sepulcro dela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "⟨é⟩ ⟨o⟩ pilar"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "do sepulcro"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "de Rajel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨o⟩ dia de hoje"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Raquel",
@@ -13,68 +64,6 @@
       "hebrew": "רחל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21591,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22104
-  },
-  "translation": "E Yaakov estabeleceu ⟨um⟩ pilar ⟨sobre⟩ ⟨o⟩ sepulcro dela; ⟨este⟩ ⟨é⟩ ⟨o⟩ pilar do sepulcro de Rajel até ⟨o⟩ dia de hoje.",
-  "tokens": [
-    {
-      "surface": "ויצב",
-      "english": "E Yaakov estabeleceu"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "מצבה",
-      "english": "⟨um⟩ pilar"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "קברתה",
-      "english": "⟨o⟩ sepulcro dela"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨este⟩"
-    },
-    {
-      "surface": "מצבת",
-      "english": "⟨é⟩ ⟨o⟩ pilar"
-    },
-    {
-      "surface": "קברת",
-      "english": "do sepulcro"
-    },
-    {
-      "surface": "רחל",
-      "english": "de Rajel"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "היום",
-      "english": "⟨o⟩ dia de hoje"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:17:58.842576719Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

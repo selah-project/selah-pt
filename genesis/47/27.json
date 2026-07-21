@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "genesis 47:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 47,
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:31:53.295721252Z",
+  "translation": "E Yisrael habitou ⟨na⟩ terra de Mitsraim, ⟨na⟩ terra de Góshen, e tomaram posse ⟨dela⟩, e se tornaram frutíferos, e se multiplicaram grandemente.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E Israel habitou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "E Yisrael habitou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsraim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ terra"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "de Góshen"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "e tomaram posse"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨dela⟩",
+      "marks": "⟨na⟩ terra"
+    },
+    {
+      "surface": "ויפרו",
+      "gloss": "e se tornaram frutíferos"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "e se multiplicaram"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grandemente"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,69 +65,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 47,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21700,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22229
-  },
-  "translation": "E Yisrael habitou ⟨na⟩ terra de Mitsraim, ⟨na⟩ terra de Góshen, e tomaram posse ⟨dela⟩, e se tornaram frutíferos, e se multiplicaram grandemente.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E Israel habitou"
-    },
-    {
-      "surface": "ישראל",
-      "english": "E Yisrael habitou"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨na⟩ terra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitsraim"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨na⟩ terra"
-    },
-    {
-      "surface": "גשן",
-      "english": "de Góshen"
-    },
-    {
-      "surface": "ויאחזו",
-      "english": "e tomaram posse"
-    },
-    {
-      "surface": "בה",
-      "english": "⟨dela⟩",
-      "marks": "⟨na⟩ terra"
-    },
-    {
-      "surface": "ויפרו",
-      "english": "e se tornaram frutíferos"
-    },
-    {
-      "surface": "וירבו",
-      "english": "e se multiplicaram"
-    },
-    {
-      "surface": "מאד",
-      "english": "grandemente"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:31:53.295721252Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

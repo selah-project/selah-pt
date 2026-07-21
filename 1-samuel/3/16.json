@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-samuel 3:16",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 316,
-    "prompt_tokens": 24061,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24377
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:41:42.672283862Z",
   "translation": "Eli chamou ⟨את⟩ Shmuel e disse: 'Shmuel, meu filho.' E ele disse: 'Eis-me aqui.'",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "chamou"
+      "gloss": "chamou"
     },
     {
       "surface": "עלי",
-      "english": "Eli"
+      "gloss": "Eli"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Shmuel"
     },
     {
       "surface": "שמואל",
-      "english": "Shmuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "ויאמר",
-      "english": "e disse"
+      "gloss": "e disse"
     },
     {
       "surface": "שמואל",
-      "english": "Shmuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "בני",
-      "english": "meu filho"
+      "gloss": "meu filho"
     },
     {
       "surface": "ויאמר",
-      "english": "e disse"
+      "gloss": "e disse"
     },
     {
       "surface": "הנני",
-      "english": "Eis-me aqui"
+      "gloss": "Eis-me aqui"
     }
-  ],
-  "timestamp": "2026-07-16T11:41:42.672283862Z",
-  "model": "glm-4.5"
+  ]
 }

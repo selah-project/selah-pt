@@ -1,37 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "song-of-songs 1:1",
   "book": "song-of-songs",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 354,
-    "prompt_tokens": 27434,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 27788
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:54:25.153133260Z",
   "translation": "Cântico dos cânticos, que é de Shlomó.",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Cântico"
+      "gloss": "Cântico"
     },
     {
       "surface": "השירים",
-      "english": "dos cânticos"
+      "gloss": "dos cânticos"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "לשלמה",
-      "english": "é de Shlomó"
+      "gloss": "é de Shlomó"
     }
-  ],
-  "timestamp": "2026-07-16T17:54:25.153133260Z",
-  "model": "glm-4.5"
+  ]
 }

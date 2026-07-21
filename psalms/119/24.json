@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 119:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 231,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62669,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 62900
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:58:27.858714818Z",
   "translation": "Também ⟨את⟩ teus testemunhos ⟨são⟩ meu deleite, ⟨os⟩ homens de meu conselho",
   "tokens": [
     {
       "surface": "גם",
-      "english": "Também"
+      "gloss": "Também"
     },
     {
       "surface": "עדתיך",
-      "english": "teus testemunhos",
+      "gloss": "teus testemunhos",
       "marks": "meu deleite"
     },
     {
       "surface": "שעשעי",
-      "english": "meu deleite"
+      "gloss": "meu deleite"
     },
     {
       "surface": "אנשי",
-      "english": "⟨os⟩ homens",
+      "gloss": "⟨os⟩ homens",
       "marks": "de meu conselho"
     },
     {
       "surface": "עצתי",
-      "english": "de meu conselho"
+      "gloss": "de meu conselho"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:58:27.858714818Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

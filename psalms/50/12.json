@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 50:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70275,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70702
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:38:39.234144428Z",
   "translation": "Se eu tiver fome ⟨não⟩ direi a ti porque ⟨o⟩ mundo ⟨é⟩ meu e ⟨a⟩ sua plenitude",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Se"
+      "gloss": "Se"
     },
     {
       "surface": "ארעב",
-      "english": "eu tiver fome"
+      "gloss": "eu tiver fome"
     },
     {
       "surface": "לא",
-      "english": "⟨não⟩"
+      "gloss": "⟨não⟩"
     },
     {
       "surface": "אמר",
-      "english": "direi"
+      "gloss": "direi"
     },
     {
       "surface": "לך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לי",
-      "english": "⟨o⟩ mundo ⟨é⟩ meu"
+      "gloss": "⟨o⟩ mundo ⟨é⟩ meu"
     },
     {
       "surface": "תבל",
-      "english": "mundo"
+      "gloss": "mundo"
     },
     {
       "surface": "ומלאה",
-      "english": "e ⟨a⟩ sua plenitude"
+      "gloss": "e ⟨a⟩ sua plenitude"
     }
-  ],
-  "timestamp": "2026-06-13T06:38:39.234144428Z",
-  "model": "glm-4.5"
+  ]
 }

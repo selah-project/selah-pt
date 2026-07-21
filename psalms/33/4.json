@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 33:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 373,
-    "prompt_tokens": 70286,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70659
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:05.955474622Z",
   "translation": "Pois ⟨é⟩ reto ⟨o⟩ davar de YHWH, e toda ⟨a⟩ obra ⟨dele⟩ ⟨é feita⟩ em fidelidade.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "ישר",
-      "english": "reto"
+      "gloss": "reto"
     },
     {
       "surface": "דבר",
-      "english": "⟨o⟩ davar"
+      "gloss": "⟨o⟩ davar"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "וכל",
-      "english": "e toda ⟨a⟩"
+      "gloss": "e toda ⟨a⟩"
     },
     {
       "surface": "מעשהו",
-      "english": "obra ⟨dele⟩ ⟨é feita⟩"
+      "gloss": "obra ⟨dele⟩ ⟨é feita⟩"
     },
     {
       "surface": "באמונה",
-      "english": "em fidelidade"
+      "gloss": "em fidelidade"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:05.955474622Z",
-  "model": "glm-4.5"
+  ]
 }

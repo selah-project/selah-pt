@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 100:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 100,
-  "usage": {
-    "completion_tokens": 398,
-    "prompt_tokens": 70392,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70790
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:44:32.224206009Z",
   "translation": "Sirvam ⟨את⟩ YHWH com alegria; venham à presença d⟨Ele⟩ com cânticos de júbilo.",
   "tokens": [
     {
       "surface": "עבדו",
-      "english": "Sirvam"
+      "gloss": "Sirvam"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בשמחה",
-      "english": "com alegria"
+      "gloss": "com alegria"
     },
     {
       "surface": "באו",
-      "english": "venham"
+      "gloss": "venham"
     },
     {
       "surface": "לפניו",
-      "english": "à presença d⟨Ele⟩"
+      "gloss": "à presença d⟨Ele⟩"
     },
     {
       "surface": "ברננה",
-      "english": "com cânticos de júbilo"
+      "gloss": "com cânticos de júbilo"
     }
-  ],
-  "timestamp": "2026-07-16T17:44:32.224206009Z",
-  "model": "glm-4.5"
+  ]
 }

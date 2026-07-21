@@ -1,9 +1,82 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "genesis 45:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 45,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:29:37.521287811Z",
+  "translation": "E ao seu pai enviou assim: dez jumentos carregados ⟨com⟩ ⟨o⟩ melhor do Mitzráyim, e dez jumentas carregadas ⟨com⟩ grão e pão e comida para seu pai para o caminho.",
+  "tokens": [
+    {
+      "surface": "ולאביו",
+      "gloss": "E ao seu pai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "enviou"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "assim"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dez"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "jumentos"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "carregados"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "⟨com⟩ ⟨o⟩ melhor",
+      "marks": "do Egito"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "e dez"
+    },
+    {
+      "surface": "אתנת",
+      "gloss": "jumentas"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "carregadas"
+    },
+    {
+      "surface": "בר",
+      "gloss": "⟨com⟩ grão",
+      "marks": "carregadas"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "e pão"
+    },
+    {
+      "surface": "ומזון",
+      "gloss": "e comida"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "para seu pai"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "para o caminho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,90 +86,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 45,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22143,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22665
-  },
-  "translation": "E ao seu pai enviou assim: dez jumentos carregados ⟨com⟩ ⟨o⟩ melhor do Mitzráyim, e dez jumentas carregadas ⟨com⟩ grão e pão e comida para seu pai para o caminho.",
-  "tokens": [
-    {
-      "surface": "ולאביו",
-      "english": "E ao seu pai"
-    },
-    {
-      "surface": "שלח",
-      "english": "enviou"
-    },
-    {
-      "surface": "כזאת",
-      "english": "assim"
-    },
-    {
-      "surface": "עשרה",
-      "english": "dez"
-    },
-    {
-      "surface": "חמרים",
-      "english": "jumentos"
-    },
-    {
-      "surface": "נשאים",
-      "english": "carregados"
-    },
-    {
-      "surface": "מטוב",
-      "english": "⟨com⟩ ⟨o⟩ melhor",
-      "marks": "do Egito"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "ועשר",
-      "english": "e dez"
-    },
-    {
-      "surface": "אתנת",
-      "english": "jumentas"
-    },
-    {
-      "surface": "נשאת",
-      "english": "carregadas"
-    },
-    {
-      "surface": "בר",
-      "english": "⟨com⟩ grão",
-      "marks": "carregadas"
-    },
-    {
-      "surface": "ולחם",
-      "english": "e pão"
-    },
-    {
-      "surface": "ומזון",
-      "english": "e comida"
-    },
-    {
-      "surface": "לאביו",
-      "english": "para seu pai"
-    },
-    {
-      "surface": "לדרך",
-      "english": "para o caminho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:29:37.521287811Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,120 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 31:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 31,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:36:34.077897310Z",
+  "translation": "Ai ⟨dos⟩ que descem ⟨ao⟩ Mitzráyim para ajuda, ⟨e⟩ confiam em cavalos, ⟨e⟩ confiam em carros porque são muitos, ⟨e⟩ em cavaleiros porque são muito fortes; mas não olharam para o Santo de Yisrael, ⟨e⟩ ⟨a⟩ YHWH não buscaram.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "הירדים",
+      "gloss": "⟨dos⟩ que descem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨ao⟩ Mitzráyim"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "para ajuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "confiam em cavalos"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "confiam"
+    },
+    {
+      "surface": "על",
+      "gloss": "em"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "carros"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "רב",
+      "gloss": "são"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "muitos,"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "⟨e⟩ em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cavaleiros"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "porque"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "são muito fortes;"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mas não"
+    },
+    {
+      "surface": "שעו",
+      "gloss": "olharam"
+    },
+    {
+      "surface": "על",
+      "gloss": "para"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "o Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael,"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨e⟩ ⟨a⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "buscaram."
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -20,128 +131,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 961,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20868,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 21829
-  },
-  "translation": "Ai ⟨dos⟩ que descem ⟨ao⟩ Mitzráyim para ajuda, ⟨e⟩ confiam em cavalos, ⟨e⟩ confiam em carros porque são muitos, ⟨e⟩ em cavaleiros porque são muito fortes; mas não olharam para o Santo de Yisrael, ⟨e⟩ ⟨a⟩ YHWH não buscaram.",
-  "tokens": [
-    {
-      "surface": "הוי",
-      "english": "Ai"
-    },
-    {
-      "surface": "הירדים",
-      "english": "⟨dos⟩ que descem"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨ao⟩ Mitzráyim"
-    },
-    {
-      "surface": "לעזרה",
-      "english": "para ajuda"
-    },
-    {
-      "surface": "על",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "סוסים",
-      "english": "confiam em cavalos"
-    },
-    {
-      "surface": "ישענו",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "ויבטחו",
-      "english": "confiam"
-    },
-    {
-      "surface": "על",
-      "english": "em"
-    },
-    {
-      "surface": "רכב",
-      "english": "carros"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "רב",
-      "english": "são"
-    },
-    {
-      "surface": "ועל",
-      "english": "muitos,"
-    },
-    {
-      "surface": "פרשים",
-      "english": "⟨e⟩ em"
-    },
-    {
-      "surface": "כי",
-      "english": "cavaleiros"
-    },
-    {
-      "surface": "עצמו",
-      "english": "porque"
-    },
-    {
-      "surface": "מאד",
-      "english": "são muito fortes;"
-    },
-    {
-      "surface": "ולא",
-      "english": "mas não"
-    },
-    {
-      "surface": "שעו",
-      "english": "olharam"
-    },
-    {
-      "surface": "על",
-      "english": "para"
-    },
-    {
-      "surface": "קדוש",
-      "english": "o Santo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael,"
-    },
-    {
-      "surface": "ואת",
-      "english": "⟨e⟩ ⟨a⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "דרשו",
-      "english": "buscaram."
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:36:34.077897310Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 44:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62892,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63270
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:08:08.136968471Z",
   "translation": "Tu fazes-nos voltar ⟨para trás⟩ de ⟨o⟩ adversário ⟨e⟩ os que nos odeiam saqueiam ⟨para si⟩",
   "tokens": [
     {
       "surface": "תשיבנו",
-      "english": "Tu fazes-nos voltar"
+      "gloss": "Tu fazes-nos voltar"
     },
     {
       "surface": "אחור",
-      "english": "⟨para trás⟩",
+      "gloss": "⟨para trás⟩",
       "marks": "voltar"
     },
     {
       "surface": "מני",
-      "english": "de ⟨o⟩",
+      "gloss": "de ⟨o⟩",
       "marks": "adversário"
     },
     {
       "surface": "צר",
-      "english": "adversário"
+      "gloss": "adversário"
     },
     {
       "surface": "ומשנאינו",
-      "english": "⟨e⟩ os que nos odeiam"
+      "gloss": "⟨e⟩ os que nos odeiam"
     },
     {
       "surface": "שסו",
-      "english": "saqueiam"
+      "gloss": "saqueiam"
     },
     {
       "surface": "למו",
-      "english": "⟨para si⟩",
+      "gloss": "⟨para si⟩",
       "marks": "saqueiam"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:08:08.136968471Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

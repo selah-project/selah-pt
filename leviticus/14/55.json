@@ -1,29 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 55,
   "ref": "leviticus 14:55",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16993,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 17381
-  },
+  "verse": 55,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:52:10.619819120Z",
   "translation": "e para ⟨a⟩ lepra ⟨do⟩ vestido e para ⟨a⟩ casa",
   "tokens": [
     {
       "surface": "ולצרעת",
-      "english": "E para ⟨a⟩ lepra",
+      "gloss": "E para ⟨a⟩ lepra",
       "lemma": "צרעת",
       "strongs": "6883",
       "frequency": 1,
@@ -31,7 +19,7 @@
     },
     {
       "surface": "הבגד",
-      "english": "⟨do⟩ vestido",
+      "gloss": "⟨do⟩ vestido",
       "lemma": "בגד",
       "strongs": "899",
       "frequency": 4,
@@ -39,14 +27,15 @@
     },
     {
       "surface": "ולבית",
-      "english": "e para ⟨a⟩ casa",
+      "gloss": "e para ⟨a⟩ casa",
       "lemma": "בית",
       "strongs": "1004",
       "frequency": 17,
       "gv": 448
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:52:10.619819120Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

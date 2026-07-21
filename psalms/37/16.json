@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 37:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62773,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63150
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:03:39.282314816Z",
   "translation": "Better ⟨is⟩ a little to ⟨the⟩ righteous ⟨than⟩ ⟨the⟩ abundance of many wicked.",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "Better"
+      "gloss": "Better"
     },
     {
       "surface": "מעט",
-      "english": "a little"
+      "gloss": "a little"
     },
     {
       "surface": "לצדיק",
-      "english": "to ⟨the⟩ righteous"
+      "gloss": "to ⟨the⟩ righteous"
     },
     {
       "surface": "מהמון",
-      "english": "⟨than⟩ ⟨the⟩ abundance"
+      "gloss": "⟨than⟩ ⟨the⟩ abundance"
     },
     {
       "surface": "רשעים",
-      "english": "wicked"
+      "gloss": "wicked"
     },
     {
       "surface": "רבים",
-      "english": "many"
+      "gloss": "many"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:03:39.282314816Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

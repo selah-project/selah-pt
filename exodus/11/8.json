@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "exodus 11:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 11,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:48:33.080913118Z",
+  "translation": "E todos estes teus servos virão a mim e ⟨se⟩ prostrarão diante de mim, dizendo: 'Sai tu e todo o povo que ⟨está⟩ aos teus pés'; e depois disso eu sairei.' E saiu de diante de Paró, ⟨em⟩ grande ira.",
+  "tokens": [
+    {
+      "surface": "ולרדו",
+      "gloss": "E virão"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "estes teus servos"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estes"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "e ⟨se⟩ prostrarão"
+    },
+    {
+      "surface": "לי",
+      "gloss": "diante de mim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "צא",
+      "gloss": "'Sai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "o povo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ברגליך",
+      "gloss": "⟨está⟩ aos teus pés"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "e depois"
+    },
+    {
+      "surface": "כן",
+      "gloss": "disso"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "eu sairei'"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "E saiu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de diante de"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "⟨em⟩ grande"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ira"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraó",
@@ -13,112 +108,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 772,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18115,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18887
-  },
-  "translation": "E todos estes teus servos virão a mim e ⟨se⟩ prostrarão diante de mim, dizendo: 'Sai tu e todo o povo que ⟨está⟩ aos teus pés'; e depois disso eu sairei.' E saiu de diante de Paró, ⟨em⟩ grande ira.",
-  "tokens": [
-    {
-      "surface": "ולרדו",
-      "english": "E virão"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "עבדיך",
-      "english": "estes teus servos"
-    },
-    {
-      "surface": "אלה",
-      "english": "estes"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mim"
-    },
-    {
-      "surface": "והשתחוו",
-      "english": "e ⟨se⟩ prostrarão"
-    },
-    {
-      "surface": "לי",
-      "english": "diante de mim"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "צא",
-      "english": "'Sai"
-    },
-    {
-      "surface": "אתה",
-      "english": "tu"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "העם",
-      "english": "o povo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "ברגליך",
-      "english": "⟨está⟩ aos teus pés"
-    },
-    {
-      "surface": "ואחרי",
-      "english": "e depois"
-    },
-    {
-      "surface": "כן",
-      "english": "disso"
-    },
-    {
-      "surface": "אצא",
-      "english": "eu sairei'"
-    },
-    {
-      "surface": "ויצא",
-      "english": "E saiu"
-    },
-    {
-      "surface": "מעם",
-      "english": "de diante de"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "בחרי",
-      "english": "⟨em⟩ grande"
-    },
-    {
-      "surface": "אף",
-      "english": "ira"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:48:33.080913118Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

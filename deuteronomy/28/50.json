@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "deuteronomy 28:50",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 616,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17912,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 18528
-  },
+  "verse": 50,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:18:05.593577792Z",
   "translation": "Um povo de rosto ⟨forte⟩, que não ⟨fará⟩ ⟨cortesia⟩ ao velho, e ⟨não⟩ ⟨terá⟩ ⟨misericórdia⟩ ⟨do⟩ jovem",
   "tokens": [
     {
       "surface": "גוי",
-      "english": "Povo"
+      "gloss": "Povo"
     },
     {
       "surface": "עז",
-      "english": "⟨forte⟩"
+      "gloss": "⟨forte⟩"
     },
     {
       "surface": "פנים",
-      "english": "rosto"
+      "gloss": "rosto"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "ישא",
-      "english": "⟨fará⟩"
+      "gloss": "⟨fará⟩"
     },
     {
       "surface": "פנים",
-      "english": "⟨cortesia⟩",
+      "gloss": "⟨cortesia⟩",
       "marks": "cortesia ao velho"
     },
     {
       "surface": "לזקן",
-      "english": "ao velho"
+      "gloss": "ao velho"
     },
     {
       "surface": "ונער",
-      "english": "e ⟨não⟩ ⟨terá⟩"
+      "gloss": "e ⟨não⟩ ⟨terá⟩"
     },
     {
       "surface": "לא",
-      "english": "⟨terá⟩"
+      "gloss": "⟨terá⟩"
     },
     {
       "surface": "יחן",
-      "english": "⟨misericórdia⟩",
+      "gloss": "⟨misericórdia⟩",
       "marks": "misericórdia do jovem"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:18:05.593577792Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

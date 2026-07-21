@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "jeremiah 48:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 48,
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:51:33.444126849Z",
+  "translation": "Nós ouvimos ⟨o⟩ orgulho de Moav, ⟨ele é⟩ muito soberbo, sua altivez, e seu orgulho, e sua arrogância, e ⟨a⟩ altivez de seu coração",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Nós ouvimos"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "⟨o⟩ orgulho"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "muito soberbo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muito"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "sua altivez"
+    },
+    {
+      "surface": "וגאונו",
+      "gloss": "e seu orgulho"
+    },
+    {
+      "surface": "וגאותו",
+      "gloss": "e sua arrogância"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "e ⟨a⟩ altivez"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "de seu coração"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -13,64 +60,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17656,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18043
-  },
-  "translation": "Nós ouvimos ⟨o⟩ orgulho de Moav, ⟨ele é⟩ muito soberbo, sua altivez, e seu orgulho, e sua arrogância, e ⟨a⟩ altivez de seu coração",
-  "tokens": [
-    {
-      "surface": "שמענו",
-      "english": "Nós ouvimos"
-    },
-    {
-      "surface": "גאון",
-      "english": "⟨o⟩ orgulho"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "גאה",
-      "english": "muito soberbo"
-    },
-    {
-      "surface": "מאד",
-      "english": "muito"
-    },
-    {
-      "surface": "גבהו",
-      "english": "sua altivez"
-    },
-    {
-      "surface": "וגאונו",
-      "english": "e seu orgulho"
-    },
-    {
-      "surface": "וגאותו",
-      "english": "e sua arrogância"
-    },
-    {
-      "surface": "ורם",
-      "english": "e ⟨a⟩ altivez"
-    },
-    {
-      "surface": "לבו",
-      "english": "de seu coração"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:51:33.444126849Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

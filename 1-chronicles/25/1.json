@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 25:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 25,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:00:28.593403513Z",
+  "translation": "E David e os comandantes ⟨do⟩ exército ⟨se⟩ separaram para ⟨o⟩ serviço ⟨aos⟩ filhos de Asafe ⟨e⟩ Hemã ⟨e⟩ Jedutum, ⟨os⟩ profetas, com harpas, com liras ⟨e⟩ com címbalos; e ⟨o⟩ número dos homens ⟨da⟩ obra ⟨para⟩ ⟨o⟩ serviço deles ⟨foi⟩:",
+  "tokens": [
+    {
+      "surface": "ויבדל",
+      "gloss": "E ... se separaram"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e os comandantes"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "⟨do⟩ exército"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "para ⟨o⟩ serviço"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨aos⟩ filhos"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "de Asafe"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "⟨e⟩ Hemã"
+    },
+    {
+      "surface": "וידותון",
+      "gloss": "⟨e⟩ Jedutum"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "⟨os⟩ profetas"
+    },
+    {
+      "surface": "בכנרות",
+      "gloss": "com harpas"
+    },
+    {
+      "surface": "בנבלים",
+      "gloss": "com liras"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "⟨e⟩ com címbalos"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ⟨o⟩ número"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "dos homens"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "⟨da⟩ obra"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "⟨para⟩ ⟨o⟩ serviço deles"
+    },
+    {
+      "surface": "לעבדתם",
+      "gloss": "⟨foi⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,96 +92,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 761,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58232,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58993
-  },
-  "translation": "E David e os comandantes ⟨do⟩ exército ⟨se⟩ separaram para ⟨o⟩ serviço ⟨aos⟩ filhos de Asafe ⟨e⟩ Hemã ⟨e⟩ Jedutum, ⟨os⟩ profetas, com harpas, com liras ⟨e⟩ com címbalos; e ⟨o⟩ número dos homens ⟨da⟩ obra ⟨para⟩ ⟨o⟩ serviço deles ⟨foi⟩:",
-  "tokens": [
-    {
-      "surface": "ויבדל",
-      "english": "E ... se separaram"
-    },
-    {
-      "surface": "דויד",
-      "english": "David"
-    },
-    {
-      "surface": "ושרי",
-      "english": "e os comandantes"
-    },
-    {
-      "surface": "הצבא",
-      "english": "⟨do⟩ exército"
-    },
-    {
-      "surface": "לעבדה",
-      "english": "para ⟨o⟩ serviço"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨aos⟩ filhos"
-    },
-    {
-      "surface": "אסף",
-      "english": "de Asafe"
-    },
-    {
-      "surface": "והימן",
-      "english": "⟨e⟩ Hemã"
-    },
-    {
-      "surface": "וידותון",
-      "english": "⟨e⟩ Jedutum"
-    },
-    {
-      "surface": "הנביאים",
-      "english": "⟨os⟩ profetas"
-    },
-    {
-      "surface": "בכנרות",
-      "english": "com harpas"
-    },
-    {
-      "surface": "בנבלים",
-      "english": "com liras"
-    },
-    {
-      "surface": "ובמצלתים",
-      "english": "⟨e⟩ com címbalos"
-    },
-    {
-      "surface": "ויהי",
-      "english": "e ⟨o⟩ número"
-    },
-    {
-      "surface": "מספרם",
-      "english": "dos homens"
-    },
-    {
-      "surface": "אנשי",
-      "english": "⟨da⟩ obra"
-    },
-    {
-      "surface": "מלאכה",
-      "english": "⟨para⟩ ⟨o⟩ serviço deles"
-    },
-    {
-      "surface": "לעבדתם",
-      "english": "⟨foi⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:00:28.593403513Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "2-chronicles 12:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 12,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:19:23.922753878Z",
+  "translation": "E aconteceu ⟨que⟩ no ano quinto de ⟨o⟩ rei Rejavam, subiu Shishak, rei ⟨do⟩ Mitzráyim, contra Yerushalayim, porque haviam traído ⟨a⟩ ⟨YHWH⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu ⟨que⟩"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "no ano"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "quinto"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "de ⟨o⟩ rei"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "subiu"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨do⟩ Mitzráyim"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "haviam traído"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "⟨a⟩ ⟨YHWH⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboão",
@@ -27,80 +90,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 653,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58702,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59355
-  },
-  "translation": "E aconteceu ⟨que⟩ no ano quinto de ⟨o⟩ rei Rejavam, subiu Shishak, rei ⟨do⟩ Mitzráyim, contra Yerushalayim, porque haviam traído ⟨a⟩ ⟨YHWH⟩.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu ⟨que⟩"
-    },
-    {
-      "surface": "בשנה",
-      "english": "no ano"
-    },
-    {
-      "surface": "החמישית",
-      "english": "quinto"
-    },
-    {
-      "surface": "למלך",
-      "english": "de ⟨o⟩ rei"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "עלה",
-      "english": "subiu"
-    },
-    {
-      "surface": "שישק",
-      "english": "Shishak"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨do⟩ Mitzráyim"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "מעלו",
-      "english": "haviam traído"
-    },
-    {
-      "surface": "ביהוה",
-      "english": "⟨a⟩ ⟨YHWH⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:19:23.922753878Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

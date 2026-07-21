@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 49:3",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26382,
-    "prompt_tokens_details": {
-      "cached_tokens": 25327
-    },
-    "total_tokens": 26744
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:13:58.733077188Z",
   "translation": "E disse a mim: ⟨é⟩ meu servo, Israel, em ti ⟨eu⟩ me gloriarei.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "לי",
-      "english": "a mim"
+      "gloss": "a mim"
     },
     {
       "surface": "עבדי",
-      "english": "meu servo"
+      "gloss": "meu servo"
     },
     {
       "surface": "אתה",
-      "english": "⟨é⟩"
+      "gloss": "⟨é⟩"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "אשר",
-      "english": "em ti"
+      "gloss": "em ti"
     },
     {
       "surface": "בך",
-      "english": "⟨eu⟩"
+      "gloss": "⟨eu⟩"
     },
     {
       "surface": "אתפאר",
-      "english": "me gloriarei"
+      "gloss": "me gloriarei"
     }
-  ],
-  "timestamp": "2026-06-13T06:13:58.733077188Z",
-  "model": "glm-4.5"
+  ]
 }

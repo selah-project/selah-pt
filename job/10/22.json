@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "job 10:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 10,
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:52:46.572330360Z",
+  "translation": "Terra de obscuridade ⟨como⟩ treva, Tzalmavet, e ⟨não⟩ ⟨há⟩ ordens, e ⟨o⟩ brilho ⟨é⟩ ⟨como⟩ treva",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Terra"
+    },
+    {
+      "surface": "עיפתה",
+      "gloss": "de obscuridade"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "⟨como⟩"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "treva"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "Tzalmavet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ⟨não⟩"
+    },
+    {
+      "surface": "סדרים",
+      "gloss": "⟨há⟩ ordens"
+    },
+    {
+      "surface": "ותפע",
+      "gloss": "e ⟨o⟩ brilho"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "⟨é⟩ ⟨como⟩"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "treva"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sombra da morte",
@@ -13,64 +60,6 @@
       "hebrew": "צלמות"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20220,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20734
-  },
-  "translation": "Terra de obscuridade ⟨como⟩ treva, Tzalmavet, e ⟨não⟩ ⟨há⟩ ordens, e ⟨o⟩ brilho ⟨é⟩ ⟨como⟩ treva",
-  "tokens": [
-    {
-      "surface": "ארץ",
-      "english": "Terra"
-    },
-    {
-      "surface": "עיפתה",
-      "english": "de obscuridade"
-    },
-    {
-      "surface": "כמו",
-      "english": "⟨como⟩"
-    },
-    {
-      "surface": "אפל",
-      "english": "treva"
-    },
-    {
-      "surface": "צלמות",
-      "english": "Tzalmavet"
-    },
-    {
-      "surface": "ולא",
-      "english": "e ⟨não⟩"
-    },
-    {
-      "surface": "סדרים",
-      "english": "⟨há⟩ ordens"
-    },
-    {
-      "surface": "ותפע",
-      "english": "e ⟨o⟩ brilho"
-    },
-    {
-      "surface": "כמו",
-      "english": "⟨é⟩ ⟨como⟩"
-    },
-    {
-      "surface": "אפל",
-      "english": "treva"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:52:46.572330360Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

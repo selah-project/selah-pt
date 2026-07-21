@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "numbers 7:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:16:00.708269710Z",
+  "translation": "No terceiro dia ⟨o⟩ príncipe dos filhos de Zevulun, Eliav, filho de Helon:",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "No dia"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "terceiro"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "⟨o⟩ príncipe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "de Zevulun"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "de Helon"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zebulom",
@@ -13,56 +52,6 @@
       "hebrew": "זבולן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18070,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18388
-  },
-  "translation": "No terceiro dia ⟨o⟩ príncipe dos filhos de Zevulun, Eliav, filho de Helon:",
-  "tokens": [
-    {
-      "surface": "ביום",
-      "english": "No dia"
-    },
-    {
-      "surface": "השלישי",
-      "english": "terceiro"
-    },
-    {
-      "surface": "נשיא",
-      "english": "⟨o⟩ príncipe"
-    },
-    {
-      "surface": "לבני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "זבולן",
-      "english": "de Zevulun"
-    },
-    {
-      "surface": "אליאב",
-      "english": "Eliav"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "חלן",
-      "english": "de Helon"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:16:00.708269710Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

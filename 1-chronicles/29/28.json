@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "1-chronicles 29:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 29,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:05:51.691455380Z",
+  "translation": "E ele morreu ⟨em⟩ boa velhice, ⟨estando⟩ ⟨cheio⟩ de dias, riquezas ⟨e⟩ glória; e Shlomó, seu filho, reinou ⟨em⟩ seu lugar.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "E ele morreu"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "⟨em⟩ boa velhice"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "boa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "⟨cheio⟩"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de dias"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "riquezas"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "⟨e⟩ glória"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e reinou"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨em⟩ seu lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Salomão",
@@ -13,68 +64,6 @@
       "hebrew": "שלמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 572,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57421,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57993
-  },
-  "translation": "E ele morreu ⟨em⟩ boa velhice, ⟨estando⟩ ⟨cheio⟩ de dias, riquezas ⟨e⟩ glória; e Shlomó, seu filho, reinou ⟨em⟩ seu lugar.",
-  "tokens": [
-    {
-      "surface": "וימת",
-      "english": "E ele morreu"
-    },
-    {
-      "surface": "בשיבה",
-      "english": "⟨em⟩ boa velhice"
-    },
-    {
-      "surface": "טובה",
-      "english": "boa"
-    },
-    {
-      "surface": "שבע",
-      "english": "⟨cheio⟩"
-    },
-    {
-      "surface": "ימים",
-      "english": "de dias"
-    },
-    {
-      "surface": "עשר",
-      "english": "riquezas"
-    },
-    {
-      "surface": "וכבוד",
-      "english": "⟨e⟩ glória"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e reinou"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "⟨em⟩ seu lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:05:51.691455380Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "habakkuk 3:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "habakkuk",
+  "chapter": 3,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:23:07.313102212Z",
+  "translation": "As montanhas viram ⟨o⟩ e estremeceram, ⟨um⟩ torrencial de águas passou, ⟨o⟩ Tehom deu ⟨sua⟩ voz, ⟨em⟩ alto ⟨as⟩ suas ⟨mãos⟩ levantou.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "Viram ⟨o⟩",
+      "marks": "As montanhas viram ⟨o⟩"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "e estremeceram"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "As montanhas"
+    },
+    {
+      "surface": "זרם",
+      "gloss": "⟨um⟩ torrencial"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de águas"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passou"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "⟨o⟩ Tehom"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "⟨sua⟩ voz"
+    },
+    {
+      "surface": "רום",
+      "gloss": "⟨em⟩ alto"
+    },
+    {
+      "surface": "ידיהו",
+      "gloss": "⟨as⟩ suas ⟨mãos⟩"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "levantou"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "abismo",
@@ -13,73 +69,6 @@
       "hebrew": "תהום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 723,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21847,
-    "prompt_tokens_details": {
-      "cached_tokens": 20360
-    },
-    "total_tokens": 22570
-  },
-  "translation": "As montanhas viram ⟨o⟩ e estremeceram, ⟨um⟩ torrencial de águas passou, ⟨o⟩ Tehom deu ⟨sua⟩ voz, ⟨em⟩ alto ⟨as⟩ suas ⟨mãos⟩ levantou.",
-  "tokens": [
-    {
-      "surface": "ראוך",
-      "english": "Viram ⟨o⟩",
-      "marks": "As montanhas viram ⟨o⟩"
-    },
-    {
-      "surface": "יחילו",
-      "english": "e estremeceram"
-    },
-    {
-      "surface": "הרים",
-      "english": "As montanhas"
-    },
-    {
-      "surface": "זרם",
-      "english": "⟨um⟩ torrencial"
-    },
-    {
-      "surface": "מים",
-      "english": "de águas"
-    },
-    {
-      "surface": "עבר",
-      "english": "passou"
-    },
-    {
-      "surface": "נתן",
-      "english": "deu"
-    },
-    {
-      "surface": "תהום",
-      "english": "⟨o⟩ Tehom"
-    },
-    {
-      "surface": "קולו",
-      "english": "⟨sua⟩ voz"
-    },
-    {
-      "surface": "רום",
-      "english": "⟨em⟩ alto"
-    },
-    {
-      "surface": "ידיהו",
-      "english": "⟨as⟩ suas ⟨mãos⟩"
-    },
-    {
-      "surface": "נשא",
-      "english": "levantou"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:23:07.313102212Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

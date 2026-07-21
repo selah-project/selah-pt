@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 135:19",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 397,
-    "prompt_tokens": 70724,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71121
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:04.909113564Z",
   "translation": "Casa de Yisrael, bendizei ⟨a⟩ YHWH; casa de Aharon, bendizei ⟨a⟩ YHWH.",
   "tokens": [
     {
       "surface": "בית",
-      "english": "Casa"
+      "gloss": "Casa"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "ברכו",
-      "english": "bendizei"
+      "gloss": "bendizei"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בית",
-      "english": "casa"
+      "gloss": "casa"
     },
     {
       "surface": "אהרן",
-      "english": "de Aharon"
+      "gloss": "de Aharon"
     },
     {
       "surface": "ברכו",
-      "english": "bendizei"
+      "gloss": "bendizei"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:04.909113564Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 83:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 83,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:35:07.122389780Z",
+  "translation": "Eles disseram: ⟨Vinde⟩, e exterminemo-los ⟨como⟩ nação ⟨de modo que⟩ ⟨o⟩ nome ⟨de⟩ Yisrael não seja lembrado ⟨mais⟩",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Eles disseram"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "⟨Vinde⟩"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "e exterminemo-los"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "⟨como⟩ nação"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨de modo que⟩ ⟨o⟩"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "não seja lembrado"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nome"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨mais⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 83,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63070,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63591
-  },
-  "translation": "Eles disseram: ⟨Vinde⟩, e exterminemo-los ⟨como⟩ nação ⟨de modo que⟩ ⟨o⟩ nome ⟨de⟩ Yisrael não seja lembrado ⟨mais⟩",
-  "tokens": [
-    {
-      "surface": "אמרו",
-      "english": "Eles disseram"
-    },
-    {
-      "surface": "לכו",
-      "english": "⟨Vinde⟩"
-    },
-    {
-      "surface": "ונכחידם",
-      "english": "e exterminemo-los"
-    },
-    {
-      "surface": "מגוי",
-      "english": "⟨como⟩ nação"
-    },
-    {
-      "surface": "ולא",
-      "english": "⟨de modo que⟩ ⟨o⟩"
-    },
-    {
-      "surface": "יזכר",
-      "english": "não seja lembrado"
-    },
-    {
-      "surface": "שם",
-      "english": "nome"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨mais⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:35:07.122389780Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "isaiah 38:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 38,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:42:15.259831710Z",
+  "translation": "O vivo, o vivo, ⟨ele⟩ te louva, como eu hoje; ⟨o⟩ pai aos filhos fará saber ⟨a⟩ tua Emet.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Vivo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ele⟩"
+    },
+    {
+      "surface": "יודך",
+      "gloss": "te louva"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "como eu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "אב",
+      "gloss": "⟨o⟩ pai"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "aos filhos"
+    },
+    {
+      "surface": "יודיע",
+      "gloss": "fará saber"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tua Emet"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "verdade",
@@ -13,68 +64,6 @@
       "hebrew": "אמת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 38,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19308,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19702
-  },
-  "translation": "O vivo, o vivo, ⟨ele⟩ te louva, como eu hoje; ⟨o⟩ pai aos filhos fará saber ⟨a⟩ tua Emet.",
-  "tokens": [
-    {
-      "surface": "חי",
-      "english": "Vivo"
-    },
-    {
-      "surface": "חי",
-      "english": "vivo"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨ele⟩"
-    },
-    {
-      "surface": "יודך",
-      "english": "te louva"
-    },
-    {
-      "surface": "כמוני",
-      "english": "como eu"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    },
-    {
-      "surface": "אב",
-      "english": "⟨o⟩ pai"
-    },
-    {
-      "surface": "לבנים",
-      "english": "aos filhos"
-    },
-    {
-      "surface": "יודיע",
-      "english": "fará saber"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "אמתך",
-      "english": "tua Emet"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:42:15.259831710Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

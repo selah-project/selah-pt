@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-samuel 30:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 30,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:41:56.898259526Z",
+  "translation": "E Davidd disse a ele: Poderás ⟨é⟩ me levar a ⟨o⟩ este grupo? E ele disse: Jura-me por Elohim ⟨que⟩ ⟨se⟩ não me matarás e ⟨que⟩ não me entregarás nas mãos de meu senhor, e ⟨eu⟩ te levarei a ⟨o⟩ este grupo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "התורדני",
+      "gloss": "Poderás ⟨é⟩ me levar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "⟨o⟩ grupo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "este"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "Jura"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "por Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "תמיתני",
+      "gloss": "⟨se⟩ não me matarás"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e ⟨que⟩"
+    },
+    {
+      "surface": "תסגרני",
+      "gloss": "não me entregarás"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nas mãos"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "de meu senhor"
+    },
+    {
+      "surface": "ואורדך",
+      "gloss": "e ⟨eu⟩ te levarei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "⟨o⟩ grupo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "este"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,108 +104,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 660,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17701,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18361
-  },
-  "translation": "E Davidd disse a ele: Poderás ⟨é⟩ me levar a ⟨o⟩ este grupo? E ele disse: Jura-me por Elohim ⟨que⟩ ⟨se⟩ não me matarás e ⟨que⟩ não me entregarás nas mãos de meu senhor, e ⟨eu⟩ te levarei a ⟨o⟩ este grupo.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ele"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "התורדני",
-      "english": "Poderás ⟨é⟩ me levar"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "הגדוד",
-      "english": "⟨o⟩ grupo"
-    },
-    {
-      "surface": "הזה",
-      "english": "este"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "השבעה",
-      "english": "Jura"
-    },
-    {
-      "surface": "לי",
-      "english": "me"
-    },
-    {
-      "surface": "באלהים",
-      "english": "por Elohim"
-    },
-    {
-      "surface": "אם",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "תמיתני",
-      "english": "⟨se⟩ não me matarás"
-    },
-    {
-      "surface": "ואם",
-      "english": "e ⟨que⟩"
-    },
-    {
-      "surface": "תסגרני",
-      "english": "não me entregarás"
-    },
-    {
-      "surface": "ביד",
-      "english": "nas mãos"
-    },
-    {
-      "surface": "אדני",
-      "english": "de meu senhor"
-    },
-    {
-      "surface": "ואורדך",
-      "english": "e ⟨eu⟩ te levarei"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "הגדוד",
-      "english": "⟨o⟩ grupo"
-    },
-    {
-      "surface": "הזה",
-      "english": "este"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:41:56.898259526Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

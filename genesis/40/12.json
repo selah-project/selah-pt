@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 40:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 40,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:22:44.337953090Z",
+  "translation": "E Yosef disse a ele: Esta é ⟨a⟩ sua interpretação: ⟨o⟩s três ramos são três dias, eles são.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E José disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Esta"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "⟨a⟩ sua interpretação"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "⟨o⟩s três"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ramos"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "três"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dias"
+    },
+    {
+      "surface": "הם",
+      "gloss": "eles são"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "José",
@@ -13,64 +60,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 40,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21524,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 21858
-  },
-  "translation": "E Yosef disse a ele: Esta é ⟨a⟩ sua interpretação: ⟨o⟩s três ramos são três dias, eles são.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E José disse"
-    },
-    {
-      "surface": "לו",
-      "english": "a ele"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    },
-    {
-      "surface": "זה",
-      "english": "Esta"
-    },
-    {
-      "surface": "פתרנו",
-      "english": "⟨a⟩ sua interpretação"
-    },
-    {
-      "surface": "שלשת",
-      "english": "⟨o⟩s três"
-    },
-    {
-      "surface": "השרגים",
-      "english": "ramos"
-    },
-    {
-      "surface": "שלשת",
-      "english": "três"
-    },
-    {
-      "surface": "ימים",
-      "english": "dias"
-    },
-    {
-      "surface": "הם",
-      "english": "eles são"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:22:44.337953090Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

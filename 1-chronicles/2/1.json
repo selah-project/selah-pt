@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 2:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 2,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:32:05.323248458Z",
+  "translation": "Estes ⟨são⟩ ⟨os⟩ filhos de Yisrael: Reúven, Shimón, Leví, e Yehudá, Issáskhar, e Zevulún",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Estes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reúven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimón"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leví"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Yehudá"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Issáskhar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "e Zevulún"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,60 +63,6 @@
       "hebrew": "לוי"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 524,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57168,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57692
-  },
-  "translation": "Estes ⟨são⟩ ⟨os⟩ filhos de Yisrael: Reúven, Shimón, Leví, e Yehudá, Issáskhar, e Zevulún",
-  "tokens": [
-    {
-      "surface": "אלה",
-      "english": "Estes"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ראובן",
-      "english": "Reúven"
-    },
-    {
-      "surface": "שמעון",
-      "english": "Shimón"
-    },
-    {
-      "surface": "לוי",
-      "english": "Leví"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "e Yehudá"
-    },
-    {
-      "surface": "יששכר",
-      "english": "Issáskhar"
-    },
-    {
-      "surface": "וזבלון",
-      "english": "e Zevulún"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:32:05.323248458Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

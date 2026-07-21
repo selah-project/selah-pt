@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-chronicles 30:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 30,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:43:28.515459540Z",
+  "translation": "Então os corretores passavam de cidade ⟨em⟩ cidade na terra de Efráyim e ⟨de⟩ Manassés até ⟨o⟩ Zebulon; mas eles riam ⟨de⟩ eles e zombavam ⟨de⟩ ⟨eles⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Então"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "os corretores"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "passavam"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "de cidade"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "⟨em⟩ cidade"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "e ⟨de⟩ Manassés"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "até"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "⟨o⟩ Zebulon"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mas eles"
+    },
+    {
+      "surface": "משחיקים",
+      "gloss": "riam"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨de⟩ eles"
+    },
+    {
+      "surface": "ומלעגים",
+      "gloss": "e zombavam ⟨de⟩"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨eles⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,84 +80,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 681,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58813,
-    "prompt_tokens_details": {
-      "cached_tokens": 57025
-    },
-    "total_tokens": 59494
-  },
-  "translation": "Então os corretores passavam de cidade ⟨em⟩ cidade na terra de Efráyim e ⟨de⟩ Manassés até ⟨o⟩ Zebulon; mas eles riam ⟨de⟩ eles e zombavam ⟨de⟩ ⟨eles⟩.",
-  "tokens": [
-    {
-      "surface": "ויהיו",
-      "english": "Então"
-    },
-    {
-      "surface": "הרצים",
-      "english": "os corretores"
-    },
-    {
-      "surface": "עברים",
-      "english": "passavam"
-    },
-    {
-      "surface": "מעיר",
-      "english": "de cidade"
-    },
-    {
-      "surface": "לעיר",
-      "english": "⟨em⟩ cidade"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    },
-    {
-      "surface": "ומנשה",
-      "english": "e ⟨de⟩ Manassés"
-    },
-    {
-      "surface": "ועד",
-      "english": "até"
-    },
-    {
-      "surface": "זבלון",
-      "english": "⟨o⟩ Zebulon"
-    },
-    {
-      "surface": "ויהיו",
-      "english": "mas eles"
-    },
-    {
-      "surface": "משחיקים",
-      "english": "riam"
-    },
-    {
-      "surface": "עליהם",
-      "english": "⟨de⟩ eles"
-    },
-    {
-      "surface": "ומלעגים",
-      "english": "e zombavam ⟨de⟩"
-    },
-    {
-      "surface": "בם",
-      "english": "⟨eles⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:43:28.515459540Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

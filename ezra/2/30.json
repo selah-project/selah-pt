@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "ezra 2:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 214,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44581,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 44795
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:03:31.256634490Z",
   "translation": "Os filhos de Magbish ⟨eram⟩ cem e cinquenta e ⟨seis⟩.",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Os filhos de"
+      "gloss": "Os filhos de"
     },
     {
       "surface": "מגביש",
-      "english": "Magbish"
+      "gloss": "Magbish"
     },
     {
       "surface": "מאה",
-      "english": "cem"
+      "gloss": "cem"
     },
     {
       "surface": "חמשים",
-      "english": "cinquenta e"
+      "gloss": "cinquenta e"
     },
     {
       "surface": "וששה",
-      "english": "⟨seis⟩"
+      "gloss": "⟨seis⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:03:31.256634490Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

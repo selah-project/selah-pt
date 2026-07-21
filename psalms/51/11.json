@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 51:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 702,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62802,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63504
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:13:24.768307361Z",
   "translation": "Esconde ⟨o⟩ ⟨rosto⟩ de ⟨teu⟩ ⟨esconder⟩ ⟨de⟩ ⟨meus⟩ pecados, e apaga todas ⟨as⟩ ⟨minhas⟩ iniquidades",
   "tokens": [
     {
       "surface": "הסתר",
-      "english": "Esconde"
+      "gloss": "Esconde"
     },
     {
       "surface": "פניך",
-      "english": "⟨o⟩ ⟨rosto⟩",
+      "gloss": "⟨o⟩ ⟨rosto⟩",
       "marks": "de ⟨teu⟩ ⟨esconder⟩"
     },
     {
       "surface": "מחטאי",
-      "english": "⟨de⟩ ⟨meus⟩ pecados",
+      "gloss": "⟨de⟩ ⟨meus⟩ pecados",
       "marks": "pecados"
     },
     {
       "surface": "וכל",
-      "english": "e todas"
+      "gloss": "e todas"
     },
     {
       "surface": "עונתי",
-      "english": "⟨as⟩ ⟨minhas⟩ iniquidades"
+      "gloss": "⟨as⟩ ⟨minhas⟩ iniquidades"
     },
     {
       "surface": "מחה",
-      "english": "apaga"
+      "gloss": "apaga"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:13:24.768307361Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

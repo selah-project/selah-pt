@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "job 39:30",
   "book": "job",
-  "lang": "pt",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 500,
-    "prompt_tokens": 27572,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 28072
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:02:00.835082726Z",
   "translation": "E ⟨sua⟩ prole sorve sangue, e onde ⟨os⟩ traspassados estão, lá ⟨está⟩ ele.",
   "tokens": [
     {
       "surface": "ואפרחו",
-      "english": "E ⟨sua⟩ prole"
+      "gloss": "E ⟨sua⟩ prole"
     },
     {
       "surface": "יעלעו",
-      "english": "sorve"
+      "gloss": "sorve"
     },
     {
       "surface": "דם",
-      "english": "sangue"
+      "gloss": "sangue"
     },
     {
       "surface": "ובאשר",
-      "english": "e onde"
+      "gloss": "e onde"
     },
     {
       "surface": "חללים",
-      "english": "⟨os⟩ traspassados"
+      "gloss": "⟨os⟩ traspassados"
     },
     {
       "surface": "שם",
-      "english": "lá"
+      "gloss": "lá"
     },
     {
       "surface": "הוא",
-      "english": "⟨está⟩ ele"
+      "gloss": "⟨está⟩ ele"
     }
-  ],
-  "timestamp": "2026-07-16T16:02:00.835082726Z",
-  "model": "glm-4.5"
+  ]
 }

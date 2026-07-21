@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "2-samuel 15:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 15,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:56:57.176254756Z",
+  "translation": "And ⟨the⟩ messenger came to Davidd, saying, ⟨The⟩ heart of ⟨the⟩ men of Yisrael ⟨is⟩ after Absalom.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "And came"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "⟨the⟩ messenger"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨the⟩ heart"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨the⟩ men"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,68 +71,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17496,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 17886
-  },
-  "translation": "And ⟨the⟩ messenger came to Davidd, saying, ⟨The⟩ heart of ⟨the⟩ men of Yisrael ⟨is⟩ after Absalom.",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "And came"
-    },
-    {
-      "surface": "המגיד",
-      "english": "⟨the⟩ messenger"
-    },
-    {
-      "surface": "אל",
-      "english": "to"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לאמר",
-      "english": "saying"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨is⟩"
-    },
-    {
-      "surface": "לב",
-      "english": "⟨the⟩ heart"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨the⟩ men"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אחרי",
-      "english": "after"
-    },
-    {
-      "surface": "אבשלום",
-      "english": "Absalom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:56:57.176254756Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

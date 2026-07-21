@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 21:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 21,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:59:52.988445019Z",
+  "translation": "Suas casas ⟨são⟩ ⟨em⟩ Shalom ⟨a partir⟩ ⟨de⟩ medo ⟨e⟩ ⟨não⟩ ⟨está⟩ a vara de Elohim sobre ⟨eles⟩",
+  "tokens": [
+    {
+      "surface": "בתיהם",
+      "gloss": "Suas casas"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨em⟩ Shalom"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "⟨a partir⟩ ⟨de⟩ medo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨e⟩ ⟨não⟩"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "vara"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sobre ⟨eles⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,52 +48,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20027,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20502
-  },
-  "translation": "Suas casas ⟨são⟩ ⟨em⟩ Shalom ⟨a partir⟩ ⟨de⟩ medo ⟨e⟩ ⟨não⟩ ⟨está⟩ a vara de Elohim sobre ⟨eles⟩",
-  "tokens": [
-    {
-      "surface": "בתיהם",
-      "english": "Suas casas"
-    },
-    {
-      "surface": "שלום",
-      "english": "⟨em⟩ Shalom"
-    },
-    {
-      "surface": "מפחד",
-      "english": "⟨a partir⟩ ⟨de⟩ medo"
-    },
-    {
-      "surface": "ולא",
-      "english": "⟨e⟩ ⟨não⟩"
-    },
-    {
-      "surface": "שבט",
-      "english": "vara"
-    },
-    {
-      "surface": "אלוה",
-      "english": "Elohim"
-    },
-    {
-      "surface": "עליהם",
-      "english": "sobre ⟨eles⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:59:52.988445019Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

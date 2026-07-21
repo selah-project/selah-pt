@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 124:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 124,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70058,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70514
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:41:33.150050275Z",
   "translation": "Então ⟨as⟩ águas soberbas teriam passado sobre nossa alma, ⟨o⟩ orgulhoso teria transbordado ⟨sobre⟩ nós.",
   "tokens": [
     {
       "surface": "אזי",
-      "english": "Então"
+      "gloss": "Então"
     },
     {
       "surface": "עבר",
-      "english": "teriam passado"
+      "gloss": "teriam passado"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "נפשנו",
-      "english": "nossa alma"
+      "gloss": "nossa alma"
     },
     {
       "surface": "המים",
-      "english": "⟨as⟩ águas"
+      "gloss": "⟨as⟩ águas"
     },
     {
       "surface": "הזידונים",
-      "english": "⟨o⟩ orgulhoso"
+      "gloss": "⟨o⟩ orgulhoso"
     }
-  ],
-  "timestamp": "2026-06-13T06:41:33.150050275Z",
-  "model": "glm-4.5"
+  ]
 }

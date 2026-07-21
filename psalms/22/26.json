@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 22:26",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 509,
-    "prompt_tokens": 70411,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70920
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:36:27.895369400Z",
   "translation": "De ti ⟨é⟩ a minha louvor ⟨o⟩ na grande congregação; pagarei ⟨os⟩ meus votos na frente ⟨dos⟩ que o temem",
   "tokens": [
     {
       "surface": "מאתך",
-      "english": "De ti",
+      "gloss": "De ti",
       "marks": null
     },
     {
       "surface": "תהלתי",
-      "english": "a minha louvor ⟨o⟩",
+      "gloss": "a minha louvor ⟨o⟩",
       "marks": null
     },
     {
       "surface": "בקהל",
-      "english": "na",
+      "gloss": "na",
       "marks": "congregação"
     },
     {
       "surface": "רב",
-      "english": "grande",
+      "gloss": "grande",
       "marks": null
     },
     {
       "surface": "נדרי",
-      "english": "⟨os⟩ meus votos",
+      "gloss": "⟨os⟩ meus votos",
       "marks": null
     },
     {
       "surface": "אשלם",
-      "english": "pagarei",
+      "gloss": "pagarei",
       "marks": null
     },
     {
       "surface": "נגד",
-      "english": "na frente ⟨dos⟩",
+      "gloss": "na frente ⟨dos⟩",
       "marks": "que o temem"
     },
     {
       "surface": "יראיו",
-      "english": "que o temem",
+      "gloss": "que o temem",
       "marks": null
     }
-  ],
-  "timestamp": "2026-07-16T17:36:27.895369400Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 16:10",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 461,
-    "prompt_tokens": 29151,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29612
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:44:37.125961928Z",
   "translation": "E o malaque de YHWH disse a ela: multiplicando multiplicarei ⟨את⟩ a tua semente, e não se contará da multidão.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "לה",
-      "english": "a ela"
+      "gloss": "a ela"
     },
     {
       "surface": "מלאך",
-      "english": "o malaque"
+      "gloss": "o malaque"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "הרבה",
-      "english": "multiplicando"
+      "gloss": "multiplicando"
     },
     {
       "surface": "ארבה",
-      "english": "multiplicarei"
+      "gloss": "multiplicarei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a tua semente"
     },
     {
       "surface": "זרעך",
-      "english": "a tua semente"
+      "gloss": "a tua semente"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "יספר",
-      "english": "se contará"
+      "gloss": "se contará"
     },
     {
       "surface": "מרב",
-      "english": "da multidão"
+      "gloss": "da multidão"
     }
-  ],
-  "timestamp": "2026-07-16T14:44:37.125961928Z",
-  "model": "glm-4.5"
+  ]
 }

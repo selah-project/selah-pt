@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 33:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 418,
-    "prompt_tokens": 70227,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70645
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:55.046026889Z",
   "translation": "Cantai para Ele um cântico novo; tocai com maestria ⟨e⟩ com ⟨um⟩ grito de júbilo.",
   "tokens": [
     {
       "surface": "שירו",
-      "english": "Cantai"
+      "gloss": "Cantai"
     },
     {
       "surface": "לו",
-      "english": "para Ele"
+      "gloss": "para Ele"
     },
     {
       "surface": "שיר",
-      "english": "um cântico"
+      "gloss": "um cântico"
     },
     {
       "surface": "חדש",
-      "english": "novo"
+      "gloss": "novo"
     },
     {
       "surface": "היטיבו",
-      "english": "tocai com maestria"
+      "gloss": "tocai com maestria"
     },
     {
       "surface": "נגן",
-      "english": "⟨e⟩ com"
+      "gloss": "⟨e⟩ com"
     },
     {
       "surface": "בתרועה",
-      "english": "⟨um⟩ grito de júbilo"
+      "gloss": "⟨um⟩ grito de júbilo"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:55.046026889Z",
-  "model": "glm-4.5"
+  ]
 }

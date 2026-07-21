@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 65:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 566,
-    "prompt_tokens": 70567,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71133
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:32:57.792429050Z",
   "translation": "Tu enches ⟨as⟩ tuas bordas abundantemente, ⟨tu⟩ aplanas ⟨as⟩ suas sulcas, com chuvas a amoleces, ⟨tu⟩ abençoas ⟨o⟩ seu broto",
   "tokens": [
     {
       "surface": "תלמיה",
-      "english": "tuas bordas"
+      "gloss": "tuas bordas"
     },
     {
       "surface": "רוה",
-      "english": "enches ... abundantemente"
+      "gloss": "enches ... abundantemente"
     },
     {
       "surface": "נחת",
-      "english": "aplanas"
+      "gloss": "aplanas"
     },
     {
       "surface": "גדודיה",
-      "english": "suas sulcas"
+      "gloss": "suas sulcas"
     },
     {
       "surface": "ברביבים",
-      "english": "com chuvas"
+      "gloss": "com chuvas"
     },
     {
       "surface": "תמגגנה",
-      "english": "amoleces"
+      "gloss": "amoleces"
     },
     {
       "surface": "צמחה",
-      "english": "seu broto"
+      "gloss": "seu broto"
     },
     {
       "surface": "תברך",
-      "english": "abençoas"
+      "gloss": "abençoas"
     }
-  ],
-  "timestamp": "2026-07-21T02:32:57.792429050Z",
-  "model": "glm-4.5"
+  ]
 }

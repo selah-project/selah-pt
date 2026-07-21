@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "jeremiah 13:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 13,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:16:29.312326766Z",
+  "translation": "As cidades do ⟨do⟩ sul ⟨são⟩ fechadas e ⟨há⟩ ninguém que abra; Yehudá ⟨está⟩ exilada por completo, exilada por completo ⟨está⟩",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "As cidades"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "do ⟨do⟩ sul"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "⟨são⟩ fechadas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e ⟨há⟩ ninguém"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "que abra"
+    },
+    {
+      "surface": "הגלת",
+      "gloss": "exilada"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "por completo"
+    },
+    {
+      "surface": "הגלת",
+      "gloss": "exilada"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "por completo ⟨está⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,64 +60,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 678,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17736,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18414
-  },
-  "translation": "As cidades do ⟨do⟩ sul ⟨são⟩ fechadas e ⟨há⟩ ninguém que abra; Yehudá ⟨está⟩ exilada por completo, exilada por completo ⟨está⟩",
-  "tokens": [
-    {
-      "surface": "ערי",
-      "english": "As cidades"
-    },
-    {
-      "surface": "הנגב",
-      "english": "do ⟨do⟩ sul"
-    },
-    {
-      "surface": "סגרו",
-      "english": "⟨são⟩ fechadas"
-    },
-    {
-      "surface": "ואין",
-      "english": "e ⟨há⟩ ninguém"
-    },
-    {
-      "surface": "פתח",
-      "english": "que abra"
-    },
-    {
-      "surface": "הגלת",
-      "english": "exilada"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "כלה",
-      "english": "por completo"
-    },
-    {
-      "surface": "הגלת",
-      "english": "exilada"
-    },
-    {
-      "surface": "שלומים",
-      "english": "por completo ⟨está⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:16:29.312326766Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

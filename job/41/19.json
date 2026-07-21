@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "job 41:19",
   "book": "job",
-  "lang": "pt",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27242,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 27593
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:46:35.621110391Z",
   "translation": "Ele ⟨é⟩ tecido para palha ⟨de⟩ ferro, para ⟨a⟩ madeira apodrecida ⟨é⟩ bronze",
   "tokens": [
     {
       "surface": "יחשב",
-      "english": "Ele ⟨é⟩ tecido"
+      "gloss": "Ele ⟨é⟩ tecido"
     },
     {
       "surface": "לתבן",
-      "english": "para palha ⟨de⟩"
+      "gloss": "para palha ⟨de⟩"
     },
     {
       "surface": "ברזל",
-      "english": "ferro"
+      "gloss": "ferro"
     },
     {
       "surface": "לעץ",
-      "english": "para ⟨a⟩ madeira"
+      "gloss": "para ⟨a⟩ madeira"
     },
     {
       "surface": "רקבון",
-      "english": "apodrecida"
+      "gloss": "apodrecida"
     },
     {
       "surface": "נחושה",
-      "english": "⟨é⟩ bronze"
+      "gloss": "⟨é⟩ bronze"
     }
-  ],
-  "timestamp": "2026-06-13T06:46:35.621110391Z",
-  "model": "glm-4.5"
+  ]
 }

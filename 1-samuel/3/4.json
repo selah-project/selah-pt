@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-samuel 3:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 215,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16221,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 16436
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:15:04.179833287Z",
   "translation": "E YHWH chamou a Shemuel: e ⟨ele⟩ disse: Eis-me aqui.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "E chamou"
+      "gloss": "E chamou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "שמואל",
-      "english": "Shemuel"
+      "gloss": "Shemuel"
     },
     {
       "surface": "ויאמר",
-      "english": "e ⟨ele⟩ disse"
+      "gloss": "e ⟨ele⟩ disse"
     },
     {
       "surface": "הנני",
-      "english": "Eis-me aqui"
+      "gloss": "Eis-me aqui"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:15:04.179833287Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

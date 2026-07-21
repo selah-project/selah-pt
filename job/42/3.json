@@ -1,80 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 42:3",
   "book": "job",
-  "lang": "pt",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 927,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27954,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 28881
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:33:10.439770112Z",
   "translation": "Quem é este que ⟨está⟩ escondendo conselho ⟨sem⟩ conhecimento? Portanto, eu declarei ⟨aquilo⟩ e ⟨não⟩ compreendi; ⟨as⟩ maravilhas além de mim, e ⟨eu⟩ ⟨não⟩ ⟨as⟩ conheci.",
   "tokens": [
     {
       "surface": "מי",
-      "english": "Quem"
+      "gloss": "Quem"
     },
     {
       "surface": "זה",
-      "english": "é este"
+      "gloss": "é este"
     },
     {
       "surface": "מעלים",
-      "english": "que ⟨está⟩ escondendo"
+      "gloss": "que ⟨está⟩ escondendo"
     },
     {
       "surface": "עצה",
-      "english": "conselho"
+      "gloss": "conselho"
     },
     {
       "surface": "בלי",
-      "english": "⟨sem⟩"
+      "gloss": "⟨sem⟩"
     },
     {
       "surface": "דעת",
-      "english": "conhecimento"
+      "gloss": "conhecimento"
     },
     {
       "surface": "לכן",
-      "english": "Portanto"
+      "gloss": "Portanto"
     },
     {
       "surface": "הגדתי",
-      "english": "eu declarei ⟨aquilo⟩"
+      "gloss": "eu declarei ⟨aquilo⟩"
     },
     {
       "surface": "ולא",
-      "english": "e ⟨não⟩"
+      "gloss": "e ⟨não⟩"
     },
     {
       "surface": "אבין",
-      "english": "compreendi"
+      "gloss": "compreendi"
     },
     {
       "surface": "נפלאות",
-      "english": "⟨as⟩ maravilhas"
+      "gloss": "⟨as⟩ maravilhas"
     },
     {
       "surface": "ממני",
-      "english": "além de mim"
+      "gloss": "além de mim"
     },
     {
       "surface": "ולא",
-      "english": "e ⟨eu⟩ ⟨não⟩"
+      "gloss": "e ⟨eu⟩ ⟨não⟩"
     },
     {
       "surface": "אדע",
-      "english": "⟨as⟩ conheci"
+      "gloss": "⟨as⟩ conheci"
     }
-  ],
-  "timestamp": "2026-06-11T23:33:10.439770112Z",
-  "model": "glm-4.5"
+  ]
 }

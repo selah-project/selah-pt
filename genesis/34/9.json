@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "genesis 34:9",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28987,
-    "prompt_tokens_details": {
-      "cached_tokens": 27646
-    },
-    "total_tokens": 29475
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:11:16.674591877Z",
   "translation": "e ⟨is⟩ casai conosco; ⟨a⟩ vossas filhas ⟨dareis⟩ ⟨a⟩ nós, e ⟨a⟩ nossas filhas tomareis ⟨a⟩ vós",
   "tokens": [
     {
       "surface": "והתחתנו",
-      "english": "e ⟨is⟩ casai conosco"
+      "gloss": "e ⟨is⟩ casai conosco"
     },
     {
       "surface": "אתנו",
-      "english": "⟨a⟩ nós",
+      "gloss": "⟨a⟩ nós",
       "marks": "בנתיכם"
     },
     {
       "surface": "בנתיכם",
-      "english": "vossas filhas"
+      "gloss": "vossas filhas"
     },
     {
       "surface": "תתנו",
-      "english": "⟨dareis⟩"
+      "gloss": "⟨dareis⟩"
     },
     {
       "surface": "לנו",
-      "english": "⟨a⟩ nós"
+      "gloss": "⟨a⟩ nós"
     },
     {
       "surface": "ואת",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "בנתינו",
-      "english": "nossas filhas",
+      "gloss": "nossas filhas",
       "marks": "בנתינו"
     },
     {
       "surface": "תקחו",
-      "english": "tomareis"
+      "gloss": "tomareis"
     },
     {
       "surface": "לכם",
-      "english": "⟨a⟩ vós"
+      "gloss": "⟨a⟩ vós"
     }
-  ],
-  "timestamp": "2026-06-13T05:11:16.674591877Z",
-  "model": "glm-4.5"
+  ]
 }

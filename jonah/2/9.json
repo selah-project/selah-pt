@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "jonah 2:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jonah",
+  "chapter": 2,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:13:48.790363631Z",
+  "translation": "Guardando ⟨os⟩ vaidades vãs, eles abandonam ⟨a⟩ sua Jésed.",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "Guardando",
+      "rationale": "particípio ativo de 'guardar\/proteger'"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "⟨os⟩ vaidades",
+      "rationale": "'vaidades' com artigo definido ⟨os⟩; 'hebel' indica vaidade\/futilidade"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "vãs",
+      "rationale": "'shav' adjetivando as vaidades como 'vazias\/sem valor'"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "⟨a⟩ sua Jésed",
+      "rationale": "posse com sufixo 'seu' e artigo definido ⟨a⟩; 'chesed' = misericórdia\/bondade"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "eles abandonam",
+      "rationale": "verbo no plural 'abandonam\/deixam'"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "misericórdia",
@@ -13,49 +45,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19384,
-    "prompt_tokens_details": {
-      "cached_tokens": 18523
-    },
-    "total_tokens": 19906
-  },
-  "translation": "Guardando ⟨os⟩ vaidades vãs, eles abandonam ⟨a⟩ sua Jésed.",
-  "tokens": [
-    {
-      "surface": "משמרים",
-      "english": "Guardando",
-      "rationale": "particípio ativo de 'guardar\/proteger'"
-    },
-    {
-      "surface": "הבלי",
-      "english": "⟨os⟩ vaidades",
-      "rationale": "'vaidades' com artigo definido ⟨os⟩; 'hebel' indica vaidade\/futilidade"
-    },
-    {
-      "surface": "שוא",
-      "english": "vãs",
-      "rationale": "'shav' adjetivando as vaidades como 'vazias\/sem valor'"
-    },
-    {
-      "surface": "חסדם",
-      "english": "⟨a⟩ sua Jésed",
-      "rationale": "posse com sufixo 'seu' e artigo definido ⟨a⟩; 'chesed' = misericórdia\/bondade"
-    },
-    {
-      "surface": "יעזבו",
-      "english": "eles abandonam",
-      "rationale": "verbo no plural 'abandonam\/deixam'"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:13:48.790363631Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

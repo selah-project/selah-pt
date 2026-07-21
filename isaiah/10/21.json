@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "isaiah 10:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 10,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:20:49.071990825Z",
+  "translation": "⟨The⟩ remnant shall return, ⟨the⟩ remnant of Yaakov, unto ⟨the⟩ mighty God.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "Remnant"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "shall return"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "remnant"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "God"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mighty"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacob",
@@ -13,52 +48,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 264,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18918,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19182
-  },
-  "translation": "⟨The⟩ remnant shall return, ⟨the⟩ remnant of Yaakov, unto ⟨the⟩ mighty God.",
-  "tokens": [
-    {
-      "surface": "שאר",
-      "english": "Remnant"
-    },
-    {
-      "surface": "ישוב",
-      "english": "shall return"
-    },
-    {
-      "surface": "שאר",
-      "english": "remnant"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "אל",
-      "english": "unto"
-    },
-    {
-      "surface": "אל",
-      "english": "God"
-    },
-    {
-      "surface": "גבור",
-      "english": "mighty"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:20:49.071990825Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

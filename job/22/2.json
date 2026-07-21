@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 22:2",
   "book": "job",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 393,
-    "prompt_tokens": 27488,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27881
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:58:50.847669816Z",
   "translation": "Pode um homem ser útil ⟨para⟩ Elohim, ⟨pois⟩ aquele que ⟨é⟩ prudente é útil ⟨para⟩ si mesmo?",
   "tokens": [
     {
       "surface": "הלאל",
-      "english": "para Elohim"
+      "gloss": "para Elohim"
     },
     {
       "surface": "יסכן",
-      "english": "ser útil"
+      "gloss": "ser útil"
     },
     {
       "surface": "גבר",
-      "english": "um homem"
+      "gloss": "um homem"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "יסכן",
-      "english": "é útil"
+      "gloss": "é útil"
     },
     {
       "surface": "עלימו",
-      "english": "para si mesmo"
+      "gloss": "para si mesmo"
     },
     {
       "surface": "משכיל",
-      "english": "aquele que ⟨é⟩ prudente"
+      "gloss": "aquele que ⟨é⟩ prudente"
     }
-  ],
-  "timestamp": "2026-07-16T15:58:50.847669816Z",
-  "model": "glm-4.5"
+  ]
 }

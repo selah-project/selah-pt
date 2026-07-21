@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 57:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 57,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:56:30.472176139Z",
+  "translation": "Ele entrará em Shalom; descansarão ⟨nas⟩ suas camas, ⟨aquele que⟩ anda ⟨em⟩ sua retidão.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "Ele entrará"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "em Shalom"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "descansarão"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨nas⟩"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "suas camas"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨aquele que⟩ anda"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "⟨em⟩ sua retidão"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,52 +48,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 57,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19023,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19398
-  },
-  "translation": "Ele entrará em Shalom; descansarão ⟨nas⟩ suas camas, ⟨aquele que⟩ anda ⟨em⟩ sua retidão.",
-  "tokens": [
-    {
-      "surface": "יבוא",
-      "english": "Ele entrará"
-    },
-    {
-      "surface": "שלום",
-      "english": "em Shalom"
-    },
-    {
-      "surface": "ינוחו",
-      "english": "descansarão"
-    },
-    {
-      "surface": "על",
-      "english": "⟨nas⟩"
-    },
-    {
-      "surface": "משכבותם",
-      "english": "suas camas"
-    },
-    {
-      "surface": "הלך",
-      "english": "⟨aquele que⟩ anda"
-    },
-    {
-      "surface": "נכחו",
-      "english": "⟨em⟩ sua retidão"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:56:30.472176139Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 80:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62875,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63215
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:33:40.254866156Z",
   "translation": "⟨את⟩ videira do Egito tiraste; ⟨את⟩ nações expulsaste e ⟨a⟩ plantaste.",
   "tokens": [
     {
       "surface": "גפן",
-      "english": "Videira",
+      "gloss": "Videira",
       "marks": "videira"
     },
     {
       "surface": "ממצרים",
-      "english": "do Egito"
+      "gloss": "do Egito"
     },
     {
       "surface": "תסיע",
-      "english": "tiraste"
+      "gloss": "tiraste"
     },
     {
       "surface": "תגרש",
-      "english": "expulsaste"
+      "gloss": "expulsaste"
     },
     {
       "surface": "גוים",
-      "english": "nações"
+      "gloss": "nações"
     },
     {
       "surface": "ותטעה",
-      "english": "e ⟨a⟩ plantaste"
+      "gloss": "e ⟨a⟩ plantaste"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:33:40.254866156Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

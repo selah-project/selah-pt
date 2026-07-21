@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 105:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 105,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:48:58.847913948Z",
+  "translation": "Semente ⟨de⟩ Avraham ⟨o⟩ seu servo ⟨os⟩ filhos ⟨de⟩ Yaakov ⟨os⟩ seus escolhidos",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Semente"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "⟨o⟩ seu servo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "⟨de⟩ Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "⟨os⟩ seus escolhidos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Abrão",
@@ -20,48 +51,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 105,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62754,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63188
-  },
-  "translation": "Semente ⟨de⟩ Avraham ⟨o⟩ seu servo ⟨os⟩ filhos ⟨de⟩ Yaakov ⟨os⟩ seus escolhidos",
-  "tokens": [
-    {
-      "surface": "זרע",
-      "english": "Semente"
-    },
-    {
-      "surface": "אברהם",
-      "english": "Avraham"
-    },
-    {
-      "surface": "עבדו",
-      "english": "⟨o⟩ seu servo"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "יעקב",
-      "english": "⟨de⟩ Yaakov"
-    },
-    {
-      "surface": "בחיריו",
-      "english": "⟨os⟩ seus escolhidos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:48:58.847913948Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

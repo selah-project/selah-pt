@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "exodus 16:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 16,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:57:49.300663909Z",
+  "translation": "E os filhos de Yisrael fizeram assim e ajuntaram ⟨o⟩ que muito ajuntou e ⟨o⟩ que pouco ajuntou",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "E fizeram"
+    },
+    {
+      "surface": "כן",
+      "gloss": "assim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "e ajuntaram"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "⟨o⟩ que muito ajuntou",
+      "marks": "o que muito ajuntou"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "e ⟨o⟩ que pouco ajuntou",
+      "marks": "o que que pouco ajuntou"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,54 +50,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16889,
-    "prompt_tokens_details": {
-      "cached_tokens": 15859
-    },
-    "total_tokens": 17300
-  },
-  "translation": "E os filhos de Yisrael fizeram assim e ajuntaram ⟨o⟩ que muito ajuntou e ⟨o⟩ que pouco ajuntou",
-  "tokens": [
-    {
-      "surface": "ויעשו",
-      "english": "E fizeram"
-    },
-    {
-      "surface": "כן",
-      "english": "assim"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "וילקטו",
-      "english": "e ajuntaram"
-    },
-    {
-      "surface": "המרבה",
-      "english": "⟨o⟩ que muito ajuntou",
-      "marks": "o que muito ajuntou"
-    },
-    {
-      "surface": "והממעיט",
-      "english": "e ⟨o⟩ que pouco ajuntou",
-      "marks": "o que que pouco ajuntou"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:57:49.300663909Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

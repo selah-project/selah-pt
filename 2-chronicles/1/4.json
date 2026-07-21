@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 1:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 1,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:06:33.007731401Z",
+  "translation": "Mas ⟨por⟩ ⟨o⟩ Aron ⟨de⟩ Elohim David ⟨a⟩ trouxera de Quiriate-Jearim ⟨ao⟩ lugar que David lhe preparara; pois lhe estendera ⟨um⟩ tenda em Jerusalém.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Mas"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨o⟩ Aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨de⟩ Elohim"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "trouxera"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "de Quiriate-Jearim"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Quiriate-Jearim"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "⟨ao⟩ lugar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "que"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "estendera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lhe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "⟨um⟩ tenda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Jerusalém"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "arca",
@@ -27,84 +94,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 647,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58712,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59359
-  },
-  "translation": "Mas ⟨por⟩ ⟨o⟩ Aron ⟨de⟩ Elohim David ⟨a⟩ trouxera de Quiriate-Jearim ⟨ao⟩ lugar que David lhe preparara; pois lhe estendera ⟨um⟩ tenda em Jerusalém.",
-  "tokens": [
-    {
-      "surface": "אבל",
-      "english": "Mas"
-    },
-    {
-      "surface": "ארון",
-      "english": "⟨o⟩ Aron"
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨de⟩ Elohim"
-    },
-    {
-      "surface": "העלה",
-      "english": "trouxera"
-    },
-    {
-      "surface": "דויד",
-      "english": "David"
-    },
-    {
-      "surface": "מקרית",
-      "english": "de Quiriate-Jearim"
-    },
-    {
-      "surface": "יערים",
-      "english": "Quiriate-Jearim"
-    },
-    {
-      "surface": "בהכין",
-      "english": "⟨ao⟩ lugar"
-    },
-    {
-      "surface": "לו",
-      "english": "que"
-    },
-    {
-      "surface": "דויד",
-      "english": "David"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "נטה",
-      "english": "estendera"
-    },
-    {
-      "surface": "לו",
-      "english": "lhe"
-    },
-    {
-      "surface": "אהל",
-      "english": "⟨um⟩ tenda"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Jerusalém"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:06:33.007731401Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

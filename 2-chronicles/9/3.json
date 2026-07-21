@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-chronicles 9:3",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 467,
-    "prompt_tokens": 65693,
-    "prompt_tokens_details": {
-      "cached_tokens": 64384
-    },
-    "total_tokens": 66160
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:10:25.114421210Z",
   "translation": "E a rainha de Sheba viu ⟨a⟩ sabedoria de Shlomó, ⟨e⟩ a casa que ele ⟨havia⟩ construído",
   "tokens": [
     {
       "surface": "ותרא",
-      "english": "E ... viu"
+      "gloss": "E ... viu"
     },
     {
       "surface": "מלכת",
-      "english": "a rainha"
+      "gloss": "a rainha"
     },
     {
       "surface": "שבא",
-      "english": "de Sheba"
+      "gloss": "de Sheba"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "sabedoria"
     },
     {
       "surface": "חכמת",
-      "english": "sabedoria"
+      "gloss": "sabedoria"
     },
     {
       "surface": "שלמה",
-      "english": "de Shlomó"
+      "gloss": "de Shlomó"
     },
     {
       "surface": "והבית",
-      "english": "⟨e⟩ a casa"
+      "gloss": "⟨e⟩ a casa"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "בנה",
-      "english": "⟨havia⟩ construído"
+      "gloss": "⟨havia⟩ construído"
     }
-  ],
-  "timestamp": "2026-07-16T12:10:25.114421210Z",
-  "model": "glm-4.5"
+  ]
 }

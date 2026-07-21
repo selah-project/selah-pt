@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "exodus 33:20",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 479,
-    "prompt_tokens": 24642,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25121
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:00:53.828371442Z",
   "translation": "E ele disse: Não poderás ver ⟨o⟩ meu rosto, pois o homem não ⟨pode⟩ me ver e viver.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ele disse"
+      "gloss": "E ele disse"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תוכל",
-      "english": "poderás"
+      "gloss": "poderás"
     },
     {
       "surface": "לראת",
-      "english": "ver"
+      "gloss": "ver"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨o⟩ meu rosto"
     },
     {
       "surface": "פני",
-      "english": "meu rosto"
+      "gloss": "meu rosto"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יראני",
-      "english": "me ver"
+      "gloss": "me ver"
     },
     {
       "surface": "האדם",
-      "english": "o homem"
+      "gloss": "o homem"
     },
     {
       "surface": "וחי",
-      "english": "e viver"
+      "gloss": "e viver"
     }
-  ],
-  "timestamp": "2026-07-16T14:00:53.828371442Z",
-  "model": "glm-4.5"
+  ]
 }

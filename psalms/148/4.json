@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 148:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62873,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63255
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:16:29.577378754Z",
   "translation": "Louvem ⟨a⟩ Ele, céus ⟨dos⟩ céus, e ⟨as⟩ águas que ⟨estão⟩ acima ⟨dos⟩ céus",
   "tokens": [
     {
       "surface": "הללוהו",
-      "english": "Louvem ⟨a⟩ Ele"
+      "gloss": "Louvem ⟨a⟩ Ele"
     },
     {
       "surface": "שמי",
-      "english": "céus ⟨dos⟩"
+      "gloss": "céus ⟨dos⟩"
     },
     {
       "surface": "השמים",
-      "english": "céus"
+      "gloss": "céus"
     },
     {
       "surface": "והמים",
-      "english": "e ⟨as⟩ águas"
+      "gloss": "e ⟨as⟩ águas"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "מעל",
-      "english": "acima ⟨dos⟩"
+      "gloss": "acima ⟨dos⟩"
     },
     {
       "surface": "השמים",
-      "english": "céus"
+      "gloss": "céus"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:16:29.577378754Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

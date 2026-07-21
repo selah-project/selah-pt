@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 25:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 366,
-    "prompt_tokens": 70272,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70638
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:36:04.563716932Z",
   "translation": "Ele guia os humildes com ⟨justiça⟩, e ensina aos humildes o seu caminho",
   "tokens": [
     {
       "surface": "ידרך",
-      "english": "Ele guia"
+      "gloss": "Ele guia"
     },
     {
       "surface": "ענוים",
-      "english": "os humildes"
+      "gloss": "os humildes"
     },
     {
       "surface": "במשפט",
-      "english": "com ⟨justiça⟩"
+      "gloss": "com ⟨justiça⟩"
     },
     {
       "surface": "וילמד",
-      "english": ", e ensina aos"
+      "gloss": ", e ensina aos"
     },
     {
       "surface": "ענוים",
-      "english": "humildes"
+      "gloss": "humildes"
     },
     {
       "surface": "דרכו",
-      "english": "o seu caminho"
+      "gloss": "o seu caminho"
     }
-  ],
-  "timestamp": "2026-07-16T17:36:04.563716932Z",
-  "model": "glm-4.5"
+  ]
 }

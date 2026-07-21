@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-samuel 29:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 29,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:41:09.802422522Z",
+  "translation": "E disse David a Aquis: Pois ⟨o que⟩ fiz ⟨é⟩ e ⟨o que⟩ encontraste ⟨é⟩ ⟨em⟩ teu servo, desde o dia que estive ⟨diante de⟩ ti até o dia ⟨este⟩, que não vou e lutei ⟨contra⟩ ⟨os⟩ inimigos ⟨de⟩ meu senhor ⟨o⟩ rei?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Aquis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨o que⟩"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "fiz ⟨é⟩"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e ⟨o que⟩"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "encontraste ⟨é⟩"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "⟨em⟩ teu servo"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "desde o dia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "estive"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "⟨diante de⟩ ti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "היום",
+      "gloss": "o dia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "vou"
+    },
+    {
+      "surface": "ונלחמתי",
+      "gloss": "e lutei"
+    },
+    {
+      "surface": "באיבי",
+      "gloss": "⟨contra⟩ ⟨os⟩ inimigos"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "⟨de⟩ meu senhor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨o⟩ rei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,120 +116,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 893,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17886,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18779
-  },
-  "translation": "E disse David a Aquis: Pois ⟨o que⟩ fiz ⟨é⟩ e ⟨o que⟩ encontraste ⟨é⟩ ⟨em⟩ teu servo, desde o dia que estive ⟨diante de⟩ ti até o dia ⟨este⟩, que não vou e lutei ⟨contra⟩ ⟨os⟩ inimigos ⟨de⟩ meu senhor ⟨o⟩ rei?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אכיש",
-      "english": "Aquis"
-    },
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "מה",
-      "english": "⟨o que⟩"
-    },
-    {
-      "surface": "עשיתי",
-      "english": "fiz ⟨é⟩"
-    },
-    {
-      "surface": "ומה",
-      "english": "e ⟨o que⟩"
-    },
-    {
-      "surface": "מצאת",
-      "english": "encontraste ⟨é⟩"
-    },
-    {
-      "surface": "בעבדך",
-      "english": "⟨em⟩ teu servo"
-    },
-    {
-      "surface": "מיום",
-      "english": "desde o dia"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "הייתי",
-      "english": "estive"
-    },
-    {
-      "surface": "לפניך",
-      "english": "⟨diante de⟩ ti"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "היום",
-      "english": "o dia"
-    },
-    {
-      "surface": "הזה",
-      "english": "⟨este⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "אבוא",
-      "english": "vou"
-    },
-    {
-      "surface": "ונלחמתי",
-      "english": "e lutei"
-    },
-    {
-      "surface": "באיבי",
-      "english": "⟨contra⟩ ⟨os⟩ inimigos"
-    },
-    {
-      "surface": "אדני",
-      "english": "⟨de⟩ meu senhor"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨o⟩ rei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:41:09.802422522Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

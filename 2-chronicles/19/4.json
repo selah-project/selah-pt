@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 19:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 19,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:26:30.529078179Z",
+  "translation": "E Jeosafat habitou ⟨em⟩ Jerusalém; ⟨e⟩ regressou e saiu ao povo ⟨desde⟩ Beer-Sheva até ⟨ao⟩ monte ⟨de⟩ Efráyim, ⟨e⟩ ⟨os⟩ trouxe de volta ⟨para⟩ YHWH, ⟨o⟩ Elohim de seus pais.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E habitou"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jeosafat"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "⟨em⟩ Jerusalém"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "⟨e⟩ regressou"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e saiu"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ao povo"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "⟨desde⟩ Berseba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beer-Sheva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até ⟨ao⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monte ⟨de⟩"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "והשיבם",
+      "gloss": "⟨e⟩ ⟨os⟩ trouxe de volta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨o⟩ Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "de seus pais"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Berseba",
@@ -20,88 +91,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 1118,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58867,
-    "prompt_tokens_details": {
-      "cached_tokens": 57025
-    },
-    "total_tokens": 59985
-  },
-  "translation": "E Jeosafat habitou ⟨em⟩ Jerusalém; ⟨e⟩ regressou e saiu ao povo ⟨desde⟩ Beer-Sheva até ⟨ao⟩ monte ⟨de⟩ Efráyim, ⟨e⟩ ⟨os⟩ trouxe de volta ⟨para⟩ YHWH, ⟨o⟩ Elohim de seus pais.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E habitou"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Jeosafat"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "⟨em⟩ Jerusalém"
-    },
-    {
-      "surface": "וישב",
-      "english": "⟨e⟩ regressou"
-    },
-    {
-      "surface": "ויצא",
-      "english": "e saiu"
-    },
-    {
-      "surface": "בעם",
-      "english": "ao povo"
-    },
-    {
-      "surface": "מבאר",
-      "english": "⟨desde⟩ Berseba"
-    },
-    {
-      "surface": "שבע",
-      "english": "Beer-Sheva"
-    },
-    {
-      "surface": "עד",
-      "english": "até ⟨ao⟩"
-    },
-    {
-      "surface": "הר",
-      "english": "monte ⟨de⟩"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "והשיבם",
-      "english": "⟨e⟩ ⟨os⟩ trouxe de volta"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "⟨o⟩ Elohim"
-    },
-    {
-      "surface": "אבותיהם",
-      "english": "de seus pais"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:26:30.529078179Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

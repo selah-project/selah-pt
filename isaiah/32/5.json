@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 32:5",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26469,
-    "prompt_tokens_details": {
-      "cached_tokens": 25327
-    },
-    "total_tokens": 26897
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:45:08.506427702Z",
   "translation": "No ⟨longer⟩ ⟨will⟩ the fool be called noble, and ⟨to⟩ ⟨the⟩ miser it ⟨will⟩ not be said ⟨he is⟩ liberal.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "יקרא",
-      "english": "⟨longer⟩ ⟨will⟩ be called"
+      "gloss": "⟨longer⟩ ⟨will⟩ be called"
     },
     {
       "surface": "עוד",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "לנבל",
-      "english": "⟨the⟩ fool"
+      "gloss": "⟨the⟩ fool"
     },
     {
       "surface": "נדיב",
-      "english": "noble"
+      "gloss": "noble"
     },
     {
       "surface": "ולכילי",
-      "english": "and ⟨to⟩ ⟨the⟩ miser"
+      "gloss": "and ⟨to⟩ ⟨the⟩ miser"
     },
     {
       "surface": "לא",
-      "english": "it ⟨will⟩ not"
+      "gloss": "it ⟨will⟩ not"
     },
     {
       "surface": "יאמר",
-      "english": "be said"
+      "gloss": "be said"
     },
     {
       "surface": "שוע",
-      "english": "liberal"
+      "gloss": "liberal"
     }
-  ],
-  "timestamp": "2026-06-14T04:45:08.506427702Z",
-  "model": "glm-4.5"
+  ]
 }

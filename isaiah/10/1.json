@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 10:1",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 430,
-    "prompt_tokens": 26378,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 26808
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:10:55.788838214Z",
   "translation": "Ai dos que decretam decretos de iniquidade, e dos escribas que ⟨escreveram⟩ ⟨a⟩ perversidade ⟨que prescreveram⟩.",
   "tokens": [
     {
       "surface": "הוי",
-      "english": "Ai"
+      "gloss": "Ai"
     },
     {
       "surface": "החקקים",
-      "english": "dos que decretam"
+      "gloss": "dos que decretam"
     },
     {
       "surface": "חקקי",
-      "english": "decretos"
+      "gloss": "decretos"
     },
     {
       "surface": "און",
-      "english": "de iniquidade"
+      "gloss": "de iniquidade"
     },
     {
       "surface": "ומכתבים",
-      "english": "e dos escribas"
+      "gloss": "e dos escribas"
     },
     {
       "surface": "עמל",
-      "english": "perversidade"
+      "gloss": "perversidade"
     },
     {
       "surface": "כתבו",
-      "english": "que escreveram"
+      "gloss": "que escreveram"
     }
-  ],
-  "timestamp": "2026-07-16T15:10:55.788838214Z",
-  "model": "glm-4.5"
+  ]
 }

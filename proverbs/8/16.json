@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 8:16",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 432,
-    "prompt_tokens": 60210,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60642
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:29:38.096114393Z",
   "translation": "Por mim governam ⟨os⟩ príncipes, e ⟨os⟩ nobres, todos ⟨os⟩ juízes ⟨de⟩ justiça.",
   "tokens": [
     {
       "surface": "בי",
-      "english": "Por mim"
+      "gloss": "Por mim"
     },
     {
       "surface": "שרים",
-      "english": "príncipes"
+      "gloss": "príncipes"
     },
     {
       "surface": "ישרו",
-      "english": "governam"
+      "gloss": "governam"
     },
     {
       "surface": "ונדיבים",
-      "english": "e ⟨os⟩ nobres"
+      "gloss": "e ⟨os⟩ nobres"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "שפטי",
-      "english": "juízes"
+      "gloss": "juízes"
     },
     {
       "surface": "צדק",
-      "english": "justiça"
+      "gloss": "justiça"
     }
-  ],
-  "timestamp": "2026-07-16T17:29:38.096114393Z",
-  "model": "glm-4.5"
+  ]
 }

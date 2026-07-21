@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 25:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 25,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:06:10.854036815Z",
+  "translation": "E eles habitaram de Havilá até Sur, que é ⟨o⟩ frente de ⟨ao⟩ Mitzráyim, conforme vais ⟨a⟩ Ashshur ⟨e⟩ ele caiu diante de todos os seus irmãos",
+  "tokens": [
+    {
+      "surface": "וישכנו",
+      "gloss": "E eles habitaram"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "de Havilá"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que é"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "frente de ⟨ao⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzráyim"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "conforme vais"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "⟨a⟩ Ashshur"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "diante de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos os"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seus irmãos"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ele caiu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -20,84 +87,6 @@
       "hebrew": "אשור"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 629,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22046,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22675
-  },
-  "translation": "E eles habitaram de Havilá até Sur, que é ⟨o⟩ frente de ⟨ao⟩ Mitzráyim, conforme vais ⟨a⟩ Ashshur ⟨e⟩ ele caiu diante de todos os seus irmãos",
-  "tokens": [
-    {
-      "surface": "וישכנו",
-      "english": "E eles habitaram"
-    },
-    {
-      "surface": "מחוילה",
-      "english": "de Havilá"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "שור",
-      "english": "Sur"
-    },
-    {
-      "surface": "אשר",
-      "english": "que é"
-    },
-    {
-      "surface": "על",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "פני",
-      "english": "frente de ⟨ao⟩"
-    },
-    {
-      "surface": "מצרים",
-      "english": "Mitzráyim"
-    },
-    {
-      "surface": "באכה",
-      "english": "conforme vais"
-    },
-    {
-      "surface": "אשורה",
-      "english": "⟨a⟩ Ashshur"
-    },
-    {
-      "surface": "על",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "פני",
-      "english": "diante de"
-    },
-    {
-      "surface": "כל",
-      "english": "todos os"
-    },
-    {
-      "surface": "אחיו",
-      "english": "seus irmãos"
-    },
-    {
-      "surface": "נפל",
-      "english": "ele caiu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:06:10.854036815Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

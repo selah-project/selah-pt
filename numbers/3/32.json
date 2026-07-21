@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "numbers 3:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 3,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:10:19.999188915Z",
+  "translation": "e ⟨o⟩ príncipe dos príncipes de Levi ⟨é⟩ Elazar filho de Aharon ⟨o⟩ sacerdote ⟨para⟩ ⟨a⟩ visitação dos guardas da guarda do santuário",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "E ⟨o⟩ príncipe"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "dos príncipes"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "de Levi"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "de Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨o⟩ sacerdote"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "⟨para⟩ ⟨a⟩ visitação"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "dos guardas"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "da guarda"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "do santuário"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Eleazar",
@@ -20,68 +71,6 @@
       "hebrew": "אהרן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18435,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 18956
-  },
-  "translation": "e ⟨o⟩ príncipe dos príncipes de Levi ⟨é⟩ Elazar filho de Aharon ⟨o⟩ sacerdote ⟨para⟩ ⟨a⟩ visitação dos guardas da guarda do santuário",
-  "tokens": [
-    {
-      "surface": "ונשיא",
-      "english": "E ⟨o⟩ príncipe"
-    },
-    {
-      "surface": "נשיאי",
-      "english": "dos príncipes"
-    },
-    {
-      "surface": "הלוי",
-      "english": "de Levi"
-    },
-    {
-      "surface": "אלעזר",
-      "english": "Elazar"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "אהרן",
-      "english": "de Aharon"
-    },
-    {
-      "surface": "הכהן",
-      "english": "⟨o⟩ sacerdote"
-    },
-    {
-      "surface": "פקדת",
-      "english": "⟨para⟩ ⟨a⟩ visitação"
-    },
-    {
-      "surface": "שמרי",
-      "english": "dos guardas"
-    },
-    {
-      "surface": "משמרת",
-      "english": "da guarda"
-    },
-    {
-      "surface": "הקדש",
-      "english": "do santuário"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:10:19.999188915Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

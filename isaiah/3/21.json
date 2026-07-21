@@ -1,36 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "isaiah 3:21",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25874,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 26193
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:51:51.964764647Z",
   "translation": "⟨os⟩ anéis ⟨e⟩ ⟨os⟩ enfeites ⟨do⟩ nariz",
   "tokens": [
     {
       "surface": "הטבעות",
-      "english": "⟨os⟩ anéis"
+      "gloss": "⟨os⟩ anéis"
     },
     {
       "surface": "ונזמי",
-      "english": "⟨e⟩ ⟨os⟩ enfeites ⟨do⟩ nariz"
+      "gloss": "⟨e⟩ ⟨os⟩ enfeites ⟨do⟩ nariz"
     },
     {
       "surface": "האף",
-      "english": "nariz"
+      "gloss": "nariz"
     }
-  ],
-  "timestamp": "2026-06-13T02:51:51.964764647Z",
-  "model": "glm-4.5"
+  ]
 }

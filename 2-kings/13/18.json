@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "2-kings 13:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 13,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:59:24.014654711Z",
+  "translation": "E ele disse: Toma as flechas. E ele as tomou. E ele disse ao rei de Yisrael: Fere ⟨a⟩ terra. E ele feriu três vezes e cessou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ele disse"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Toma"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "as flechas"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "E ele as tomou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E ele disse"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ao rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Fere"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨a⟩ terra",
+      "marks": "terra"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "E ele feriu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "três"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "vezes"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e cessou"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,77 +73,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17402,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17795
-  },
-  "translation": "E ele disse: Toma as flechas. E ele as tomou. E ele disse ao rei de Yisrael: Fere ⟨a⟩ terra. E ele feriu três vezes e cessou.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ele disse"
-    },
-    {
-      "surface": "קח",
-      "english": "Toma"
-    },
-    {
-      "surface": "החצים",
-      "english": "as flechas"
-    },
-    {
-      "surface": "ויקח",
-      "english": "E ele as tomou"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E ele disse"
-    },
-    {
-      "surface": "למלך",
-      "english": "ao rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "הך",
-      "english": "Fere"
-    },
-    {
-      "surface": "ארצה",
-      "english": "⟨a⟩ terra",
-      "marks": "terra"
-    },
-    {
-      "surface": "ויך",
-      "english": "E ele feriu"
-    },
-    {
-      "surface": "שלש",
-      "english": "três"
-    },
-    {
-      "surface": "פעמים",
-      "english": "vezes"
-    },
-    {
-      "surface": "ויעמד",
-      "english": "e cessou"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:59:24.014654711Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "numbers 22:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 22,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:33:51.484023223Z",
+  "translation": "E os príncipes de Moav se levantaram e foram a Balaque, e disseram: Bilão ⟨את⟩ recusou andar conosco.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "E se levantaram"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "os príncipes"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e foram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaque"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e disseram"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "recusou"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilão"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "andar",
+      "marks": "Bilão"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "conosco"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -13,69 +65,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18298,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18803
-  },
-  "translation": "E os príncipes de Moav se levantaram e foram a Balaque, e disseram: Bilão ⟨את⟩ recusou andar conosco.",
-  "tokens": [
-    {
-      "surface": "ויקומו",
-      "english": "E se levantaram"
-    },
-    {
-      "surface": "שרי",
-      "english": "os príncipes"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "ויבאו",
-      "english": "e foram"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "בלק",
-      "english": "Balaque"
-    },
-    {
-      "surface": "ויאמרו",
-      "english": "e disseram"
-    },
-    {
-      "surface": "מאן",
-      "english": "recusou"
-    },
-    {
-      "surface": "בלעם",
-      "english": "Bilão"
-    },
-    {
-      "surface": "הלך",
-      "english": "andar",
-      "marks": "Bilão"
-    },
-    {
-      "surface": "עמנו",
-      "english": "conosco"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:33:51.484023223Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "leviticus 22:31",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 422,
-    "prompt_tokens": 24820,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25242
-  },
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:49:39.815195566Z",
   "translation": "E vós guardareis ⟨את⟩ meus mandamentos e os fareis: eu sou YHWH.",
   "tokens": [
     {
       "surface": "וּ\/שְׁמַרְתֶּם֙",
-      "english": "E vós guardareis"
+      "gloss": "E vós guardareis"
     },
     {
       "surface": "מִצְוֺתַ֔\/י",
-      "english": "meus mandamentos"
+      "gloss": "meus mandamentos"
     },
     {
       "surface": "וַ\/עֲשִׂיתֶ֖ם",
-      "english": "e os fareis"
+      "gloss": "e os fareis"
     },
     {
       "surface": "אֹתָ֑\/ם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "meus mandamentos"
     },
     {
       "surface": "אֲנִ֖י",
-      "english": "eu"
+      "gloss": "eu"
     },
     {
       "surface": "יְהוָֽה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T16:49:39.815195566Z",
-  "model": "glm-4.5"
+  ]
 }

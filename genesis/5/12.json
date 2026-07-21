@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 5:12",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 356,
-    "prompt_tokens": 28753,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29109
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:39:34.301917850Z",
   "translation": "E Kenan viveu setenta anos e gerou ⟨את⟩ Mahalalel:",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "E Kenan viveu"
+      "gloss": "E Kenan viveu"
     },
     {
       "surface": "קינן",
-      "english": "Kenan"
+      "gloss": "Kenan"
     },
     {
       "surface": "שבעים",
-      "english": "setenta"
+      "gloss": "setenta"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "ויולד",
-      "english": "e gerou"
+      "gloss": "e gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Mahalalel"
     },
     {
       "surface": "מהללאל",
-      "english": "Mahalalel"
+      "gloss": "Mahalalel"
     }
-  ],
-  "timestamp": "2026-07-16T14:39:34.301917850Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 90:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 315,
-    "prompt_tokens": 70248,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70563
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:44:39.055154155Z",
   "translation": "Tu puseste ⟨as⟩ nossas iniquidades ⟨diante de⟩ ti, ⟨os⟩ nossos pecados ocultos ⟨na⟩ luz da tua face.",
   "tokens": [
     {
       "surface": "שת",
-      "english": "puseste"
+      "gloss": "puseste"
     },
     {
       "surface": "עונתינו",
-      "english": "⟨as⟩ nossas iniquidades"
+      "gloss": "⟨as⟩ nossas iniquidades"
     },
     {
       "surface": "לנגדך",
-      "english": "⟨diante de⟩ ti"
+      "gloss": "⟨diante de⟩ ti"
     },
     {
       "surface": "עלמנו",
-      "english": "⟨os⟩ nossos pecados ocultos"
+      "gloss": "⟨os⟩ nossos pecados ocultos"
     },
     {
       "surface": "למאור",
-      "english": "⟨na⟩ luz"
+      "gloss": "⟨na⟩ luz"
     },
     {
       "surface": "פניך",
-      "english": "da tua face"
+      "gloss": "da tua face"
     }
-  ],
-  "timestamp": "2026-07-16T17:44:39.055154155Z",
-  "model": "glm-4.5"
+  ]
 }

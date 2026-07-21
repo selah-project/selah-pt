@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 130:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63004,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63479
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:07:13.000503210Z",
   "translation": "Adonai, ouve ⟨o⟩ meu voz: estejam ⟨as⟩ tuas orelhas atentas ⟨ao⟩ voz ⟨das⟩ minhas súplicas",
   "tokens": [
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "שמעה",
-      "english": "ouve"
+      "gloss": "ouve"
     },
     {
       "surface": "בקולי",
-      "english": "⟨o⟩ meu voz",
+      "gloss": "⟨o⟩ meu voz",
       "marks": "⟨o⟩ meu voz"
     },
     {
       "surface": "תהיינה",
-      "english": "estejam"
+      "gloss": "estejam"
     },
     {
       "surface": "אזניך",
-      "english": "⟨as⟩ tuas orelhas",
+      "gloss": "⟨as⟩ tuas orelhas",
       "marks": "⟨as⟩ tuas orelhas"
     },
     {
       "surface": "קשבות",
-      "english": "atentas"
+      "gloss": "atentas"
     },
     {
       "surface": "לקול",
-      "english": "⟨ao⟩ voz",
+      "gloss": "⟨ao⟩ voz",
       "marks": "⟨ao⟩ voz"
     },
     {
       "surface": "תחנוני",
-      "english": "⟨das⟩ minhas súplicas",
+      "gloss": "⟨das⟩ minhas súplicas",
       "marks": "⟨das⟩ minhas súplicas"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:07:13.000503210Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

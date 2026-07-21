@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "hosea 5:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 5,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:57:11.639450698Z",
+  "translation": "Efráyim ⟨será⟩ para ⟨a⟩ desolação, no dia da repreensão; nas tribos de Yisrael fiz saber ⟨o que é⟩ fiel.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "para ⟨a⟩ desolação",
+      "marks": "Efraim"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨será⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "no dia"
+    },
+    {
+      "surface": "תוכחה",
+      "gloss": "da repreensão"
+    },
+    {
+      "surface": "בשבטי",
+      "gloss": "nas tribos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "fiz saber"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "⟨o que é⟩ fiel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,61 +57,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19740,
-    "prompt_tokens_details": {
-      "cached_tokens": 18473
-    },
-    "total_tokens": 20162
-  },
-  "translation": "Efráyim ⟨será⟩ para ⟨a⟩ desolação, no dia da repreensão; nas tribos de Yisrael fiz saber ⟨o que é⟩ fiel.",
-  "tokens": [
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "לשמה",
-      "english": "para ⟨a⟩ desolação",
-      "marks": "Efraim"
-    },
-    {
-      "surface": "תהיה",
-      "english": "⟨será⟩"
-    },
-    {
-      "surface": "ביום",
-      "english": "no dia"
-    },
-    {
-      "surface": "תוכחה",
-      "english": "da repreensão"
-    },
-    {
-      "surface": "בשבטי",
-      "english": "nas tribos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "הודעתי",
-      "english": "fiz saber"
-    },
-    {
-      "surface": "נאמנה",
-      "english": "⟨o que é⟩ fiel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:57:11.639450698Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

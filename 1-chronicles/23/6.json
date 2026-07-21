@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-chronicles 23:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 23,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:58:04.577760880Z",
+  "translation": "E Davidd os dividiu em turnos entre ⟨os⟩ filhos de Leví, ⟨a saber⟩, Gérson, Queate e Merári.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "E David os dividiu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "em turnos"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "entre ⟨os⟩ filhos",
+      "marks": "filhos de Levi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "de Leví"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "Gérson"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Queate"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "e Merári"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,57 +60,6 @@
       "hebrew": "לוי"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57116,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57468
-  },
-  "translation": "E Davidd os dividiu em turnos entre ⟨os⟩ filhos de Leví, ⟨a saber⟩, Gérson, Queate e Merári.",
-  "tokens": [
-    {
-      "surface": "ויחלקם",
-      "english": "E David os dividiu"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מחלקות",
-      "english": "em turnos"
-    },
-    {
-      "surface": "לבני",
-      "english": "entre ⟨os⟩ filhos",
-      "marks": "filhos de Levi"
-    },
-    {
-      "surface": "לוי",
-      "english": "de Leví"
-    },
-    {
-      "surface": "לגרשון",
-      "english": "Gérson"
-    },
-    {
-      "surface": "קהת",
-      "english": "Queate"
-    },
-    {
-      "surface": "ומררי",
-      "english": "e Merári"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:58:04.577760880Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

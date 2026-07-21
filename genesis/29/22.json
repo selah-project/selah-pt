@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "genesis 29:22",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 424,
-    "prompt_tokens": 28852,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29276
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:51:40.984072896Z",
   "translation": "E Lavan juntou ⟨את⟩ todos ⟨את⟩ homens ⟨do⟩ lugar e fez um banquete",
   "tokens": [
     {
       "surface": "ויאסף",
-      "english": "E Lavan juntou"
+      "gloss": "E Lavan juntou"
     },
     {
       "surface": "לבן",
-      "english": "Lavan"
+      "gloss": "Lavan"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todos ⟨את⟩ homens ⟨do⟩ lugar"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "אנשי",
-      "english": "⟨את⟩ homens"
+      "gloss": "⟨את⟩ homens"
     },
     {
       "surface": "המקום",
-      "english": "⟨do⟩ lugar"
+      "gloss": "⟨do⟩ lugar"
     },
     {
       "surface": "ויעש",
-      "english": "e fez"
+      "gloss": "e fez"
     },
     {
       "surface": "משתה",
-      "english": "um banquete"
+      "gloss": "um banquete"
     }
-  ],
-  "timestamp": "2026-07-16T14:51:40.984072896Z",
-  "model": "glm-4.5"
+  ]
 }

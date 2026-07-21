@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 94:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 663,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62881,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63544
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:42:27.314532673Z",
   "translation": "⟨Will⟩ the one who punishes ⟨the⟩ nations ⟨be⟩ silent? ⟨will⟩ the one who teaches mankind ⟨the⟩ knowledge ⟨not⟩ convict?",
   "tokens": [
     {
       "surface": "היסר",
-      "english": "⟨Will⟩ punish",
+      "gloss": "⟨Will⟩ punish",
       "marks": "the one who punishes ⟨the⟩ nations"
     },
     {
       "surface": "גוים",
-      "english": "⟨the⟩ nations",
+      "gloss": "⟨the⟩ nations",
       "marks": "nations"
     },
     {
       "surface": "הלא",
-      "english": "⟨be⟩ silent?"
+      "gloss": "⟨be⟩ silent?"
     },
     {
       "surface": "יוכיח",
-      "english": "⟨will⟩ ⟨not⟩ convict?",
+      "gloss": "⟨will⟩ ⟨not⟩ convict?",
       "marks": "the one who teaches mankind ⟨the⟩ knowledge"
     },
     {
       "surface": "המלמד",
-      "english": "⟨the⟩ one who teaches",
+      "gloss": "⟨the⟩ one who teaches",
       "marks": "mankind"
     },
     {
       "surface": "אדם",
-      "english": "mankind",
+      "gloss": "mankind",
       "marks": "knowledge"
     },
     {
       "surface": "דעת",
-      "english": "⟨the⟩ knowledge",
+      "gloss": "⟨the⟩ knowledge",
       "marks": ""
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:42:27.314532673Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

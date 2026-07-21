@@ -1,44 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "1-chronicles 26:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57147,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57693
-  },
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:01:21.087765116Z",
   "translation": "Das guerras e do despojo, santificaram para ⟨fortalecer⟩ ⟨a casa⟩ ⟨de⟩ ⟨YHWH⟩",
   "tokens": [
     {
       "surface": "מן",
-      "english": "Das",
+      "gloss": "Das",
       "notes": null
     },
     {
       "surface": "המלחמות",
-      "english": "guerras",
+      "gloss": "guerras",
       "notes": null
     },
     {
       "surface": "ומן",
-      "english": "e do",
+      "gloss": "e do",
       "notes": null
     },
     {
       "surface": "השלל",
-      "english": "despoio",
+      "gloss": "despoio",
       "notes": {
         "kind": "substitution",
         "subject": "despoio",
@@ -47,12 +35,12 @@
     },
     {
       "surface": "הקדישו",
-      "english": "santificaram",
+      "gloss": "santificaram",
       "notes": null
     },
     {
       "surface": "לחזק",
-      "english": "para ⟨fortalecer⟩",
+      "gloss": "para ⟨fortalecer⟩",
       "notes": {
         "kind": "addition",
         "subject": "para",
@@ -61,7 +49,7 @@
     },
     {
       "surface": "לבית",
-      "english": "⟨a casa⟩",
+      "gloss": "⟨a casa⟩",
       "notes": {
         "kind": "addition",
         "subject": "a",
@@ -70,7 +58,7 @@
     },
     {
       "surface": "יהוה",
-      "english": "⟨de⟩ ⟨YHWH⟩",
+      "gloss": "⟨de⟩ ⟨YHWH⟩",
       "notes": {
         "kind": "addition",
         "subject": "de",
@@ -78,7 +66,8 @@
       }
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:01:21.087765116Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

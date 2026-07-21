@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "1-chronicles 6:35",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 6,
+  "verse": 35,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:38:34.403329314Z",
+  "translation": "e estes ⟨são⟩ os filhos de Aharon: Elazar seu filho, Pinechas seu filho, Abishua seu filho",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E estes ⟨são⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos de"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abishua"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Aharão",
@@ -13,60 +56,6 @@
       "hebrew": "אהרן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57181,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57472
-  },
-  "translation": "e estes ⟨são⟩ os filhos de Aharon: Elazar seu filho, Pinechas seu filho, Abishua seu filho",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E estes ⟨são⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos de"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharon"
-    },
-    {
-      "surface": "אלעזר",
-      "english": "Elazar"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "פינחס",
-      "english": "Pinechas"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "אבישוע",
-      "english": "Abishua"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:38:34.403329314Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

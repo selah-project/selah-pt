@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 135:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63141,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63642
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:09:01.342497802Z",
   "translation": "Louvai ⟨a⟩ Jah. Louvai ⟨a⟩ ⟨o nome⟩ ⟨de⟩ YHWH. Louvai, servos ⟨de⟩ YHWH.",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "Louvai"
+      "gloss": "Louvai"
     },
     {
       "surface": "יה",
-      "english": "⟨a⟩ Jah"
+      "gloss": "⟨a⟩ Jah"
     },
     {
       "surface": "הללו",
-      "english": "Louvai ⟨a⟩"
+      "gloss": "Louvai ⟨a⟩"
     },
     {
       "surface": "את",
-      "english": "⟨o⟩ ⟨o nome⟩ ⟨de⟩",
+      "gloss": "⟨o⟩ ⟨o nome⟩ ⟨de⟩",
       "marks": "שם"
     },
     {
       "surface": "שם",
-      "english": "nome"
+      "gloss": "nome"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הללו",
-      "english": "Louvai, servos"
+      "gloss": "Louvai, servos"
     },
     {
       "surface": "עבדי",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:09:01.342497802Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

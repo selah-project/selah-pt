@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "exodus 40:23",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 475,
-    "prompt_tokens": 24646,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25121
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:08:39.414167363Z",
   "translation": "E ele arrumou ⟨o⟩ pão em ordem sobre ele diante de YHWH, como YHWH tinha ordenado ⟨את⟩ Moshé",
   "tokens": [
     {
       "surface": "ויערך",
-      "english": "E ele arrumou"
+      "gloss": "E ele arrumou"
     },
     {
       "surface": "עליו",
-      "english": "sobre ele"
+      "gloss": "sobre ele"
     },
     {
       "surface": "ערך",
-      "english": "em ordem"
+      "gloss": "em ordem"
     },
     {
       "surface": "לחם",
-      "english": "pão"
+      "gloss": "pão"
     },
     {
       "surface": "לפני",
-      "english": "diante de"
+      "gloss": "diante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "צוה",
-      "english": "tinha ordenado"
+      "gloss": "tinha ordenado"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Moshé"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     }
-  ],
-  "timestamp": "2026-07-16T14:08:39.414167363Z",
-  "model": "glm-4.5"
+  ]
 }

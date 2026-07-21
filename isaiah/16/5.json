@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 16:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 16,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:25:20.004382958Z",
+  "translation": "e ⟨um⟩ trono ⟨será⟩ estabelecido em ḥéṣed (lealdade), e ⟨ele⟩ se sentará ⟨sobre⟩ ele em verdade, na tenda de David, ⟨um⟩ juiz ⟨que⟩ busca justiça e apressa ⟨a⟩ ⟨tzedaqá⟩ (equidade).",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "E estabelecido",
+      "marks": "trono"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "em ḥéṣed (lealdade)"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e se sentará"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sobre ele"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "em verdade"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "na tenda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "⟨um⟩ juiz"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "⟨que⟩ busca"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "justiça"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "e apressa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨a⟩ ⟨tzedaqá⟩ (equidade)"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,77 +73,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 736,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19614,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20350
-  },
-  "translation": "e ⟨um⟩ trono ⟨será⟩ estabelecido em ḥéṣed (lealdade), e ⟨ele⟩ se sentará ⟨sobre⟩ ele em verdade, na tenda de David, ⟨um⟩ juiz ⟨que⟩ busca justiça e apressa ⟨a⟩ ⟨tzedaqá⟩ (equidade).",
-  "tokens": [
-    {
-      "surface": "והוכן",
-      "english": "E estabelecido",
-      "marks": "trono"
-    },
-    {
-      "surface": "בחסד",
-      "english": "em ḥéṣed (lealdade)"
-    },
-    {
-      "surface": "כסא",
-      "english": "trono"
-    },
-    {
-      "surface": "וישב",
-      "english": "e se sentará"
-    },
-    {
-      "surface": "עליו",
-      "english": "sobre ele"
-    },
-    {
-      "surface": "באמת",
-      "english": "em verdade"
-    },
-    {
-      "surface": "באהל",
-      "english": "na tenda"
-    },
-    {
-      "surface": "דוד",
-      "english": "de David"
-    },
-    {
-      "surface": "שפט",
-      "english": "⟨um⟩ juiz"
-    },
-    {
-      "surface": "ודרש",
-      "english": "⟨que⟩ busca"
-    },
-    {
-      "surface": "משפט",
-      "english": "justiça"
-    },
-    {
-      "surface": "ומהר",
-      "english": "e apressa"
-    },
-    {
-      "surface": "צדק",
-      "english": "⟨a⟩ ⟨tzedaqá⟩ (equidade)"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:25:20.004382958Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

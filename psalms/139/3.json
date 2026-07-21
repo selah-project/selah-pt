@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 139:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 437,
-    "prompt_tokens": 70265,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70702
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:25:27.013534543Z",
   "translation": "Tu peneiras ⟨o⟩ meu deambular e ⟨o⟩ meu repouso, e estás familiarizado com todas ⟨as⟩ minhas veredas",
   "tokens": [
     {
       "surface": "ארחי",
-      "english": "⟨o⟩ meu deambular"
+      "gloss": "⟨o⟩ meu deambular"
     },
     {
       "surface": "ורבעי",
-      "english": "e ⟨o⟩ meu repouso"
+      "gloss": "e ⟨o⟩ meu repouso"
     },
     {
       "surface": "זרית",
-      "english": "Tu peneiras"
+      "gloss": "Tu peneiras"
     },
     {
       "surface": "וכל",
-      "english": "e todas"
+      "gloss": "e todas"
     },
     {
       "surface": "דרכי",
-      "english": "⟨as⟩ minhas veredas"
+      "gloss": "⟨as⟩ minhas veredas"
     },
     {
       "surface": "הסכנתה",
-      "english": "estás familiarizado"
+      "gloss": "estás familiarizado"
     }
-  ],
-  "timestamp": "2026-07-17T00:25:27.013534543Z",
-  "model": "glm-4.5"
+  ]
 }

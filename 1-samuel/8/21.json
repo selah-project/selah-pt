@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-samuel 8:21",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 508,
-    "prompt_tokens": 24063,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24571
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:46:05.171755225Z",
   "translation": "E Shmuel ouviu ⟨את⟩ todas as palavras do povo, e as falou nos ouvidos de YHWH",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "E ouviu"
+      "gloss": "E ouviu"
     },
     {
       "surface": "שמואל",
-      "english": "Shmuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todas as palavras"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "דברי",
-      "english": "as palavras"
+      "gloss": "as palavras"
     },
     {
       "surface": "העם",
-      "english": "do povo"
+      "gloss": "do povo"
     },
     {
       "surface": "וידברם",
-      "english": "e as falou"
+      "gloss": "e as falou"
     },
     {
       "surface": "באזני",
-      "english": "nos ouvidos de"
+      "gloss": "nos ouvidos de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T11:46:05.171755225Z",
-  "model": "glm-4.5"
+  ]
 }

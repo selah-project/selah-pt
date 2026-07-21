@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 102:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62894,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63351
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:46:21.748135240Z",
   "translation": "Por ⟨o⟩ furor e ⟨a⟩ indignação ⟨de⟩ tua ira, pois me ergueste e me lançaste fora.",
   "tokens": [
     {
       "surface": "מפני",
-      "english": "Por ⟨o⟩"
+      "gloss": "Por ⟨o⟩"
     },
     {
       "surface": "זעמך",
-      "english": "furor e ⟨a⟩ indignação ⟨de⟩ tua ira",
+      "gloss": "furor e ⟨a⟩ indignação ⟨de⟩ tua ira",
       "marks": "o furor e a indignação de tua ira"
     },
     {
       "surface": "וקצפך",
-      "english": "⟨de⟩ tua ira",
+      "gloss": "⟨de⟩ tua ira",
       "marks": "ira"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "נשאתני",
-      "english": "me ergueste"
+      "gloss": "me ergueste"
     },
     {
       "surface": "ותשליכני",
-      "english": "e me lançaste fora"
+      "gloss": "e me lançaste fora"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:46:21.748135240Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

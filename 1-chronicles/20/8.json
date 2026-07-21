@@ -1,9 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-chronicles 20:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 20,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:55:07.689067774Z",
+  "translation": "Estes nasceram ⟨ao⟩ gigante em Gate e caíram ⟨pela⟩ mão ⟨de⟩ Davidd e ⟨pela⟩ mão ⟨de⟩ seus servos",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Estes"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "nasceram"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "⟨ao⟩ gigante",
+      "marks": "gigante"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "em Gate"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "e caíram"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨pela⟩ mão",
+      "marks": "mão ⟨de⟩ David e ⟨pela⟩ mão ⟨de⟩ seus servos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "e ⟨pela⟩ mão",
+      "marks": "mão ⟨de⟩ seus servos"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seus servos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,63 +59,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57069,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 57664
-  },
-  "translation": "Estes nasceram ⟨ao⟩ gigante em Gate e caíram ⟨pela⟩ mão ⟨de⟩ Davidd e ⟨pela⟩ mão ⟨de⟩ seus servos",
-  "tokens": [
-    {
-      "surface": "אל",
-      "english": "Estes"
-    },
-    {
-      "surface": "נולדו",
-      "english": "nasceram"
-    },
-    {
-      "surface": "להרפא",
-      "english": "⟨ao⟩ gigante",
-      "marks": "gigante"
-    },
-    {
-      "surface": "בגת",
-      "english": "em Gate"
-    },
-    {
-      "surface": "ויפלו",
-      "english": "e caíram"
-    },
-    {
-      "surface": "ביד",
-      "english": "⟨pela⟩ mão",
-      "marks": "mão ⟨de⟩ David e ⟨pela⟩ mão ⟨de⟩ seus servos"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "וביד",
-      "english": "e ⟨pela⟩ mão",
-      "marks": "mão ⟨de⟩ seus servos"
-    },
-    {
-      "surface": "עבדיו",
-      "english": "seus servos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:55:07.689067774Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

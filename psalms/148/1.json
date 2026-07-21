@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 148:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 566,
-    "prompt_tokens": 70556,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71122
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:52:19.928010117Z",
   "translation": "Halelu Yah. Halelu ⟨את⟩ YHWH dos céus; louvem-no nas alturas.",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "Halelu"
+      "gloss": "Halelu"
     },
     {
       "surface": "יה",
-      "english": "Yah"
+      "gloss": "Yah"
     },
     {
       "surface": "הללו",
-      "english": "Halelu"
+      "gloss": "Halelu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מן",
-      "english": "dos"
+      "gloss": "dos"
     },
     {
       "surface": "השמים",
-      "english": "céus"
+      "gloss": "céus"
     },
     {
       "surface": "הללוהו",
-      "english": "louvem-no"
+      "gloss": "louvem-no"
     },
     {
       "surface": "במרומים",
-      "english": "nas alturas"
+      "gloss": "nas alturas"
     }
-  ],
-  "timestamp": "2026-07-16T17:52:19.928010117Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 71:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62747,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63173
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:25:33.176959713Z",
   "translation": "Em ⟨האת⟩ ⟨YHWH⟩ busquei refúgio não serei envergonhado para sempre",
   "tokens": [
     {
       "surface": "בך",
-      "english": "Em",
+      "gloss": "Em",
       "marks": "refúgio"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חסיתי",
-      "english": "busquei refúgio"
+      "gloss": "busquei refúgio"
     },
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "אבושה",
-      "english": "serei envergonhado"
+      "gloss": "serei envergonhado"
     },
     {
       "surface": "לעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:25:33.176959713Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

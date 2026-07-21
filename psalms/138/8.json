@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 138:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 138,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:10:49.134539484Z",
+  "translation": "YHWH completará ⟨o que⟩ ⟨está⟩ em minha mão, YHWH, tua Jésed ⟨está⟩ para sempre, as obras de tuas mãos, não abandones.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "completará"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨o que⟩ ⟨está⟩ em minha mão"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tua Jésed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨está⟩ para sempre"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "as obras"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "de tuas mãos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "não"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "abandones"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "bondade",
@@ -13,64 +60,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 138,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63233,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63796
-  },
-  "translation": "YHWH completará ⟨o que⟩ ⟨está⟩ em minha mão, YHWH, tua Jésed ⟨está⟩ para sempre, as obras de tuas mãos, não abandones.",
-  "tokens": [
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "יגמר",
-      "english": "completará"
-    },
-    {
-      "surface": "בעדי",
-      "english": "⟨o que⟩ ⟨está⟩ em minha mão"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "חסדך",
-      "english": "tua Jésed"
-    },
-    {
-      "surface": "לעולם",
-      "english": "⟨está⟩ para sempre"
-    },
-    {
-      "surface": "מעשי",
-      "english": "as obras"
-    },
-    {
-      "surface": "ידיך",
-      "english": "de tuas mãos"
-    },
-    {
-      "surface": "אל",
-      "english": "não"
-    },
-    {
-      "surface": "תרף",
-      "english": "abandones"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:10:49.134539484Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

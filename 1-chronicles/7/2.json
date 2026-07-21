@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 7:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 7,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:40:03.479199248Z",
+  "translation": "E os filhos de Tola ⟨são⟩ Uzi, e Refaías, e Jeriel, e Jamai, e Ibsão, e Samuel, cabeças ⟨por⟩ casa ⟨de⟩ seus pais, ⟨para⟩ Tola: homens valentes ⟨de⟩ poder em suas gerações; seu número nos dias de David ⟨foi⟩ vinte e dois mil e seiscentos.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos de"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzi"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "e Refaías"
+    },
+    {
+      "surface": "ויריאל",
+      "gloss": "e Jeriel"
+    },
+    {
+      "surface": "ויחמי",
+      "gloss": "e Jamai"
+    },
+    {
+      "surface": "ויבשם",
+      "gloss": "e Ibsão"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "e Samuel"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "cabeças"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨por⟩ casa"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "⟨de⟩ seus pais"
+    },
+    {
+      "surface": "לתולע",
+      "gloss": "⟨para⟩ Tola"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "homens valentes"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨de⟩ poder"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "em suas gerações"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "seu número"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nos dias de"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vinte"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "e dois"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e seis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "centos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,116 +112,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 785,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58702,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 59487
-  },
-  "translation": "E os filhos de Tola ⟨são⟩ Uzi, e Refaías, e Jeriel, e Jamai, e Ibsão, e Samuel, cabeças ⟨por⟩ casa ⟨de⟩ seus pais, ⟨para⟩ Tola: homens valentes ⟨de⟩ poder em suas gerações; seu número nos dias de David ⟨foi⟩ vinte e dois mil e seiscentos.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos de"
-    },
-    {
-      "surface": "תולע",
-      "english": "Tola"
-    },
-    {
-      "surface": "עזי",
-      "english": "Uzi"
-    },
-    {
-      "surface": "ורפיה",
-      "english": "e Refaías"
-    },
-    {
-      "surface": "ויריאל",
-      "english": "e Jeriel"
-    },
-    {
-      "surface": "ויחמי",
-      "english": "e Jamai"
-    },
-    {
-      "surface": "ויבשם",
-      "english": "e Ibsão"
-    },
-    {
-      "surface": "ושמואל",
-      "english": "e Samuel"
-    },
-    {
-      "surface": "ראשים",
-      "english": "cabeças"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨por⟩ casa"
-    },
-    {
-      "surface": "אבותם",
-      "english": "⟨de⟩ seus pais"
-    },
-    {
-      "surface": "לתולע",
-      "english": "⟨para⟩ Tola"
-    },
-    {
-      "surface": "גבורי",
-      "english": "homens valentes"
-    },
-    {
-      "surface": "חיל",
-      "english": "⟨de⟩ poder"
-    },
-    {
-      "surface": "לתלדותם",
-      "english": "em suas gerações"
-    },
-    {
-      "surface": "מספרם",
-      "english": "seu número"
-    },
-    {
-      "surface": "בימי",
-      "english": "nos dias de"
-    },
-    {
-      "surface": "דויד",
-      "english": "David"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vinte"
-    },
-    {
-      "surface": "ושנים",
-      "english": "e dois"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil"
-    },
-    {
-      "surface": "ושש",
-      "english": "e seis"
-    },
-    {
-      "surface": "מאות",
-      "english": "centos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:40:03.479199248Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

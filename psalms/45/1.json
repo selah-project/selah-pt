@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 45:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 45,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:09:05.360255847Z",
+  "translation": "Ao mestre de canto, sobre lírios, para ⟨os⟩ filhos de Koraj — um masquil ⟨que é⟩ canto de amor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ao mestre de canto"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "lírios"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para ⟨os⟩ filhos",
+      "marks": "filhos"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "de Koraj"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "um masquil ⟨que é⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "canto"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "de amor"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Corá",
@@ -13,57 +53,6 @@
       "hebrew": "קרח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 45,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63058,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63482
-  },
-  "translation": "Ao mestre de canto, sobre lírios, para ⟨os⟩ filhos de Koraj — um masquil ⟨que é⟩ canto de amor.",
-  "tokens": [
-    {
-      "surface": "למנצח",
-      "english": "Ao mestre de canto"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ששנים",
-      "english": "lírios"
-    },
-    {
-      "surface": "לבני",
-      "english": "para ⟨os⟩ filhos",
-      "marks": "filhos"
-    },
-    {
-      "surface": "קרח",
-      "english": "de Koraj"
-    },
-    {
-      "surface": "משכיל",
-      "english": "um masquil ⟨que é⟩"
-    },
-    {
-      "surface": "שיר",
-      "english": "canto"
-    },
-    {
-      "surface": "ידידת",
-      "english": "de amor"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:09:05.360255847Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

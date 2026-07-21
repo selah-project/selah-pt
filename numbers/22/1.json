@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "numbers 22:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 22,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:33:24.964898013Z",
+  "translation": "E ⟨os⟩ filhos de Yisrael viajaram e acamparam ⟨nas⟩ planícies de Moav, ⟨além⟩ do ⟨rio⟩ Yarden ⟨por⟩ Yerijó.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Viajaram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e acamparam"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "⟨nas⟩ planícies de"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "⟨além⟩"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "⟨do⟩ ⟨rio⟩ Yarden"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "⟨por⟩ Yerijó"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -20,60 +63,6 @@
       "hebrew": "יריחו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18122,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 18600
-  },
-  "translation": "E ⟨os⟩ filhos de Yisrael viajaram e acamparam ⟨nas⟩ planícies de Moav, ⟨além⟩ do ⟨rio⟩ Yarden ⟨por⟩ Yerijó.",
-  "tokens": [
-    {
-      "surface": "ויסעו",
-      "english": "Viajaram"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויחנו",
-      "english": "e acamparam"
-    },
-    {
-      "surface": "בערבות",
-      "english": "⟨nas⟩ planícies de"
-    },
-    {
-      "surface": "מואב",
-      "english": "Moav"
-    },
-    {
-      "surface": "מעבר",
-      "english": "⟨além⟩"
-    },
-    {
-      "surface": "לירדן",
-      "english": "⟨do⟩ ⟨rio⟩ Yarden"
-    },
-    {
-      "surface": "ירחו",
-      "english": "⟨por⟩ Yerijó"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:33:24.964898013Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

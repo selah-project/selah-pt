@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 93,
   "ref": "psalms 119:93",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 338,
-    "prompt_tokens": 70257,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70595
-  },
+  "verse": 93,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:33.301583044Z",
   "translation": "Para sempre não esquecerei ⟨os⟩ teus preceitos, pois por eles me vivificaste.",
   "tokens": [
     {
       "surface": "לעולם",
-      "english": "Para sempre"
+      "gloss": "Para sempre"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "אשכח",
-      "english": "esquecerei"
+      "gloss": "esquecerei"
     },
     {
       "surface": "פקודיך",
-      "english": "⟨os⟩ teus preceitos"
+      "gloss": "⟨os⟩ teus preceitos"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "בם",
-      "english": "por eles"
+      "gloss": "por eles"
     },
     {
       "surface": "חייתני",
-      "english": "me vivificaste"
+      "gloss": "me vivificaste"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:33.301583044Z",
-  "model": "glm-4.5"
+  ]
 }

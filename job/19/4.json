@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 19:4",
   "book": "job",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 301,
-    "prompt_tokens": 27349,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27650
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:59:19.830495694Z",
   "translation": "E se, na verdade, eu tenho errado, ⟨o⟩ meu erro permanece comigo.",
   "tokens": [
     {
       "surface": "ואף",
-      "english": "E se"
+      "gloss": "E se"
     },
     {
       "surface": "אמנם",
-      "english": "na verdade"
+      "gloss": "na verdade"
     },
     {
       "surface": "שגיתי",
-      "english": "eu tenho errado"
+      "gloss": "eu tenho errado"
     },
     {
       "surface": "אתי",
-      "english": "comigo"
+      "gloss": "comigo"
     },
     {
       "surface": "תלין",
-      "english": "permanece"
+      "gloss": "permanece"
     },
     {
       "surface": "משוגתי",
-      "english": "o meu erro"
+      "gloss": "o meu erro"
     }
-  ],
-  "timestamp": "2026-07-16T15:59:19.830495694Z",
-  "model": "glm-4.5"
+  ]
 }

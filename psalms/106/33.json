@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "psalms 106:33",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 370,
-    "prompt_tokens": 70330,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70700
-  },
+  "verse": 33,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:47:06.396259458Z",
   "translation": "Pois fizeram amargar ⟨את⟩ seu rúaj, e ele falou precipitadamente com seus lábios.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "המרו",
-      "english": "fizeram amargar"
+      "gloss": "fizeram amargar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "seu rúaj"
     },
     {
       "surface": "רוחו",
-      "english": "seu rúaj"
+      "gloss": "seu rúaj"
     },
     {
       "surface": "ויבטא",
-      "english": "e ele falou precipitadamente"
+      "gloss": "e ele falou precipitadamente"
     },
     {
       "surface": "בשפתיו",
-      "english": "com seus lábios"
+      "gloss": "com seus lábios"
     }
-  ],
-  "timestamp": "2026-07-16T17:47:06.396259458Z",
-  "model": "glm-4.5"
+  ]
 }

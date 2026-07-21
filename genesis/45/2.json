@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 45:2",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 446,
-    "prompt_tokens": 28973,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29419
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:03:27.175191583Z",
   "translation": "E ele deu ⟨את⟩ sua voz em choro, e ouviram os Mitsrim, e ouviu a casa de Paró",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "E ele deu"
+      "gloss": "E ele deu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sua voz"
     },
     {
       "surface": "קלו",
-      "english": "sua voz"
+      "gloss": "sua voz"
     },
     {
       "surface": "בבכי",
-      "english": "em choro"
+      "gloss": "em choro"
     },
     {
       "surface": "וישמעו",
-      "english": "e ouviram"
+      "gloss": "e ouviram"
     },
     {
       "surface": "מצרים",
-      "english": "os Mitsrim"
+      "gloss": "os Mitsrim"
     },
     {
       "surface": "וישמע",
-      "english": "e ouviu"
+      "gloss": "e ouviu"
     },
     {
       "surface": "בית",
-      "english": "a casa"
+      "gloss": "a casa"
     },
     {
       "surface": "פרעה",
-      "english": "de Paró"
+      "gloss": "de Paró"
     }
-  ],
-  "timestamp": "2026-07-16T15:03:27.175191583Z",
-  "model": "glm-4.5"
+  ]
 }

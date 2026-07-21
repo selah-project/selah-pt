@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "lamentations 5:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "lamentations",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 31947,
-    "prompt_tokens_details": {
-      "cached_tokens": 31099
-    },
-    "total_tokens": 32272
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:28:24.563780765Z",
   "translation": "Nosso (água) ⟨por⟩ dinheiro bebemos, nosso (pau) ⟨por⟩ preço vem.",
   "tokens": [
     {
       "surface": "מימינו",
-      "english": "Nosso (água)"
+      "gloss": "Nosso (água)"
     },
     {
       "surface": "בכסף",
-      "english": "⟨por⟩ dinheiro"
+      "gloss": "⟨por⟩ dinheiro"
     },
     {
       "surface": "שתינו",
-      "english": "bebemos"
+      "gloss": "bebemos"
     },
     {
       "surface": "עצינו",
-      "english": "nosso (pau)"
+      "gloss": "nosso (pau)"
     },
     {
       "surface": "במחיר",
-      "english": "⟨por⟩ preço"
+      "gloss": "⟨por⟩ preço"
     },
     {
       "surface": "יבאו",
-      "english": "vem"
+      "gloss": "vem"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:28:24.563780765Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

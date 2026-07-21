@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-kings 14:12",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 359,
-    "prompt_tokens": 24231,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24590
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:36:45.998571179Z",
   "translation": "E Yehudá ⟨foi⟩ ferido diante de Yisrael, e fugiram, cada homem ⟨para⟩ a sua tenda.",
   "tokens": [
     {
       "surface": "וינגף",
-      "english": "E Yehudá ⟨foi⟩ ferido"
+      "gloss": "E Yehudá ⟨foi⟩ ferido"
     },
     {
       "surface": "יהודה",
-      "english": "Yehudá"
+      "gloss": "Yehudá"
     },
     {
       "surface": "לפני",
-      "english": "diante de"
+      "gloss": "diante de"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ונסו",
-      "english": "e fugiram"
+      "gloss": "e fugiram"
     },
     {
       "surface": "איש",
-      "english": "cada homem"
+      "gloss": "cada homem"
     },
     {
       "surface": "לאהלו",
-      "english": "⟨para⟩ a sua tenda"
+      "gloss": "⟨para⟩ a sua tenda"
     }
-  ],
-  "timestamp": "2026-07-16T12:36:45.998571179Z",
-  "model": "glm-4.5"
+  ]
 }

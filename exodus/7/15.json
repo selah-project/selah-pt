@@ -1,9 +1,142 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "exodus 7:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 7,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:42:55.580280074Z",
+  "translation": "Vai a Paró ⟨no⟩ ⟨a⟩manhã ⟨e⟩is porque ⟨ele⟩ ⟨está⟩ saindo para a água ⟨e⟩ te prepararás ⟨para⟩ encontrar com ele ⟨à⟩ beira do rio ⟨e⟩ ⟨o⟩ cajado que se tornou ⟨em⟩ serpente tomarás em tua mão.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Vai",
+      "lemma": 3212,
+      "gv": 50,
+      "anagram_room": "ךל"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a",
+      "lemma": 413,
+      "gv": 31,
+      "anagram_room": "אל"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró",
+      "lemma": 6547,
+      "gv": 355,
+      "anagram_room": "העפר"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨no⟩ ⟨a⟩manhã",
+      "lemma": "b\/1242",
+      "gv": 304,
+      "anagram_room": "בבקר"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨e⟩is porque",
+      "lemma": 2009,
+      "gv": 60,
+      "anagram_room": "ההנ"
+    },
+    {
+      "surface": "י�צא",
+      "gloss": "⟨ele⟩ ⟨está⟩ saindo",
+      "lemma": 3318,
+      "gv": 101,
+      "anagram_room": "איצ"
+    },
+    {
+      "surface": "המימה",
+      "gloss": "para a água",
+      "lemma": "d\/4325",
+      "gv": 100,
+      "anagram_room": "ההיממ"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "⟨e⟩ te prepararás",
+      "lemma": "c\/5324",
+      "gv": 548,
+      "anagram_room": "בונצת"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "⟨para⟩ encontrar com ele",
+      "lemma": "l\/7125",
+      "gv": 737,
+      "anagram_room": "אולקרת"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨à⟩",
+      "lemma": 5921,
+      "gv": 100,
+      "anagram_room": "לע"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "beira",
+      "lemma": 8193,
+      "gv": 780,
+      "anagram_room": "פשת"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "do rio",
+      "lemma": "d\/2975",
+      "gv": 216,
+      "anagram_room": "אהיר"
+    },
+    {
+      "surface": "והמטה",
+      "gloss": "⟨e⟩ ⟨o⟩ cajado",
+      "lemma": "c\/d\/4294",
+      "gv": 65,
+      "anagram_room": "ההוטמ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "lemma": 834,
+      "gv": 501,
+      "anagram_room": "ארש"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "se tornou",
+      "lemma": 2015,
+      "gv": 155,
+      "anagram_room": "הךנפ"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "⟨em⟩ serpente",
+      "lemma": "l\/5175",
+      "gv": 388,
+      "anagram_room": "חלנש"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tomarás",
+      "lemma": 3947,
+      "gv": 508,
+      "anagram_room": "חקת"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "em tua mão",
+      "lemma": "b\/3027",
+      "gv": 36,
+      "anagram_room": "בדיך"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraó",
@@ -13,150 +146,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 1471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17877,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 19348
-  },
-  "translation": "Vai a Paró ⟨no⟩ ⟨a⟩manhã ⟨e⟩is porque ⟨ele⟩ ⟨está⟩ saindo para a água ⟨e⟩ te prepararás ⟨para⟩ encontrar com ele ⟨à⟩ beira do rio ⟨e⟩ ⟨o⟩ cajado que se tornou ⟨em⟩ serpente tomarás em tua mão.",
-  "tokens": [
-    {
-      "surface": "לך",
-      "english": "Vai",
-      "lemma": 3212,
-      "gv": 50,
-      "anagram_room": "ךל"
-    },
-    {
-      "surface": "אל",
-      "english": "a",
-      "lemma": 413,
-      "gv": 31,
-      "anagram_room": "אל"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró",
-      "lemma": 6547,
-      "gv": 355,
-      "anagram_room": "העפר"
-    },
-    {
-      "surface": "בבקר",
-      "english": "⟨no⟩ ⟨a⟩manhã",
-      "lemma": "b\/1242",
-      "gv": 304,
-      "anagram_room": "בבקר"
-    },
-    {
-      "surface": "הנה",
-      "english": "⟨e⟩is porque",
-      "lemma": 2009,
-      "gv": 60,
-      "anagram_room": "ההנ"
-    },
-    {
-      "surface": "י�צא",
-      "english": "⟨ele⟩ ⟨está⟩ saindo",
-      "lemma": 3318,
-      "gv": 101,
-      "anagram_room": "איצ"
-    },
-    {
-      "surface": "המימה",
-      "english": "para a água",
-      "lemma": "d\/4325",
-      "gv": 100,
-      "anagram_room": "ההיממ"
-    },
-    {
-      "surface": "ונצבת",
-      "english": "⟨e⟩ te prepararás",
-      "lemma": "c\/5324",
-      "gv": 548,
-      "anagram_room": "בונצת"
-    },
-    {
-      "surface": "לקראתו",
-      "english": "⟨para⟩ encontrar com ele",
-      "lemma": "l\/7125",
-      "gv": 737,
-      "anagram_room": "אולקרת"
-    },
-    {
-      "surface": "על",
-      "english": "⟨à⟩",
-      "lemma": 5921,
-      "gv": 100,
-      "anagram_room": "לע"
-    },
-    {
-      "surface": "שפת",
-      "english": "beira",
-      "lemma": 8193,
-      "gv": 780,
-      "anagram_room": "פשת"
-    },
-    {
-      "surface": "היאר",
-      "english": "do rio",
-      "lemma": "d\/2975",
-      "gv": 216,
-      "anagram_room": "אהיר"
-    },
-    {
-      "surface": "והמטה",
-      "english": "⟨e⟩ ⟨o⟩ cajado",
-      "lemma": "c\/d\/4294",
-      "gv": 65,
-      "anagram_room": "ההוטמ"
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "lemma": 834,
-      "gv": 501,
-      "anagram_room": "ארש"
-    },
-    {
-      "surface": "נהפך",
-      "english": "se tornou",
-      "lemma": 2015,
-      "gv": 155,
-      "anagram_room": "הךנפ"
-    },
-    {
-      "surface": "לנחש",
-      "english": "⟨em⟩ serpente",
-      "lemma": "l\/5175",
-      "gv": 388,
-      "anagram_room": "חלנש"
-    },
-    {
-      "surface": "תקח",
-      "english": "tomarás",
-      "lemma": 3947,
-      "gv": 508,
-      "anagram_room": "חקת"
-    },
-    {
-      "surface": "בידך",
-      "english": "em tua mão",
-      "lemma": "b\/3027",
-      "gv": 36,
-      "anagram_room": "בדיך"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:42:55.580280074Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

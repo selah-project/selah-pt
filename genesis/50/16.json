@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 50:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 50,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:34:50.024087734Z",
+  "translation": "E eles ⟨את⟩ deram uma ordem a Yosef, dizendo: Teu pai ordenou antes ⟨da⟩ sua morte, dizendo:",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "E eles deram uma ordem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo:"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Teu pai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ordenou"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "antes"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "⟨da⟩ sua morte"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo:"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "José",
@@ -13,60 +56,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 50,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21406,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 21749
-  },
-  "translation": "E eles ⟨את⟩ deram uma ordem a Yosef, dizendo: Teu pai ordenou antes ⟨da⟩ sua morte, dizendo:",
-  "tokens": [
-    {
-      "surface": "ויצוו",
-      "english": "E eles deram uma ordem"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo:"
-    },
-    {
-      "surface": "אביך",
-      "english": "Teu pai"
-    },
-    {
-      "surface": "צוה",
-      "english": "ordenou"
-    },
-    {
-      "surface": "לפני",
-      "english": "antes"
-    },
-    {
-      "surface": "מותו",
-      "english": "⟨da⟩ sua morte"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo:"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:34:50.024087734Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

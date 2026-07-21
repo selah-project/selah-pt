@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "ezekiel 17:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 17,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:19:50.086233407Z",
+  "translation": "Filho do homem, propõe ⟨um⟩ enigma e usa ⟨uma⟩ parábola ⟨para⟩ ⟨a⟩ casa de Yisrael",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Filho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "do homem"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "propõe"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "⟨um⟩ enigma"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "e usa"
+    },
+    {
+      "surface": "משל",
+      "gloss": "⟨uma⟩ parábola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17437,
-    "prompt_tokens_details": {
-      "cached_tokens": 16310
-    },
-    "total_tokens": 17904
-  },
-  "translation": "Filho do homem, propõe ⟨um⟩ enigma e usa ⟨uma⟩ parábola ⟨para⟩ ⟨a⟩ casa de Yisrael",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Filho"
-    },
-    {
-      "surface": "אדם",
-      "english": "do homem"
-    },
-    {
-      "surface": "חוד",
-      "english": "propõe"
-    },
-    {
-      "surface": "חידה",
-      "english": "⟨um⟩ enigma"
-    },
-    {
-      "surface": "ומשל",
-      "english": "e usa"
-    },
-    {
-      "surface": "משל",
-      "english": "⟨uma⟩ parábola"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:19:50.086233407Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

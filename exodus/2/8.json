@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "exodus 2:8",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 598,
-    "prompt_tokens": 24615,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25213
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:43:00.936938977Z",
   "translation": "E a filha de Paró disse a ela: Vai. E a jovem foi e chamou ⟨את⟩ a mãe do menino.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "E ... disse"
+      "gloss": "E ... disse"
     },
     {
       "surface": "לה",
-      "english": "a ela"
+      "gloss": "a ela"
     },
     {
       "surface": "בת",
-      "english": "filha"
+      "gloss": "filha"
     },
     {
       "surface": "פרעה",
-      "english": "de Paró"
+      "gloss": "de Paró"
     },
     {
       "surface": "לכי",
-      "english": "Vai"
+      "gloss": "Vai"
     },
     {
       "surface": "ותלך",
-      "english": "E ... foi"
+      "gloss": "E ... foi"
     },
     {
       "surface": "העלמה",
-      "english": "a jovem"
+      "gloss": "a jovem"
     },
     {
       "surface": "ותקרא",
-      "english": "e chamou"
+      "gloss": "e chamou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a mãe"
     },
     {
       "surface": "אם",
-      "english": "mãe"
+      "gloss": "mãe"
     },
     {
       "surface": "הילד",
-      "english": "do menino"
+      "gloss": "do menino"
     }
-  ],
-  "timestamp": "2026-07-16T13:43:00.936938977Z",
-  "model": "glm-4.5"
+  ]
 }

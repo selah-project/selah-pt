@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "numbers 8:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 8,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:18:02.238910114Z",
+  "translation": "E YHWH falou a Moshé, ⟨dizendo⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨dizendo⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshe",
@@ -13,44 +40,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 210,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17640,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 17850
-  },
-  "translation": "E YHWH falou a Moshé, ⟨dizendo⟩:",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨dizendo⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:18:02.238910114Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

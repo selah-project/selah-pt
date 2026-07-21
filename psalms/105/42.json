@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "psalms 105:42",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 413,
-    "prompt_tokens": 70494,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70907
-  },
+  "verse": 42,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:46:48.768478955Z",
   "translation": "Porque lembrou ⟨את⟩ a sua palavra santa, ⟨את⟩ Avraham seu servo",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "זכר",
-      "english": "lembrou"
+      "gloss": "lembrou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a sua palavra santa"
     },
     {
       "surface": "דבר",
-      "english": "a sua palavra"
+      "gloss": "a sua palavra"
     },
     {
       "surface": "קדשו",
-      "english": "santa"
+      "gloss": "santa"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avraham seu servo"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "עבדו",
-      "english": "seu servo"
+      "gloss": "seu servo"
     }
-  ],
-  "timestamp": "2026-07-16T17:46:48.768478955Z",
-  "model": "glm-4.5"
+  ]
 }

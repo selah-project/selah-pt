@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-kings 14:20",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 437,
-    "prompt_tokens": 24512,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24949
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:37:05.528729063Z",
   "translation": "E eles o carregaram sobre ⟨os⟩ cavalos, e ele foi sepultado em Jerusalém com seus pais na cidade de David.",
   "tokens": [
     {
       "surface": "וישאו",
-      "english": "E eles carregaram"
+      "gloss": "E eles carregaram"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ele"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הסוסים",
-      "english": "⟨os⟩ cavalos"
+      "gloss": "⟨os⟩ cavalos"
     },
     {
       "surface": "ויקבר",
-      "english": "e ele foi sepultado"
+      "gloss": "e ele foi sepultado"
     },
     {
       "surface": "בירושלם",
-      "english": "em Jerusalém"
+      "gloss": "em Jerusalém"
     },
     {
       "surface": "עם",
-      "english": "com"
+      "gloss": "com"
     },
     {
       "surface": "אבתיו",
-      "english": "seus pais"
+      "gloss": "seus pais"
     },
     {
       "surface": "בעיר",
-      "english": "na cidade"
+      "gloss": "na cidade"
     },
     {
       "surface": "דוד",
-      "english": "de David"
+      "gloss": "de David"
     }
-  ],
-  "timestamp": "2026-07-16T12:37:05.528729063Z",
-  "model": "glm-4.5"
+  ]
 }

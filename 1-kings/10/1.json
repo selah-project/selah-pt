@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-kings 10:1",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 464,
-    "prompt_tokens": 70159,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 70623
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:28:05.980534781Z",
   "translation": "E a rainha de Sheba ouviu ⟨o⟩ relatório de Shlomó concernente ao nome de YHWH, e veio para prová-lo com enigmas",
   "tokens": [
     {
       "surface": "וּ\/מַלְכַת",
-      "english": "E a rainha"
+      "gloss": "E a rainha"
     },
     {
       "surface": "שְׁבָא",
-      "english": "de Sheba"
+      "gloss": "de Sheba"
     },
     {
       "surface": "שֹׁמַעַת",
-      "english": "ouviu"
+      "gloss": "ouviu"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "שמע"
     },
     {
       "surface": "שֵׁמַע",
-      "english": "⟨o⟩ relatório"
+      "gloss": "⟨o⟩ relatório"
     },
     {
       "surface": "שְׁלֹמֹה",
-      "english": "de Shlomó"
+      "gloss": "de Shlomó"
     },
     {
       "surface": "לְ\/שֵׁם",
-      "english": "concernente ao nome"
+      "gloss": "concernente ao nome"
     },
     {
       "surface": "יְהוָה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "וַ\/תָּבֹא",
-      "english": "e veio"
+      "gloss": "e veio"
     },
     {
       "surface": "לְ\/נַסֹּת\/וֹ",
-      "english": "para prová-lo"
+      "gloss": "para prová-lo"
     },
     {
       "surface": "בְּ\/חִידוֹת",
-      "english": "com enigmas"
+      "gloss": "com enigmas"
     }
-  ],
-  "timestamp": "2026-07-16T11:28:05.980534781Z",
-  "model": "glm-4.5"
+  ]
 }

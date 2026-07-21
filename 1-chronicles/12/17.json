@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-chronicles 12:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 12,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:46:35.522134703Z",
+  "translation": "E vieram ⟨dos⟩ filhos ⟨de⟩ Binyamim ⟨e⟩ Judá ⟨até⟩ à fortaleza ⟨para⟩ David.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "E vieram"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨dos⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos ⟨de⟩"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "⟨e⟩ Judá"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨até⟩"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "à fortaleza"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "⟨para⟩ David"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Benjamim",
@@ -13,56 +52,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57414,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57831
-  },
-  "translation": "E vieram ⟨dos⟩ filhos ⟨de⟩ Binyamim ⟨e⟩ Judá ⟨até⟩ à fortaleza ⟨para⟩ David.",
-  "tokens": [
-    {
-      "surface": "ויבאו",
-      "english": "E vieram"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨dos⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos ⟨de⟩"
-    },
-    {
-      "surface": "בנימן",
-      "english": "Binyamim"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "⟨e⟩ Judá"
-    },
-    {
-      "surface": "עד",
-      "english": "⟨até⟩"
-    },
-    {
-      "surface": "למצד",
-      "english": "à fortaleza"
-    },
-    {
-      "surface": "לדויד",
-      "english": "⟨para⟩ David"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:46:35.522134703Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

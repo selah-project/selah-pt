@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-kings 7:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 7,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:52:59.700457334Z",
+  "translation": "Então disse Elisha: Escutai ⟨um⟩ davar de YHWH; assim diz YHWH: Amanhã ⟨por⟩ este tempo ⟨um⟩ seá de farinha ⟨vender-se-á⟩ ⟨por⟩ ⟨um⟩ siclo, e dois seás de cevada ⟨por⟩ ⟨um⟩ siclo, ⟨à⟩ porta de Shomron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Então disse"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Escutai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨um⟩ davar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "כה",
+      "gloss": "assim diz"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "Amanhã ⟨por⟩ este tempo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "amanhã"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "⟨um⟩ seá"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "de farinha"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "⟨vender-se-á⟩ ⟨por⟩ ⟨um⟩ siclo"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "e dois seás"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "de cevada"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "⟨por⟩ ⟨um⟩ siclo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "⟨à⟩ porta"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "de Shomron"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Eliseu",
@@ -20,96 +99,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 693,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17846,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18539
-  },
-  "translation": "Então disse Elisha: Escutai ⟨um⟩ davar de YHWH; assim diz YHWH: Amanhã ⟨por⟩ este tempo ⟨um⟩ seá de farinha ⟨vender-se-á⟩ ⟨por⟩ ⟨um⟩ siclo, e dois seás de cevada ⟨por⟩ ⟨um⟩ siclo, ⟨à⟩ porta de Shomron.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Então disse"
-    },
-    {
-      "surface": "אלישע",
-      "english": "Elisha"
-    },
-    {
-      "surface": "שמעו",
-      "english": "Escutai"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨um⟩ davar"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "כה",
-      "english": "assim diz"
-    },
-    {
-      "surface": "אמר",
-      "english": "YHWH"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "כעת",
-      "english": "Amanhã ⟨por⟩ este tempo"
-    },
-    {
-      "surface": "מחר",
-      "english": "amanhã"
-    },
-    {
-      "surface": "סאה",
-      "english": "⟨um⟩ seá"
-    },
-    {
-      "surface": "סלת",
-      "english": "de farinha"
-    },
-    {
-      "surface": "בשקל",
-      "english": "⟨vender-se-á⟩ ⟨por⟩ ⟨um⟩ siclo"
-    },
-    {
-      "surface": "וסאתים",
-      "english": "e dois seás"
-    },
-    {
-      "surface": "שערים",
-      "english": "de cevada"
-    },
-    {
-      "surface": "בשקל",
-      "english": "⟨por⟩ ⟨um⟩ siclo"
-    },
-    {
-      "surface": "בשער",
-      "english": "⟨à⟩ porta"
-    },
-    {
-      "surface": "שמרון",
-      "english": "de Shomron"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:52:59.700457334Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

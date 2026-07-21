@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "2-kings 4:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 4,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:49:29.586676277Z",
+  "translation": "E Elisha veio ⟨à⟩ casa e eis que o moço ⟨estava⟩ morto, deitado ⟨sobre⟩ sua cama",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E veio"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "⟨à⟩ casa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e eis que"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "o moço"
+    },
+    {
+      "surface": "מת",
+      "gloss": "⟨estava⟩ morto"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "deitado"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "sua cama"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Eliseu",
@@ -13,60 +56,6 @@
       "hebrew": "אלישע"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16913,
-    "prompt_tokens_details": {
-      "cached_tokens": 5
-    },
-    "total_tokens": 17270
-  },
-  "translation": "E Elisha veio ⟨à⟩ casa e eis que o moço ⟨estava⟩ morto, deitado ⟨sobre⟩ sua cama",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E veio"
-    },
-    {
-      "surface": "אלישע",
-      "english": "Elisha"
-    },
-    {
-      "surface": "הביתה",
-      "english": "⟨à⟩ casa"
-    },
-    {
-      "surface": "והנה",
-      "english": "e eis que"
-    },
-    {
-      "surface": "הנער",
-      "english": "o moço"
-    },
-    {
-      "surface": "מת",
-      "english": "⟨estava⟩ morto"
-    },
-    {
-      "surface": "משכב",
-      "english": "deitado"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "מטתו",
-      "english": "sua cama"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:49:29.586676277Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

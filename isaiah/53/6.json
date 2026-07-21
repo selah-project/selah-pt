@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "isaiah 53:6",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 53,
-  "usage": {
-    "completion_tokens": 612,
-    "prompt_tokens": 27060,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 27672
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:19:13.654852248Z",
   "translation": "Todos nós ⟨como⟩ ovelhas nos desviamos, cada um ⟨se virou⟩ para o seu ⟨próprio⟩ caminho, e YHWH fez ⟨encontrar⟩ nele ⟨את⟩ a iniquidade de todos nós.",
   "tokens": [
     {
       "surface": "כלנו",
-      "english": "Todos nós"
+      "gloss": "Todos nós"
     },
     {
       "surface": "כצאן",
-      "english": "⟨como⟩ ovelhas"
+      "gloss": "⟨como⟩ ovelhas"
     },
     {
       "surface": "תעינו",
-      "english": "nos desviamos"
+      "gloss": "nos desviamos"
     },
     {
       "surface": "איש",
-      "english": "cada um"
+      "gloss": "cada um"
     },
     {
       "surface": "לדרכו",
-      "english": "para o seu caminho"
+      "gloss": "para o seu caminho"
     },
     {
       "surface": "פנינו",
-      "english": "⟨se virou⟩"
+      "gloss": "⟨se virou⟩"
     },
     {
       "surface": "ויהוה",
-      "english": "e YHWH"
+      "gloss": "e YHWH"
     },
     {
       "surface": "הפגיע",
-      "english": "fez ⟨encontrar⟩"
+      "gloss": "fez ⟨encontrar⟩"
     },
     {
       "surface": "בו",
-      "english": "nele"
+      "gloss": "nele"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a iniquidade"
     },
     {
       "surface": "עון",
-      "english": "a iniquidade"
+      "gloss": "a iniquidade"
     },
     {
       "surface": "כלנו",
-      "english": "de todos nós"
+      "gloss": "de todos nós"
     }
-  ],
-  "timestamp": "2026-07-16T15:19:13.654852248Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 86,
   "ref": "numbers 7:86",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 86,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:17:45.835994157Z",
+  "translation": "⟨as⟩ colheres de ouro, ⟨duas⟩ dúzias, cheias de Ketoret, dez dez ⟨por⟩ colher, ⟨pelo⟩ shekel ⟨do⟩ santuário: todo ⟨o⟩ ouro ⟨das⟩ colheres, vinte e cem",
+  "tokens": [
+    {
+      "surface": "כפות",
+      "gloss": "Colheres"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de ouro"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "⟨duas⟩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dúzias"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "cheias"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "de Ketoret"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dez"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dez"
+    },
+    {
+      "surface": "הכף",
+      "gloss": "⟨por⟩ colher"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "⟨pelo⟩ shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨do⟩ santuário"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨o⟩ ouro"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "⟨das⟩ colheres"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vinte"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "e cem"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "incenso",
@@ -13,88 +84,6 @@
       "hebrew": "קטרת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 744,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18894,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19638
-  },
-  "translation": "⟨as⟩ colheres de ouro, ⟨duas⟩ dúzias, cheias de Ketoret, dez dez ⟨por⟩ colher, ⟨pelo⟩ shekel ⟨do⟩ santuário: todo ⟨o⟩ ouro ⟨das⟩ colheres, vinte e cem",
-  "tokens": [
-    {
-      "surface": "כפות",
-      "english": "Colheres"
-    },
-    {
-      "surface": "זהב",
-      "english": "de ouro"
-    },
-    {
-      "surface": "שתים",
-      "english": "⟨duas⟩"
-    },
-    {
-      "surface": "עשרה",
-      "english": "dúzias"
-    },
-    {
-      "surface": "מלאת",
-      "english": "cheias"
-    },
-    {
-      "surface": "קטרת",
-      "english": "de Ketoret"
-    },
-    {
-      "surface": "עשרה",
-      "english": "dez"
-    },
-    {
-      "surface": "עשרה",
-      "english": "dez"
-    },
-    {
-      "surface": "הכף",
-      "english": "⟨por⟩ colher"
-    },
-    {
-      "surface": "בשקל",
-      "english": "⟨pelo⟩ shekel"
-    },
-    {
-      "surface": "הקדש",
-      "english": "⟨do⟩ santuário"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "זהב",
-      "english": "⟨o⟩ ouro"
-    },
-    {
-      "surface": "הכפות",
-      "english": "⟨das⟩ colheres"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vinte"
-    },
-    {
-      "surface": "ומאה",
-      "english": "e cem"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:17:45.835994157Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

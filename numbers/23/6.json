@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "numbers 23:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 23,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:34:57.258694219Z",
+  "translation": "E ⟨ele⟩ retornou a ele, e ⟨eis que⟩ ⟨ele⟩ estava postado sobre sua oferenda queimada, ⟨ele⟩ e todos os príncipes de Moav",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E ⟨ele⟩ retornou"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ⟨eis que⟩"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "⟨ele⟩ estava postado"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "sua oferenda queimada"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ele⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todos"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "príncipes"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -13,64 +60,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18210,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18515
-  },
-  "translation": "E ⟨ele⟩ retornou a ele, e ⟨eis que⟩ ⟨ele⟩ estava postado sobre sua oferenda queimada, ⟨ele⟩ e todos os príncipes de Moav",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E ⟨ele⟩ retornou"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ele"
-    },
-    {
-      "surface": "והנה",
-      "english": "e ⟨eis que⟩"
-    },
-    {
-      "surface": "נצב",
-      "english": "⟨ele⟩ estava postado"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "עלתו",
-      "english": "sua oferenda queimada"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨ele⟩"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todos"
-    },
-    {
-      "surface": "שרי",
-      "english": "príncipes"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:34:57.258694219Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

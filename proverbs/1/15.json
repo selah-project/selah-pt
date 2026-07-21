@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 1:15",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 386,
-    "prompt_tokens": 60338,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60724
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:27:35.582218907Z",
   "translation": "Meu filho, não andes ⟨no⟩ caminho ⟨com⟩ eles; impede ⟨o⟩ teu pé da vereda deles.",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Meu filho"
+      "gloss": "Meu filho"
     },
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תלך",
-      "english": "andes"
+      "gloss": "andes"
     },
     {
       "surface": "בדרך",
-      "english": "⟨no⟩ caminho"
+      "gloss": "⟨no⟩ caminho"
     },
     {
       "surface": "אתם",
-      "english": "⟨com⟩ eles"
+      "gloss": "⟨com⟩ eles"
     },
     {
       "surface": "מנע",
-      "english": "impede"
+      "gloss": "impede"
     },
     {
       "surface": "רגלך",
-      "english": "⟨o⟩ teu pé"
+      "gloss": "⟨o⟩ teu pé"
     },
     {
       "surface": "מנתיבתם",
-      "english": "da vereda deles"
+      "gloss": "da vereda deles"
     }
-  ],
-  "timestamp": "2026-07-16T17:27:35.582218907Z",
-  "model": "glm-4.5"
+  ]
 }

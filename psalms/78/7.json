@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 78:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 653,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70456,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 71109
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:39:48.133697550Z",
   "translation": "para que ⟨elas⟩ pusessem ⟨a sua⟩ confiança ⟨em⟩ Elohim e não se esquecessem ⟨dos⟩ feitos ⟨de⟩ El mas guardassem ⟨os seus⟩ mandamentos",
   "tokens": [
     {
       "surface": "וישימו",
-      "english": "para que ⟨elas⟩ pusessem ⟨a sua⟩ confiança"
+      "gloss": "para que ⟨elas⟩ pusessem ⟨a sua⟩ confiança"
     },
     {
       "surface": "באלהים",
-      "english": "⟨em⟩ Elohim",
+      "gloss": "⟨em⟩ Elohim",
       "marks": "Elohim"
     },
     {
       "surface": "כסלם",
-      "english": "confiança"
+      "gloss": "confiança"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "ישכחו",
-      "english": "se esquecessem"
+      "gloss": "se esquecessem"
     },
     {
       "surface": "מעללי",
-      "english": "⟨dos⟩ feitos",
+      "gloss": "⟨dos⟩ feitos",
       "marks": "feitos"
     },
     {
       "surface": "אל",
-      "english": "⟨de⟩ El"
+      "gloss": "⟨de⟩ El"
     },
     {
       "surface": "ומצותיו",
-      "english": "mas guardassem ⟨os seus⟩ mandamentos"
+      "gloss": "mas guardassem ⟨os seus⟩ mandamentos"
     },
     {
       "surface": "ינצרו",
-      "english": "mandamentos"
+      "gloss": "mandamentos"
     }
-  ],
-  "timestamp": "2026-06-13T06:39:48.133697550Z",
-  "model": "glm-4.5"
+  ]
 }

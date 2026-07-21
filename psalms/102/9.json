@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 102:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62880,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63270
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:46:05.789189968Z",
   "translation": "Todo ⟨o⟩ dia insultam-⟨me⟩ ⟨os⟩ meus inimigos; ⟨os⟩ que ⟨são⟩ furiosos contra mim juram por mim.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "היום",
-      "english": "⟨o⟩ dia"
+      "gloss": "⟨o⟩ dia"
     },
     {
       "surface": "חרפוני",
-      "english": "insultam-⟨me⟩"
+      "gloss": "insultam-⟨me⟩"
     },
     {
       "surface": "אויבי",
-      "english": "⟨os⟩ meus inimigos"
+      "gloss": "⟨os⟩ meus inimigos"
     },
     {
       "surface": "מהוללי",
-      "english": "⟨os⟩ que ⟨são⟩ furiosos"
+      "gloss": "⟨os⟩ que ⟨são⟩ furiosos"
     },
     {
       "surface": "בי",
-      "english": "contra mim"
+      "gloss": "contra mim"
     },
     {
       "surface": "נשבעו",
-      "english": "juram por mim"
+      "gloss": "juram por mim"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:46:05.789189968Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

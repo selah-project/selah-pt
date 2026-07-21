@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 55:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 55,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:15:39.144370064Z",
+  "translation": "ele ⟨é⟩ que estende suas mãos ⟨para⟩ ⟨os⟩ ⟨que estão⟩ em paz com ele; ele profana ⟨a sua⟩ Brit",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ele ⟨é⟩ que estende"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "suas mãos"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "⟨para⟩ ⟨os⟩ ⟨que estão⟩ em paz com ele"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "profana"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "⟨a sua⟩ Brit"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "aliança",
@@ -13,44 +40,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 55,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62773,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63291
-  },
-  "translation": "ele ⟨é⟩ que estende suas mãos ⟨para⟩ ⟨os⟩ ⟨que estão⟩ em paz com ele; ele profana ⟨a sua⟩ Brit",
-  "tokens": [
-    {
-      "surface": "שלח",
-      "english": "Ele ⟨é⟩ que estende"
-    },
-    {
-      "surface": "ידיו",
-      "english": "suas mãos"
-    },
-    {
-      "surface": "בשלמיו",
-      "english": "⟨para⟩ ⟨os⟩ ⟨que estão⟩ em paz com ele"
-    },
-    {
-      "surface": "חלל",
-      "english": "profana"
-    },
-    {
-      "surface": "בריתו",
-      "english": "⟨a sua⟩ Brit"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:15:39.144370064Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

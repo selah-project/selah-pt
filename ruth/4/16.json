@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "ruth 4:16",
   "book": "ruth",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 453,
-    "prompt_tokens": 28567,
-    "prompt_tokens_details": {
-      "cached_tokens": 27264
-    },
-    "total_tokens": 29020
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:54:30.173698884Z",
   "translation": "E Naomi tomou ⟨את⟩ o menino, e o pôs no ⟨seu⟩ colo, e lhe foi por ama.",
   "tokens": [
     {
       "surface": "ותקח",
-      "english": "E Naomi tomou"
+      "gloss": "E Naomi tomou"
     },
     {
       "surface": "נעמי",
-      "english": "Naomi"
+      "gloss": "Naomi"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o menino"
     },
     {
       "surface": "הילד",
-      "english": "o menino"
+      "gloss": "o menino"
     },
     {
       "surface": "ותשתהו",
-      "english": "e o pôs"
+      "gloss": "e o pôs"
     },
     {
       "surface": "בחיקה",
-      "english": "no ⟨seu⟩ colo"
+      "gloss": "no ⟨seu⟩ colo"
     },
     {
       "surface": "ותהי",
-      "english": "e lhe foi"
+      "gloss": "e lhe foi"
     },
     {
       "surface": "לו",
-      "english": "lhe"
+      "gloss": "lhe"
     },
     {
       "surface": "לאמנת",
-      "english": "por ama"
+      "gloss": "por ama"
     }
-  ],
-  "timestamp": "2026-07-16T17:54:30.173698884Z",
-  "model": "glm-4.5"
+  ]
 }

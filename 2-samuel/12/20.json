@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-samuel 12:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 12,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:53:38.056547630Z",
+  "translation": "Então Davidd se levantou da terra, e lavou-se, e ungiu ⟨seu⟩ corpo, e mudou ⟨sua⟩ vestimenta, e entrou na casa de YHWH, e adorou; depois entrou em ⟨sua⟩ casa, e pediu, e lhe puseram pão, e comeu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Então ... se levantou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "da terra"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "e lavou-se"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "e ungiu"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "e mudou"
+    },
+    {
+      "surface": "שמלתו",
+      "gloss": "⟨sua⟩ vestimenta"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e entrou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "e adorou"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "depois entrou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "em"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨sua⟩ casa"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "e pediu"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "e lhe puseram"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lhe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pão"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "e comeu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,100 +96,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 710,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18349,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 19059
-  },
-  "translation": "Então Davidd se levantou da terra, e lavou-se, e ungiu ⟨seu⟩ corpo, e mudou ⟨sua⟩ vestimenta, e entrou na casa de YHWH, e adorou; depois entrou em ⟨sua⟩ casa, e pediu, e lhe puseram pão, e comeu.",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "Então ... se levantou"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מהארץ",
-      "english": "da terra"
-    },
-    {
-      "surface": "וירחץ",
-      "english": "e lavou-se"
-    },
-    {
-      "surface": "ויסך",
-      "english": "e ungiu"
-    },
-    {
-      "surface": "ויחלף",
-      "english": "e mudou"
-    },
-    {
-      "surface": "שמלתו",
-      "english": "⟨sua⟩ vestimenta"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e entrou"
-    },
-    {
-      "surface": "בית",
-      "english": "na casa"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "וישתחו",
-      "english": "e adorou"
-    },
-    {
-      "surface": "ויבא",
-      "english": "depois entrou"
-    },
-    {
-      "surface": "אל",
-      "english": "em"
-    },
-    {
-      "surface": "ביתו",
-      "english": "⟨sua⟩ casa"
-    },
-    {
-      "surface": "וישאל",
-      "english": "e pediu"
-    },
-    {
-      "surface": "וישימו",
-      "english": "e lhe puseram"
-    },
-    {
-      "surface": "לו",
-      "english": "lhe"
-    },
-    {
-      "surface": "לחם",
-      "english": "pão"
-    },
-    {
-      "surface": "ויאכל",
-      "english": "e comeu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:53:38.056547630Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "judges 17:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 17,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:07:32.191139491Z",
+  "translation": "E ⟨houve⟩ um homem ⟨da⟩ montanha de Efráyim, e seu nome ⟨era⟩ Micaías",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E ⟨houve⟩",
+      "marks": null
+    },
+    {
+      "surface": "איש",
+      "gloss": "um homem",
+      "marks": null
+    },
+    {
+      "surface": "מהר",
+      "gloss": "⟨da⟩ montanha",
+      "marks": null
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim",
+      "marks": null
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "e seu nome ⟨era⟩",
+      "marks": null
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Micaías",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,54 +50,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 15988,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 16371
-  },
-  "translation": "E ⟨houve⟩ um homem ⟨da⟩ montanha de Efráyim, e seu nome ⟨era⟩ Micaías",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E ⟨houve⟩",
-      "marks": null
-    },
-    {
-      "surface": "איש",
-      "english": "um homem",
-      "marks": null
-    },
-    {
-      "surface": "מהר",
-      "english": "⟨da⟩ montanha",
-      "marks": null
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim",
-      "marks": null
-    },
-    {
-      "surface": "ושמו",
-      "english": "e seu nome ⟨era⟩",
-      "marks": null
-    },
-    {
-      "surface": "מיכיהו",
-      "english": "Micaías",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:07:32.191139491Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

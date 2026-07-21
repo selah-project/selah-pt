@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "ezekiel 3:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 3,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:00:56.493897694Z",
+  "translation": "E ⟨a⟩ casa de Yisrael não ⟨está⟩ disposta ⟨a⟩ ouvir-te, porque não ⟨estão⟩ dispostos ⟨a⟩ ouvir-me; porque toda ⟨a⟩ casa de Yisrael ⟨tem⟩ dura ⟨a⟩ fronte e obstinado ⟨é⟩ o coração.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "E ⟨a⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não ⟨está⟩"
+    },
+    {
+      "surface": "יאבו",
+      "gloss": "disposta ⟨a⟩"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ouvir"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨a⟩ ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "não ⟨estão⟩"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "dispostos ⟨a⟩"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ouvir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨a⟩ mim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "dura ⟨a⟩"
+    },
+    {
+      "surface": "מצח",
+      "gloss": "fronte"
+    },
+    {
+      "surface": "וקשי",
+      "gloss": "e obstinado"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨é⟩ o coração"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨é⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,104 +107,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18391,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18951
-  },
-  "translation": "E ⟨a⟩ casa de Yisrael não ⟨está⟩ disposta ⟨a⟩ ouvir-te, porque não ⟨estão⟩ dispostos ⟨a⟩ ouvir-me; porque toda ⟨a⟩ casa de Yisrael ⟨tem⟩ dura ⟨a⟩ fronte e obstinado ⟨é⟩ o coração.",
-  "tokens": [
-    {
-      "surface": "ובית",
-      "english": "E ⟨a⟩ casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לא",
-      "english": "não ⟨está⟩"
-    },
-    {
-      "surface": "יאבו",
-      "english": "disposta ⟨a⟩"
-    },
-    {
-      "surface": "לשמע",
-      "english": "ouvir"
-    },
-    {
-      "surface": "אליך",
-      "english": "⟨a⟩ ti"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "אינם",
-      "english": "não ⟨estão⟩"
-    },
-    {
-      "surface": "אבים",
-      "english": "dispostos ⟨a⟩"
-    },
-    {
-      "surface": "לשמע",
-      "english": "ouvir"
-    },
-    {
-      "surface": "אלי",
-      "english": "⟨a⟩ mim"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "חזקי",
-      "english": "dura ⟨a⟩"
-    },
-    {
-      "surface": "מצח",
-      "english": "fronte"
-    },
-    {
-      "surface": "וקשי",
-      "english": "e obstinado"
-    },
-    {
-      "surface": "לב",
-      "english": "⟨é⟩ o coração"
-    },
-    {
-      "surface": "המה",
-      "english": "⟨é⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:00:56.493897694Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

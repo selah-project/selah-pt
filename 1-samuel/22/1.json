@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-samuel 22:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 22,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:34:11.062996223Z",
+  "translation": "E Davidd partiu dali e escapou para a caverna de Adulão; e seus irmãos e toda a casa de seu pai ouviram ⟨isso⟩, e desceram a ele para lá.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "E partiu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dali"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "e escapou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "caverna de"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulão"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "e ouviram"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seus irmãos"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e toda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa de"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "e desceram"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "para lá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,84 +80,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17038,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 17406
-  },
-  "translation": "E Davidd partiu dali e escapou para a caverna de Adulão; e seus irmãos e toda a casa de seu pai ouviram ⟨isso⟩, e desceram a ele para lá.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "E partiu"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "משם",
-      "english": "dali"
-    },
-    {
-      "surface": "וימלט",
-      "english": "e escapou"
-    },
-    {
-      "surface": "אל",
-      "english": "para"
-    },
-    {
-      "surface": "מערת",
-      "english": "caverna de"
-    },
-    {
-      "surface": "עדלם",
-      "english": "Adulão"
-    },
-    {
-      "surface": "וישמעו",
-      "english": "e ouviram"
-    },
-    {
-      "surface": "אחיו",
-      "english": "seus irmãos"
-    },
-    {
-      "surface": "וכל",
-      "english": "e toda"
-    },
-    {
-      "surface": "בית",
-      "english": "casa de"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    },
-    {
-      "surface": "וירדו",
-      "english": "e desceram"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ele"
-    },
-    {
-      "surface": "שמה",
-      "english": "para lá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:34:11.062996223Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

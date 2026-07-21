@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 140:14",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 451,
-    "prompt_tokens": 70327,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70778
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:29.722213990Z",
   "translation": "Mas os justos darão graças ao teu nome; ⟨os⟩ retos habitarão ⟨את⟩ a tua presença.",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Mas"
+      "gloss": "Mas"
     },
     {
       "surface": "צדיקים",
-      "english": "os justos"
+      "gloss": "os justos"
     },
     {
       "surface": "יודו",
-      "english": "darão graças"
+      "gloss": "darão graças"
     },
     {
       "surface": "לשמך",
-      "english": "ao teu nome"
+      "gloss": "ao teu nome"
     },
     {
       "surface": "ישבו",
-      "english": "habitarão"
+      "gloss": "habitarão"
     },
     {
       "surface": "ישרים",
-      "english": "⟨os⟩ retos"
+      "gloss": "⟨os⟩ retos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a tua presença"
     },
     {
       "surface": "פניך",
-      "english": "a tua presença"
+      "gloss": "a tua presença"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:29.722213990Z",
-  "model": "glm-4.5"
+  ]
 }

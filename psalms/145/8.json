@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 145:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62864,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63427
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:14:45.219336916Z",
   "translation": "Gracioso e misericordioso ⟨is⟩ YHWH, ⟨o⟩ de ⟨long⟩ narinas e grande em ⟨hesed⟩",
   "tokens": [
     {
       "surface": "חנון",
-      "english": "Gracioso"
+      "gloss": "Gracioso"
     },
     {
       "surface": "ורחום",
-      "english": "e misericordioso"
+      "gloss": "e misericordioso"
     },
     {
       "surface": "י�הוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ארך",
-      "english": "⟨o⟩ de ⟨long⟩",
+      "gloss": "⟨o⟩ de ⟨long⟩",
       "marks": "narinas"
     },
     {
       "surface": "אפים",
-      "english": "narinas",
+      "gloss": "narinas",
       "rationale": "literalmente 'narinas'; idiomático para ira\/paciência no Tanaj"
     },
     {
       "surface": "וגדל",
-      "english": "e grande"
+      "gloss": "e grande"
     },
     {
       "surface": "חסד",
-      "english": "⟨hesed⟩"
+      "gloss": "⟨hesed⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:14:45.219336916Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

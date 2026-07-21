@@ -1,64 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 6:10",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 424,
-    "prompt_tokens": 29029,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29453
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:40:56.110928909Z",
   "translation": "E Noaj gerou três filhos, ⟨את⟩ Shem, ⟨את⟩ Jam e ⟨את⟩ Yéfet.",
   "tokens": [
     {
       "surface": "ויולד",
-      "english": "E Noaj gerou"
+      "gloss": "E Noaj gerou"
     },
     {
       "surface": "נח",
-      "english": "Noaj"
+      "gloss": "Noaj"
     },
     {
       "surface": "שלשה",
-      "english": "três"
+      "gloss": "três"
     },
     {
       "surface": "בנים",
-      "english": "filhos"
+      "gloss": "filhos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Shem"
     },
     {
       "surface": "שם",
-      "english": "Shem"
+      "gloss": "Shem"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Jam"
     },
     {
       "surface": "חם",
-      "english": "Jam"
+      "gloss": "Jam"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Yéfet"
     },
     {
       "surface": "יפת",
-      "english": "Yéfet"
+      "gloss": "Yéfet"
     }
-  ],
-  "timestamp": "2026-07-16T14:40:56.110928909Z",
-  "model": "glm-4.5"
+  ]
 }

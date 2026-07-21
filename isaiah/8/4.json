@@ -1,91 +1,83 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 8:4",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 700,
-    "prompt_tokens": 27429,
-    "prompt_tokens_details": {
-      "cached_tokens": 25344
-    },
-    "total_tokens": 28129
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:10:44.311728618Z",
   "translation": "Porque antes ⟨que⟩ o menino saiba chamar: meu pai e minha mãe, ⟨será⟩ levada ⟨את⟩ ⟨as riquezas⟩ de Damasco e ⟨את⟩ ⟨o espólio⟩ de Samaria diante do rei da Assíria.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "בטרם",
-      "english": "antes ⟨que⟩"
+      "gloss": "antes ⟨que⟩"
     },
     {
       "surface": "ידע",
-      "english": "saiba"
+      "gloss": "saiba"
     },
     {
       "surface": "הנער",
-      "english": "o menino"
+      "gloss": "o menino"
     },
     {
       "surface": "קרא",
-      "english": "chamar"
+      "gloss": "chamar"
     },
     {
       "surface": "אבי",
-      "english": "meu pai"
+      "gloss": "meu pai"
     },
     {
       "surface": "ואמי",
-      "english": "e minha mãe"
+      "gloss": "e minha mãe"
     },
     {
       "surface": "ישא",
-      "english": "⟨será⟩ levada"
+      "gloss": "⟨será⟩ levada"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "as riquezas"
     },
     {
       "surface": "חיל",
-      "english": "⟨as riquezas⟩"
+      "gloss": "⟨as riquezas⟩"
     },
     {
       "surface": "דמשק",
-      "english": "de Damasco"
+      "gloss": "de Damasco"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o espólio"
     },
     {
       "surface": "שלל",
-      "english": "⟨o espólio⟩"
+      "gloss": "⟨o espólio⟩"
     },
     {
       "surface": "שמרון",
-      "english": "de Samaria"
+      "gloss": "de Samaria"
     },
     {
       "surface": "לפני",
-      "english": "diante"
+      "gloss": "diante"
     },
     {
       "surface": "מלך",
-      "english": "do rei"
+      "gloss": "do rei"
     },
     {
       "surface": "אשור",
-      "english": "da Assíria"
+      "gloss": "da Assíria"
     }
-  ],
-  "timestamp": "2026-07-16T15:10:44.311728618Z",
-  "model": "glm-4.5"
+  ]
 }

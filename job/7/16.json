@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 7:16",
   "book": "job",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27531,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 27952
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:44:30.813944106Z",
   "translation": "⟨I⟩ have spurned ⟨it⟩, ⟨I⟩ shall not live ⟨forever⟩; cease from me, for my days ⟨are⟩ vanity.",
   "tokens": [
     {
       "surface": "מאסתי",
-      "english": "⟨I⟩ have spurned ⟨it⟩"
+      "gloss": "⟨I⟩ have spurned ⟨it⟩"
     },
     {
       "surface": "לא",
-      "english": "not"
+      "gloss": "not"
     },
     {
       "surface": "לעלם",
-      "english": "⟨forever⟩"
+      "gloss": "⟨forever⟩"
     },
     {
       "surface": "אחיה",
-      "english": "⟨I⟩ shall live"
+      "gloss": "⟨I⟩ shall live"
     },
     {
       "surface": "חדל",
-      "english": "cease"
+      "gloss": "cease"
     },
     {
       "surface": "ממני",
-      "english": "from me"
+      "gloss": "from me"
     },
     {
       "surface": "כי",
-      "english": "for"
+      "gloss": "for"
     },
     {
       "surface": "הבל",
-      "english": "vanity"
+      "gloss": "vanity"
     },
     {
       "surface": "ימי",
-      "english": "my days"
+      "gloss": "my days"
     }
-  ],
-  "timestamp": "2026-06-13T06:44:30.813944106Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-samuel 15:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 15,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:25:58.642402732Z",
+  "translation": "E Shaul veio até ⟨a⟩ cidade de Amalek, e emboscou ⟨no⟩ wadi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E veio"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cidade"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "de Amalek"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "e emboscou"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "no wadi"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amaleque",
@@ -13,52 +48,6 @@
       "hebrew": "עמלק"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16356,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 16717
-  },
-  "translation": "E Shaul veio até ⟨a⟩ cidade de Amalek, e emboscou ⟨no⟩ wadi.",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E veio"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "עיר",
-      "english": "cidade"
-    },
-    {
-      "surface": "עמלק",
-      "english": "de Amalek"
-    },
-    {
-      "surface": "וירב",
-      "english": "e emboscou"
-    },
-    {
-      "surface": "בנחל",
-      "english": "no wadi"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:25:58.642402732Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

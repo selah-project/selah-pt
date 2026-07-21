@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "ecclesiastes 12:2",
   "book": "ecclesiastes",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25164,
-    "prompt_tokens_details": {
-      "cached_tokens": 23707
-    },
-    "total_tokens": 25707
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:50:15.258274706Z",
   "translation": "até que não ⟨seja⟩ escurecido ⟨o⟩ sol e ⟨a⟩ luz e ⟨a⟩ lua e ⟨as⟩ estrelas, e voltem ⟨as⟩ nuvens depois da chuva",
   "tokens": [
     {
       "surface": "עד",
-      "english": "até que"
+      "gloss": "até que"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תחשך",
-      "english": "⟨seja⟩ escurecido"
+      "gloss": "⟨seja⟩ escurecido"
     },
     {
       "surface": "השמש",
-      "english": "⟨o⟩ sol"
+      "gloss": "⟨o⟩ sol"
     },
     {
       "surface": "והאור",
-      "english": "e ⟨a⟩ luz"
+      "gloss": "e ⟨a⟩ luz"
     },
     {
       "surface": "והירח",
-      "english": "e ⟨a⟩ lua"
+      "gloss": "e ⟨a⟩ lua"
     },
     {
       "surface": "והכוכבים",
-      "english": "e ⟨as⟩ estrelas"
+      "gloss": "e ⟨as⟩ estrelas"
     },
     {
       "surface": "ושבו",
-      "english": "e voltem"
+      "gloss": "e voltem"
     },
     {
       "surface": "העבים",
-      "english": "⟨as⟩ nuvens"
+      "gloss": "⟨as⟩ nuvens"
     },
     {
       "surface": "אחר",
-      "english": "depois"
+      "gloss": "depois"
     },
     {
       "surface": "הגשם",
-      "english": "da chuva"
+      "gloss": "da chuva"
     }
-  ],
-  "timestamp": "2026-06-13T06:50:15.258274706Z",
-  "model": "glm-4.5"
+  ]
 }

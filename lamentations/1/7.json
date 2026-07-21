@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "lamentations 1:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "lamentations",
+  "chapter": 1,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:24:15.467363821Z",
+  "translation": "Yerushalayim lembrou os dias de sua aflição e de seu luto, e todas as suas coisas desejáveis que ela tinha desde os dias de antigamente, no cair de seu povo ⟨em⟩ mão de adversário, e não havia ⟨um⟩ ajudador para ela. ⟨Os⟩ adversários viram-na, zombaram de seu ⟨fim⟩.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "Lembrou"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "os dias"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "de sua aflição"
+    },
+    {
+      "surface": "ומרודיה",
+      "gloss": "e de seu luto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todas as"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "coisas desejáveis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ela tinha"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "desde os dias"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "de antigamente"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "no cair"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "de seu povo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨em⟩ mão",
+      "marks": "de adversário"
+    },
+    {
+      "surface": "צר",
+      "gloss": "adversário"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e não havia"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "⟨um⟩ ajudador",
+      "marks": "para ela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "para ela"
+    },
+    {
+      "surface": "ראוה",
+      "gloss": "⟨Os⟩ adversários viram-na",
+      "marks": "Os adversários"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "adversários"
+    },
+    {
+      "surface": "שחקו",
+      "gloss": "zombaram"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "משבתה",
+      "gloss": "seu ⟨fim⟩",
+      "marks": "seu fim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,120 +116,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 865,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33660,
-    "prompt_tokens_details": {
-      "cached_tokens": 31099
-    },
-    "total_tokens": 34525
-  },
-  "translation": "Yerushalayim lembrou os dias de sua aflição e de seu luto, e todas as suas coisas desejáveis que ela tinha desde os dias de antigamente, no cair de seu povo ⟨em⟩ mão de adversário, e não havia ⟨um⟩ ajudador para ela. ⟨Os⟩ adversários viram-na, zombaram de seu ⟨fim⟩.",
-  "tokens": [
-    {
-      "surface": "זכרה",
-      "english": "Lembrou"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "ימי",
-      "english": "os dias"
-    },
-    {
-      "surface": "עניה",
-      "english": "de sua aflição"
-    },
-    {
-      "surface": "ומרודיה",
-      "english": "e de seu luto"
-    },
-    {
-      "surface": "כל",
-      "english": "todas as"
-    },
-    {
-      "surface": "מחמדיה",
-      "english": "coisas desejáveis"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "היו",
-      "english": "ela tinha"
-    },
-    {
-      "surface": "מימי",
-      "english": "desde os dias"
-    },
-    {
-      "surface": "קדם",
-      "english": "de antigamente"
-    },
-    {
-      "surface": "בנפל",
-      "english": "no cair"
-    },
-    {
-      "surface": "עמה",
-      "english": "de seu povo"
-    },
-    {
-      "surface": "ביד",
-      "english": "⟨em⟩ mão",
-      "marks": "de adversário"
-    },
-    {
-      "surface": "צר",
-      "english": "adversário"
-    },
-    {
-      "surface": "ואין",
-      "english": "e não havia"
-    },
-    {
-      "surface": "עוזר",
-      "english": "⟨um⟩ ajudador",
-      "marks": "para ela"
-    },
-    {
-      "surface": "לה",
-      "english": "para ela"
-    },
-    {
-      "surface": "ראוה",
-      "english": "⟨Os⟩ adversários viram-na",
-      "marks": "Os adversários"
-    },
-    {
-      "surface": "צרים",
-      "english": "adversários"
-    },
-    {
-      "surface": "שחקו",
-      "english": "zombaram"
-    },
-    {
-      "surface": "על",
-      "english": "de"
-    },
-    {
-      "surface": "משבתה",
-      "english": "seu ⟨fim⟩",
-      "marks": "seu fim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:24:15.467363821Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

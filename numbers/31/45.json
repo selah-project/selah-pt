@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "numbers 31:45",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 168,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24998,
-    "prompt_tokens_details": {
-      "cached_tokens": 24321
-    },
-    "total_tokens": 25166
-  },
+  "verse": 45,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:33:40.493222472Z",
   "translation": "e trinta mil e quinhentos jumentos",
   "tokens": [
     {
       "surface": "וחמרים",
-      "english": "e trinta mil e quinhentos jumentos"
+      "gloss": "e trinta mil e quinhentos jumentos"
     },
     {
       "surface": "שלשים",
-      "english": "trinta mil"
+      "gloss": "trinta mil"
     },
     {
       "surface": "אלף",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "וחמש",
-      "english": "e quinhentos"
+      "gloss": "e quinhentos"
     },
     {
       "surface": "מאות",
-      "english": "quinhentos"
+      "gloss": "quinhentos"
     }
-  ],
-  "timestamp": "2026-06-13T05:33:40.493222472Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 77:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62891,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63420
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:30:11.215272099Z",
   "translation": "Is ⟨the⟩ kindness of Adonai clean gone ⟨for⟩ ever? ⟨and⟩ ⟨is⟩ ⟨the⟩ saying failed ⟨to⟩ all generations?",
   "tokens": [
     {
       "surface": "הלעולמים",
-      "english": "Is ⟨the⟩ kindness of Adonai clean gone ⟨for⟩ ever?"
+      "gloss": "Is ⟨the⟩ kindness of Adonai clean gone ⟨for⟩ ever?"
     },
     {
       "surface": "יזנח",
-      "english": "clean gone"
+      "gloss": "clean gone"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "ולא",
-      "english": "⟨and⟩ ⟨is⟩"
+      "gloss": "⟨and⟩ ⟨is⟩"
     },
     {
       "surface": "יסיף",
-      "english": "failed"
+      "gloss": "failed"
     },
     {
       "surface": "לרצות",
-      "english": "⟨the⟩ saying ⟨to⟩"
+      "gloss": "⟨the⟩ saying ⟨to⟩"
     },
     {
       "surface": "עוד",
-      "english": "all generations?"
+      "gloss": "all generations?"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:30:11.215272099Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

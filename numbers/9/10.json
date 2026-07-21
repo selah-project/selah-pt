@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 9:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 9,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:19:30.060072761Z",
+  "translation": "Fala aos filhos ⟨de⟩ Yisrael, dizendo: Homem ⟨que⟩ homem, quando ⟨estiver⟩ impuro ⟨por⟩ ⟨a⟩ alma, ou ⟨em⟩ ⟨um⟩ caminho ⟨distante⟩ ⟨de⟩ vós, ou ⟨para⟩ ⟨as⟩ vossas gerações, ainda fará ⟨o⟩ Pésaj ⟨para⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Fala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Homem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨estiver⟩"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "impuro"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "⟨por⟩ ⟨a⟩ alma"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨em⟩ ⟨um⟩ caminho"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "⟨distante⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨de⟩ vós"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "⟨para⟩ ⟨as⟩ vossas gerações"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ainda fará"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "⟨o⟩ Pésaj"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨para⟩ YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,104 +100,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 1125,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19123,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 20248
-  },
-  "translation": "Fala aos filhos ⟨de⟩ Yisrael, dizendo: Homem ⟨que⟩ homem, quando ⟨estiver⟩ impuro ⟨por⟩ ⟨a⟩ alma, ou ⟨em⟩ ⟨um⟩ caminho ⟨distante⟩ ⟨de⟩ vós, ou ⟨para⟩ ⟨as⟩ vossas gerações, ainda fará ⟨o⟩ Pésaj ⟨para⟩ YHWH.",
-  "tokens": [
-    {
-      "surface": "דבר",
-      "english": "Fala"
-    },
-    {
-      "surface": "אל",
-      "english": "aos"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "איש",
-      "english": "Homem"
-    },
-    {
-      "surface": "איש",
-      "english": "homem"
-    },
-    {
-      "surface": "כי",
-      "english": "quando"
-    },
-    {
-      "surface": "יהיה",
-      "english": "⟨estiver⟩"
-    },
-    {
-      "surface": "טמא",
-      "english": "impuro"
-    },
-    {
-      "surface": "לנפש",
-      "english": "⟨por⟩ ⟨a⟩ alma"
-    },
-    {
-      "surface": "או",
-      "english": "ou"
-    },
-    {
-      "surface": "בדרך",
-      "english": "⟨em⟩ ⟨um⟩ caminho"
-    },
-    {
-      "surface": "רחקה",
-      "english": "⟨distante⟩"
-    },
-    {
-      "surface": "לכם",
-      "english": "⟨de⟩ vós"
-    },
-    {
-      "surface": "או",
-      "english": "ou"
-    },
-    {
-      "surface": "לדרתיכם",
-      "english": "⟨para⟩ ⟨as⟩ vossas gerações"
-    },
-    {
-      "surface": "ועשה",
-      "english": "ainda fará"
-    },
-    {
-      "surface": "פסח",
-      "english": "⟨o⟩ Pésaj"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "⟨para⟩ YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:19:30.060072761Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

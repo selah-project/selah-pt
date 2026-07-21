@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 105:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62819,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63181
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:49:08.611180910Z",
   "translation": "Ele é ⟨o⟩ YHWH nosso Elohim ⟨em⟩ toda ⟨a⟩ terra ⟨são⟩ seus juízos",
   "tokens": [
     {
       "surface": "הוא",
-      "english": "Ele"
+      "gloss": "Ele"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהינו",
-      "english": "nosso Elohim"
+      "gloss": "nosso Elohim"
     },
     {
       "surface": "בכל",
-      "english": "⟨em⟩ toda"
+      "gloss": "⟨em⟩ toda"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "משפטיו",
-      "english": "⟨são⟩ seus juízos"
+      "gloss": "⟨são⟩ seus juízos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:49:08.611180910Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

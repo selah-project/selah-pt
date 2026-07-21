@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "2-kings 6:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 6,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:51:32.400723562Z",
+  "translation": "E preparou para eles uma grande ⟨festa⟩ e comeram e beberam, e os enviou, e foram para ⟨seu⟩ senhor; e ⟨os⟩ destacamentos de Aram não voltaram mais a vir à terra de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכרה",
+      "gloss": "E preparou"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para eles"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "uma ⟨festa⟩"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "e comeram"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "e beberam"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "e os enviou"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e foram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "⟨seu⟩ senhor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ⟨os⟩"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "não voltaram"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mais"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "destacamentos"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "de Aram"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "a vir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "à terra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,96 +92,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 612,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17828,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18440
-  },
-  "translation": "E preparou para eles uma grande ⟨festa⟩ e comeram e beberam, e os enviou, e foram para ⟨seu⟩ senhor; e ⟨os⟩ destacamentos de Aram não voltaram mais a vir à terra de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויכרה",
-      "english": "E preparou"
-    },
-    {
-      "surface": "להם",
-      "english": "para eles"
-    },
-    {
-      "surface": "כרה",
-      "english": "uma ⟨festa⟩"
-    },
-    {
-      "surface": "גדולה",
-      "english": "grande"
-    },
-    {
-      "surface": "ויאכלו",
-      "english": "e comeram"
-    },
-    {
-      "surface": "וישתו",
-      "english": "e beberam"
-    },
-    {
-      "surface": "וישלחם",
-      "english": "e os enviou"
-    },
-    {
-      "surface": "וילכו",
-      "english": "e foram"
-    },
-    {
-      "surface": "אל",
-      "english": "para"
-    },
-    {
-      "surface": "אדניהם",
-      "english": "⟨seu⟩ senhor"
-    },
-    {
-      "surface": "ולא",
-      "english": "e ⟨os⟩"
-    },
-    {
-      "surface": "יספו",
-      "english": "não voltaram"
-    },
-    {
-      "surface": "עוד",
-      "english": "mais"
-    },
-    {
-      "surface": "גדודי",
-      "english": "destacamentos"
-    },
-    {
-      "surface": "ארם",
-      "english": "de Aram"
-    },
-    {
-      "surface": "לבוא",
-      "english": "a vir"
-    },
-    {
-      "surface": "בארץ",
-      "english": "à terra"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:51:32.400723562Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

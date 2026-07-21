@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "jeremiah 19:10",
   "book": "jeremiah",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 394,
-    "prompt_tokens": 24831,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25225
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:29:59.650654993Z",
   "translation": "E quebrarás o cântaro diante dos olhos dos homens que vão contigo",
   "tokens": [
     {
       "surface": "ושברת",
-      "english": "E quebrarás"
+      "gloss": "E quebrarás"
     },
     {
       "surface": "הבקבק",
-      "english": "o cântaro"
+      "gloss": "o cântaro"
     },
     {
       "surface": "לעיני",
-      "english": "diante dos olhos"
+      "gloss": "diante dos olhos"
     },
     {
       "surface": "האנשים",
-      "english": "dos homens"
+      "gloss": "dos homens"
     },
     {
       "surface": "ההלכים",
-      "english": "que vão"
+      "gloss": "que vão"
     },
     {
       "surface": "אותך",
-      "english": "contigo",
+      "gloss": "contigo",
       "marks": "dos homens"
     }
-  ],
-  "timestamp": "2026-07-16T15:29:59.650654993Z",
-  "model": "glm-4.5"
+  ]
 }

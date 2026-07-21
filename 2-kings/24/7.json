@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "2-kings 24:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 24,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:11:21.404245774Z",
+  "translation": "E o rei do Mitzráyim ⟨não⟩ continuou ⟨a⟩ sair ⟨da⟩ sua terra, porque o rei de Bavel tomou ⟨do⟩ ribeiro do Mitzráyim até ⟨ao⟩ rio Eufrates ⟨o⟩ que pertencia ao rei do Mitzráyim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "E ⟨não⟩"
+    },
+    {
+      "surface": "הסיף",
+      "gloss": "continuou"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "sair"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "⟨da⟩ sua terra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tomou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "⟨do⟩ ribeiro"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até ⟨ao⟩"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "rio"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Eufrates"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "pertencia"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ao rei"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -34,108 +125,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 756,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18024,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18780
-  },
-  "translation": "E o rei do Mitzráyim ⟨não⟩ continuou ⟨a⟩ sair ⟨da⟩ sua terra, porque o rei de Bavel tomou ⟨do⟩ ribeiro do Mitzráyim até ⟨ao⟩ rio Eufrates ⟨o⟩ que pertencia ao rei do Mitzráyim.",
-  "tokens": [
-    {
-      "surface": "ולא",
-      "english": "E ⟨não⟩"
-    },
-    {
-      "surface": "הסיף",
-      "english": "continuou"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "לצאת",
-      "english": "sair"
-    },
-    {
-      "surface": "מארצו",
-      "english": "⟨da⟩ sua terra"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "לקח",
-      "english": "tomou"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "מנחל",
-      "english": "⟨do⟩ ribeiro"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "עד",
-      "english": "até ⟨ao⟩"
-    },
-    {
-      "surface": "נהר",
-      "english": "rio"
-    },
-    {
-      "surface": "פרת",
-      "english": "Eufrates"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "היתה",
-      "english": "pertencia"
-    },
-    {
-      "surface": "למלך",
-      "english": "ao rei"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:11:21.404245774Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

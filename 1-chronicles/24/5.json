@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-chronicles 24:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 24,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:59:37.508323876Z",
+  "translation": "E eles os dividiram ⟨por⟩ sortes, estes ⟨junto⟩ com estes, porque ⟨eram⟩ príncipes da santidade e príncipes de ⟨o⟩ Elohim ⟨de entre os⟩ filhos de Elazar e ⟨de entre os⟩ filhos de Itamar.",
+  "tokens": [
+    {
+      "surface": "ויחלקום",
+      "gloss": "E eles os dividiram"
+    },
+    {
+      "surface": "בגורלות",
+      "gloss": "⟨por⟩ sortes"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨junto⟩ com"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨eram⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "príncipes"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "da santidade"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e príncipes"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de ⟨o⟩ Elohim"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "⟨de entre os⟩ filhos"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "de Elazar"
+    },
+    {
+      "surface": "ובבני",
+      "gloss": "e ⟨de entre os⟩ filhos"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "de Itamar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Eleazar",
@@ -13,84 +80,6 @@
       "hebrew": "אלעזר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 1066,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57850,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58916
-  },
-  "translation": "E eles os dividiram ⟨por⟩ sortes, estes ⟨junto⟩ com estes, porque ⟨eram⟩ príncipes da santidade e príncipes de ⟨o⟩ Elohim ⟨de entre os⟩ filhos de Elazar e ⟨de entre os⟩ filhos de Itamar.",
-  "tokens": [
-    {
-      "surface": "ויחלקום",
-      "english": "E eles os dividiram"
-    },
-    {
-      "surface": "בגורלות",
-      "english": "⟨por⟩ sortes"
-    },
-    {
-      "surface": "אלה",
-      "english": "estes"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨junto⟩ com"
-    },
-    {
-      "surface": "אלה",
-      "english": "estes"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "היו",
-      "english": "⟨eram⟩"
-    },
-    {
-      "surface": "שרי",
-      "english": "príncipes"
-    },
-    {
-      "surface": "קדש",
-      "english": "da santidade"
-    },
-    {
-      "surface": "ושרי",
-      "english": "e príncipes"
-    },
-    {
-      "surface": "האלהים",
-      "english": "de ⟨o⟩ Elohim"
-    },
-    {
-      "surface": "מבני",
-      "english": "⟨de entre os⟩ filhos"
-    },
-    {
-      "surface": "אלעזר",
-      "english": "de Elazar"
-    },
-    {
-      "surface": "ובבני",
-      "english": "e ⟨de entre os⟩ filhos"
-    },
-    {
-      "surface": "איתמר",
-      "english": "de Itamar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:59:37.508323876Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

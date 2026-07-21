@@ -1,9 +1,101 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "2-samuel 3:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 3,
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:45:51.467308557Z",
+  "translation": "E Davidd disse a Joab e a todo ⟨o⟩ povo que ⟨estava⟩ ⟨com⟩ ele: 'Rasgai ⟨os⟩ vossos vestidos e cingi ⟨vós com⟩ sacos, e pranteai diante de Abner.' E o rei Davidd ⟨foi⟩ ⟨atrás⟩ ⟨do⟩ esquife.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "o povo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨com⟩",
+      "marks": "ele"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "Rasgai"
+    },
+    {
+      "surface": "בגדיכם",
+      "gloss": "⟨os⟩ vossos vestidos"
+    },
+    {
+      "surface": "וחגרו",
+      "gloss": "e cingi ⟨vós com⟩"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "sacos"
+    },
+    {
+      "surface": "וספדו",
+      "gloss": "e pranteai"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante de"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "E o rei"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨foi⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨atrás⟩"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "⟨do⟩ esquife"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,109 +112,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 805,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18410,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 19215
-  },
-  "translation": "E Davidd disse a Joab e a todo ⟨o⟩ povo que ⟨estava⟩ ⟨com⟩ ele: 'Rasgai ⟨os⟩ vossos vestidos e cingi ⟨vós com⟩ sacos, e pranteai diante de Abner.' E o rei Davidd ⟨foi⟩ ⟨atrás⟩ ⟨do⟩ esquife.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יואב",
-      "english": "Joab"
-    },
-    {
-      "surface": "ואל",
-      "english": "e a"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "העם",
-      "english": "o povo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨com⟩",
-      "marks": "ele"
-    },
-    {
-      "surface": "קרעו",
-      "english": "Rasgai"
-    },
-    {
-      "surface": "בגדיכם",
-      "english": "⟨os⟩ vossos vestidos"
-    },
-    {
-      "surface": "וחגרו",
-      "english": "e cingi ⟨vós com⟩"
-    },
-    {
-      "surface": "שקים",
-      "english": "sacos"
-    },
-    {
-      "surface": "וספדו",
-      "english": "e pranteai"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante de"
-    },
-    {
-      "surface": "אבנר",
-      "english": "Abner"
-    },
-    {
-      "surface": "והמלך",
-      "english": "E o rei"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "הלך",
-      "english": "⟨foi⟩"
-    },
-    {
-      "surface": "אחרי",
-      "english": "⟨atrás⟩"
-    },
-    {
-      "surface": "המטה",
-      "english": "⟨do⟩ esquife"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:45:51.467308557Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

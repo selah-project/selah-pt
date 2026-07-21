@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 23:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 23,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:30:08.701664359Z",
+  "translation": "Quem planejou isto sobre Tzor, ⟨a⟩ coroadora, cujos comerciantes ⟨são⟩ príncipes, cujos traficantes ⟨são⟩ ⟨os⟩ nobres ⟨da⟩ terra?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Quem"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "planejou"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "isto"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzor"
+    },
+    {
+      "surface": "המעטירה",
+      "gloss": "⟨a⟩ coroadora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cujos"
+    },
+    {
+      "surface": "סחריה",
+      "gloss": "comerciantes"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "príncipes"
+    },
+    {
+      "surface": "כנעניה",
+      "gloss": "traficantes"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "nobres"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Tiro",
@@ -13,72 +68,6 @@
       "hebrew": "צור"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 597,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19464,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20061
-  },
-  "translation": "Quem planejou isto sobre Tzor, ⟨a⟩ coroadora, cujos comerciantes ⟨são⟩ príncipes, cujos traficantes ⟨são⟩ ⟨os⟩ nobres ⟨da⟩ terra?",
-  "tokens": [
-    {
-      "surface": "מי",
-      "english": "Quem"
-    },
-    {
-      "surface": "יעץ",
-      "english": "planejou"
-    },
-    {
-      "surface": "זאת",
-      "english": "isto"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "צר",
-      "english": "Tzor"
-    },
-    {
-      "surface": "המעטירה",
-      "english": "⟨a⟩ coroadora"
-    },
-    {
-      "surface": "אשר",
-      "english": "cujos"
-    },
-    {
-      "surface": "סחריה",
-      "english": "comerciantes"
-    },
-    {
-      "surface": "שרים",
-      "english": "príncipes"
-    },
-    {
-      "surface": "כנעניה",
-      "english": "traficantes"
-    },
-    {
-      "surface": "נכבדי",
-      "english": "nobres"
-    },
-    {
-      "surface": "ארץ",
-      "english": "terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:30:08.701664359Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

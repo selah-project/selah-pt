@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "leviticus 6:22",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 465,
-    "prompt_tokens": 25075,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25540
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:38:05.935527870Z",
   "translation": "Todo macho entre os kohanim comerá ⟨את⟩; qódesh qodashim ⟨ela é⟩.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "זכר",
-      "english": "macho"
+      "gloss": "macho"
     },
     {
       "surface": "בכהנים",
-      "english": "entre os kohanim"
+      "gloss": "entre os kohanim"
     },
     {
       "surface": "יאכל",
-      "english": "comerá"
+      "gloss": "comerá"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "qódesh"
     },
     {
       "surface": "קדש",
-      "english": "qódesh"
+      "gloss": "qódesh"
     },
     {
       "surface": "קדשים",
-      "english": "qodashim"
+      "gloss": "qodashim"
     },
     {
       "surface": "הוא",
-      "english": "⟨ela é⟩"
+      "gloss": "⟨ela é⟩"
     }
-  ],
-  "timestamp": "2026-07-16T16:38:05.935527870Z",
-  "model": "glm-4.5"
+  ]
 }

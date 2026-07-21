@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-chronicles 18:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 18,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:53:25.875990171Z",
+  "translation": "E os arameus de Damesek vieram para ajudar ⟨o⟩ Hadadezer, rei de Zobá, e Davidd feriu ⟨entre⟩ os arameus vinte e dois mil homens.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E ... vieram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "os arameus"
+    },
+    {
+      "surface": "דרמשק",
+      "gloss": "de Damesek"
+    },
+    {
+      "surface": "לעזור",
+      "gloss": "para ajudar"
+    },
+    {
+      "surface": "להדדעזר",
+      "gloss": "⟨o⟩ Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "de Zobá"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e David feriu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "⟨entre⟩ os arameus"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vinte"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "e dois"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homens"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Damasco",
@@ -20,80 +83,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57656,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58127
-  },
-  "translation": "E os arameus de Damesek vieram para ajudar ⟨o⟩ Hadadezer, rei de Zobá, e Davidd feriu ⟨entre⟩ os arameus vinte e dois mil homens.",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E ... vieram"
-    },
-    {
-      "surface": "ארם",
-      "english": "os arameus"
-    },
-    {
-      "surface": "דרמשק",
-      "english": "de Damesek"
-    },
-    {
-      "surface": "לעזור",
-      "english": "para ajudar"
-    },
-    {
-      "surface": "להדדעזר",
-      "english": "⟨o⟩ Hadadezer"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "צובה",
-      "english": "de Zobá"
-    },
-    {
-      "surface": "ויך",
-      "english": "e David feriu"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בארם",
-      "english": "⟨entre⟩ os arameus"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vinte"
-    },
-    {
-      "surface": "ושנים",
-      "english": "e dois"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil"
-    },
-    {
-      "surface": "איש",
-      "english": "homens"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:53:25.875990171Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 87:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 87,
-  "usage": {
-    "completion_tokens": 283,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62801,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63084
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:37:23.105612286Z",
   "translation": "Coisas gloriosas são faladas ⟨em⟩ ti, ó cidade ⟨do⟩ Elohim. Selá.",
   "tokens": [
     {
       "surface": "נכבדות",
-      "english": "Coisas gloriosas"
+      "gloss": "Coisas gloriosas"
     },
     {
       "surface": "מדבר",
-      "english": "são faladas"
+      "gloss": "são faladas"
     },
     {
       "surface": "בך",
-      "english": "⟨em⟩ ti"
+      "gloss": "⟨em⟩ ti"
     },
     {
       "surface": "עיר",
-      "english": "cidade"
+      "gloss": "cidade"
     },
     {
       "surface": "האלהים",
-      "english": "⟨do⟩ Elohim"
+      "gloss": "⟨do⟩ Elohim"
     },
     {
       "surface": "סלה",
-      "english": "Selá"
+      "gloss": "Selá"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:37:23.105612286Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

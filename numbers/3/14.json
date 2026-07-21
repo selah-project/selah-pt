@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "numbers 3:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 3,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:10:48.397011518Z",
+  "translation": "E YHWH falou a Moshé ⟨no⟩ deserto ⟨de⟩ Sinai, dizendo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E YHWH falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨no⟩ deserto"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "⟨de⟩ Sinai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo:"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshê",
@@ -13,52 +48,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 253,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17879,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18132
-  },
-  "translation": "E YHWH falou a Moshé ⟨no⟩ deserto ⟨de⟩ Sinai, dizendo:",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E YHWH falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "במדבר",
-      "english": "⟨no⟩ deserto"
-    },
-    {
-      "surface": "סיני",
-      "english": "⟨de⟩ Sinai"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo:"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:10:48.397011518Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

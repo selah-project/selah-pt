@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "ezra 1:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 1,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:02:36.540788329Z",
+  "translation": "e levou-os ⟨o⟩ rei Koresh da Pérsia por mão de Mitrídates, ⟨o⟩ tesoureiro, e contou-os para Sesbassar, ⟨o⟩ príncipe de Judá",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "E levou-os"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨o⟩ rei"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "da Pérsia"
+    },
+    {
+      "surface": "על",
+      "gloss": "por"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mão"
+    },
+    {
+      "surface": "מתרדת",
+      "gloss": "de Mitrídates"
+    },
+    {
+      "surface": "הגזבר",
+      "gloss": "⟨o⟩ tesoureiro"
+    },
+    {
+      "surface": "ויספרם",
+      "gloss": "e contou-os"
+    },
+    {
+      "surface": "לששבצר",
+      "gloss": "para Sesbassar"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "⟨o⟩ príncipe"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "de Judá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Ciro",
@@ -13,72 +68,6 @@
       "hebrew": "כורש"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45400,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 45870
-  },
-  "translation": "e levou-os ⟨o⟩ rei Koresh da Pérsia por mão de Mitrídates, ⟨o⟩ tesoureiro, e contou-os para Sesbassar, ⟨o⟩ príncipe de Judá",
-  "tokens": [
-    {
-      "surface": "ויוציאם",
-      "english": "E levou-os"
-    },
-    {
-      "surface": "כורש",
-      "english": "Koresh"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨o⟩ rei"
-    },
-    {
-      "surface": "פרס",
-      "english": "da Pérsia"
-    },
-    {
-      "surface": "על",
-      "english": "por"
-    },
-    {
-      "surface": "יד",
-      "english": "mão"
-    },
-    {
-      "surface": "מתרדת",
-      "english": "de Mitrídates"
-    },
-    {
-      "surface": "הגזבר",
-      "english": "⟨o⟩ tesoureiro"
-    },
-    {
-      "surface": "ויספרם",
-      "english": "e contou-os"
-    },
-    {
-      "surface": "לששבצר",
-      "english": "para Sesbassar"
-    },
-    {
-      "surface": "הנשיא",
-      "english": "⟨o⟩ príncipe"
-    },
-    {
-      "surface": "ליהודה",
-      "english": "de Judá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:02:36.540788329Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

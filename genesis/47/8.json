@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "genesis 47:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 47,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:31:16.440112864Z",
+  "translation": "E Paró disse ⟨a⟩ Jaakob: Quantos ⟨são⟩ os dias dos anos da tua vida?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Faraó disse"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "Quantos"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dias dos"
+    },
+    {
+      "surface": "שני",
+      "gloss": "anos"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "da tua vida"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraó",
@@ -13,56 +52,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 47,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21339,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 21768
-  },
-  "translation": "E Paró disse ⟨a⟩ Jaakob: Quantos ⟨são⟩ os dias dos anos da tua vida?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Faraó disse"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Jaakob"
-    },
-    {
-      "surface": "כמה",
-      "english": "Quantos"
-    },
-    {
-      "surface": "ימי",
-      "english": "dias dos"
-    },
-    {
-      "surface": "שני",
-      "english": "anos"
-    },
-    {
-      "surface": "חייך",
-      "english": "da tua vida"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:31:16.440112864Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

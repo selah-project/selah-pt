@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 2:6",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 443,
-    "prompt_tokens": 28928,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29371
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:38:02.050904347Z",
   "translation": "e um vapor subiu da terra e molhou ⟨את⟩ toda ⟨a⟩ face da terra",
   "tokens": [
     {
       "surface": "ואד",
-      "english": "e um vapor"
+      "gloss": "e um vapor"
     },
     {
       "surface": "יעלה",
-      "english": "subiu"
+      "gloss": "subiu"
     },
     {
       "surface": "מן",
-      "english": "da"
+      "gloss": "da"
     },
     {
       "surface": "הארץ",
-      "english": "terra"
+      "gloss": "terra"
     },
     {
       "surface": "והשקה",
-      "english": "e molhou"
+      "gloss": "e molhou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toda"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "פני",
-      "english": "face"
+      "gloss": "face"
     },
     {
       "surface": "האדמה",
-      "english": "da terra"
+      "gloss": "da terra"
     }
-  ],
-  "timestamp": "2026-07-16T14:38:02.050904347Z",
-  "model": "glm-4.5"
+  ]
 }

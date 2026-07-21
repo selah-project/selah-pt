@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "jeremiah 43:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 43,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:47:10.600112442Z",
+  "translation": "E aconteceu ⟨a⟩ palavra de YHWH ⟨a⟩ Yirmeyahu ⟨em⟩ Tahpanhes, dizendo",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨a⟩ palavra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "⟨em⟩ Tahpanhes"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeremias",
@@ -13,52 +48,6 @@
       "hebrew": "ירמיה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 43,
-  "usage": {
-    "completion_tokens": 298,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17332,
-    "prompt_tokens_details": {
-      "cached_tokens": 16391
-    },
-    "total_tokens": 17630
-  },
-  "translation": "E aconteceu ⟨a⟩ palavra de YHWH ⟨a⟩ Yirmeyahu ⟨em⟩ Tahpanhes, dizendo",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨a⟩ palavra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "Yirmeyahu"
-    },
-    {
-      "surface": "בתחפנחס",
-      "english": "⟨em⟩ Tahpanhes"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:47:10.600112442Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

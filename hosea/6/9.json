@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "hosea 6:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 6,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:57:48.347790572Z",
+  "translation": "E como as espreitas de assaltantes ⟨um⟩ homem, ⟨o⟩ bando de Kohens ⟨no⟩ caminho ⟨para⟩ Shechem assassinam, porque ⟨uma⟩ zombaria fizeram.",
+  "tokens": [
+    {
+      "surface": "וכחכי",
+      "gloss": "E como as espreitas de assaltantes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨um⟩ homem"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "⟨o⟩ bando de sacerdotes"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "company"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "Kohens"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨no⟩ caminho"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "assassinam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "⟨para⟩ Shechem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "⟨uma⟩ zombaria"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fizeram"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,68 +64,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19863,
-    "prompt_tokens_details": {
-      "cached_tokens": 18473
-    },
-    "total_tokens": 20368
-  },
-  "translation": "E como as espreitas de assaltantes ⟨um⟩ homem, ⟨o⟩ bando de Kohens ⟨no⟩ caminho ⟨para⟩ Shechem assassinam, porque ⟨uma⟩ zombaria fizeram.",
-  "tokens": [
-    {
-      "surface": "וכחכי",
-      "english": "E como as espreitas de assaltantes"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨um⟩ homem"
-    },
-    {
-      "surface": "גדודים",
-      "english": "⟨o⟩ bando de sacerdotes"
-    },
-    {
-      "surface": "חבר",
-      "english": "company"
-    },
-    {
-      "surface": "כהנים",
-      "english": "Kohens"
-    },
-    {
-      "surface": "דרך",
-      "english": "⟨no⟩ caminho"
-    },
-    {
-      "surface": "ירצחו",
-      "english": "assassinam"
-    },
-    {
-      "surface": "שכמה",
-      "english": "⟨para⟩ Shechem"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "זמה",
-      "english": "⟨uma⟩ zombaria"
-    },
-    {
-      "surface": "עשו",
-      "english": "fizeram"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:57:48.347790572Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

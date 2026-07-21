@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 47,
   "ref": "psalms 89:47",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70329,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70749
-  },
+  "verse": 47,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:14.513920689Z",
   "translation": "Até quando, YHWH, ⟨estará⟩ escondido para sempre? ⟨a⟩ tua ira ⟨irá⟩ arder como fogo, ⟨a⟩ tua ira?",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Até quando"
+      "gloss": "Até quando"
     },
     {
       "surface": "מה",
-      "english": "quanto"
+      "gloss": "quanto"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "תסתר",
-      "english": "⟨estará⟩ escondido"
+      "gloss": "⟨estará⟩ escondido"
     },
     {
       "surface": "לנצח",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "תבער",
-      "english": "⟨irá⟩ arder"
+      "gloss": "⟨irá⟩ arder"
     },
     {
       "surface": "כמו",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "אש",
-      "english": "fogo"
+      "gloss": "fogo"
     },
     {
       "surface": "חמתך",
-      "english": "⟨a⟩ tua ira"
+      "gloss": "⟨a⟩ tua ira"
     }
-  ],
-  "timestamp": "2026-06-13T06:40:14.513920689Z",
-  "model": "glm-4.5"
+  ]
 }

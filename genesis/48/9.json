@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "genesis 48:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 48,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:32:52.998784432Z",
+  "translation": "E Yosef disse a seu pai: Meus filhos ⟨são⟩ estes, que Elohim me deu neste lugar. E ⟨ele⟩ disse: Traz-os, peço-te, a mim e eu os abençoarei.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Meus filhos"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨são⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "neste lugar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E ⟨ele⟩ disse"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "Traz-os"
+    },
+    {
+      "surface": "נא",
+      "gloss": "peço-te"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mim"
+    },
+    {
+      "surface": "ואברכם",
+      "gloss": "e eu os abençoarei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "José",
@@ -13,88 +84,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22046,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22554
-  },
-  "translation": "E Yosef disse a seu pai: Meus filhos ⟨são⟩ estes, que Elohim me deu neste lugar. E ⟨ele⟩ disse: Traz-os, peço-te, a mim e eu os abençoarei.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    },
-    {
-      "surface": "בני",
-      "english": "Meus filhos"
-    },
-    {
-      "surface": "הם",
-      "english": "⟨são⟩"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "נתן",
-      "english": "deu"
-    },
-    {
-      "surface": "לי",
-      "english": "me"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "בזה",
-      "english": "neste lugar"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E ⟨ele⟩ disse"
-    },
-    {
-      "surface": "קחם",
-      "english": "Traz-os"
-    },
-    {
-      "surface": "נא",
-      "english": "peço-te"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mim"
-    },
-    {
-      "surface": "ואברכם",
-      "english": "e eu os abençoarei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:32:52.998784432Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

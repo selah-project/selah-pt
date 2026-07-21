@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "psalms 78:50",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 479,
-    "prompt_tokens": 70604,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71083
-  },
+  "verse": 50,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:39.963162780Z",
   "translation": "Ele nivelou ⟨um⟩ caminho para sua ira; não poupou a alma deles ⟨da⟩ morte, mas entregou a vida deles à peste.",
   "tokens": [
     {
       "surface": "יפלס",
-      "english": "Ele nivelou"
+      "gloss": "Ele nivelou"
     },
     {
       "surface": "נתיב",
-      "english": "⟨um⟩ caminho"
+      "gloss": "⟨um⟩ caminho"
     },
     {
       "surface": "לאפו",
-      "english": "para sua ira"
+      "gloss": "para sua ira"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "חשך",
-      "english": "poupou"
+      "gloss": "poupou"
     },
     {
       "surface": "ממות",
-      "english": "⟨da⟩ morte"
+      "gloss": "⟨da⟩ morte"
     },
     {
       "surface": "נפשם",
-      "english": "a alma deles"
+      "gloss": "a alma deles"
     },
     {
       "surface": "וחיתם",
-      "english": "mas entregou"
+      "gloss": "mas entregou"
     },
     {
       "surface": "לדבר",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "הסגיר",
-      "english": "peste"
+      "gloss": "peste"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:39.963162780Z",
-  "model": "glm-4.5"
+  ]
 }

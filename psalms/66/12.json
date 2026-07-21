@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 66:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 552,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63000,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63552
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:21:34.887757148Z",
   "translation": "Tu fizeste homem cavalgar ⟨sobre⟩ ⟨as⟩ cabeças de nós; entramos ⟨no⟩ fogo e ⟨na⟩ água, mas tu nos tiraste ⟨para⟩ ⟨um⟩ lugar abundante.",
   "tokens": [
     {
       "surface": "הרכבת",
-      "english": "Tu fizeste cavalgar"
+      "gloss": "Tu fizeste cavalgar"
     },
     {
       "surface": "אנוש",
-      "english": "homem"
+      "gloss": "homem"
     },
     {
       "surface": "לראשנו",
-      "english": "⟨sobre⟩ ⟨as⟩ cabeças de nós",
+      "gloss": "⟨sobre⟩ ⟨as⟩ cabeças de nós",
       "marks": "cabeças de nós"
     },
     {
       "surface": "באנו",
-      "english": "entramos"
+      "gloss": "entramos"
     },
     {
       "surface": "באש",
-      "english": "⟨no⟩ fogo"
+      "gloss": "⟨no⟩ fogo"
     },
     {
       "surface": "ובמים",
-      "english": "e ⟨na⟩ água"
+      "gloss": "e ⟨na⟩ água"
     },
     {
       "surface": "ותוציאנו",
-      "english": "mas tu nos tiraste"
+      "gloss": "mas tu nos tiraste"
     },
     {
       "surface": "לרויה",
-      "english": "⟨para⟩ ⟨um⟩ lugar abundante"
+      "gloss": "⟨para⟩ ⟨um⟩ lugar abundante"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:21:34.887757148Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

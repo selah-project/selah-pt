@@ -1,9 +1,85 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "exodus 14:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 14,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:54:05.876889793Z",
+  "translation": "E fortalecerei ⟨o⟩ coração de Paró, e ele perseguirá após eles, e serei glorificado ⟨em⟩ Paró e ⟨em⟩ todo ⟨o⟩ seu exército, e saberão ⟨os⟩ egípcios que eu ⟨sou⟩ YHWH, e fizeram assim.",
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "E fortalecerei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o coração"
+    },
+    {
+      "surface": "לב",
+      "gloss": "coração"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Paró"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "e ele perseguirá"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "após eles"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "e serei glorificado"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "⟨em⟩ Faraó"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e ⟨em⟩ todo"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "⟨o⟩ seu exército"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "e saberão"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨os⟩ egípcios"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨sou⟩ YHWH"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "e fizeram"
+    },
+    {
+      "surface": "כן",
+      "gloss": "assim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraó",
@@ -13,93 +89,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 672,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17954,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 18626
-  },
-  "translation": "E fortalecerei ⟨o⟩ coração de Paró, e ele perseguirá após eles, e serei glorificado ⟨em⟩ Paró e ⟨em⟩ todo ⟨o⟩ seu exército, e saberão ⟨os⟩ egípcios que eu ⟨sou⟩ YHWH, e fizeram assim.",
-  "tokens": [
-    {
-      "surface": "וחזקתי",
-      "english": "E fortalecerei"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "o coração"
-    },
-    {
-      "surface": "לב",
-      "english": "coração"
-    },
-    {
-      "surface": "פרעה",
-      "english": "de Paró"
-    },
-    {
-      "surface": "ורדף",
-      "english": "e ele perseguirá"
-    },
-    {
-      "surface": "אחריהם",
-      "english": "após eles"
-    },
-    {
-      "surface": "ואכבדה",
-      "english": "e serei glorificado"
-    },
-    {
-      "surface": "בפרעה",
-      "english": "⟨em⟩ Faraó"
-    },
-    {
-      "surface": "ובכל",
-      "english": "e ⟨em⟩ todo"
-    },
-    {
-      "surface": "חילו",
-      "english": "⟨o⟩ seu exército"
-    },
-    {
-      "surface": "וידעו",
-      "english": "e saberão"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨os⟩ egípcios"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "אני",
-      "english": "eu"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨sou⟩ YHWH"
-    },
-    {
-      "surface": "ויעשו",
-      "english": "e fizeram"
-    },
-    {
-      "surface": "כן",
-      "english": "assim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:54:05.876889793Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

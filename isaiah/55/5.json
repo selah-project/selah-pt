@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 55:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 55,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:55:43.143033241Z",
+  "translation": "Eis! chamarás ⟨a⟩ um povo que não conheces, e ⟨a⟩ um povo que não te conhecia correrá a ti, por causa de YHWH teu Elohim e do Santo de Yisrael, porque te glorificou.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Eis!"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "⟨a⟩ um povo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "que não"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "conheces"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "chamarás"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "e ⟨a⟩ um povo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "que não"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "te conhecia"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "correrá a ti"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "correrá"
+    },
+    {
+      "surface": "למען",
+      "gloss": "por causa de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "teu Elohim"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "e do Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "te glorificou"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,92 +88,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 55,
-  "usage": {
-    "completion_tokens": 617,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20011,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20628
-  },
-  "translation": "Eis! chamarás ⟨a⟩ um povo que não conheces, e ⟨a⟩ um povo que não te conhecia correrá a ti, por causa de YHWH teu Elohim e do Santo de Yisrael, porque te glorificou.",
-  "tokens": [
-    {
-      "surface": "הן",
-      "english": "Eis!"
-    },
-    {
-      "surface": "גוי",
-      "english": "⟨a⟩ um povo"
-    },
-    {
-      "surface": "לא",
-      "english": "que não"
-    },
-    {
-      "surface": "תדע",
-      "english": "conheces"
-    },
-    {
-      "surface": "תקרא",
-      "english": "chamarás"
-    },
-    {
-      "surface": "וגוי",
-      "english": "e ⟨a⟩ um povo"
-    },
-    {
-      "surface": "לא",
-      "english": "que não"
-    },
-    {
-      "surface": "ידעוך",
-      "english": "te conhecia"
-    },
-    {
-      "surface": "אליך",
-      "english": "correrá a ti"
-    },
-    {
-      "surface": "ירוצו",
-      "english": "correrá"
-    },
-    {
-      "surface": "למען",
-      "english": "por causa de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיך",
-      "english": "teu Elohim"
-    },
-    {
-      "surface": "ולקדוש",
-      "english": "e do Santo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "פארך",
-      "english": "te glorificou"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:55:43.143033241Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

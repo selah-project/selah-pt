@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "proverbs 28:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 610,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52853,
-    "prompt_tokens_details": {
-      "cached_tokens": 51891
-    },
-    "total_tokens": 53463
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:42:17.886372387Z",
   "translation": "⟨Um⟩ rico ⟨é⟩ sábio ⟨em⟩ seus próprios olhos; mas ⟨o⟩ pobre que ⟨tem⟩ entendimento ⟨o⟩ perscruta ⟨até⟨o⟩ ⟨fim⟩⟩.",
   "tokens": [
     {
       "surface": "חכם",
-      "english": "Sábio"
+      "gloss": "Sábio"
     },
     {
       "surface": "בעיניו",
-      "english": "em seus próprios olhos",
+      "gloss": "em seus próprios olhos",
       "marks": "rico"
     },
     {
       "surface": "איש",
-      "english": "⟨Um⟩ rico"
+      "gloss": "⟨Um⟩ rico"
     },
     {
       "surface": "עשיר",
-      "english": "rico"
+      "gloss": "rico"
     },
     {
       "surface": "ודל",
-      "english": "mas ⟨o⟩ pobre"
+      "gloss": "mas ⟨o⟩ pobre"
     },
     {
       "surface": "מבין",
-      "english": "entendimento"
+      "gloss": "entendimento"
     },
     {
       "surface": "יחקרנו",
-      "english": "⟨o⟩ perscruta ⟨até⟨o⟩ ⟨fim⟩⟩⟩",
+      "gloss": "⟨o⟩ perscruta ⟨até⟨o⟩ ⟨fim⟩⟩⟩",
       "marks": "rico"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:42:17.886372387Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

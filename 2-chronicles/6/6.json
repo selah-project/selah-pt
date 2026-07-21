@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-chronicles 6:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 6,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:11:41.254318778Z",
+  "translation": "E escolhi em Jerusalém ⟨para⟩ ⟨o⟩ meu nome estar ali, e escolhi ⟨a⟩ David ⟨para⟩ ⟨ser⟩ sobre ⟨o⟩ meu povo Yisrael",
+  "tokens": [
+    {
+      "surface": "ואבחר",
+      "gloss": "E escolhi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Jerusalém"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "⟨o⟩ meu nome"
+    },
+    {
+      "surface": "שם",
+      "gloss": "estar ali"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "e escolhi"
+    },
+    {
+      "surface": "בדויד",
+      "gloss": "⟨a⟩ David"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "⟨para⟩ ⟨ser⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨o⟩ meu povo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58352,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58858
-  },
-  "translation": "E escolhi em Jerusalém ⟨para⟩ ⟨o⟩ meu nome estar ali, e escolhi ⟨a⟩ David ⟨para⟩ ⟨ser⟩ sobre ⟨o⟩ meu povo Yisrael",
-  "tokens": [
-    {
-      "surface": "ואבחר",
-      "english": "E escolhi"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Jerusalém"
-    },
-    {
-      "surface": "להיות",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "שמי",
-      "english": "⟨o⟩ meu nome"
-    },
-    {
-      "surface": "שם",
-      "english": "estar ali"
-    },
-    {
-      "surface": "ואבחר",
-      "english": "e escolhi"
-    },
-    {
-      "surface": "בדויד",
-      "english": "⟨a⟩ David"
-    },
-    {
-      "surface": "להיות",
-      "english": "⟨para⟩ ⟨ser⟩"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "עמי",
-      "english": "⟨o⟩ meu povo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:11:41.254318778Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

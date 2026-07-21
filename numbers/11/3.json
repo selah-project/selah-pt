@@ -1,67 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "numbers 11:3",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25469,
-    "prompt_tokens_details": {
-      "cached_tokens": 24321
-    },
-    "total_tokens": 25931
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:30:32.027992591Z",
   "translation": "E ele chamou o nome ⟨do⟩ lugar aquele Taberah, porque ⟨a⟩ fogueira ⟨de⟩ YHWH queimou ⟨entre⟩ eles.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "E ele chamou"
+      "gloss": "E ele chamou"
     },
     {
       "surface": "שם",
-      "english": "o nome"
+      "gloss": "o nome"
     },
     {
       "surface": "המקום",
-      "english": "⟨do⟩ lugar",
+      "gloss": "⟨do⟩ lugar",
       "marks": "Taberah"
     },
     {
       "surface": "ההוא",
-      "english": "aquele"
+      "gloss": "aquele"
     },
     {
       "surface": "תבערה",
-      "english": "Taberah"
+      "gloss": "Taberah"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "בערה",
-      "english": "queimou"
+      "gloss": "queimou"
     },
     {
       "surface": "בם",
-      "english": "⟨entre⟩ eles",
+      "gloss": "⟨entre⟩ eles",
       "marks": "o lugar aquele"
     },
     {
       "surface": "אש",
-      "english": "⟨a⟩ fogueira ⟨de⟩",
+      "gloss": "⟨a⟩ fogueira ⟨de⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-13T05:30:32.027992591Z",
-  "model": "glm-4.5"
+  ]
 }

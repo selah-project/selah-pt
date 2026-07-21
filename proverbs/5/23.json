@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "proverbs 5:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52800,
-    "prompt_tokens_details": {
-      "cached_tokens": 51891
-    },
-    "total_tokens": 53182
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:21:22.214250153Z",
   "translation": "He dies for lack ⟨of⟩ instruction, and ⟨in⟩ ⟨the⟩ greatness of ⟨his⟩ folly ⟨he⟩ goes astray.",
   "tokens": [
     {
       "surface": "הוא",
-      "english": "He"
+      "gloss": "He"
     },
     {
       "surface": "ימות",
-      "english": "dies"
+      "gloss": "dies"
     },
     {
       "surface": "באין",
-      "english": "for lack ⟨of⟩",
+      "gloss": "for lack ⟨of⟩",
       "marks": "instruction"
     },
     {
       "surface": "מוסר",
-      "english": "instruction"
+      "gloss": "instruction"
     },
     {
       "surface": "וברב",
-      "english": "and ⟨in⟩ ⟨the⟩ greatness of",
+      "gloss": "and ⟨in⟩ ⟨the⟩ greatness of",
       "marks": "folly"
     },
     {
       "surface": "אולתו",
-      "english": "⟨his⟩ folly"
+      "gloss": "⟨his⟩ folly"
     },
     {
       "surface": "ישגה",
-      "english": "goes astray"
+      "gloss": "goes astray"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:21:22.214250153Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

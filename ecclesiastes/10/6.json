@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "ecclesiastes 10:6",
   "book": "ecclesiastes",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 400,
-    "prompt_tokens": 24735,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25135
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:37:14.413842932Z",
   "translation": "Há ⟨o⟩ tolo posto ⟨em⟩ grandes alturas, e ⟨os⟩ ricos ⟨estão⟩ sentados ⟨em⟩ baixeza.",
   "tokens": [
     {
       "surface": "נתן",
-      "english": "Há"
+      "gloss": "Há"
     },
     {
       "surface": "הסכל",
-      "english": "⟨o⟩ tolo"
+      "gloss": "⟨o⟩ tolo"
     },
     {
       "surface": "במרומים",
-      "english": "posto ⟨em⟩ grandes alturas"
+      "gloss": "posto ⟨em⟩ grandes alturas"
     },
     {
       "surface": "רבים",
-      "english": "grandes"
+      "gloss": "grandes"
     },
     {
       "surface": "ועשירים",
-      "english": "e ⟨os⟩ ricos"
+      "gloss": "e ⟨os⟩ ricos"
     },
     {
       "surface": "בשפל",
-      "english": "⟨em⟩ baixeza"
+      "gloss": "⟨em⟩ baixeza"
     },
     {
       "surface": "ישבו",
-      "english": "⟨estão⟩ sentados"
+      "gloss": "⟨estão⟩ sentados"
     }
-  ],
-  "timestamp": "2026-07-16T13:37:14.413842932Z",
-  "model": "glm-4.5"
+  ]
 }

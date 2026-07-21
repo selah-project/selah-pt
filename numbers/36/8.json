@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "numbers 36:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 36,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:49:41.776996502Z",
+  "translation": "E toda filha ⟨que⟩ ⟨é⟩ herdeira de uma herança das tribos ⟨dos⟩ filhos de Yisrael ⟨deverá⟩ ⟨ser⟩ esposa ⟨para⟩ um da família ⟨do⟩ ramo ⟨do⟩ pai dela, para que ⟨os⟩ filhos de Yisrael possuam ⟨cada⟩ homem ⟨a⟩ herança ⟨dos⟩ pais dele.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "E toda"
+    },
+    {
+      "surface": "בת",
+      "gloss": "filha"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "⟨que⟩ ⟨é⟩ herdeira"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "herança"
+    },
+    {
+      "surface": "ממטות",
+      "gloss": "das tribos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "⟨para⟩ um"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "da família"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨do⟩ ramo"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "⟨do⟩ pai dela"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨deverá⟩ ⟨ser⟩"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "esposa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "para que"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "possuam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨cada⟩ homem"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "⟨a⟩ herança"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "⟨dos⟩ pais dele"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,104 +107,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 694,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19238,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19932
-  },
-  "translation": "E toda filha ⟨que⟩ ⟨é⟩ herdeira de uma herança das tribos ⟨dos⟩ filhos de Yisrael ⟨deverá⟩ ⟨ser⟩ esposa ⟨para⟩ um da família ⟨do⟩ ramo ⟨do⟩ pai dela, para que ⟨os⟩ filhos de Yisrael possuam ⟨cada⟩ homem ⟨a⟩ herança ⟨dos⟩ pais dele.",
-  "tokens": [
-    {
-      "surface": "וכל",
-      "english": "E toda"
-    },
-    {
-      "surface": "בת",
-      "english": "filha"
-    },
-    {
-      "surface": "ירשת",
-      "english": "⟨que⟩ ⟨é⟩ herdeira"
-    },
-    {
-      "surface": "נחלה",
-      "english": "herança"
-    },
-    {
-      "surface": "ממטות",
-      "english": "das tribos"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לאחד",
-      "english": "⟨para⟩ um"
-    },
-    {
-      "surface": "ממשפחת",
-      "english": "da família"
-    },
-    {
-      "surface": "מטה",
-      "english": "⟨do⟩ ramo"
-    },
-    {
-      "surface": "אביה",
-      "english": "⟨do⟩ pai dela"
-    },
-    {
-      "surface": "תהיה",
-      "english": "⟨deverá⟩ ⟨ser⟩"
-    },
-    {
-      "surface": "לאשה",
-      "english": "esposa"
-    },
-    {
-      "surface": "למען",
-      "english": "para que"
-    },
-    {
-      "surface": "יירשו",
-      "english": "possuam"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨cada⟩ homem"
-    },
-    {
-      "surface": "נחלת",
-      "english": "⟨a⟩ herança"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "⟨dos⟩ pais dele"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:49:41.776996502Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

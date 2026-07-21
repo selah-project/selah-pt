@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 13:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 262,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70309,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70571
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:37:12.941356106Z",
   "translation": "Lest mine enemy say, I have prevailed against him ⟨and⟩ ⟨the⟩ trouble ⟨of⟩ my enemies rejoice because I ⟨am⟩ moved",
   "tokens": [
     {
       "surface": "פן",
-      "english": "Lest"
+      "gloss": "Lest"
     },
     {
       "surface": "יאמר",
-      "english": "mine enemy say"
+      "gloss": "mine enemy say"
     },
     {
       "surface": "איבי",
-      "english": "I have prevailed against him"
+      "gloss": "I have prevailed against him"
     },
     {
       "surface": "יכלתיו",
-      "english": "⟨and⟩ ⟨the⟩ trouble ⟨of⟩ my enemies"
+      "gloss": "⟨and⟩ ⟨the⟩ trouble ⟨of⟩ my enemies"
     },
     {
       "surface": "צרי",
-      "english": "rejoice"
+      "gloss": "rejoice"
     },
     {
       "surface": "י�גילו",
-      "english": "because"
+      "gloss": "because"
     },
     {
       "surface": "כי",
-      "english": "I ⟨am⟩ moved"
+      "gloss": "I ⟨am⟩ moved"
     },
     {
       "surface": "אמוט",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-06-13T06:37:12.941356106Z",
-  "model": "glm-4.5"
+  ]
 }

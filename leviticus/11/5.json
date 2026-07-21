@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "leviticus 11:5",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 575,
-    "prompt_tokens": 25325,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25900
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:41:48.931234712Z",
   "translation": "e ⟨את⟩ o coelho, porque ⟨está⟩ trazendo ⟨a⟩ ruminação, mas o casco não divide—impuro ⟨ele⟩ ⟨é⟩ para vós",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o coelho"
     },
     {
       "surface": "השפן",
-      "english": "o coelho"
+      "gloss": "o coelho"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "מעלה",
-      "english": "⟨está⟩ trazendo"
+      "gloss": "⟨está⟩ trazendo"
     },
     {
       "surface": "גרה",
-      "english": "⟨a⟩ ruminação"
+      "gloss": "⟨a⟩ ruminação"
     },
     {
       "surface": "הוא",
-      "english": "—"
+      "gloss": "—"
     },
     {
       "surface": "ופרסה",
-      "english": "mas o casco"
+      "gloss": "mas o casco"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יפריס",
-      "english": "divide"
+      "gloss": "divide"
     },
     {
       "surface": "טמא",
-      "english": "impuro"
+      "gloss": "impuro"
     },
     {
       "surface": "הוא",
-      "english": "⟨ele⟩"
+      "gloss": "⟨ele⟩"
     },
     {
       "surface": "לכם",
-      "english": "⟨é⟩ para vós"
+      "gloss": "⟨é⟩ para vós"
     }
-  ],
-  "timestamp": "2026-07-16T16:41:48.931234712Z",
-  "model": "glm-4.5"
+  ]
 }

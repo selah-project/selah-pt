@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 147:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62891,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63310
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:15:51.711171943Z",
   "translation": "Ele envia a sua palavra ⟨e⟩ os derrete; Ele faz soprar ⟨o⟩ seu Rúaj ⟨e⟩ ⟨as⟩ águas fluem",
   "tokens": [
     {
       "surface": "ישלח",
-      "english": "Ele envia"
+      "gloss": "Ele envia"
     },
     {
       "surface": "דברו",
-      "english": "a sua palavra",
+      "gloss": "a sua palavra",
       "marks": "palavra"
     },
     {
       "surface": "וימסם",
-      "english": "⟨e⟩ os derrete"
+      "gloss": "⟨e⟩ os derrete"
     },
     {
       "surface": "ישב",
-      "english": "Ele faz soprar"
+      "gloss": "Ele faz soprar"
     },
     {
       "surface": "רוחו",
-      "english": "⟨o⟩ seu Rúaj",
+      "gloss": "⟨o⟩ seu Rúaj",
       "marks": "Rúaj"
     },
     {
       "surface": "יזלו",
-      "english": "⟨e⟩"
+      "gloss": "⟨e⟩"
     },
     {
       "surface": "מים",
-      "english": "⟨as⟩ águas fluem"
+      "gloss": "⟨as⟩ águas fluem"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:15:51.711171943Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

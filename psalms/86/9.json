@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 86:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 488,
-    "prompt_tokens": 70585,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71073
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:24.240245883Z",
   "translation": "Todas ⟨as⟩ nações que fizeste virão e se prostrarão diante de ti, ó Adonai, e glorificarão ⟨o⟩ teu Nome",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todas ⟨as⟩ nações"
+      "gloss": "Todas ⟨as⟩ nações"
     },
     {
       "surface": "גוים",
-      "english": "nações"
+      "gloss": "nações"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "עשית",
-      "english": "fizeste"
+      "gloss": "fizeste"
     },
     {
       "surface": "יבואו",
-      "english": "virão"
+      "gloss": "virão"
     },
     {
       "surface": "וישתחוו",
-      "english": "e se prostrarão"
+      "gloss": "e se prostrarão"
     },
     {
       "surface": "לפניך",
-      "english": "diante de ti"
+      "gloss": "diante de ti"
     },
     {
       "surface": "אדני",
-      "english": "ó Adonai"
+      "gloss": "ó Adonai"
     },
     {
       "surface": "ויכבדו",
-      "english": "e glorificarão"
+      "gloss": "e glorificarão"
     },
     {
       "surface": "לשמך",
-      "english": "⟨o⟩ teu Nome"
+      "gloss": "⟨o⟩ teu Nome"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:24.240245883Z",
-  "model": "glm-4.5"
+  ]
 }

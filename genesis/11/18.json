@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 11:18",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 310,
-    "prompt_tokens": 28701,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29011
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:42:55.013394103Z",
   "translation": "E Peleg viveu trinta anos e gerou ⟨את⟩ Reu",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "E ... viveu"
+      "gloss": "E ... viveu"
     },
     {
       "surface": "פלג",
-      "english": "Peleg"
+      "gloss": "Peleg"
     },
     {
       "surface": "שלשים",
-      "english": "trinta"
+      "gloss": "trinta"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "ויולד",
-      "english": "e gerou"
+      "gloss": "e gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Reu"
     },
     {
       "surface": "רעו",
-      "english": "Reu"
+      "gloss": "Reu"
     }
-  ],
-  "timestamp": "2026-07-16T14:42:55.013394103Z",
-  "model": "glm-4.5"
+  ]
 }

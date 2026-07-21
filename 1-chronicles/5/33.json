@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "1-chronicles 5:33",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 256,
-    "prompt_tokens": 64428,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64684
-  },
+  "verse": 33,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:06:41.900496396Z",
   "translation": "Meraiote gerou ⟨את⟩ Amarías, e Amarías gerou ⟨את⟩ Aitube",
   "tokens": [
     {
       "surface": "מריות",
-      "english": "Meraiote"
+      "gloss": "Meraiote"
     },
     {
       "surface": "הוליד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Amarías"
     },
     {
       "surface": "אמריה",
-      "english": "Amarías"
+      "gloss": "Amarías"
     },
     {
       "surface": "ואמריה",
-      "english": "e Amarías"
+      "gloss": "e Amarías"
     },
     {
       "surface": "הוליד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Aitube"
     },
     {
       "surface": "אחיטוב",
-      "english": "Aitube"
+      "gloss": "Aitube"
     }
-  ],
-  "timestamp": "2026-07-16T11:06:41.900496396Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-kings 14:1",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 329,
-    "prompt_tokens": 69549,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 69878
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:32:20.938735748Z",
   "translation": "Naquele tempo, Abiyá ben Yarovam adoeceu.",
   "tokens": [
     {
       "surface": "בעת",
-      "english": "Naquele tempo"
+      "gloss": "Naquele tempo"
     },
     {
       "surface": "ההיא",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "חלה",
-      "english": "adoeceu"
+      "gloss": "adoeceu"
     },
     {
       "surface": "אביה",
-      "english": "Abiyá"
+      "gloss": "Abiyá"
     },
     {
       "surface": "בן",
-      "english": "ben"
+      "gloss": "ben"
     },
     {
       "surface": "ירבעם",
-      "english": "Yarovam"
+      "gloss": "Yarovam"
     }
-  ],
-  "timestamp": "2026-07-16T11:32:20.938735748Z",
-  "model": "glm-4.5"
+  ]
 }

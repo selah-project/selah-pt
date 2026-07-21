@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "exodus 24:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 24,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:12:06.503539723Z",
+  "translation": "E Moshé entrou no ⟨meio⟩ da nuvem e subiu ⟨ao⟩ monte; e Moshé ⟨esteve⟩ no monte quarenta dias e quarenta noites.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E entrou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "no ⟨meio⟩"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "da nuvem"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e subiu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ⟨esteve⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "no monte"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarenta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dias"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e quarenta"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noites"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshe",
@@ -20,80 +83,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17297,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17790
-  },
-  "translation": "E Moshé entrou no ⟨meio⟩ da nuvem e subiu ⟨ao⟩ monte; e Moshé ⟨esteve⟩ no monte quarenta dias e quarenta noites.",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "E entrou"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "בתוך",
-      "english": "no ⟨meio⟩"
-    },
-    {
-      "surface": "הענן",
-      "english": "da nuvem"
-    },
-    {
-      "surface": "ויעל",
-      "english": "e subiu"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "ההר",
-      "english": "monte"
-    },
-    {
-      "surface": "ויהי",
-      "english": "e ⟨esteve⟩"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "בהר",
-      "english": "no monte"
-    },
-    {
-      "surface": "ארבעים",
-      "english": "quarenta"
-    },
-    {
-      "surface": "יום",
-      "english": "dias"
-    },
-    {
-      "surface": "וארבעים",
-      "english": "e quarenta"
-    },
-    {
-      "surface": "לילה",
-      "english": "noites"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:12:06.503539723Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

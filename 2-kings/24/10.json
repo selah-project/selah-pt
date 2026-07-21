@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-kings 24:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 24,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:11:18.231430427Z",
+  "translation": "Naquele tempo ⟨os⟩ servos de Nevujadnetzar, ⟨o⟩ rei ⟨de⟩ Bavel, subiram ⟨contra⟩ Yerushalayim, ⟨e⟩ ⟨a⟩ cidade veio ⟨sob⟩ cerco.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Naquele tempo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "subiram ⟨contra⟩"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servos"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevujadnetzar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨o⟩ rei ⟨de⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨a⟩ cidade"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "⟨sob⟩ cerco"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nabucodonosor",
@@ -27,68 +78,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 601,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17093,
-    "prompt_tokens_details": {
-      "cached_tokens": 15784
-    },
-    "total_tokens": 17694
-  },
-  "translation": "Naquele tempo ⟨os⟩ servos de Nevujadnetzar, ⟨o⟩ rei ⟨de⟩ Bavel, subiram ⟨contra⟩ Yerushalayim, ⟨e⟩ ⟨a⟩ cidade veio ⟨sob⟩ cerco.",
-  "tokens": [
-    {
-      "surface": "בעת",
-      "english": "Naquele tempo"
-    },
-    {
-      "surface": "ההיא",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "עלה",
-      "english": "subiram ⟨contra⟩"
-    },
-    {
-      "surface": "עבדי",
-      "english": "servos"
-    },
-    {
-      "surface": "נבכדנאצר",
-      "english": "Nevujadnetzar"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨o⟩ rei ⟨de⟩"
-    },
-    {
-      "surface": "בבל",
-      "english": "Bavel"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "ותבא",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "העיר",
-      "english": "⟨a⟩ cidade"
-    },
-    {
-      "surface": "במצור",
-      "english": "⟨sob⟩ cerco"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:11:18.231430427Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

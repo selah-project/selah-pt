@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-samuel 4:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 4,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:16:12.457235533Z",
+  "translation": "E os filisteus ⟨pelejaram⟩ e Yisrael ⟨foi⟩ ⟨derrotado⟩, e ⟨cada⟩ homem ⟨fugiu⟩ para ⟨sua⟩ tenda, e ⟨a⟩ derrota ⟨foi⟩ muito grande, e ⟨caíram⟩ de Yisrael trinta mil soldados de ⟨infantaria⟩.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Pelejaram"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "os filisteus"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "e Israel foi derrotado"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "fugiu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada homem"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "para sua tenda"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e a derrota foi"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "a derrota"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "muito grande"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muito"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "caíram"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "de Israel"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trinta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "soldados de infantaria"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 794,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17297,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18091
-  },
-  "translation": "E os filisteus ⟨pelejaram⟩ e Yisrael ⟨foi⟩ ⟨derrotado⟩, e ⟨cada⟩ homem ⟨fugiu⟩ para ⟨sua⟩ tenda, e ⟨a⟩ derrota ⟨foi⟩ muito grande, e ⟨caíram⟩ de Yisrael trinta mil soldados de ⟨infantaria⟩.",
-  "tokens": [
-    {
-      "surface": "וילחמו",
-      "english": "Pelejaram"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "os filisteus"
-    },
-    {
-      "surface": "וינגף",
-      "english": "e Israel foi derrotado"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "וינסו",
-      "english": "fugiu"
-    },
-    {
-      "surface": "איש",
-      "english": "cada homem"
-    },
-    {
-      "surface": "לאהליו",
-      "english": "para sua tenda"
-    },
-    {
-      "surface": "ותהי",
-      "english": "e a derrota foi"
-    },
-    {
-      "surface": "המכה",
-      "english": "a derrota"
-    },
-    {
-      "surface": "גדולה",
-      "english": "muito grande"
-    },
-    {
-      "surface": "מאד",
-      "english": "muito"
-    },
-    {
-      "surface": "ויפל",
-      "english": "caíram"
-    },
-    {
-      "surface": "מישראל",
-      "english": "de Israel"
-    },
-    {
-      "surface": "שלשים",
-      "english": "trinta"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil"
-    },
-    {
-      "surface": "רגלי",
-      "english": "soldados de infantaria"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:16:12.457235533Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

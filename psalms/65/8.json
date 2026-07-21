@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 65:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70307,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70682
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:39:21.216192787Z",
   "translation": "Properly ⟨is⟩ ⟨the⟩ uproar ⟨of the⟩ seas, ⟨the⟩ uproar ⟨of⟩ their waves, and ⟨the⟩ tumult ⟨of the⟩ peoples;",
   "tokens": [
     {
       "surface": "משביח",
-      "english": "Properly"
+      "gloss": "Properly"
     },
     {
       "surface": "שאון",
-      "english": "⟨the⟩ uproar"
+      "gloss": "⟨the⟩ uproar"
     },
     {
       "surface": "ימים",
-      "english": "⟨of the⟩ seas"
+      "gloss": "⟨of the⟩ seas"
     },
     {
       "surface": "שאון",
-      "english": "⟨the⟩ uproar"
+      "gloss": "⟨the⟩ uproar"
     },
     {
       "surface": "גליהם",
-      "english": "⟨of⟩ their waves"
+      "gloss": "⟨of⟩ their waves"
     },
     {
       "surface": "והמון",
-      "english": "and ⟨the⟩ tumult"
+      "gloss": "and ⟨the⟩ tumult"
     },
     {
       "surface": "לאמים",
-      "english": "⟨of the⟩ peoples"
+      "gloss": "⟨of the⟩ peoples"
     }
-  ],
-  "timestamp": "2026-06-13T06:39:21.216192787Z",
-  "model": "glm-4.5"
+  ]
 }

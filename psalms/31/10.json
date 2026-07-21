@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 31:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 503,
-    "prompt_tokens": 70659,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71162
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:36:58.132895978Z",
   "translation": "Sê gracioso para comigo, YHWH, pois ⟨estou⟩ em aperto; esvaíram-se ⟨de⟩ vexação meus olhos, sim, minha alma e meu ventre.",
   "tokens": [
     {
       "surface": "חנני",
-      "english": "Sê gracioso para comigo"
+      "gloss": "Sê gracioso para comigo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "צר",
-      "english": "⟨estou⟩ em aperto"
+      "gloss": "⟨estou⟩ em aperto"
     },
     {
       "surface": "לי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "עששה",
-      "english": "esvaíram-se"
+      "gloss": "esvaíram-se"
     },
     {
       "surface": "בכעס",
-      "english": "⟨de⟩ vexação"
+      "gloss": "⟨de⟩ vexação"
     },
     {
       "surface": "עיני",
-      "english": "meus olhos"
+      "gloss": "meus olhos"
     },
     {
       "surface": "נפשי",
-      "english": "minha alma"
+      "gloss": "minha alma"
     },
     {
       "surface": "ובטני",
-      "english": "e meu ventre"
+      "gloss": "e meu ventre"
     }
-  ],
-  "timestamp": "2026-07-16T17:36:58.132895978Z",
-  "model": "glm-4.5"
+  ]
 }

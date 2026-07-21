@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-samuel 17:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 17,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:59:23.570550840Z",
+  "translation": "E ⟨a⟩ palavra pareceu reta aos olhos de Avshalom, e aos olhos de todos os anciãos de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "E ⟨a⟩ palavra pareceu reta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "E ⟨a⟩ palavra pareceu reta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aos olhos de"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "e aos olhos de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos os"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "anciãos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17201,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 17515
-  },
-  "translation": "E ⟨a⟩ palavra pareceu reta aos olhos de Avshalom, e aos olhos de todos os anciãos de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויישר",
-      "english": "E ⟨a⟩ palavra pareceu reta"
-    },
-    {
-      "surface": "הדבר",
-      "english": "E ⟨a⟩ palavra pareceu reta"
-    },
-    {
-      "surface": "בעיני",
-      "english": "aos olhos de"
-    },
-    {
-      "surface": "אבשלם",
-      "english": "Avshalom"
-    },
-    {
-      "surface": "ובעיני",
-      "english": "e aos olhos de"
-    },
-    {
-      "surface": "כל",
-      "english": "todos os"
-    },
-    {
-      "surface": "זקני",
-      "english": "anciãos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:59:23.570550840Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

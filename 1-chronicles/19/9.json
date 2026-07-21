@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-chronicles 19:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 19,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:54:33.928768182Z",
+  "translation": "E os ⟨filhos⟩ de Ammon saíram e ordenaram ⟨o⟩ batalha ⟨à⟩ entrada ⟨da⟩ cidade, e os reis que vieram estavam por si mesmos no campo.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "E saíram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨filhos⟩"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Ammon"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "e ordenaram"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "⟨o⟩ batalha"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "⟨à⟩ entrada"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨da⟩ cidade"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "e os reis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vieram"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "por si mesmos"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "no campo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amom",
@@ -13,72 +68,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57538,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58028
-  },
-  "translation": "E os ⟨filhos⟩ de Ammon saíram e ordenaram ⟨o⟩ batalha ⟨à⟩ entrada ⟨da⟩ cidade, e os reis que vieram estavam por si mesmos no campo.",
-  "tokens": [
-    {
-      "surface": "ויצאו",
-      "english": "E saíram"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨filhos⟩"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Ammon"
-    },
-    {
-      "surface": "ויערכו",
-      "english": "e ordenaram"
-    },
-    {
-      "surface": "מלחמה",
-      "english": "⟨o⟩ batalha"
-    },
-    {
-      "surface": "פתח",
-      "english": "⟨à⟩ entrada"
-    },
-    {
-      "surface": "העיר",
-      "english": "⟨da⟩ cidade"
-    },
-    {
-      "surface": "והמלכים",
-      "english": "e os reis"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "באו",
-      "english": "vieram"
-    },
-    {
-      "surface": "לבדם",
-      "english": "por si mesmos"
-    },
-    {
-      "surface": "בשדה",
-      "english": "no campo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:54:33.928768182Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

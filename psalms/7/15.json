@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 7:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62867,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63224
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:43:16.569560381Z",
   "translation": "Veja! ele amarra ⟨o⟩ mal ⟨e⟩ grava trabalho ⟨e⟩ dá à luz ⟨o⟩ falso",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "Veja!"
+      "gloss": "Veja!"
     },
     {
       "surface": "יחבל",
-      "english": "amarra"
+      "gloss": "amarra"
     },
     {
       "surface": "און",
-      "english": "⟨o⟩ mal",
+      "gloss": "⟨o⟩ mal",
       "marks": "mal"
     },
     {
       "surface": "והרה",
-      "english": "⟨e⟩ grava"
+      "gloss": "⟨e⟩ grava"
     },
     {
       "surface": "עמל",
-      "english": "trabalho"
+      "gloss": "trabalho"
     },
     {
       "surface": "וילד",
-      "english": "⟨e⟩ dá à luz"
+      "gloss": "⟨e⟩ dá à luz"
     },
     {
       "surface": "שקר",
-      "english": "⟨o⟩ falso",
+      "gloss": "⟨o⟩ falso",
       "marks": "falso"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:43:16.569560381Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

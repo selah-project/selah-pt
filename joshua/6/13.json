@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "joshua 6:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 6,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:30:00.351696635Z",
+  "translation": "E ⟨os⟩ sete sacerdotes, carregando sete trombetas ⟨de⟩ chifres ⟨de⟩ carneiro, o jubileu, iam ⟨diante de⟩ ⟨a⟩ Aron de YHWH, caminhando e tocando ⟨as⟩ trombetas; e ⟨a⟩ guarda ⟨armada⟩ ia ⟨diante⟩ deles, e ⟨a⟩ retaguarda ia após ⟨a⟩ Aron de YHWH, caminhando e tocando ⟨as⟩ trombetas.",
+  "tokens": [
+    {
+      "surface": "ושבעה",
+      "gloss": "E ⟨os⟩ sete"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sacerdotes"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "carregando"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sete"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "trombetas"
+    },
+    {
+      "surface": "היבלים",
+      "gloss": "⟨de⟩ chifres ⟨de⟩ carneiro, o jubileu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨diante de⟩"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨a⟩ Aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "iam"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "caminhando"
+    },
+    {
+      "surface": "ותקעו",
+      "gloss": "e tocando"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "⟨as⟩ trombetas"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "e ⟨a⟩ guarda ⟨armada⟩"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "⟨diante⟩ deles"
+    },
+    {
+      "surface": "והמאסף",
+      "gloss": "e ⟨a⟩ retaguarda"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ia"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "após"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨a⟩ Aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "caminhando"
+    },
+    {
+      "surface": "ותקוע",
+      "gloss": "e tocando"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "⟨as⟩ trombetas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "arca",
@@ -20,120 +123,6 @@
       "hebrew": "ארון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 1050,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17963,
-    "prompt_tokens_details": {
-      "cached_tokens": 15287
-    },
-    "total_tokens": 19013
-  },
-  "translation": "E ⟨os⟩ sete sacerdotes, carregando sete trombetas ⟨de⟩ chifres ⟨de⟩ carneiro, o jubileu, iam ⟨diante de⟩ ⟨a⟩ Aron de YHWH, caminhando e tocando ⟨as⟩ trombetas; e ⟨a⟩ guarda ⟨armada⟩ ia ⟨diante⟩ deles, e ⟨a⟩ retaguarda ia após ⟨a⟩ Aron de YHWH, caminhando e tocando ⟨as⟩ trombetas.",
-  "tokens": [
-    {
-      "surface": "ושבעה",
-      "english": "E ⟨os⟩ sete"
-    },
-    {
-      "surface": "הכהנים",
-      "english": "sacerdotes"
-    },
-    {
-      "surface": "נשאים",
-      "english": "carregando"
-    },
-    {
-      "surface": "שבעה",
-      "english": "sete"
-    },
-    {
-      "surface": "שופרות",
-      "english": "trombetas"
-    },
-    {
-      "surface": "היבלים",
-      "english": "⟨de⟩ chifres ⟨de⟩ carneiro, o jubileu"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨diante de⟩"
-    },
-    {
-      "surface": "ארון",
-      "english": "⟨a⟩ Aron"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "הלכים",
-      "english": "iam"
-    },
-    {
-      "surface": "הלוך",
-      "english": "caminhando"
-    },
-    {
-      "surface": "ותקעו",
-      "english": "e tocando"
-    },
-    {
-      "surface": "בשופרות",
-      "english": "⟨as⟩ trombetas"
-    },
-    {
-      "surface": "והחלוץ",
-      "english": "e ⟨a⟩ guarda ⟨armada⟩"
-    },
-    {
-      "surface": "הלך",
-      "english": "ia"
-    },
-    {
-      "surface": "לפניהם",
-      "english": "⟨diante⟩ deles"
-    },
-    {
-      "surface": "והמאסף",
-      "english": "e ⟨a⟩ retaguarda"
-    },
-    {
-      "surface": "הלך",
-      "english": "ia"
-    },
-    {
-      "surface": "אחרי",
-      "english": "após"
-    },
-    {
-      "surface": "ארון",
-      "english": "⟨a⟩ Aron"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "הולך",
-      "english": "caminhando"
-    },
-    {
-      "surface": "ותקוע",
-      "english": "e tocando"
-    },
-    {
-      "surface": "בשופרות",
-      "english": "⟨as⟩ trombetas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:30:00.351696635Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

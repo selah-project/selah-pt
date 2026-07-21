@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "isaiah 40:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 40,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:43:21.987325751Z",
+  "translation": "Uma voz ⟨está⟩ dizendo, clama. E ⟨está⟩ dizendo, que clamarei? Toda a carne ⟨é⟩ grama, e toda a sua Jésed ⟨é⟩ ⟨como⟩ ⟨o⟩ flor do campo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Uma voz"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨está⟩ dizendo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "clama"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "E ⟨está⟩ dizendo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "clamarei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Toda"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "a carne"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "⟨é⟩ grama"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e toda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a sua Jésed"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "⟨é⟩ ⟨como⟩ ⟨o⟩ flor"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "do campo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "bondade",
@@ -13,76 +72,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 40,
-  "usage": {
-    "completion_tokens": 648,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19527,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20175
-  },
-  "translation": "Uma voz ⟨está⟩ dizendo, clama. E ⟨está⟩ dizendo, que clamarei? Toda a carne ⟨é⟩ grama, e toda a sua Jésed ⟨é⟩ ⟨como⟩ ⟨o⟩ flor do campo.",
-  "tokens": [
-    {
-      "surface": "קול",
-      "english": "Uma voz"
-    },
-    {
-      "surface": "אמר",
-      "english": "⟨está⟩ dizendo"
-    },
-    {
-      "surface": "קרא",
-      "english": "clama"
-    },
-    {
-      "surface": "ואמר",
-      "english": "E ⟨está⟩ dizendo"
-    },
-    {
-      "surface": "מה",
-      "english": "que"
-    },
-    {
-      "surface": "אקרא",
-      "english": "clamarei"
-    },
-    {
-      "surface": "כל",
-      "english": "Toda"
-    },
-    {
-      "surface": "הבשר",
-      "english": "a carne"
-    },
-    {
-      "surface": "חציר",
-      "english": "⟨é⟩ grama"
-    },
-    {
-      "surface": "וכל",
-      "english": "e toda"
-    },
-    {
-      "surface": "חסדו",
-      "english": "a sua Jésed"
-    },
-    {
-      "surface": "כציץ",
-      "english": "⟨é⟩ ⟨como⟩ ⟨o⟩ flor"
-    },
-    {
-      "surface": "השדה",
-      "english": "do campo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:43:21.987325751Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "exodus 35:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 35,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:29:48.507413286Z",
+  "translation": "E toda ⟨a⟩ congregação dos filhos de Yisrael saiu de diante de Moshé",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "E ... saiu",
+      "rationale": "vav-consecutive + they went out; rendered as 'E ... saiu' (past tense with vav-reversive)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda ⟨a⟩",
+      "rationale": "all\/every; requires article in Portuguese for natural reading"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "congregação",
+      "rationale": "stated assemblage\/congregation; 'multidão' or 'comunidade' would be alternatives but 'congregação' fits priestly context"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos",
+      "rationale": "sons\/children; in collective context 'filhos' (of Israel) is the standard rendering"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael",
+      "rationale": "Israel; kept as proper name"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de diante de",
+      "rationale": "from before the face of; 'de diante de' captures the spatial relationship"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé",
+      "rationale": "Moshe; transliterated as Moshé following the discipline document"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,59 +55,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16829,
-    "prompt_tokens_details": {
-      "cached_tokens": 15859
-    },
-    "total_tokens": 17385
-  },
-  "translation": "E toda ⟨a⟩ congregação dos filhos de Yisrael saiu de diante de Moshé",
-  "tokens": [
-    {
-      "surface": "ויצאו",
-      "english": "E ... saiu",
-      "rationale": "vav-consecutive + they went out; rendered as 'E ... saiu' (past tense with vav-reversive)"
-    },
-    {
-      "surface": "כל",
-      "english": "toda ⟨a⟩",
-      "rationale": "all\/every; requires article in Portuguese for natural reading"
-    },
-    {
-      "surface": "עדת",
-      "english": "congregação",
-      "rationale": "stated assemblage\/congregation; 'multidão' or 'comunidade' would be alternatives but 'congregação' fits priestly context"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos",
-      "rationale": "sons\/children; in collective context 'filhos' (of Israel) is the standard rendering"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael",
-      "rationale": "Israel; kept as proper name"
-    },
-    {
-      "surface": "מלפני",
-      "english": "de diante de",
-      "rationale": "from before the face of; 'de diante de' captures the spatial relationship"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé",
-      "rationale": "Moshe; transliterated as Moshé following the discipline document"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:29:48.507413286Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 44,
   "ref": "numbers 3:44",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 251,
-    "prompt_tokens": 25103,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25354
-  },
+  "verse": 44,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:03:52.647221079Z",
   "translation": "E YHWH falou a Moshé, para dizer",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "E ... falou"
+      "gloss": "E ... falou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "לאמר",
-      "english": "para dizer"
+      "gloss": "para dizer"
     }
-  ],
-  "timestamp": "2026-07-16T17:03:52.647221079Z",
-  "model": "glm-4.5"
+  ]
 }

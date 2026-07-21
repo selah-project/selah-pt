@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 88:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 502,
-    "prompt_tokens": 70686,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71188
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:43:28.833404547Z",
   "translation": "Meus olhos desfalecem de aflição; YHWH, clamei a ti todos ⟨os⟩ dias; estendi minhas mãos a ti.",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "Meus olhos"
+      "gloss": "Meus olhos"
     },
     {
       "surface": "דאבה",
-      "english": "desfalecem"
+      "gloss": "desfalecem"
     },
     {
       "surface": "מני",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "עני",
-      "english": "aflição"
+      "gloss": "aflição"
     },
     {
       "surface": "קראתיך",
-      "english": "clamei a ti"
+      "gloss": "clamei a ti"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בכל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "יום",
-      "english": "⟨os⟩ dias"
+      "gloss": "⟨os⟩ dias"
     },
     {
       "surface": "שטחתי",
-      "english": "estendi"
+      "gloss": "estendi"
     },
     {
       "surface": "אליך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "כפי",
-      "english": "minhas mãos"
+      "gloss": "minhas mãos"
     }
-  ],
-  "timestamp": "2026-07-16T17:43:28.833404547Z",
-  "model": "glm-4.5"
+  ]
 }

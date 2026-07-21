@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-kings 6:3",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 545,
-    "prompt_tokens": 24524,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25069
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:30:58.690393936Z",
   "translation": "E um disse: apraza-te, peço-te, e vai com ⟨את⟩ teus servos. E ele disse: eu irei.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ... disse"
+      "gloss": "E ... disse"
     },
     {
       "surface": "האחד",
-      "english": "um"
+      "gloss": "um"
     },
     {
       "surface": "הואל",
-      "english": "apraza-te"
+      "gloss": "apraza-te"
     },
     {
       "surface": "נא",
-      "english": "peço-te"
+      "gloss": "peço-te"
     },
     {
       "surface": "ולך",
-      "english": "e vai"
+      "gloss": "e vai"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "teus servos"
     },
     {
       "surface": "עבדיך",
-      "english": "teus servos"
+      "gloss": "teus servos"
     },
     {
       "surface": "ויאמר",
-      "english": "E ele disse"
+      "gloss": "E ele disse"
     },
     {
       "surface": "אני",
-      "english": "eu"
+      "gloss": "eu"
     },
     {
       "surface": "אלך",
-      "english": "irei"
+      "gloss": "irei"
     }
-  ],
-  "timestamp": "2026-07-16T12:30:58.690393936Z",
-  "model": "glm-4.5"
+  ]
 }

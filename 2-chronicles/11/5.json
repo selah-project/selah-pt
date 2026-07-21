@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-chronicles 11:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 11,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:18:57.396786770Z",
+  "translation": "E Rejavam ⟨se assentou⟩ em Jerusalém, e edificou cidades para ⟨um⟩ cerco em Judá.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E Roboão ⟨se assentou⟩"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Jerusalém"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "e edificou"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cidades"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "para ⟨um⟩ cerco"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "em Judá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboão",
@@ -13,52 +48,6 @@
       "hebrew": "רחבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58013,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58502
-  },
-  "translation": "E Rejavam ⟨se assentou⟩ em Jerusalém, e edificou cidades para ⟨um⟩ cerco em Judá.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E Roboão ⟨se assentou⟩"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Jerusalém"
-    },
-    {
-      "surface": "ויבן",
-      "english": "e edificou"
-    },
-    {
-      "surface": "ערים",
-      "english": "cidades"
-    },
-    {
-      "surface": "למצור",
-      "english": "para ⟨um⟩ cerco"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "em Judá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:18:57.396786770Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

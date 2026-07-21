@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "exodus 34:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17020,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17429
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:28:27.234340951Z",
   "translation": "E YHWH desceu ⟨na⟩ nuvem, e parou ⟨com⟩ ele ⟨lá⟩, e proclamou ⟨o⟩ nome ⟨de⟩ YHWH",
   "tokens": [
     {
       "surface": "וירד",
-      "english": "E desceu"
+      "gloss": "E desceu"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בענן",
-      "english": "na nuvem"
+      "gloss": "na nuvem"
     },
     {
       "surface": "ויתיצב",
-      "english": "e parou"
+      "gloss": "e parou"
     },
     {
       "surface": "עמו",
-      "english": "com ele",
+      "gloss": "com ele",
       "marks": "ele (Moisés)"
     },
     {
       "surface": "שם",
-      "english": "lá"
+      "gloss": "lá"
     },
     {
       "surface": "ויקרא",
-      "english": "e proclamou"
+      "gloss": "e proclamou"
     },
     {
       "surface": "בשם",
-      "english": "o nome de"
+      "gloss": "o nome de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:28:27.234340951Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

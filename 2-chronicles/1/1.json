@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 1:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 1,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:06:32.122118202Z",
+  "translation": "E Shelomah, ⟨o⟩ filho de Davidd, fortaleceu-se ⟨em⟩ seu reino; e YHWH seu Elohim ⟨estava⟩ com ele, e o engrandeceu sobremaneira.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "Fortaleceu-se"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "E Shelomah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho",
+      "rationale": "Article 'o' adicionado em português para naturalidade"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "seu reino"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "seu Elohim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨estava⟩ com ele"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "o engrandeceu"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "sobremaneira"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,69 +65,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 599,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58362,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58961
-  },
-  "translation": "E Shelomah, ⟨o⟩ filho de Davidd, fortaleceu-se ⟨em⟩ seu reino; e YHWH seu Elohim ⟨estava⟩ com ele, e o engrandeceu sobremaneira.",
-  "tokens": [
-    {
-      "surface": "ויתחזק",
-      "english": "Fortaleceu-se"
-    },
-    {
-      "surface": "שלמה",
-      "english": "E Shelomah"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho",
-      "rationale": "Article 'o' adicionado em português para naturalidade"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "על",
-      "english": "⟨em⟩"
-    },
-    {
-      "surface": "מלכותו",
-      "english": "seu reino"
-    },
-    {
-      "surface": "ויהוה",
-      "english": "e YHWH"
-    },
-    {
-      "surface": "אלהיו",
-      "english": "seu Elohim"
-    },
-    {
-      "surface": "עמו",
-      "english": "⟨estava⟩ com ele"
-    },
-    {
-      "surface": "ויגדלהו",
-      "english": "o engrandeceu"
-    },
-    {
-      "surface": "למעלה",
-      "english": "sobremaneira"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:06:32.122118202Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

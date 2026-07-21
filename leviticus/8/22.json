@@ -1,79 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "leviticus 8:22",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 489,
-    "prompt_tokens": 25569,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 26058
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:40:01.021953491Z",
   "translation": "E ele trouxe ⟨o⟩ segundo carneiro, o carneiro das consagrações, e Aharon e seus filhos puseram ⟨as⟩ ⟨mãos⟩ sobre ⟨a⟩ cabeça do carneiro",
   "tokens": [
     {
       "surface": "ויקרב",
-      "english": "E ele trouxe"
+      "gloss": "E ele trouxe"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "האיל (o carneiro)"
     },
     {
       "surface": "האיל",
-      "english": "⟨o⟩ segundo carneiro"
+      "gloss": "⟨o⟩ segundo carneiro"
     },
     {
       "surface": "השני",
-      "english": "segundo"
+      "gloss": "segundo"
     },
     {
       "surface": "איל",
-      "english": "carneiro"
+      "gloss": "carneiro"
     },
     {
       "surface": "המלאים",
-      "english": "das consagrações"
+      "gloss": "das consagrações"
     },
     {
       "surface": "ויסמכו",
-      "english": "e Aharon e seus filhos puseram"
+      "gloss": "e Aharon e seus filhos puseram"
     },
     {
       "surface": "אהרן",
-      "english": "Aharon"
+      "gloss": "Aharon"
     },
     {
       "surface": "ובניו",
-      "english": "e seus filhos"
+      "gloss": "e seus filhos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ידיהם (as mãos)"
     },
     {
       "surface": "ידיהם",
-      "english": "⟨as⟩ ⟨mãos⟩"
+      "gloss": "⟨as⟩ ⟨mãos⟩"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ראש",
-      "english": "⟨a⟩ cabeça"
+      "gloss": "⟨a⟩ cabeça"
     },
     {
       "surface": "האיל",
-      "english": "do carneiro"
+      "gloss": "do carneiro"
     }
-  ],
-  "timestamp": "2026-07-16T16:40:01.021953491Z",
-  "model": "glm-4.5"
+  ]
 }

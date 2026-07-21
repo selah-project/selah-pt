@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "job 9:35",
   "book": "job",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27358,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27777
-  },
+  "verse": 35,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:55:19.517549373Z",
   "translation": "Falarei e não ⟨o⟩ temerei; porque não sou assim ⟨junto a⟩ mim mesmo.",
   "tokens": [
     {
       "surface": "אדברה",
-      "english": "Falarei"
+      "gloss": "Falarei"
     },
     {
       "surface": "ולא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "איראנו",
-      "english": "⟨o⟩ temerei",
+      "gloss": "⟨o⟩ temerei",
       "marks": "a ele"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "כן",
-      "english": "assim"
+      "gloss": "assim"
     },
     {
       "surface": "אנכי",
-      "english": "⟨junto a⟩"
+      "gloss": "⟨junto a⟩"
     },
     {
       "surface": "עמדי",
-      "english": "mim mesmo"
+      "gloss": "mim mesmo"
     }
-  ],
-  "timestamp": "2026-06-14T04:55:19.517549373Z",
-  "model": "glm-4.5"
+  ]
 }

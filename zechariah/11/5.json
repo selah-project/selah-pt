@@ -1,83 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "zechariah 11:5",
   "book": "zechariah",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 596,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24182,
-    "prompt_tokens_details": {
-      "cached_tokens": 22401
-    },
-    "total_tokens": 24778
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:36:00.124881320Z",
   "translation": "Os que ⟨as⟩ compram as matam e ⟨são⟩ ⟨inocentados⟩, e ⟨os⟩ que ⟨as⟩ vendem dizem: 'Bendito ⟨seja⟩ YHWH, pois ⟨estou⟩ ⟨rico'; e os seus pastores não ⟨têm⟩ piedade delas.",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Os que"
+      "gloss": "Os que"
     },
     {
       "surface": "קניהן",
-      "english": "⟨as⟩ compram",
+      "gloss": "⟨as⟩ compram",
       "marks": "as"
     },
     {
       "surface": "יהרגן",
-      "english": "matam"
+      "gloss": "matam"
     },
     {
       "surface": "ולא",
-      "english": "e ⟨são⟩"
+      "gloss": "e ⟨são⟩"
     },
     {
       "surface": "יאשמו",
-      "english": "⟨inocentados⟩"
+      "gloss": "⟨inocentados⟩"
     },
     {
       "surface": "ומכריהן",
-      "english": "e ⟨os⟩ que ⟨as⟩ vendem",
+      "gloss": "e ⟨os⟩ que ⟨as⟩ vendem",
       "marks": "as"
     },
     {
       "surface": "יאמר",
-      "english": "dizem"
+      "gloss": "dizem"
     },
     {
       "surface": "ברוך",
-      "english": "'Bendito ⟨seja⟩"
+      "gloss": "'Bendito ⟨seja⟩"
     },
     {
       "surface": "י�הוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ואעשר",
-      "english": "pois ⟨estou⟩ ⟨rico'"
+      "gloss": "pois ⟨estou⟩ ⟨rico'"
     },
     {
       "surface": "ורעיהם",
-      "english": "e os seus pastores"
+      "gloss": "e os seus pastores"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יחמול",
-      "english": "⟨têm⟩"
+      "gloss": "⟨têm⟩"
     },
     {
       "surface": "עליהן",
-      "english": "piedade delas",
+      "gloss": "piedade delas",
       "marks": "delas"
     }
-  ],
-  "timestamp": "2026-06-13T06:36:00.124881320Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "job 42:13",
   "book": "job",
-  "lang": "pt",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 253,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27246,
-    "prompt_tokens_details": {
-      "cached_tokens": 26408
-    },
-    "total_tokens": 27499
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:46:47.842334074Z",
   "translation": "E ⟨foi⟩ para ⟨ele⟩ sete filhos e três filhas",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E ⟨foi⟩"
+      "gloss": "E ⟨foi⟩"
     },
     {
       "surface": "לו",
-      "english": "para ⟨ele⟩"
+      "gloss": "para ⟨ele⟩"
     },
     {
       "surface": "שבענה",
-      "english": "sete"
+      "gloss": "sete"
     },
     {
       "surface": "בנים",
-      "english": "filhos"
+      "gloss": "filhos"
     },
     {
       "surface": "ושלוש",
-      "english": "e três"
+      "gloss": "e três"
     },
     {
       "surface": "בנות",
-      "english": "filhas"
+      "gloss": "filhas"
     }
-  ],
-  "timestamp": "2026-06-13T06:46:47.842334074Z",
-  "model": "glm-4.5"
+  ]
 }

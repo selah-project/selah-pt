@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-samuel 1:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 1,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:43:16.259481773Z",
+  "translation": "Então David disse ao jovem que lhe ⟨את⟩ dava conta: Como sabes que Shaul e Jônatas, seu filho, morreram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Então ... disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jovem"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "que ... dava conta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lhe"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Como"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sabes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מת",
+      "gloss": "morreram"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "e Jônatas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,76 +79,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17633,
-    "prompt_tokens_details": {
-      "cached_tokens": 4884
-    },
-    "total_tokens": 18082
-  },
-  "translation": "Então David disse ao jovem que lhe ⟨את⟩ dava conta: Como sabes que Shaul e Jônatas, seu filho, morreram?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Então ... disse"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "הנער",
-      "english": "jovem"
-    },
-    {
-      "surface": "המגיד",
-      "english": "que ... dava conta"
-    },
-    {
-      "surface": "לו",
-      "english": "lhe"
-    },
-    {
-      "surface": "איך",
-      "english": "Como"
-    },
-    {
-      "surface": "ידעת",
-      "english": "sabes"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "מת",
-      "english": "morreram"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "ויהונתן",
-      "english": "e Jônatas"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:43:16.259481773Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

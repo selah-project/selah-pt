@@ -1,9 +1,128 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 1:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 1,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:46:37.468860002Z",
+  "translation": "E foi quando se completaram os dias ⟨do⟩ banquete que Iyov enviou e os santificou, e se levantou cedo ⟨pela⟩ manhã e ofereceu Olás segundo ⟨o⟩ número de todos eles, pois Iyov disse: 'Talvez pecaram meus filhos e amaldiçoaram ⟨a⟩ Elohim em ⟨seus⟩ corações.' Assim fez Iyov todos ⟨os⟩ dias.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E foi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "se completaram"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "os dias"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "⟨do⟩ banquete"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "que Iyov enviou"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "ויקדשם",
+      "gloss": "e os santificou"
+    },
+    {
+      "surface": "והשכים",
+      "gloss": "e se levantou cedo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨pela⟩ manhã"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "e ofereceu"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "Olás"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "segundo ⟨o⟩ número"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "de todos eles"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "'Talvez"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "pecaram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "meus filhos"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "e amaldiçoaram"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨a⟩ Elohim"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "em ⟨seus⟩ corações"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "'Assim"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fez"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "⟨os⟩ dias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "holocausto",
@@ -13,136 +132,6 @@
       "hebrew": "עלה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 1038,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22107,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 23145
-  },
-  "translation": "E foi quando se completaram os dias ⟨do⟩ banquete que Iyov enviou e os santificou, e se levantou cedo ⟨pela⟩ manhã e ofereceu Olás segundo ⟨o⟩ número de todos eles, pois Iyov disse: 'Talvez pecaram meus filhos e amaldiçoaram ⟨a⟩ Elohim em ⟨seus⟩ corações.' Assim fez Iyov todos ⟨os⟩ dias.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E foi"
-    },
-    {
-      "surface": "כי",
-      "english": "quando"
-    },
-    {
-      "surface": "הקיפו",
-      "english": "se completaram"
-    },
-    {
-      "surface": "ימי",
-      "english": "os dias"
-    },
-    {
-      "surface": "המשתה",
-      "english": "⟨do⟩ banquete"
-    },
-    {
-      "surface": "וישלח",
-      "english": "que Iyov enviou"
-    },
-    {
-      "surface": "איוב",
-      "english": "Iyov"
-    },
-    {
-      "surface": "ויקדשם",
-      "english": "e os santificou"
-    },
-    {
-      "surface": "והשכים",
-      "english": "e se levantou cedo"
-    },
-    {
-      "surface": "בבקר",
-      "english": "⟨pela⟩ manhã"
-    },
-    {
-      "surface": "והעלה",
-      "english": "e ofereceu"
-    },
-    {
-      "surface": "עלות",
-      "english": "Olás"
-    },
-    {
-      "surface": "מספר",
-      "english": "segundo ⟨o⟩ número"
-    },
-    {
-      "surface": "כלם",
-      "english": "de todos eles"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "אמר",
-      "english": "disse"
-    },
-    {
-      "surface": "איוב",
-      "english": "Iyov"
-    },
-    {
-      "surface": "אולי",
-      "english": "'Talvez"
-    },
-    {
-      "surface": "חטאו",
-      "english": "pecaram"
-    },
-    {
-      "surface": "בני",
-      "english": "meus filhos"
-    },
-    {
-      "surface": "וברכו",
-      "english": "e amaldiçoaram"
-    },
-    {
-      "surface": "אלהים",
-      "english": "⟨a⟩ Elohim"
-    },
-    {
-      "surface": "בלבבם",
-      "english": "em ⟨seus⟩ corações"
-    },
-    {
-      "surface": "ככה",
-      "english": "'Assim"
-    },
-    {
-      "surface": "יעשה",
-      "english": "fez"
-    },
-    {
-      "surface": "איוב",
-      "english": "Iyov"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "הימים",
-      "english": "⟨os⟩ dias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:46:37.468860002Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 46:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70418,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70891
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:38:39.037264522Z",
   "translation": "Por isso não temeremos ⟨quando⟩ ⟨a⟩ terra se transformar e ⟨os⟩ montes forem movidos para ⟨o⟩ coração ⟨dos⟩ mares",
   "tokens": [
     {
       "surface": "על",
-      "english": "Por isso"
+      "gloss": "Por isso"
     },
     {
       "surface": "כן",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "לא",
-      "english": "temeremos"
+      "gloss": "temeremos"
     },
     {
       "surface": "נירא",
-      "english": "⟨quando⟩"
+      "gloss": "⟨quando⟩"
     },
     {
       "surface": "בהמיר",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "ארץ",
-      "english": "terra se transformar"
+      "gloss": "terra se transformar"
     },
     {
       "surface": "ובמוט",
-      "english": "e ⟨os⟩"
+      "gloss": "e ⟨os⟩"
     },
     {
       "surface": "הרים",
-      "english": "montes forem movidos"
+      "gloss": "montes forem movidos"
     },
     {
       "surface": "בלב",
-      "english": "para ⟨o⟩ coração"
+      "gloss": "para ⟨o⟩ coração"
     },
     {
       "surface": "ימים",
-      "english": "⟨dos⟩ mares"
+      "gloss": "⟨dos⟩ mares"
     }
-  ],
-  "timestamp": "2026-06-13T06:38:39.037264522Z",
-  "model": "glm-4.5"
+  ]
 }

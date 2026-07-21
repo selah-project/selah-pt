@@ -1,9 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-kings 16:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 16,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:35:03.207428374Z",
+  "translation": "E o resto ⟨dos⟩ atos de Zimri, e ⟨a⟩ sua conspiração que tramou, não ⟨estão⟩ eles escritos no livro ⟨das⟩ Crônicas dos reis de Yisrael?",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E o resto"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨dos⟩ atos",
+      "marks": "do resto"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "de Zimri"
+    },
+    {
+      "surface": "וקשרו",
+      "gloss": "e ⟨a⟩ sua conspiração"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "tramou"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "não"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨estão⟩ eles"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "no"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "livro ⟨das⟩",
+      "marks": "escritos"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Crônicas"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dos reis"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,86 +82,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 755,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63049,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63804
-  },
-  "translation": "E o resto ⟨dos⟩ atos de Zimri, e ⟨a⟩ sua conspiração que tramou, não ⟨estão⟩ eles escritos no livro ⟨das⟩ Crônicas dos reis de Yisrael?",
-  "tokens": [
-    {
-      "surface": "ואת",
-      "english": "E o resto"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨dos⟩ atos",
-      "marks": "do resto"
-    },
-    {
-      "surface": "זמרי",
-      "english": "de Zimri"
-    },
-    {
-      "surface": "וקשרו",
-      "english": "e ⟨a⟩ sua conspiração"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "קשר",
-      "english": "tramou"
-    },
-    {
-      "surface": "הלא",
-      "english": "não"
-    },
-    {
-      "surface": "הם",
-      "english": "⟨estão⟩ eles"
-    },
-    {
-      "surface": "כתובים",
-      "english": "escritos"
-    },
-    {
-      "surface": "על",
-      "english": "no"
-    },
-    {
-      "surface": "ספר",
-      "english": "livro ⟨das⟩",
-      "marks": "escritos"
-    },
-    {
-      "surface": "דברי",
-      "english": "Crônicas"
-    },
-    {
-      "surface": "הימים",
-      "english": "dos reis"
-    },
-    {
-      "surface": "למלכי",
-      "english": "de Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:35:03.207428374Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

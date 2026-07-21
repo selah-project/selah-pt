@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 3:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52752,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53114
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:19:42.053263185Z",
   "translation": "Length ⟨of⟩ days ⟨is⟩ in her right ⟨hand⟩; in her left ⟨hand⟩ ⟨are⟩ wealth ⟨and⟩ honour.",
   "tokens": [
     {
       "surface": "ארך",
-      "english": "Length"
+      "gloss": "Length"
     },
     {
       "surface": "ימים",
-      "english": "⟨of⟩ days"
+      "gloss": "⟨of⟩ days"
     },
     {
       "surface": "בימינה",
-      "english": "in her right ⟨hand⟩"
+      "gloss": "in her right ⟨hand⟩"
     },
     {
       "surface": "בשמאולה",
-      "english": "in her left ⟨hand⟩"
+      "gloss": "in her left ⟨hand⟩"
     },
     {
       "surface": "עשר",
-      "english": "wealth"
+      "gloss": "wealth"
     },
     {
       "surface": "וכבוד",
-      "english": "⟨and⟩ honour"
+      "gloss": "⟨and⟩ honour"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:19:42.053263185Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

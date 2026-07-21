@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "isaiah 43:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 43,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:46:00.342237588Z",
+  "translation": "Eu ⟨sou⟩ YHWH ⟨o⟩ Santo ⟨de⟩ vós ⟨o⟩ Criador ⟨de⟩ Yisrael ⟨o⟩ vosso Rei",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "⟨o⟩ Santo ⟨de⟩ vós"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "⟨o⟩ Criador"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "⟨o⟩ vosso Rei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,48 +44,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 43,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18936,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19333
-  },
-  "translation": "Eu ⟨sou⟩ YHWH ⟨o⟩ Santo ⟨de⟩ vós ⟨o⟩ Criador ⟨de⟩ Yisrael ⟨o⟩ vosso Rei",
-  "tokens": [
-    {
-      "surface": "אני",
-      "english": "Eu"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "קדושכם",
-      "english": "⟨o⟩ Santo ⟨de⟩ vós"
-    },
-    {
-      "surface": "בורא",
-      "english": "⟨o⟩ Criador"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "מלככם",
-      "english": "⟨o⟩ vosso Rei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:46:00.342237588Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

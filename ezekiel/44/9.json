@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "ezekiel 44:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 44,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:49:35.834480401Z",
+  "translation": "כה אמר אדני יהוה כל בן נכר ערל לב וערל בשר לא יבוא אל מקדשי לכל בן נכר אשר בתוך בני ישראל — Assim diz Adonai YHWH: todo filho de estrangeiro, incircunciso ⟨de⟩ coração e incircunciso ⟨de⟩ carne, não entrará no meu Mikdash, ⟨para⟩ todo filho de estrangeiro que ⟨está⟩ no meio dos filhos de Yisrael.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "estrangeiro"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "incircunciso"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "וערל",
+      "gloss": "e incircunciso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "entrará"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "meu Mikdash"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨para⟩ todo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "estrangeiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "⟨está⟩ no meio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "santuário",
@@ -20,112 +115,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 44,
-  "usage": {
-    "completion_tokens": 814,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18601,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 19415
-  },
-  "translation": "כה אמר אדני יהוה כל בן נכר ערל לב וערל בשר לא יבוא אל מקדשי לכל בן נכר אשר בתוך בני ישראל — Assim diz Adonai YHWH: todo filho de estrangeiro, incircunciso ⟨de⟩ coração e incircunciso ⟨de⟩ carne, não entrará no meu Mikdash, ⟨para⟩ todo filho de estrangeiro que ⟨está⟩ no meio dos filhos de Yisrael.",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "נכר",
-      "english": "estrangeiro"
-    },
-    {
-      "surface": "ערל",
-      "english": "incircunciso"
-    },
-    {
-      "surface": "לב",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "וערל",
-      "english": "e incircunciso"
-    },
-    {
-      "surface": "בשר",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "יבוא",
-      "english": "entrará"
-    },
-    {
-      "surface": "אל",
-      "english": "no"
-    },
-    {
-      "surface": "מקדשי",
-      "english": "meu Mikdash"
-    },
-    {
-      "surface": "לכל",
-      "english": "⟨para⟩ todo"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "נכר",
-      "english": "estrangeiro"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בתוך",
-      "english": "⟨está⟩ no meio"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:49:35.834480401Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

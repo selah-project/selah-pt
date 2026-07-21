@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 13:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 388,
-    "prompt_tokens": 70863,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71251
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:35:11.145148294Z",
   "translation": "Até quando, YHWH, te esquecerás de mim? Para sempre? Até quando esconderás ⟨את⟩ tua face de mim?",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Até quando"
+      "gloss": "Até quando"
     },
     {
       "surface": "אנה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "תשכחני",
-      "english": "te esquecerás de mim"
+      "gloss": "te esquecerás de mim"
     },
     {
       "surface": "נצח",
-      "english": "Para sempre"
+      "gloss": "Para sempre"
     },
     {
       "surface": "עד",
-      "english": "Até quando"
+      "gloss": "Até quando"
     },
     {
       "surface": "אנה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "תסתיר",
-      "english": "esconderás"
+      "gloss": "esconderás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tua face"
     },
     {
       "surface": "פניך",
-      "english": "tua face"
+      "gloss": "tua face"
     },
     {
       "surface": "ממני",
-      "english": "de mim"
+      "gloss": "de mim"
     }
-  ],
-  "timestamp": "2026-07-16T17:35:11.145148294Z",
-  "model": "glm-4.5"
+  ]
 }

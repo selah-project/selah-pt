@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 105:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 371,
-    "prompt_tokens": 70470,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70841
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:41.643281650Z",
   "translation": "Dizendo: a ti darei ⟨את⟩ a terra de Kenaan, a corda da vossa herança.",
   "tokens": [
     {
       "surface": "לאמר",
-      "english": "Dizendo"
+      "gloss": "Dizendo"
     },
     {
       "surface": "לך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "אתן",
-      "english": "darei"
+      "gloss": "darei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a terra"
     },
     {
       "surface": "ארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     },
     {
       "surface": "כנען",
-      "english": "de Kenaan"
+      "gloss": "de Kenaan"
     },
     {
       "surface": "חבל",
-      "english": "a corda"
+      "gloss": "a corda"
     },
     {
       "surface": "נחלתכם",
-      "english": "da vossa herança"
+      "gloss": "da vossa herança"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:41.643281650Z",
-  "model": "glm-4.5"
+  ]
 }

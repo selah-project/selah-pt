@@ -1,67 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 143:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63138,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63640
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:13:38.855623950Z",
   "translation": "Eu me lembro dos dias de outrora; medito sobre ⟨o⟩ ⟨feito⟩ de tuas mãos; eu medito sobre ⟨o⟩ ⟨ato⟩ de tuas mãos.",
   "tokens": [
     {
       "surface": "זכרתי",
-      "english": "Eu me lembro"
+      "gloss": "Eu me lembro"
     },
     {
       "surface": "ימים",
-      "english": "dos dias"
+      "gloss": "dos dias"
     },
     {
       "surface": "מקדם",
-      "english": "de outrora"
+      "gloss": "de outrora"
     },
     {
       "surface": "הגיתי",
-      "english": "medito sobre"
+      "gloss": "medito sobre"
     },
     {
       "surface": "בכל",
-      "english": "⟨o⟩",
+      "gloss": "⟨o⟩",
       "marks": "feito"
     },
     {
       "surface": "פעלך",
-      "english": "⟨feito⟩",
+      "gloss": "⟨feito⟩",
       "marks": "הגיתי"
     },
     {
       "surface": "במעשה",
-      "english": "⟨ato⟩",
+      "gloss": "⟨ato⟩",
       "marks": "ידיך"
     },
     {
       "surface": "ידיך",
-      "english": "de tuas mãos"
+      "gloss": "de tuas mãos"
     },
     {
       "surface": "אשוחח",
-      "english": "eu medito sobre"
+      "gloss": "eu medito sobre"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:13:38.855623950Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

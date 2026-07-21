@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "job 10:19",
   "book": "job",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 472,
-    "prompt_tokens": 27451,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27923
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:57:08.308887840Z",
   "translation": "Como se eu não ⟨fosse⟩, eu teria sido, levado da madre ao túmulo",
   "tokens": [
     {
       "surface": "כאשר",
-      "english": "como se"
+      "gloss": "como se"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "הייתי",
-      "english": "⟨fosse⟩"
+      "gloss": "⟨fosse⟩"
     },
     {
       "surface": "אהיה",
-      "english": "eu teria sido"
+      "gloss": "eu teria sido"
     },
     {
       "surface": "מבטן",
-      "english": "da madre"
+      "gloss": "da madre"
     },
     {
       "surface": "לקבר",
-      "english": "ao túmulo"
+      "gloss": "ao túmulo"
     },
     {
       "surface": "אובל",
-      "english": "levado"
+      "gloss": "levado"
     }
-  ],
-  "timestamp": "2026-07-16T15:57:08.308887840Z",
-  "model": "glm-4.5"
+  ]
 }

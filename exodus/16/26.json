@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "exodus 16:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 16,
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:58:34.328280745Z",
+  "translation": "Seis dias ⟨você⟩ o colherá, e no sétimo dia ⟨é⟩ Shabbat; nele não ⟨haverá⟩ ⟨ele⟩",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Seis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dias"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "⟨você⟩ o colherá"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "e no"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sétimo dia"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "⟨é⟩ Shabbat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨haverá⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ele⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sábado",
@@ -13,60 +56,6 @@
       "hebrew": "שבת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17016,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17349
-  },
-  "translation": "Seis dias ⟨você⟩ o colherá, e no sétimo dia ⟨é⟩ Shabbat; nele não ⟨haverá⟩ ⟨ele⟩",
-  "tokens": [
-    {
-      "surface": "ששת",
-      "english": "Seis"
-    },
-    {
-      "surface": "ימים",
-      "english": "dias"
-    },
-    {
-      "surface": "תלקטהו",
-      "english": "⟨você⟩ o colherá"
-    },
-    {
-      "surface": "וביום",
-      "english": "e no"
-    },
-    {
-      "surface": "השביעי",
-      "english": "sétimo dia"
-    },
-    {
-      "surface": "שבת",
-      "english": "⟨é⟩ Shabbat"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "יהיה",
-      "english": "⟨haverá⟩"
-    },
-    {
-      "surface": "בו",
-      "english": "⟨ele⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:58:34.328280745Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

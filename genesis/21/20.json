@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 21:20",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 432,
-    "prompt_tokens": 29032,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29464
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:47:41.694245595Z",
   "translation": "E Elohim estava com ⟨את⟩ o moço, e ele cresceu, e habitou no deserto, e foi flecheiro.",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "e ... foi"
+      "gloss": "e ... foi"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o moço"
     },
     {
       "surface": "הנער",
-      "english": "o moço"
+      "gloss": "o moço"
     },
     {
       "surface": "ויגדל",
-      "english": "e ele cresceu"
+      "gloss": "e ele cresceu"
     },
     {
       "surface": "וישב",
-      "english": "e habitou"
+      "gloss": "e habitou"
     },
     {
       "surface": "במדבר",
-      "english": "no deserto"
+      "gloss": "no deserto"
     },
     {
       "surface": "ויהי",
-      "english": "e foi"
+      "gloss": "e foi"
     },
     {
       "surface": "רבה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "קשת",
-      "english": "flecheiro"
+      "gloss": "flecheiro"
     }
-  ],
-  "timestamp": "2026-07-16T14:47:41.694245595Z",
-  "model": "glm-4.5"
+  ]
 }

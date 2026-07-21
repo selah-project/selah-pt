@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-kings 12:5",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69858,
-    "prompt_tokens_details": {
-      "cached_tokens": 68634
-    },
-    "total_tokens": 70361
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:01:01.773075597Z",
   "translation": "E ⟨ele⟩ disse ⟨para⟩ eles: 'Ide ⟨por⟩ ainda três dias e ⟨então⟩ voltai ⟨a⟩ mim.' E ⟨o⟩ povo foi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ⟨ele⟩ disse"
+      "gloss": "E ⟨ele⟩ disse"
     },
     {
       "surface": "אליהם",
-      "english": "⟨para⟩ eles",
+      "gloss": "⟨para⟩ eles",
       "marks": "eles"
     },
     {
       "surface": "לכו",
-      "english": "Ide"
+      "gloss": "Ide"
     },
     {
       "surface": "עד",
-      "english": "⟨por⟩ ainda"
+      "gloss": "⟨por⟩ ainda"
     },
     {
       "surface": "שלשה",
-      "english": "três"
+      "gloss": "três"
     },
     {
       "surface": "ימים",
-      "english": "dias"
+      "gloss": "dias"
     },
     {
       "surface": "ושובו",
-      "english": "e ⟨então⟩ voltai"
+      "gloss": "e ⟨então⟩ voltai"
     },
     {
       "surface": "אלי",
-      "english": "⟨a⟩ mim",
+      "gloss": "⟨a⟩ mim",
       "marks": "mim"
     },
     {
       "surface": "וילכו",
-      "english": "E ⟨o⟩ povo foi"
+      "gloss": "E ⟨o⟩ povo foi"
     },
     {
       "surface": "העם",
-      "english": "povo"
+      "gloss": "povo"
     }
-  ],
-  "timestamp": "2026-06-13T06:01:01.773075597Z",
-  "model": "glm-4.5"
+  ]
 }

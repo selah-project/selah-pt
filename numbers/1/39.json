@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 39,
   "ref": "numbers 1:39",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 1,
+  "verse": 39,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:08:42.436162861Z",
+  "translation": "Os seus ⟨que foram⟩ contados ⟨de⟩ ⟨a tribo de⟩ Dan ⟨são⟩ dois e sessenta mil ⟨e⟩ setecentos.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "Os seus ⟨que foram⟩ contados"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "⟨de⟩ ⟨a tribo de⟩"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dois"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "e sessenta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "setecentos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Dã",
@@ -13,56 +52,6 @@
       "hebrew": "דן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 253,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18072,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18325
-  },
-  "translation": "Os seus ⟨que foram⟩ contados ⟨de⟩ ⟨a tribo de⟩ Dan ⟨são⟩ dois e sessenta mil ⟨e⟩ setecentos.",
-  "tokens": [
-    {
-      "surface": "פקדיהם",
-      "english": "Os seus ⟨que foram⟩ contados"
-    },
-    {
-      "surface": "למטה",
-      "english": "⟨de⟩ ⟨a tribo de⟩"
-    },
-    {
-      "surface": "דן",
-      "english": "Dan"
-    },
-    {
-      "surface": "שנים",
-      "english": "dois"
-    },
-    {
-      "surface": "וששים",
-      "english": "e sessenta"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil"
-    },
-    {
-      "surface": "ושבע",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "מאות",
-      "english": "setecentos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:08:42.436162861Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

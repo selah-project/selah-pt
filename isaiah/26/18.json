@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "isaiah 26:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 26,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:32:19.055525520Z",
+  "translation": "Concebemos, tivemos dores de parto, como ⟨se⟩ demos à luz ⟨um⟩ vento; não realizamos ⟨a⟩ Yeshuá ⟨na⟩ terra, e nem moradores ⟨do⟩ mundo caíram.",
+  "tokens": [
+    {
+      "surface": "הרינו",
+      "gloss": "Concebemos"
+    },
+    {
+      "surface": "חלנו",
+      "gloss": "tivemos dores de parto"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "como"
+    },
+    {
+      "surface": "ילדנו",
+      "gloss": "⟨se⟩ demos à luz"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨um⟩ vento"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "⟨a⟩ Yeshuá"
+    },
+    {
+      "surface": "בל",
+      "gloss": "não"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "realizamos"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨na⟩ terra"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "e nem"
+    },
+    {
+      "surface": "י�פלו",
+      "gloss": "caíram"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moradores"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨do⟩ mundo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "salvação",
@@ -13,76 +72,6 @@
       "hebrew": "ישועה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 685,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19662,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20347
-  },
-  "translation": "Concebemos, tivemos dores de parto, como ⟨se⟩ demos à luz ⟨um⟩ vento; não realizamos ⟨a⟩ Yeshuá ⟨na⟩ terra, e nem moradores ⟨do⟩ mundo caíram.",
-  "tokens": [
-    {
-      "surface": "הרינו",
-      "english": "Concebemos"
-    },
-    {
-      "surface": "חלנו",
-      "english": "tivemos dores de parto"
-    },
-    {
-      "surface": "כמו",
-      "english": "como"
-    },
-    {
-      "surface": "ילדנו",
-      "english": "⟨se⟩ demos à luz"
-    },
-    {
-      "surface": "רוח",
-      "english": "⟨um⟩ vento"
-    },
-    {
-      "surface": "ישועת",
-      "english": "⟨a⟩ Yeshuá"
-    },
-    {
-      "surface": "בל",
-      "english": "não"
-    },
-    {
-      "surface": "נעשה",
-      "english": "realizamos"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨na⟩ terra"
-    },
-    {
-      "surface": "ובל",
-      "english": "e nem"
-    },
-    {
-      "surface": "י�פלו",
-      "english": "caíram"
-    },
-    {
-      "surface": "ישבי",
-      "english": "moradores"
-    },
-    {
-      "surface": "תבל",
-      "english": "⟨do⟩ mundo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:32:19.055525520Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

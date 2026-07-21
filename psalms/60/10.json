@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 60:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70466,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70970
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:38:57.834202036Z",
   "translation": "Moab é ⟨a⟩ minha bacia de lavar; sobre Edom ⟨eu⟩ lançarei ⟨a⟩ minha sandália; sobre Filistéia ⟨eu⟩ clamará em triunfo",
   "tokens": [
     {
       "surface": "מואב",
-      "english": "Moab"
+      "gloss": "Moab"
     },
     {
       "surface": "סיר",
-      "english": "⟨a⟩ minha bacia de lavar"
+      "gloss": "⟨a⟩ minha bacia de lavar"
     },
     {
       "surface": "רחצי",
-      "english": "bacia"
+      "gloss": "bacia"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "אדום",
-      "english": "Edom"
+      "gloss": "Edom"
     },
     {
       "surface": "אשליך",
-      "english": "⟨eu⟩ lançarei"
+      "gloss": "⟨eu⟩ lançarei"
     },
     {
       "surface": "נעלי",
-      "english": "⟨a⟩ minha sandália"
+      "gloss": "⟨a⟩ minha sandália"
     },
     {
       "surface": "עלי",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "פלשת",
-      "english": "Filistéia"
+      "gloss": "Filistéia"
     },
     {
       "surface": "התרעעי",
-      "english": "⟨eu⟩ clamará em triunfo"
+      "gloss": "⟨eu⟩ clamará em triunfo"
     }
-  ],
-  "timestamp": "2026-06-13T06:38:57.834202036Z",
-  "model": "glm-4.5"
+  ]
 }

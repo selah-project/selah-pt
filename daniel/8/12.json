@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "daniel 8:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 8,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:57:18.964327867Z",
+  "translation": "e ⟨um⟩ exército ⟨foi⟩ dado ⟨contra⟩ ⟨o⟩ contínuo ⟨por⟩ transgressão, e ⟨a⟩ Emet ⟨foi⟩ lançada ⟨à⟩ terra, e ⟨ele⟩ fez e prosperou.",
+  "tokens": [
+    {
+      "surface": "וצבא",
+      "gloss": "E ⟨um⟩ exército"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "⟨foi⟩ dado"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨contra⟩"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "⟨o⟩ contínuo"
+    },
+    {
+      "surface": "בפשע",
+      "gloss": "⟨por⟩ transgressão"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "e ⟨a⟩ verdade ⟨foi⟩ lançada"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Emet"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨à⟩ terra"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "e ⟨ele⟩ fez"
+    },
+    {
+      "surface": "והצליחה",
+      "gloss": "e prosperou"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "verdade",
@@ -13,64 +60,6 @@
       "hebrew": "אמת"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 736,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17470,
-    "prompt_tokens_details": {
-      "cached_tokens": 16111
-    },
-    "total_tokens": 18206
-  },
-  "translation": "e ⟨um⟩ exército ⟨foi⟩ dado ⟨contra⟩ ⟨o⟩ contínuo ⟨por⟩ transgressão, e ⟨a⟩ Emet ⟨foi⟩ lançada ⟨à⟩ terra, e ⟨ele⟩ fez e prosperou.",
-  "tokens": [
-    {
-      "surface": "וצבא",
-      "english": "E ⟨um⟩ exército"
-    },
-    {
-      "surface": "תנתן",
-      "english": "⟨foi⟩ dado"
-    },
-    {
-      "surface": "על",
-      "english": "⟨contra⟩"
-    },
-    {
-      "surface": "התמיד",
-      "english": "⟨o⟩ contínuo"
-    },
-    {
-      "surface": "בפשע",
-      "english": "⟨por⟩ transgressão"
-    },
-    {
-      "surface": "ותשלך",
-      "english": "e ⟨a⟩ verdade ⟨foi⟩ lançada"
-    },
-    {
-      "surface": "אמת",
-      "english": "Emet"
-    },
-    {
-      "surface": "ארצה",
-      "english": "⟨à⟩ terra"
-    },
-    {
-      "surface": "ועשתה",
-      "english": "e ⟨ele⟩ fez"
-    },
-    {
-      "surface": "והצליחה",
-      "english": "e prosperou"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:57:18.964327867Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "deuteronomy 1:18",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 460,
-    "prompt_tokens": 25274,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25734
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:09:03.297158402Z",
   "translation": "E eu vos ordenei ⟨את⟩ naquele tempo ⟨את⟩ todas as coisas que faríeis",
   "tokens": [
     {
       "surface": "ואצוה",
-      "english": "E eu vos ordenei"
+      "gloss": "E eu vos ordenei"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "בעת"
     },
     {
       "surface": "בעת",
-      "english": "naquele tempo"
+      "gloss": "naquele tempo"
     },
     {
       "surface": "ההוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "כל"
     },
     {
       "surface": "כל",
-      "english": "todas as coisas"
+      "gloss": "todas as coisas"
     },
     {
       "surface": "הדברים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "תעשון",
-      "english": "faríeis"
+      "gloss": "faríeis"
     }
-  ],
-  "timestamp": "2026-07-16T13:09:03.297158402Z",
-  "model": "glm-4.5"
+  ]
 }

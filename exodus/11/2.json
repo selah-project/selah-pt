@@ -1,86 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 11:2",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 816,
-    "prompt_tokens": 24952,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25768
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:48:27.220516383Z",
   "translation": "Fala, peço-te, aos ouvidos do povo, e peçam ⟨את⟩ homem de ⟨את⟩ seu companheiro e mulher de ⟨את⟩ sua companheira, utensílios de prata e utensílios de ouro",
   "tokens": [
     {
       "surface": "דבר",
-      "english": "Fala"
+      "gloss": "Fala"
     },
     {
       "surface": "נא",
-      "english": "peço-te"
+      "gloss": "peço-te"
     },
     {
       "surface": "באזני",
-      "english": "aos ouvidos"
+      "gloss": "aos ouvidos"
     },
     {
       "surface": "העם",
-      "english": "do povo"
+      "gloss": "do povo"
     },
     {
       "surface": "וישאלו",
-      "english": "e peçam"
+      "gloss": "e peçam"
     },
     {
       "surface": "איש",
-      "english": "⟨את⟩ homem",
+      "gloss": "⟨את⟩ homem",
       "marks": "homem"
     },
     {
       "surface": "מאת",
-      "english": "de",
+      "gloss": "de",
       "marks": "seu companheiro"
     },
     {
       "surface": "רעהו",
-      "english": "⟨את⟩ seu companheiro",
+      "gloss": "⟨את⟩ seu companheiro",
       "marks": "companheiro"
     },
     {
       "surface": "ואשה",
-      "english": "e mulher"
+      "gloss": "e mulher"
     },
     {
       "surface": "מאת",
-      "english": "de",
+      "gloss": "de",
       "marks": "sua companheira"
     },
     {
       "surface": "רעותה",
-      "english": "⟨את⟩ sua companheira",
+      "gloss": "⟨את⟩ sua companheira",
       "marks": "companheira"
     },
     {
       "surface": "כלי",
-      "english": "utensílios"
+      "gloss": "utensílios"
     },
     {
       "surface": "כסף",
-      "english": "de prata"
+      "gloss": "de prata"
     },
     {
       "surface": "וכלי",
-      "english": "e utensílios"
+      "gloss": "e utensílios"
     },
     {
       "surface": "זהב",
-      "english": "de ouro"
+      "gloss": "de ouro"
     }
-  ],
-  "timestamp": "2026-07-16T13:48:27.220516383Z",
-  "model": "glm-4.5"
+  ]
 }

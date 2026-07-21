@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "leviticus 18:25",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 733,
-    "prompt_tokens": 25156,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25889
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:47:08.910473458Z",
   "translation": "e a terra ⟨está⟩ contaminada, e eu visito ⟨את⟩ a perversidade dela sobre ela, e a terra vomita ⟨את⟩ os que habitam nela",
   "tokens": [
     {
       "surface": "ותטמא",
-      "english": "e a terra ⟨está⟩ contaminada"
+      "gloss": "e a terra ⟨está⟩ contaminada"
     },
     {
       "surface": "הארץ",
-      "english": "e a terra"
+      "gloss": "e a terra"
     },
     {
       "surface": "ואפקד",
-      "english": "e eu visito"
+      "gloss": "e eu visito"
     },
     {
       "surface": "עונה",
-      "english": "a perversidade dela"
+      "gloss": "a perversidade dela"
     },
     {
       "surface": "עליה",
-      "english": "sobre ela"
+      "gloss": "sobre ela"
     },
     {
       "surface": "ותקא",
-      "english": "e a terra vomita"
+      "gloss": "e a terra vomita"
     },
     {
       "surface": "הארץ",
-      "english": "e a terra"
+      "gloss": "e a terra"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os que habitam nela"
     },
     {
       "surface": "ישביה",
-      "english": "os que habitam nela"
+      "gloss": "os que habitam nela"
     }
-  ],
-  "timestamp": "2026-07-16T16:47:08.910473458Z",
-  "model": "glm-4.5"
+  ]
 }

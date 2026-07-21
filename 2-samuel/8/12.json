@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-samuel 8:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 8,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:50:12.885715313Z",
+  "translation": "de Aram e de Moabe e ⟨dos⟩ filhos de Ammon e ⟨dos⟩ filisteus e de Amaleque e ⟨do⟩ despojo de Hadadezer, filho de Reob, rei de Zobá",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "De Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "e de Moabe"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "e ⟨dos⟩"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "filhos de Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "e ⟨dos⟩"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "filisteus e de Amaleque"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "e ⟨do⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "despojo de Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": ", filho"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "de Reob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": ", rei"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "de Zobá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amom",
@@ -13,72 +68,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 602,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17755,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18357
-  },
-  "translation": "de Aram e de Moabe e ⟨dos⟩ filhos de Ammon e ⟨dos⟩ filisteus e de Amaleque e ⟨do⟩ despojo de Hadadezer, filho de Reob, rei de Zobá",
-  "tokens": [
-    {
-      "surface": "מארם",
-      "english": "De Aram"
-    },
-    {
-      "surface": "וממואב",
-      "english": "e de Moabe"
-    },
-    {
-      "surface": "ומבני",
-      "english": "e ⟨dos⟩"
-    },
-    {
-      "surface": "עמון",
-      "english": "filhos de Ammon"
-    },
-    {
-      "surface": "ומפלשתים",
-      "english": "e ⟨dos⟩"
-    },
-    {
-      "surface": "ומעמלק",
-      "english": "filisteus e de Amaleque"
-    },
-    {
-      "surface": "ומשלל",
-      "english": "e ⟨do⟩"
-    },
-    {
-      "surface": "הדדעזר",
-      "english": "despojo de Hadadezer"
-    },
-    {
-      "surface": "בן",
-      "english": ", filho"
-    },
-    {
-      "surface": "רחב",
-      "english": "de Reob"
-    },
-    {
-      "surface": "מלך",
-      "english": ", rei"
-    },
-    {
-      "surface": "צובה",
-      "english": "de Zobá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:50:12.885715313Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

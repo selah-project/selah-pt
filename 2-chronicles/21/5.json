@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-chronicles 21:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 611,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58309,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58920
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:30:13.004675043Z",
   "translation": "Filho ⟨de⟩ trinta e dois anos ⟨foi⟩ Yehorám ⟨ao⟩ começar ⟨a⟩ reinar, e oito anos reinou em Yerushaláyim",
   "tokens": [
     {
       "surface": "בן",
-      "english": "Filho ⟨de⟩",
+      "gloss": "Filho ⟨de⟩",
       "rationale": "bên pode significar 'filho de idade'; traduzido aqui como 'Filho ⟨de⟩' para indicar a idade de início do reinado"
     },
     {
       "surface": "שלשים",
-      "english": "trinta"
+      "gloss": "trinta"
     },
     {
       "surface": "ושתים",
-      "english": "e dois"
+      "gloss": "e dois"
     },
     {
       "surface": "שנה",
-      "english": "anos",
+      "gloss": "anos",
       "rationale": "shannah (ano) no plural masculino shanim"
     },
     {
       "surface": "יהורם",
-      "english": "Yehorám"
+      "gloss": "Yehorám"
     },
     {
       "surface": "במלכו",
-      "english": "⟨ao⟩ começar ⟨a⟩",
+      "gloss": "⟨ao⟩ começar ⟨a⟩",
       "rationale": "bemalko (literalmente 'no seu reinado') traduzido como '⟨ao⟩ começar ⟨a⟩' para capturar o sentido de início do reinado"
     },
     {
       "surface": "ושמונה",
-      "english": "e oito"
+      "gloss": "e oito"
     },
     {
       "surface": "שנים",
-      "english": "anos",
+      "gloss": "anos",
       "rationale": "shanim no plural, concordando com 'oito anos'"
     },
     {
       "surface": "מלך",
-      "english": "reinou"
+      "gloss": "reinou"
     },
     {
       "surface": "בירושלם",
-      "english": "em Yerushaláyim"
+      "gloss": "em Yerushaláyim"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:30:13.004675043Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

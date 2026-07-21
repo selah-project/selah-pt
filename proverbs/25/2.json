@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 25:2",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 60367,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60752
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:31:34.347739676Z",
   "translation": "A glória de Elohim ⟨é⟩ esconder um assunto, e a glória de reis ⟨é⟩ investigar um assunto.",
   "tokens": [
     {
       "surface": "כבד",
-      "english": "A glória de"
+      "gloss": "A glória de"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "הסתר",
-      "english": "esconder"
+      "gloss": "esconder"
     },
     {
       "surface": "דבר",
-      "english": "um assunto"
+      "gloss": "um assunto"
     },
     {
       "surface": "וכבד",
-      "english": "e a glória de"
+      "gloss": "e a glória de"
     },
     {
       "surface": "מלכים",
-      "english": "reis"
+      "gloss": "reis"
     },
     {
       "surface": "חקר",
-      "english": "investigar"
+      "gloss": "investigar"
     },
     {
       "surface": "דבר",
-      "english": "um assunto"
+      "gloss": "um assunto"
     }
-  ],
-  "timestamp": "2026-07-16T17:31:34.347739676Z",
-  "model": "glm-4.5"
+  ]
 }

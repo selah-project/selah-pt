@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 37,
   "ref": "psalms 37:37",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 37,
+  "verse": 37,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:04:20.502296195Z",
+  "translation": "Guarda ⟨o⟩ íntegro e vê ⟨o⟩ reto, pois ⟨o⟩ fim ⟨do⟩ homem de Shalom ⟨será⟩ Shalom.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Guarda"
+    },
+    {
+      "surface": "תם",
+      "gloss": "⟨o⟩ íntegro"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e vê"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨o⟩ reto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "⟨o⟩ fim"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨do⟩ homem"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de Shalom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,56 +52,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62913,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63357
-  },
-  "translation": "Guarda ⟨o⟩ íntegro e vê ⟨o⟩ reto, pois ⟨o⟩ fim ⟨do⟩ homem de Shalom ⟨será⟩ Shalom.",
-  "tokens": [
-    {
-      "surface": "שמר",
-      "english": "Guarda"
-    },
-    {
-      "surface": "תם",
-      "english": "⟨o⟩ íntegro"
-    },
-    {
-      "surface": "וראה",
-      "english": "e vê"
-    },
-    {
-      "surface": "ישר",
-      "english": "⟨o⟩ reto"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "אחרית",
-      "english": "⟨o⟩ fim"
-    },
-    {
-      "surface": "לאיש",
-      "english": "⟨do⟩ homem"
-    },
-    {
-      "surface": "שלום",
-      "english": "de Shalom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:04:20.502296195Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

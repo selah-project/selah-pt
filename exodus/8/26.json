@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "exodus 8:26",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 199,
-    "prompt_tokens": 24386,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24585
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:46:19.560345781Z",
   "translation": "E Moshé saiu de com Paró e suplicou a YHWH",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "E saiu"
+      "gloss": "E saiu"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "מעם",
-      "english": "de com"
+      "gloss": "de com"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "ויעתר",
-      "english": "e suplicou"
+      "gloss": "e suplicou"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T13:46:19.560345781Z",
-  "model": "glm-4.5"
+  ]
 }

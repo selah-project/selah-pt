@@ -1,9 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-chronicles 11:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 11,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:18:58.817735132Z",
+  "translation": "Diga a Rejavam ⟨o⟩ filho de Shlomó, rei de Yehudá, e a todo Yisrael ⟨que está⟩ em Yehudá e em Benjamim, ⟨o seguinte⟩:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Diga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a",
+      "marks": "Roboão...e a todo Israel"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shlomó"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a",
+      "marks": "todo Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "⟨que está⟩ em Judá"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "e em Benjamim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨o seguinte⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboão",
@@ -34,78 +95,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58505,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58972
-  },
-  "translation": "Diga a Rejavam ⟨o⟩ filho de Shlomó, rei de Yehudá, e a todo Yisrael ⟨que está⟩ em Yehudá e em Benjamim, ⟨o seguinte⟩:",
-  "tokens": [
-    {
-      "surface": "אמר",
-      "english": "Diga"
-    },
-    {
-      "surface": "אל",
-      "english": "a",
-      "marks": "Roboão...e a todo Israel"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "שלמה",
-      "english": "de Shlomó"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ואל",
-      "english": "e a",
-      "marks": "todo Israel"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "⟨que está⟩ em Judá"
-    },
-    {
-      "surface": "ובנימן",
-      "english": "e em Benjamim"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨o seguinte⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:18:58.817735132Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

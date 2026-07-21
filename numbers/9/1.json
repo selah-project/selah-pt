@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "numbers 9:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 9,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:19:32.121442459Z",
+  "translation": "E YHWH falou a Moshé no deserto de Sinai, no segundo ano ⟨de⟩ ⟨sua⟩ saída da terra do Mitzráyim, no primeiro mês, dizendo",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "no deserto de"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "no ano"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "segundo"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "⟨de⟩ ⟨sua⟩ saída"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "da terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "no mês"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "primeiro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -20,80 +83,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18497,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18984
-  },
-  "translation": "E YHWH falou a Moshé no deserto de Sinai, no segundo ano ⟨de⟩ ⟨sua⟩ saída da terra do Mitzráyim, no primeiro mês, dizendo",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "במדבר",
-      "english": "no deserto de"
-    },
-    {
-      "surface": "סיני",
-      "english": "Sinai"
-    },
-    {
-      "surface": "בשנה",
-      "english": "no ano"
-    },
-    {
-      "surface": "השנית",
-      "english": "segundo"
-    },
-    {
-      "surface": "לצאתם",
-      "english": "⟨de⟩ ⟨sua⟩ saída"
-    },
-    {
-      "surface": "מארץ",
-      "english": "da terra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "בחדש",
-      "english": "no mês"
-    },
-    {
-      "surface": "הראשון",
-      "english": "primeiro"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:19:32.121442459Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

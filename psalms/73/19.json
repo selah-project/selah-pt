@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 73:19",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 557,
-    "prompt_tokens": 70343,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70900
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:23.421478594Z",
   "translation": "Como ⟨são⟩ postos em desolação como num momento! São totalmente consumidos por terrors.",
   "tokens": [
     {
       "surface": "איך",
-      "english": "Como"
+      "gloss": "Como"
     },
     {
       "surface": "היו",
-      "english": "⟨são⟩ postos",
+      "gloss": "⟨são⟩ postos",
       "marks": "em desolação"
     },
     {
       "surface": "לשמה",
-      "english": "em desolação"
+      "gloss": "em desolação"
     },
     {
       "surface": "כרגע",
-      "english": "como num momento"
+      "gloss": "como num momento"
     },
     {
       "surface": "ספו",
-      "english": "São totalmente consumidos"
+      "gloss": "São totalmente consumidos"
     },
     {
       "surface": "תמו",
-      "english": "consumidos"
+      "gloss": "consumidos"
     },
     {
       "surface": "מן",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "בלהות",
-      "english": "terrores"
+      "gloss": "terrores"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:23.421478594Z",
-  "model": "glm-4.5"
+  ]
 }

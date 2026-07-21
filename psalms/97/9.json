@@ -1,9 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 97:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 97,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:44:08.353812992Z",
+  "translation": "Porque tu ⟨és⟩ YHWH, Elyon, sobre toda ⟨a⟩ terra, grandemente ⟨és⟩ exaltado, sobre todos ⟨os⟩ elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ terra",
+      "marks": "a terra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grandemente"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "⟨és⟩ exaltado",
+      "marks": "tu ⟨és⟩ exaltado"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨os⟩ elohim",
+      "marks": "todos ⟨os⟩ elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "o Altíssimo",
@@ -13,75 +71,6 @@
       "hebrew": "עליון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 97,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63330,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63848
-  },
-  "translation": "Porque tu ⟨és⟩ YHWH, Elyon, sobre toda ⟨a⟩ terra, grandemente ⟨és⟩ exaltado, sobre todos ⟨os⟩ elohim.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "אתה",
-      "english": "tu"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "עליון",
-      "english": "Elyon"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨a⟩ terra",
-      "marks": "a terra"
-    },
-    {
-      "surface": "מאד",
-      "english": "grandemente"
-    },
-    {
-      "surface": "נעלית",
-      "english": "⟨és⟩ exaltado",
-      "marks": "tu ⟨és⟩ exaltado"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "אלהים",
-      "english": "⟨os⟩ elohim",
-      "marks": "todos ⟨os⟩ elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:44:08.353812992Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

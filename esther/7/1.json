@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "esther 7:1",
   "book": "esther",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 352,
-    "prompt_tokens": 24914,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25266
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:40:43.581498432Z",
   "translation": "E o rei veio, e Hamán, para beber com ⟨a⟩ rainha Ester",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "E veio"
+      "gloss": "E veio"
     },
     {
       "surface": "המלך",
-      "english": "o rei"
+      "gloss": "o rei"
     },
     {
       "surface": "והמן",
-      "english": ", e Hamán"
+      "gloss": ", e Hamán"
     },
     {
       "surface": "לשתות",
-      "english": "para beber"
+      "gloss": "para beber"
     },
     {
       "surface": "עם",
-      "english": "com"
+      "gloss": "com"
     },
     {
       "surface": "אסתר",
-      "english": "Ester"
+      "gloss": "Ester"
     },
     {
       "surface": "המלכה",
-      "english": "⟨a⟩ rainha"
+      "gloss": "⟨a⟩ rainha"
     }
-  ],
-  "timestamp": "2026-07-16T13:40:43.581498432Z",
-  "model": "glm-4.5"
+  ]
 }

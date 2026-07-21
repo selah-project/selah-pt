@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "jeremiah 4:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 4,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:07:00.563756278Z",
+  "translation": "Levantai ⟨um⟩ sinal ⟨em⟩ Tzion: fortalecei-vos, não pareis, porque ⟨um⟩ mal ⟨eu⟩ trago ⟨do⟩ norte, ⟨e⟩ uma grande destruição.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Levantai"
+    },
+    {
+      "surface": "נס",
+      "gloss": "⟨um⟩ sinal"
+    },
+    {
+      "surface": "ציונה",
+      "gloss": "⟨em⟩ Tzion"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "fortalecei-vos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "não"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "pareis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨um⟩ mal"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨eu⟩"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "trago"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "⟨do⟩ norte"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "⟨e⟩ uma"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande destruição"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sião",
@@ -13,76 +72,6 @@
       "hebrew": "ציון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 631,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17921,
-    "prompt_tokens_details": {
-      "cached_tokens": 16391
-    },
-    "total_tokens": 18552
-  },
-  "translation": "Levantai ⟨um⟩ sinal ⟨em⟩ Tzion: fortalecei-vos, não pareis, porque ⟨um⟩ mal ⟨eu⟩ trago ⟨do⟩ norte, ⟨e⟩ uma grande destruição.",
-  "tokens": [
-    {
-      "surface": "שאו",
-      "english": "Levantai"
-    },
-    {
-      "surface": "נס",
-      "english": "⟨um⟩ sinal"
-    },
-    {
-      "surface": "ציונה",
-      "english": "⟨em⟩ Tzion"
-    },
-    {
-      "surface": "העיזו",
-      "english": "fortalecei-vos"
-    },
-    {
-      "surface": "אל",
-      "english": "não"
-    },
-    {
-      "surface": "תעמדו",
-      "english": "pareis"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "רעה",
-      "english": "⟨um⟩ mal"
-    },
-    {
-      "surface": "אנכי",
-      "english": "⟨eu⟩"
-    },
-    {
-      "surface": "מביא",
-      "english": "trago"
-    },
-    {
-      "surface": "מצפון",
-      "english": "⟨do⟩ norte"
-    },
-    {
-      "surface": "ושבר",
-      "english": "⟨e⟩ uma"
-    },
-    {
-      "surface": "גדול",
-      "english": "grande destruição"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:07:00.563756278Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

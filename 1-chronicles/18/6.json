@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-chronicles 18:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 18,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:53:41.064594164Z",
+  "translation": "E David colocou ⟨guarnições⟩ em Aram-Damesek; e Aram tornou-se ⟨para⟩ David ⟨como⟩ servos, ⟨trazendo⟩ Minjás. E YHWH salvou David em tudo ⟨que⟩ ⟨ele⟩ ⟨andava⟩.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "E Davi colocou"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "em Aram"
+    },
+    {
+      "surface": "דרמשק",
+      "gloss": "Damesek"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "⟨para⟩ Davi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "⟨como⟩ servos"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "⟨trazendo⟩"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "Minjás"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "E YHWH salvou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "em tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨ele⟩ ⟨andava⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,88 +98,6 @@
       "hebrew": "מנחה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 673,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57834,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58507
-  },
-  "translation": "E David colocou ⟨guarnições⟩ em Aram-Damesek; e Aram tornou-se ⟨para⟩ David ⟨como⟩ servos, ⟨trazendo⟩ Minjás. E YHWH salvou David em tudo ⟨que⟩ ⟨ele⟩ ⟨andava⟩.",
-  "tokens": [
-    {
-      "surface": "וישם",
-      "english": "E Davi colocou"
-    },
-    {
-      "surface": "דויד",
-      "english": "David"
-    },
-    {
-      "surface": "בארם",
-      "english": "em Aram"
-    },
-    {
-      "surface": "דרמשק",
-      "english": "Damesek"
-    },
-    {
-      "surface": "ויהי",
-      "english": "e"
-    },
-    {
-      "surface": "ארם",
-      "english": "Aram"
-    },
-    {
-      "surface": "לדויד",
-      "english": "⟨para⟩ Davi"
-    },
-    {
-      "surface": "עבדים",
-      "english": "⟨como⟩ servos"
-    },
-    {
-      "surface": "נשאי",
-      "english": "⟨trazendo⟩"
-    },
-    {
-      "surface": "מנחה",
-      "english": "Minjás"
-    },
-    {
-      "surface": "ויושע",
-      "english": "E YHWH salvou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לדויד",
-      "english": "Davi"
-    },
-    {
-      "surface": "בכל",
-      "english": "em tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "הלך",
-      "english": "⟨ele⟩ ⟨andava⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:53:41.064594164Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

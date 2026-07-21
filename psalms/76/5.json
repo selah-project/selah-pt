@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 76:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62725,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63053
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:29:38.326215428Z",
   "translation": "⟨You⟩ ⟨are⟩ magnificent ⟨from⟩ ⟨the⟩ mountains of ⟨את⟩ prey",
   "tokens": [
     {
       "surface": "נאור",
-      "english": "Magnificent"
+      "gloss": "Magnificent"
     },
     {
       "surface": "אתה",
-      "english": "⟨You⟩"
+      "gloss": "⟨You⟩"
     },
     {
       "surface": "אדיר",
-      "english": "⟨are⟩"
+      "gloss": "⟨are⟩"
     },
     {
       "surface": "מהררי",
-      "english": "⟨from⟩ ⟨the⟩ mountains of"
+      "gloss": "⟨from⟩ ⟨the⟩ mountains of"
     },
     {
       "surface": "טרף",
-      "english": "prey",
+      "gloss": "prey",
       "marks": "prey"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:29:38.326215428Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

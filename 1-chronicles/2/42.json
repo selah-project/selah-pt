@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "1-chronicles 2:42",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 2,
+  "verse": 42,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:33:19.262023491Z",
+  "translation": "E os filhos de Kalev, irmão de Jerameel, eram: Mesha, seu primogênito, ⟨é⟩ pai de Zif; e os filhos de Maressá ⟨são⟩ pai de Jevron.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos de"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "irmão de"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jerameel"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "seu primogênito"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "pai de"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e os filhos de"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maressá"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "⟨são⟩ pai de"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Jevron"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Calebe",
@@ -20,76 +79,6 @@
       "hebrew": "חברון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 602,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57580,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58182
-  },
-  "translation": "E os filhos de Kalev, irmão de Jerameel, eram: Mesha, seu primogênito, ⟨é⟩ pai de Zif; e os filhos de Maressá ⟨são⟩ pai de Jevron.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos de"
-    },
-    {
-      "surface": "כלב",
-      "english": "Kalev"
-    },
-    {
-      "surface": "אחי",
-      "english": "irmão de"
-    },
-    {
-      "surface": "ירחמאל",
-      "english": "Jerameel"
-    },
-    {
-      "surface": "מישע",
-      "english": "Mesha"
-    },
-    {
-      "surface": "בכרו",
-      "english": "seu primogênito"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "אבי",
-      "english": "pai de"
-    },
-    {
-      "surface": "זיף",
-      "english": "Zif"
-    },
-    {
-      "surface": "ובני",
-      "english": "e os filhos de"
-    },
-    {
-      "surface": "מרשה",
-      "english": "Maressá"
-    },
-    {
-      "surface": "אבי",
-      "english": "⟨são⟩ pai de"
-    },
-    {
-      "surface": "חברון",
-      "english": "Jevron"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:33:19.262023491Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

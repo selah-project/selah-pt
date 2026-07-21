@@ -1,9 +1,121 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-kings 3:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 3,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:48:14.492157151Z",
+  "translation": "E Yehoshafat disse: 'Não ⟨há⟩ aqui ⟨um⟩ profeta ⟨de⟩ YHWH, para que possamos perguntar ⟨a⟩ YHWH ⟨את⟩ ⟨por meio⟩ ⟨dele⟩?' E respondeu ⟨um⟩ dos servos ⟨do⟩ rei ⟨de⟩ Yisrael, e disse: 'Aqui ⟨está⟩ Elishá ben Shafat, que derramou ⟨água⟩ ⟨sobre⟩ ⟨as⟩ mãos ⟨de⟩ Eliyáhu'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Não ⟨há⟩ aqui"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aqui"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "⟨um⟩ profeta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "para que possamos perguntar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "⟨por meio⟩ ⟨dele⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨por meio⟩ ⟨dele⟩"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "E respondeu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "dos servos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨do⟩ rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "פה",
+      "gloss": "Aqui ⟨está⟩"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "derramou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨água⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "⟨as⟩ mãos"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "⟨de⟩ Eliyáhu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,129 +125,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 1061,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18715,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 19776
-  },
-  "translation": "E Yehoshafat disse: 'Não ⟨há⟩ aqui ⟨um⟩ profeta ⟨de⟩ YHWH, para que possamos perguntar ⟨a⟩ YHWH ⟨את⟩ ⟨por meio⟩ ⟨dele⟩?' E respondeu ⟨um⟩ dos servos ⟨do⟩ rei ⟨de⟩ Yisrael, e disse: 'Aqui ⟨está⟩ Elishá ben Shafat, que derramou ⟨água⟩ ⟨sobre⟩ ⟨as⟩ mãos ⟨de⟩ Eliyáhu'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "האין",
-      "english": "Não ⟨há⟩ aqui"
-    },
-    {
-      "surface": "פה",
-      "english": "aqui"
-    },
-    {
-      "surface": "נביא",
-      "english": "⟨um⟩ profeta"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "⟨de⟩ YHWH"
-    },
-    {
-      "surface": "ונדרשה",
-      "english": "para que possamos perguntar"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "⟨por meio⟩ ⟨dele⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "מאותו",
-      "english": "⟨por meio⟩ ⟨dele⟩"
-    },
-    {
-      "surface": "ויען",
-      "english": "E respondeu"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "מעבדי",
-      "english": "dos servos"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨do⟩ rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "ואמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "פה",
-      "english": "Aqui ⟨está⟩"
-    },
-    {
-      "surface": "אלישע",
-      "english": "Elishá"
-    },
-    {
-      "surface": "בן",
-      "english": "ben"
-    },
-    {
-      "surface": "שפט",
-      "english": "Shafat"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "יצק",
-      "english": "derramou"
-    },
-    {
-      "surface": "מים",
-      "english": "⟨água⟩"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "ידי",
-      "english": "⟨as⟩ mãos"
-    },
-    {
-      "surface": "אליהו",
-      "english": "⟨de⟩ Eliyáhu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:48:14.492157151Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

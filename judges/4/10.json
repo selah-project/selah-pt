@@ -1,9 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "judges 4:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 4,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:53:39.634289204Z",
+  "translation": "E Barak convocou ⟨את⟩ Zevulun e ⟨את⟩ Naftali a Quedesh; e ele subiu com dez mil homens ⟨a⟩ seus pés; e Devorá subiu com ele.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "E Barak convocou"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebulom"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "a Quedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e ele subiu"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "com dez mil homens ⟨a⟩ seus pés"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dez"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "mil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homens"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "e Débora subiu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "com ele"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devorá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zebulom",
@@ -20,86 +89,6 @@
       "hebrew": "דבורה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 534,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17105,
-    "prompt_tokens_details": {
-      "cached_tokens": 15157
-    },
-    "total_tokens": 17639
-  },
-  "translation": "E Barak convocou ⟨את⟩ Zevulun e ⟨את⟩ Naftali a Quedesh; e ele subiu com dez mil homens ⟨a⟩ seus pés; e Devorá subiu com ele.",
-  "tokens": [
-    {
-      "surface": "ויזעק",
-      "english": "E Barak convocou"
-    },
-    {
-      "surface": "ברק",
-      "english": "Barak"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "Zebulom"
-    },
-    {
-      "surface": "זבולן",
-      "english": "Zevulun"
-    },
-    {
-      "surface": "ואת",
-      "english": "⟨את⟩",
-      "marks": "Naftali"
-    },
-    {
-      "surface": "נפתלי",
-      "english": "Naftali"
-    },
-    {
-      "surface": "קדשה",
-      "english": "a Quedesh"
-    },
-    {
-      "surface": "ויעל",
-      "english": "e ele subiu"
-    },
-    {
-      "surface": "ברגליו",
-      "english": "com dez mil homens ⟨a⟩ seus pés"
-    },
-    {
-      "surface": "עשרת",
-      "english": "dez"
-    },
-    {
-      "surface": "אלפי",
-      "english": "mil"
-    },
-    {
-      "surface": "איש",
-      "english": "homens"
-    },
-    {
-      "surface": "ותעל",
-      "english": "e Débora subiu"
-    },
-    {
-      "surface": "עמו",
-      "english": "com ele"
-    },
-    {
-      "surface": "דבורה",
-      "english": "Devorá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:53:39.634289204Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

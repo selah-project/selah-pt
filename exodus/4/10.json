@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "exodus 4:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 4,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:38:57.070820257Z",
+  "translation": "E Moshé disse a YHWH: Oh! Adonai, ⟨eu⟩ não sou ⟨um⟩ homem de palavras, nem ontem, nem antes, nem desde que falaste ao teu servo; porque ⟨sou⟩ ⟨de⟩ boca pesada e ⟨de⟩ língua pesada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Oh!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨um⟩ homem"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "de palavras"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨eu⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "ontem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "משלשם",
+      "gloss": "antes"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "desde que"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "falaste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "teu servo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "⟨de⟩ pesada"
+    },
+    {
+      "surface": "פה",
+      "gloss": "boca"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "e ⟨de⟩"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "pesada língua"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨sou⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moisés",
@@ -13,124 +120,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 762,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18409,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 19171
-  },
-  "translation": "E Moshé disse a YHWH: Oh! Adonai, ⟨eu⟩ não sou ⟨um⟩ homem de palavras, nem ontem, nem antes, nem desde que falaste ao teu servo; porque ⟨sou⟩ ⟨de⟩ boca pesada e ⟨de⟩ língua pesada.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "בי",
-      "english": "Oh!"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨um⟩ homem"
-    },
-    {
-      "surface": "דברים",
-      "english": "de palavras"
-    },
-    {
-      "surface": "אנכי",
-      "english": "⟨eu⟩"
-    },
-    {
-      "surface": "גם",
-      "english": "nem"
-    },
-    {
-      "surface": "מתמול",
-      "english": "ontem"
-    },
-    {
-      "surface": "גם",
-      "english": "nem"
-    },
-    {
-      "surface": "משלשם",
-      "english": "antes"
-    },
-    {
-      "surface": "גם",
-      "english": "nem"
-    },
-    {
-      "surface": "מאז",
-      "english": "desde que"
-    },
-    {
-      "surface": "דברך",
-      "english": "falaste"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "עבדך",
-      "english": "teu servo"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "כבד",
-      "english": "⟨de⟩ pesada"
-    },
-    {
-      "surface": "פה",
-      "english": "boca"
-    },
-    {
-      "surface": "וכבד",
-      "english": "e ⟨de⟩"
-    },
-    {
-      "surface": "לשון",
-      "english": "pesada língua"
-    },
-    {
-      "surface": "אנכי",
-      "english": "⟨sou⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:38:57.070820257Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

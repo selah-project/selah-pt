@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 30:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 471,
-    "prompt_tokens": 70631,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71102
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:31:43.374030264Z",
   "translation": "YHWH, por teu favor fizeste minha montanha ⟨estar⟩ firme; escondeste tua face, e fiquei perturbado.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ברצונך",
-      "english": "por teu favor"
+      "gloss": "por teu favor"
     },
     {
       "surface": "העמדתה",
-      "english": "fizeste ⟨estar⟩ firme"
+      "gloss": "fizeste ⟨estar⟩ firme"
     },
     {
       "surface": "להררי",
-      "english": "minha montanha"
+      "gloss": "minha montanha"
     },
     {
       "surface": "עז",
-      "english": "firme"
+      "gloss": "firme"
     },
     {
       "surface": "הסתרת",
-      "english": "escondeste"
+      "gloss": "escondeste"
     },
     {
       "surface": "פניך",
-      "english": "tua face"
+      "gloss": "tua face"
     },
     {
       "surface": "הייתי",
-      "english": "fiquei"
+      "gloss": "fiquei"
     },
     {
       "surface": "נבהל",
-      "english": "perturbado"
+      "gloss": "perturbado"
     }
-  ],
-  "timestamp": "2026-07-21T02:31:43.374030264Z",
-  "model": "glm-4.5"
+  ]
 }

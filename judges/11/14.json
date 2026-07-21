@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "judges 11:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 11,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:01:51.149532455Z",
+  "translation": "E Jiphtach ⟨adicionou⟩ ainda ⟨mais⟩ e enviou mensageiros ⟨ao⟩ rei dos filhos de Ammon:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "E Jiphtach ⟨adicionou⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ainda ⟨mais⟩"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiphtach"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e enviou"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mensageiros"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Ammon"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amom",
@@ -13,60 +56,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16324,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 16710
-  },
-  "translation": "E Jiphtach ⟨adicionou⟩ ainda ⟨mais⟩ e enviou mensageiros ⟨ao⟩ rei dos filhos de Ammon:",
-  "tokens": [
-    {
-      "surface": "ויוסף",
-      "english": "E Jiphtach ⟨adicionou⟩"
-    },
-    {
-      "surface": "עוד",
-      "english": "ainda ⟨mais⟩"
-    },
-    {
-      "surface": "יפתח",
-      "english": "Jiphtach"
-    },
-    {
-      "surface": "וישלח",
-      "english": "e enviou"
-    },
-    {
-      "surface": "מלאכים",
-      "english": "mensageiros"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Ammon"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:01:51.149532455Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

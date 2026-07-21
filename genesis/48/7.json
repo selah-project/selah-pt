@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "genesis 48:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 48,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:32:57.811298629Z",
+  "translation": "E eu ⟨estava⟩ vindo de Padã, Rachel morreu sobre mim na terra de Kenaan, no caminho, quando ⟨estava⟩ ainda uma pequena distância de terra para vir ⟨a⟩ Efrata, e ⟨a⟩ sepultei lá no caminho de Efrata, que ⟨é⟩ Betelém.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "E eu"
+    },
+    {
+      "surface": "בבאי",
+      "gloss": "⟨estava⟩ vindo"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "de Padã"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "morreu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sobre mim"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Kenaan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "no caminho"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "quando ⟨estava⟩ ainda"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "uma pequena distância"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de terra"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "para vir"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "⟨a⟩ Efrata"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "e ⟨a⟩ sepultei"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lá"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "no caminho"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "de Efrata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "que ⟨é⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betel"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ém"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Canaã",
@@ -13,108 +104,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 654,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22593,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 23247
-  },
-  "translation": "E eu ⟨estava⟩ vindo de Padã, Rachel morreu sobre mim na terra de Kenaan, no caminho, quando ⟨estava⟩ ainda uma pequena distância de terra para vir ⟨a⟩ Efrata, e ⟨a⟩ sepultei lá no caminho de Efrata, que ⟨é⟩ Betelém.",
-  "tokens": [
-    {
-      "surface": "ואני",
-      "english": "E eu"
-    },
-    {
-      "surface": "בבאי",
-      "english": "⟨estava⟩ vindo"
-    },
-    {
-      "surface": "מפדן",
-      "english": "de Padã"
-    },
-    {
-      "surface": "מתה",
-      "english": "morreu"
-    },
-    {
-      "surface": "עלי",
-      "english": "sobre mim"
-    },
-    {
-      "surface": "רחל",
-      "english": "Rachel"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra"
-    },
-    {
-      "surface": "כנען",
-      "english": "de Kenaan"
-    },
-    {
-      "surface": "בדרך",
-      "english": "no caminho"
-    },
-    {
-      "surface": "בעוד",
-      "english": "quando ⟨estava⟩ ainda"
-    },
-    {
-      "surface": "כברת",
-      "english": "uma pequena distância"
-    },
-    {
-      "surface": "ארץ",
-      "english": "de terra"
-    },
-    {
-      "surface": "לבא",
-      "english": "para vir"
-    },
-    {
-      "surface": "אפרתה",
-      "english": "⟨a⟩ Efrata"
-    },
-    {
-      "surface": "ואקברה",
-      "english": "e ⟨a⟩ sepultei"
-    },
-    {
-      "surface": "שם",
-      "english": "lá"
-    },
-    {
-      "surface": "בדרך",
-      "english": "no caminho"
-    },
-    {
-      "surface": "אפרת",
-      "english": "de Efrata"
-    },
-    {
-      "surface": "הוא",
-      "english": "que ⟨é⟩"
-    },
-    {
-      "surface": "בית",
-      "english": "Betel"
-    },
-    {
-      "surface": "לחם",
-      "english": "ém"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:32:57.811298629Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

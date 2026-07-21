@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 91:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62887,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63413
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:41:13.186638407Z",
   "translation": "pois ⟨ele⟩ te livrará da armadilha do caçador e ⟨da⟩ peste perigosa",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois",
+      "gloss": "Pois",
       "marks": null
     },
     {
       "surface": "הוא",
-      "english": "⟨ele⟩",
+      "gloss": "⟨ele⟩",
       "marks": "dele"
     },
     {
       "surface": "יצילך",
-      "english": "te livrará",
+      "gloss": "te livrará",
       "marks": null
     },
     {
       "surface": "מפח",
-      "english": "da armadilha",
+      "gloss": "da armadilha",
       "marks": null
     },
     {
       "surface": "יקוש",
-      "english": "do caçador",
+      "gloss": "do caçador",
       "marks": null
     },
     {
       "surface": "מדבר",
-      "english": "⟨da⟩",
+      "gloss": "⟨da⟩",
       "marks": "peste perigosa"
     },
     {
       "surface": "הוות",
-      "english": "peste perigosa",
+      "gloss": "peste perigosa",
       "marks": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:41:13.186638407Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

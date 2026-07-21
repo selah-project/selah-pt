@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 114:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62796,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63109
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:55:54.417752786Z",
   "translation": "Os montes ⟨saltaram⟩ como carneiros, ⟨os⟩ outeiros como ⟨cordeiros⟩ ⟨do⟩ rebanho",
   "tokens": [
     {
       "surface": "ההרים",
-      "english": "Os montes"
+      "gloss": "Os montes"
     },
     {
       "surface": "תרקדו",
-      "english": "⟨saltaram⟩",
+      "gloss": "⟨saltaram⟩",
       "marks": "Os montes"
     },
     {
       "surface": "כאילים",
-      "english": "como carneiros"
+      "gloss": "como carneiros"
     },
     {
       "surface": "גבעות",
-      "english": "⟨os⟩ outeiros"
+      "gloss": "⟨os⟩ outeiros"
     },
     {
       "surface": "כבני",
-      "english": "como ⟨cordeiros⟩ ⟨do⟩"
+      "gloss": "como ⟨cordeiros⟩ ⟨do⟩"
     },
     {
       "surface": "צאן",
-      "english": "rebanho"
+      "gloss": "rebanho"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:55:54.417752786Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 33:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 33,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:37:42.407381381Z",
+  "translation": "Eis que ⟨os⟩ seus heróis ⟨estão⟩ a gritar ⟨ao⟩ ⟨ar livre⟩; os emissários da Shalom ⟨estão⟩ a chorar amargamente.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "⟨os⟩ seus heróis"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "⟨estão⟩ a gritar"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "⟨ao⟩ ⟨ar livre⟩"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "os emissários"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "da Shalom"
+    },
+    {
+      "surface": "מר",
+      "gloss": "amargamente"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "⟨estão⟩ a chorar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,56 +52,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19065,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19660
-  },
-  "translation": "Eis que ⟨os⟩ seus heróis ⟨estão⟩ a gritar ⟨ao⟩ ⟨ar livre⟩; os emissários da Shalom ⟨estão⟩ a chorar amargamente.",
-  "tokens": [
-    {
-      "surface": "הן",
-      "english": "Eis que"
-    },
-    {
-      "surface": "אראלם",
-      "english": "⟨os⟩ seus heróis"
-    },
-    {
-      "surface": "צעקו",
-      "english": "⟨estão⟩ a gritar"
-    },
-    {
-      "surface": "חצה",
-      "english": "⟨ao⟩ ⟨ar livre⟩"
-    },
-    {
-      "surface": "מלאכי",
-      "english": "os emissários"
-    },
-    {
-      "surface": "שלום",
-      "english": "da Shalom"
-    },
-    {
-      "surface": "מר",
-      "english": "amargamente"
-    },
-    {
-      "surface": "יבכיון",
-      "english": "⟨estão⟩ a chorar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:37:42.407381381Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

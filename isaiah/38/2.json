@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 38:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 38,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:41:50.509350728Z",
+  "translation": "E Jizkiyahu virou ⟨seu⟩ rosto ⟨para⟩ o muro e orou ⟨a⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "E"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Jizkiyahu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨seu⟩ rosto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "o muro"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "e orou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Ezequias",
@@ -13,56 +52,6 @@
       "hebrew": "חזקיהו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 38,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19064,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19442
-  },
-  "translation": "E Jizkiyahu virou ⟨seu⟩ rosto ⟨para⟩ o muro e orou ⟨a⟩ YHWH",
-  "tokens": [
-    {
-      "surface": "ויסב",
-      "english": "E"
-    },
-    {
-      "surface": "חזקיהו",
-      "english": "Jizkiyahu"
-    },
-    {
-      "surface": "פניו",
-      "english": "⟨seu⟩ rosto"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "הקיר",
-      "english": "o muro"
-    },
-    {
-      "surface": "ואתפלל",
-      "english": "e orou"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:41:50.509350728Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

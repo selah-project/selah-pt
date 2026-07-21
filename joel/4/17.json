@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "joel 4:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joel",
+  "chapter": 4,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:04:40.280386423Z",
+  "translation": "E sabereis que eu ⟨sou⟩ YHWH vosso Elohim que habita em Sião, meu monte sagrado; e Yerushalayim será santa e estranhos não passarão por ela ⟨ainda⟩",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "E sabereis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vosso Elohim"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "que habita"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "em Sião"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sagrado"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e será"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santa"
+    },
+    {
+      "surface": "וזרים",
+      "gloss": "e estranhos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "passarão"
+    },
+    {
+      "surface": "בה",
+      "gloss": "por ela"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨ainda⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,92 +88,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16792,
-    "prompt_tokens_details": {
-      "cached_tokens": 15277
-    },
-    "total_tokens": 17347
-  },
-  "translation": "E sabereis que eu ⟨sou⟩ YHWH vosso Elohim que habita em Sião, meu monte sagrado; e Yerushalayim será santa e estranhos não passarão por ela ⟨ainda⟩",
-  "tokens": [
-    {
-      "surface": "וידעתם",
-      "english": "E sabereis"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "אני",
-      "english": "eu"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיכם",
-      "english": "vosso Elohim"
-    },
-    {
-      "surface": "שכן",
-      "english": "que habita"
-    },
-    {
-      "surface": "בציון",
-      "english": "em Sião"
-    },
-    {
-      "surface": "הר",
-      "english": "monte"
-    },
-    {
-      "surface": "קדשי",
-      "english": "sagrado"
-    },
-    {
-      "surface": "והיתה",
-      "english": "e será"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "קדש",
-      "english": "santa"
-    },
-    {
-      "surface": "וזרים",
-      "english": "e estranhos"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "יעברו",
-      "english": "passarão"
-    },
-    {
-      "surface": "בה",
-      "english": "por ela"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨ainda⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:04:40.280386423Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

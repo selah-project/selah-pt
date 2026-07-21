@@ -1,9 +1,28 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 26:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 26,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:06:45.766626548Z",
+  "translation": "E Yitzjak habitou ⟨em⟩ Gerar",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E habitou"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitzjak"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "⟨em⟩ Gerar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Itzjak",
@@ -13,36 +32,6 @@
       "hebrew": "יצחק"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 173,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20888,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21061
-  },
-  "translation": "E Yitzjak habitou ⟨em⟩ Gerar",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E habitou"
-    },
-    {
-      "surface": "יצחק",
-      "english": "Yitzjak"
-    },
-    {
-      "surface": "בגרר",
-      "english": "⟨em⟩ Gerar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:06:45.766626548Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

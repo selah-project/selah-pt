@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "isaiah 66:6",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26588,
-    "prompt_tokens_details": {
-      "cached_tokens": 25327
-    },
-    "total_tokens": 27065
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:15:17.828538397Z",
   "translation": "Voz ⟨de⟩ tumulto da cidade, voz ⟨do⟩ templo, voz ⟨de⟩ YHWH retribuindo ⟨a⟩ recompensa a ⟨seus⟩ inimigos.",
   "tokens": [
     {
       "surface": "קול",
-      "english": "Voz"
+      "gloss": "Voz"
     },
     {
       "surface": "שאון",
-      "english": "⟨de⟩ tumulto"
+      "gloss": "⟨de⟩ tumulto"
     },
     {
       "surface": "מעיר",
-      "english": "da cidade"
+      "gloss": "da cidade"
     },
     {
       "surface": "קול",
-      "english": "voz"
+      "gloss": "voz"
     },
     {
       "surface": "מהיכל",
-      "english": "⟨do⟩ templo"
+      "gloss": "⟨do⟩ templo"
     },
     {
       "surface": "קול",
-      "english": "voz"
+      "gloss": "voz"
     },
     {
       "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
+      "gloss": "⟨de⟩ YHWH"
     },
     {
       "surface": "משלם",
-      "english": "retribuindo"
+      "gloss": "retribuindo"
     },
     {
       "surface": "גמול",
-      "english": "⟨a⟩ recompensa"
+      "gloss": "⟨a⟩ recompensa"
     },
     {
       "surface": "לאיביו",
-      "english": "a ⟨seus⟩ inimigos"
+      "gloss": "a ⟨seus⟩ inimigos"
     }
-  ],
-  "timestamp": "2026-06-13T06:15:17.828538397Z",
-  "model": "glm-4.5"
+  ]
 }

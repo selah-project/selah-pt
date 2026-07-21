@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "psalms 105:40",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62814,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63165
-  },
+  "verse": 40,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:49:57.894353105Z",
   "translation": "Eles pediram, e Ele trouxe codornizes, e os satisfeitz ⟨com⟩ o pão ⟨dos⟩ céus.",
   "tokens": [
     {
       "surface": "שאל",
-      "english": "Pediram"
+      "gloss": "Pediram"
     },
     {
       "surface": "ויבא",
-      "english": "e Ele trouxe"
+      "gloss": "e Ele trouxe"
     },
     {
       "surface": "שלו",
-      "english": "codornizes"
+      "gloss": "codornizes"
     },
     {
       "surface": "ולחם",
-      "english": "e ⟨com⟩ o pão",
+      "gloss": "e ⟨com⟩ o pão",
       "marks": "שלו ולחם"
     },
     {
       "surface": "שמים",
-      "english": "⟨dos⟩ céus"
+      "gloss": "⟨dos⟩ céus"
     },
     {
       "surface": "ישביעם",
-      "english": "os satisfeitz"
+      "gloss": "os satisfeitz"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:49:57.894353105Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

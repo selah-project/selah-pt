@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 45:16",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 344,
-    "prompt_tokens": 70176,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70520
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:32:23.696147398Z",
   "translation": "Com alegria e regozijo ⟨elas⟩ serão trazidas: entrarão no palácio do rei.",
   "tokens": [
     {
       "surface": "תובלנה",
-      "english": "serão trazidas"
+      "gloss": "serão trazidas"
     },
     {
       "surface": "בשמחת",
-      "english": "com alegria"
+      "gloss": "com alegria"
     },
     {
       "surface": "וגיל",
-      "english": "e regozijo"
+      "gloss": "e regozijo"
     },
     {
       "surface": "תבאינה",
-      "english": "entrarão"
+      "gloss": "entrarão"
     },
     {
       "surface": "בהיכל",
-      "english": "no palácio"
+      "gloss": "no palácio"
     },
     {
       "surface": "מלך",
-      "english": "do rei"
+      "gloss": "do rei"
     }
-  ],
-  "timestamp": "2026-07-21T02:32:23.696147398Z",
-  "model": "glm-4.5"
+  ]
 }

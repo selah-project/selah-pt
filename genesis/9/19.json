@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "genesis 9:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 9,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:50:08.627058622Z",
+  "translation": "Estes três ⟨são⟩ os filhos de Noaj, e a partir destes toda ⟨a⟩ terra foi dispersada",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Estes três"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "נח",
+      "gloss": "de Noaj"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "e a partir destes"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "foi dispersada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noé",
@@ -13,56 +52,6 @@
       "hebrew": "נח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21307,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21600
-  },
-  "translation": "Estes três ⟨são⟩ os filhos de Noaj, e a partir destes toda ⟨a⟩ terra foi dispersada",
-  "tokens": [
-    {
-      "surface": "שלשה",
-      "english": "Estes três"
-    },
-    {
-      "surface": "אלה",
-      "english": "estes"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "נח",
-      "english": "de Noaj"
-    },
-    {
-      "surface": "ומאלה",
-      "english": "e a partir destes"
-    },
-    {
-      "surface": "נפצה",
-      "english": "foi dispersada"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "הארץ",
-      "english": "a terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:50:08.627058622Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

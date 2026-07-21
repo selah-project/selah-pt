@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 33:16",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 388,
-    "prompt_tokens": 28561,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28949
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:55:19.219391980Z",
   "translation": "E ⟨então⟩ Esav retornou naquele dia ⟨ao⟩ seu caminho ⟨para⟩ Seir",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "E ⟨então⟩ Esav retornou"
+      "gloss": "E ⟨então⟩ Esav retornou"
     },
     {
       "surface": "ביום",
-      "english": "naquele dia"
+      "gloss": "naquele dia"
     },
     {
       "surface": "ההוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "עשו",
-      "english": "Esav"
+      "gloss": "Esav"
     },
     {
       "surface": "לדרכו",
-      "english": "⟨ao⟩ seu caminho"
+      "gloss": "⟨ao⟩ seu caminho"
     },
     {
       "surface": "שעירה",
-      "english": "⟨para⟩ Seir"
+      "gloss": "⟨para⟩ Seir"
     }
-  ],
-  "timestamp": "2026-07-16T14:55:19.219391980Z",
-  "model": "glm-4.5"
+  ]
 }

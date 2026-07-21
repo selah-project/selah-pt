@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "proverbs 17:21",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 534,
-    "prompt_tokens": 60323,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60857
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:30:29.545014207Z",
   "translation": "⟨O que⟩ gera ⟨um⟩ tolo, faz isso para ⟨a sua⟩ aflição, e o pai de ⟨um⟩ tolo não se alegra.",
   "tokens": [
     {
       "surface": "יֹלֵד",
-      "english": "⟨O que⟩ gera"
+      "gloss": "⟨O que⟩ gera"
     },
     {
       "surface": "כְּסִיל",
-      "english": "⟨um⟩ tolo"
+      "gloss": "⟨um⟩ tolo"
     },
     {
       "surface": "לְתוּגָה",
-      "english": "faz isso para ⟨a sua⟩ aflição"
+      "gloss": "faz isso para ⟨a sua⟩ aflição"
     },
     {
       "surface": "לוֹ",
-      "english": "faz isso para ⟨a sua⟩"
+      "gloss": "faz isso para ⟨a sua⟩"
     },
     {
       "surface": "וְלֹא",
-      "english": "e não"
+      "gloss": "e não"
     },
     {
       "surface": "יִשְׂמַח",
-      "english": "se alegra"
+      "gloss": "se alegra"
     },
     {
       "surface": "אֲבִי",
-      "english": "o pai de"
+      "gloss": "o pai de"
     },
     {
       "surface": "נָבָל",
-      "english": "⟨um⟩ tolo"
+      "gloss": "⟨um⟩ tolo"
     }
-  ],
-  "timestamp": "2026-07-16T17:30:29.545014207Z",
-  "model": "glm-4.5"
+  ]
 }

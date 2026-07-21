@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 34:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 34,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:47:23.813103731Z",
+  "translation": "E ⟨o⟩ limite ⟨irá⟩ rodear ⟨de⟩ Azmon ⟨até⟩ ⟨o⟩ ribeiro de ⟨o⟩ Mitzráyim, e ⟨as⟩ saídas dele ⟨serão⟩ ⟨no⟩ mar.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "E ⟨o⟩ limite ⟨irá⟩ rodear"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "E ⟨o⟩ limite ⟨irá⟩ rodear"
+    },
+    {
+      "surface": "מעצמון",
+      "gloss": "⟨de⟩ Azmon"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "⟨até⟩ ⟨o⟩ ribeiro de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨o⟩ Mitzráyim"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e ⟨as⟩ saídas dele ⟨serão⟩"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "⟨as⟩ saídas dele"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "⟨no⟩ mar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,56 +52,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 918,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18132,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 19050
-  },
-  "translation": "E ⟨o⟩ limite ⟨irá⟩ rodear ⟨de⟩ Azmon ⟨até⟩ ⟨o⟩ ribeiro de ⟨o⟩ Mitzráyim, e ⟨as⟩ saídas dele ⟨serão⟩ ⟨no⟩ mar.",
-  "tokens": [
-    {
-      "surface": "ונסב",
-      "english": "E ⟨o⟩ limite ⟨irá⟩ rodear"
-    },
-    {
-      "surface": "הגבול",
-      "english": "E ⟨o⟩ limite ⟨irá⟩ rodear"
-    },
-    {
-      "surface": "מעצמון",
-      "english": "⟨de⟩ Azmon"
-    },
-    {
-      "surface": "נחלה",
-      "english": "⟨até⟩ ⟨o⟩ ribeiro de"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨o⟩ Mitzráyim"
-    },
-    {
-      "surface": "והיו",
-      "english": "e ⟨as⟩ saídas dele ⟨serão⟩"
-    },
-    {
-      "surface": "תוצאתיו",
-      "english": "⟨as⟩ saídas dele"
-    },
-    {
-      "surface": "הימה",
-      "english": "⟨no⟩ mar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:47:23.813103731Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

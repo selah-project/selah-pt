@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-kings 16:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 16,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:34:34.474166927Z",
+  "translation": "E ⟨o⟩ restante ⟨das⟩ palavras de Baasa ⟨e⟩ o que ele fez ⟨e⟩ sua valentia — ⟨não⟩ estão ⟨elas⟩ escritas ⟨no⟩ livro ⟨das⟩ palavras dos dias ⟨dos⟩ reis de Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "E ⟨o⟩ restante"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨das⟩ palavras"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "de Baasa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o que ele fez"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "⟨e⟩ sua valentia"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "— ⟨não⟩"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨elas⟩"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "escritas"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "livro"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨das⟩ palavras"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dos dias"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "⟨dos⟩ reis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 769,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63027,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63796
-  },
-  "translation": "E ⟨o⟩ restante ⟨das⟩ palavras de Baasa ⟨e⟩ o que ele fez ⟨e⟩ sua valentia — ⟨não⟩ estão ⟨elas⟩ escritas ⟨no⟩ livro ⟨das⟩ palavras dos dias ⟨dos⟩ reis de Yisrael?",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "E ⟨o⟩ restante"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨das⟩ palavras"
-    },
-    {
-      "surface": "בעשא",
-      "english": "de Baasa"
-    },
-    {
-      "surface": "ואשר",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "עשה",
-      "english": "o que ele fez"
-    },
-    {
-      "surface": "וגבורתו",
-      "english": "⟨e⟩ sua valentia"
-    },
-    {
-      "surface": "הלא",
-      "english": "— ⟨não⟩"
-    },
-    {
-      "surface": "הם",
-      "english": "⟨elas⟩"
-    },
-    {
-      "surface": "כתובים",
-      "english": "escritas"
-    },
-    {
-      "surface": "על",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "ספר",
-      "english": "livro"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨das⟩ palavras"
-    },
-    {
-      "surface": "הימים",
-      "english": "dos dias"
-    },
-    {
-      "surface": "למלכי",
-      "english": "⟨dos⟩ reis"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:34:34.474166927Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

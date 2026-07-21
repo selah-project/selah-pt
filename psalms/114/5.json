@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 114:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70242,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70633
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:51.682925506Z",
   "translation": "What ⟨is⟩ ⟨to⟩ you, ⟨the⟩ sea, that you flee? ⟨the⟩ Jordan, ⟨you⟩ ⟨will⟩ turn ⟨to⟩ backward?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "What"
+      "gloss": "What"
     },
     {
       "surface": "לך",
-      "english": "⟨to⟩ you"
+      "gloss": "⟨to⟩ you"
     },
     {
       "surface": "הים",
-      "english": "⟨the⟩ sea"
+      "gloss": "⟨the⟩ sea"
     },
     {
       "surface": "כי",
-      "english": "that"
+      "gloss": "that"
     },
     {
       "surface": "תנוס",
-      "english": "you flee"
+      "gloss": "you flee"
     },
     {
       "surface": "הירדן",
-      "english": "⟨the⟩ Jordan"
+      "gloss": "⟨the⟩ Jordan"
     },
     {
       "surface": "תסב",
-      "english": "⟨you⟩ ⟨will⟩ turn"
+      "gloss": "⟨you⟩ ⟨will⟩ turn"
     },
     {
       "surface": "לאחור",
-      "english": "⟨to⟩ backward"
+      "gloss": "⟨to⟩ backward"
     }
-  ],
-  "timestamp": "2026-06-13T06:40:51.682925506Z",
-  "model": "glm-4.5"
+  ]
 }

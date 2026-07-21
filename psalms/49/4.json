@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 49:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62822,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63366
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:11:05.648861567Z",
   "translation": "Minha boca ⟨falará⟩ sabedorias ⟨e⟩ ⟨a⟩ meditação ⟨de⟩ meu coração ⟨é⟩ entendimentos.",
   "tokens": [
     {
       "surface": "פי",
-      "english": "Minha boca",
+      "gloss": "Minha boca",
       "rationale": "Literal 'my mouth'; בי added per context"
     },
     {
       "surface": "ידבר",
-      "english": "⟨falará⟩",
+      "gloss": "⟨falará⟩",
       "rationale": "Future tense verb, בי added per context"
     },
     {
       "surface": "חכמות",
-      "english": "sabedorias",
+      "gloss": "sabedorias",
       "rationale": "Plural of חכמה (wisdom), literally 'wisdoms'"
     },
     {
       "surface": "והגות",
-      "english": "⟨e⟩ ⟨a⟩ meditação",
+      "gloss": "⟨e⟩ ⟨a⟩ meditação",
       "rationale": "Hapax legomenon; Hebrew lacks articles\/conjunctions"
     },
     {
       "surface": "לבי",
-      "english": "⟨de⟩ meu coração",
+      "gloss": "⟨de⟩ meu coração",
       "rationale": "Literal 'my heart'; prep added in English"
     },
     {
       "surface": "תבונות",
-      "english": "⟨é⟩ entendimentos",
+      "gloss": "⟨é⟩ entendimentos",
       "rationale": "Plural; copula ⟨é⟩ added in English"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:11:05.648861567Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

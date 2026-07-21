@@ -1,9 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 59:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 59,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:18:13.069128449Z",
+  "translation": "E eu cantarei ⟨a⟩ tua força, e ⟨ao⟩ amanhecer cantarei ⟨a⟩ tua Jésed, pois tu foste ⟨um⟩ lugar alto para mim e ⟨um⟩ refúgio no dia da minha angústia.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "E eu"
+    },
+    {
+      "surface": "אשיר",
+      "gloss": "cantarei"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "⟨a⟩ tua força",
+      "marks": "força"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "e ⟨ao⟩ amanhecer cantarei"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "⟨ao⟩ amanhecer"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "⟨a⟩ tua Jésed",
+      "marks": "bondade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "היית",
+      "gloss": "foste"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "⟨um⟩ lugar alto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para mim"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "e ⟨um⟩ refúgio"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "no dia"
+    },
+    {
+      "surface": "צר",
+      "gloss": "angústia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "da minha"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "bondade",
@@ -13,82 +78,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 59,
-  "usage": {
-    "completion_tokens": 691,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63408,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 64099
-  },
-  "translation": "E eu cantarei ⟨a⟩ tua força, e ⟨ao⟩ amanhecer cantarei ⟨a⟩ tua Jésed, pois tu foste ⟨um⟩ lugar alto para mim e ⟨um⟩ refúgio no dia da minha angústia.",
-  "tokens": [
-    {
-      "surface": "ואני",
-      "english": "E eu"
-    },
-    {
-      "surface": "אשיר",
-      "english": "cantarei"
-    },
-    {
-      "surface": "עזך",
-      "english": "⟨a⟩ tua força",
-      "marks": "força"
-    },
-    {
-      "surface": "וארנן",
-      "english": "e ⟨ao⟩ amanhecer cantarei"
-    },
-    {
-      "surface": "לבקר",
-      "english": "⟨ao⟩ amanhecer"
-    },
-    {
-      "surface": "חסדך",
-      "english": "⟨a⟩ tua Jésed",
-      "marks": "bondade"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "היית",
-      "english": "foste"
-    },
-    {
-      "surface": "משגב",
-      "english": "⟨um⟩ lugar alto"
-    },
-    {
-      "surface": "לי",
-      "english": "para mim"
-    },
-    {
-      "surface": "ומנוס",
-      "english": "e ⟨um⟩ refúgio"
-    },
-    {
-      "surface": "ביום",
-      "english": "no dia"
-    },
-    {
-      "surface": "צר",
-      "english": "angústia"
-    },
-    {
-      "surface": "לי",
-      "english": "da minha"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:18:13.069128449Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

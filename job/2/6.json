@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 2:6",
   "book": "job",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 448,
-    "prompt_tokens": 27795,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 28243
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:53:07.342033856Z",
   "translation": "E disse YHWH ao Satã: Eis que ele está em tua mão; apenas, guarde ⟨את⟩ sua vida.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "ao"
+      "gloss": "ao"
     },
     {
       "surface": "השטן",
-      "english": "Satã"
+      "gloss": "Satã"
     },
     {
       "surface": "הנו",
-      "english": "Eis que ele"
+      "gloss": "Eis que ele"
     },
     {
       "surface": "בידך",
-      "english": "está em tua mão"
+      "gloss": "está em tua mão"
     },
     {
       "surface": "אך",
-      "english": "apenas"
+      "gloss": "apenas"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sua vida"
     },
     {
       "surface": "נפשו",
-      "english": "sua vida"
+      "gloss": "sua vida"
     },
     {
       "surface": "שמר",
-      "english": "guarde"
+      "gloss": "guarde"
     }
-  ],
-  "timestamp": "2026-07-16T15:53:07.342033856Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 47,
   "ref": "psalms 78:47",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62693,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63167
-  },
+  "verse": 47,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:31:56.673655338Z",
   "translation": "Ele matou ⟨as⟩ suas videiras com ⟨o⟩ granizo, e ⟨as⟩ suas figueiras-bravas com ⟨a⟩ geada.",
   "tokens": [
     {
       "surface": "יהרג",
-      "english": "Ele matou"
+      "gloss": "Ele matou"
     },
     {
       "surface": "בברד",
-      "english": "com ⟨o⟩ granizo",
+      "gloss": "com ⟨o⟩ granizo",
       "marks": "suas videiras"
     },
     {
       "surface": "גפנם",
-      "english": "⟨as⟩ suas videiras"
+      "gloss": "⟨as⟩ suas videiras"
     },
     {
       "surface": "ושקמותם",
-      "english": "e ⟨as⟩ suas figueiras-bravas"
+      "gloss": "e ⟨as⟩ suas figueiras-bravas"
     },
     {
       "surface": "בחנמל",
-      "english": "com ⟨a⟩ geada",
+      "gloss": "com ⟨a⟩ geada",
       "marks": "suas figueiras-bravas"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:31:56.673655338Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

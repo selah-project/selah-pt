@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 37,
   "ref": "jeremiah 31:37",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 31,
+  "verse": 37,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:35:27.656271002Z",
+  "translation": "Assim diz YHWH: Se os céus ⟨podem⟩ ⟨ser⟩ medidos ⟨para cima⟩ e as fundações da terra ⟨podem⟩ ⟨ser⟩ investigadas ⟨para baixo⟩, então eu também rejeitarei toda a descendência de Yisrael por tudo o que fizeram — declaração de YHWH.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ימדו",
+      "gloss": "os céus ⟨podem⟩ ⟨ser⟩ medidos"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "os céus"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "⟨para cima⟩"
+    },
+    {
+      "surface": "ויחקרו",
+      "gloss": "e as fundações da terra ⟨podem⟩ ⟨ser⟩ investigadas"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "as fundações da terra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "da terra"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "⟨para baixo⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "então"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu também"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "rejeitarei"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "descendência"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "por"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o que"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fizeram"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "— declaração"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,116 +112,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 754,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18805,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 19559
-  },
-  "translation": "Assim diz YHWH: Se os céus ⟨podem⟩ ⟨ser⟩ medidos ⟨para cima⟩ e as fundações da terra ⟨podem⟩ ⟨ser⟩ investigadas ⟨para baixo⟩, então eu também rejeitarei toda a descendência de Yisrael por tudo o que fizeram — declaração de YHWH.",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אם",
-      "english": "Se"
-    },
-    {
-      "surface": "ימדו",
-      "english": "os céus ⟨podem⟩ ⟨ser⟩ medidos"
-    },
-    {
-      "surface": "שמים",
-      "english": "os céus"
-    },
-    {
-      "surface": "מלמעלה",
-      "english": "⟨para cima⟩"
-    },
-    {
-      "surface": "ויחקרו",
-      "english": "e as fundações da terra ⟨podem⟩ ⟨ser⟩ investigadas"
-    },
-    {
-      "surface": "מוסדי",
-      "english": "as fundações da terra"
-    },
-    {
-      "surface": "ארץ",
-      "english": "da terra"
-    },
-    {
-      "surface": "למטה",
-      "english": "⟨para baixo⟩"
-    },
-    {
-      "surface": "גם",
-      "english": "então"
-    },
-    {
-      "surface": "אני",
-      "english": "eu também"
-    },
-    {
-      "surface": "אמאס",
-      "english": "rejeitarei"
-    },
-    {
-      "surface": "בכל",
-      "english": "toda"
-    },
-    {
-      "surface": "זרע",
-      "english": "descendência"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "על",
-      "english": "por"
-    },
-    {
-      "surface": "כל",
-      "english": "tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "o que"
-    },
-    {
-      "surface": "עשו",
-      "english": "fizeram"
-    },
-    {
-      "surface": "נאם",
-      "english": "— declaração"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:35:27.656271002Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

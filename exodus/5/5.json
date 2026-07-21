@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "exodus 5:5",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 505,
-    "prompt_tokens": 24679,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25184
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:45:00.712877552Z",
   "translation": "E disse Paró: Eis, numerosos agora ⟨são⟩ o povo da terra, e vós fazeis-os descansar de ⟨sua⟩ carga.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "הן",
-      "english": "Eis"
+      "gloss": "Eis"
     },
     {
       "surface": "רבים",
-      "english": "numerosos"
+      "gloss": "numerosos"
     },
     {
       "surface": "עתה",
-      "english": "agora"
+      "gloss": "agora"
     },
     {
       "surface": "עם",
-      "english": "o povo"
+      "gloss": "o povo"
     },
     {
       "surface": "הארץ",
-      "english": "da terra"
+      "gloss": "da terra"
     },
     {
       "surface": "והשבתם",
-      "english": "e vós fazeis-os descansar"
+      "gloss": "e vós fazeis-os descansar"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sua carga"
     },
     {
       "surface": "מסבלתם",
-      "english": "carga"
+      "gloss": "carga"
     }
-  ],
-  "timestamp": "2026-07-16T13:45:00.712877552Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,102 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "numbers 7:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:15:42.126201355Z",
+  "translation": "E trouxeram ⟨את⟩ sua Korban para a face de YHWH: seis carros cobertos e doze bois, um carro para dois dos príncipes e um boi para cada um, e apresentaram ⟨את⟩ diante ⟨do⟩ Tabernáculo.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "E trouxeram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sua oferta"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "sua Korban"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "para a face de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seis"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "carros"
+    },
+    {
+      "surface": "צב",
+      "gloss": "cobertos"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "e doze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bois"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "um boi"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "para cada um"
+    },
+    {
+      "surface": "על",
+      "gloss": "carro para dois dos príncipes"
+    },
+    {
+      "surface": "שני",
+      "gloss": "e"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "apresentaram"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "e apresentaram"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "apresentaram"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "apresentaram"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "diante ⟨do⟩ Tabernáculo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "diante ⟨do⟩"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Tabernáculo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "oferta",
@@ -13,110 +106,6 @@
       "hebrew": "קרבן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 646,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19421,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 20067
-  },
-  "translation": "E trouxeram ⟨את⟩ sua Korban para a face de YHWH: seis carros cobertos e doze bois, um carro para dois dos príncipes e um boi para cada um, e apresentaram ⟨את⟩ diante ⟨do⟩ Tabernáculo.",
-  "tokens": [
-    {
-      "surface": "ויביאו",
-      "english": "E trouxeram"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "sua oferta"
-    },
-    {
-      "surface": "קרבנם",
-      "english": "sua Korban"
-    },
-    {
-      "surface": "לפני",
-      "english": "para a face de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "שש",
-      "english": "seis"
-    },
-    {
-      "surface": "עגלת",
-      "english": "carros"
-    },
-    {
-      "surface": "צב",
-      "english": "cobertos"
-    },
-    {
-      "surface": "ושני",
-      "english": "e doze"
-    },
-    {
-      "surface": "עשר",
-      "english": "bois"
-    },
-    {
-      "surface": "בקר",
-      "english": "um boi"
-    },
-    {
-      "surface": "עגלה",
-      "english": "para cada um"
-    },
-    {
-      "surface": "על",
-      "english": "carro para dois dos príncipes"
-    },
-    {
-      "surface": "שני",
-      "english": "e"
-    },
-    {
-      "surface": "הנשאים",
-      "english": "apresentaram"
-    },
-    {
-      "surface": "ושור",
-      "english": "e apresentaram"
-    },
-    {
-      "surface": "לאחד",
-      "english": "apresentaram"
-    },
-    {
-      "surface": "ויקריבו",
-      "english": "apresentaram"
-    },
-    {
-      "surface": "אותם",
-      "english": "⟨את⟩",
-      "marks": "diante ⟨do⟩ Tabernáculo"
-    },
-    {
-      "surface": "לפני",
-      "english": "diante ⟨do⟩"
-    },
-    {
-      "surface": "המשכן",
-      "english": "Tabernáculo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:15:42.126201355Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "ezekiel 33:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 33,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:37:32.747567878Z",
+  "translation": "Dige-lhes: Vivo ⟨sou⟩ eu, diz Adonai YHWH, ⟨não⟩ me comprazo ⟨no⟩ morte ⟨do⟩ ímpio, mas sim ⟨na⟩ volta ⟨do⟩ ímpio de seu caminho e ⟨que⟩ viva. Voltem, voltem dos seus maus caminhos! Por que morreriam, ⟨ó⟩ casa de Yisrael?",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Dige"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "-lhes"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Vivo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨sou⟩ eu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "diz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨não⟩"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "me comprazo ⟨no⟩"
+    },
+    {
+      "surface": "במות",
+      "gloss": "morte ⟨do⟩"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ímpio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mas sim ⟨na⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "volta ⟨do⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ímpio"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "de seu caminho"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "e ⟨que⟩ viva"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Voltem"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "voltem"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "dos seus caminhos"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "maus"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Por que"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "morreriam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨ó⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,124 +120,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 751,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18976,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 19727
-  },
-  "translation": "Dige-lhes: Vivo ⟨sou⟩ eu, diz Adonai YHWH, ⟨não⟩ me comprazo ⟨no⟩ morte ⟨do⟩ ímpio, mas sim ⟨na⟩ volta ⟨do⟩ ímpio de seu caminho e ⟨que⟩ viva. Voltem, voltem dos seus maus caminhos! Por que morreriam, ⟨ó⟩ casa de Yisrael?",
-  "tokens": [
-    {
-      "surface": "אמר",
-      "english": "Dige"
-    },
-    {
-      "surface": "אליהם",
-      "english": "-lhes"
-    },
-    {
-      "surface": "חי",
-      "english": "Vivo"
-    },
-    {
-      "surface": "אני",
-      "english": "⟨sou⟩ eu"
-    },
-    {
-      "surface": "נאם",
-      "english": "diz"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אם",
-      "english": "⟨não⟩"
-    },
-    {
-      "surface": "אחפץ",
-      "english": "me comprazo ⟨no⟩"
-    },
-    {
-      "surface": "במות",
-      "english": "morte ⟨do⟩"
-    },
-    {
-      "surface": "הרשע",
-      "english": "ímpio"
-    },
-    {
-      "surface": "כי",
-      "english": "mas sim ⟨na⟩"
-    },
-    {
-      "surface": "אם",
-      "english": "⟨na⟩"
-    },
-    {
-      "surface": "בשוב",
-      "english": "volta ⟨do⟩"
-    },
-    {
-      "surface": "רשע",
-      "english": "ímpio"
-    },
-    {
-      "surface": "מדרכו",
-      "english": "de seu caminho"
-    },
-    {
-      "surface": "וחיה",
-      "english": "e ⟨que⟩ viva"
-    },
-    {
-      "surface": "שובו",
-      "english": "Voltem"
-    },
-    {
-      "surface": "שובו",
-      "english": "voltem"
-    },
-    {
-      "surface": "מדרכיכם",
-      "english": "dos seus caminhos"
-    },
-    {
-      "surface": "הרעים",
-      "english": "maus"
-    },
-    {
-      "surface": "ולמה",
-      "english": "Por que"
-    },
-    {
-      "surface": "תמותו",
-      "english": "morreriam"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨ó⟩ casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:37:32.747567878Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

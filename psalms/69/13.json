@@ -1,56 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 69:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 456,
-    "prompt_tokens": 70267,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70723
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:33:22.059438164Z",
   "translation": "Eles conversam ⟨comigo⟩, os sentados ⟨na⟩ porta, e as melodias dos bebedores ⟨de⟩ bebida forte.",
   "tokens": [
     {
       "surface": "ישיחו",
-      "english": "Eles conversam",
+      "gloss": "Eles conversam",
       "marks": null
     },
     {
       "surface": "בי",
-      "english": "⟨comigo⟩",
+      "gloss": "⟨comigo⟩",
       "marks": "comigo"
     },
     {
       "surface": "ישבי",
-      "english": "os sentados",
+      "gloss": "os sentados",
       "marks": null
     },
     {
       "surface": "שער",
-      "english": "⟨na⟩ porta",
+      "gloss": "⟨na⟩ porta",
       "marks": "porta"
     },
     {
       "surface": "ונגינות",
-      "english": "e as melodias",
+      "gloss": "e as melodias",
       "marks": null
     },
     {
       "surface": "שותי",
-      "english": "dos bebedores",
+      "gloss": "dos bebedores",
       "marks": null
     },
     {
       "surface": "שכר",
-      "english": "⟨de⟩ bebida forte",
+      "gloss": "⟨de⟩ bebida forte",
       "marks": "bebida forte"
     }
-  ],
-  "timestamp": "2026-07-21T02:33:22.059438164Z",
-  "model": "glm-4.5"
+  ]
 }

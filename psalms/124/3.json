@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 124:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 124,
-  "usage": {
-    "completion_tokens": 296,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62784,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63080
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:04:54.524609417Z",
   "translation": "Then they had swallowed us up ⟨את⟩ alive, ⟨in⟩ the burning of their anger against us",
   "tokens": [
     {
       "surface": "אזי",
-      "english": "Then"
+      "gloss": "Then"
     },
     {
       "surface": "חיים",
-      "english": "alive"
+      "gloss": "alive"
     },
     {
       "surface": "בלעונו",
-      "english": "they had swallowed us up"
+      "gloss": "they had swallowed us up"
     },
     {
       "surface": "בחרות",
-      "english": "⟨in⟩ the burning of their anger"
+      "gloss": "⟨in⟩ the burning of their anger"
     },
     {
       "surface": "אפם",
-      "english": "of their anger"
+      "gloss": "of their anger"
     },
     {
       "surface": "בנו",
-      "english": "against us",
+      "gloss": "against us",
       "marks": "us"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:04:54.524609417Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

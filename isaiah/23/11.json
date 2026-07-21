@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "isaiah 23:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 23,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:30:07.267021637Z",
+  "translation": "Sua mão estendeu ⟨sobre⟩ o mar; agitou ⟨os⟩ reinos; YHWH deu ⟨uma⟩ ordem ⟨para⟩ ⟨a⟩ Kenaan para destruir ⟨as⟩ fortalezas dela.",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "Sua mão"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "estendeu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩",
+      "marks": "o mar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "o mar"
+    },
+    {
+      "surface": "הרגיז",
+      "gloss": "agitou"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "⟨os⟩ reinos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "deu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "⟨a⟩ Kenaan"
+    },
+    {
+      "surface": "לשמד",
+      "gloss": "para destruir"
+    },
+    {
+      "surface": "מעזניה",
+      "gloss": "⟨as⟩ fortalezas dela"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Canaã",
@@ -13,73 +69,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 891,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19485,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20376
-  },
-  "translation": "Sua mão estendeu ⟨sobre⟩ o mar; agitou ⟨os⟩ reinos; YHWH deu ⟨uma⟩ ordem ⟨para⟩ ⟨a⟩ Kenaan para destruir ⟨as⟩ fortalezas dela.",
-  "tokens": [
-    {
-      "surface": "ידו",
-      "english": "Sua mão"
-    },
-    {
-      "surface": "נטה",
-      "english": "estendeu"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩",
-      "marks": "o mar"
-    },
-    {
-      "surface": "הים",
-      "english": "o mar"
-    },
-    {
-      "surface": "הרגיז",
-      "english": "agitou"
-    },
-    {
-      "surface": "ממלכות",
-      "english": "⟨os⟩ reinos"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "צוה",
-      "english": "deu"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "כנען",
-      "english": "⟨a⟩ Kenaan"
-    },
-    {
-      "surface": "לשמד",
-      "english": "para destruir"
-    },
-    {
-      "surface": "מעזניה",
-      "english": "⟨as⟩ fortalezas dela"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:30:07.267021637Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

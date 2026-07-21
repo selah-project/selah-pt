@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 38:16",
   "book": "job",
-  "lang": "pt",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27382,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27762
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:46:25.545124454Z",
   "translation": "Haveste entrado ⟨até⟩ as nascentes ⟨do⟩ mar? E ⟨na⟩ pesquisa ⟨do⟩ abismo ⟨haveste⟩ andado?",
   "tokens": [
     {
       "surface": "הבאת",
-      "english": "Haveste entrado"
+      "gloss": "Haveste entrado"
     },
     {
       "surface": "עד",
-      "english": "⟨até⟩",
+      "gloss": "⟨até⟩",
       "marks": "as nascentes do mar"
     },
     {
       "surface": "נבכי",
-      "english": "as nascentes"
+      "gloss": "as nascentes"
     },
     {
       "surface": "ים",
-      "english": "⟨do⟩ mar",
+      "gloss": "⟨do⟩ mar",
       "marks": "as nascentes"
     },
     {
       "surface": "ובחקר",
-      "english": "E ⟨na⟩ pesquisa",
+      "gloss": "E ⟨na⟩ pesquisa",
       "marks": "do abismo"
     },
     {
       "surface": "תהום",
-      "english": "⟨do⟩ abismo",
+      "gloss": "⟨do⟩ abismo",
       "marks": "na pesquisa"
     },
     {
       "surface": "התהלכת",
-      "english": "⟨haveste⟩ andado"
+      "gloss": "⟨haveste⟩ andado"
     }
-  ],
-  "timestamp": "2026-06-13T06:46:25.545124454Z",
-  "model": "glm-4.5"
+  ]
 }

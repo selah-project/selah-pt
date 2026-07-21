@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 132:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70618,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 71021
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:41:56.928726402Z",
   "translation": "YHWH jurou em verdade a David — não se retractará dela: do fruto do teu ventre, porei sobre ⟨o⟩ teu trono.",
   "tokens": [
     {
       "surface": "נשבע",
-      "english": "jurou"
+      "gloss": "jurou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לדוד",
-      "english": "a David"
+      "gloss": "a David"
     },
     {
       "surface": "אמת",
-      "english": "em verdade"
+      "gloss": "em verdade"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "ישוב",
-      "english": "se retractará"
+      "gloss": "se retractará"
     },
     {
       "surface": "ממנה",
-      "english": "dela"
+      "gloss": "dela"
     },
     {
       "surface": "מפרי",
-      "english": "do fruto"
+      "gloss": "do fruto"
     },
     {
       "surface": "בטנך",
-      "english": "do teu ventre"
+      "gloss": "do teu ventre"
     },
     {
       "surface": "אשית",
-      "english": "porei"
+      "gloss": "porei"
     },
     {
       "surface": "לכסא",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "לך",
-      "english": "⟨o⟩ teu trono"
+      "gloss": "⟨o⟩ teu trono"
     }
-  ],
-  "timestamp": "2026-06-13T06:41:56.928726402Z",
-  "model": "glm-4.5"
+  ]
 }

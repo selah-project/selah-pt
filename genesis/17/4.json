@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 17:4",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 460,
-    "prompt_tokens": 28737,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29197
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:45:22.206671511Z",
   "translation": "Quanto a mim, eis que ⟨a⟩ minha brit ⟨está⟩ com ⟨את⟩ ti, e serás pai de uma multidão de goyim.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Quanto a mim"
+      "gloss": "Quanto a mim"
     },
     {
       "surface": "הנה",
-      "english": "eis"
+      "gloss": "eis"
     },
     {
       "surface": "בריתי",
-      "english": "minha brit"
+      "gloss": "minha brit"
     },
     {
       "surface": "אתך",
-      "english": "com ⟨את⟩ ti",
+      "gloss": "com ⟨את⟩ ti",
       "marks": "ti"
     },
     {
       "surface": "והיית",
-      "english": "e serás"
+      "gloss": "e serás"
     },
     {
       "surface": "לאב",
-      "english": "pai"
+      "gloss": "pai"
     },
     {
       "surface": "המון",
-      "english": "multidão"
+      "gloss": "multidão"
     },
     {
       "surface": "גוים",
-      "english": "goyim"
+      "gloss": "goyim"
     }
-  ],
-  "timestamp": "2026-07-16T14:45:22.206671511Z",
-  "model": "glm-4.5"
+  ]
 }

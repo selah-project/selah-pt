@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ezekiel 5:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 5,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:02:15.244335383Z",
+  "translation": "Assim diz Adonai YHWH: esta ⟨é⟩ Yerushalayim; ⟨a⟩ coloquei no meio das nações, e ⟨as⟩ terras ⟨estão⟩ ao redor dela.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "esta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "no meio de"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "das nações"
+    },
+    {
+      "surface": "שמתיה",
+      "gloss": "⟨a⟩ coloquei"
+    },
+    {
+      "surface": "וסביבותיה",
+      "gloss": "e ⟨as⟩ terras ⟨estão⟩ ao redor dela"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "terras"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,68 +64,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17733,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 18162
-  },
-  "translation": "Assim diz Adonai YHWH: esta ⟨é⟩ Yerushalayim; ⟨a⟩ coloquei no meio das nações, e ⟨as⟩ terras ⟨estão⟩ ao redor dela.",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "זאת",
-      "english": "esta"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "בתוך",
-      "english": "no meio de"
-    },
-    {
-      "surface": "הגוים",
-      "english": "das nações"
-    },
-    {
-      "surface": "שמתיה",
-      "english": "⟨a⟩ coloquei"
-    },
-    {
-      "surface": "וסביבותיה",
-      "english": "e ⟨as⟩ terras ⟨estão⟩ ao redor dela"
-    },
-    {
-      "surface": "ארצות",
-      "english": "terras"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:02:15.244335383Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

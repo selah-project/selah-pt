@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 126:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 126,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62633,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63117
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:05:38.169382266Z",
   "translation": "Os que semeiam ⟨com⟩ lágrimas, ⟨com⟩ canto de júbilo colherão.",
   "tokens": [
     {
       "surface": "הזרעים",
-      "english": "Os que semeiam"
+      "gloss": "Os que semeiam"
     },
     {
       "surface": "בדמעה",
-      "english": "⟨com⟩ lágrimas"
+      "gloss": "⟨com⟩ lágrimas"
     },
     {
       "surface": "ברנה",
-      "english": "⟨com⟩ canto de júbilo"
+      "gloss": "⟨com⟩ canto de júbilo"
     },
     {
       "surface": "יקצרו",
-      "english": "colherão"
+      "gloss": "colherão"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:05:38.169382266Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

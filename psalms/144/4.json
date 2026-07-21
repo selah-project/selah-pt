@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 144:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62778,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63265
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:14:07.190427971Z",
   "translation": "Humano ⟨para⟩ vaidade ⟨é⟩ semelhante; seus dias ⟨são⟩ como uma sombra que passa.",
   "tokens": [
     {
       "surface": "אדם",
-      "english": "Humano"
+      "gloss": "Humano"
     },
     {
       "surface": "להבל",
-      "english": "⟨para⟩ vaidade",
+      "gloss": "⟨para⟩ vaidade",
       "marks": "vaidade"
     },
     {
       "surface": "דמה",
-      "english": "⟨é⟩ semelhante"
+      "gloss": "⟨é⟩ semelhante"
     },
     {
       "surface": "ימיו",
-      "english": "seus dias"
+      "gloss": "seus dias"
     },
     {
       "surface": "כצל",
-      "english": "⟨são⟩ como uma sombra",
+      "gloss": "⟨são⟩ como uma sombra",
       "marks": "uma sombra"
     },
     {
       "surface": "עובר",
-      "english": "que passa"
+      "gloss": "que passa"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:14:07.190427971Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

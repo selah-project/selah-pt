@@ -1,29 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 105:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 657,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62912,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63569
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:49:14.120510180Z",
   "translation": "Louvem-se em ⟨o⟩ nome sagrado ⟨de⟩ Elohim; o coração de ⟨os⟩ que buscam ⟨a⟩ YHWH alegra-se.",
   "tokens": [
     {
       "surface": "התהללו",
-      "english": "Louvem-se",
+      "gloss": "Louvem-se",
       "lemma": 1984,
       "gv": 476,
       "freq": 2,
@@ -31,7 +19,7 @@
     },
     {
       "surface": "בשם",
-      "english": "em ⟨o⟩ nome",
+      "gloss": "em ⟨o⟩ nome",
       "lemma": 8034,
       "gv": 342,
       "freq": 73,
@@ -39,7 +27,7 @@
     },
     {
       "surface": "קדשו",
-      "english": "sagrado ⟨de⟩ Elohim",
+      "gloss": "sagrado ⟨de⟩ Elohim",
       "lemma": 6944,
       "gv": 410,
       "freq": 40,
@@ -47,7 +35,7 @@
     },
     {
       "surface": "ישמח",
-      "english": "alegra-se",
+      "gloss": "alegra-se",
       "lemma": 8055,
       "gv": 358,
       "freq": 30,
@@ -55,7 +43,7 @@
     },
     {
       "surface": "לב",
-      "english": "o coração",
+      "gloss": "o coração",
       "lemma": 3820,
       "gv": 32,
       "freq": 202,
@@ -63,7 +51,7 @@
     },
     {
       "surface": "מבקשי",
-      "english": "de ⟨os⟩ que buscam ⟨a⟩",
+      "gloss": "de ⟨os⟩ que buscam ⟨a⟩",
       "lemma": 1245,
       "gv": 452,
       "freq": 19,
@@ -71,14 +59,15 @@
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "lemma": 3068,
       "gv": 26,
       "freq": 6007,
       "english_phrase": "YHWH"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:49:14.120510180Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "numbers 27:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 27,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:39:22.082417991Z",
+  "translation": "e ⟨dará⟩ ⟨de⟩ tua honra ⟨sobre⟩ ele, para que ⟨a⟩ congregação inteira ⟨dos⟩ filhos de Yisrael ⟨o⟩ ⟨ouça⟩",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "E ⟨dará⟩"
+    },
+    {
+      "surface": "מהודך",
+      "gloss": "⟨de⟩ tua honra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨sobre⟩ ele"
+    },
+    {
+      "surface": "למען",
+      "gloss": "para que"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "⟨o⟩ ⟨ouça⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨a⟩ congregação inteira"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "congregação"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨dos⟩ filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18230,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18785
-  },
-  "translation": "e ⟨dará⟩ ⟨de⟩ tua honra ⟨sobre⟩ ele, para que ⟨a⟩ congregação inteira ⟨dos⟩ filhos de Yisrael ⟨o⟩ ⟨ouça⟩",
-  "tokens": [
-    {
-      "surface": "ונתתה",
-      "english": "E ⟨dará⟩"
-    },
-    {
-      "surface": "מהודך",
-      "english": "⟨de⟩ tua honra"
-    },
-    {
-      "surface": "עליו",
-      "english": "⟨sobre⟩ ele"
-    },
-    {
-      "surface": "למען",
-      "english": "para que"
-    },
-    {
-      "surface": "ישמעו",
-      "english": "⟨o⟩ ⟨ouça⟩"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨a⟩ congregação inteira"
-    },
-    {
-      "surface": "עדת",
-      "english": "congregação"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨dos⟩ filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:39:22.082417991Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

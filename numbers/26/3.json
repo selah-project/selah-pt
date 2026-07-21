@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "numbers 26:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 26,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:37:16.048089252Z",
+  "translation": "E Moshé ⟨e⟩ Eleazar, ⟨o⟩ sacerdote, falaram ⟨com⟩ eles nas planícies de Moav ⟨ao⟩ Jordão ⟨perto de⟩ Yerijó, ⟨ao⟩ dizer",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "Eleazar,"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨o⟩ sacerdote,"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨com⟩ eles",
+      "marks": "בערבת"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "nas planícies"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ao⟩ Jordão"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "⟨perto de⟩"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerijó,"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ao⟩ dizer"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -20,69 +72,6 @@
       "hebrew": "יריחו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18454,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18984
-  },
-  "translation": "E Moshé ⟨e⟩ Eleazar, ⟨o⟩ sacerdote, falaram ⟨com⟩ eles nas planícies de Moav ⟨ao⟩ Jordão ⟨perto de⟩ Yerijó, ⟨ao⟩ dizer",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E Moshé"
-    },
-    {
-      "surface": "משה",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "ואלעזר",
-      "english": "Eleazar,"
-    },
-    {
-      "surface": "הכהן",
-      "english": "⟨o⟩ sacerdote,"
-    },
-    {
-      "surface": "אתם",
-      "english": "⟨com⟩ eles",
-      "marks": "בערבת"
-    },
-    {
-      "surface": "בערבת",
-      "english": "nas planícies"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "על",
-      "english": "⟨ao⟩ Jordão"
-    },
-    {
-      "surface": "ירדן",
-      "english": "⟨perto de⟩"
-    },
-    {
-      "surface": "ירחו",
-      "english": "Yerijó,"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨ao⟩ dizer"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:37:16.048089252Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "job 37:1",
   "book": "job",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27200,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27650
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:46:20.565629794Z",
   "translation": "At this my heart ⟨also⟩ trembles ⟨and⟩ leaps ⟨out⟩ ⟨of⟩ ⟨its⟩ place.",
   "tokens": [
     {
       "surface": "אף",
-      "english": "At this",
+      "gloss": "At this",
       "marks": "the preceding discourse"
     },
     {
       "surface": "לזאת",
-      "english": "⟨also⟩",
+      "gloss": "⟨also⟩",
       "marks": "the astonishment"
     },
     {
       "surface": "יחרד",
-      "english": "trembles"
+      "gloss": "trembles"
     },
     {
       "surface": "לבי",
-      "english": "my heart"
+      "gloss": "my heart"
     },
     {
       "surface": "ויתר",
-      "english": "⟨and⟩ leaps"
+      "gloss": "⟨and⟩ leaps"
     },
     {
       "surface": "ממקומו",
-      "english": "⟨out⟩ ⟨of⟩ ⟨its⟩ place"
+      "gloss": "⟨out⟩ ⟨of⟩ ⟨its⟩ place"
     }
-  ],
-  "timestamp": "2026-06-13T06:46:20.565629794Z",
-  "model": "glm-4.5"
+  ]
 }

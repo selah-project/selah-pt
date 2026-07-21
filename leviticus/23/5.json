@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "leviticus 23:5",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 620,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24854,
-    "prompt_tokens_details": {
-      "cached_tokens": 4
-    },
-    "total_tokens": 25474
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:27:26.089821288Z",
   "translation": "⟨No⟩ mês ⟨o⟩ primeiro ⟨por⟩ quatorze ⟨do⟩ mês entre ⟨os⟩ dois crepúsculos ⟨é⟩ Pésaj ⟨para⟩ YHWH",
   "tokens": [
     {
       "surface": "בחדש",
-      "english": "⟨no⟩ mês",
+      "gloss": "⟨no⟩ mês",
       "marks": ""
     },
     {
       "surface": "הראשון",
-      "english": "⟨o⟩ primeiro",
+      "gloss": "⟨o⟩ primeiro",
       "marks": "mês"
     },
     {
       "surface": "בארבעה",
-      "english": "⟨por⟩ quatorze",
+      "gloss": "⟨por⟩ quatorze",
       "marks": ""
     },
     {
       "surface": "עשר",
-      "english": "⟨do⟩ mês",
+      "gloss": "⟨do⟩ mês",
       "marks": "quatorze"
     },
     {
       "surface": "לחדש",
-      "english": "entre",
+      "gloss": "entre",
       "marks": ""
     },
     {
       "surface": "בין",
-      "english": "⟨os⟩ dois",
+      "gloss": "⟨os⟩ dois",
       "marks": ""
     },
     {
       "surface": "הערבים",
-      "english": "crepúsculos",
+      "gloss": "crepúsculos",
       "marks": ""
     },
     {
       "surface": "פסח",
-      "english": "⟨é⟩ Pésaj",
+      "gloss": "⟨é⟩ Pésaj",
       "marks": ""
     },
     {
       "surface": "ליהוה",
-      "english": "⟨para⟩ YHWH",
+      "gloss": "⟨para⟩ YHWH",
       "marks": "Pésaj"
     }
-  ],
-  "timestamp": "2026-06-13T05:27:26.089821288Z",
-  "model": "glm-4.5"
+  ]
 }

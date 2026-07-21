@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "leviticus 25:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 25,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:04:10.019719751Z",
+  "translation": "E as cidades ⟨dos⟩ levitas, as casas ⟨nas⟩ cidades de ⟨sua⟩ possessão, Gueulá ⟨perpétua⟩ ⟨será⟩ para ⟨os⟩ levitas.",
+  "tokens": [
+    {
+      "surface": "וערי",
+      "gloss": "E as cidades"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "⟨dos⟩ levitas",
+      "marks": "E as cidades"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "as casas ⟨nas⟩ cidades",
+      "marks": "redenção ⟨perpétua⟩ ⟨será⟩"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "⟨nas⟩ cidades",
+      "marks": "as casas"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "de ⟨sua⟩ possessão",
+      "marks": "⟨nas⟩ cidades"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "Gueulá ⟨perpétua⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨perpétua⟩"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨será⟩"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "para ⟨os⟩ levitas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "redenção",
@@ -13,64 +60,6 @@
       "hebrew": "גאולה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 588,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17644,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 18232
-  },
-  "translation": "E as cidades ⟨dos⟩ levitas, as casas ⟨nas⟩ cidades de ⟨sua⟩ possessão, Gueulá ⟨perpétua⟩ ⟨será⟩ para ⟨os⟩ levitas.",
-  "tokens": [
-    {
-      "surface": "וערי",
-      "english": "E as cidades"
-    },
-    {
-      "surface": "הלוים",
-      "english": "⟨dos⟩ levitas",
-      "marks": "E as cidades"
-    },
-    {
-      "surface": "בתי",
-      "english": "as casas ⟨nas⟩ cidades",
-      "marks": "redenção ⟨perpétua⟩ ⟨será⟩"
-    },
-    {
-      "surface": "ערי",
-      "english": "⟨nas⟩ cidades",
-      "marks": "as casas"
-    },
-    {
-      "surface": "אחזתם",
-      "english": "de ⟨sua⟩ possessão",
-      "marks": "⟨nas⟩ cidades"
-    },
-    {
-      "surface": "גאלת",
-      "english": "Gueulá ⟨perpétua⟩"
-    },
-    {
-      "surface": "עולם",
-      "english": "⟨perpétua⟩"
-    },
-    {
-      "surface": "תהיה",
-      "english": "⟨será⟩"
-    },
-    {
-      "surface": "ללוים",
-      "english": "para ⟨os⟩ levitas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:04:10.019719751Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

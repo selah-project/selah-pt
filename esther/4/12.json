@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "esther 4:12",
   "book": "esther",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 299,
-    "prompt_tokens": 24955,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25254
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:38:57.359985472Z",
   "translation": "E eles relataram a Mordejai as palavras de Ester",
   "tokens": [
     {
       "surface": "ויגידו",
-      "english": "E eles relataram"
+      "gloss": "E eles relataram"
     },
     {
       "surface": "למרדכי",
-      "english": "a Mordejai"
+      "gloss": "a Mordejai"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "as palavras de Ester"
     },
     {
       "surface": "דברי",
-      "english": "as palavras de"
+      "gloss": "as palavras de"
     },
     {
       "surface": "אסתר",
-      "english": "Ester"
+      "gloss": "Ester"
     }
-  ],
-  "timestamp": "2026-07-16T13:38:57.359985472Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "ecclesiastes 10:19",
   "book": "ecclesiastes",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 530,
-    "prompt_tokens": 25151,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25681
-  },
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:37:18.952822360Z",
   "translation": "Para o riso fazem pão, e o vinho alegra ⟨a⟩ vida, e ⟨a⟩ prata responde a ⟨את⟩ tudo.",
   "tokens": [
     {
       "surface": "לשחוק",
-      "english": "Para o riso"
+      "gloss": "Para o riso"
     },
     {
       "surface": "עשים",
-      "english": "fazem"
+      "gloss": "fazem"
     },
     {
       "surface": "לחם",
-      "english": "pão"
+      "gloss": "pão"
     },
     {
       "surface": "ויין",
-      "english": "e o vinho"
+      "gloss": "e o vinho"
     },
     {
       "surface": "ישמח",
-      "english": "alegra"
+      "gloss": "alegra"
     },
     {
       "surface": "חיים",
-      "english": "⟨a⟩ vida"
+      "gloss": "⟨a⟩ vida"
     },
     {
       "surface": "והכסף",
-      "english": "e ⟨a⟩ prata"
+      "gloss": "e ⟨a⟩ prata"
     },
     {
       "surface": "יענה",
-      "english": "responde"
+      "gloss": "responde"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tudo"
     },
     {
       "surface": "הכל",
-      "english": "tudo"
+      "gloss": "tudo"
     }
-  ],
-  "timestamp": "2026-07-16T13:37:18.952822360Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 110:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 110,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62868,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63343
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:54:26.500503170Z",
   "translation": "Adonai ⟨está⟩ à ⟨tua⟩ direita; esmagará reis no dia ⟨da⟩ Sua ira.",
   "tokens": [
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "על",
-      "english": "à"
+      "gloss": "à"
     },
     {
       "surface": "ימינך",
-      "english": "⟨tua⟩ direita",
+      "gloss": "⟨tua⟩ direita",
       "marks": "tua direita"
     },
     {
       "surface": "מחץ",
-      "english": "esmagará"
+      "gloss": "esmagará"
     },
     {
       "surface": "ביום",
-      "english": "no dia"
+      "gloss": "no dia"
     },
     {
       "surface": "אפו",
-      "english": "⟨da⟩ Sua ira",
+      "gloss": "⟨da⟩ Sua ira",
       "marks": "Sua ira"
     },
     {
       "surface": "מלכים",
-      "english": "reis"
+      "gloss": "reis"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:54:26.500503170Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

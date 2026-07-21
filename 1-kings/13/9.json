@@ -1,94 +1,86 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-kings 13:9",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 499,
-    "prompt_tokens": 70769,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 71268
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:32:07.561968420Z",
   "translation": "Porque assim ⟨את⟩ me ordenou pela palavra de YHWH, dizendo: Não comerás pão, nem beberás água, nem voltarás pelo caminho pelo qual vieste.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "כן",
-      "english": "assim"
+      "gloss": "assim"
     },
     {
       "surface": "צוה",
-      "english": "ordenou"
+      "gloss": "ordenou"
     },
     {
       "surface": "אתי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "me"
     },
     {
       "surface": "בדבר",
-      "english": "pela palavra"
+      "gloss": "pela palavra"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "לאמר",
-      "english": "dizendo"
+      "gloss": "dizendo"
     },
     {
       "surface": "לא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תאכל",
-      "english": "comerás"
+      "gloss": "comerás"
     },
     {
       "surface": "לחם",
-      "english": "pão"
+      "gloss": "pão"
     },
     {
       "surface": "ולא",
-      "english": ", nem"
+      "gloss": ", nem"
     },
     {
       "surface": "תשתה",
-      "english": "beberás"
+      "gloss": "beberás"
     },
     {
       "surface": "מים",
-      "english": "água"
+      "gloss": "água"
     },
     {
       "surface": "ולא",
-      "english": ", nem"
+      "gloss": ", nem"
     },
     {
       "surface": "תשוב",
-      "english": "voltarás"
+      "gloss": "voltarás"
     },
     {
       "surface": "בדרך",
-      "english": "pelo caminho"
+      "gloss": "pelo caminho"
     },
     {
       "surface": "אשר",
-      "english": "pelo qual"
+      "gloss": "pelo qual"
     },
     {
       "surface": "הלכת",
-      "english": "vieste"
+      "gloss": "vieste"
     }
-  ],
-  "timestamp": "2026-07-16T11:32:07.561968420Z",
-  "model": "glm-4.5"
+  ]
 }

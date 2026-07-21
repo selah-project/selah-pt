@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 29:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 29,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:10:15.483155311Z",
+  "translation": "E Yaakov disse a eles: Meus irmãos, de onde ⟨são⟩ vocês? E eles disseram: De Haran nós ⟨somos⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a eles"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Meus irmãos"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vocês"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "E disseram"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "De Haran"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nós"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacob",
@@ -13,60 +56,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21431,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21760
-  },
-  "translation": "E Yaakov disse a eles: Meus irmãos, de onde ⟨são⟩ vocês? E eles disseram: De Haran nós ⟨somos⟩.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "להם",
-      "english": "a eles"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "אחי",
-      "english": "Meus irmãos"
-    },
-    {
-      "surface": "מאין",
-      "english": "de onde"
-    },
-    {
-      "surface": "אתם",
-      "english": "vocês"
-    },
-    {
-      "surface": "ויאמרו",
-      "english": "E disseram"
-    },
-    {
-      "surface": "מחרן",
-      "english": "De Haran"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "nós"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:10:15.483155311Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

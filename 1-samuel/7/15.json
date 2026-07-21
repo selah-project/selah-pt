@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-samuel 7:15",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 219,
-    "prompt_tokens": 23919,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24138
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:44:58.362531607Z",
   "translation": "E Shemuël julgou ⟨את⟩ Yisrael todos os dias da sua vida",
   "tokens": [
     {
       "surface": "וישפט",
-      "english": "E Shemuël julgou"
+      "gloss": "E Shemuël julgou"
     },
     {
       "surface": "שמואל",
-      "english": "Shemuël"
+      "gloss": "Shemuël"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "ימי",
-      "english": "os dias"
+      "gloss": "os dias"
     },
     {
       "surface": "חייו",
-      "english": "da sua vida"
+      "gloss": "da sua vida"
     }
-  ],
-  "timestamp": "2026-07-16T11:44:58.362531607Z",
-  "model": "glm-4.5"
+  ]
 }

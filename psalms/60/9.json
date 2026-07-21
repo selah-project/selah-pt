@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 60:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70401,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70836
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:38:54.712486457Z",
   "translation": "Para mim Gilead ⟨e⟩ para mim Menashé ⟨e⟩ Efráyim ⟨é⟩ a fortaleza da minha cabeça; Yehudá ⟨é⟩ o meu cetro",
   "tokens": [
     {
       "surface": "לי",
-      "english": "Para mim"
+      "gloss": "Para mim"
     },
     {
       "surface": "גלעד",
-      "english": "Gilead"
+      "gloss": "Gilead"
     },
     {
       "surface": "ולי",
-      "english": "⟨e⟩ para mim"
+      "gloss": "⟨e⟩ para mim"
     },
     {
       "surface": "מנשה",
-      "english": "Menashé"
+      "gloss": "Menashé"
     },
     {
       "surface": "ואפרים",
-      "english": "⟨e⟩ Efráyim"
+      "gloss": "⟨e⟩ Efráyim"
     },
     {
       "surface": "מעוז",
-      "english": "⟨é⟩ a fortaleza"
+      "gloss": "⟨é⟩ a fortaleza"
     },
     {
       "surface": "ראשי",
-      "english": "da minha cabeça"
+      "gloss": "da minha cabeça"
     },
     {
       "surface": "יהודה",
-      "english": "Yehudá"
+      "gloss": "Yehudá"
     },
     {
       "surface": "מחקקי",
-      "english": "⟨é⟩ o meu cetro"
+      "gloss": "⟨é⟩ o meu cetro"
     }
-  ],
-  "timestamp": "2026-06-13T06:38:54.712486457Z",
-  "model": "glm-4.5"
+  ]
 }

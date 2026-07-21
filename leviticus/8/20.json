@@ -1,73 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "leviticus 8:20",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 580,
-    "prompt_tokens": 25417,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25997
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:39:24.815165228Z",
   "translation": "e ele cortou o carneiro em seus pedaços, e Moshé fez fumaçar ⟨את⟩ a cabeça, e ⟨את⟩ os pedaços, e ⟨את⟩ a gordura",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "האיל"
     },
     {
       "surface": "האיל",
-      "english": "o carneiro"
+      "gloss": "o carneiro"
     },
     {
       "surface": "נתח",
-      "english": "cortou"
+      "gloss": "cortou"
     },
     {
       "surface": "לנתחיו",
-      "english": "em seus pedaços"
+      "gloss": "em seus pedaços"
     },
     {
       "surface": "ויקטר",
-      "english": "e Moshé fez fumaçar"
+      "gloss": "e Moshé fez fumaçar"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הראש"
     },
     {
       "surface": "הראש",
-      "english": "a cabeça"
+      "gloss": "a cabeça"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "הנתחים"
     },
     {
       "surface": "הנתחים",
-      "english": "os pedaços"
+      "gloss": "os pedaços"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "הפדר"
     },
     {
       "surface": "הפדר",
-      "english": "a gordura"
+      "gloss": "a gordura"
     }
-  ],
-  "timestamp": "2026-07-16T16:39:24.815165228Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-samuel 23:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 23,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:35:28.936898524Z",
+  "translation": "E ele disse a ele: Não temas; porque ⟨a⟩ mão de Shaúl meu pai não te ⟨a⟩chará, e tu reinarás sobre Yisrael, e eu serei contigo o segundo, e também Shaúl meu pai sabe assim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ele disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Não"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "temas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "תמצאך",
+      "gloss": "te ⟨a⟩chará"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨a⟩ mão"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meu pai"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "תמלך",
+      "gloss": "reinarás"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e eu"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "serei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contigo"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "o segundo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e também"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meu pai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sabe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "assim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,116 +112,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 668,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17799,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18467
-  },
-  "translation": "E ele disse a ele: Não temas; porque ⟨a⟩ mão de Shaúl meu pai não te ⟨a⟩chará, e tu reinarás sobre Yisrael, e eu serei contigo o segundo, e também Shaúl meu pai sabe assim.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ele disse"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ele"
-    },
-    {
-      "surface": "אל",
-      "english": "Não"
-    },
-    {
-      "surface": "תירא",
-      "english": "temas"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "תמצאך",
-      "english": "te ⟨a⟩chará"
-    },
-    {
-      "surface": "יד",
-      "english": "⟨a⟩ mão"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "אבי",
-      "english": "meu pai"
-    },
-    {
-      "surface": "ואתה",
-      "english": "e tu"
-    },
-    {
-      "surface": "תמלך",
-      "english": "reinarás"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ואנכי",
-      "english": "e eu"
-    },
-    {
-      "surface": "אהיה",
-      "english": "serei"
-    },
-    {
-      "surface": "לך",
-      "english": "contigo"
-    },
-    {
-      "surface": "למשנה",
-      "english": "o segundo"
-    },
-    {
-      "surface": "וגם",
-      "english": "e também"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "אבי",
-      "english": "meu pai"
-    },
-    {
-      "surface": "ידע",
-      "english": "sabe"
-    },
-    {
-      "surface": "כן",
-      "english": "assim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:35:28.936898524Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

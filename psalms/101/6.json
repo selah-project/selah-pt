@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 101:6",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 101,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70533,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 71004
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:56:13.595383631Z",
   "translation": "Meus olhos ⟨estarão⟩ sobre ⟨os⟩ fiéis ⟨da⟩ terra, para habitarem comigo; quem anda ⟨no⟩ caminho ⟨da⟩ integridade, este me servirá.",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "Meus olhos"
+      "gloss": "Meus olhos"
     },
     {
       "surface": "בנאמני",
-      "english": "⟨sobre os⟩ fiéis"
+      "gloss": "⟨sobre os⟩ fiéis"
     },
     {
       "surface": "ארץ",
-      "english": "⟨da⟩ terra"
+      "gloss": "⟨da⟩ terra"
     },
     {
       "surface": "לשבת",
-      "english": "para habitarem"
+      "gloss": "para habitarem"
     },
     {
       "surface": "עמדי",
-      "english": "comigo"
+      "gloss": "comigo"
     },
     {
       "surface": "הלך",
-      "english": "anda"
+      "gloss": "anda"
     },
     {
       "surface": "בדרך",
-      "english": "⟨no⟩ caminho"
+      "gloss": "⟨no⟩ caminho"
     },
     {
       "surface": "תמים",
-      "english": "⟨da⟩ integridade"
+      "gloss": "⟨da⟩ integridade"
     },
     {
       "surface": "הוא",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "ישרתני",
-      "english": "me servirá"
+      "gloss": "me servirá"
     }
-  ],
-  "timestamp": "2026-06-13T02:56:13.595383631Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "numbers 32:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 32,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:44:44.448083593Z",
+  "translation": "Não ⟨nos⟩ tornaremos a ⟨as⟩ nossas ⟨casa⟩s até que ⟨os⟩ filhos de Yisrael herdarem, ⟨cada⟩ ⟨homem⟩ ⟨a⟩ sua ⟨herança⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "⟨nos⟩ tornaremos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "⟨as⟩ nossas ⟨casa⟩s",
+      "marks": "suas casas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até que"
+    },
+    {
+      "surface": "התנחל",
+      "gloss": "herdarem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨cada⟩ ⟨homem⟩"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "⟨a⟩ sua ⟨herança⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,65 +61,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18251,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18793
-  },
-  "translation": "Não ⟨nos⟩ tornaremos a ⟨as⟩ nossas ⟨casa⟩s até que ⟨os⟩ filhos de Yisrael herdarem, ⟨cada⟩ ⟨homem⟩ ⟨a⟩ sua ⟨herança⟩",
-  "tokens": [
-    {
-      "surface": "לא",
-      "english": "Não"
-    },
-    {
-      "surface": "נשוב",
-      "english": "⟨nos⟩ tornaremos"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "בתינו",
-      "english": "⟨as⟩ nossas ⟨casa⟩s",
-      "marks": "suas casas"
-    },
-    {
-      "surface": "עד",
-      "english": "até que"
-    },
-    {
-      "surface": "התנחל",
-      "english": "herdarem"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨cada⟩ ⟨homem⟩"
-    },
-    {
-      "surface": "נחלתו",
-      "english": "⟨a⟩ sua ⟨herança⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:44:44.448083593Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

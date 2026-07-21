@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "joshua 21:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 21,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:45:49.879701848Z",
+  "translation": "E saiu ⟨o⟩ ⟨o⟩ ⟨o⟩ ⟨o⟩ para as famílias dos coatitas: e ⟨foi⟩ para ⟨os⟩ filhos de Aharon, ⟨o⟩ ⟨o⟩, dos ⟨o⟩ ⟨o⟩, da tribo de Yehudá, e da tribo ⟨o⟩ ⟨o⟩, e da tribo de Binyamim, ⟨por⟩ ⟨o⟩ ⟨o⟩ ⟨o⟩ treze ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E saiu"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "⟨o⟩",
+      "marks": "sorte"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "para as famílias"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "⟨o⟩",
+      "marks": "coatitas"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ⟨foi⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para ⟨os⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "filhos de Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨o⟩",
+      "marks": "sacerdote"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dos"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "⟨o⟩",
+      "marks": "levitas"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "da tribo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "e da tribo"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "⟨o⟩",
+      "marks": "simeonitas"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "e da tribo"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "de Binyamim"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "⟨por⟩ ⟨o⟩",
+      "marks": "sorte"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "⟨o⟩",
+      "marks": "cidades"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "treze"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨o⟩",
+      "marks": "cidades"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,112 +115,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 829,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17577,
-    "prompt_tokens_details": {
-      "cached_tokens": 15287
-    },
-    "total_tokens": 18406
-  },
-  "translation": "E saiu ⟨o⟩ ⟨o⟩ ⟨o⟩ ⟨o⟩ para as famílias dos coatitas: e ⟨foi⟩ para ⟨os⟩ filhos de Aharon, ⟨o⟩ ⟨o⟩, dos ⟨o⟩ ⟨o⟩, da tribo de Yehudá, e da tribo ⟨o⟩ ⟨o⟩, e da tribo de Binyamim, ⟨por⟩ ⟨o⟩ ⟨o⟩ ⟨o⟩ treze ⟨o⟩.",
-  "tokens": [
-    {
-      "surface": "ויצא",
-      "english": "E saiu"
-    },
-    {
-      "surface": "הגורל",
-      "english": "⟨o⟩",
-      "marks": "sorte"
-    },
-    {
-      "surface": "למשפחת",
-      "english": "para as famílias"
-    },
-    {
-      "surface": "הקהתי",
-      "english": "⟨o⟩",
-      "marks": "coatitas"
-    },
-    {
-      "surface": "ויהי",
-      "english": "e ⟨foi⟩"
-    },
-    {
-      "surface": "לבני",
-      "english": "para ⟨os⟩"
-    },
-    {
-      "surface": "אהרן",
-      "english": "filhos de Aharon"
-    },
-    {
-      "surface": "הכהן",
-      "english": "⟨o⟩",
-      "marks": "sacerdote"
-    },
-    {
-      "surface": "מן",
-      "english": "dos"
-    },
-    {
-      "surface": "הלוים",
-      "english": "⟨o⟩",
-      "marks": "levitas"
-    },
-    {
-      "surface": "ממטה",
-      "english": "da tribo"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "וממטה",
-      "english": "e da tribo"
-    },
-    {
-      "surface": "השמעני",
-      "english": "⟨o⟩",
-      "marks": "simeonitas"
-    },
-    {
-      "surface": "וממטה",
-      "english": "e da tribo"
-    },
-    {
-      "surface": "בנימן",
-      "english": "de Binyamim"
-    },
-    {
-      "surface": "בגורל",
-      "english": "⟨por⟩ ⟨o⟩",
-      "marks": "sorte"
-    },
-    {
-      "surface": "ערים",
-      "english": "⟨o⟩",
-      "marks": "cidades"
-    },
-    {
-      "surface": "שלש",
-      "english": "treze"
-    },
-    {
-      "surface": "עשרה",
-      "english": "⟨o⟩",
-      "marks": "cidades"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:45:49.879701848Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

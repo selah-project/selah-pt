@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 25:10",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26876,
-    "prompt_tokens_details": {
-      "cached_tokens": 25327
-    },
-    "total_tokens": 27362
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:11:31.529976058Z",
   "translation": "Pois ⟨a⟩ mão de YHWH descansará neste monte, e Moab será pisoteado sob ⟨ele⟩, como palha é pisoteada no estercoiro.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "תנוח",
-      "english": "descansará"
+      "gloss": "descansará"
     },
     {
       "surface": "יד",
-      "english": "⟨a⟩ mão"
+      "gloss": "⟨a⟩ mão"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בהר",
-      "english": "neste monte"
+      "gloss": "neste monte"
     },
     {
       "surface": "הזה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "ונדוש",
-      "english": "e será pisoteado"
+      "gloss": "e será pisoteado"
     },
     {
       "surface": "מואב",
-      "english": "Moab"
+      "gloss": "Moab"
     },
     {
       "surface": "תחתיו",
-      "english": "sob ⟨ele⟩"
+      "gloss": "sob ⟨ele⟩"
     },
     {
       "surface": "כהדוש",
-      "english": "como palha"
+      "gloss": "como palha"
     },
     {
       "surface": "מתבן",
-      "english": "é pisoteada"
+      "gloss": "é pisoteada"
     },
     {
       "surface": "במי",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "מדמנה",
-      "english": "estercoiro"
+      "gloss": "estercoiro"
     }
-  ],
-  "timestamp": "2026-06-13T06:11:31.529976058Z",
-  "model": "glm-4.5"
+  ]
 }

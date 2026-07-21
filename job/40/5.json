@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 40:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20025,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20544
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:13:43.133334516Z",
   "translation": "Uma vez falei e não responderei; ⟨e⟩ duas vezes ⟨e⟩ não adicionarei.",
   "tokens": [
     {
       "surface": "אחת",
-      "english": "Uma vez",
+      "gloss": "Uma vez",
       "marks": "o número de vezes que falou"
     },
     {
       "surface": "דברתי",
-      "english": "falei",
+      "gloss": "falei",
       "marks": "a ação de falar"
     },
     {
       "surface": "ולא",
-      "english": "e não",
+      "gloss": "e não",
       "marks": "a negação da resposta"
     },
     {
       "surface": "אענה",
-      "english": "responderei",
+      "gloss": "responderei",
       "marks": "a ação de responder"
     },
     {
       "surface": "ושתים",
-      "english": "⟨e⟩ duas vezes",
+      "gloss": "⟨e⟩ duas vezes",
       "marks": "o número de vezes que não responderá"
     },
     {
       "surface": "ולא",
-      "english": "⟨e⟩ não",
+      "gloss": "⟨e⟩ não",
       "marks": "a negação de adicionar"
     },
     {
       "surface": "אוסיף",
-      "english": "adicionarei",
+      "gloss": "adicionarei",
       "marks": "a ação de adicionar palavras"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:13:43.133334516Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

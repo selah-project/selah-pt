@@ -1,9 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "1-samuel 17:50",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 17,
+  "verse": 50,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:29:09.503032887Z",
+  "translation": "E Davidd prevaleceu ⟨את⟩ o filisteu com a funda e com a pedra, e golpeou ⟨את⟩ o filisteu, e o matou; e espada não havia na mão de Davidd.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "E prevaleceu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מן",
+      "gloss": "com"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "o filisteu"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "com a funda"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "e com a pedra"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e golpeou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o filisteu"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "o filisteu"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "e o matou"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "e espada"
+    },
+    {
+      "surface": "אין",
+      "gloss": "não havia"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na mão"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,81 +84,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 791,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17159,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17950
-  },
-  "translation": "E Davidd prevaleceu ⟨את⟩ o filisteu com a funda e com a pedra, e golpeou ⟨את⟩ o filisteu, e o matou; e espada não havia na mão de Davidd.",
-  "tokens": [
-    {
-      "surface": "ויחזק",
-      "english": "E prevaleceu"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מן",
-      "english": "com"
-    },
-    {
-      "surface": "הפלשתי",
-      "english": "o filisteu"
-    },
-    {
-      "surface": "בקלע",
-      "english": "com a funda"
-    },
-    {
-      "surface": "ובאבן",
-      "english": "e com a pedra"
-    },
-    {
-      "surface": "ויך",
-      "english": "e golpeou"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "o filisteu"
-    },
-    {
-      "surface": "הפלשתי",
-      "english": "o filisteu"
-    },
-    {
-      "surface": "וימיתהו",
-      "english": "e o matou"
-    },
-    {
-      "surface": "וחרב",
-      "english": "e espada"
-    },
-    {
-      "surface": "אין",
-      "english": "não havia"
-    },
-    {
-      "surface": "ביד",
-      "english": "na mão"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:29:09.503032887Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

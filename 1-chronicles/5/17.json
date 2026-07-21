@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-chronicles 5:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 5,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:36:15.361264661Z",
+  "translation": "Todos ⟨estes⟩ foram inscritos por genealogia nos dias de Yotam, rei de Yehudá, e nos dias de Yarovam, rei de Yisrael.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Todos ⟨estes⟩"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "foram inscritos por genealogia"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nos dias de"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "e nos dias de"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,64 +67,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57391,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57834
-  },
-  "translation": "Todos ⟨estes⟩ foram inscritos por genealogia nos dias de Yotam, rei de Yehudá, e nos dias de Yarovam, rei de Yisrael.",
-  "tokens": [
-    {
-      "surface": "כלם",
-      "english": "Todos ⟨estes⟩"
-    },
-    {
-      "surface": "התיחשו",
-      "english": "foram inscritos por genealogia"
-    },
-    {
-      "surface": "בימי",
-      "english": "nos dias de"
-    },
-    {
-      "surface": "יותם",
-      "english": "Yotam"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "ובימי",
-      "english": "e nos dias de"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Yarovam"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:36:15.361264661Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

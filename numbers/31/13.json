@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "numbers 31:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 31,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:42:51.959330250Z",
+  "translation": "E saíram Moshé e Elazar, o kohen, e todos os príncipes ⟨da⟩ assembléia, ao encontro deles, ⟨para⟩ fora ⟨do⟩ acampamento",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "E saíram"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "e Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "o kohen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todos"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "príncipes"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨da⟩ assembléia"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "ao encontro deles"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fora"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "⟨do⟩ acampamento"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshê",
@@ -13,68 +64,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18314,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18792
-  },
-  "translation": "E saíram Moshé e Elazar, o kohen, e todos os príncipes ⟨da⟩ assembléia, ao encontro deles, ⟨para⟩ fora ⟨do⟩ acampamento",
-  "tokens": [
-    {
-      "surface": "ויצאו",
-      "english": "E saíram"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ואלעזר",
-      "english": "e Elazar"
-    },
-    {
-      "surface": "הכהן",
-      "english": "o kohen"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todos"
-    },
-    {
-      "surface": "נשיאי",
-      "english": "príncipes"
-    },
-    {
-      "surface": "העדה",
-      "english": "⟨da⟩ assembléia"
-    },
-    {
-      "surface": "לקראתם",
-      "english": "ao encontro deles"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "מחוץ",
-      "english": "fora"
-    },
-    {
-      "surface": "למחנה",
-      "english": "⟨do⟩ acampamento"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:42:51.959330250Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

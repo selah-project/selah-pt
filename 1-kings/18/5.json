@@ -1,9 +1,126 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-kings 18:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 18,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:37:32.424831286Z",
+  "translation": "E Ajáv disse a Ovadyá: Vai ⟨na⟩ terra, ⟨a⟩ todas as fontes de águas, e ⟨a⟩ todos os ribeiros; talvez encontremos erva para salvar ⟨os⟩ cavalos e ⟨os⟩ mulares ⟨vivos⟩, para que não extirpemos ⟨os⟩ animais.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse",
+      "marks": "Acabe"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajáv",
+      "marks": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "a",
+      "marks": "Obadias"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyá",
+      "marks": ""
+    },
+    {
+      "surface": "לך",
+      "gloss": "Vai",
+      "marks": ""
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra",
+      "marks": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "a",
+      "marks": "todas as fontes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todas ⟨as⟩",
+      "marks": "fontes"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "fontes",
+      "marks": ""
+    },
+    {
+      "surface": "המים",
+      "gloss": "de águas",
+      "marks": ""
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ⟨a⟩",
+      "marks": "todos os ribeiros"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos ⟨os⟩",
+      "marks": "ribeiros"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "ribeiros",
+      "marks": ""
+    },
+    {
+      "surface": "אולי",
+      "gloss": "talvez",
+      "marks": ""
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "encontremos",
+      "marks": ""
+    },
+    {
+      "surface": "חציר",
+      "gloss": "erva",
+      "marks": ""
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "para salvar",
+      "marks": ""
+    },
+    {
+      "surface": "סוס",
+      "gloss": "⟨os⟩ cavalos",
+      "marks": ""
+    },
+    {
+      "surface": "ופרד",
+      "gloss": "e ⟨os⟩ mulares",
+      "marks": ""
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "para que não",
+      "marks": ""
+    },
+    {
+      "surface": "נכרית",
+      "gloss": "extirpemos",
+      "marks": ""
+    },
+    {
+      "surface": "מהבהמה",
+      "gloss": "⟨os⟩ animais",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Acabe",
@@ -20,134 +137,6 @@
       "hebrew": "עבדיה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 1174,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63687,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 64861
-  },
-  "translation": "E Ajáv disse a Ovadyá: Vai ⟨na⟩ terra, ⟨a⟩ todas as fontes de águas, e ⟨a⟩ todos os ribeiros; talvez encontremos erva para salvar ⟨os⟩ cavalos e ⟨os⟩ mulares ⟨vivos⟩, para que não extirpemos ⟨os⟩ animais.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse",
-      "marks": "Acabe"
-    },
-    {
-      "surface": "אחאב",
-      "english": "Ajáv",
-      "marks": ""
-    },
-    {
-      "surface": "אל",
-      "english": "a",
-      "marks": "Obadias"
-    },
-    {
-      "surface": "עבדיהו",
-      "english": "Ovadyá",
-      "marks": ""
-    },
-    {
-      "surface": "לך",
-      "english": "Vai",
-      "marks": ""
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra",
-      "marks": ""
-    },
-    {
-      "surface": "אל",
-      "english": "a",
-      "marks": "todas as fontes"
-    },
-    {
-      "surface": "כל",
-      "english": "todas ⟨as⟩",
-      "marks": "fontes"
-    },
-    {
-      "surface": "מעיני",
-      "english": "fontes",
-      "marks": ""
-    },
-    {
-      "surface": "המים",
-      "english": "de águas",
-      "marks": ""
-    },
-    {
-      "surface": "ואל",
-      "english": "e ⟨a⟩",
-      "marks": "todos os ribeiros"
-    },
-    {
-      "surface": "כל",
-      "english": "todos ⟨os⟩",
-      "marks": "ribeiros"
-    },
-    {
-      "surface": "הנחלים",
-      "english": "ribeiros",
-      "marks": ""
-    },
-    {
-      "surface": "אולי",
-      "english": "talvez",
-      "marks": ""
-    },
-    {
-      "surface": "נמצא",
-      "english": "encontremos",
-      "marks": ""
-    },
-    {
-      "surface": "חציר",
-      "english": "erva",
-      "marks": ""
-    },
-    {
-      "surface": "ונחיה",
-      "english": "para salvar",
-      "marks": ""
-    },
-    {
-      "surface": "סוס",
-      "english": "⟨os⟩ cavalos",
-      "marks": ""
-    },
-    {
-      "surface": "ופרד",
-      "english": "e ⟨os⟩ mulares",
-      "marks": ""
-    },
-    {
-      "surface": "ולוא",
-      "english": "para que não",
-      "marks": ""
-    },
-    {
-      "surface": "נכרית",
-      "english": "extirpemos",
-      "marks": ""
-    },
-    {
-      "surface": "מהבהמה",
-      "english": "⟨os⟩ animais",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:37:32.424831286Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "isaiah 56:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19021,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19384
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:55:57.590889739Z",
   "translation": "Todo animal ⟨do⟩ campo, vinde para devorar; todo animal ⟨na⟩ floresta.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "חיתו",
-      "english": "animal"
+      "gloss": "animal"
     },
     {
       "surface": "שדי",
-      "english": "⟨do⟩ campo",
+      "gloss": "⟨do⟩ campo",
       "marks": "animal"
     },
     {
       "surface": "אתיו",
-      "english": "vinde para devorar"
+      "gloss": "vinde para devorar"
     },
     {
       "surface": "לאכל",
-      "english": "para devorar"
+      "gloss": "para devorar"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "חיתו",
-      "english": "animal"
+      "gloss": "animal"
     },
     {
       "surface": "ביער",
-      "english": "⟨na⟩ floresta",
+      "gloss": "⟨na⟩ floresta",
       "marks": "animal"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:55:57.590889739Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

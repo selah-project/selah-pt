@@ -1,64 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-chronicles 8:10",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 366,
-    "prompt_tokens": 64840,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65206
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:09:28.637046966Z",
   "translation": "e ⟨את⟩ Jeú e ⟨את⟩ Sáquias e ⟨את⟩ Mirmá; estes são seus filhos, cabeças de casas de pais.",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Jeú"
     },
     {
       "surface": "יעוץ",
-      "english": "Jeú"
+      "gloss": "Jeú"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Sáquias"
     },
     {
       "surface": "שכיה",
-      "english": "Sáquias"
+      "gloss": "Sáquias"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Mirmá"
     },
     {
       "surface": "מרמה",
-      "english": "Mirmá"
+      "gloss": "Mirmá"
     },
     {
       "surface": "אלה",
-      "english": "estes"
+      "gloss": "estes"
     },
     {
       "surface": "בניו",
-      "english": "são seus filhos"
+      "gloss": "são seus filhos"
     },
     {
       "surface": "ראשי",
-      "english": "cabeças"
+      "gloss": "cabeças"
     },
     {
       "surface": "אבות",
-      "english": "de casas de pais"
+      "gloss": "de casas de pais"
     }
-  ],
-  "timestamp": "2026-07-16T11:09:28.637046966Z",
-  "model": "glm-4.5"
+  ]
 }

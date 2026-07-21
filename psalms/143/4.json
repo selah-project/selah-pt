@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 143:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 513,
-    "prompt_tokens": 70267,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70780
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:52:42.840371018Z",
   "translation": "E o meu fôlego se desmaia ⟨sobre⟩ mim; no ⟨meio⟩ de mim o meu coração se espanta.",
   "tokens": [
     {
       "surface": "וַ\/תִּתְעַטֵּף",
-      "english": "E o meu fôlego se desmaia"
+      "gloss": "E o meu fôlego se desmaia"
     },
     {
       "surface": "עָלַ\/י",
-      "english": "⟨sobre⟩ mim"
+      "gloss": "⟨sobre⟩ mim"
     },
     {
       "surface": "רוּחִ\/י",
-      "english": "o meu fôlego",
+      "gloss": "o meu fôlego",
       "marks": "o meu fôlego"
     },
     {
       "surface": "בְּ\/תוֹכִ\/י",
-      "english": "no ⟨meio⟩ de mim"
+      "gloss": "no ⟨meio⟩ de mim"
     },
     {
       "surface": "יִשְׁתּוֹמֵם",
-      "english": "se espanta"
+      "gloss": "se espanta"
     },
     {
       "surface": "לִבִּ\/י",
-      "english": "o meu coração"
+      "gloss": "o meu coração"
     }
-  ],
-  "timestamp": "2026-07-16T17:52:42.840371018Z",
-  "model": "glm-4.5"
+  ]
 }

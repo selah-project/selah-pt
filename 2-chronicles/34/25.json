@@ -1,113 +1,102 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "2-chronicles 34:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 963,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59069,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 60032
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:49:53.985356282Z",
   "translation": "Porque ⟨eles⟩ me abandonaram, e fizeram queimar incenso a outros deuses, para me provocar à ira com todas as obras de suas mãos; portanto a minha indignação será derramada sobre este lugar e não será apagada.",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "Porque",
+      "gloss": "Porque",
       "rationale": "aqui conjunção causal 'porquanto', não 'embaixo'"
     },
     {
       "surface": "אשר",
-      "english": "⟨eles⟩",
+      "gloss": "⟨eles⟩",
       "rationale": "pronome relativo; o antecedente (habitantes) está implícito"
     },
     {
       "surface": "עזבוני",
-      "english": "me abandonaram",
+      "gloss": "me abandonaram",
       "rationale": "3mp perf. de עזב + sufixo 1cs"
     },
     {
       "surface": "ויקטירו",
-      "english": "e fizeram queimar incenso",
+      "gloss": "e fizeram queimar incenso",
       "rationale": "hiphal de קטר (fazer fumaça de incenso), 3mp"
     },
     {
       "surface": "לאלהים",
-      "english": "a outros deuses",
+      "gloss": "a outros deuses",
       "rationale": "preposição ל + אלהים plural"
     },
     {
       "surface": "אחרים",
-      "english": "outros",
+      "gloss": "outros",
       "rationale": "adjetivo plural"
     },
     {
       "surface": "למען",
-      "english": "para",
+      "gloss": "para",
       "rationale": "preposição indicando propósito"
     },
     {
       "surface": "הכעיסני",
-      "english": "me provocar à ira",
+      "gloss": "me provocar à ira",
       "rationale": "hiphal de כעס (provocar ira) + sufixo 1cs"
     },
     {
       "surface": "בכל",
-      "english": "com todas",
+      "gloss": "com todas",
       "rationale": "preposição ב + כל"
     },
     {
       "surface": "מעשי",
-      "english": "obras",
+      "gloss": "obras",
       "rationale": "substantivo plural de מעשה"
     },
     {
       "surface": "ידיהם",
-      "english": "de suas mãos",
+      "gloss": "de suas mãos",
       "rationale": "construto יד + sufixo 3mp"
     },
     {
       "surface": "ותתך",
-      "english": "portanto",
+      "gloss": "portanto",
       "rationale": "waw + imperativo de נתך (derramar)"
     },
     {
       "surface": "חמתי",
-      "english": "a minha indignação",
+      "gloss": "a minha indignação",
       "rationale": "substantivo חמה + sufixo 1cs"
     },
     {
       "surface": "במקום",
-      "english": "sobre este lugar",
+      "gloss": "sobre este lugar",
       "rationale": "preposição ב + substantivo"
     },
     {
       "surface": "הזה",
-      "english": "este",
+      "gloss": "este",
       "rationale": "pronome demonstrativo"
     },
     {
       "surface": "ולא",
-      "english": "e não",
+      "gloss": "e não",
       "rationale": "conjunção negativa"
     },
     {
       "surface": "תכבה",
-      "english": "será apagada",
+      "gloss": "será apagada",
       "rationale": "qal pass. de כבה, 3fs com sufixo feminino implícito"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:49:53.985356282Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 102:25",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 363,
-    "prompt_tokens": 70453,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70816
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:42.597096990Z",
   "translation": "Disse: meu Elohim, não me leves na metade dos meus dias; teus anos ⟨são⟩ através das gerações.",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "Disse"
+      "gloss": "Disse"
     },
     {
       "surface": "אלי",
-      "english": "meu Elohim"
+      "gloss": "meu Elohim"
     },
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תעלני",
-      "english": "me leves"
+      "gloss": "me leves"
     },
     {
       "surface": "בחצי",
-      "english": "na metade"
+      "gloss": "na metade"
     },
     {
       "surface": "ימי",
-      "english": "dos meus dias"
+      "gloss": "dos meus dias"
     },
     {
       "surface": "בדור",
-      "english": "através"
+      "gloss": "através"
     },
     {
       "surface": "דורים",
-      "english": "das gerações"
+      "gloss": "das gerações"
     },
     {
       "surface": "שנותיך",
-      "english": "teus anos"
+      "gloss": "teus anos"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:42.597096990Z",
-  "model": "glm-4.5"
+  ]
 }

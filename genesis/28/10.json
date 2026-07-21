@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 28:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 227,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21168,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21395
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:09:28.540987219Z",
   "translation": "E saiu Jaakob de ⟨o⟩ Beer-Sheba e foi para Haran.",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "E saiu"
+      "gloss": "E saiu"
     },
     {
       "surface": "יעקב",
-      "english": "Jaakob"
+      "gloss": "Jaakob"
     },
     {
       "surface": "מבאר",
-      "english": "de ⟨o⟩"
+      "gloss": "de ⟨o⟩"
     },
     {
       "surface": "שבע",
-      "english": "Beer-Sheba"
+      "gloss": "Beer-Sheba"
     },
     {
       "surface": "וילך",
-      "english": "e foi"
+      "gloss": "e foi"
     },
     {
       "surface": "חרנה",
-      "english": "para Haran"
+      "gloss": "para Haran"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:09:28.540987219Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

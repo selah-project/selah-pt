@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 27:5",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 425,
-    "prompt_tokens": 60046,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60471
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:32:29.977875516Z",
   "translation": "Melhor ⟨é⟩ a repreensão aberta do que ⟨o⟩ amor escondido.",
   "tokens": [
     {
       "surface": "טובה",
-      "english": "Melhor ⟨é⟩"
+      "gloss": "Melhor ⟨é⟩"
     },
     {
       "surface": "תוכחת",
-      "english": "a repreensão"
+      "gloss": "a repreensão"
     },
     {
       "surface": "מגלה",
-      "english": "aberta"
+      "gloss": "aberta"
     },
     {
       "surface": "מאהבה",
-      "english": "do que ⟨o⟩ amor"
+      "gloss": "do que ⟨o⟩ amor"
     },
     {
       "surface": "מסתרת",
-      "english": "escondido"
+      "gloss": "escondido"
     }
-  ],
-  "timestamp": "2026-07-16T17:32:29.977875516Z",
-  "model": "glm-4.5"
+  ]
 }

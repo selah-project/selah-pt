@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "jeremiah 29:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 29,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:32:04.394068407Z",
+  "translation": "Depois da saída de Jeconias ⟨o⟩ rei, e ⟨a⟩ dama, e ⟨os⟩ eunucos, ⟨os⟩ príncipes de Yehudá e de Jerusalém, e ⟨o⟩ artífice, e ⟨o⟩ ferreiro, de Jerusalém",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Depois de"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "saída"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Jeconias"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨o⟩ rei"
+    },
+    {
+      "surface": "והגבירה",
+      "gloss": "e ⟨a⟩ dama"
+    },
+    {
+      "surface": "והסריסים",
+      "gloss": "e ⟨os⟩ eunucos"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "⟨os⟩ príncipes"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e de Jerusalém"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "e ⟨o⟩ artífice"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "e ⟨o⟩ ferreiro"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "de Jerusalém"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,72 +68,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 621,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18086,
-    "prompt_tokens_details": {
-      "cached_tokens": 16391
-    },
-    "total_tokens": 18707
-  },
-  "translation": "Depois da saída de Jeconias ⟨o⟩ rei, e ⟨a⟩ dama, e ⟨os⟩ eunucos, ⟨os⟩ príncipes de Yehudá e de Jerusalém, e ⟨o⟩ artífice, e ⟨o⟩ ferreiro, de Jerusalém",
-  "tokens": [
-    {
-      "surface": "אחרי",
-      "english": "Depois de"
-    },
-    {
-      "surface": "צאת",
-      "english": "saída"
-    },
-    {
-      "surface": "יכניה",
-      "english": "Jeconias"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨o⟩ rei"
-    },
-    {
-      "surface": "והגבירה",
-      "english": "e ⟨a⟩ dama"
-    },
-    {
-      "surface": "והסריסים",
-      "english": "e ⟨os⟩ eunucos"
-    },
-    {
-      "surface": "שרי",
-      "english": "⟨os⟩ príncipes"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "וירושלם",
-      "english": "e de Jerusalém"
-    },
-    {
-      "surface": "והחרש",
-      "english": "e ⟨o⟩ artífice"
-    },
-    {
-      "surface": "והמסגר",
-      "english": "e ⟨o⟩ ferreiro"
-    },
-    {
-      "surface": "מירושלם",
-      "english": "de Jerusalém"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:32:04.394068407Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

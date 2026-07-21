@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 92:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 591,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62773,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63364
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:41:45.089410542Z",
   "translation": "⟨O⟩ justo ⟨é⟩ como ⟨uma⟩ tamareira florescerá ⟨como⟩ ⟨um⟩ cedro ⟨no⟩ Líbano crescerá",
   "tokens": [
     {
       "surface": "צדיק",
-      "english": "⟨O⟩ justo"
+      "gloss": "⟨O⟩ justo"
     },
     {
       "surface": "כתמר",
-      "english": "⟨como⟩ ⟨uma⟩ tamareira"
+      "gloss": "⟨como⟩ ⟨uma⟩ tamareira"
     },
     {
       "surface": "יפרח",
-      "english": "florescerá"
+      "gloss": "florescerá"
     },
     {
       "surface": "כארז",
-      "english": "⟨como⟩ ⟨um⟩ cedro"
+      "gloss": "⟨como⟩ ⟨um⟩ cedro"
     },
     {
       "surface": "בלבנון",
-      "english": "⟨no⟩ Líbano"
+      "gloss": "⟨no⟩ Líbano"
     },
     {
       "surface": "ישגה",
-      "english": "crescerá"
+      "gloss": "crescerá"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:41:45.089410542Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

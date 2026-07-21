@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "ecclesiastes 7:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
+  "chapter": 7,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:33:00.867076977Z",
+  "translation": "Boa ⟨é⟩ ⟨a⟩ Jojmá com ⟨uma⟩ herança, e ⟨há⟩ vantagem para ⟨os que⟩ veem ⟨o⟩ sol",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Boa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "⟨a⟩ Jojmá"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "⟨uma⟩ herança"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "e ⟨há⟩ vantagem"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "para ⟨os que⟩ veem"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨o⟩ sol"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -13,52 +48,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17366,
-    "prompt_tokens_details": {
-      "cached_tokens": 16387
-    },
-    "total_tokens": 17767
-  },
-  "translation": "Boa ⟨é⟩ ⟨a⟩ Jojmá com ⟨uma⟩ herança, e ⟨há⟩ vantagem para ⟨os que⟩ veem ⟨o⟩ sol",
-  "tokens": [
-    {
-      "surface": "טובה",
-      "english": "Boa"
-    },
-    {
-      "surface": "חכמה",
-      "english": "⟨a⟩ Jojmá"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "נחלה",
-      "english": "⟨uma⟩ herança"
-    },
-    {
-      "surface": "ויתר",
-      "english": "e ⟨há⟩ vantagem"
-    },
-    {
-      "surface": "לראי",
-      "english": "para ⟨os que⟩ veem"
-    },
-    {
-      "surface": "השמש",
-      "english": "⟨o⟩ sol"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:33:00.867076977Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

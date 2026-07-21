@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "judges 12:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 12,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:03:29.268988364Z",
+  "translation": "E morreu ⟨o⟩ Abdom, filho de Hilel ⟨o⟩ Piratonita, e ⟨foi⟩ sepultado em Piratom ⟨na⟩ terra de Efráyim ⟨no⟩ monte ⟨do⟩ Amalequita.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "E morreu"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "⟨o⟩ Abdom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "de Hilel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "⟨o⟩ Piratonita"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e ⟨foi⟩ sepultado"
+    },
+    {
+      "surface": "בפרעתון",
+      "gloss": "em Piratom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ terra"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "⟨no⟩ monte"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "⟨do⟩ Amalequita"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,68 +64,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 658,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16542,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17200
-  },
-  "translation": "E morreu ⟨o⟩ Abdom, filho de Hilel ⟨o⟩ Piratonita, e ⟨foi⟩ sepultado em Piratom ⟨na⟩ terra de Efráyim ⟨no⟩ monte ⟨do⟩ Amalequita.",
-  "tokens": [
-    {
-      "surface": "וימת",
-      "english": "E morreu"
-    },
-    {
-      "surface": "עבדון",
-      "english": "⟨o⟩ Abdom"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "הלל",
-      "english": "de Hilel"
-    },
-    {
-      "surface": "הפרעתוני",
-      "english": "⟨o⟩ Piratonita"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "e ⟨foi⟩ sepultado"
-    },
-    {
-      "surface": "בפרעתון",
-      "english": "em Piratom"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨na⟩ terra"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    },
-    {
-      "surface": "בהר",
-      "english": "⟨no⟩ monte"
-    },
-    {
-      "surface": "העמלקי",
-      "english": "⟨do⟩ Amalequita"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:03:29.268988364Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

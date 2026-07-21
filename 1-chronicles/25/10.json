@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-chronicles 25:10",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64218,
-    "prompt_tokens_details": {
-      "cached_tokens": 63368
-    },
-    "total_tokens": 64583
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T05:02:15.390674252Z",
   "translation": "o terceiro ⟨para⟩ Zacur, seus filhos ⟨e⟩ seus irmãos, doze:",
   "tokens": [
     {
       "surface": "השלשי",
-      "english": "o terceiro"
+      "gloss": "o terceiro"
     },
     {
       "surface": "זכור",
-      "english": "Zacur"
+      "gloss": "Zacur"
     },
     {
       "surface": "בניו",
-      "english": "seus filhos"
+      "gloss": "seus filhos"
     },
     {
       "surface": "ואחיו",
-      "english": "⟨e⟩ seus irmãos"
+      "gloss": "⟨e⟩ seus irmãos"
     },
     {
       "surface": "שנים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "עשר",
-      "english": "doze:"
+      "gloss": "doze:"
     }
-  ],
-  "timestamp": "2026-06-14T05:02:15.390674252Z",
-  "model": "glm-4.5"
+  ]
 }

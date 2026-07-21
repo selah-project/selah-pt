@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 65:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62625,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 62942
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:20:57.045159280Z",
   "translation": "⟨Ao⟩ regente; ⟨um⟩ salmo ⟨para⟩ David; ⟨um⟩ cântico",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Ao⟩ regente"
+      "gloss": "⟨Ao⟩ regente"
     },
     {
       "surface": "מזמור",
-      "english": "⟨um⟩ salmo"
+      "gloss": "⟨um⟩ salmo"
     },
     {
       "surface": "לדוד",
-      "english": "⟨para⟩ David"
+      "gloss": "⟨para⟩ David"
     },
     {
       "surface": "שיר",
-      "english": "⟨um⟩ cântico"
+      "gloss": "⟨um⟩ cântico"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:20:57.045159280Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

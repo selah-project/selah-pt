@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 144:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 535,
-    "prompt_tokens": 70739,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71274
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:53:09.154406606Z",
   "translation": "Nossos celeiros ⟨estão⟩ cheios, fornecendo todo tipo de provisão; nossas ovelhas ⟨estão⟩ produzindo milhares e dezenas de milhares em nossas ruas;",
   "tokens": [
     {
       "surface": "מזוינו",
-      "english": "nossos celeiros"
+      "gloss": "nossos celeiros"
     },
     {
       "surface": "מלאים",
-      "english": "cheios"
+      "gloss": "cheios"
     },
     {
       "surface": "מפיקים",
-      "english": "fornecendo"
+      "gloss": "fornecendo"
     },
     {
       "surface": "מזן",
-      "english": "todo tipo"
+      "gloss": "todo tipo"
     },
     {
       "surface": "אל",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "זן",
-      "english": "provisão"
+      "gloss": "provisão"
     },
     {
       "surface": "צאוננו",
-      "english": "nossas ovelhas"
+      "gloss": "nossas ovelhas"
     },
     {
       "surface": "מאליפות",
-      "english": "produzindo milhares"
+      "gloss": "produzindo milhares"
     },
     {
       "surface": "מרבבות",
-      "english": "e dezenas de milhares"
+      "gloss": "e dezenas de milhares"
     },
     {
       "surface": "בחוצותינו",
-      "english": "em nossas ruas"
+      "gloss": "em nossas ruas"
     }
-  ],
-  "timestamp": "2026-07-16T17:53:09.154406606Z",
-  "model": "glm-4.5"
+  ]
 }

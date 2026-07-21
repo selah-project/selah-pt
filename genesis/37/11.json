@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 37:11",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 352,
-    "prompt_tokens": 28713,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29065
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:56:23.036705292Z",
   "translation": "E seus irmãos o invejaram; porém seu pai guardou ⟨את⟩ a palavra",
   "tokens": [
     {
       "surface": "ויקנאו",
-      "english": "E seus irmãos o invejaram"
+      "gloss": "E seus irmãos o invejaram"
     },
     {
       "surface": "בו",
-      "english": "o"
+      "gloss": "o"
     },
     {
       "surface": "אחיו",
-      "english": "irmãos"
+      "gloss": "irmãos"
     },
     {
       "surface": "ואביו",
-      "english": "porém seu pai"
+      "gloss": "porém seu pai"
     },
     {
       "surface": "שמר",
-      "english": "guardou"
+      "gloss": "guardou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a palavra"
     },
     {
       "surface": "הדבר",
-      "english": "a palavra"
+      "gloss": "a palavra"
     }
-  ],
-  "timestamp": "2026-07-16T14:56:23.036705292Z",
-  "model": "glm-4.5"
+  ]
 }

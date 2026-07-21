@@ -1,9 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "hosea 11:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 11,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:00:41.137273794Z",
+  "translation": "Quando Yisrael ⟨era⟩ um menino, então eu o amei, e ⟨do⟩ Egito chamei a meu filho",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quando",
+      "marks": ""
+    },
+    {
+      "surface": "נער",
+      "gloss": "menino",
+      "marks": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael",
+      "marks": ""
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "então eu o amei",
+      "marks": ""
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "⟨do⟩ Egito",
+      "marks": "Egito"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "chamei",
+      "marks": ""
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a meu filho",
+      "marks": "filho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,59 +55,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19470,
-    "prompt_tokens_details": {
-      "cached_tokens": 18473
-    },
-    "total_tokens": 19850
-  },
-  "translation": "Quando Yisrael ⟨era⟩ um menino, então eu o amei, e ⟨do⟩ Egito chamei a meu filho",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Quando",
-      "marks": ""
-    },
-    {
-      "surface": "נער",
-      "english": "menino",
-      "marks": ""
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael",
-      "marks": ""
-    },
-    {
-      "surface": "ואהבהו",
-      "english": "então eu o amei",
-      "marks": ""
-    },
-    {
-      "surface": "וממצרים",
-      "english": "⟨do⟩ Egito",
-      "marks": "Egito"
-    },
-    {
-      "surface": "קראתי",
-      "english": "chamei",
-      "marks": ""
-    },
-    {
-      "surface": "לבני",
-      "english": "a meu filho",
-      "marks": "filho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:00:41.137273794Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

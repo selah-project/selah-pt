@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 85:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 348,
-    "prompt_tokens": 70222,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70570
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:43:22.698456559Z",
   "translation": "A verdade ⟨é⟩ o que brota da terra, e a justiça ⟨se⟩ inclina desde os céus.",
   "tokens": [
     {
       "surface": "אמת",
-      "english": "A verdade"
+      "gloss": "A verdade"
     },
     {
       "surface": "מארץ",
-      "english": "da terra"
+      "gloss": "da terra"
     },
     {
       "surface": "תצמח",
-      "english": "brota"
+      "gloss": "brota"
     },
     {
       "surface": "וצדק",
-      "english": "e a justiça"
+      "gloss": "e a justiça"
     },
     {
       "surface": "משמים",
-      "english": "desde os céus"
+      "gloss": "desde os céus"
     },
     {
       "surface": "נשקף",
-      "english": "inclina"
+      "gloss": "inclina"
     }
-  ],
-  "timestamp": "2026-07-16T17:43:22.698456559Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "amos 8:13",
   "book": "amos",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23738,
-    "prompt_tokens_details": {
-      "cached_tokens": 22733
-    },
-    "total_tokens": 24081
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:51:57.776414697Z",
   "translation": "Naquele dia ⟨as⟩ virgens belas ⟨estão⟩ desfalecendo, e ⟨os⟩ jovens com ⟨a⟩ sede.",
   "tokens": [
     {
       "surface": "ביום",
-      "english": "Naquele dia"
+      "gloss": "Naquele dia"
     },
     {
       "surface": "ההוא",
-      "english": "aquele"
+      "gloss": "aquele"
     },
     {
       "surface": "תתעלפנה",
-      "english": "⟨estão⟩ desfalecendo"
+      "gloss": "⟨estão⟩ desfalecendo"
     },
     {
       "surface": "הבתולת",
-      "english": "⟨as⟩ virgens belas"
+      "gloss": "⟨as⟩ virgens belas"
     },
     {
       "surface": "היפות",
-      "english": "belas"
+      "gloss": "belas"
     },
     {
       "surface": "והבחורים",
-      "english": "e ⟨os⟩ jovens"
+      "gloss": "e ⟨os⟩ jovens"
     },
     {
       "surface": "בצמא",
-      "english": "com ⟨a⟩ sede"
+      "gloss": "com ⟨a⟩ sede"
     }
-  ],
-  "timestamp": "2026-06-14T04:51:57.776414697Z",
-  "model": "glm-4.5"
+  ]
 }

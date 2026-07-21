@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "ezra 2:18",
   "book": "ezra",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 292,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51873,
-    "prompt_tokens_details": {
-      "cached_tokens": 51185
-    },
-    "total_tokens": 52165
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:55:33.538497216Z",
   "translation": "⟨Os⟩ filhos de Jorah, ⟨um⟩ cento e ⟨doze⟩",
   "tokens": [
     {
       "surface": "בני",
-      "english": "⟨Os⟩ filhos de"
+      "gloss": "⟨Os⟩ filhos de"
     },
     {
       "surface": "יורה",
-      "english": "Jorah,"
+      "gloss": "Jorah,"
     },
     {
       "surface": "מאה",
-      "english": "⟨um⟩ cento"
+      "gloss": "⟨um⟩ cento"
     },
     {
       "surface": "ושנים",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "עשר",
-      "english": "⟨doze⟩"
+      "gloss": "⟨doze⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:55:33.538497216Z",
-  "model": "glm-4.5"
+  ]
 }

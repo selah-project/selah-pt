@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-samuel 22:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 22,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:34:43.945539050Z",
+  "translation": "E escapou um dos filhos de Ahimeleque, filho de Aitube, e o nome dele ⟨era⟩ Abiatar; e ele fugiu após David.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "E escapou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "um dos filhos"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "um"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "de Ahimeleque"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "de Aitube"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "e o nome dele"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "e ele fugiu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "após"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,68 +64,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16745,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17161
-  },
-  "translation": "E escapou um dos filhos de Ahimeleque, filho de Aitube, e o nome dele ⟨era⟩ Abiatar; e ele fugiu após David.",
-  "tokens": [
-    {
-      "surface": "וימלט",
-      "english": "E escapou"
-    },
-    {
-      "surface": "בן",
-      "english": "um dos filhos"
-    },
-    {
-      "surface": "אחד",
-      "english": "um"
-    },
-    {
-      "surface": "לאחימלך",
-      "english": "de Ahimeleque"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "אחטוב",
-      "english": "de Aitube"
-    },
-    {
-      "surface": "ושמו",
-      "english": "e o nome dele"
-    },
-    {
-      "surface": "אביתר",
-      "english": "Abiatar"
-    },
-    {
-      "surface": "ויברח",
-      "english": "e ele fugiu"
-    },
-    {
-      "surface": "אחרי",
-      "english": "após"
-    },
-    {
-      "surface": "דוד",
-      "english": "David"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:34:43.945539050Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

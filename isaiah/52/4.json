@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 52:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 52,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:53:33.433154107Z",
+  "translation": "Porque assim diz Adonai YHWH: No princípio ⟨o⟩ meu povo desceu ao Mitzráyim para habitar lá, e ⟨a⟩ Assíria o oprimiu sem motivo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "כה",
+      "gloss": "assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ao Mitzráyim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "desceu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨o⟩ meu povo"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "No princípio"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "para habitar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lá"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "e ⟨a⟩ Assíria"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "oprimiu-o"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,80 +76,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 52,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19615,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 20098
-  },
-  "translation": "Porque assim diz Adonai YHWH: No princípio ⟨o⟩ meu povo desceu ao Mitzráyim para habitar lá, e ⟨a⟩ Assíria o oprimiu sem motivo.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "כה",
-      "english": "assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "מצרים",
-      "english": "ao Mitzráyim"
-    },
-    {
-      "surface": "ירד",
-      "english": "desceu"
-    },
-    {
-      "surface": "עמי",
-      "english": "⟨o⟩ meu povo"
-    },
-    {
-      "surface": "בראשנה",
-      "english": "No princípio"
-    },
-    {
-      "surface": "לגור",
-      "english": "para habitar"
-    },
-    {
-      "surface": "שם",
-      "english": "lá"
-    },
-    {
-      "surface": "ואשור",
-      "english": "e ⟨a⟩ Assíria"
-    },
-    {
-      "surface": "באפס",
-      "english": "sem"
-    },
-    {
-      "surface": "עשקו",
-      "english": "oprimiu-o"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:53:33.433154107Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "2-samuel 1:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 1,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:43:30.008453405Z",
+  "translation": "E Davidd chamou um dos ⟨את⟩ jovens e disse: Vai, e ataca ⟨a⟩ ele. E ele o feriu e morreu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "E David chamou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "um"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "dos",
+      "marks": "jovens"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "ataca"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨a⟩ ele"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "E ele o feriu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morreu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,65 +61,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17407,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 17785
-  },
-  "translation": "E Davidd chamou um dos ⟨את⟩ jovens e disse: Vai, e ataca ⟨a⟩ ele. E ele o feriu e morreu.",
-  "tokens": [
-    {
-      "surface": "ויקרא",
-      "english": "E David chamou"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לאחד",
-      "english": "um"
-    },
-    {
-      "surface": "מהנערים",
-      "english": "dos",
-      "marks": "jovens"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "גש",
-      "english": "Vai"
-    },
-    {
-      "surface": "פגע",
-      "english": "ataca"
-    },
-    {
-      "surface": "בו",
-      "english": "⟨a⟩ ele"
-    },
-    {
-      "surface": "ויכהו",
-      "english": "E ele o feriu"
-    },
-    {
-      "surface": "וימת",
-      "english": "e morreu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:43:30.008453405Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

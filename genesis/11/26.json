@@ -1,68 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "genesis 11:26",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 377,
-    "prompt_tokens": 29146,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29523
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:43:18.773630635Z",
   "translation": "E Terach viveu setenta anos e gerou ⟨את⟩ Avram, ⟨את⟩ Nachor, e ⟨את⟩ Haran.",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "E ... viveu"
+      "gloss": "E ... viveu"
     },
     {
       "surface": "תרח",
-      "english": "Terach"
+      "gloss": "Terach"
     },
     {
       "surface": "שבעים",
-      "english": "setenta"
+      "gloss": "setenta"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "ויולד",
-      "english": "e gerou"
+      "gloss": "e gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avram"
     },
     {
       "surface": "אברם",
-      "english": "Avram"
+      "gloss": "Avram"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Nachor"
     },
     {
       "surface": "נחור",
-      "english": "Nachor"
+      "gloss": "Nachor"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Haran"
     },
     {
       "surface": "הרן",
-      "english": "Haran"
+      "gloss": "Haran"
     }
-  ],
-  "timestamp": "2026-07-16T14:43:18.773630635Z",
-  "model": "glm-4.5"
+  ]
 }

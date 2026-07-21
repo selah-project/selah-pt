@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "judges 5:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 5,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:55:05.492616240Z",
+  "translation": "Vieram reis, eles guerreados; então guerreados os reis de Kenaan em Taanach ⟨sobre⟩ as águas de Megido; ⟨no⟩ ganho de prata não tomaram",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Vieram"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "reis"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "eles guerreados"
+    },
+    {
+      "surface": "אז",
+      "gloss": "então"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "guerreados"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "os reis"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Kenaan"
+    },
+    {
+      "surface": "בתענך",
+      "gloss": "em Taanach"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "as águas"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "de Megido"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "⟨no⟩ ganho"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de prata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "tomaram"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Canaã",
@@ -13,84 +80,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 575,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16805,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17380
-  },
-  "translation": "Vieram reis, eles guerreados; então guerreados os reis de Kenaan em Taanach ⟨sobre⟩ as águas de Megido; ⟨no⟩ ganho de prata não tomaram",
-  "tokens": [
-    {
-      "surface": "באו",
-      "english": "Vieram"
-    },
-    {
-      "surface": "מלכים",
-      "english": "reis"
-    },
-    {
-      "surface": "נלחמו",
-      "english": "eles guerreados"
-    },
-    {
-      "surface": "אז",
-      "english": "então"
-    },
-    {
-      "surface": "נלחמו",
-      "english": "guerreados"
-    },
-    {
-      "surface": "מלכי",
-      "english": "os reis"
-    },
-    {
-      "surface": "כנען",
-      "english": "de Kenaan"
-    },
-    {
-      "surface": "בתענך",
-      "english": "em Taanach"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "מי",
-      "english": "as águas"
-    },
-    {
-      "surface": "מגדו",
-      "english": "de Megido"
-    },
-    {
-      "surface": "בצע",
-      "english": "⟨no⟩ ganho"
-    },
-    {
-      "surface": "כסף",
-      "english": "de prata"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "לקחו",
-      "english": "tomaram"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:55:05.492616240Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

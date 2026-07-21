@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-chronicles 5:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 5,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:36:08.479259725Z",
+  "translation": "Beerah ⟨o⟩ filho ⟨dele⟩, que Tiglat-Pileser ⟨o⟩ rei ⟨da⟩ Ashshur deportou ⟨em⟩ cativeiro, ⟨ele era⟩ príncipe ⟨dos⟩ rubenitas.",
+  "tokens": [
+    {
+      "surface": "בארה",
+      "gloss": "Beerah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨o⟩ filho ⟨dele⟩",
+      "rationale": "בנו como sufixo significa 'seu filho'; português requer artigo e pronome possessivo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "deportou ⟨em⟩ cativeiro",
+      "rationale": "הגלה significa literalmente 'exilar\/deportar nu'; português especifica 'em cativeiro' para clarificar o sentido de exílio forçado"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "Tiglat-Pileser"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "Tiglat-Pileser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨o⟩ rei",
+      "rationale": "Hebraico não usa artigo definido antes de 'rei' aqui; português requer 'o'"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨da⟩ Ashshur",
+      "rationale": "אשר como nome próprio se refere a Assur\/Assíria; português usa preposição 'da' para posse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ele era⟩",
+      "rationale": "Hebraico usa הוא para ênfase, mas frequentemente omite o verbo 'ser\/estar'; português requer pronome e verbo"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "príncipe"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "⟨dos⟩ rubenitas",
+      "rationale": "ל + ראובני significa 'pertencente aos rubenitas'; português usa preposição 'dos'"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Assíria",
@@ -13,74 +70,6 @@
       "hebrew": "אשור"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 766,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57405,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 58171
-  },
-  "translation": "Beerah ⟨o⟩ filho ⟨dele⟩, que Tiglat-Pileser ⟨o⟩ rei ⟨da⟩ Ashshur deportou ⟨em⟩ cativeiro, ⟨ele era⟩ príncipe ⟨dos⟩ rubenitas.",
-  "tokens": [
-    {
-      "surface": "בארה",
-      "english": "Beerah"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨o⟩ filho ⟨dele⟩",
-      "rationale": "בנו como sufixo significa 'seu filho'; português requer artigo e pronome possessivo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "הגלה",
-      "english": "deportou ⟨em⟩ cativeiro",
-      "rationale": "הגלה significa literalmente 'exilar\/deportar nu'; português especifica 'em cativeiro' para clarificar o sentido de exílio forçado"
-    },
-    {
-      "surface": "תלגת",
-      "english": "Tiglat-Pileser"
-    },
-    {
-      "surface": "פלנאסר",
-      "english": "Tiglat-Pileser"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨o⟩ rei",
-      "rationale": "Hebraico não usa artigo definido antes de 'rei' aqui; português requer 'o'"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨da⟩ Ashshur",
-      "rationale": "אשר como nome próprio se refere a Assur\/Assíria; português usa preposição 'da' para posse"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨ele era⟩",
-      "rationale": "Hebraico usa הוא para ênfase, mas frequentemente omite o verbo 'ser\/estar'; português requer pronome e verbo"
-    },
-    {
-      "surface": "נשיא",
-      "english": "príncipe"
-    },
-    {
-      "surface": "לראובני",
-      "english": "⟨dos⟩ rubenitas",
-      "rationale": "ל + ראובני significa 'pertencente aos rubenitas'; português usa preposição 'dos'"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:36:08.479259725Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

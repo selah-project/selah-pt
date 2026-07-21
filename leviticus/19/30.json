@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "leviticus 19:30",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 367,
-    "prompt_tokens": 24928,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25295
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:47:31.238600301Z",
   "translation": "⟨Vós⟩ guardareis ⟨os⟩ meus Shabbats e reverenciareis ⟨o⟩ meu santuário; eu sou YHWH.",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨os⟩",
+      "gloss": "⟨os⟩",
       "marks": "meus Shabbats"
     },
     {
       "surface": "שבתתי",
-      "english": "meus Shabbats"
+      "gloss": "meus Shabbats"
     },
     {
       "surface": "תשמרו",
-      "english": "guardareis"
+      "gloss": "guardareis"
     },
     {
       "surface": "ומקדשי",
-      "english": "e reverenciareis ⟨o⟩ meu santuário"
+      "gloss": "e reverenciareis ⟨o⟩ meu santuário"
     },
     {
       "surface": "תיראו",
-      "english": "reverenciareis"
+      "gloss": "reverenciareis"
     },
     {
       "surface": "אני",
-      "english": "eu sou"
+      "gloss": "eu sou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T16:47:31.238600301Z",
-  "model": "glm-4.5"
+  ]
 }

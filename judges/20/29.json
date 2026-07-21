@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "judges 20:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 20,
+  "verse": 29,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:10:56.986476456Z",
+  "translation": "E Yisrael pôs ⟨em⟩ emboscada contra ⟨את⟩ ⟨a⟩ Gibeá, ao redor",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "E pôs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "⟨em⟩ emboscada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contra"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "⟨a⟩ Gibeá",
+      "marks": "Gibeá"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ao redor"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,49 +45,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16032,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 16373
-  },
-  "translation": "E Yisrael pôs ⟨em⟩ emboscada contra ⟨את⟩ ⟨a⟩ Gibeá, ao redor",
-  "tokens": [
-    {
-      "surface": "וישם",
-      "english": "E pôs"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ארבים",
-      "english": "⟨em⟩ emboscada"
-    },
-    {
-      "surface": "אל",
-      "english": "contra"
-    },
-    {
-      "surface": "הגבעה",
-      "english": "⟨a⟩ Gibeá",
-      "marks": "Gibeá"
-    },
-    {
-      "surface": "סביב",
-      "english": "ao redor"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:10:56.986476456Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

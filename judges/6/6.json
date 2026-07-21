@@ -1,9 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "judges 6:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 6,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:55:53.234500272Z",
+  "translation": "E ⟨foi⟩ Yisrael muito humilhado ⟨por⟩ causa de ⟨o⟩ Midian; e clamaram ⟨os⟩ filhos de Yisrael ⟨a⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "וידל",
+      "gloss": "E ⟨foi⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muito"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨por⟩ causa de",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "⟨o⟩ Midian"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "clamaram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,66 +69,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16395,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 16903
-  },
-  "translation": "E ⟨foi⟩ Yisrael muito humilhado ⟨por⟩ causa de ⟨o⟩ Midian; e clamaram ⟨os⟩ filhos de Yisrael ⟨a⟩ YHWH",
-  "tokens": [
-    {
-      "surface": "וידל",
-      "english": "E ⟨foi⟩",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מאד",
-      "english": "muito"
-    },
-    {
-      "surface": "מפני",
-      "english": "⟨por⟩ causa de",
-      "marks": "Midian"
-    },
-    {
-      "surface": "מדין",
-      "english": "⟨o⟩ Midian"
-    },
-    {
-      "surface": "ויזעקו",
-      "english": "clamaram"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:55:53.234500272Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

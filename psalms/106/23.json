@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 106:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 106,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:51:00.587359043Z",
+  "translation": "Ele disse para ⟨destruí-los⟩, ⟨se não⟩ ⟨fosse⟩ por Moshé, ⟨o⟩ escolhido ⟨dele⟩, que se pôs ⟨na⟩ brecha diante ⟨dele⟩, para desviar ⟨a⟩ sua ira ⟨da⟩ destruição.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ele disse"
+    },
+    {
+      "surface": "להשמידם",
+      "gloss": "para ⟨destruí-los⟩"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "⟨se não⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨por⟩ Moshé"
+    },
+    {
+      "surface": "בחירו",
+      "gloss": "⟨o⟩ escolhido ⟨dele⟩"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "que se pôs"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "⟨na⟩ brecha"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "diante ⟨dele⟩"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "para desviar"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "⟨a⟩ sua ira"
+    },
+    {
+      "surface": "מהשחית",
+      "gloss": "⟨da⟩ destruição"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,68 +64,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 106,
-  "usage": {
-    "completion_tokens": 924,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63238,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 64162
-  },
-  "translation": "Ele disse para ⟨destruí-los⟩, ⟨se não⟩ ⟨fosse⟩ por Moshé, ⟨o⟩ escolhido ⟨dele⟩, que se pôs ⟨na⟩ brecha diante ⟨dele⟩, para desviar ⟨a⟩ sua ira ⟨da⟩ destruição.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Ele disse"
-    },
-    {
-      "surface": "להשמידם",
-      "english": "para ⟨destruí-los⟩"
-    },
-    {
-      "surface": "לולי",
-      "english": "⟨se não⟩"
-    },
-    {
-      "surface": "משה",
-      "english": "⟨por⟩ Moshé"
-    },
-    {
-      "surface": "בחירו",
-      "english": "⟨o⟩ escolhido ⟨dele⟩"
-    },
-    {
-      "surface": "עמד",
-      "english": "que se pôs"
-    },
-    {
-      "surface": "בפרץ",
-      "english": "⟨na⟩ brecha"
-    },
-    {
-      "surface": "לפניו",
-      "english": "diante ⟨dele⟩"
-    },
-    {
-      "surface": "להשיב",
-      "english": "para desviar"
-    },
-    {
-      "surface": "חמתו",
-      "english": "⟨a⟩ sua ira"
-    },
-    {
-      "surface": "מהשחית",
-      "english": "⟨da⟩ destruição"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:51:00.587359043Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

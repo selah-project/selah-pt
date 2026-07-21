@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 33:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 454,
-    "prompt_tokens": 70436,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70890
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:09.814121491Z",
   "translation": "Dos céus olhou YHWH; viu ⟨את⟩ todos os filhos de Adam",
   "tokens": [
     {
       "surface": "מִשָּׁמַיִם",
-      "english": "Dos céus"
+      "gloss": "Dos céus"
     },
     {
       "surface": "הִבִּיט",
-      "english": "olhou"
+      "gloss": "olhou"
     },
     {
       "surface": "יְהוָה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "רָאָה",
-      "english": "viu"
+      "gloss": "viu"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todos os filhos de Adam"
     },
     {
       "surface": "כָּל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "בְּנֵי",
-      "english": "filhos"
+      "gloss": "filhos"
     },
     {
       "surface": "הָ\/אָדָם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:09.814121491Z",
-  "model": "glm-4.5"
+  ]
 }

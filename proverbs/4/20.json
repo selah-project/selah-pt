@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 4:20",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 360,
-    "prompt_tokens": 60151,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60511
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:28:26.880988052Z",
   "translation": "Meu filho, atenta às minhas palavras; inclina ⟨o teu⟩ ouvido aos meus dizeres.",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Meu filho"
+      "gloss": "Meu filho"
     },
     {
       "surface": "לדברי",
-      "english": "às minhas palavras"
+      "gloss": "às minhas palavras"
     },
     {
       "surface": "הקשיבה",
-      "english": "atenta"
+      "gloss": "atenta"
     },
     {
       "surface": "לאמרי",
-      "english": "aos meus dizeres"
+      "gloss": "aos meus dizeres"
     },
     {
       "surface": "הט",
-      "english": "inclina"
+      "gloss": "inclina"
     },
     {
       "surface": "אזנך",
-      "english": "ouvido"
+      "gloss": "ouvido"
     }
-  ],
-  "timestamp": "2026-07-16T17:28:26.880988052Z",
-  "model": "glm-4.5"
+  ]
 }

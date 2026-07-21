@@ -1,42 +1,31 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-chronicles 14:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 208,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56680,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 56888
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:48:23.020641659Z",
   "translation": "e Elishama ⟨e⟩ Beeliada ⟨e⟩ Eliphalet",
   "tokens": [
     {
       "surface": "ואלישמע",
-      "english": "E Elishama"
+      "gloss": "E Elishama"
     },
     {
       "surface": "ובעלידע",
-      "english": "⟨e⟩ Beeliada",
+      "gloss": "⟨e⟩ Beeliada",
       "marks": "Beeliada"
     },
     {
       "surface": "ואליפלט",
-      "english": "⟨e⟩ Eliphalet",
+      "gloss": "⟨e⟩ Eliphalet",
       "marks": "Eliphalet"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:48:23.020641659Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 34:18",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 355,
-    "prompt_tokens": 70267,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70622
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:19.124804259Z",
   "translation": "Clamaram e ⟨YHWH⟩ ouviu, e de todas as suas angústias ⟨ele os⟩ livrou",
   "tokens": [
     {
       "surface": "צעקו",
-      "english": "Clamaram"
+      "gloss": "Clamaram"
     },
     {
       "surface": "ויהוה",
-      "english": "e ⟨YHWH⟩",
+      "gloss": "e ⟨YHWH⟩",
       "marks": "YHWH"
     },
     {
       "surface": "שמע",
-      "english": "ouviu"
+      "gloss": "ouviu"
     },
     {
       "surface": "ומכל",
-      "english": ", e de todas"
+      "gloss": ", e de todas"
     },
     {
       "surface": "צרותם",
-      "english": "as suas angústias"
+      "gloss": "as suas angústias"
     },
     {
       "surface": "הצילם",
-      "english": "⟨ele os⟩ livrou"
+      "gloss": "⟨ele os⟩ livrou"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:19.124804259Z",
-  "model": "glm-4.5"
+  ]
 }

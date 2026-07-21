@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "numbers 16:34",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 16,
+  "verse": 34,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:27:37.490161300Z",
+  "translation": "E todo Yisrael ⟨que estava⟩ ao redor deles fugiu ⟨por⟩ ⟨o⟩ ⟨clamor⟩ deles, porque disseram: Talvez ⟨a⟩ terra ⟨nos⟩ devore também.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "E todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que estava⟩"
+    },
+    {
+      "surface": "סביבתיהם",
+      "gloss": "ao redor deles"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "fugiu"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "⟨por⟩ ⟨o⟩ ⟨clamor⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "disseram"
+    },
+    {
+      "surface": "פן",
+      "gloss": "Talvez"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "⟨a⟩ terra ⟨nos⟩ devore também"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18400,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18869
-  },
-  "translation": "E todo Yisrael ⟨que estava⟩ ao redor deles fugiu ⟨por⟩ ⟨o⟩ ⟨clamor⟩ deles, porque disseram: Talvez ⟨a⟩ terra ⟨nos⟩ devore também.",
-  "tokens": [
-    {
-      "surface": "וכל",
-      "english": "E todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que estava⟩"
-    },
-    {
-      "surface": "סביבתיהם",
-      "english": "ao redor deles"
-    },
-    {
-      "surface": "נסו",
-      "english": "fugiu"
-    },
-    {
-      "surface": "לקלם",
-      "english": "⟨por⟩ ⟨o⟩ ⟨clamor⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "אמרו",
-      "english": "disseram"
-    },
-    {
-      "surface": "פן",
-      "english": "Talvez"
-    },
-    {
-      "surface": "תבלענו",
-      "english": "⟨a⟩ terra ⟨nos⟩ devore também"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨a⟩ terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:27:37.490161300Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

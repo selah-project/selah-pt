@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "judges 7:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 7,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:57:05.296675548Z",
+  "translation": "E aconteceu naquela noite ⟨o⟩ YHWH lhe disse: 'Levanta-te, desce ⟨ao⟩ acampamento, porque ⟨o⟩ entreguei em tua mão.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "naquela noite"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קום",
+      "gloss": "'Levanta-te"
+    },
+    {
+      "surface": "רד",
+      "gloss": "desce"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "⟨ao⟩ acampamento"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "⟨o⟩ entreguei"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "em tua mão'"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "SENHOR",
@@ -13,72 +68,6 @@
       "hebrew": "יהוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16602,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17062
-  },
-  "translation": "E aconteceu naquela noite ⟨o⟩ YHWH lhe disse: 'Levanta-te, desce ⟨ao⟩ acampamento, porque ⟨o⟩ entreguei em tua mão.'",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "בלילה",
-      "english": "naquela noite"
-    },
-    {
-      "surface": "ההוא",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "disse"
-    },
-    {
-      "surface": "אליו",
-      "english": "lhe"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "קום",
-      "english": "'Levanta-te"
-    },
-    {
-      "surface": "רד",
-      "english": "desce"
-    },
-    {
-      "surface": "במחנה",
-      "english": "⟨ao⟩ acampamento"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "נתתיו",
-      "english": "⟨o⟩ entreguei"
-    },
-    {
-      "surface": "בידך",
-      "english": "em tua mão'"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:57:05.296675548Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

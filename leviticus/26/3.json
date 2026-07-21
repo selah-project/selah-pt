@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "leviticus 26:3",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 371,
-    "prompt_tokens": 25043,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25414
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:52:08.943057279Z",
   "translation": "Se vós andardes em meus estatutos e ⟨את⟩ meus mandamentos guardardes e os fizerdes",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Se"
+      "gloss": "Se"
     },
     {
       "surface": "בחקתי",
-      "english": "em meus estatutos"
+      "gloss": "em meus estatutos"
     },
     {
       "surface": "תלכו",
-      "english": "vós andardes"
+      "gloss": "vós andardes"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "meus mandamentos"
     },
     {
       "surface": "מצותי",
-      "english": "meus mandamentos"
+      "gloss": "meus mandamentos"
     },
     {
       "surface": "תשמרו",
-      "english": "guardardes"
+      "gloss": "guardardes"
     },
     {
       "surface": "ועשיתם",
-      "english": "e os fizerdes"
+      "gloss": "e os fizerdes"
     },
     {
       "surface": "אתם",
-      "english": "os",
+      "gloss": "os",
       "marks": "os"
     }
-  ],
-  "timestamp": "2026-07-16T16:52:08.943057279Z",
-  "model": "glm-4.5"
+  ]
 }

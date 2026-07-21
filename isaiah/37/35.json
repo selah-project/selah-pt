@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "isaiah 37:35",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 37,
+  "verse": 35,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:41:24.079106600Z",
+  "translation": "E Eu defenderei ⟨a⟩ esta cidade para salvá-la, por Minha causa, e por causa de Davidd, Meu servo.",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "E Eu defenderei"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "esta cidade"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "para salvá-la"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "por Minha causa"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e por causa de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Meu servo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,60 +56,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19148,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19521
-  },
-  "translation": "E Eu defenderei ⟨a⟩ esta cidade para salvá-la, por Minha causa, e por causa de Davidd, Meu servo.",
-  "tokens": [
-    {
-      "surface": "וגנותי",
-      "english": "E Eu defenderei"
-    },
-    {
-      "surface": "על",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "העיר",
-      "english": "esta cidade"
-    },
-    {
-      "surface": "הזאת",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "להושיעה",
-      "english": "para salvá-la"
-    },
-    {
-      "surface": "למעני",
-      "english": "por Minha causa"
-    },
-    {
-      "surface": "ולמען",
-      "english": "e por causa de"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "עבדי",
-      "english": "Meu servo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:41:24.079106600Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

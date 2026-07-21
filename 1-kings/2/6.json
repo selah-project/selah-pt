@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-kings 2:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 2,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:11:40.905293996Z",
+  "translation": "E age conforme à tua sabedoria, ⟨e⟩ não deixes ⟨a⟩ sua cabeça ⟨grisalha⟩ descer ⟨em⟩ paz ao ⟨Sheol⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "E age"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "conforme à tua sabedoria"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨e⟩ não"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "deixes ⟨a⟩... descer"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "cabeça ⟨grisalha⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "⟨em⟩ paz"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ao ⟨Sheol⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "inferno",
@@ -13,52 +48,6 @@
       "hebrew": "שאול-תחתית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 533,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62379,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62912
-  },
-  "translation": "E age conforme à tua sabedoria, ⟨e⟩ não deixes ⟨a⟩ sua cabeça ⟨grisalha⟩ descer ⟨em⟩ paz ao ⟨Sheol⟩.",
-  "tokens": [
-    {
-      "surface": "ועשית",
-      "english": "E age"
-    },
-    {
-      "surface": "כחכמתך",
-      "english": "conforme à tua sabedoria"
-    },
-    {
-      "surface": "ולא",
-      "english": "⟨e⟩ não"
-    },
-    {
-      "surface": "תורד",
-      "english": "deixes ⟨a⟩... descer"
-    },
-    {
-      "surface": "שיבתו",
-      "english": "cabeça ⟨grisalha⟩"
-    },
-    {
-      "surface": "בשלם",
-      "english": "⟨em⟩ paz"
-    },
-    {
-      "surface": "שאל",
-      "english": "ao ⟨Sheol⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:11:40.905293996Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

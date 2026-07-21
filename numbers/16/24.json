@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "numbers 16:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 16,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:27:09.583310492Z",
+  "translation": "Fala ⟨à⟩ congregação, dizendo: Erguei-vos ⟨de⟩ redor ⟨do⟩ tabernáculo de Koraj, Datã e Abirão.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Fala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "congregação"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Erguei-vos"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "⟨de⟩ redor"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "⟨do⟩ tabernáculo"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraj"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datã"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "Abirão"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Corá",
@@ -13,64 +60,6 @@
       "hebrew": "קרח"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18168,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18591
-  },
-  "translation": "Fala ⟨à⟩ congregação, dizendo: Erguei-vos ⟨de⟩ redor ⟨do⟩ tabernáculo de Koraj, Datã e Abirão.",
-  "tokens": [
-    {
-      "surface": "דבר",
-      "english": "Fala"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨à⟩"
-    },
-    {
-      "surface": "העדה",
-      "english": "congregação"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "העלו",
-      "english": "Erguei-vos"
-    },
-    {
-      "surface": "מסביב",
-      "english": "⟨de⟩ redor"
-    },
-    {
-      "surface": "למשכן",
-      "english": "⟨do⟩ tabernáculo"
-    },
-    {
-      "surface": "קרח",
-      "english": "Koraj"
-    },
-    {
-      "surface": "דתן",
-      "english": "Datã"
-    },
-    {
-      "surface": "ואבירם",
-      "english": "Abirão"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:27:09.583310492Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

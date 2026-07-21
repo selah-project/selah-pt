@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "judges 9:12",
   "book": "judges",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 415,
-    "prompt_tokens": 23616,
-    "prompt_tokens_details": {
-      "cached_tokens": 22528
-    },
-    "total_tokens": 24031
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:24:45.815237951Z",
   "translation": "E disse ⟨as⟩ árvores ⟨à⟩ videira: Vem, tu, e reina sobre nós.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "העצים",
-      "english": "⟨as⟩ árvores"
+      "gloss": "⟨as⟩ árvores"
     },
     {
       "surface": "לגפן",
-      "english": "⟨à⟩ videira"
+      "gloss": "⟨à⟩ videira"
     },
     {
       "surface": "לכי",
-      "english": "Vem"
+      "gloss": "Vem"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu"
     },
     {
       "surface": "מלוכי",
-      "english": "e reina"
+      "gloss": "e reina"
     },
     {
       "surface": "עלינו",
-      "english": "sobre nós"
+      "gloss": "sobre nós"
     }
-  ],
-  "timestamp": "2026-07-16T16:24:45.815237951Z",
-  "model": "glm-4.5"
+  ]
 }

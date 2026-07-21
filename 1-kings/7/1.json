@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-kings 7:1",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 529,
-    "prompt_tokens": 70107,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 70636
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:24:21.936020010Z",
   "translation": "E Shlomó ⟨estava⟩ construindo ⟨את⟩ a sua própria casa treze anos, e completou ⟨את⟩ toda a sua casa.",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "E",
+      "gloss": "E",
       "marks": "a sua própria casa"
     },
     {
       "surface": "ביתו",
-      "english": "a sua própria casa"
+      "gloss": "a sua própria casa"
     },
     {
       "surface": "בנה",
-      "english": "⟨estava⟩ construindo"
+      "gloss": "⟨estava⟩ construindo"
     },
     {
       "surface": "שלמה",
-      "english": "Shlomó"
+      "gloss": "Shlomó"
     },
     {
       "surface": "שלש",
-      "english": "treze"
+      "gloss": "treze"
     },
     {
       "surface": "עשרה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "שנה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ויכל",
-      "english": "e completou"
+      "gloss": "e completou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toda"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "ביתו",
-      "english": "a sua casa"
+      "gloss": "a sua casa"
     }
-  ],
-  "timestamp": "2026-07-16T11:24:21.936020010Z",
-  "model": "glm-4.5"
+  ]
 }

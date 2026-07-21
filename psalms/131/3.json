@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 131:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 131,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:07:25.935182367Z",
+  "translation": "Espere Yisrael ⟨em⟩ YHWH ⟨a partir⟩ deste momento ⟨e⟩ para sempre.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Espere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "⟨a partir⟩ deste momento"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "para sempre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,52 +48,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 131,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62819,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63154
-  },
-  "translation": "Espere Yisrael ⟨em⟩ YHWH ⟨a partir⟩ deste momento ⟨e⟩ para sempre.",
-  "tokens": [
-    {
-      "surface": "יחל",
-      "english": "Espere"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨em⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "מעתה",
-      "english": "⟨a partir⟩ deste momento"
-    },
-    {
-      "surface": "ועד",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "עולם",
-      "english": "para sempre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:07:25.935182367Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

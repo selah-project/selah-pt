@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 144:10",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 709,
-    "prompt_tokens": 70565,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71274
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:53:03.774316744Z",
   "translation": "⟨Aquele que⟩ dá ⟨é⟩ a vitória para os reis, ⟨o que⟩ liberta ⟨את⟩ David, seu servo, da espada maligna.",
   "tokens": [
     {
       "surface": "הנותן",
-      "english": "⟨Aquele que⟩ dá"
+      "gloss": "⟨Aquele que⟩ dá"
     },
     {
       "surface": "תשועה",
-      "english": "⟨é⟩ a vitória"
+      "gloss": "⟨é⟩ a vitória"
     },
     {
       "surface": "למלכים",
-      "english": "para os reis"
+      "gloss": "para os reis"
     },
     {
       "surface": "הפוצה",
-      "english": "⟨o que⟩ liberta"
+      "gloss": "⟨o que⟩ liberta"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "David"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "עבדו",
-      "english": "seu servo"
+      "gloss": "seu servo"
     },
     {
       "surface": "מחרב",
-      "english": "da espada"
+      "gloss": "da espada"
     },
     {
       "surface": "רעה",
-      "english": "maligna"
+      "gloss": "maligna"
     }
-  ],
-  "timestamp": "2026-07-16T17:53:03.774316744Z",
-  "model": "glm-4.5"
+  ]
 }

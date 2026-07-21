@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 33:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 33,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:45:49.818082330Z",
+  "translation": "E ⟨os⟩ filhos de Yisrael partiram de Ramessés e acamparam ⟨em⟩ Sucot.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Partiram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "de Ramessés"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e acamparam"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "em Sucot"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,48 +44,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 233,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17859,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18092
-  },
-  "translation": "E ⟨os⟩ filhos de Yisrael partiram de Ramessés e acamparam ⟨em⟩ Sucot.",
-  "tokens": [
-    {
-      "surface": "ויסעו",
-      "english": "Partiram"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "מרעמסס",
-      "english": "de Ramessés"
-    },
-    {
-      "surface": "ויחנו",
-      "english": "e acamparam"
-    },
-    {
-      "surface": "בסכת",
-      "english": "em Sucot"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:45:49.818082330Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 119:11",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 446,
-    "prompt_tokens": 70251,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70697
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:26.935126079Z",
   "translation": "Em meu coração escondi ⟨o⟩ teu davar, para não pecar contra ti.",
   "tokens": [
     {
       "surface": "בלבי",
-      "english": "Em meu coração"
+      "gloss": "Em meu coração"
     },
     {
       "surface": "צפנתי",
-      "english": "escondi"
+      "gloss": "escondi"
     },
     {
       "surface": "אמרתך",
-      "english": "⟨o⟩ teu davar"
+      "gloss": "⟨o⟩ teu davar"
     },
     {
       "surface": "למען",
-      "english": "para"
+      "gloss": "para"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "אחטא",
-      "english": "pecar"
+      "gloss": "pecar"
     },
     {
       "surface": "לך",
-      "english": "contra ti"
+      "gloss": "contra ti"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:26.935126079Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "ezra 10:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 10,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:13:15.023944447Z",
+  "translation": "E ⟨כל⟩ ⟨o⟩ בני ⟨דה⟩ הגולה ⟨para⟩ se reunirem em Yerushalayim — ⟨um⟩ קול ⟨foi⟩ ויעבירו ביהודה וירושלם",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "Foi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "um"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "em Judá"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Jerusalém"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a todos os"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "do exílio"
+    },
+    {
+      "surface": "להקבץ",
+      "gloss": "para se reunirem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "em Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,60 +56,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45119,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 45621
-  },
-  "translation": "E ⟨כל⟩ ⟨o⟩ בני ⟨דה⟩ הגולה ⟨para⟩ se reunirem em Yerushalayim — ⟨um⟩ קול ⟨foi⟩ ויעבירו ביהודה וירושלם",
-  "tokens": [
-    {
-      "surface": "ויעבירו",
-      "english": "Foi"
-    },
-    {
-      "surface": "קול",
-      "english": "um"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "em Judá"
-    },
-    {
-      "surface": "וירושלם",
-      "english": "e Jerusalém"
-    },
-    {
-      "surface": "לכל",
-      "english": "a todos os"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "הגולה",
-      "english": "do exílio"
-    },
-    {
-      "surface": "להקבץ",
-      "english": "para se reunirem"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "em Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:13:15.023944447Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

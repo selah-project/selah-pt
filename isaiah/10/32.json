@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "isaiah 10:32",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 557,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26638,
-    "prompt_tokens_details": {
-      "cached_tokens": 25329
-    },
-    "total_tokens": 27195
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:10:38.392627025Z",
   "translation": "Ainda hoje ⟨estará⟩ de pé em Nobe; ⟨ele⟩ agitará ⟨sua⟩ mão ⟨contra⟩ o monte ⟨da⟩ filha de Sião, ⟨o⟩ outeiro de Jerusalém.",
   "tokens": [
     {
       "surface": "עוד",
-      "english": "Ainda"
+      "gloss": "Ainda"
     },
     {
       "surface": "היום",
-      "english": "hoje"
+      "gloss": "hoje"
     },
     {
       "surface": "בנב",
-      "english": "em Nobe"
+      "gloss": "em Nobe"
     },
     {
       "surface": "לעמד",
-      "english": "⟨estará⟩ de pé"
+      "gloss": "⟨estará⟩ de pé"
     },
     {
       "surface": "ינפף",
-      "english": "agitará"
+      "gloss": "agitará"
     },
     {
       "surface": "ידו",
-      "english": "⟨sua⟩ mão"
+      "gloss": "⟨sua⟩ mão"
     },
     {
       "surface": "הר",
-      "english": "⟨contra⟩ o monte"
+      "gloss": "⟨contra⟩ o monte"
     },
     {
       "surface": "בית",
-      "english": "⟨da⟩ filha"
+      "gloss": "⟨da⟩ filha"
     },
     {
       "surface": "ציון",
-      "english": "de Sião"
+      "gloss": "de Sião"
     },
     {
       "surface": "גבעת",
-      "english": "⟨o⟩ outeiro"
+      "gloss": "⟨o⟩ outeiro"
     },
     {
       "surface": "ירושלם",
-      "english": "de Jerusalém"
+      "gloss": "de Jerusalém"
     }
-  ],
-  "timestamp": "2026-06-13T06:10:38.392627025Z",
-  "model": "glm-4.5"
+  ]
 }

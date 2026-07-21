@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "micah 1:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "micah",
+  "chapter": 1,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:15:12.797600859Z",
+  "translation": "Pela transgressão de Yaakov ⟨é⟩ todo isto, e pelos pecados da casa de Yisrael. Quem ⟨é⟩ a transgressão de Yaakov? Não ⟨é⟩ Shomron? E quem ⟨são⟩ as alturas de Yehudá? Não ⟨é⟩ Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "Pela transgressão"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Yaakov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "isto"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "e pelos pecados"
+    },
+    {
+      "surface": "בית",
+      "gloss": "da casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Quem"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "a transgressão"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Yaakov"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "E quem"
+    },
+    {
+      "surface": "במות",
+      "gloss": "as alturas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacó",
@@ -48,92 +123,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16728,
-    "prompt_tokens_details": {
-      "cached_tokens": 14744
-    },
-    "total_tokens": 17288
-  },
-  "translation": "Pela transgressão de Yaakov ⟨é⟩ todo isto, e pelos pecados da casa de Yisrael. Quem ⟨é⟩ a transgressão de Yaakov? Não ⟨é⟩ Shomron? E quem ⟨são⟩ as alturas de Yehudá? Não ⟨é⟩ Yerushalayim?",
-  "tokens": [
-    {
-      "surface": "בפשע",
-      "english": "Pela transgressão"
-    },
-    {
-      "surface": "יעקב",
-      "english": "de Yaakov"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "זאת",
-      "english": "isto"
-    },
-    {
-      "surface": "ובחטאות",
-      "english": "e pelos pecados"
-    },
-    {
-      "surface": "בית",
-      "english": "da casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "מי",
-      "english": "Quem"
-    },
-    {
-      "surface": "פשע",
-      "english": "a transgressão"
-    },
-    {
-      "surface": "יעקב",
-      "english": "de Yaakov"
-    },
-    {
-      "surface": "הלוא",
-      "english": "Não"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomron"
-    },
-    {
-      "surface": "ומי",
-      "english": "E quem"
-    },
-    {
-      "surface": "במות",
-      "english": "as alturas"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "הלוא",
-      "english": "Não"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:15:12.797600859Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

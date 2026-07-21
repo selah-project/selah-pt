@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 98:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 98,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 70193,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70597
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:44:40.183173159Z",
   "translation": "Cantai louvores a YHWH com a harpa, com a harpa e ⟨a⟩ voz de canto",
   "tokens": [
     {
       "surface": "זמרו",
-      "english": "Cantai louvores"
+      "gloss": "Cantai louvores"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "בכנור",
-      "english": "com a harpa"
+      "gloss": "com a harpa"
     },
     {
       "surface": "בכנור",
-      "english": "com a harpa"
+      "gloss": "com a harpa"
     },
     {
       "surface": "וקול",
-      "english": "e ⟨a⟩ voz"
+      "gloss": "e ⟨a⟩ voz"
     },
     {
       "surface": "זמרה",
-      "english": "de canto"
+      "gloss": "de canto"
     }
-  ],
-  "timestamp": "2026-07-16T17:44:40.183173159Z",
-  "model": "glm-4.5"
+  ]
 }

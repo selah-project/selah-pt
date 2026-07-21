@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "obadiah 1:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "obadiah",
+  "chapter": 1,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:12:25.006393674Z",
+  "translation": "E ⟨estarão⟩ aterrorizados ⟨os⟩ poderosos de Temã, para que ⟨todo⟩ homem ⟨seja⟩ cortado ⟨do⟩ monte ⟨de⟩ Esav pela matança.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "E ⟨estarão⟩ aterrorizados",
+      "marks": ""
+    },
+    {
+      "surface": "גבוריך",
+      "gloss": "⟨os⟩ poderosos",
+      "marks": ""
+    },
+    {
+      "surface": "תימן",
+      "gloss": "de Temã",
+      "marks": ""
+    },
+    {
+      "surface": "למען",
+      "gloss": "para que",
+      "marks": ""
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "⟨todo⟩ homem ⟨seja⟩ cortado",
+      "marks": ""
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨todo⟩ homem",
+      "marks": ""
+    },
+    {
+      "surface": "מהר",
+      "gloss": "⟨do⟩ monte",
+      "marks": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "⟨de⟩ Esav",
+      "marks": ""
+    },
+    {
+      "surface": "מקטל",
+      "gloss": "pela matança",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Esaú",
@@ -13,69 +65,6 @@
       "hebrew": "עשו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 697,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19278,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 19975
-  },
-  "translation": "E ⟨estarão⟩ aterrorizados ⟨os⟩ poderosos de Temã, para que ⟨todo⟩ homem ⟨seja⟩ cortado ⟨do⟩ monte ⟨de⟩ Esav pela matança.",
-  "tokens": [
-    {
-      "surface": "וחתו",
-      "english": "E ⟨estarão⟩ aterrorizados",
-      "marks": ""
-    },
-    {
-      "surface": "גבוריך",
-      "english": "⟨os⟩ poderosos",
-      "marks": ""
-    },
-    {
-      "surface": "תימן",
-      "english": "de Temã",
-      "marks": ""
-    },
-    {
-      "surface": "למען",
-      "english": "para que",
-      "marks": ""
-    },
-    {
-      "surface": "יכרת",
-      "english": "⟨todo⟩ homem ⟨seja⟩ cortado",
-      "marks": ""
-    },
-    {
-      "surface": "איש",
-      "english": "⟨todo⟩ homem",
-      "marks": ""
-    },
-    {
-      "surface": "מהר",
-      "english": "⟨do⟩ monte",
-      "marks": ""
-    },
-    {
-      "surface": "עשו",
-      "english": "⟨de⟩ Esav",
-      "marks": ""
-    },
-    {
-      "surface": "מקטל",
-      "english": "pela matança",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:12:25.006393674Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

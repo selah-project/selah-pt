@@ -1,29 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 76:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 655,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62748,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63403
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:29:45.075055789Z",
   "translation": "E ⟨está⟩ em Shalem seu ⟨sucá⟩ e ⟨o⟩ ⟨lugar⟩ ⟨de⟩ ⟨sua⟩ habitação ⟨em⟩ Tzion",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E ⟨está⟩",
+      "gloss": "E ⟨está⟩",
       "lemma": "היה",
       "gv": 31,
       "frequency": 816,
@@ -31,7 +19,7 @@
     },
     {
       "surface": "בשלם",
-      "english": "em Shalem",
+      "gloss": "em Shalem",
       "lemma": "שלם",
       "gv": 372,
       "frequency": 5,
@@ -39,7 +27,7 @@
     },
     {
       "surface": "סכו",
-      "english": "seu ⟨sucá⟩",
+      "gloss": "seu ⟨sucá⟩",
       "lemma": "סוכה",
       "gv": 86,
       "frequency": 2,
@@ -47,7 +35,7 @@
     },
     {
       "surface": "ומעונתו",
-      "english": "⟨o⟩ ⟨lugar⟩ ⟨de⟩ ⟨sua⟩ habitação",
+      "gloss": "⟨o⟩ ⟨lugar⟩ ⟨de⟩ ⟨sua⟩ habitação",
       "lemma": "מעון",
       "gv": 578,
       "frequency": 1,
@@ -55,14 +43,15 @@
     },
     {
       "surface": "בציון",
-      "english": "⟨em⟩ Tzion",
+      "gloss": "⟨em⟩ Tzion",
       "lemma": "ציון",
       "gv": 158,
       "frequency": 28,
       "books": 7
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:29:45.075055789Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

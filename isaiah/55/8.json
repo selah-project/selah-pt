@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 55:8",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26565,
-    "prompt_tokens_details": {
-      "cached_tokens": 25329
-    },
-    "total_tokens": 27073
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:14:49.262902676Z",
   "translation": "Porque ⟨não são⟩ ⟨os⟩ meus pensamentos ⟨os⟩ vossos pensamentos, e ⟨os⟩ vossos caminhos ⟨não são⟩ ⟨os⟩ meus caminhos, ⟨diz⟩ YHWH.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לא",
-      "english": "⟨não são⟩"
+      "gloss": "⟨não são⟩"
     },
     {
       "surface": "מחשבותי",
-      "english": "⟨os⟩ meus pensamentos"
+      "gloss": "⟨os⟩ meus pensamentos"
     },
     {
       "surface": "מחשבותיכם",
-      "english": "⟨os⟩ vossos pensamentos"
+      "gloss": "⟨os⟩ vossos pensamentos"
     },
     {
       "surface": "ולא",
-      "english": "e ⟨os⟩ vossos caminhos ⟨não são⟩"
+      "gloss": "e ⟨os⟩ vossos caminhos ⟨não são⟩"
     },
     {
       "surface": "דרכיכם",
-      "english": "⟨os⟩ vossos caminhos"
+      "gloss": "⟨os⟩ vossos caminhos"
     },
     {
       "surface": "דרכי",
-      "english": "⟨os⟩ meus caminhos"
+      "gloss": "⟨os⟩ meus caminhos"
     },
     {
       "surface": "נאם",
-      "english": "⟨diz⟩"
+      "gloss": "⟨diz⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-13T06:14:49.262902676Z",
-  "model": "glm-4.5"
+  ]
 }

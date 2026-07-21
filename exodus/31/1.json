@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 31:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 31,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:24:26.348780458Z",
+  "translation": "E ⟨o⟩ YHWH falou ⟨a⟩ Moshé, ⟨dizendo⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E ⟨o⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "falou ⟨a⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨dizendo⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,44 +40,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16500,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 16780
-  },
-  "translation": "E ⟨o⟩ YHWH falou ⟨a⟩ Moshé, ⟨dizendo⟩",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E ⟨o⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "falou ⟨a⟩"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨dizendo⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:24:26.348780458Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

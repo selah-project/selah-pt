@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "2-samuel 19:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 19,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:02:07.764218449Z",
+  "translation": "Pois teu servo ⟨sabe⟩ que eu ⟨tenho⟩ pecado; e eis que vim ⟨hoje⟩, o primeiro de toda ⟨a⟩ casa de Yosef, para descer para ⟨encontrar⟩ meu senhor o rei.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sabe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "teu servo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "⟨tenho⟩ pecado"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e eis que"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "vim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨hoje⟩"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "o primeiro"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de toda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "de Yosef"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "para descer"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "para ⟨encontrar⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "meu senhor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o rei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "José",
@@ -13,92 +88,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 591,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18002,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18593
-  },
-  "translation": "Pois teu servo ⟨sabe⟩ que eu ⟨tenho⟩ pecado; e eis que vim ⟨hoje⟩, o primeiro de toda ⟨a⟩ casa de Yosef, para descer para ⟨encontrar⟩ meu senhor o rei.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Pois"
-    },
-    {
-      "surface": "ידע",
-      "english": "sabe"
-    },
-    {
-      "surface": "עבדך",
-      "english": "teu servo"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "אני",
-      "english": "eu"
-    },
-    {
-      "surface": "חטאתי",
-      "english": "⟨tenho⟩ pecado"
-    },
-    {
-      "surface": "והנה",
-      "english": "e eis que"
-    },
-    {
-      "surface": "באתי",
-      "english": "vim"
-    },
-    {
-      "surface": "היום",
-      "english": "⟨hoje⟩"
-    },
-    {
-      "surface": "ראשון",
-      "english": "o primeiro"
-    },
-    {
-      "surface": "לכל",
-      "english": "de toda"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "יוסף",
-      "english": "de Yosef"
-    },
-    {
-      "surface": "לרדת",
-      "english": "para descer"
-    },
-    {
-      "surface": "לקראת",
-      "english": "para ⟨encontrar⟩"
-    },
-    {
-      "surface": "אדני",
-      "english": "meu senhor"
-    },
-    {
-      "surface": "המלך",
-      "english": "o rei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:02:07.764218449Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

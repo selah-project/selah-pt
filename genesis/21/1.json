@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 21:1",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 525,
-    "prompt_tokens": 29046,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29571
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:47:15.779922409Z",
   "translation": "E YHWH visitou ⟨את⟩ Sara conforme tinha dito, e YHWH fez para Sara conforme tinha falado.",
   "tokens": [
     {
       "surface": "ויהוה",
-      "english": "E YHWH"
+      "gloss": "E YHWH"
     },
     {
       "surface": "פקד",
-      "english": "visitou"
+      "gloss": "visitou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Sara"
     },
     {
       "surface": "שרה",
-      "english": "Sara"
+      "gloss": "Sara"
     },
     {
       "surface": "כאשר",
-      "english": "conforme"
+      "gloss": "conforme"
     },
     {
       "surface": "אמר",
-      "english": "tinha dito"
+      "gloss": "tinha dito"
     },
     {
       "surface": "ויעש",
-      "english": "e YHWH fez"
+      "gloss": "e YHWH fez"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לשרה",
-      "english": "para Sara"
+      "gloss": "para Sara"
     },
     {
       "surface": "כאשר",
-      "english": "conforme"
+      "gloss": "conforme"
     },
     {
       "surface": "דבר",
-      "english": "tinha falado"
+      "gloss": "tinha falado"
     }
-  ],
-  "timestamp": "2026-07-16T14:47:15.779922409Z",
-  "model": "glm-4.5"
+  ]
 }

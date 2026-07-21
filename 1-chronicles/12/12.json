@@ -1,46 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-chronicles 12:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 191,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56648,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 56839
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:45:57.980643145Z",
   "translation": "Atai ⟨o⟩ sexto, Eliel ⟨o⟩ sétimo",
   "tokens": [
     {
       "surface": "עתי",
-      "english": "Atai"
+      "gloss": "Atai"
     },
     {
       "surface": "הששי",
-      "english": "⟨o⟩ sexto",
+      "gloss": "⟨o⟩ sexto",
       "marks": "Atai"
     },
     {
       "surface": "אליאל",
-      "english": "Eliel"
+      "gloss": "Eliel"
     },
     {
       "surface": "השבעי",
-      "english": "⟨o⟩ sétimo",
+      "gloss": "⟨o⟩ sétimo",
       "marks": "Eliel"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:45:57.980643145Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

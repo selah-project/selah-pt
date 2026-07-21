@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 44:6",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 423,
-    "prompt_tokens": 28680,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29103
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:03:13.840420039Z",
   "translation": "E ele alcançou-os e falou-lhes ⟨את⟩ as palavras estas",
   "tokens": [
     {
       "surface": "וישגם",
-      "english": "E ele alcançou-os"
+      "gloss": "E ele alcançou-os"
     },
     {
       "surface": "וידבר",
-      "english": "e falou-lhes"
+      "gloss": "e falou-lhes"
     },
     {
       "surface": "אלהם",
-      "english": "lhes"
+      "gloss": "lhes"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הדברים"
     },
     {
       "surface": "הדברים",
-      "english": "as palavras"
+      "gloss": "as palavras"
     },
     {
       "surface": "האלה",
-      "english": "estas"
+      "gloss": "estas"
     }
-  ],
-  "timestamp": "2026-07-16T15:03:13.840420039Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,90 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "deuteronomy 33:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 33,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:24:48.925736641Z",
+  "translation": "E ele viu o primeiro ⟨para⟩ ele, porque lá ⟨um⟩ pedaço ⟨de⟩ legislador ⟨foi⟩ escondido, e ele veio ⟨com⟩ cabeças ⟨de⟩ povo, ⟨a⟩ justiça ⟨de⟩ YHWH ele fez, e seus julgamentos com Yisrael.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E ele viu"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "o primeiro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩ ele",
+      "marks": "a ele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lá"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "⟨um⟩ pedaço"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "⟨de⟩ legislador",
+      "marks": "legislador"
+    },
+    {
+      "surface": "ספון",
+      "gloss": "⟨foi⟩ escondido"
+    },
+    {
+      "surface": "ויתא",
+      "gloss": "e ele veio"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "⟨com⟩ cabeças",
+      "marks": "cabeças"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨de⟩ povo",
+      "marks": "povo"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "⟨a⟩ justiça",
+      "marks": "justiça"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ele fez"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "e seus julgamentos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,98 +94,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 711,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18585,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 19296
-  },
-  "translation": "E ele viu o primeiro ⟨para⟩ ele, porque lá ⟨um⟩ pedaço ⟨de⟩ legislador ⟨foi⟩ escondido, e ele veio ⟨com⟩ cabeças ⟨de⟩ povo, ⟨a⟩ justiça ⟨de⟩ YHWH ele fez, e seus julgamentos com Yisrael.",
-  "tokens": [
-    {
-      "surface": "וירא",
-      "english": "E ele viu"
-    },
-    {
-      "surface": "ראשית",
-      "english": "o primeiro"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩ ele",
-      "marks": "a ele"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "שם",
-      "english": "lá"
-    },
-    {
-      "surface": "חלקת",
-      "english": "⟨um⟩ pedaço"
-    },
-    {
-      "surface": "מחקק",
-      "english": "⟨de⟩ legislador",
-      "marks": "legislador"
-    },
-    {
-      "surface": "ספון",
-      "english": "⟨foi⟩ escondido"
-    },
-    {
-      "surface": "ויתא",
-      "english": "e ele veio"
-    },
-    {
-      "surface": "ראשי",
-      "english": "⟨com⟩ cabeças",
-      "marks": "cabeças"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨de⟩ povo",
-      "marks": "povo"
-    },
-    {
-      "surface": "צדקת",
-      "english": "⟨a⟩ justiça",
-      "marks": "justiça"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH",
-      "marks": "YHWH"
-    },
-    {
-      "surface": "עשה",
-      "english": "ele fez"
-    },
-    {
-      "surface": "ומשפטיו",
-      "english": "e seus julgamentos"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:24:48.925736641Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

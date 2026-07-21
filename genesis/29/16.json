@@ -1,9 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 29:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 29,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:10:32.507305353Z",
+  "translation": "E para Lavan duas filhas, ⟨o⟩ nome ⟨da⟩ maior ⟨era⟩ Leá, e ⟨o⟩ nome ⟨da⟩ menor ⟨era⟩ Rajel",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "E para Lavan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duas"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "filhas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨o⟩ nome",
+      "marks": "⟨da⟩ maior"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "⟨da⟩ maior"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leá"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e ⟨o⟩ nome",
+      "marks": "⟨da⟩ menor"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "⟨da⟩ menor"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Raquel",
@@ -13,62 +58,6 @@
       "hebrew": "רחל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21408,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21828
-  },
-  "translation": "E para Lavan duas filhas, ⟨o⟩ nome ⟨da⟩ maior ⟨era⟩ Leá, e ⟨o⟩ nome ⟨da⟩ menor ⟨era⟩ Rajel",
-  "tokens": [
-    {
-      "surface": "וללבן",
-      "english": "E para Lavan"
-    },
-    {
-      "surface": "שתי",
-      "english": "duas"
-    },
-    {
-      "surface": "בנות",
-      "english": "filhas"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨o⟩ nome",
-      "marks": "⟨da⟩ maior"
-    },
-    {
-      "surface": "הגדלה",
-      "english": "⟨da⟩ maior"
-    },
-    {
-      "surface": "לאה",
-      "english": "Leá"
-    },
-    {
-      "surface": "ושם",
-      "english": "e ⟨o⟩ nome",
-      "marks": "⟨da⟩ menor"
-    },
-    {
-      "surface": "הקטנה",
-      "english": "⟨da⟩ menor"
-    },
-    {
-      "surface": "רחל",
-      "english": "Rajel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:10:32.507305353Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

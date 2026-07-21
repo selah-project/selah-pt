@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-kings 17:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 17,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:03:23.184669956Z",
+  "translation": "E o rei da Ashshur encontrou conspiração em Hoshea, pois ele tinha enviado mensageiros a So, rei ⟨do⟩ Mitzráyim, e não havia trazido Minjá ao rei ⟨da⟩ Ashshur, como ⟨fazia⟩ ano ⟨a⟩ ano; por isso o rei ⟨da⟩ Ashshur o prendeu e o acorrentou na casa ⟨do⟩ cárcere.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "E encontrou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "da Ashshur"
+    },
+    {
+      "surface": "בהושע",
+      "gloss": "em Hoshea"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "conspiração"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pois"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tinha enviado"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mensageiros"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "סוא",
+      "gloss": "So"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Mitzráyim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "havia trazido"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "Minjá"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ao rei"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "da Ashshur"
+    },
+    {
+      "surface": "כשנה",
+      "gloss": "como ano"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "a ano"
+    },
+    {
+      "surface": "ויעצרהו",
+      "gloss": "por isso o prendeu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "da Ashshur"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "e o acorrentou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na casa"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "do cárcere"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Assíria",
@@ -41,124 +148,6 @@
       "hebrew": "אשור"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 776,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18435,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 19211
-  },
-  "translation": "E o rei da Ashshur encontrou conspiração em Hoshea, pois ele tinha enviado mensageiros a So, rei ⟨do⟩ Mitzráyim, e não havia trazido Minjá ao rei ⟨da⟩ Ashshur, como ⟨fazia⟩ ano ⟨a⟩ ano; por isso o rei ⟨da⟩ Ashshur o prendeu e o acorrentou na casa ⟨do⟩ cárcere.",
-  "tokens": [
-    {
-      "surface": "וימצא",
-      "english": "E encontrou"
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "אשור",
-      "english": "da Ashshur"
-    },
-    {
-      "surface": "בהושע",
-      "english": "em Hoshea"
-    },
-    {
-      "surface": "קשר",
-      "english": "conspiração"
-    },
-    {
-      "surface": "אשר",
-      "english": "pois"
-    },
-    {
-      "surface": "שלח",
-      "english": "tinha enviado"
-    },
-    {
-      "surface": "מלאכים",
-      "english": "mensageiros"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "סוא",
-      "english": "So"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "מצרים",
-      "english": "do Mitzráyim"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "העלה",
-      "english": "havia trazido"
-    },
-    {
-      "surface": "מנחה",
-      "english": "Minjá"
-    },
-    {
-      "surface": "למלך",
-      "english": "ao rei"
-    },
-    {
-      "surface": "אשור",
-      "english": "da Ashshur"
-    },
-    {
-      "surface": "כשנה",
-      "english": "como ano"
-    },
-    {
-      "surface": "בשנה",
-      "english": "a ano"
-    },
-    {
-      "surface": "ויעצרהו",
-      "english": "por isso o prendeu"
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "אשור",
-      "english": "da Ashshur"
-    },
-    {
-      "surface": "ויאסרהו",
-      "english": "e o acorrentou"
-    },
-    {
-      "surface": "בית",
-      "english": "na casa"
-    },
-    {
-      "surface": "כלא",
-      "english": "do cárcere"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:03:23.184669956Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 2:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62993,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63440
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:40:10.309912835Z",
   "translation": "Tornemos ⟨as⟩ ligaduras ⟨deles⟩ e lancemos ⟨de⟩ nós ⟨os⟩ laços ⟨deles⟩",
   "tokens": [
     {
       "surface": "ננתקה",
-      "english": "Tornemos"
+      "gloss": "Tornemos"
     },
     {
       "surface": "את",
-      "english": "⟨as⟩",
+      "gloss": "⟨as⟩",
       "marks": "ligaduras ⟨deles⟩"
     },
     {
       "surface": "מוסרותימו",
-      "english": "ligaduras ⟨deles⟩"
+      "gloss": "ligaduras ⟨deles⟩"
     },
     {
       "surface": "ונשליכה",
-      "english": "e lancemos"
+      "gloss": "e lancemos"
     },
     {
       "surface": "ממנו",
-      "english": "⟨de⟩ nós"
+      "gloss": "⟨de⟩ nós"
     },
     {
       "surface": "עבתימו",
-      "english": "laços ⟨deles⟩"
+      "gloss": "laços ⟨deles⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:40:10.309912835Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,143 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-chronicles 35:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 35,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:51:01.761532785Z",
+  "translation": "E ele disse aos levitas que ensinavam a todo Yisrael, ⟨os⟩ santificados a YHWH: 'Coloquei ⟨a⟩ Aron santa na casa que Shlomó, filho de Davidd, rei de Yisrael, construiu; ⟨é⟩ um fardo ⟨nos⟩ vossos ombros? Não! Agora, sirvam ⟨a⟩ YHWH, ⟨o⟩ Elohim de vós, e ⟨ao⟩ povo de Yisrael, ⟨o⟩ YHWH'.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ele disse"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "aos levitas"
+    },
+    {
+      "surface": "המבונים",
+      "gloss": "que ensinavam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הקדושים",
+      "gloss": "⟨os⟩ santificados"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Coloquei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "arca santa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na casa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "construiu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨nos⟩ vossos"
+    },
+    {
+      "surface": "משא",
+      "gloss": "fardo"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "ombros"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Não! Agora,"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sirvam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "⟨o⟩ Elohim de vós"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨ao⟩",
+      "marks": "povo de Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "povo de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨o⟩ YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -41,151 +175,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 1445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60391,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 61836
-  },
-  "translation": "E ele disse aos levitas que ensinavam a todo Yisrael, ⟨os⟩ santificados a YHWH: 'Coloquei ⟨a⟩ Aron santa na casa que Shlomó, filho de Davidd, rei de Yisrael, construiu; ⟨é⟩ um fardo ⟨nos⟩ vossos ombros? Não! Agora, sirvam ⟨a⟩ YHWH, ⟨o⟩ Elohim de vós, e ⟨ao⟩ povo de Yisrael, ⟨o⟩ YHWH'.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ele disse"
-    },
-    {
-      "surface": "ללוים",
-      "english": "aos levitas"
-    },
-    {
-      "surface": "המבונים",
-      "english": "que ensinavam"
-    },
-    {
-      "surface": "לכל",
-      "english": "a todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "הקדושים",
-      "english": "⟨os⟩ santificados"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "a YHWH"
-    },
-    {
-      "surface": "תנו",
-      "english": "Coloquei"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "arca santa"
-    },
-    {
-      "surface": "ארון",
-      "english": "Aron"
-    },
-    {
-      "surface": "הקדש",
-      "english": "santa"
-    },
-    {
-      "surface": "בבית",
-      "english": "na casa"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בנה",
-      "english": "construiu"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אין",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "לכם",
-      "english": "⟨nos⟩ vossos"
-    },
-    {
-      "surface": "משא",
-      "english": "fardo"
-    },
-    {
-      "surface": "בכתף",
-      "english": "ombros"
-    },
-    {
-      "surface": "עתה",
-      "english": "Não! Agora,"
-    },
-    {
-      "surface": "עבדו",
-      "english": "sirvam"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "YHWH"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיכם",
-      "english": "⟨o⟩ Elohim de vós"
-    },
-    {
-      "surface": "ואת",
-      "english": "e ⟨ao⟩",
-      "marks": "povo de Israel"
-    },
-    {
-      "surface": "עמו",
-      "english": "povo de Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨o⟩ YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:51:01.761532785Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

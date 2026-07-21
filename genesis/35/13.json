@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "genesis 35:13",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 446,
-    "prompt_tokens": 28652,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29098
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:56:25.851014916Z",
   "translation": "E Elohim subiu de sobre ⟨ele⟩ no lugar onde havia falado com ⟨ele⟩",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "E subiu"
+      "gloss": "E subiu"
     },
     {
       "surface": "מעליו",
-      "english": "de sobre ⟨ele⟩"
+      "gloss": "de sobre ⟨ele⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "במקום",
-      "english": "no lugar"
+      "gloss": "no lugar"
     },
     {
       "surface": "אשר",
-      "english": "onde"
+      "gloss": "onde"
     },
     {
       "surface": "דבר",
-      "english": "havia falado"
+      "gloss": "havia falado"
     },
     {
       "surface": "אתו",
-      "english": "com ⟨ele⟩"
+      "gloss": "com ⟨ele⟩"
     }
-  ],
-  "timestamp": "2026-07-16T14:56:25.851014916Z",
-  "model": "glm-4.5"
+  ]
 }

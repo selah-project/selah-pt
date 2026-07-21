@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 102:16",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 464,
-    "prompt_tokens": 70674,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71138
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:06.801157157Z",
   "translation": "E temerão as nações ⟨o⟩ nome de YHWH, e todos os reis da terra ⟨a⟩ tua glória.",
   "tokens": [
     {
       "surface": "וייראו",
-      "english": "E temerão"
+      "gloss": "E temerão"
     },
     {
       "surface": "גוים",
-      "english": "as nações"
+      "gloss": "as nações"
     },
     {
       "surface": "את",
-      "english": "⟨o⟩",
+      "gloss": "⟨o⟩",
       "marks": "nome"
     },
     {
       "surface": "שם",
-      "english": "nome"
+      "gloss": "nome"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "וכל",
-      "english": "e todos"
+      "gloss": "e todos"
     },
     {
       "surface": "מלכי",
-      "english": "os reis"
+      "gloss": "os reis"
     },
     {
       "surface": "הארץ",
-      "english": "da terra"
+      "gloss": "da terra"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "tua glória"
     },
     {
       "surface": "כבודך",
-      "english": "tua glória"
+      "gloss": "tua glória"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:06.801157157Z",
-  "model": "glm-4.5"
+  ]
 }

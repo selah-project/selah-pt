@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "judges 12:8",
   "book": "judges",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 488,
-    "prompt_tokens": 23638,
-    "prompt_tokens_details": {
-      "cached_tokens": 22528
-    },
-    "total_tokens": 24126
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:27:30.382165536Z",
   "translation": "E depois dele julgou ⟨את⟩ Yisrael Ibtsán de Bet-Léjem",
   "tokens": [
     {
       "surface": "וישפט",
-      "english": "E ... julgou"
+      "gloss": "E ... julgou"
     },
     {
       "surface": "אחריו",
-      "english": "depois dele"
+      "gloss": "depois dele"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אבצן",
-      "english": "Ibtsán"
+      "gloss": "Ibtsán"
     },
     {
       "surface": "מבית",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "לחם",
-      "english": "Bet-Léjem"
+      "gloss": "Bet-Léjem"
     }
-  ],
-  "timestamp": "2026-07-16T16:27:30.382165536Z",
-  "model": "glm-4.5"
+  ]
 }

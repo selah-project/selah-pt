@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 6:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70483,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 71029
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:53:42.948447538Z",
   "translation": "Sê favorável a mim, YHWH, porque ⟨estou⟩ doente; cura-me, YHWH, porque ⟨meus⟩ ossos ⟨estão⟩ a tremer.",
   "tokens": [
     {
       "surface": "חנני",
-      "english": "Sê favorável a mim"
+      "gloss": "Sê favorável a mim"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אמלל",
-      "english": "⟨estou⟩ doente"
+      "gloss": "⟨estou⟩ doente"
     },
     {
       "surface": "אני",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "רפאני",
-      "english": "cura-me"
+      "gloss": "cura-me"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "נבהלו",
-      "english": "⟨meus⟩ ossos ⟨estão⟩ a tremer"
+      "gloss": "⟨meus⟩ ossos ⟨estão⟩ a tremer"
     },
     {
       "surface": "עצמי",
-      "english": "ossos"
+      "gloss": "ossos"
     }
-  ],
-  "timestamp": "2026-06-14T04:53:42.948447538Z",
-  "model": "glm-4.5"
+  ]
 }

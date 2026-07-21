@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 57:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 57,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:16:58.634001619Z",
+  "translation": "Ele enviará dos céus e ⟨me⟩ salvará; ⟨o⟩ escarnecedor ⟨que⟩ me devoraria, Selá. Elohim enviará sua Jésed amorosa e sua fidelidade.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ele enviará",
+      "notes": "Verb yishlakh, terceira pessoa masculino singular, futuro. O sujeito (Elohim) só é explícito no segundo membro do paralelo."
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dos céus",
+      "notes": "Preposição 'min' (de) + 'shamayim' (céus, forma construto implícita). A ausência do artigo definido em hebraico."
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "e ⟨me⟩ salvará",
+      "notes": "Conj. 've-' (e) + verbo 'yoshiya' (salvará) + sufixo 'ni' (me). ⟨me⟩ é adição necessária em português para o objeto pronominal."
+    },
+    {
+      "surface": "חרף",
+      "gloss": "⟨o⟩ escarnecedor",
+      "notes": "Haref: lit. 'o que puxa (roupa)' = escarnecedor, zombador. ⟨o⟩ é artigo definido necessário em português."
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "⟨que⟩ me devoraria",
+      "notes": "She'afi: lit. 'o que arfa\/precipita-se sobre' = devorador, perseguidor voraz. A forma 'i' é sufixo de 1ª pessoa ('meu'). ⟨que⟩ é adição relacional."
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selá",
+      "notes": "Termo técnico musical de pausa\/interlúdio. Mantém-se transliterado por convenção."
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "enviará",
+      "notes": "Repetição do verbo 'yishlakh' para paralelismo. Em português, 'Elohim enviará' já implica o sujeito."
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim",
+      "notes": "Mantido como transliteração para distinguir de YHWH e preservar o plural de majestade hebraico."
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sua Jésed amorosa",
+      "notes": "Chasdo: 'hesed' (lealdade pactual, bondade fiel) + sufixo 'o' (dele). Tradução mais plena que 'misericórdia'."
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "e sua fidelidade",
+      "notes": "Ve'emetó: 'emet' (verdade, firmeza, confiabilidade) + sufixo 'o' (dele). Paralelo com 'chesed'."
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "bondade",
@@ -13,74 +70,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 57,
-  "usage": {
-    "completion_tokens": 986,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63327,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 64313
-  },
-  "translation": "Ele enviará dos céus e ⟨me⟩ salvará; ⟨o⟩ escarnecedor ⟨que⟩ me devoraria, Selá. Elohim enviará sua Jésed amorosa e sua fidelidade.",
-  "tokens": [
-    {
-      "surface": "ישלח",
-      "english": "Ele enviará",
-      "notes": "Verb yishlakh, terceira pessoa masculino singular, futuro. O sujeito (Elohim) só é explícito no segundo membro do paralelo."
-    },
-    {
-      "surface": "משמים",
-      "english": "dos céus",
-      "notes": "Preposição 'min' (de) + 'shamayim' (céus, forma construto implícita). A ausência do artigo definido em hebraico."
-    },
-    {
-      "surface": "ויושיעני",
-      "english": "e ⟨me⟩ salvará",
-      "notes": "Conj. 've-' (e) + verbo 'yoshiya' (salvará) + sufixo 'ni' (me). ⟨me⟩ é adição necessária em português para o objeto pronominal."
-    },
-    {
-      "surface": "חרף",
-      "english": "⟨o⟩ escarnecedor",
-      "notes": "Haref: lit. 'o que puxa (roupa)' = escarnecedor, zombador. ⟨o⟩ é artigo definido necessário em português."
-    },
-    {
-      "surface": "שאפי",
-      "english": "⟨que⟩ me devoraria",
-      "notes": "She'afi: lit. 'o que arfa\/precipita-se sobre' = devorador, perseguidor voraz. A forma 'i' é sufixo de 1ª pessoa ('meu'). ⟨que⟩ é adição relacional."
-    },
-    {
-      "surface": "סלה",
-      "english": "Selá",
-      "notes": "Termo técnico musical de pausa\/interlúdio. Mantém-se transliterado por convenção."
-    },
-    {
-      "surface": "ישלח",
-      "english": "enviará",
-      "notes": "Repetição do verbo 'yishlakh' para paralelismo. Em português, 'Elohim enviará' já implica o sujeito."
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim",
-      "notes": "Mantido como transliteração para distinguir de YHWH e preservar o plural de majestade hebraico."
-    },
-    {
-      "surface": "חסדו",
-      "english": "sua Jésed amorosa",
-      "notes": "Chasdo: 'hesed' (lealdade pactual, bondade fiel) + sufixo 'o' (dele). Tradução mais plena que 'misericórdia'."
-    },
-    {
-      "surface": "ואמתו",
-      "english": "e sua fidelidade",
-      "notes": "Ve'emetó: 'emet' (verdade, firmeza, confiabilidade) + sufixo 'o' (dele). Paralelo com 'chesed'."
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:16:58.634001619Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

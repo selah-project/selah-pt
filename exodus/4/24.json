@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "exodus 4:24",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 355,
-    "prompt_tokens": 24296,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24651
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:44:18.230463289Z",
   "translation": "E aconteceu ⟨no⟩ caminho ⟨na⟩ estalagem que YHWH encontrou ⟨com⟩ ele e buscou matá-lo",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "E aconteceu"
+      "gloss": "E aconteceu"
     },
     {
       "surface": "בדרך",
-      "english": "⟨no⟩ caminho"
+      "gloss": "⟨no⟩ caminho"
     },
     {
       "surface": "במלון",
-      "english": "⟨na⟩ estalagem"
+      "gloss": "⟨na⟩ estalagem"
     },
     {
       "surface": "ויפגשהו",
-      "english": "que YHWH encontrou ⟨com⟩ ele",
+      "gloss": "que YHWH encontrou ⟨com⟩ ele",
       "marks": "YHWH ... ele"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויבקש",
-      "english": "e buscou"
+      "gloss": "e buscou"
     },
     {
       "surface": "המיתו",
-      "english": "matá-lo"
+      "gloss": "matá-lo"
     }
-  ],
-  "timestamp": "2026-07-16T13:44:18.230463289Z",
-  "model": "glm-4.5"
+  ]
 }

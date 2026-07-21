@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "deuteronomy 6:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 6,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:57:02.044916653Z",
+  "translation": "Escute, ó Yisrael: YHWH ⟨é⟩ nosso Elohim, YHWH ⟨é⟩ um.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Escute"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ó Yisrael"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nosso Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "um"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,48 +44,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 240,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17468,
-    "prompt_tokens_details": {
-      "cached_tokens": 16577
-    },
-    "total_tokens": 17708
-  },
-  "translation": "Escute, ó Yisrael: YHWH ⟨é⟩ nosso Elohim, YHWH ⟨é⟩ um.",
-  "tokens": [
-    {
-      "surface": "שמע",
-      "english": "Escute"
-    },
-    {
-      "surface": "ישראל",
-      "english": "ó Yisrael"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהינו",
-      "english": "nosso Elohim"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אחד",
-      "english": "um"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:57:02.044916653Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

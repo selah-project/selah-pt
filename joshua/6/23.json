@@ -1,9 +1,118 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "joshua 6:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 6,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:30:23.448929495Z",
+  "translation": "E os jovens, ⟨os⟩ espias, entraram e trouxeram ⟨a⟩ Raabe e ⟨a⟩ seu pai e ⟨a⟩ sua mãe e ⟨a⟩ seus irmãos e ⟨a⟩ tudo o que ⟨era⟩ dela e ⟨a⟩ todas ⟨as⟩ suas famílias; eles trouxeram ⟨para⟩ fora e ⟨os⟩ colocaram ⟨para⟩ fora do acampamento de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "E os jovens"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "⟨os⟩ espias"
+    },
+    {
+      "surface": "המרגלים",
+      "gloss": "entraram"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "e trouxeram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Raabe"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Raabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨a⟩",
+      "marks": "seu pai"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨a⟩",
+      "marks": "sua mãe"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sua mãe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨a⟩",
+      "marks": "seus irmãos"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "seus irmãos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨a⟩",
+      "marks": "tudo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o que"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨a⟩",
+      "marks": "todas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todas"
+    },
+    {
+      "surface": "משפחותיה",
+      "gloss": "suas famílias"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "eles trouxeram ⟨para⟩ fora"
+    },
+    {
+      "surface": "ויניחום",
+      "gloss": "e ⟨os⟩ colocaram ⟨para⟩ fora"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "⟨para⟩ fora"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "do acampamento"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,126 +122,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 931,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18223,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 19154
-  },
-  "translation": "E os jovens, ⟨os⟩ espias, entraram e trouxeram ⟨a⟩ Raabe e ⟨a⟩ seu pai e ⟨a⟩ sua mãe e ⟨a⟩ seus irmãos e ⟨a⟩ tudo o que ⟨era⟩ dela e ⟨a⟩ todas ⟨as⟩ suas famílias; eles trouxeram ⟨para⟩ fora e ⟨os⟩ colocaram ⟨para⟩ fora do acampamento de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויבאו",
-      "english": "E os jovens"
-    },
-    {
-      "surface": "הנערים",
-      "english": "⟨os⟩ espias"
-    },
-    {
-      "surface": "המרגלים",
-      "english": "entraram"
-    },
-    {
-      "surface": "ויציאו",
-      "english": "e trouxeram"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Raabe"
-    },
-    {
-      "surface": "רחב",
-      "english": "Raabe"
-    },
-    {
-      "surface": "ואת",
-      "english": "e ⟨a⟩",
-      "marks": "seu pai"
-    },
-    {
-      "surface": "אביה",
-      "english": "seu pai"
-    },
-    {
-      "surface": "ואת",
-      "english": "e ⟨a⟩",
-      "marks": "sua mãe"
-    },
-    {
-      "surface": "אמה",
-      "english": "sua mãe"
-    },
-    {
-      "surface": "ואת",
-      "english": "e ⟨a⟩",
-      "marks": "seus irmãos"
-    },
-    {
-      "surface": "אחיה",
-      "english": "seus irmãos"
-    },
-    {
-      "surface": "ואת",
-      "english": "e ⟨a⟩",
-      "marks": "tudo"
-    },
-    {
-      "surface": "כל",
-      "english": "tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "o que"
-    },
-    {
-      "surface": "לה",
-      "english": "⟨era⟩"
-    },
-    {
-      "surface": "ואת",
-      "english": "e ⟨a⟩",
-      "marks": "todas"
-    },
-    {
-      "surface": "כל",
-      "english": "todas"
-    },
-    {
-      "surface": "משפחותיה",
-      "english": "suas famílias"
-    },
-    {
-      "surface": "הוציאו",
-      "english": "eles trouxeram ⟨para⟩ fora"
-    },
-    {
-      "surface": "ויניחום",
-      "english": "e ⟨os⟩ colocaram ⟨para⟩ fora"
-    },
-    {
-      "surface": "מחוץ",
-      "english": "⟨para⟩ fora"
-    },
-    {
-      "surface": "למחנה",
-      "english": "do acampamento"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:30:23.448929495Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

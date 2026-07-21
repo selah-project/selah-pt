@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 34:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 424,
-    "prompt_tokens": 70447,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70871
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:37:31.450120537Z",
   "translation": "Busquei ⟨את⟩ YHWH, e Ele me respondeu, e de todos ⟨os⟩ meus temores me livrou",
   "tokens": [
     {
       "surface": "דרשתי",
-      "english": "Busquei"
+      "gloss": "Busquei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "וענני",
-      "english": "e Ele me respondeu"
+      "gloss": "e Ele me respondeu"
     },
     {
       "surface": "ומכל",
-      "english": "e de todos"
+      "gloss": "e de todos"
     },
     {
       "surface": "מגורותי",
-      "english": "⟨os⟩ meus temores"
+      "gloss": "⟨os⟩ meus temores"
     },
     {
       "surface": "הצילני",
-      "english": "me livrou"
+      "gloss": "me livrou"
     }
-  ],
-  "timestamp": "2026-07-16T17:37:31.450120537Z",
-  "model": "glm-4.5"
+  ]
 }

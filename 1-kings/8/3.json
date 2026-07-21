@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-kings 8:3",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 262,
-    "prompt_tokens": 69867,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 70129
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:25:07.278774377Z",
   "translation": "E vieram todos ⟨os⟩ anciãos de Yisrael, e ⟨os⟩ kohanim levantaram ⟨את⟩ a Aron",
   "tokens": [
     {
       "surface": "ויבאו",
-      "english": "E vieram"
+      "gloss": "E vieram"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "זקני",
-      "english": "⟨os⟩ anciãos"
+      "gloss": "⟨os⟩ anciãos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "וישאו",
-      "english": "e ⟨os⟩ kohanim levantaram"
+      "gloss": "e ⟨os⟩ kohanim levantaram"
     },
     {
       "surface": "הכהנים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Aron"
     },
     {
       "surface": "הארון",
-      "english": "a Aron"
+      "gloss": "a Aron"
     }
-  ],
-  "timestamp": "2026-07-16T11:25:07.278774377Z",
-  "model": "glm-4.5"
+  ]
 }

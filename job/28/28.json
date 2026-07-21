@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "job 28:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 28,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:04:21.295034397Z",
+  "translation": "E disse ao homem: Eis que Yirá de Adonai ⟨é⟩ Jojmá, e desviar-se ⟨do⟩ mal ⟨é⟩ Biná.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ao homem"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "Yirá de"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "e desviar-se"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "⟨do⟩ mal"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "⟨é⟩ Biná"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "o temor",
@@ -27,64 +74,6 @@
       "hebrew": "בינה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20220,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20674
-  },
-  "translation": "E disse ao homem: Eis que Yirá de Adonai ⟨é⟩ Jojmá, e desviar-se ⟨do⟩ mal ⟨é⟩ Biná.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "לאדם",
-      "english": "ao homem"
-    },
-    {
-      "surface": "הן",
-      "english": "Eis que"
-    },
-    {
-      "surface": "יראת",
-      "english": "Yirá de"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "היא",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "וסור",
-      "english": "e desviar-se"
-    },
-    {
-      "surface": "מרע",
-      "english": "⟨do⟩ mal"
-    },
-    {
-      "surface": "בינה",
-      "english": "⟨é⟩ Biná"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:04:21.295034397Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

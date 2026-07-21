@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "genesis 30:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 30,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:11:43.523470437Z",
+  "translation": "E Bilháh ⟨a⟩ serva de Rajel concebeu novamente e ⟨a⟩ deu à luz ⟨um⟩ segundo filho ⟨para⟩ Jacó",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "E Bilhah concebeu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "novamente"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e ⟨a⟩ deu à luz"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilháh"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "⟨a⟩ serva"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "de Rajel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨um⟩ segundo filho"
+    },
+    {
+      "surface": "שני",
+      "gloss": "segundo"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "⟨para⟩ Jacó"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Bilha",
@@ -20,60 +63,6 @@
       "hebrew": "רחל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21394,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21756
-  },
-  "translation": "E Bilháh ⟨a⟩ serva de Rajel concebeu novamente e ⟨a⟩ deu à luz ⟨um⟩ segundo filho ⟨para⟩ Jacó",
-  "tokens": [
-    {
-      "surface": "ותהר",
-      "english": "E Bilhah concebeu"
-    },
-    {
-      "surface": "עוד",
-      "english": "novamente"
-    },
-    {
-      "surface": "ותלד",
-      "english": "e ⟨a⟩ deu à luz"
-    },
-    {
-      "surface": "בלהה",
-      "english": "Bilháh"
-    },
-    {
-      "surface": "שפחת",
-      "english": "⟨a⟩ serva"
-    },
-    {
-      "surface": "רחל",
-      "english": "de Rajel"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨um⟩ segundo filho"
-    },
-    {
-      "surface": "שני",
-      "english": "segundo"
-    },
-    {
-      "surface": "ליעקב",
-      "english": "⟨para⟩ Jacó"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:11:43.523470437Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-chronicles 1:22",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 180,
-    "prompt_tokens": 64446,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64626
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:05:15.956895873Z",
   "translation": "e ⟨את⟩ Ebal, e ⟨את⟩ Abimael, e ⟨את⟩ Sheba",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Ebal"
     },
     {
       "surface": "עיבל",
-      "english": "Ebal"
+      "gloss": "Ebal"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Abimael"
     },
     {
       "surface": "אבימאל",
-      "english": "Abimael"
+      "gloss": "Abimael"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Sheba"
     },
     {
       "surface": "שבא",
-      "english": "Sheba"
+      "gloss": "Sheba"
     }
-  ],
-  "timestamp": "2026-07-16T11:05:15.956895873Z",
-  "model": "glm-4.5"
+  ]
 }

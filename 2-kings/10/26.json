@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-kings 10:26",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 405,
-    "prompt_tokens": 24231,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24636
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:34:56.310455687Z",
   "translation": "E tiraram ⟨את⟩ as estelas da casa de HaBa'al e as queimaram.",
   "tokens": [
     {
       "surface": "ויצאו",
-      "english": "E tiraram"
+      "gloss": "E tiraram"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "as estelas"
     },
     {
       "surface": "מצבות",
-      "english": "as estelas"
+      "gloss": "as estelas"
     },
     {
       "surface": "בית",
-      "english": "da casa"
+      "gloss": "da casa"
     },
     {
       "surface": "הבעל",
-      "english": "de HaBa'al"
+      "gloss": "de HaBa'al"
     },
     {
       "surface": "וישרפוה",
-      "english": "e as queimaram"
+      "gloss": "e as queimaram"
     }
-  ],
-  "timestamp": "2026-07-16T12:34:56.310455687Z",
-  "model": "glm-4.5"
+  ]
 }

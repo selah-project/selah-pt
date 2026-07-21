@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "ezra 2:26",
   "book": "ezra",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52051,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 52432
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:58:53.035540368Z",
   "translation": "Os filhos ⟨de⟩ Ramá ⟨e⟩ Gaba: seiscentos ⟨e⟩ vinte ⟨e⟩ um.",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Os filhos"
+      "gloss": "Os filhos"
     },
     {
       "surface": "הרמה",
-      "english": "⟨de⟩ Ramá"
+      "gloss": "⟨de⟩ Ramá"
     },
     {
       "surface": "וגבע",
-      "english": "⟨e⟩ Gaba"
+      "gloss": "⟨e⟩ Gaba"
     },
     {
       "surface": "שש",
-      "english": "seiscentos"
+      "gloss": "seiscentos"
     },
     {
       "surface": "מאות",
-      "english": "⟨e⟩ vinte"
+      "gloss": "⟨e⟩ vinte"
     },
     {
       "surface": "עשרים",
-      "english": "⟨e⟩ um"
+      "gloss": "⟨e⟩ um"
     },
     {
       "surface": "ואחד",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-06-14T04:58:53.035540368Z",
-  "model": "glm-4.5"
+  ]
 }

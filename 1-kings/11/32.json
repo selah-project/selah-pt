@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "1-kings 11:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 11,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:27:28.462480225Z",
+  "translation": "E o ⟨é⟩ o cetro único para ele, por causa do meu servo Dawid, e por causa de Yerushalaim, a cidade que escolhi ⟨dentro⟩ dela ⟨de entre⟩ todas as tribos de Yisrael",
+  "tokens": [
+    {
+      "surface": "והשבט",
+      "gloss": "E o cetro"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "único"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨é⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para ele"
+    },
+    {
+      "surface": "למען",
+      "gloss": "por causa de"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "do meu servo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e por causa de"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a cidade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "escolhi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨dentro⟩ dela"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨de entre⟩ todas"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "as tribos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63162,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63689
-  },
-  "translation": "E o ⟨é⟩ o cetro único para ele, por causa do meu servo Dawid, e por causa de Yerushalaim, a cidade que escolhi ⟨dentro⟩ dela ⟨de entre⟩ todas as tribos de Yisrael",
-  "tokens": [
-    {
-      "surface": "והשבט",
-      "english": "E o cetro"
-    },
-    {
-      "surface": "האחד",
-      "english": "único"
-    },
-    {
-      "surface": "יהיה",
-      "english": "⟨é⟩"
-    },
-    {
-      "surface": "לו",
-      "english": "para ele"
-    },
-    {
-      "surface": "למען",
-      "english": "por causa de"
-    },
-    {
-      "surface": "עבדי",
-      "english": "do meu servo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Dawid"
-    },
-    {
-      "surface": "ולמען",
-      "english": "e por causa de"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalaim"
-    },
-    {
-      "surface": "העיר",
-      "english": "a cidade"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בחרתי",
-      "english": "escolhi"
-    },
-    {
-      "surface": "בה",
-      "english": "⟨dentro⟩ dela"
-    },
-    {
-      "surface": "מכל",
-      "english": "⟨de entre⟩ todas"
-    },
-    {
-      "surface": "שבטי",
-      "english": "as tribos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:27:28.462480225Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

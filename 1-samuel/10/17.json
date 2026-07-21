@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-samuel 10:17",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 466,
-    "prompt_tokens": 23835,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24301
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:46:16.578523560Z",
   "translation": "E Shmuel clamou ⟨את⟩ o povo para YHWH em Mizpá",
   "tokens": [
     {
       "surface": "ויצעק",
-      "english": "E clamou"
+      "gloss": "E clamou"
     },
     {
       "surface": "שמואל",
-      "english": "Shmuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o povo"
     },
     {
       "surface": "העם",
-      "english": "o povo"
+      "gloss": "o povo"
     },
     {
       "surface": "אל",
-      "english": "para"
+      "gloss": "para"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "המצפה",
-      "english": "em Mizpá"
+      "gloss": "em Mizpá"
     }
-  ],
-  "timestamp": "2026-07-16T11:46:16.578523560Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-kings 14:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 14,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:32:04.239651787Z",
+  "translation": "E YHWH disse a Aíjias: Eis ⟨a⟩ esposa de Yarovam vem para consultar ⟨um⟩ assunto contigo por ⟨seu⟩ filho, pois ⟨ele⟩ está doente — assim e assim falarás a ela; e será, quando ela vier, ⟨que⟩ ela ⟨se⟩ disfarçará ⟨como⟩ outra ⟨mulher⟩.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "E YHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Aíjias"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "esposa de Yarovam"
+    },
+    {
+      "surface": "באה",
+      "gloss": "vem"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "para consultar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "assunto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contigo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "por ⟨seu⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "filho"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "pois"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ele⟩"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "está"
+    },
+    {
+      "surface": "וכזה",
+      "gloss": "doente"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "assim e assim falarás a ela"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e"
+    },
+    {
+      "surface": "כבאה",
+      "gloss": "será"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "quando ela vier"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "⟨que⟩ ela ⟨se⟩ disfarçará ⟨como⟩ outra ⟨mulher⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeroboão",
@@ -13,120 +116,6 @@
       "hebrew": "ירבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 1038,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63876,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 64914
-  },
-  "translation": "E YHWH disse a Aíjias: Eis ⟨a⟩ esposa de Yarovam vem para consultar ⟨um⟩ assunto contigo por ⟨seu⟩ filho, pois ⟨ele⟩ está doente — assim e assim falarás a ela; e será, quando ela vier, ⟨que⟩ ela ⟨se⟩ disfarçará ⟨como⟩ outra ⟨mulher⟩.",
-  "tokens": [
-    {
-      "surface": "ויהוה",
-      "english": "E YHWH"
-    },
-    {
-      "surface": "אמר",
-      "english": "disse"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אחיהו",
-      "english": "Aíjias"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis"
-    },
-    {
-      "surface": "אשת",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "esposa de Yarovam"
-    },
-    {
-      "surface": "באה",
-      "english": "vem"
-    },
-    {
-      "surface": "לדרש",
-      "english": "para consultar"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "מעמך",
-      "english": "assunto"
-    },
-    {
-      "surface": "אל",
-      "english": "contigo"
-    },
-    {
-      "surface": "בנה",
-      "english": "por ⟨seu⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "filho"
-    },
-    {
-      "surface": "חלה",
-      "english": "pois"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨ele⟩"
-    },
-    {
-      "surface": "כזה",
-      "english": "está"
-    },
-    {
-      "surface": "וכזה",
-      "english": "doente"
-    },
-    {
-      "surface": "תדבר",
-      "english": "—"
-    },
-    {
-      "surface": "אליה",
-      "english": "assim e assim falarás a ela"
-    },
-    {
-      "surface": "ויהי",
-      "english": "e"
-    },
-    {
-      "surface": "כבאה",
-      "english": "será"
-    },
-    {
-      "surface": "והיא",
-      "english": "quando ela vier"
-    },
-    {
-      "surface": "מתנכרה",
-      "english": "⟨que⟩ ela ⟨se⟩ disfarçará ⟨como⟩ outra ⟨mulher⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:32:04.239651787Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

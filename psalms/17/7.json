@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 17:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 17,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:49:00.484323832Z",
+  "translation": "Distingue ⟨com⟩ maravilhas ⟨as⟩ tuas Jéseds, ó tu que salvas ⟨com⟩ ⟨a⟩ tua mão direita os que confiam em ti, dos que se levantam contra ⟨eles⟩",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "Distingue"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "⟨as⟩ tuas Jéseds"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ó tu que salvas"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "os que confiam em ti"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "dos que se levantam"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "⟨com⟩ ⟨a⟩ tua mão direita"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "bondade",
@@ -13,48 +44,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62975,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63406
-  },
-  "translation": "Distingue ⟨com⟩ maravilhas ⟨as⟩ tuas Jéseds, ó tu que salvas ⟨com⟩ ⟨a⟩ tua mão direita os que confiam em ti, dos que se levantam contra ⟨eles⟩",
-  "tokens": [
-    {
-      "surface": "הפלה",
-      "english": "Distingue"
-    },
-    {
-      "surface": "חסדיך",
-      "english": "⟨as⟩ tuas Jéseds"
-    },
-    {
-      "surface": "מושיע",
-      "english": "ó tu que salvas"
-    },
-    {
-      "surface": "חוסים",
-      "english": "os que confiam em ti"
-    },
-    {
-      "surface": "ממתקוממים",
-      "english": "dos que se levantam"
-    },
-    {
-      "surface": "בימינך",
-      "english": "⟨com⟩ ⟨a⟩ tua mão direita"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:49:00.484323832Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 104,
   "ref": "psalms 119:104",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70244,
-    "prompt_tokens_details": {
-      "cached_tokens": 69261
-    },
-    "total_tokens": 70685
-  },
+  "verse": 104,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:54:31.213418807Z",
   "translation": "Das tuas ordenanças ⟨eu⟩ entendo, por isso odeio todo caminho de falsidade.",
   "tokens": [
     {
       "surface": "מפקודיך",
-      "english": "Das tuas ordenanças"
+      "gloss": "Das tuas ordenanças"
     },
     {
       "surface": "אתבונן",
-      "english": "⟨eu⟩ entendo"
+      "gloss": "⟨eu⟩ entendo"
     },
     {
       "surface": "על",
-      "english": "por isso"
+      "gloss": "por isso"
     },
     {
       "surface": "כן",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "שנאתי",
-      "english": "odeio"
+      "gloss": "odeio"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "ארח",
-      "english": "caminho"
+      "gloss": "caminho"
     },
     {
       "surface": "שקר",
-      "english": "de falsidade"
+      "gloss": "de falsidade"
     }
-  ],
-  "timestamp": "2026-06-14T04:54:31.213418807Z",
-  "model": "glm-4.5"
+  ]
 }

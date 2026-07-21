@@ -1,9 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-chronicles 9:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 9,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:15:51.500031213Z",
+  "translation": "E ela disse ao rei: ⟨את⟩ ⟨o⟩ relato é Emetiro, que ouvi na minha terra sobre ⟨os⟩ teus atos e sobre ⟨a⟩ tuJojmá.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E ela disse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨o⟩ relato é Emetiro"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨o⟩ relato",
+      "marks": "relato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ouvi"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "na minha terra"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre ⟨os⟩"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "teus atos",
+      "marks": "teus atos"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sobre ⟨a⟩"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tuJojmá",
+      "marks": "sabedoria"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "verdade",
@@ -20,75 +78,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58472,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59000
-  },
-  "translation": "E ela disse ao rei: ⟨את⟩ ⟨o⟩ relato é Emetiro, que ouvi na minha terra sobre ⟨os⟩ teus atos e sobre ⟨a⟩ tuJojmá.",
-  "tokens": [
-    {
-      "surface": "ותאמר",
-      "english": "E ela disse"
-    },
-    {
-      "surface": "אל",
-      "english": "ao"
-    },
-    {
-      "surface": "המלך",
-      "english": "rei"
-    },
-    {
-      "surface": "אמת",
-      "english": "⟨o⟩ relato é Emetiro"
-    },
-    {
-      "surface": "הדבר",
-      "english": "⟨o⟩ relato",
-      "marks": "relato"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "שמעתי",
-      "english": "ouvi"
-    },
-    {
-      "surface": "בארצי",
-      "english": "na minha terra"
-    },
-    {
-      "surface": "על",
-      "english": "sobre ⟨os⟩"
-    },
-    {
-      "surface": "דבריך",
-      "english": "teus atos",
-      "marks": "teus atos"
-    },
-    {
-      "surface": "ועל",
-      "english": "e sobre ⟨a⟩"
-    },
-    {
-      "surface": "חכמתך",
-      "english": "tuJojmá",
-      "marks": "sabedoria"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:15:51.500031213Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

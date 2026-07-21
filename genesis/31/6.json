@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 31:6",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 319,
-    "prompt_tokens": 28870,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29189
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:53:23.898109997Z",
   "translation": "E vós sabeis que com toda ⟨a⟩ minha força servi ⟨את⟩ vosso pai",
   "tokens": [
     {
       "surface": "ואתנה",
-      "english": "E vós"
+      "gloss": "E vós"
     },
     {
       "surface": "ידעתן",
-      "english": "sabeis"
+      "gloss": "sabeis"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "בכל",
-      "english": "com toda"
+      "gloss": "com toda"
     },
     {
       "surface": "כחי",
-      "english": "minha força"
+      "gloss": "minha força"
     },
     {
       "surface": "עבדתי",
-      "english": "servi"
+      "gloss": "servi"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vosso pai"
     },
     {
       "surface": "אביכן",
-      "english": "vosso pai"
+      "gloss": "vosso pai"
     }
-  ],
-  "timestamp": "2026-07-16T14:53:23.898109997Z",
-  "model": "glm-4.5"
+  ]
 }

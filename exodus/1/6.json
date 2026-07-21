@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 1:6",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24041,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 24366
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:15:25.234597112Z",
   "translation": "E Yosef morreu, e ⟨um⟩ irmão, e ⟨o⟩ geração, e ⟨o⟩ outro.",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "E morreu"
+      "gloss": "E morreu"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "וכל",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "אחיו",
-      "english": "⟨um⟩ irmão"
+      "gloss": "⟨um⟩ irmão"
     },
     {
       "surface": "וכל",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "הדור",
-      "english": "⟨o⟩ geração"
+      "gloss": "⟨o⟩ geração"
     },
     {
       "surface": "ההוא",
-      "english": "e ⟨o⟩ outro"
+      "gloss": "e ⟨o⟩ outro"
     }
-  ],
-  "timestamp": "2026-06-13T05:15:25.234597112Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "nehemiah 10:15",
   "book": "nehemiah",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56758,
-    "prompt_tokens_details": {
-      "cached_tokens": 55829
-    },
-    "total_tokens": 57112
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:59:48.013421742Z",
   "translation": "os cabeças ⟨do⟩ povo: Parosh, ⟨o⟩ Pachath-Moab, Elam, Zattu, Bani",
   "tokens": [
     {
       "surface": "ראשי",
-      "english": "os cabeças"
+      "gloss": "os cabeças"
     },
     {
       "surface": "העם",
-      "english": "⟨do⟩ povo",
+      "gloss": "⟨do⟩ povo",
       "marks": "povo"
     },
     {
       "surface": "פרעש",
-      "english": "Parosh"
+      "gloss": "Parosh"
     },
     {
       "surface": "פחת",
-      "english": "⟨o⟩ Pachath-Moab",
+      "gloss": "⟨o⟩ Pachath-Moab",
       "marks": "Pachath-Moab"
     },
     {
       "surface": "מואב",
-      "english": "Pachath-Moab"
+      "gloss": "Pachath-Moab"
     },
     {
       "surface": "עילם",
-      "english": "Elam"
+      "gloss": "Elam"
     },
     {
       "surface": "זתוא",
-      "english": "Zattu"
+      "gloss": "Zattu"
     },
     {
       "surface": "בני",
-      "english": "Bani"
+      "gloss": "Bani"
     }
-  ],
-  "timestamp": "2026-06-13T06:59:48.013421742Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "numbers 20:9",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 314,
-    "prompt_tokens": 25543,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25857
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:16:44.606744730Z",
   "translation": "E Moshé tomou ⟨את⟩ a vara de diante de YHWH, como ele o tinha ordenado",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "E ... tomou"
+      "gloss": "E ... tomou"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a vara"
     },
     {
       "surface": "המטה",
-      "english": "a vara"
+      "gloss": "a vara"
     },
     {
       "surface": "מלפני",
-      "english": "de diante de"
+      "gloss": "de diante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "צוהו",
-      "english": "ele o tinha ordenado"
+      "gloss": "ele o tinha ordenado"
     }
-  ],
-  "timestamp": "2026-07-16T17:16:44.606744730Z",
-  "model": "glm-4.5"
+  ]
 }

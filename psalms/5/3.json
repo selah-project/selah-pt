@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 5:3",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 431,
-    "prompt_tokens": 70434,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 70865
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:33:33.952180689Z",
   "translation": "Dá ouvidos ⟨ao⟩ clamor da minha voz, meu Rei e meu Elohim, pois a ti, orarei.",
   "tokens": [
     {
       "surface": "הקשיבה",
-      "english": "Dá ouvidos"
+      "gloss": "Dá ouvidos"
     },
     {
       "surface": "לקול",
-      "english": "⟨ao⟩ clamor da minha voz"
+      "gloss": "⟨ao⟩ clamor da minha voz"
     },
     {
       "surface": "שועי",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "מלכי",
-      "english": "meu Rei"
+      "gloss": "meu Rei"
     },
     {
       "surface": "ואלהי",
-      "english": "e meu Elohim"
+      "gloss": "e meu Elohim"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "אליך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "אתפלל",
-      "english": "orarei"
+      "gloss": "orarei"
     }
-  ],
-  "timestamp": "2026-07-16T17:33:33.952180689Z",
-  "model": "glm-4.5"
+  ]
 }

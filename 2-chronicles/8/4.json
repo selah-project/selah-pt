@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 8:4",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 473,
-    "prompt_tokens": 65876,
-    "prompt_tokens_details": {
-      "cached_tokens": 64384
-    },
-    "total_tokens": 66349
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:10:37.442049118Z",
   "translation": "E ele construiu ⟨את⟩ Tadmor no deserto, e ⟨את⟩ todas as cidades de armazém que ele construiu em Hamate.",
   "tokens": [
     {
       "surface": "ויבן",
-      "english": "E ele construiu"
+      "gloss": "E ele construiu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Tadmor"
     },
     {
       "surface": "תדמר",
-      "english": "Tadmor"
+      "gloss": "Tadmor"
     },
     {
       "surface": "במדבר",
-      "english": "no deserto"
+      "gloss": "no deserto"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "todas as cidades de armazém"
     },
     {
       "surface": "כל",
-      "english": "todas as"
+      "gloss": "todas as"
     },
     {
       "surface": "ערי",
-      "english": "cidades de"
+      "gloss": "cidades de"
     },
     {
       "surface": "המסכנות",
-      "english": "armazém"
+      "gloss": "armazém"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "בנה",
-      "english": "ele construiu"
+      "gloss": "ele construiu"
     },
     {
       "surface": "בחמת",
-      "english": "em Hamate"
+      "gloss": "em Hamate"
     }
-  ],
-  "timestamp": "2026-07-16T12:10:37.442049118Z",
-  "model": "glm-4.5"
+  ]
 }

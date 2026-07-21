@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-chronicles 28:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 28,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:40:01.992218145Z",
+  "translation": "E levantaram-se homens, ⟨dos⟩ chefes dos filhos de Efráyim: Azarías, filho de Jeoanã; Berequias, filho de Mesilemote; e Ezequias, filho de Salum; e Amasai, filho de Hadlai — ⟨eles se levantaram contra⟩ os que vinham ⟨do⟩ exército.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "E levantaram-se"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "homens"
+    },
+    {
+      "surface": "מראשי",
+      "gloss": "⟨dos⟩ chefes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azarías"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Jeoanã"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Berequias"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "משלמות",
+      "gloss": "Mesilemote"
+    },
+    {
+      "surface": "ויחזקיהו",
+      "gloss": "e Ezequias"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Salum"
+    },
+    {
+      "surface": "ועמשא",
+      "gloss": "e Amasai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "חדלי",
+      "gloss": "Hadlai"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨eles se levantaram contra⟩"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "os que vinham"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "exército"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,108 +104,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 707,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59488,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 60195
-  },
-  "translation": "E levantaram-se homens, ⟨dos⟩ chefes dos filhos de Efráyim: Azarías, filho de Jeoanã; Berequias, filho de Mesilemote; e Ezequias, filho de Salum; e Amasai, filho de Hadlai — ⟨eles se levantaram contra⟩ os que vinham ⟨do⟩ exército.",
-  "tokens": [
-    {
-      "surface": "ויקמו",
-      "english": "E levantaram-se"
-    },
-    {
-      "surface": "אנשים",
-      "english": "homens"
-    },
-    {
-      "surface": "מראשי",
-      "english": "⟨dos⟩ chefes"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "עזריהו",
-      "english": "Azarías"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "יהוחנן",
-      "english": "Jeoanã"
-    },
-    {
-      "surface": "ברכיהו",
-      "english": "Berequias"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "משלמות",
-      "english": "Mesilemote"
-    },
-    {
-      "surface": "ויחזקיהו",
-      "english": "e Ezequias"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "שלם",
-      "english": "Salum"
-    },
-    {
-      "surface": "ועמשא",
-      "english": "e Amasai"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "חדלי",
-      "english": "Hadlai"
-    },
-    {
-      "surface": "על",
-      "english": "⟨eles se levantaram contra⟩"
-    },
-    {
-      "surface": "הבאים",
-      "english": "os que vinham"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨do⟩"
-    },
-    {
-      "surface": "הצבא",
-      "english": "exército"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:40:01.992218145Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

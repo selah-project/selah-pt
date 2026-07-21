@@ -1,38 +1,30 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "deuteronomy 3:15",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 252,
-    "prompt_tokens": 24821,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25073
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:10:50.520699870Z",
   "translation": "E a Machir dei ⟨את⟩ Gileade",
   "tokens": [
     {
       "surface": "ולמכיר",
-      "english": "E a Machir"
+      "gloss": "E a Machir"
     },
     {
       "surface": "נתתי",
-      "english": "dei"
+      "gloss": "dei"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Gileade"
     },
     {
       "surface": "הגלעד",
-      "english": "Gileade"
+      "gloss": "Gileade"
     }
-  ],
-  "timestamp": "2026-07-16T13:10:50.520699870Z",
-  "model": "glm-4.5"
+  ]
 }

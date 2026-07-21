@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 125:1",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 125,
-  "usage": {
-    "completion_tokens": 565,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70458,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 71023
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:41:40.130309320Z",
   "translation": "Uma canção das subidas ⟨os⟩ que confiam em YHWH ⟨são⟩ como o monte Sião, ⟨que⟩ não ⟨será⟩ abalado; para sempre ⟨ele⟩ permanece.",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Uma canção"
+      "gloss": "Uma canção"
     },
     {
       "surface": "המעלות",
-      "english": "das subidas"
+      "gloss": "das subidas"
     },
     {
       "surface": "הבטחים",
-      "english": "⟨os⟩ que confiam"
+      "gloss": "⟨os⟩ que confiam"
     },
     {
       "surface": "ביהוה",
-      "english": "em YHWH"
+      "gloss": "em YHWH"
     },
     {
       "surface": "כהר",
-      "english": "⟨são⟩ como o monte"
+      "gloss": "⟨são⟩ como o monte"
     },
     {
       "surface": "ציון",
-      "english": "Sião"
+      "gloss": "Sião"
     },
     {
       "surface": "לא",
-      "english": "⟨que⟩ não"
+      "gloss": "⟨que⟩ não"
     },
     {
       "surface": "ימוט",
-      "english": "⟨será⟩ abalado"
+      "gloss": "⟨será⟩ abalado"
     },
     {
       "surface": "לעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "ישב",
-      "english": "⟨ele⟩ permanece"
+      "gloss": "⟨ele⟩ permanece"
     }
-  ],
-  "timestamp": "2026-06-13T06:41:40.130309320Z",
-  "model": "glm-4.5"
+  ]
 }

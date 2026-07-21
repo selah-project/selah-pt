@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "joel 4:10",
   "book": "joel",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23502,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 24043
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:32:29.813086221Z",
   "translation": "Batei ⟨vossas⟩ enxadas ⟨em⟩ espadas e ⟨vossas⟩ foices ⟨em⟩ lanças; ⟨o⟩ fraco ⟨dirá⟩: eu ⟨sou⟩ ⟨um⟩ poderoso ⟨guerreiro⟩.",
   "tokens": [
     {
       "surface": "כתו",
-      "english": "Batei"
+      "gloss": "Batei"
     },
     {
       "surface": "אתיכם",
-      "english": "⟨vossas⟩ enxadas"
+      "gloss": "⟨vossas⟩ enxadas"
     },
     {
       "surface": "לחרבות",
-      "english": "⟨em⟩ espadas"
+      "gloss": "⟨em⟩ espadas"
     },
     {
       "surface": "ומזמרתיכם",
-      "english": "e ⟨vossas⟩ foices"
+      "gloss": "e ⟨vossas⟩ foices"
     },
     {
       "surface": "לרמחים",
-      "english": "⟨em⟩ lanças"
+      "gloss": "⟨em⟩ lanças"
     },
     {
       "surface": "החלש",
-      "english": "⟨o⟩ fraco"
+      "gloss": "⟨o⟩ fraco"
     },
     {
       "surface": "יאמר",
-      "english": "⟨dirá⟩"
+      "gloss": "⟨dirá⟩"
     },
     {
       "surface": "גבור",
-      "english": "poderoso ⟨guerreiro⟩"
+      "gloss": "poderoso ⟨guerreiro⟩"
     },
     {
       "surface": "אני",
-      "english": "eu ⟨sou⟩ ⟨um⟩"
+      "gloss": "eu ⟨sou⟩ ⟨um⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:32:29.813086221Z",
-  "model": "glm-4.5"
+  ]
 }

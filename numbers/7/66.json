@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 66,
   "ref": "numbers 7:66",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 66,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:17:09.999433535Z",
+  "translation": "No décimo dia ⟨o⟩ príncipe dos filhos de Dan, Achiézer, filho de Amisadai",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "No décimo dia"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "décimo"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "príncipe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dos filhos de"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Achiézer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "Amisadai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Dã",
@@ -13,56 +52,6 @@
       "hebrew": "דן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 240,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18094,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18334
-  },
-  "translation": "No décimo dia ⟨o⟩ príncipe dos filhos de Dan, Achiézer, filho de Amisadai",
-  "tokens": [
-    {
-      "surface": "ביום",
-      "english": "No décimo dia"
-    },
-    {
-      "surface": "העשירי",
-      "english": "décimo"
-    },
-    {
-      "surface": "נשיא",
-      "english": "príncipe"
-    },
-    {
-      "surface": "לבני",
-      "english": "dos filhos de"
-    },
-    {
-      "surface": "דן",
-      "english": "Dan"
-    },
-    {
-      "surface": "אחיעזר",
-      "english": "Achiézer"
-    },
-    {
-      "surface": "בן",
-      "english": "filho"
-    },
-    {
-      "surface": "עמישדי",
-      "english": "Amisadai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:17:09.999433535Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

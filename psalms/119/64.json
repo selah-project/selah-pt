@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 64,
   "ref": "psalms 119:64",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 119,
+  "verse": 64,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:59:53.084914153Z",
+  "translation": "A terra, ⟨é⟩ cheia da tua Jésed, ⟨ó⟩ YHWH; ensina-me ⟨os⟩ teus estatutos.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Da tua Jésed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "cheia"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "A terra"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "⟨os⟩ teus estatutos"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ensina-me"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "bondade",
@@ -13,48 +44,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 119,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62811,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63184
-  },
-  "translation": "A terra, ⟨é⟩ cheia da tua Jésed, ⟨ó⟩ YHWH; ensina-me ⟨os⟩ teus estatutos.",
-  "tokens": [
-    {
-      "surface": "חסדך",
-      "english": "Da tua Jésed"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "מלאה",
-      "english": "cheia"
-    },
-    {
-      "surface": "הארץ",
-      "english": "A terra"
-    },
-    {
-      "surface": "חקיך",
-      "english": "⟨os⟩ teus estatutos"
-    },
-    {
-      "surface": "למדני",
-      "english": "ensina-me"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:59:53.084914153Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

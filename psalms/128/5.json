@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 128:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 128,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63108,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63553
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:06:33.258265665Z",
   "translation": "YHWH ⟨te⟩ abençoará de Tzion; ⟨e⟩ verás ⟨o⟩ bem de Yerushalaim todos ⟨os⟩ dias de tua vida.",
   "tokens": [
     {
       "surface": "יברכך",
-      "english": "⟨Te⟩ abençoará"
+      "gloss": "⟨Te⟩ abençoará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מציון",
-      "english": "de Tzion"
+      "gloss": "de Tzion"
     },
     {
       "surface": "וראה",
-      "english": "⟨e⟩ verás"
+      "gloss": "⟨e⟩ verás"
     },
     {
       "surface": "בטוב",
-      "english": "⟨o⟩ bem"
+      "gloss": "⟨o⟩ bem"
     },
     {
       "surface": "ירושלם",
-      "english": "de Yerushalaim"
+      "gloss": "de Yerushalaim"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "ימי",
-      "english": "⟨os⟩ dias"
+      "gloss": "⟨os⟩ dias"
     },
     {
       "surface": "חייך",
-      "english": "de tua vida"
+      "gloss": "de tua vida"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:06:33.258265665Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

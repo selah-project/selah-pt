@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "ezra 10:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 10,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:13:17.989966210Z",
+  "translation": "Então Ezra, o sacerdote, levantou-se e disse-lhes: ⟨Vocês⟩ prevaricaram e tomaram mulheres estrangeiras, para acrescentar ⟨à⟩ culpa de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Então ... levantou-se"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": ", o sacerdote"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "-lhes"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨Vocês⟩"
+    },
+    {
+      "surface": "מעלתם",
+      "gloss": "prevaricaram"
+    },
+    {
+      "surface": "ותשיבו",
+      "gloss": "e tomaram"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mulheres"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "estrangeiras"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "para acrescentar"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "אשמת",
+      "gloss": "culpa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Esdras",
@@ -20,80 +83,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 733,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45558,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 46291
-  },
-  "translation": "Então Ezra, o sacerdote, levantou-se e disse-lhes: ⟨Vocês⟩ prevaricaram e tomaram mulheres estrangeiras, para acrescentar ⟨à⟩ culpa de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "Então ... levantou-se"
-    },
-    {
-      "surface": "עזרא",
-      "english": "Ezra"
-    },
-    {
-      "surface": "הכהן",
-      "english": ", o sacerdote"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "אלהם",
-      "english": "-lhes"
-    },
-    {
-      "surface": "אתם",
-      "english": "⟨Vocês⟩"
-    },
-    {
-      "surface": "מעלתם",
-      "english": "prevaricaram"
-    },
-    {
-      "surface": "ותשיבו",
-      "english": "e tomaram"
-    },
-    {
-      "surface": "נשים",
-      "english": "mulheres"
-    },
-    {
-      "surface": "נכריות",
-      "english": "estrangeiras"
-    },
-    {
-      "surface": "להוסיף",
-      "english": "para acrescentar"
-    },
-    {
-      "surface": "על",
-      "english": "⟨à⟩"
-    },
-    {
-      "surface": "אשמת",
-      "english": "culpa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:13:17.989966210Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

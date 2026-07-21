@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-chronicles 12:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56954,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57343
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:46:42.358762651Z",
   "translation": "e Irmiyá ⟨é⟩ Iahaziel e Ioḥanán e Iozabad ⟨o⟩ Gederaíta",
   "tokens": [
     {
       "surface": "וירמיה",
-      "english": "E Irmiyá"
+      "gloss": "E Irmiyá"
     },
     {
       "surface": "ויחזיאל",
-      "english": "⟨é⟩",
+      "gloss": "⟨é⟩",
       "marks": "Irmiyá"
     },
     {
       "surface": "ויוחנן",
-      "english": "Iahaziel"
+      "gloss": "Iahaziel"
     },
     {
       "surface": "ויוזבד",
-      "english": "e Ioḥanán"
+      "gloss": "e Ioḥanán"
     },
     {
       "surface": "הגדרתי",
-      "english": "e Iozabad ⟨o⟩ Gederaíta"
+      "gloss": "e Iozabad ⟨o⟩ Gederaíta"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:46:42.358762651Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

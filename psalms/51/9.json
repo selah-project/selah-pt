@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 51:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70217,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70588
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:54:05.530055025Z",
   "translation": "Purge me ⟨with⟩ hissop, and I ⟨will be⟩ clean; wash me, and I ⟨shall be⟩ whiter than snow.",
   "tokens": [
     {
       "surface": "תחטאני",
-      "english": "Purge me"
+      "gloss": "Purge me"
     },
     {
       "surface": "באזוב",
-      "english": "⟨with⟩ hissop"
+      "gloss": "⟨with⟩ hissop"
     },
     {
       "surface": "ואטהר",
-      "english": "and I ⟨will be⟩ clean"
+      "gloss": "and I ⟨will be⟩ clean"
     },
     {
       "surface": "תכבסני",
-      "english": "wash me"
+      "gloss": "wash me"
     },
     {
       "surface": "ומשלג",
-      "english": "and I ⟨shall be⟩ whiter than snow"
+      "gloss": "and I ⟨shall be⟩ whiter than snow"
     },
     {
       "surface": "אלבין",
-      "english": "whiter than snow"
+      "gloss": "whiter than snow"
     }
-  ],
-  "timestamp": "2026-06-14T04:54:05.530055025Z",
-  "model": "glm-4.5"
+  ]
 }

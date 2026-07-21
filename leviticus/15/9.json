@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "leviticus 15:9",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 459,
-    "prompt_tokens": 24798,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25257
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:45:15.253587364Z",
   "translation": "E todo ⟨o⟩ ⟨את⟩ selar sobre o qual ele cavalgar ⟨o⟩ que ⟨tem⟩ ⟨o⟩ fluxo será impuro",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "E todo"
+      "gloss": "E todo"
     },
     {
       "surface": "המרכב",
-      "english": "⟨o⟩ ⟨את⟩ selar",
+      "gloss": "⟨o⟩ ⟨את⟩ selar",
       "marks": "selar"
     },
     {
       "surface": "אשר",
-      "english": "sobre o qual"
+      "gloss": "sobre o qual"
     },
     {
       "surface": "ירכב",
-      "english": "ele cavalgar"
+      "gloss": "ele cavalgar"
     },
     {
       "surface": "עליו",
-      "english": "⟨o⟩ que"
+      "gloss": "⟨o⟩ que"
     },
     {
       "surface": "הזב",
-      "english": "⟨tem⟩ ⟨o⟩ fluxo"
+      "gloss": "⟨tem⟩ ⟨o⟩ fluxo"
     },
     {
       "surface": "יטמא",
-      "english": "será impuro"
+      "gloss": "será impuro"
     }
-  ],
-  "timestamp": "2026-07-16T16:45:15.253587364Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-chronicles 2:11",
   "book": "1-chronicles",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 365,
-    "prompt_tokens": 64619,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64984
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:05:31.378694774Z",
   "translation": "e Naashom gerou ⟨את⟩ Salma, e Salma gerou ⟨את⟩ Boaz",
   "tokens": [
     {
       "surface": "וְ\/נַחְשׁוֹן֙",
-      "english": "e Naashom"
+      "gloss": "e Naashom"
     },
     {
       "surface": "הוֹלִ֣יד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Salma"
     },
     {
       "surface": "שַׂלְמָ֔א",
-      "english": "Salma"
+      "gloss": "Salma"
     },
     {
       "surface": "וְ\/שַׂלְמָ֖א",
-      "english": "e Salma"
+      "gloss": "e Salma"
     },
     {
       "surface": "הוֹלִ֥יד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Boaz"
     },
     {
       "surface": "בֹּֽעַז",
-      "english": "Boaz"
+      "gloss": "Boaz"
     }
-  ],
-  "timestamp": "2026-07-16T11:05:31.378694774Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,82 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "hosea 10:3",
   "book": "hosea",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 446,
-    "prompt_tokens": 27578,
-    "prompt_tokens_details": {
-      "cached_tokens": 25856
-    },
-    "total_tokens": 28024
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:08:06.912347376Z",
   "translation": "Porque agora dirão: Não há rei para nós, pois não tememos a YHWH; e o rei, que fará ele por nós?",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "עתה",
-      "english": "agora"
+      "gloss": "agora"
     },
     {
       "surface": "יאמרו",
-      "english": "dirão"
+      "gloss": "dirão"
     },
     {
       "surface": "אין",
-      "english": "Não há"
+      "gloss": "Não há"
     },
     {
       "surface": "מלך",
-      "english": "rei"
+      "gloss": "rei"
     },
     {
       "surface": "לנו",
-      "english": "para nós"
+      "gloss": "para nós"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יראנו",
-      "english": "tememos"
+      "gloss": "tememos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "והמלך",
-      "english": "e o rei"
+      "gloss": "e o rei"
     },
     {
       "surface": "מה",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יעשה",
-      "english": "fará ele"
+      "gloss": "fará ele"
     },
     {
       "surface": "לנו",
-      "english": "por nós"
+      "gloss": "por nós"
     }
-  ],
-  "timestamp": "2026-07-16T15:08:06.912347376Z",
-  "model": "glm-4.5"
+  ]
 }

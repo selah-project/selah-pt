@@ -1,82 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 25:2",
   "book": "isaiah",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 962,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26835,
-    "prompt_tokens_details": {
-      "cached_tokens": 25327
-    },
-    "total_tokens": 27797
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:52:14.249079876Z",
   "translation": "Pois fizeste ⟨da⟩ cidade ⟨um⟩ montão, ⟨de uma⟩ cidade fortificada ⟨uma⟩ ruína, ⟨o⟩ palácio de estrangeiros ⟨para⟩ ⟨não ser⟩ cidade; ⟨para⟩ sempre não será construída",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "שמת",
-      "english": "fizeste"
+      "gloss": "fizeste"
     },
     {
       "surface": "מעיר",
-      "english": "⟨da⟩ cidade",
+      "gloss": "⟨da⟩ cidade",
       "marks": "cidade"
     },
     {
       "surface": "לגל",
-      "english": "⟨um⟩ montão",
+      "gloss": "⟨um⟩ montão",
       "marks": "montão"
     },
     {
       "surface": "קריה",
-      "english": "⟨de uma⟩ cidade fortificada",
+      "gloss": "⟨de uma⟩ cidade fortificada",
       "marks": "cidade fortificada"
     },
     {
       "surface": "בצורה",
-      "english": "⟨uma⟩ ruína",
+      "gloss": "⟨uma⟩ ruína",
       "marks": "ruína"
     },
     {
       "surface": "למפלה",
-      "english": "⟨o⟩ palácio",
+      "gloss": "⟨o⟩ palácio",
       "marks": "palácio"
     },
     {
       "surface": "ארמון",
-      "english": "de estrangeiros"
+      "gloss": "de estrangeiros"
     },
     {
       "surface": "זרים",
-      "english": "⟨para⟩ ⟨não ser⟩ cidade",
+      "gloss": "⟨para⟩ ⟨não ser⟩ cidade",
       "marks": "cidade"
     },
     {
       "surface": "מעיר",
-      "english": "⟨para⟩ sempre"
+      "gloss": "⟨para⟩ sempre"
     },
     {
       "surface": "לעולם",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "לא",
-      "english": "será construída"
+      "gloss": "será construída"
     },
     {
       "surface": "יבנה",
-      "english": "será construída"
+      "gloss": "será construída"
     }
-  ],
-  "timestamp": "2026-06-13T02:52:14.249079876Z",
-  "model": "glm-4.5"
+  ]
 }

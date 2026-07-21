@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "numbers 23:25",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25723,
-    "prompt_tokens_details": {
-      "cached_tokens": 24321
-    },
-    "total_tokens": 26130
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:31:18.612914419Z",
   "translation": "E disse Balac a Bilam: Nem amaldiçoes ⟨o⟩ povo de todo, nem ⟨o⟩ abençoes de todo.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E disse"
+      "gloss": "E disse"
     },
     {
       "surface": "בלק",
-      "english": "Balac"
+      "gloss": "Balac"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "בלעם",
-      "english": "Bilam"
+      "gloss": "Bilam"
     },
     {
       "surface": "גם",
-      "english": "nem"
+      "gloss": "nem"
     },
     {
       "surface": "קב",
-      "english": "amaldiçoes"
+      "gloss": "amaldiçoes"
     },
     {
       "surface": "לא",
-      "english": "de todo"
+      "gloss": "de todo"
     },
     {
       "surface": "תקבנו",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "גם",
-      "english": "nem"
+      "gloss": "nem"
     },
     {
       "surface": "ברך",
-      "english": "⟨o⟩ abençoes"
+      "gloss": "⟨o⟩ abençoes"
     },
     {
       "surface": "לא",
-      "english": "de todo"
+      "gloss": "de todo"
     }
-  ],
-  "timestamp": "2026-06-14T04:31:18.612914419Z",
-  "model": "glm-4.5"
+  ]
 }

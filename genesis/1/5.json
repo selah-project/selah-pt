@@ -1,75 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 1:5",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 444,
-    "prompt_tokens": 29188,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29632
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:36:38.766916954Z",
   "translation": "E Elohim chamou ⟨a⟩ luz dia, e ⟨à⟩ escuridão chamou noite. E houve tarde e houve manhã, dia um.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "E ... chamou"
+      "gloss": "E ... chamou"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "לאור",
-      "english": "⟨a⟩ luz",
+      "gloss": "⟨a⟩ luz",
       "marks": "a luz"
     },
     {
       "surface": "יום",
-      "english": "dia"
+      "gloss": "dia"
     },
     {
       "surface": "ולחשך",
-      "english": "e ⟨à⟩ escuridão",
+      "gloss": "e ⟨à⟩ escuridão",
       "marks": "à escuridão"
     },
     {
       "surface": "קרא",
-      "english": "chamou"
+      "gloss": "chamou"
     },
     {
       "surface": "לילה",
-      "english": "noite"
+      "gloss": "noite"
     },
     {
       "surface": "ויהי",
-      "english": "E houve"
+      "gloss": "E houve"
     },
     {
       "surface": "ערב",
-      "english": "tarde"
+      "gloss": "tarde"
     },
     {
       "surface": "ויהי",
-      "english": "e houve"
+      "gloss": "e houve"
     },
     {
       "surface": "בקר",
-      "english": "manhã"
+      "gloss": "manhã"
     },
     {
       "surface": "יום",
-      "english": "dia"
+      "gloss": "dia"
     },
     {
       "surface": "אחד",
-      "english": "um"
+      "gloss": "um"
     }
-  ],
-  "timestamp": "2026-07-16T14:36:38.766916954Z",
-  "model": "glm-4.5"
+  ]
 }

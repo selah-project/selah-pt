@@ -1,34 +1,22 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-kings 6:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 727,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62107,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62834
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:16:51.389250737Z",
   "translation": "E fez ⟨para⟩ ⟨a⟩ casa janelas ⟨com⟩ ⟨aberturas⟩ estreitas ⟨para dentro⟩",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "E fez",
+      "gloss": "E fez",
       "notes": null
     },
     {
       "surface": "לבית",
-      "english": "⟨para⟩ ⟨a⟩ casa",
+      "gloss": "⟨para⟩ ⟨a⟩ casa",
       "notes": {
         "kind": "addition",
         "subject": "para a",
@@ -37,7 +25,7 @@
     },
     {
       "surface": "חלוני",
-      "english": "janelas",
+      "gloss": "janelas",
       "notes": {
         "kind": "linguistic",
         "subject": "janelas",
@@ -46,7 +34,7 @@
     },
     {
       "surface": "שקפים",
-      "english": "⟨com⟩ ⟨aberturas⟩ estreitas",
+      "gloss": "⟨com⟩ ⟨aberturas⟩ estreitas",
       "notes": {
         "kind": "substitution",
         "subject": "aberturas",
@@ -55,7 +43,7 @@
     },
     {
       "surface": "אטמים",
-      "english": "⟨para dentro⟩",
+      "gloss": "⟨para dentro⟩",
       "notes": {
         "kind": "substitution",
         "subject": "para dentro",
@@ -63,7 +51,8 @@
       }
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:16:51.389250737Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

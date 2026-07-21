@@ -1,80 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "numbers 3:8",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 710,
-    "prompt_tokens": 26237,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 26947
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:03:04.797118030Z",
   "translation": "e ⟨guarde⟩ ⟨את⟩ ⟨todos⟩ os utensílios da Tenda da Reunião e ⟨את⟩ a guarda dos filhos de Yisrael para ⟨servir⟩ ⟨את⟩ o serviço do Mishkán",
   "tokens": [
     {
       "surface": "ושמרו",
-      "english": "e ⟨guarde⟩"
+      "gloss": "e ⟨guarde⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨todos⟩ os utensílios da Tenda da Reunião"
     },
     {
       "surface": "כל",
-      "english": "⟨todos⟩"
+      "gloss": "⟨todos⟩"
     },
     {
       "surface": "כלי",
-      "english": "os utensílios"
+      "gloss": "os utensílios"
     },
     {
       "surface": "אהל",
-      "english": "da Tenda"
+      "gloss": "da Tenda"
     },
     {
       "surface": "מועד",
-      "english": "da Reunião"
+      "gloss": "da Reunião"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "a guarda"
     },
     {
       "surface": "משמרת",
-      "english": "a guarda"
+      "gloss": "a guarda"
     },
     {
       "surface": "בני",
-      "english": "dos filhos"
+      "gloss": "dos filhos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "לעבד",
-      "english": "para ⟨servir⟩"
+      "gloss": "para ⟨servir⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o serviço"
     },
     {
       "surface": "עבדת",
-      "english": "o serviço"
+      "gloss": "o serviço"
     },
     {
       "surface": "המשכן",
-      "english": "do Mishkán"
+      "gloss": "do Mishkán"
     }
-  ],
-  "timestamp": "2026-07-16T17:03:04.797118030Z",
-  "model": "glm-4.5"
+  ]
 }

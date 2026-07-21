@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-kings 6:14",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 278,
-    "prompt_tokens": 69540,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 69818
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:22:10.780664065Z",
   "translation": "E Shlomó construiu ⟨את⟩ a casa e a completou",
   "tokens": [
     {
       "surface": "ויבן",
-      "english": "E construiu"
+      "gloss": "E construiu"
     },
     {
       "surface": "שלמה",
-      "english": "Shlomó"
+      "gloss": "Shlomó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a casa"
     },
     {
       "surface": "הבית",
-      "english": "a casa"
+      "gloss": "a casa"
     },
     {
       "surface": "ויכלהו",
-      "english": "e a completou"
+      "gloss": "e a completou"
     }
-  ],
-  "timestamp": "2026-07-16T11:22:10.780664065Z",
-  "model": "glm-4.5"
+  ]
 }

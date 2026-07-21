@@ -1,78 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 137:6",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 626,
-    "prompt_tokens": 71137,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71763
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:38.158588007Z",
   "translation": "Minha língua se apegue ⟨ao⟩ meu palato, se eu não me lembrar de ti, se eu não exaltar Yerushalayim acima da minha principal alegria.",
   "tokens": [
     {
       "surface": "תדבק",
-      "english": "apegue"
+      "gloss": "apegue"
     },
     {
       "surface": "לשוני",
-      "english": "Minha língua"
+      "gloss": "Minha língua"
     },
     {
       "surface": "לחכי",
-      "english": "⟨ao⟩ meu palato"
+      "gloss": "⟨ao⟩ meu palato"
     },
     {
       "surface": "אם",
-      "english": "se"
+      "gloss": "se"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "אזכרכי",
-      "english": "me lembrar de ti"
+      "gloss": "me lembrar de ti"
     },
     {
       "surface": "אם",
-      "english": "se"
+      "gloss": "se"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "אעלה",
-      "english": "exaltar"
+      "gloss": "exaltar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yerushalayim"
     },
     {
       "surface": "ירושלם",
-      "english": "Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "על",
-      "english": "acima de"
+      "gloss": "acima de"
     },
     {
       "surface": "ראש",
-      "english": "minha principal"
+      "gloss": "minha principal"
     },
     {
       "surface": "שמחתי",
-      "english": "alegria"
+      "gloss": "alegria"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:38.158588007Z",
-  "model": "glm-4.5"
+  ]
 }

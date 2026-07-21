@@ -1,9 +1,83 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "2-chronicles 33:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 33,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:48:10.759313534Z",
+  "translation": "e orou a ⟨Ele⟩, e ⟨Ele⟩ foi propício a ele, e ouviu ⟨a⟩ sua súplica, e o trouxe de volta ⟨para⟩ Yerushalayim ⟨ao⟩ seu reino, e Menashé soube que YHWH ⟨Ele⟩ ⟨é⟩ Elohim",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "E orou"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ⟨Ele⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "e ⟨Ele⟩ foi propício",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e ouviu"
+    },
+    {
+      "surface": "תחנתו",
+      "gloss": "⟨a⟩ sua súplica",
+      "marks": "súplica de Menashé"
+    },
+    {
+      "surface": "וישיבהו",
+      "gloss": "e o trouxe de volta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨para⟩ Yerushalayim",
+      "marks": "Jerusalém"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "⟨ao⟩ seu reino",
+      "marks": "reino de Menashé"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "e soube"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ele⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨é⟩ Elohim",
+      "marks": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,91 +87,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 778,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58885,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59663
-  },
-  "translation": "e orou a ⟨Ele⟩, e ⟨Ele⟩ foi propício a ele, e ouviu ⟨a⟩ sua súplica, e o trouxe de volta ⟨para⟩ Yerushalayim ⟨ao⟩ seu reino, e Menashé soube que YHWH ⟨Ele⟩ ⟨é⟩ Elohim",
-  "tokens": [
-    {
-      "surface": "ויתפלל",
-      "english": "E orou"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ⟨Ele⟩",
-      "marks": "Elohim"
-    },
-    {
-      "surface": "ויעתר",
-      "english": "e ⟨Ele⟩ foi propício",
-      "marks": "Elohim"
-    },
-    {
-      "surface": "לו",
-      "english": "a ele"
-    },
-    {
-      "surface": "וישמע",
-      "english": "e ouviu"
-    },
-    {
-      "surface": "תחנתו",
-      "english": "⟨a⟩ sua súplica",
-      "marks": "súplica de Menashé"
-    },
-    {
-      "surface": "וישיבהו",
-      "english": "e o trouxe de volta"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨para⟩ Yerushalayim",
-      "marks": "Jerusalém"
-    },
-    {
-      "surface": "למלכותו",
-      "english": "⟨ao⟩ seu reino",
-      "marks": "reino de Menashé"
-    },
-    {
-      "surface": "וידע",
-      "english": "e soube"
-    },
-    {
-      "surface": "מנשה",
-      "english": "Menashé"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨Ele⟩",
-      "marks": "YHWH"
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨é⟩ Elohim",
-      "marks": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:48:10.759313534Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

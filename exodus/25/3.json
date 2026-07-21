@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 25:3",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 352,
-    "prompt_tokens": 24322,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24674
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:55:22.108433505Z",
   "translation": "E esta ⟨é⟩ a oferta que tomareis deles: ouro e prata e cobre",
   "tokens": [
     {
       "surface": "וזאת",
-      "english": "E esta"
+      "gloss": "E esta"
     },
     {
       "surface": "התרומה",
-      "english": "a oferta"
+      "gloss": "a oferta"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "תקחו",
-      "english": "tomareis"
+      "gloss": "tomareis"
     },
     {
       "surface": "מאתם",
-      "english": "deles"
+      "gloss": "deles"
     },
     {
       "surface": "זהב",
-      "english": "ouro"
+      "gloss": "ouro"
     },
     {
       "surface": "וכסף",
-      "english": "e prata"
+      "gloss": "e prata"
     },
     {
       "surface": "ונחשת",
-      "english": "e cobre"
+      "gloss": "e cobre"
     }
-  ],
-  "timestamp": "2026-07-16T13:55:22.108433505Z",
-  "model": "glm-4.5"
+  ]
 }

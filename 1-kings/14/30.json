@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "1-kings 14:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 14,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:32:16.537430083Z",
+  "translation": "E ⟨houve⟩ guerra entre Rejavam ⟨e⟩ Yarovam todos os dias",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "E guerra"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨houve⟩",
+      "marks": "guerra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "os dias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboão",
@@ -20,57 +60,6 @@
       "hebrew": "ירבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62347,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62809
-  },
-  "translation": "E ⟨houve⟩ guerra entre Rejavam ⟨e⟩ Yarovam todos os dias",
-  "tokens": [
-    {
-      "surface": "ומלחמה",
-      "english": "E guerra"
-    },
-    {
-      "surface": "היתה",
-      "english": "⟨houve⟩",
-      "marks": "guerra"
-    },
-    {
-      "surface": "בין",
-      "english": "entre"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "ובין",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Yarovam"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "הימים",
-      "english": "os dias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:32:16.537430083Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

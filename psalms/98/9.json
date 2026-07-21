@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 98:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 98,
-  "usage": {
-    "completion_tokens": 519,
-    "prompt_tokens": 70635,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71154
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:44:39.069432152Z",
   "translation": "Diante de YHWH, pois ⟨ele⟩ veio para julgar ⟨a⟩ terra; ⟨ele⟩ julgará ⟨o⟩ mundo em retidão e ⟨os⟩ povos com equidade.",
   "tokens": [
     {
       "surface": "לפני",
-      "english": "Diante de"
+      "gloss": "Diante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "בא",
-      "english": "veio"
+      "gloss": "veio"
     },
     {
       "surface": "לשפט",
-      "english": "para julgar"
+      "gloss": "para julgar"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "ישפט",
-      "english": "julgará"
+      "gloss": "julgará"
     },
     {
       "surface": "תבל",
-      "english": "⟨o⟩ mundo"
+      "gloss": "⟨o⟩ mundo"
     },
     {
       "surface": "בצדק",
-      "english": "em retidão"
+      "gloss": "em retidão"
     },
     {
       "surface": "ועמים",
-      "english": "e ⟨os⟩ povos"
+      "gloss": "e ⟨os⟩ povos"
     },
     {
       "surface": "במישרים",
-      "english": "com equidade"
+      "gloss": "com equidade"
     }
-  ],
-  "timestamp": "2026-07-16T17:44:39.069432152Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "judges 8:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 8,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:58:12.759701773Z",
+  "translation": "E ele disse a eles: O que ⟨fiz⟩ agora em comparação ⟨con⟩ vocês? Não ⟨é⟩ melhor o ⟨que⟩ colher das uvas de Efráyim ⟨do⟩ que ⟨a⟩ vindima ⟨de⟩ Abiezer?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ele disse"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "a eles"
+    },
+    {
+      "surface": "מה",
+      "gloss": "O que"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "fiz"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "agora"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "em comparação ⟨con⟩ vocês"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Não ⟨é⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "melhor"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "o ⟨que⟩ colher"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "das uvas de Efráyim"
+    },
+    {
+      "surface": "מבציר",
+      "gloss": "⟨do⟩ que ⟨a⟩ vindima"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "⟨de⟩ Abiezer"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,72 +68,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16666,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17129
-  },
-  "translation": "E ele disse a eles: O que ⟨fiz⟩ agora em comparação ⟨con⟩ vocês? Não ⟨é⟩ melhor o ⟨que⟩ colher das uvas de Efráyim ⟨do⟩ que ⟨a⟩ vindima ⟨de⟩ Abiezer?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ele disse"
-    },
-    {
-      "surface": "אליהם",
-      "english": "a eles"
-    },
-    {
-      "surface": "מה",
-      "english": "O que"
-    },
-    {
-      "surface": "עשיתי",
-      "english": "fiz"
-    },
-    {
-      "surface": "עתה",
-      "english": "agora"
-    },
-    {
-      "surface": "ככם",
-      "english": "em comparação ⟨con⟩ vocês"
-    },
-    {
-      "surface": "הלוא",
-      "english": "Não ⟨é⟩"
-    },
-    {
-      "surface": "טוב",
-      "english": "melhor"
-    },
-    {
-      "surface": "עללות",
-      "english": "o ⟨que⟩ colher"
-    },
-    {
-      "surface": "אפרים",
-      "english": "das uvas de Efráyim"
-    },
-    {
-      "surface": "מבציר",
-      "english": "⟨do⟩ que ⟨a⟩ vindima"
-    },
-    {
-      "surface": "אביעזר",
-      "english": "⟨de⟩ Abiezer"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:58:12.759701773Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

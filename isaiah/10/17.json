@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "isaiah 10:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 10,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:20:49.561579510Z",
+  "translation": "E ⟨o⟩ luz de Yisrael será ⟨para⟩ fogo, e ⟨o⟩ seu Santo ⟨para⟩ chama, e queimará e consumirá ⟨os⟩ seus espinhos e ⟨os⟩ seus abrolhos num só dia.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E será"
+    },
+    {
+      "surface": "אור",
+      "gloss": "luz de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "para fogo"
+    },
+    {
+      "surface": "וקדושו",
+      "gloss": "e o seu Santo"
+    },
+    {
+      "surface": "ללהבה",
+      "gloss": "para chama"
+    },
+    {
+      "surface": "ובערה",
+      "gloss": "e queimará"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "e consumirá"
+    },
+    {
+      "surface": "שיתו",
+      "gloss": "os seus espinhos"
+    },
+    {
+      "surface": "ושמירו",
+      "gloss": "e os seus abrolhos"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "num dia"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "só"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19492,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19976
-  },
-  "translation": "E ⟨o⟩ luz de Yisrael será ⟨para⟩ fogo, e ⟨o⟩ seu Santo ⟨para⟩ chama, e queimará e consumirá ⟨os⟩ seus espinhos e ⟨os⟩ seus abrolhos num só dia.",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "E será"
-    },
-    {
-      "surface": "אור",
-      "english": "luz de Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לאש",
-      "english": "para fogo"
-    },
-    {
-      "surface": "וקדושו",
-      "english": "e o seu Santo"
-    },
-    {
-      "surface": "ללהבה",
-      "english": "para chama"
-    },
-    {
-      "surface": "ובערה",
-      "english": "e queimará"
-    },
-    {
-      "surface": "ואכלה",
-      "english": "e consumirá"
-    },
-    {
-      "surface": "שיתו",
-      "english": "os seus espinhos"
-    },
-    {
-      "surface": "ושמירו",
-      "english": "e os seus abrolhos"
-    },
-    {
-      "surface": "ביום",
-      "english": "num dia"
-    },
-    {
-      "surface": "אחד",
-      "english": "só"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:20:49.561579510Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

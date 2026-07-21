@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "proverbs 30:11",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 372,
-    "prompt_tokens": 60351,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60723
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:32:07.016690893Z",
   "translation": "Há uma geração que amaldiçoa seu pai, e ⟨a⟩ sua mãe não abençoa.",
   "tokens": [
     {
       "surface": "דור",
-      "english": "Há uma geração"
+      "gloss": "Há uma geração"
     },
     {
       "surface": "אביו",
-      "english": "seu pai"
+      "gloss": "seu pai"
     },
     {
       "surface": "יקלל",
-      "english": "amaldiçoa"
+      "gloss": "amaldiçoa"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sua mãe"
     },
     {
       "surface": "אמו",
-      "english": "sua mãe"
+      "gloss": "sua mãe"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יברך",
-      "english": "abençoa"
+      "gloss": "abençoa"
     }
-  ],
-  "timestamp": "2026-07-16T17:32:07.016690893Z",
-  "model": "glm-4.5"
+  ]
 }

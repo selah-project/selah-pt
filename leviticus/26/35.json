@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "leviticus 26:35",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 634,
-    "prompt_tokens": 25427,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 26061
-  },
+  "verse": 35,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:52:35.975459171Z",
   "translation": "Todos os dias ⟨de⟩ ⟨a⟩ desolação ela descansará ⟨o⟩ que não descansou em ⟨os⟩ vossos shabbats em vossa morada sobre ela",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todos os dias"
+      "gloss": "Todos os dias"
     },
     {
       "surface": "ימי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "השמה",
-      "english": "⟨de⟩ ⟨a⟩ desolação"
+      "gloss": "⟨de⟩ ⟨a⟩ desolação"
     },
     {
       "surface": "תשבת",
-      "english": "ela descansará"
+      "gloss": "ela descansará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o que não descansou"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "שבתה",
-      "english": "descansou"
+      "gloss": "descansou"
     },
     {
       "surface": "בשבתתיכם",
-      "english": "em ⟨os⟩ vossos shabbats"
+      "gloss": "em ⟨os⟩ vossos shabbats"
     },
     {
       "surface": "בשבתכם",
-      "english": "em vossa morada"
+      "gloss": "em vossa morada"
     },
     {
       "surface": "עליה",
-      "english": "sobre ela"
+      "gloss": "sobre ela"
     }
-  ],
-  "timestamp": "2026-07-16T16:52:35.975459171Z",
-  "model": "glm-4.5"
+  ]
 }

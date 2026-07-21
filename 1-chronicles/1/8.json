@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-chronicles 1:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56947,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57353
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:30:23.709300236Z",
   "translation": "Filhos de Cham: Cush e ⟨o⟩ Mitsrayim, Put e ⟨o⟩ Canaã.",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Filhos",
+      "gloss": "Filhos",
       "marks": null
     },
     {
       "surface": "חם",
-      "english": "Cham",
+      "gloss": "Cham",
       "marks": null
     },
     {
       "surface": "כוש",
-      "english": "Cush",
+      "gloss": "Cush",
       "marks": null
     },
     {
       "surface": "ומצרים",
-      "english": "e ⟨o⟩ Mitsrayim",
+      "gloss": "e ⟨o⟩ Mitsrayim",
       "marks": "Mitsrayim"
     },
     {
       "surface": "פוט",
-      "english": "Put",
+      "gloss": "Put",
       "marks": null
     },
     {
       "surface": "וכנען",
-      "english": "e ⟨o⟩ Canaã",
+      "gloss": "e ⟨o⟩ Canaã",
       "marks": "Canaã"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:30:23.709300236Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

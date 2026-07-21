@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 85:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62853,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63284
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:36:18.783316484Z",
   "translation": "Tu ⟨gathers⟩ toda ⟨את⟩ a tua indignação ⟨tu⟩ volta ⟨את⟩ da ⟨⟩ intensidade da tua ira.",
   "tokens": [
     {
       "surface": "אספת",
-      "english": "⟨Gathers⟩",
+      "gloss": "⟨Gathers⟩",
       "marks": "toda a tua indignação"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "עברתך",
-      "english": "a tua indignação"
+      "gloss": "a tua indignação"
     },
     {
       "surface": "השיבות",
-      "english": "⟨tu⟩ volta",
+      "gloss": "⟨tu⟩ volta",
       "marks": "a tua ira"
     },
     {
       "surface": "מחרון",
-      "english": "da ⟨⟩ intensidade"
+      "gloss": "da ⟨⟩ intensidade"
     },
     {
       "surface": "אפך",
-      "english": "da tua ira"
+      "gloss": "da tua ira"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:36:18.783316484Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

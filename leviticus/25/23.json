@@ -1,75 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "leviticus 25:23",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 747,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25108,
-    "prompt_tokens_details": {
-      "cached_tokens": 23738
-    },
-    "total_tokens": 25855
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:27:51.810760443Z",
   "translation": "E a terra não ⟨será⟩ vendida ⟨para⟩ ⟨fim⟩, porque ⟨a⟩ terra é minha, porque ⟨sois⟩ estrangeiros e ⟨residentes⟩ ⟨permanentes⟩ ⟨com⟩ mim.",
   "tokens": [
     {
       "surface": "והארץ",
-      "english": "E a terra"
+      "gloss": "E a terra"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "תמכר",
-      "english": "⟨será⟩ vendida"
+      "gloss": "⟨será⟩ vendida"
     },
     {
       "surface": "לצמתת",
-      "english": "⟨para⟩ ⟨fim⟩",
+      "gloss": "⟨para⟩ ⟨fim⟩",
       "notes": "Hebrew לצמתת means 'for extinction\/perpetuity' - rendered as 'para fim' to capture the permanence concept"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לי",
-      "english": "⟨a⟩ terra é minha",
+      "gloss": "⟨a⟩ terra é minha",
       "notes": "Hebrew לי הארץ is literally 'to me the land' - idiomatic for 'the land is mine'"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "גרים",
-      "english": "⟨sois⟩ estrangeiros"
+      "gloss": "⟨sois⟩ estrangeiros"
     },
     {
       "surface": "ותושבים",
-      "english": "e ⟨residentes⟩ ⟨permanentes⟩"
+      "gloss": "e ⟨residentes⟩ ⟨permanentes⟩"
     },
     {
       "surface": "אתם",
-      "english": "⟨sois⟩",
+      "gloss": "⟨sois⟩",
       "notes": "The pronoun אתם (you plural) is embedded in the verb conjugation in Portuguese"
     },
     {
       "surface": "עמדי",
-      "english": "⟨com⟩ mim"
+      "gloss": "⟨com⟩ mim"
     }
-  ],
-  "timestamp": "2026-06-13T05:27:51.810760443Z",
-  "model": "glm-4.5"
+  ]
 }

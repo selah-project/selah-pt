@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 135:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70132,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70532
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:41:59.333306867Z",
   "translation": "Porque Jaakov ⟨ele⟩ escolheu para si mesmo, ⟨e⟩ Yisrael para ⟨a⟩ sua possessão peculiar",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יעקב",
-      "english": "Jaakob"
+      "gloss": "Jaakob"
     },
     {
       "surface": "בחר",
-      "english": "escolheu"
+      "gloss": "escolheu"
     },
     {
       "surface": "לו",
-      "english": "para si mesmo"
+      "gloss": "para si mesmo"
     },
     {
       "surface": "יה",
-      "english": "Yah"
+      "gloss": "Yah"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "לסגלתו",
-      "english": "para ⟨a⟩ sua possessão peculiar"
+      "gloss": "para ⟨a⟩ sua possessão peculiar"
     }
-  ],
-  "timestamp": "2026-06-13T06:41:59.333306867Z",
-  "model": "glm-4.5"
+  ]
 }

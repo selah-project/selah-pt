@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 1:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18293,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18656
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:07:45.473330971Z",
   "translation": "Para ⟨os⟩ filhos ⟨de⟩ Yossef ⟨de⟩ Efrayim: Elishamá ben AmiHUD; ⟨de⟩ Menashé: Gamliel ben PedatSsur.",
   "tokens": [
     {
       "surface": "לבני",
-      "english": "Para ⟨os⟩ filhos ⟨de⟩"
+      "gloss": "Para ⟨os⟩ filhos ⟨de⟩"
     },
     {
       "surface": "יוסף",
-      "english": "Yossef"
+      "gloss": "Yossef"
     },
     {
       "surface": "לאפרים",
-      "english": "⟨de⟩ Efrayim:"
+      "gloss": "⟨de⟩ Efrayim:"
     },
     {
       "surface": "אלישמע",
-      "english": "Elishamá"
+      "gloss": "Elishamá"
     },
     {
       "surface": "בן",
-      "english": "ben"
+      "gloss": "ben"
     },
     {
       "surface": "עמיהוד",
-      "english": "AmiHUD"
+      "gloss": "AmiHUD"
     },
     {
       "surface": "למנשה",
-      "english": "⟨de⟩ Menashé:"
+      "gloss": "⟨de⟩ Menashé:"
     },
     {
       "surface": "גמליאל",
-      "english": "Gamliel"
+      "gloss": "Gamliel"
     },
     {
       "surface": "בן",
-      "english": "ben"
+      "gloss": "ben"
     },
     {
       "surface": "פדהצור",
-      "english": "PedatSsur"
+      "gloss": "PedatSsur"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:07:45.473330971Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

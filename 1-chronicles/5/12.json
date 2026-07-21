@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-chronicles 5:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57029,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57409
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:36:00.364071798Z",
   "translation": "Yoel ⟨o⟩ principal, e Shafam ⟨o⟩ segundo, e Yaanai e Shafat em Basã",
   "tokens": [
     {
       "surface": "יואל",
-      "english": "Yoel"
+      "gloss": "Yoel"
     },
     {
       "surface": "הראש",
-      "english": "⟨o⟩ principal",
+      "gloss": "⟨o⟩ principal",
       "rationale": "הראש means 'the head\/first\/chief'; article and noun construction requires ⟨o⟩ in Portuguese"
     },
     {
       "surface": "ושפם",
-      "english": "e Shafam"
+      "gloss": "e Shafam"
     },
     {
       "surface": "המשנה",
-      "english": "⟨o⟩ segundo",
+      "gloss": "⟨o⟩ segundo",
       "rationale": "המשנה means 'the second'; article and adjective construction requires ⟨o⟩ in Portuguese"
     },
     {
       "surface": "ויעני",
-      "english": "e Yaanai"
+      "gloss": "e Yaanai"
     },
     {
       "surface": "ושפט",
-      "english": "e Shafat"
+      "gloss": "e Shafat"
     },
     {
       "surface": "בבשן",
-      "english": "em Basã"
+      "gloss": "em Basã"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:36:00.364071798Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

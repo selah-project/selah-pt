@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "deuteronomy 9:8",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 383,
-    "prompt_tokens": 25402,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25785
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:16:31.997708579Z",
   "translation": "Também em Joréb provocastes ⟨את⟩ YHWH, e YHWH se irou contra vós para vos ⟨destruir⟩",
   "tokens": [
     {
       "surface": "ובחרב",
-      "english": "Também em Joréb"
+      "gloss": "Também em Joréb"
     },
     {
       "surface": "הקצפתם",
-      "english": "provocastes"
+      "gloss": "provocastes"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויתאנף",
-      "english": "e YHWH se irou"
+      "gloss": "e YHWH se irou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בכם",
-      "english": "contra vós"
+      "gloss": "contra vós"
     },
     {
       "surface": "להשמיד",
-      "english": "para vos"
+      "gloss": "para vos"
     },
     {
       "surface": "אתכם",
-      "english": "⟨destruir⟩"
+      "gloss": "⟨destruir⟩"
     }
-  ],
-  "timestamp": "2026-07-16T13:16:31.997708579Z",
-  "model": "glm-4.5"
+  ]
 }

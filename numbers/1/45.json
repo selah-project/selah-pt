@@ -1,9 +1,91 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "numbers 1:45",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 1,
+  "verse": 45,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:08:55.722659283Z",
+  "translation": "E foram ⟨is⟩ todos ⟨os⟩ contados dos filhos de Yisrael segundo ⟨a⟩ casa de seus pais, de vinte anos de idade e ⟨para⟩ cima, todo ⟨aquele que⟩ sai ⟨para o⟩ exército em Yisrael",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E foram",
+      "marks": "todos os contados"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos",
+      "marks": "os contados"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "⟨os⟩ contados",
+      "marks": "dos filhos de Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos",
+      "marks": "de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael",
+      "marks": ""
+    },
+    {
+      "surface": "לבית",
+      "gloss": "segundo ⟨a⟩ casa",
+      "marks": "de seus pais"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "de seus pais",
+      "marks": ""
+    },
+    {
+      "surface": "מבן",
+      "gloss": "de vinte anos",
+      "marks": "de idade"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vinte",
+      "marks": "anos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos",
+      "marks": "de idade"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e ⟨para⟩ cima",
+      "marks": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo",
+      "marks": "aquele que sai"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "⟨aquele que⟩ sai",
+      "marks": "para o exército"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨o⟩ exército",
+      "marks": "em Israel"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "em Israel",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,99 +95,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 706,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18718,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19424
-  },
-  "translation": "E foram ⟨is⟩ todos ⟨os⟩ contados dos filhos de Yisrael segundo ⟨a⟩ casa de seus pais, de vinte anos de idade e ⟨para⟩ cima, todo ⟨aquele que⟩ sai ⟨para o⟩ exército em Yisrael",
-  "tokens": [
-    {
-      "surface": "ויהיו",
-      "english": "E foram",
-      "marks": "todos os contados"
-    },
-    {
-      "surface": "כל",
-      "english": "todos",
-      "marks": "os contados"
-    },
-    {
-      "surface": "פקודי",
-      "english": "⟨os⟩ contados",
-      "marks": "dos filhos de Israel"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos",
-      "marks": "de Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael",
-      "marks": ""
-    },
-    {
-      "surface": "לבית",
-      "english": "segundo ⟨a⟩ casa",
-      "marks": "de seus pais"
-    },
-    {
-      "surface": "אבתם",
-      "english": "de seus pais",
-      "marks": ""
-    },
-    {
-      "surface": "מבן",
-      "english": "de vinte anos",
-      "marks": "de idade"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vinte",
-      "marks": "anos"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos",
-      "marks": "de idade"
-    },
-    {
-      "surface": "ומעלה",
-      "english": "e ⟨para⟩ cima",
-      "marks": ""
-    },
-    {
-      "surface": "כל",
-      "english": "todo",
-      "marks": "aquele que sai"
-    },
-    {
-      "surface": "יצא",
-      "english": "⟨aquele que⟩ sai",
-      "marks": "para o exército"
-    },
-    {
-      "surface": "צבא",
-      "english": "⟨o⟩ exército",
-      "marks": "em Israel"
-    },
-    {
-      "surface": "בישראל",
-      "english": "em Israel",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:08:55.722659283Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

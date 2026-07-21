@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 147:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62774,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63195
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:16:07.495956184Z",
   "translation": "O ⟨que⟩ dá ⟨a⟩ neve como lã; ⟨Ele⟩ espalha ⟨a⟩ geada como cinzas ⟨את⟩",
   "tokens": [
     {
       "surface": "הנתן",
-      "english": "O ⟨que⟩ dá",
+      "gloss": "O ⟨que⟩ dá",
       "marks": "neve como lã"
     },
     {
       "surface": "שלג",
-      "english": "⟨a⟩ neve"
+      "gloss": "⟨a⟩ neve"
     },
     {
       "surface": "כצמר",
-      "english": "como lã"
+      "gloss": "como lã"
     },
     {
       "surface": "כפור",
-      "english": "geada"
+      "gloss": "geada"
     },
     {
       "surface": "כאפר",
-      "english": "como cinzas"
+      "gloss": "como cinzas"
     },
     {
       "surface": "יפזר",
-      "english": "⟨Ele⟩ espalha"
+      "gloss": "⟨Ele⟩ espalha"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:16:07.495956184Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

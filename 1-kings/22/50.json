@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "1-kings 22:50",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 22,
+  "verse": 50,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:45:08.527814753Z",
+  "translation": "Naquele ⟨tempo⟩, disse Acazias ⟨filho de⟩ Ajáv a Josafé: Vão meus servos com teus servos ⟨nos⟩ navios. Mas Josafé ⟨não⟩ quis.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Naquele ⟨tempo⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Acazias"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨filho de⟩"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajáv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Josafé"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "Vão"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "meus servos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "teus servos"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "⟨nos⟩ navios"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Mas"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "⟨não⟩ quis"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Josafé"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Acabe",
@@ -13,84 +80,6 @@
       "hebrew": "אחאב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 537,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63000,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63537
-  },
-  "translation": "Naquele ⟨tempo⟩, disse Acazias ⟨filho de⟩ Ajáv a Josafé: Vão meus servos com teus servos ⟨nos⟩ navios. Mas Josafé ⟨não⟩ quis.",
-  "tokens": [
-    {
-      "surface": "אז",
-      "english": "Naquele ⟨tempo⟩"
-    },
-    {
-      "surface": "אמר",
-      "english": "disse"
-    },
-    {
-      "surface": "אחזיהו",
-      "english": "Acazias"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨filho de⟩"
-    },
-    {
-      "surface": "אחאב",
-      "english": "Ajáv"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Josafé"
-    },
-    {
-      "surface": "ילכו",
-      "english": "Vão"
-    },
-    {
-      "surface": "עבדי",
-      "english": "meus servos"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "עבדיך",
-      "english": "teus servos"
-    },
-    {
-      "surface": "באניות",
-      "english": "⟨nos⟩ navios"
-    },
-    {
-      "surface": "ולא",
-      "english": "Mas"
-    },
-    {
-      "surface": "אבה",
-      "english": "⟨não⟩ quis"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Josafé"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:45:08.527814753Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

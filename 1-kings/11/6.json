@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-kings 11:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 11,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:26:23.524313933Z",
+  "translation": "e Shlomó ⟨fez⟩ o mal ⟨à⟩ vista de YHWH, e não seguiu plenamente após YHWH, como ⟨o fez⟩ David, seu pai.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E Salomão ⟨fez⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "o mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨à⟩ vista"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "seguiu plenamente"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "após"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "como ⟨o fez⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "David, seu pai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Salomão",
@@ -13,68 +64,6 @@
       "hebrew": "שלמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62611,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63099
-  },
-  "translation": "e Shlomó ⟨fez⟩ o mal ⟨à⟩ vista de YHWH, e não seguiu plenamente após YHWH, como ⟨o fez⟩ David, seu pai.",
-  "tokens": [
-    {
-      "surface": "ויעש",
-      "english": "E Salomão ⟨fez⟩"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "הרע",
-      "english": "o mal"
-    },
-    {
-      "surface": "בעיני",
-      "english": "⟨à⟩ vista"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "מלא",
-      "english": "seguiu plenamente"
-    },
-    {
-      "surface": "אחרי",
-      "english": "após"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "כדוד",
-      "english": "como ⟨o fez⟩"
-    },
-    {
-      "surface": "אביו",
-      "english": "David, seu pai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:26:23.524313933Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

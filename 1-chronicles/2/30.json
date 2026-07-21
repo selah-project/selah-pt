@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "1-chronicles 2:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57041,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57464
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:32:30.680093304Z",
   "translation": "E os filhos de Nadab ⟨foram⟩ Seled e Appaim; e Seled morreu ⟨sem⟩ ⟨filhos⟩.",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "E os filhos de"
+      "gloss": "E os filhos de"
     },
     {
       "surface": "נדב",
-      "english": "Nadab"
+      "gloss": "Nadab"
     },
     {
       "surface": "סלד",
-      "english": "Seled"
+      "gloss": "Seled"
     },
     {
       "surface": "ואפים",
-      "english": "e Appaim"
+      "gloss": "e Appaim"
     },
     {
       "surface": "וימת",
-      "english": "e Seled morreu"
+      "gloss": "e Seled morreu"
     },
     {
       "surface": "סלד",
-      "english": "Seled"
+      "gloss": "Seled"
     },
     {
       "surface": "לא",
-      "english": "⟨sem⟩",
+      "gloss": "⟨sem⟩",
       "marks": "filhos"
     },
     {
       "surface": "בנים",
-      "english": "⟨filhos⟩"
+      "gloss": "⟨filhos⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:32:30.680093304Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

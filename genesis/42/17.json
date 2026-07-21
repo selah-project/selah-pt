@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "genesis 42:17",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 306,
-    "prompt_tokens": 28660,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28966
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:00:33.072892693Z",
   "translation": "E ele os juntou ⟨את⟩ em custódia por três dias",
   "tokens": [
     {
       "surface": "ויאסף",
-      "english": "E ele os juntou"
+      "gloss": "E ele os juntou"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "em custódia"
     },
     {
       "surface": "אל",
-      "english": "em"
+      "gloss": "em"
     },
     {
       "surface": "משמר",
-      "english": "custódia"
+      "gloss": "custódia"
     },
     {
       "surface": "שלשת",
-      "english": "três"
+      "gloss": "três"
     },
     {
       "surface": "ימים",
-      "english": "dias"
+      "gloss": "dias"
     }
-  ],
-  "timestamp": "2026-07-16T15:00:33.072892693Z",
-  "model": "glm-4.5"
+  ]
 }

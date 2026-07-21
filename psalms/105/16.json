@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 105:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62885,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63344
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:49:08.168796705Z",
   "translation": "e ⟨ele⟩ chamou fome sobre ⟨a⟩ terra; ⟨ele⟩ quebrou ⟨o⟩ suporte ⟨de⟩ pão ⟨de⟩ todo ⟨o⟩ povo",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "E ⟨ele⟩ chamou",
+      "gloss": "E ⟨ele⟩ chamou",
       "marks": "fome sobre ⟨a⟩ terra"
     },
     {
       "surface": "רעב",
-      "english": "fome"
+      "gloss": "fome"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "כל",
-      "english": "⟨de⟩ todo ⟨o⟩ povo"
+      "gloss": "⟨de⟩ todo ⟨o⟩ povo"
     },
     {
       "surface": "מטה",
-      "english": "suporte"
+      "gloss": "suporte"
     },
     {
       "surface": "לחם",
-      "english": "⟨de⟩ pão"
+      "gloss": "⟨de⟩ pão"
     },
     {
       "surface": "שבר",
-      "english": "quebrou"
+      "gloss": "quebrou"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:49:08.168796705Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

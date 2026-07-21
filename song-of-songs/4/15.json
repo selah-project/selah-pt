@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "song-of-songs 4:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "song-of-songs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20463,
-    "prompt_tokens_details": {
-      "cached_tokens": 19433
-    },
-    "total_tokens": 20813
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:17:30.269457105Z",
   "translation": "fonte de jardins, poço ⟨de⟩ águas vivas, e correntes ⟨que⟩ fluem ⟨do⟩ Líbano",
   "tokens": [
     {
       "surface": "מעין",
-      "english": "Fonte"
+      "gloss": "Fonte"
     },
     {
       "surface": "גנים",
-      "english": "de jardins"
+      "gloss": "de jardins"
     },
     {
       "surface": "באר",
-      "english": "poço"
+      "gloss": "poço"
     },
     {
       "surface": "מים",
-      "english": "⟨de⟩ águas"
+      "gloss": "⟨de⟩ águas"
     },
     {
       "surface": "חיים",
-      "english": "vivas"
+      "gloss": "vivas"
     },
     {
       "surface": "ונזלים",
-      "english": "e correntes"
+      "gloss": "e correntes"
     },
     {
       "surface": "מן",
-      "english": "⟨que⟩ fluem ⟨do⟩"
+      "gloss": "⟨que⟩ fluem ⟨do⟩"
     },
     {
       "surface": "לבנון",
-      "english": "Líbano"
+      "gloss": "Líbano"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:17:30.269457105Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-chronicles 17:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 17,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:53:00.726269884Z",
+  "translation": "E agora, assim dirás a meu servo, a David: Assim diz YHWH Tzevaot: Eu te tomei ⟨do⟩ pasto, ⟨de⟩ após ⟨as⟩ ovelhas, para seres príncipe sobre meu povo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E agora"
+    },
+    {
+      "surface": "כה",
+      "gloss": "assim"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "dirás"
+    },
+    {
+      "surface": "לעבדי",
+      "gloss": "a meu servo"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "לקחתיך",
+      "gloss": "te tomei"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨do⟩"
+    },
+    {
+      "surface": "הנוה",
+      "gloss": "pasto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "após"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨as⟩"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "para seres"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "príncipe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meu povo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,108 +104,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 740,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58326,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 59066
-  },
-  "translation": "E agora, assim dirás a meu servo, a David: Assim diz YHWH Tzevaot: Eu te tomei ⟨do⟩ pasto, ⟨de⟩ após ⟨as⟩ ovelhas, para seres príncipe sobre meu povo Yisrael.",
-  "tokens": [
-    {
-      "surface": "ועתה",
-      "english": "E agora"
-    },
-    {
-      "surface": "כה",
-      "english": "assim"
-    },
-    {
-      "surface": "תאמר",
-      "english": "dirás"
-    },
-    {
-      "surface": "לעבדי",
-      "english": "a meu servo"
-    },
-    {
-      "surface": "לדויד",
-      "english": "a David"
-    },
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "צבאות",
-      "english": "Tzevaot"
-    },
-    {
-      "surface": "אני",
-      "english": "Eu"
-    },
-    {
-      "surface": "לקחתיך",
-      "english": "te tomei"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨do⟩"
-    },
-    {
-      "surface": "הנוה",
-      "english": "pasto"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "אחרי",
-      "english": "após"
-    },
-    {
-      "surface": "הצאן",
-      "english": "⟨as⟩"
-    },
-    {
-      "surface": "להיות",
-      "english": "para seres"
-    },
-    {
-      "surface": "נגיד",
-      "english": "príncipe"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "עמי",
-      "english": "meu povo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:53:00.726269884Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

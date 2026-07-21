@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "judges 19:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 19,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:09:35.441478187Z",
+  "translation": "E sua concubina ⟨é⟩ infiel contra ele, e vai ⟨dele⟩ para ⟨a⟩ casa de seu pai, para ⟨a⟩ casa de ⟨o⟩ pão ⟨em⟩ Yehudá, e ⟨está⟩ lá dias — quatro meses.",
+  "tokens": [
+    {
+      "surface": "וַ\/תִּזְנֶ֤ה",
+      "gloss": "E sua concubine ⟨é⟩ infiel"
+    },
+    {
+      "surface": "עָלָי\/ו֙",
+      "gloss": "contra ele"
+    },
+    {
+      "surface": "פִּֽילַגְשׁ֔\/וֹ",
+      "gloss": "e sua concubine"
+    },
+    {
+      "surface": "וַ\/תֵּ֤לֶךְ",
+      "gloss": "e vai"
+    },
+    {
+      "surface": "מֵֽ\/אִתּ\/וֹ֙",
+      "gloss": "⟨dele⟩"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "para"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "אָבִ֔י\/הָ",
+      "gloss": "de seu pai"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "para"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "לֶ֖חֶם",
+      "gloss": "⟨do⟩ pão"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "⟨em⟩ Yehudá"
+    },
+    {
+      "surface": "וַ\/תְּהִי",
+      "gloss": "e ⟨está⟩"
+    },
+    {
+      "surface": "שָׁ֕ם",
+      "gloss": "lá"
+    },
+    {
+      "surface": "יָמִ֖ים",
+      "gloss": "dias"
+    },
+    {
+      "surface": "אַרְבָּעָ֥ה",
+      "gloss": "quatro"
+    },
+    {
+      "surface": "חֳדָשִֽׁים",
+      "gloss": "meses"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,92 +88,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 809,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17027,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17836
-  },
-  "translation": "E sua concubina ⟨é⟩ infiel contra ele, e vai ⟨dele⟩ para ⟨a⟩ casa de seu pai, para ⟨a⟩ casa de ⟨o⟩ pão ⟨em⟩ Yehudá, e ⟨está⟩ lá dias — quatro meses.",
-  "tokens": [
-    {
-      "surface": "וַ\/תִּזְנֶ֤ה",
-      "english": "E sua concubine ⟨é⟩ infiel"
-    },
-    {
-      "surface": "עָלָי\/ו֙",
-      "english": "contra ele"
-    },
-    {
-      "surface": "פִּֽילַגְשׁ֔\/וֹ",
-      "english": "e sua concubine"
-    },
-    {
-      "surface": "וַ\/תֵּ֤לֶךְ",
-      "english": "e vai"
-    },
-    {
-      "surface": "מֵֽ\/אִתּ\/וֹ֙",
-      "english": "⟨dele⟩"
-    },
-    {
-      "surface": "אֶל",
-      "english": "para"
-    },
-    {
-      "surface": "בֵּ֣ית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "אָבִ֔י\/הָ",
-      "english": "de seu pai"
-    },
-    {
-      "surface": "אֶל",
-      "english": "para"
-    },
-    {
-      "surface": "בֵּ֥ית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "לֶ֖חֶם",
-      "english": "⟨do⟩ pão"
-    },
-    {
-      "surface": "יְהוּדָ֑ה",
-      "english": "⟨em⟩ Yehudá"
-    },
-    {
-      "surface": "וַ\/תְּהִי",
-      "english": "e ⟨está⟩"
-    },
-    {
-      "surface": "שָׁ֕ם",
-      "english": "lá"
-    },
-    {
-      "surface": "יָמִ֖ים",
-      "english": "dias"
-    },
-    {
-      "surface": "אַרְבָּעָ֥ה",
-      "english": "quatro"
-    },
-    {
-      "surface": "חֳדָשִֽׁים",
-      "english": "meses"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:09:35.441478187Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

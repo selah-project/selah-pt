@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 46:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 46,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:30:25.747529562Z",
+  "translation": "E Ele disse: Eu ⟨sou⟩ ⟨o⟩ Deus de teu pai; não temas descer ⟨à⟩ terra do Mitzráyim, pois Eu farei de ti ⟨uma⟩ grande nação ali.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Ele disse"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨o⟩ Deus"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de teu pai"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "pai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "não"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "temas"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "descer"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "⟨à⟩ terra do Mitzráyim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "⟨uma⟩"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "nação"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ali"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -13,80 +76,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21914,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22445
-  },
-  "translation": "E Ele disse: Eu ⟨sou⟩ ⟨o⟩ Deus de teu pai; não temas descer ⟨à⟩ terra do Mitzráyim, pois Eu farei de ti ⟨uma⟩ grande nação ali.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Ele disse"
-    },
-    {
-      "surface": "אנכי",
-      "english": "Eu"
-    },
-    {
-      "surface": "האל",
-      "english": "⟨o⟩ Deus"
-    },
-    {
-      "surface": "אלהי",
-      "english": "de teu pai"
-    },
-    {
-      "surface": "אביך",
-      "english": "pai"
-    },
-    {
-      "surface": "אל",
-      "english": "não"
-    },
-    {
-      "surface": "תירא",
-      "english": "temas"
-    },
-    {
-      "surface": "מרדה",
-      "english": "descer"
-    },
-    {
-      "surface": "מצרימה",
-      "english": "⟨à⟩ terra do Mitzráyim"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "לגוי",
-      "english": "⟨uma⟩"
-    },
-    {
-      "surface": "גדול",
-      "english": "grande"
-    },
-    {
-      "surface": "אשימך",
-      "english": "nação"
-    },
-    {
-      "surface": "שם",
-      "english": "ali"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:30:25.747529562Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

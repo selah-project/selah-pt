@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "genesis 35:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 35,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:17:51.034526535Z",
+  "translation": "E ⟨os⟩ filhos de Bilhá, escrava de Rajel: ⟨são⟩ Dan e Naftali.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E ⟨os⟩ filhos"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "de Bilhá"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "escrava"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "de Rajel"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "e Naftali"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Raquel",
@@ -13,48 +44,6 @@
       "hebrew": "רחל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21167,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21509
-  },
-  "translation": "E ⟨os⟩ filhos de Bilhá, escrava de Rajel: ⟨são⟩ Dan e Naftali.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E ⟨os⟩ filhos"
-    },
-    {
-      "surface": "בלהה",
-      "english": "de Bilhá"
-    },
-    {
-      "surface": "שפחת",
-      "english": "escrava"
-    },
-    {
-      "surface": "רחל",
-      "english": "de Rajel"
-    },
-    {
-      "surface": "דן",
-      "english": "Dan"
-    },
-    {
-      "surface": "ונפתלי",
-      "english": "e Naftali"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:17:51.034526535Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "exodus 8:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 8,
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:44:03.974098259Z",
+  "translation": "E YHWH fez ⟨conforme⟩ a palavra de Moshé, e removou ⟨os⟩ enxames ⟨de⟩ moscas de Faraó, de seus servos e de seu povo; não ⟨se⟩ manteve ⟨nem⟩ um.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E fez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "⟨conforme⟩ a palavra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshé"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "e removou"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨os⟩ enxames ⟨de⟩ moscas"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "⟨de⟩ Faraó"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "de seus servos"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "e de seu povo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "⟨se⟩ manteve"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨nem⟩ um"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,72 +68,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17273,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17815
-  },
-  "translation": "E YHWH fez ⟨conforme⟩ a palavra de Moshé, e removou ⟨os⟩ enxames ⟨de⟩ moscas de Faraó, de seus servos e de seu povo; não ⟨se⟩ manteve ⟨nem⟩ um.",
-  "tokens": [
-    {
-      "surface": "ויעש",
-      "english": "E fez"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "כדבר",
-      "english": "⟨conforme⟩ a palavra"
-    },
-    {
-      "surface": "משה",
-      "english": "de Moshé"
-    },
-    {
-      "surface": "ויסר",
-      "english": "e removou"
-    },
-    {
-      "surface": "הערב",
-      "english": "⟨os⟩ enxames ⟨de⟩ moscas"
-    },
-    {
-      "surface": "מפרעה",
-      "english": "⟨de⟩ Faraó"
-    },
-    {
-      "surface": "מעבדיו",
-      "english": "de seus servos"
-    },
-    {
-      "surface": "ומעמו",
-      "english": "e de seu povo"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "נשאר",
-      "english": "⟨se⟩ manteve"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨nem⟩ um"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:44:03.974098259Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

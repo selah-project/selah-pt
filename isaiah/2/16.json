@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "isaiah 2:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 2,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:14:32.044943173Z",
+  "translation": "e sobre ⟨as⟩ navios de Tarshish ⟨todos⟩, e sobre ⟨as⟩ imagens de desejo ⟨todas⟩ ⟨as⟩",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨todos⟩"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "⟨as⟩ navios"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "de Tarshish"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨todas⟩"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "⟨as⟩ imagens de desejo"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "⟨as⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Társis",
@@ -13,56 +52,6 @@
       "hebrew": "תרשיש"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18990,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19363
-  },
-  "translation": "e sobre ⟨as⟩ navios de Tarshish ⟨todos⟩, e sobre ⟨as⟩ imagens de desejo ⟨todas⟩ ⟨as⟩",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "E sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨todos⟩"
-    },
-    {
-      "surface": "אניות",
-      "english": "⟨as⟩ navios"
-    },
-    {
-      "surface": "תרשיש",
-      "english": "de Tarshish"
-    },
-    {
-      "surface": "ועל",
-      "english": "e sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨todas⟩"
-    },
-    {
-      "surface": "שכיות",
-      "english": "⟨as⟩ imagens de desejo"
-    },
-    {
-      "surface": "החמדה",
-      "english": "⟨as⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:14:32.044943173Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

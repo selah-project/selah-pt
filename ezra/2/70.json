@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 70,
   "ref": "ezra 2:70",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 2,
+  "verse": 70,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:04:18.431686845Z",
+  "translation": "E habitaram os sacerdotes e os levitas e ⟨do⟩ povo e os cantores e os guardas e os netinins nas suas cidades e todo Yisrael nas suas cidades",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "E habitaram"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "os sacerdotes"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e os levitas"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e ⟨do⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "povo"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "e os cantores"
+    },
+    {
+      "surface": "והשוערים",
+      "gloss": "e os guardas"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "e os netinins"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "nas suas cidades"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "nas suas cidades"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45428,
-    "prompt_tokens_details": {
-      "cached_tokens": 43865
-    },
-    "total_tokens": 45882
-  },
-  "translation": "E habitaram os sacerdotes e os levitas e ⟨do⟩ povo e os cantores e os guardas e os netinins nas suas cidades e todo Yisrael nas suas cidades",
-  "tokens": [
-    {
-      "surface": "וישבו",
-      "english": "E habitaram"
-    },
-    {
-      "surface": "הכהנים",
-      "english": "os sacerdotes"
-    },
-    {
-      "surface": "והלוים",
-      "english": "e os levitas"
-    },
-    {
-      "surface": "ומן",
-      "english": "e ⟨do⟩"
-    },
-    {
-      "surface": "העם",
-      "english": "povo"
-    },
-    {
-      "surface": "והמשררים",
-      "english": "e os cantores"
-    },
-    {
-      "surface": "והשוערים",
-      "english": "e os guardas"
-    },
-    {
-      "surface": "והנתינים",
-      "english": "e os netinins"
-    },
-    {
-      "surface": "בעריהם",
-      "english": "nas suas cidades"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בעריהם",
-      "english": "nas suas cidades"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:04:18.431686845Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

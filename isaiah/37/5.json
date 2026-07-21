@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 37:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 190,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18892,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19082
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:40:26.632273966Z",
   "translation": "E os servos do rei Chizkijahu vieram a Yeshayahu",
   "tokens": [
     {
       "surface": "ויבאו",
-      "english": "E vieram"
+      "gloss": "E vieram"
     },
     {
       "surface": "עבדי",
-      "english": "os servos"
+      "gloss": "os servos"
     },
     {
       "surface": "המלך",
-      "english": "do rei"
+      "gloss": "do rei"
     },
     {
       "surface": "חזקיהו",
-      "english": "Chizkijahu"
+      "gloss": "Chizkijahu"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "ישעיהו",
-      "english": "Yeshayahu"
+      "gloss": "Yeshayahu"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:40:26.632273966Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

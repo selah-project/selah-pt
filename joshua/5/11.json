@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "joshua 5:11",
   "book": "joshua",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23943,
-    "prompt_tokens_details": {
-      "cached_tokens": 22611
-    },
-    "total_tokens": 24406
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:40:49.447455035Z",
   "translation": "E comeram ⟨de⟩ ⟨o⟩ produto da terra ⟨no⟩ dia seguinte ⟨ao⟩ Pésaj, pães ázimos e ⟨grãos⟩ tostados, ⟨no⟩ mesmo dia ⟨este⟩",
   "tokens": [
     {
       "surface": "ויאכלו",
-      "english": "E comeram"
+      "gloss": "E comeram"
     },
     {
       "surface": "מעבור",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "הארץ",
-      "english": "⟨o⟩ produto da terra"
+      "gloss": "⟨o⟩ produto da terra"
     },
     {
       "surface": "ממחרת",
-      "english": "⟨no⟩ dia seguinte"
+      "gloss": "⟨no⟩ dia seguinte"
     },
     {
       "surface": "הפסח",
-      "english": "⟨ao⟩ Pésaj"
+      "gloss": "⟨ao⟩ Pésaj"
     },
     {
       "surface": "מצות",
-      "english": "pães ázimos"
+      "gloss": "pães ázimos"
     },
     {
       "surface": "וקלוי",
-      "english": "e ⟨grãos⟩ tostados"
+      "gloss": "e ⟨grãos⟩ tostados"
     },
     {
       "surface": "בעצם",
-      "english": "⟨no⟩ mesmo"
+      "gloss": "⟨no⟩ mesmo"
     },
     {
       "surface": "היום",
-      "english": "dia"
+      "gloss": "dia"
     },
     {
       "surface": "הזה",
-      "english": "⟨este⟩"
+      "gloss": "⟨este⟩"
     }
-  ],
-  "timestamp": "2026-06-13T05:40:49.447455035Z",
-  "model": "glm-4.5"
+  ]
 }

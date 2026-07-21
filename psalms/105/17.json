@@ -1,9 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 105:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 105,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:49:16.988606105Z",
+  "translation": "Ele enviou ⟨um⟩ homem diante deles: ⟨para⟩ um escravo foi vendido Yosef.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Enviou"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "diante deles"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨um⟩ homem",
+      "marks": "homem"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "⟨para⟩ um escravo",
+      "marks": "escravo"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "foi vendido"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "José",
@@ -13,50 +46,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 105,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62762,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63158
-  },
-  "translation": "Ele enviou ⟨um⟩ homem diante deles: ⟨para⟩ um escravo foi vendido Yosef.",
-  "tokens": [
-    {
-      "surface": "שלח",
-      "english": "Enviou"
-    },
-    {
-      "surface": "לפניהם",
-      "english": "diante deles"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨um⟩ homem",
-      "marks": "homem"
-    },
-    {
-      "surface": "לעבד",
-      "english": "⟨para⟩ um escravo",
-      "marks": "escravo"
-    },
-    {
-      "surface": "נמכר",
-      "english": "foi vendido"
-    },
-    {
-      "surface": "יוסף",
-      "english": "Yosef"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:49:16.988606105Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

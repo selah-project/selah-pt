@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 81:16",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 504,
-    "prompt_tokens": 70263,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70767
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:54.875967976Z",
   "translation": "Os que odeiam YHWH ⟨se⟩ submeteriam a ⟨ele⟩; mas o ⟨tempo⟩ deles ⟨seria⟩ para sempre.",
   "tokens": [
     {
       "surface": "משנאי",
-      "english": "Os que odeiam"
+      "gloss": "Os que odeiam"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יכחשו",
-      "english": "⟨se⟩ submeteriam a ⟨ele⟩"
+      "gloss": "⟨se⟩ submeteriam a ⟨ele⟩"
     },
     {
       "surface": "לו",
-      "english": "",
+      "gloss": "",
       "marks": "a ⟨ele⟩"
     },
     {
       "surface": "ויהי",
-      "english": "mas o ⟨tempo⟩ deles ⟨seria⟩"
+      "gloss": "mas o ⟨tempo⟩ deles ⟨seria⟩"
     },
     {
       "surface": "עתם",
-      "english": "⟨tempo⟩ deles"
+      "gloss": "⟨tempo⟩ deles"
     },
     {
       "surface": "לעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:54.875967976Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 18:9",
   "book": "job",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 324,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27263,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27587
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:45:04.761032268Z",
   "translation": "A gin ⟨shall take⟩ ⟨את⟩ by ⟨the⟩ heel, and a snare ⟨shall lay hold⟩ on him.",
   "tokens": [
     {
       "surface": "יאחז",
-      "english": "shall take"
+      "gloss": "shall take"
     },
     {
       "surface": "בעקב",
-      "english": "by the heel"
+      "gloss": "by the heel"
     },
     {
       "surface": "פח",
-      "english": "a gin"
+      "gloss": "a gin"
     },
     {
       "surface": "יחזק",
-      "english": "shall lay hold"
+      "gloss": "shall lay hold"
     },
     {
       "surface": "עליו",
-      "english": "on him"
+      "gloss": "on him"
     },
     {
       "surface": "צמים",
-      "english": "a snare"
+      "gloss": "a snare"
     }
-  ],
-  "timestamp": "2026-06-13T06:45:04.761032268Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "jeremiah 32:36",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 32,
+  "verse": 36,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:37:05.797543172Z",
+  "translation": "E agora por isso assim ⟨diz⟩ HaShem, Elohim de Yisrael, ⟨para⟩ a cidade esta que vós dizeis: ⟨está⟩ ⟨dada⟩ ⟨em⟩ ⟨a⟩ mão ⟨do⟩ rei ⟨de⟩ Bavel ⟨pela⟩ espada e ⟨pela⟩ fome e ⟨pela⟩ peste",
+  "tokens": [
+    {
+      "surface": "וְ\/עַתָּ֕ה",
+      "gloss": "E agora"
+    },
+    {
+      "surface": "לָ\/כֵ֛ן",
+      "gloss": "por isso"
+    },
+    {
+      "surface": "כֹּֽה",
+      "gloss": "assim"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "⟨diz⟩"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "HaShem"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Elohim de"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "הָ\/עִ֨יר",
+      "gloss": "a cidade"
+    },
+    {
+      "surface": "הַ\/זֹּ֜את",
+      "gloss": "esta"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אַתֶּ֣ם",
+      "gloss": "vós"
+    },
+    {
+      "surface": "אֹמְרִ֗ים",
+      "gloss": "dizeis"
+    },
+    {
+      "surface": "נִתְּנָה֙",
+      "gloss": "⟨está⟩ ⟨dada⟩"
+    },
+    {
+      "surface": "בְּ\/יַ֣ד",
+      "gloss": "⟨em⟩ ⟨a⟩ mão"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "⟨do⟩ rei"
+    },
+    {
+      "surface": "בָּבֶ֔ל",
+      "gloss": "⟨de⟩ Bavel"
+    },
+    {
+      "surface": "בַּ\/חֶ֖רֶב",
+      "gloss": "⟨pela⟩ espada"
+    },
+    {
+      "surface": "וּ\/בָ\/רָעָ֥ב",
+      "gloss": "e ⟨pela⟩ fome"
+    },
+    {
+      "surface": "וּ\/בַ\/דָּֽבֶר",
+      "gloss": "e ⟨pela⟩ peste"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,104 +107,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 947,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18574,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 19521
-  },
-  "translation": "E agora por isso assim ⟨diz⟩ HaShem, Elohim de Yisrael, ⟨para⟩ a cidade esta que vós dizeis: ⟨está⟩ ⟨dada⟩ ⟨em⟩ ⟨a⟩ mão ⟨do⟩ rei ⟨de⟩ Bavel ⟨pela⟩ espada e ⟨pela⟩ fome e ⟨pela⟩ peste",
-  "tokens": [
-    {
-      "surface": "וְ\/עַתָּ֕ה",
-      "english": "E agora"
-    },
-    {
-      "surface": "לָ\/כֵ֛ן",
-      "english": "por isso"
-    },
-    {
-      "surface": "כֹּֽה",
-      "english": "assim"
-    },
-    {
-      "surface": "אָמַ֥ר",
-      "english": "⟨diz⟩"
-    },
-    {
-      "surface": "יְהוָ֖ה",
-      "english": "HaShem"
-    },
-    {
-      "surface": "אֱלֹהֵ֣י",
-      "english": "Elohim de"
-    },
-    {
-      "surface": "יִשְׂרָאֵ֑ל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אֶל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "הָ\/עִ֨יר",
-      "english": "a cidade"
-    },
-    {
-      "surface": "הַ\/זֹּ֜את",
-      "english": "esta"
-    },
-    {
-      "surface": "אֲשֶׁ֣ר",
-      "english": "que"
-    },
-    {
-      "surface": "אַתֶּ֣ם",
-      "english": "vós"
-    },
-    {
-      "surface": "אֹמְרִ֗ים",
-      "english": "dizeis"
-    },
-    {
-      "surface": "נִתְּנָה֙",
-      "english": "⟨está⟩ ⟨dada⟩"
-    },
-    {
-      "surface": "בְּ\/יַ֣ד",
-      "english": "⟨em⟩ ⟨a⟩ mão"
-    },
-    {
-      "surface": "מֶֽלֶךְ",
-      "english": "⟨do⟩ rei"
-    },
-    {
-      "surface": "בָּבֶ֔ל",
-      "english": "⟨de⟩ Bavel"
-    },
-    {
-      "surface": "בַּ\/חֶ֖רֶב",
-      "english": "⟨pela⟩ espada"
-    },
-    {
-      "surface": "וּ\/בָ\/רָעָ֥ב",
-      "english": "e ⟨pela⟩ fome"
-    },
-    {
-      "surface": "וּ\/בַ\/דָּֽבֶר",
-      "english": "e ⟨pela⟩ peste"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:37:05.797543172Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

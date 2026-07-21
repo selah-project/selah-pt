@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "judges 17:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 17,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:07:36.599531889Z",
+  "translation": "E o homem saiu da cidade, de Beit-Léchem de Yehudá, para peregrinar onde pudesse encontrar ⟨um⟩ lugar; e veio à região montanhosa de Efráyim, até ⟨a⟩ casa de Miquéias, conforme fazia sua jornada.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "E... saiu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "o homem"
+    },
+    {
+      "surface": "מהעיר",
+      "gloss": "da cidade"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de Beit-Léchem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Léchem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "para peregrinar"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "onde"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "pudesse encontrar"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e veio"
+    },
+    {
+      "surface": "הר",
+      "gloss": "à região montanhosa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "até"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "de Miquéias"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "conforme fazia"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sua jornada"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,92 +88,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 582,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17097,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17679
-  },
-  "translation": "E o homem saiu da cidade, de Beit-Léchem de Yehudá, para peregrinar onde pudesse encontrar ⟨um⟩ lugar; e veio à região montanhosa de Efráyim, até ⟨a⟩ casa de Miquéias, conforme fazia sua jornada.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "E... saiu"
-    },
-    {
-      "surface": "האיש",
-      "english": "o homem"
-    },
-    {
-      "surface": "מהעיר",
-      "english": "da cidade"
-    },
-    {
-      "surface": "מבית",
-      "english": "de Beit-Léchem"
-    },
-    {
-      "surface": "לחם",
-      "english": "Beit-Léchem"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "לגור",
-      "english": "para peregrinar"
-    },
-    {
-      "surface": "באשר",
-      "english": "onde"
-    },
-    {
-      "surface": "ימצא",
-      "english": "pudesse encontrar"
-    },
-    {
-      "surface": "ויבא",
-      "english": "e veio"
-    },
-    {
-      "surface": "הר",
-      "english": "à região montanhosa"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    },
-    {
-      "surface": "עד",
-      "english": "até"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa"
-    },
-    {
-      "surface": "מיכה",
-      "english": "de Miquéias"
-    },
-    {
-      "surface": "לעשות",
-      "english": "conforme fazia"
-    },
-    {
-      "surface": "דרכו",
-      "english": "sua jornada"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:07:36.599531889Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

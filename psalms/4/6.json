@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 4:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62823,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63138
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:41:42.823302758Z",
   "translation": "Ofereçam sacrifícios de justiça e confiem em YHWH",
   "tokens": [
     {
       "surface": "זבחו",
-      "english": "Ofereçam"
+      "gloss": "Ofereçam"
     },
     {
       "surface": "זבחי",
-      "english": "sacrifícios de"
+      "gloss": "sacrifícios de"
     },
     {
       "surface": "צדק",
-      "english": "justiça"
+      "gloss": "justiça"
     },
     {
       "surface": "ובטחו",
-      "english": "e confiem"
+      "gloss": "e confiem"
     },
     {
       "surface": "אל",
-      "english": "em"
+      "gloss": "em"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:41:42.823302758Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

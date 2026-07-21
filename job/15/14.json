@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 15:14",
   "book": "job",
-  "lang": "pt",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 388,
-    "prompt_tokens": 27546,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27934
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:57:59.898753561Z",
   "translation": "O que ⟨é⟩ o adam, para que ⟨seja⟩ puro, e o nascido de mulher, para que ⟨seja⟩ justo?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "O que"
+      "gloss": "O que"
     },
     {
       "surface": "אנוש",
-      "english": "o adam"
+      "gloss": "o adam"
     },
     {
       "surface": "כי",
-      "english": "para que"
+      "gloss": "para que"
     },
     {
       "surface": "יזכה",
-      "english": "⟨seja⟩ puro"
+      "gloss": "⟨seja⟩ puro"
     },
     {
       "surface": "וכי",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "יצדק",
-      "english": "para que ⟨seja⟩ justo"
+      "gloss": "para que ⟨seja⟩ justo"
     },
     {
       "surface": "ילוד",
-      "english": "o nascido"
+      "gloss": "o nascido"
     },
     {
       "surface": "אשה",
-      "english": "de mulher"
+      "gloss": "de mulher"
     }
-  ],
-  "timestamp": "2026-07-16T15:57:59.898753561Z",
-  "model": "glm-4.5"
+  ]
 }

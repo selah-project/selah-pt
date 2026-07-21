@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "genesis 46:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 46,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:30:13.693361208Z",
+  "translation": "E os filhos de Zevulun: Sered, e Elon, e Jaquiel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos de"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "Sered"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "e Elon"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "e Jaquiel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zebulom",
@@ -13,44 +40,6 @@
       "hebrew": "זבולן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21107,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21526
-  },
-  "translation": "E os filhos de Zevulun: Sered, e Elon, e Jaquiel.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos de"
-    },
-    {
-      "surface": "זבולן",
-      "english": "Zevulun"
-    },
-    {
-      "surface": "סרד",
-      "english": "Sered"
-    },
-    {
-      "surface": "ואלון",
-      "english": "e Elon"
-    },
-    {
-      "surface": "ויחלאל",
-      "english": "e Jaquiel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:30:13.693361208Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

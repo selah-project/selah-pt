@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "1-kings 22:45",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 22,
+  "verse": 45,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:45:01.879442123Z",
+  "translation": "e Josafat fez paz ⟨com⟩ o rei ⟨de⟩ Yisrael",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "E Josafat fez"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Josafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,44 +40,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 267,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62232,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 62499
-  },
-  "translation": "e Josafat fez paz ⟨com⟩ o rei ⟨de⟩ Yisrael",
-  "tokens": [
-    {
-      "surface": "וישלם",
-      "english": "E Josafat fez"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Josafat"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:45:01.879442123Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

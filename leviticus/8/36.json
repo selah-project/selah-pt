@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "leviticus 8:36",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 442,
-    "prompt_tokens": 25129,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25571
-  },
+  "verse": 36,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:40:00.121670561Z",
   "translation": "E Aharon e seus filhos fizeram ⟨את⟩ todas as coisas que YHWH ordenou pela mão de Moshé",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "e fizeram"
+      "gloss": "e fizeram"
     },
     {
       "surface": "אהרן",
-      "english": "Aharon"
+      "gloss": "Aharon"
     },
     {
       "surface": "ובניו",
-      "english": "e seus filhos"
+      "gloss": "e seus filhos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todas as coisas"
     },
     {
       "surface": "כל",
-      "english": "todas as"
+      "gloss": "todas as"
     },
     {
       "surface": "הדברים",
-      "english": "coisas"
+      "gloss": "coisas"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "צוה",
-      "english": "ordenou"
+      "gloss": "ordenou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ביד",
-      "english": "pela mão"
+      "gloss": "pela mão"
     },
     {
       "surface": "משה",
-      "english": "de Moshé"
+      "gloss": "de Moshé"
     }
-  ],
-  "timestamp": "2026-07-16T16:40:00.121670561Z",
-  "model": "glm-4.5"
+  ]
 }

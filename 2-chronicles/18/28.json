@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "2-chronicles 18:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 18,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:25:37.798418267Z",
+  "translation": "Então subiu o rei de Yisrael e Yehoshafat, o rei de Yehudá, ⟨para⟩ Ramot-Gil‘ad",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Então subiu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "e Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil‘ad"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58197,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58580
-  },
-  "translation": "Então subiu o rei de Yisrael e Yehoshafat, o rei de Yehudá, ⟨para⟩ Ramot-Gil‘ad",
-  "tokens": [
-    {
-      "surface": "ויעל",
-      "english": "Então subiu"
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויהושפט",
-      "english": "e Yehoshafat"
-    },
-    {
-      "surface": "מלך",
-      "english": "o rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "רמת",
-      "english": "Ramot"
-    },
-    {
-      "surface": "גלעד",
-      "english": "Gil‘ad"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:25:37.798418267Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

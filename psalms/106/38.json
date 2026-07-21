@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 38,
   "ref": "psalms 106:38",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 106,
+  "verse": 38,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:51:34.016102477Z",
+  "translation": "E eles derramaram ⟨o⟩ sangue inocente, ⟨o⟩ sangue de seus filhos e de suas filhas, que ⟨eles⟩ sacrificaram ⟨para⟩ ⟨os⟩ ídolos ⟨de⟩ Kenaan, e ⟨a⟩ terra foi profanada com sangue.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "E eles derramaram"
+    },
+    {
+      "surface": "דם",
+      "gloss": "⟨o⟩ sangue"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "inocente"
+    },
+    {
+      "surface": "דם",
+      "gloss": "⟨o⟩ sangue"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "de seus filhos"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "e de suas filhas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "⟨eles⟩ sacrificaram"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "⟨para⟩ ⟨os⟩ ídolos ⟨de⟩"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "e ⟨a⟩ terra foi profanada"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨a⟩ terra"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "com sangue"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Canaã",
@@ -13,76 +72,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 106,
-  "usage": {
-    "completion_tokens": 787,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63496,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 64283
-  },
-  "translation": "E eles derramaram ⟨o⟩ sangue inocente, ⟨o⟩ sangue de seus filhos e de suas filhas, que ⟨eles⟩ sacrificaram ⟨para⟩ ⟨os⟩ ídolos ⟨de⟩ Kenaan, e ⟨a⟩ terra foi profanada com sangue.",
-  "tokens": [
-    {
-      "surface": "וישפכו",
-      "english": "E eles derramaram"
-    },
-    {
-      "surface": "דם",
-      "english": "⟨o⟩ sangue"
-    },
-    {
-      "surface": "נקי",
-      "english": "inocente"
-    },
-    {
-      "surface": "דם",
-      "english": "⟨o⟩ sangue"
-    },
-    {
-      "surface": "בניהם",
-      "english": "de seus filhos"
-    },
-    {
-      "surface": "ובנותיהם",
-      "english": "e de suas filhas"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "זבחו",
-      "english": "⟨eles⟩ sacrificaram"
-    },
-    {
-      "surface": "לעצבי",
-      "english": "⟨para⟩ ⟨os⟩ ídolos ⟨de⟩"
-    },
-    {
-      "surface": "כנען",
-      "english": "Kenaan"
-    },
-    {
-      "surface": "ותחנף",
-      "english": "e ⟨a⟩ terra foi profanada"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨a⟩ terra"
-    },
-    {
-      "surface": "בדמים",
-      "english": "com sangue"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:51:34.016102477Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

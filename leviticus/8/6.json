@@ -1,60 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "leviticus 8:6",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 467,
-    "prompt_tokens": 25128,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25595
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:39:13.191386085Z",
   "translation": "E Moshé trouxe ⟨את⟩ Aharon e ⟨את⟩ seus filhos, e os lavou em ⟨águas⟩.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "english": "E Moshé trouxe"
+      "gloss": "E Moshé trouxe"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Aharon"
     },
     {
       "surface": "אהרן",
-      "english": "Aharon"
+      "gloss": "Aharon"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "seus filhos"
     },
     {
       "surface": "בניו",
-      "english": "seus filhos"
+      "gloss": "seus filhos"
     },
     {
       "surface": "וירחץ",
-      "english": "e os lavou"
+      "gloss": "e os lavou"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "águas"
     },
     {
       "surface": "במים",
-      "english": "⟨águas⟩"
+      "gloss": "⟨águas⟩"
     }
-  ],
-  "timestamp": "2026-07-16T16:39:13.191386085Z",
-  "model": "glm-4.5"
+  ]
 }

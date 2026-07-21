@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 4:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 4,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:34:20.201527079Z",
+  "translation": "Filhos de Yehudá: Péretz, Hetzron, e Carmi, e Hur, e Shobal.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Filhos"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Péretz"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetzron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "e Carmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "e Hur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "e Shobal"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,52 +48,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57019,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 57338
-  },
-  "translation": "Filhos de Yehudá: Péretz, Hetzron, e Carmi, e Hur, e Shobal.",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Filhos"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "פרץ",
-      "english": "Péretz"
-    },
-    {
-      "surface": "חצרון",
-      "english": "Hetzron"
-    },
-    {
-      "surface": "וכרמי",
-      "english": "e Carmi"
-    },
-    {
-      "surface": "וחור",
-      "english": "e Hur"
-    },
-    {
-      "surface": "ושובל",
-      "english": "e Shobal"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:34:20.201527079Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

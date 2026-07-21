@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 104:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 325,
-    "prompt_tokens": 70335,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70660
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:45:51.609105939Z",
   "translation": "Ele rega ⟨as⟩ montanhas ⟨de⟩ suas câmaras altas; ⟨pelo⟩ fruto de tuas obras ⟨a⟩ terra se farta.",
   "tokens": [
     {
       "surface": "משקה",
-      "english": "rega"
+      "gloss": "rega"
     },
     {
       "surface": "הרים",
-      "english": "⟨as⟩ montanhas"
+      "gloss": "⟨as⟩ montanhas"
     },
     {
       "surface": "מעליותיו",
-      "english": "⟨de⟩ suas câmaras altas"
+      "gloss": "⟨de⟩ suas câmaras altas"
     },
     {
       "surface": "מפרי",
-      "english": "⟨pelo⟩ fruto"
+      "gloss": "⟨pelo⟩ fruto"
     },
     {
       "surface": "מעשיך",
-      "english": "de tuas obras"
+      "gloss": "de tuas obras"
     },
     {
       "surface": "תשבע",
-      "english": "se farta"
+      "gloss": "se farta"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     }
-  ],
-  "timestamp": "2026-07-16T17:45:51.609105939Z",
-  "model": "glm-4.5"
+  ]
 }

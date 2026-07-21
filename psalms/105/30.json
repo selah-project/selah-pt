@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "psalms 105:30",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 365,
-    "prompt_tokens": 70136,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70501
-  },
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:46:54.940743618Z",
   "translation": "A terra deles ⟨foi⟩ infestada de ⟨את⟩ rãs, nas câmaras de seus reis.",
   "tokens": [
     {
       "surface": "שרץ",
-      "english": "foi infestada"
+      "gloss": "foi infestada"
     },
     {
       "surface": "ארצם",
-      "english": "A terra deles"
+      "gloss": "A terra deles"
     },
     {
       "surface": "צפרדעים",
-      "english": "rãs",
+      "gloss": "rãs",
       "marks": "rãs"
     },
     {
       "surface": "בחדרי",
-      "english": "nas câmaras"
+      "gloss": "nas câmaras"
     },
     {
       "surface": "מלכיהם",
-      "english": "de seus reis"
+      "gloss": "de seus reis"
     }
-  ],
-  "timestamp": "2026-07-16T17:46:54.940743618Z",
-  "model": "glm-4.5"
+  ]
 }

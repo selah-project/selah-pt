@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "numbers 3:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 3,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:10:17.019565740Z",
+  "translation": "E ⟨são⟩ estes ⟨os⟩ filhos de Leví ⟨em⟩ seus nomes: Gershon, Kohath e Merari",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E ⟨são⟩",
+      "marks": ""
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estes ⟨os⟩",
+      "marks": "filhos de Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos",
+      "marks": ""
+    },
+    {
+      "surface": "לוי",
+      "gloss": "de Leví",
+      "marks": ""
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "⟨em⟩ seus nomes",
+      "marks": ""
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon",
+      "marks": ""
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "Kohath",
+      "marks": ""
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "e Merari",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Levi",
@@ -13,64 +60,6 @@
       "hebrew": "לוי"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17988,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 18458
-  },
-  "translation": "E ⟨são⟩ estes ⟨os⟩ filhos de Leví ⟨em⟩ seus nomes: Gershon, Kohath e Merari",
-  "tokens": [
-    {
-      "surface": "ויהיו",
-      "english": "E ⟨são⟩",
-      "marks": ""
-    },
-    {
-      "surface": "אלה",
-      "english": "estes ⟨os⟩",
-      "marks": "filhos de Levi"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos",
-      "marks": ""
-    },
-    {
-      "surface": "לוי",
-      "english": "de Leví",
-      "marks": ""
-    },
-    {
-      "surface": "בשמתם",
-      "english": "⟨em⟩ seus nomes",
-      "marks": ""
-    },
-    {
-      "surface": "גרשון",
-      "english": "Gershon",
-      "marks": ""
-    },
-    {
-      "surface": "וקהת",
-      "english": "Kohath",
-      "marks": ""
-    },
-    {
-      "surface": "ומררי",
-      "english": "e Merari",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:10:17.019565740Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

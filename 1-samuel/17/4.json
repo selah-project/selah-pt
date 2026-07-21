@@ -1,9 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-samuel 17:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 17,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:28:05.988579334Z",
+  "translation": "E saiu ⟨um⟩ homem ⟨dos⟩ duelistas de ⟨as⟩ tendas ⟨dos⟩ filisteus, Golyat ⟨é⟩ ⟨o⟩ seu nome, de Gate, ⟨a⟩ sua altura ⟨era⟩ seis côvados e ⟨um⟩ palmo",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E saiu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨um⟩ homem",
+      "marks": "homem"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "⟨dos⟩ duelistas",
+      "marks": "duelistas"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "de ⟨as⟩ tendas",
+      "marks": "tendas"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨dos⟩ filisteus",
+      "marks": "filisteus"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨é⟩ ⟨o⟩ seu nome",
+      "marks": "nome"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "de Gate"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "⟨a⟩ sua altura",
+      "marks": "altura"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "côvados"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "e ⟨um⟩ palmo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Golias",
@@ -13,78 +74,6 @@
       "hebrew": "גלית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 720,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16826,
-    "prompt_tokens_details": {
-      "cached_tokens": 15391
-    },
-    "total_tokens": 17546
-  },
-  "translation": "E saiu ⟨um⟩ homem ⟨dos⟩ duelistas de ⟨as⟩ tendas ⟨dos⟩ filisteus, Golyat ⟨é⟩ ⟨o⟩ seu nome, de Gate, ⟨a⟩ sua altura ⟨era⟩ seis côvados e ⟨um⟩ palmo",
-  "tokens": [
-    {
-      "surface": "ויצא",
-      "english": "E saiu"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨um⟩ homem",
-      "marks": "homem"
-    },
-    {
-      "surface": "הבנים",
-      "english": "⟨dos⟩ duelistas",
-      "marks": "duelistas"
-    },
-    {
-      "surface": "ממחנות",
-      "english": "de ⟨as⟩ tendas",
-      "marks": "tendas"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨dos⟩ filisteus",
-      "marks": "filisteus"
-    },
-    {
-      "surface": "גלית",
-      "english": "Golyat"
-    },
-    {
-      "surface": "שמו",
-      "english": "⟨é⟩ ⟨o⟩ seu nome",
-      "marks": "nome"
-    },
-    {
-      "surface": "מגת",
-      "english": "de Gate"
-    },
-    {
-      "surface": "גבהו",
-      "english": "⟨a⟩ sua altura",
-      "marks": "altura"
-    },
-    {
-      "surface": "שש",
-      "english": "seis"
-    },
-    {
-      "surface": "אמות",
-      "english": "côvados"
-    },
-    {
-      "surface": "וזרת",
-      "english": "e ⟨um⟩ palmo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:28:05.988579334Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

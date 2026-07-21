@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-chronicles 12:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57172,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57581
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:46:27.048209401Z",
   "translation": "e Joelah, e Zebadiah, filhos de Jeroham ⟨de⟩ Gedor",
   "tokens": [
     {
       "surface": "ויועאלה",
-      "english": "E Joelah",
+      "gloss": "E Joelah",
       "notes": "Hapax legomenon — nome que ocorre apenas aqui no Tanaj."
     },
     {
       "surface": "וזבדיה",
-      "english": "e Zebadiah"
+      "gloss": "e Zebadiah"
     },
     {
       "surface": "בני",
-      "english": "filhos de"
+      "gloss": "filhos de"
     },
     {
       "surface": "ירחם",
-      "english": "Jeroham"
+      "gloss": "Jeroham"
     },
     {
       "surface": "מן",
-      "english": "⟨de⟩",
+      "gloss": "⟨de⟩",
       "marks": "Gedor"
     },
     {
       "surface": "הגדור",
-      "english": "Gedor",
+      "gloss": "Gedor",
       "notes": "Hapax legomenon — nome que ocorre apenas aqui no Tanaj."
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:46:27.048209401Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

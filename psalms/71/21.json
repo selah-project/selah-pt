@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 71:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 237,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62621,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 62858
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:26:15.506984320Z",
   "translation": "You shall increase my greatness, and turn again and comfort me.",
   "tokens": [
     {
       "surface": "תרב",
-      "english": "You shall increase"
+      "gloss": "You shall increase"
     },
     {
       "surface": "גדלתי",
-      "english": "my greatness"
+      "gloss": "my greatness"
     },
     {
       "surface": "ותסב",
-      "english": "and turn again"
+      "gloss": "and turn again"
     },
     {
       "surface": "תנחמני",
-      "english": "and comfort me"
+      "gloss": "and comfort me"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:26:15.506984320Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,29 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 25:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 703,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62709,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63412
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:55:16.803868488Z",
   "translation": "Que a integridade e a retidão ⟨guarde⟩-me, pois em ti ⟨espero⟩.",
   "tokens": [
     {
       "surface": "תם",
-      "english": "Integridade",
+      "gloss": "Integridade",
       "lemma": 8537,
       "gv": 440,
       "freq": 28,
@@ -31,7 +19,7 @@
     },
     {
       "surface": "וישר",
-      "english": "e retidão",
+      "gloss": "e retidão",
       "lemma": "c\/3476",
       "gv": 516,
       "freq": 17,
@@ -39,7 +27,7 @@
     },
     {
       "surface": "יצרוני",
-      "english": "⟨guarde⟩-me",
+      "gloss": "⟨guarde⟩-me",
       "lemma": 5341,
       "gv": 366,
       "freq": 2,
@@ -47,7 +35,7 @@
     },
     {
       "surface": "כי",
-      "english": "pois",
+      "gloss": "pois",
       "lemma": 3588,
       "gv": 30,
       "freq": 4376,
@@ -55,14 +43,15 @@
     },
     {
       "surface": "קויתיך",
-      "english": "em ti ⟨espero⟩",
+      "gloss": "em ti ⟨espero⟩",
       "lemma": 6960,
       "gv": 546,
       "freq": 1,
       "rationale": "HAPAX; 'esperar, aguardar com confiança'; o pronome sufixo 'em ti' está incorporado"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:55:16.803868488Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

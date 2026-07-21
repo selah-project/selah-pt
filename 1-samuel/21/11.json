@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-samuel 21:11",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24153,
-    "prompt_tokens_details": {
-      "cached_tokens": 22715
-    },
-    "total_tokens": 24459
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:51:56.048443833Z",
   "translation": "E David se levantou e fugiu naquele dia de diante de Saul, e veio a Aquis, rei de Gate.",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "E se levantou"
+      "gloss": "E se levantou"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "ויברח",
-      "english": "e fugiu"
+      "gloss": "e fugiu"
     },
     {
       "surface": "ביום",
-      "english": "naquele dia"
+      "gloss": "naquele dia"
     },
     {
       "surface": "ההוא",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "מפני",
-      "english": "de diante de"
+      "gloss": "de diante de"
     },
     {
       "surface": "שאול",
-      "english": "Saul"
+      "gloss": "Saul"
     },
     {
       "surface": "ויבא",
-      "english": "e veio"
+      "gloss": "e veio"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "אכיש",
-      "english": "Aquis"
+      "gloss": "Aquis"
     },
     {
       "surface": "מלך",
-      "english": "rei"
+      "gloss": "rei"
     },
     {
       "surface": "גת",
-      "english": "de Gate"
+      "gloss": "de Gate"
     }
-  ],
-  "timestamp": "2026-06-13T05:51:56.048443833Z",
-  "model": "glm-4.5"
+  ]
 }

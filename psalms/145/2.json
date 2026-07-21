@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 145:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62901,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63360
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:14:56.764468468Z",
   "translation": "Em todo dia eu te abençoarei ⟨e⟩ louvarei o teu nome para sempre ⟨e⟩ ⟨para⟩ sempre",
   "tokens": [
     {
       "surface": "בכל",
-      "english": "Em todo"
+      "gloss": "Em todo"
     },
     {
       "surface": "יום",
-      "english": "dia"
+      "gloss": "dia"
     },
     {
       "surface": "אברכך",
-      "english": "eu te abençoarei"
+      "gloss": "eu te abençoarei"
     },
     {
       "surface": "ואהללה",
-      "english": "⟨e⟩ louvarei"
+      "gloss": "⟨e⟩ louvarei"
     },
     {
       "surface": "שמך",
-      "english": "o teu nome"
+      "gloss": "o teu nome"
     },
     {
       "surface": "לעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "ועד",
-      "english": "⟨e⟩ ⟨para⟩ sempre"
+      "gloss": "⟨e⟩ ⟨para⟩ sempre"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:14:56.764468468Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 138:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 138,
-  "usage": {
-    "completion_tokens": 591,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62873,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63464
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:10:49.750686637Z",
   "translation": "⟨No⟩ dia em que clamei, ⟨Tu⟩ me respondeste e fortaleceste-me ⟨com⟩ fortaleza ⟨na⟩ minha alma.",
   "tokens": [
     {
       "surface": "ביום",
-      "english": "⟨No⟩ dia"
+      "gloss": "⟨No⟩ dia"
     },
     {
       "surface": "קראתי",
-      "english": "clamei"
+      "gloss": "clamei"
     },
     {
       "surface": "ותענני",
-      "english": "⟨Tu⟩ me respondeste"
+      "gloss": "⟨Tu⟩ me respondeste"
     },
     {
       "surface": "תרהבני",
-      "english": "fortaleceste-me"
+      "gloss": "fortaleceste-me"
     },
     {
       "surface": "בנפשי",
-      "english": "⟨na⟩ minha alma"
+      "gloss": "⟨na⟩ minha alma"
     },
     {
       "surface": "עז",
-      "english": "⟨com⟩ fortaleza"
+      "gloss": "⟨com⟩ fortaleza"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:10:49.750686637Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

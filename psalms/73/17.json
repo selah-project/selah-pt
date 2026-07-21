@@ -1,9 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 73:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 73,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:27:38.760323036Z",
+  "translation": "Até eu entrar ⟨nos⟩ Mikdashs ⟨de⟩ Elohim, ⟨então⟩ eu entenderei ⟨o⟩ fim ⟨deles⟩",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Até",
+      "marks": "eu entrar"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "eu entrar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨nos⟩",
+      "marks": "santuários"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "Mikdashs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨de⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "⟨então⟩ eu entenderei"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "⟨o⟩ fim ⟨deles⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "santuário",
@@ -13,55 +51,6 @@
       "hebrew": "מקדש"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 73,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62828,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63273
-  },
-  "translation": "Até eu entrar ⟨nos⟩ Mikdashs ⟨de⟩ Elohim, ⟨então⟩ eu entenderei ⟨o⟩ fim ⟨deles⟩",
-  "tokens": [
-    {
-      "surface": "עד",
-      "english": "Até",
-      "marks": "eu entrar"
-    },
-    {
-      "surface": "אבוא",
-      "english": "eu entrar"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨nos⟩",
-      "marks": "santuários"
-    },
-    {
-      "surface": "מקדשי",
-      "english": "Mikdashs"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨de⟩",
-      "marks": "Elohim"
-    },
-    {
-      "surface": "אבינה",
-      "english": "⟨então⟩ eu entenderei"
-    },
-    {
-      "surface": "לאחריתם",
-      "english": "⟨o⟩ fim ⟨deles⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:27:38.760323036Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

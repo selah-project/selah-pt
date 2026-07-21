@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "genesis 12:9",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28403,
-    "prompt_tokens_details": {
-      "cached_tokens": 27646
-    },
-    "total_tokens": 28675
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:04:38.817932145Z",
   "translation": "E Avram ⟨foi⟩ caminhando e ⟨ele⟩ viajou ⟨em⟩ ⟨direção⟩ ⟨a⟩ ⟨o⟩ Sul.",
   "tokens": [
     {
       "surface": "ויסע",
-      "english": "E Avram ⟨foi⟩"
+      "gloss": "E Avram ⟨foi⟩"
     },
     {
       "surface": "אברם",
-      "english": "Avram"
+      "gloss": "Avram"
     },
     {
       "surface": "הלוך",
-      "english": "caminhando"
+      "gloss": "caminhando"
     },
     {
       "surface": "ונסוע",
-      "english": "e ⟨ele⟩ viajou"
+      "gloss": "e ⟨ele⟩ viajou"
     },
     {
       "surface": "הנגבה",
-      "english": "⟨em⟩ ⟨direção⟩ ⟨a⟩ ⟨o⟩ Sul"
+      "gloss": "⟨em⟩ ⟨direção⟩ ⟨a⟩ ⟨o⟩ Sul"
     }
-  ],
-  "timestamp": "2026-06-13T05:04:38.817932145Z",
-  "model": "glm-4.5"
+  ]
 }

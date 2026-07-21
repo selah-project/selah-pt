@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "2-kings 19:17",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 293,
-    "prompt_tokens": 24530,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24823
-  },
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:41:07.251979405Z",
   "translation": "Verily, YHWH, the kings of Assyria have laid waste ⟨את⟩ the nations and ⟨את⟩ their lands",
   "tokens": [
     {
       "surface": "אמנם",
-      "english": "Verily"
+      "gloss": "Verily"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "החריבו",
-      "english": "have laid waste"
+      "gloss": "have laid waste"
     },
     {
       "surface": "מלכי",
-      "english": "the kings of"
+      "gloss": "the kings of"
     },
     {
       "surface": "אשור",
-      "english": "Assyria"
+      "gloss": "Assyria"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "the nations"
     },
     {
       "surface": "הגוים",
-      "english": "the nations"
+      "gloss": "the nations"
     },
     {
       "surface": "ואת",
-      "english": "and ⟨את⟩",
+      "gloss": "and ⟨את⟩",
       "marks": "their lands"
     },
     {
       "surface": "ארצם",
-      "english": "their lands"
+      "gloss": "their lands"
     }
-  ],
-  "timestamp": "2026-07-16T12:41:07.251979405Z",
-  "model": "glm-4.5"
+  ]
 }

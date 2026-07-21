@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ruth 3:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ruth",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 273,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20796,
-    "prompt_tokens_details": {
-      "cached_tokens": 19951
-    },
-    "total_tokens": 21069
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:22:25.092430804Z",
   "translation": "E ela disse a ela: 'Tudo ⟨o que⟩ tu disseres, eu farei.'",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "E ela disse",
+      "gloss": "E ela disse",
       "marks": ""
     },
     {
       "surface": "אליה",
-      "english": "a ela",
+      "gloss": "a ela",
       "marks": ""
     },
     {
       "surface": "כל",
-      "english": "Tudo",
+      "gloss": "Tudo",
       "marks": ""
     },
     {
       "surface": "אשר",
-      "english": "⟨o que⟩",
+      "gloss": "⟨o que⟩",
       "marks": "tu disseres"
     },
     {
       "surface": "תאמרי",
-      "english": "tu disseres",
+      "gloss": "tu disseres",
       "marks": ""
     },
     {
       "surface": "אעשה",
-      "english": "eu farei",
+      "gloss": "eu farei",
       "marks": ""
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:22:25.092430804Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,142 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 28:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 28,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:03:54.089266342Z",
+  "translation": "E YHWH, o Elohim de Yisrael, escolheu ⟨a⟩ mim dentre toda ⟨a⟩ casa ⟨de⟩ meu pai para ser rei sobre Yisrael para sempre, pois em Yehudá escolheu ⟨um⟩ príncipe, e na casa ⟨de⟩ Yehudá, ⟨a⟩ casa ⟨de⟩ meu pai, e entre ⟨os⟩ filhos ⟨de⟩ meu pai, em mim apeteceu para me fazer rei sobre todo ⟨o⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "E escolheu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "o Elohim de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨a⟩ mim",
+      "marks": "mim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dentre toda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa",
+      "marks": "casa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "⟨de⟩ meu pai",
+      "marks": "meu pai"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "para ser"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "para sempre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "em Judá"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "escolheu"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "⟨um⟩ príncipe",
+      "marks": "príncipe"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "e na casa",
+      "marks": "casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩ casa",
+      "marks": "casa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "⟨de⟩ meu pai",
+      "marks": "meu pai"
+    },
+    {
+      "surface": "ובבני",
+      "gloss": "e entre ⟨os⟩",
+      "marks": "os"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "filhos ⟨de⟩ meu pai",
+      "marks": "filhos de meu pai"
+    },
+    {
+      "surface": "בי",
+      "gloss": "em mim"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "apeteceu"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "para me fazer rei"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo ⟨o⟩",
+      "marks": "todo o"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -34,150 +167,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 987,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59059,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 60046
-  },
-  "translation": "E YHWH, o Elohim de Yisrael, escolheu ⟨a⟩ mim dentre toda ⟨a⟩ casa ⟨de⟩ meu pai para ser rei sobre Yisrael para sempre, pois em Yehudá escolheu ⟨um⟩ príncipe, e na casa ⟨de⟩ Yehudá, ⟨a⟩ casa ⟨de⟩ meu pai, e entre ⟨os⟩ filhos ⟨de⟩ meu pai, em mim apeteceu para me fazer rei sobre todo ⟨o⟩ Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויבחר",
-      "english": "E escolheu"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "o Elohim de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בי",
-      "english": "⟨a⟩ mim",
-      "marks": "mim"
-    },
-    {
-      "surface": "מכל",
-      "english": "dentre toda"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa",
-      "marks": "casa"
-    },
-    {
-      "surface": "אבי",
-      "english": "⟨de⟩ meu pai",
-      "marks": "meu pai"
-    },
-    {
-      "surface": "להיות",
-      "english": "para ser"
-    },
-    {
-      "surface": "למלך",
-      "english": "rei"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לעולם",
-      "english": "para sempre"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "em Judá"
-    },
-    {
-      "surface": "בחר",
-      "english": "escolheu"
-    },
-    {
-      "surface": "לנגיד",
-      "english": "⟨um⟩ príncipe",
-      "marks": "príncipe"
-    },
-    {
-      "surface": "ובבית",
-      "english": "e na casa",
-      "marks": "casa"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩ casa",
-      "marks": "casa"
-    },
-    {
-      "surface": "אבי",
-      "english": "⟨de⟩ meu pai",
-      "marks": "meu pai"
-    },
-    {
-      "surface": "ובבני",
-      "english": "e entre ⟨os⟩",
-      "marks": "os"
-    },
-    {
-      "surface": "אבי",
-      "english": "filhos ⟨de⟩ meu pai",
-      "marks": "filhos de meu pai"
-    },
-    {
-      "surface": "בי",
-      "english": "em mim"
-    },
-    {
-      "surface": "רצה",
-      "english": "apeteceu"
-    },
-    {
-      "surface": "להמליך",
-      "english": "para me fazer rei"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "todo ⟨o⟩",
-      "marks": "todo o"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:03:54.089266342Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

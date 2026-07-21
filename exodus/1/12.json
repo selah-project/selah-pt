@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 1:12",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 452,
-    "prompt_tokens": 24762,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25214
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:42:26.064645738Z",
   "translation": "E quanto mais ⟨o⟩ oprimiam, tanto mais se multiplicavam e tanto mais se espalhavam; e se afligiam por causa dos filhos de Israel.",
   "tokens": [
     {
       "surface": "וכאשר",
-      "english": "E quanto mais"
+      "gloss": "E quanto mais"
     },
     {
       "surface": "יענו",
-      "english": "⟨o⟩ oprimiam"
+      "gloss": "⟨o⟩ oprimiam"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o"
     },
     {
       "surface": "כן",
-      "english": "tanto mais"
+      "gloss": "tanto mais"
     },
     {
       "surface": "ירבה",
-      "english": "se multiplicavam"
+      "gloss": "se multiplicavam"
     },
     {
       "surface": "וכן",
-      "english": "e tanto mais"
+      "gloss": "e tanto mais"
     },
     {
       "surface": "יפרץ",
-      "english": "se espalhavam"
+      "gloss": "se espalhavam"
     },
     {
       "surface": "ויקצו",
-      "english": "e se afligiam"
+      "gloss": "e se afligiam"
     },
     {
       "surface": "מפני",
-      "english": "por causa de"
+      "gloss": "por causa de"
     },
     {
       "surface": "בני",
-      "english": "os filhos de"
+      "gloss": "os filhos de"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     }
-  ],
-  "timestamp": "2026-07-16T13:42:26.064645738Z",
-  "model": "glm-4.5"
+  ]
 }

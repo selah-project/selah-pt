@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 111:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62773,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63100
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:54:47.801189878Z",
   "translation": "Eles ⟨são⟩ firmes ⟨para⟩ sempre ⟨e⟩ para sempre, feitos ⟨em⟩ verdade e retidão.",
   "tokens": [
     {
       "surface": "סמוכים",
-      "english": "Eles ⟨são⟩ firmes"
+      "gloss": "Eles ⟨são⟩ firmes"
     },
     {
       "surface": "לעד",
-      "english": "⟨para⟩ sempre"
+      "gloss": "⟨para⟩ sempre"
     },
     {
       "surface": "לעולם",
-      "english": "⟨e⟩ para sempre"
+      "gloss": "⟨e⟩ para sempre"
     },
     {
       "surface": "עשוים",
-      "english": "feitos"
+      "gloss": "feitos"
     },
     {
       "surface": "באמת",
-      "english": "⟨em⟩ verdade"
+      "gloss": "⟨em⟩ verdade"
     },
     {
       "surface": "וישר",
-      "english": "e retidão"
+      "gloss": "e retidão"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:54:47.801189878Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 11:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 11,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:14:21.883498361Z",
+  "translation": "A palavra que foi ⟨para⟩ Yirmeyahu ⟨de⟩ YHWH ⟨para⟩ dizer",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "A palavra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "היה",
+      "gloss": "foi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨para⟩ dizer"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeremias",
@@ -13,56 +52,6 @@
       "hebrew": "ירמיה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 310,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17283,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 17593
-  },
-  "translation": "A palavra que foi ⟨para⟩ Yirmeyahu ⟨de⟩ YHWH ⟨para⟩ dizer",
-  "tokens": [
-    {
-      "surface": "הדבר",
-      "english": "A palavra"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "היה",
-      "english": "foi"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "Yirmeyahu"
-    },
-    {
-      "surface": "מאת",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨para⟩ dizer"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:14:21.883498361Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "2-kings 6:16",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 462,
-    "prompt_tokens": 24490,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24952
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:31:03.270938777Z",
   "translation": "E ele disse: Não temas, pois mais ⟨são⟩ ⟨os que⟩ ⟨estão⟩ conosco do que ⟨os que⟩ ⟨estão⟩ com ⟨את⟩ eles.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ele disse"
+      "gloss": "E ele disse"
     },
     {
       "surface": "אל",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תירא",
-      "english": "temas"
+      "gloss": "temas"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "רבים",
-      "english": "mais"
+      "gloss": "mais"
     },
     {
       "surface": "אשר",
-      "english": "⟨os que⟩"
+      "gloss": "⟨os que⟩"
     },
     {
       "surface": "אתנו",
-      "english": "⟨estão⟩ conosco"
+      "gloss": "⟨estão⟩ conosco"
     },
     {
       "surface": "מאשר",
-      "english": "do que ⟨os que⟩"
+      "gloss": "do que ⟨os que⟩"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨estão⟩ com eles"
     }
-  ],
-  "timestamp": "2026-07-16T12:31:03.270938777Z",
-  "model": "glm-4.5"
+  ]
 }

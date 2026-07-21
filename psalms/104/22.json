@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 104:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62863,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63162
-  },
+  "verse": 22,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:48:14.905431485Z",
   "translation": "⟨O⟩ sol ⟨se⟩ levanta, eles ⟨se⟩ retiram e em seus covis ⟨se⟩ deitam.",
   "tokens": [
     {
       "surface": "תזרח",
-      "english": "⟨O⟩ sol ⟨se⟩ levanta"
+      "gloss": "⟨O⟩ sol ⟨se⟩ levanta"
     },
     {
       "surface": "השמש",
-      "english": "sol"
+      "gloss": "sol"
     },
     {
       "surface": "יאספון",
-      "english": "eles ⟨se⟩ retiram"
+      "gloss": "eles ⟨se⟩ retiram"
     },
     {
       "surface": "ואל",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "מעונתם",
-      "english": "covis"
+      "gloss": "covis"
     },
     {
       "surface": "ירבצון",
-      "english": "⟨se⟩ deitam"
+      "gloss": "⟨se⟩ deitam"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:48:14.905431485Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

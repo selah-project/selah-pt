@@ -1,9 +1,86 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "numbers 7:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:16:08.862388322Z",
+  "translation": "E para o Korban ⟨de⟩ Korbans ⟨de⟩ paz ⟨חטאת⟩: ⟨dois⟩ novilhos, ⟨cinco⟩ carneiros, ⟨cinco⟩ bodes ⟨machos⟩, ⟨cinco⟩ cordeiros ⟨machos⟩ ⟨de⟩ ⟨um⟩ ano. Esta ⟨foi⟩ ⟨a⟩ Korban ⟨de⟩ Natanael ⟨filho⟩ ⟨de⟩ Zuar.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "E para o sacrifício",
+      "marks": "ofertas ⟨de⟩ paz ⟨חטאת⟩"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "⟨de⟩ paz",
+      "marks": "ofertas"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "novilhos"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "⟨dois⟩"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "carneiros"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "⟨cinco⟩"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "bodes ⟨machos⟩"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "⟨cinco⟩"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "cordeiros ⟨machos⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨um⟩ ano"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "⟨cinco⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Esta"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "⟨foi⟩ ⟨a⟩ Korban"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Natanael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨filho⟩ ⟨de⟩"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Zuar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "oferta",
@@ -13,94 +90,6 @@
       "hebrew": "קרבן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 778,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18918,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19696
-  },
-  "translation": "E para o Korban ⟨de⟩ Korbans ⟨de⟩ paz ⟨חטאת⟩: ⟨dois⟩ novilhos, ⟨cinco⟩ carneiros, ⟨cinco⟩ bodes ⟨machos⟩, ⟨cinco⟩ cordeiros ⟨machos⟩ ⟨de⟩ ⟨um⟩ ano. Esta ⟨foi⟩ ⟨a⟩ Korban ⟨de⟩ Natanael ⟨filho⟩ ⟨de⟩ Zuar.",
-  "tokens": [
-    {
-      "surface": "ולזבח",
-      "english": "E para o sacrifício",
-      "marks": "ofertas ⟨de⟩ paz ⟨חטאת⟩"
-    },
-    {
-      "surface": "השלמים",
-      "english": "⟨de⟩ paz",
-      "marks": "ofertas"
-    },
-    {
-      "surface": "בקר",
-      "english": "novilhos"
-    },
-    {
-      "surface": "שנים",
-      "english": "⟨dois⟩"
-    },
-    {
-      "surface": "אילם",
-      "english": "carneiros"
-    },
-    {
-      "surface": "חמשה",
-      "english": "⟨cinco⟩"
-    },
-    {
-      "surface": "עתודים",
-      "english": "bodes ⟨machos⟩"
-    },
-    {
-      "surface": "חמשה",
-      "english": "⟨cinco⟩"
-    },
-    {
-      "surface": "כבשים",
-      "english": "cordeiros ⟨machos⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "שנה",
-      "english": "⟨um⟩ ano"
-    },
-    {
-      "surface": "חמשה",
-      "english": "⟨cinco⟩"
-    },
-    {
-      "surface": "זה",
-      "english": "Esta"
-    },
-    {
-      "surface": "קרבן",
-      "english": "⟨foi⟩ ⟨a⟩ Korban"
-    },
-    {
-      "surface": "נתנאל",
-      "english": "Natanael"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨filho⟩ ⟨de⟩"
-    },
-    {
-      "surface": "צוער",
-      "english": "Zuar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:16:08.862388322Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

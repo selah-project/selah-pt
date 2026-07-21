@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "numbers 15:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 15,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:25:32.734358240Z",
+  "translation": "Fala aos filhos de Yisrael e dize-lhes: Quando vierdes ⟨את⟩ ⟨para⟩ ⟨a⟩ terra das vossas habitações, que Eu ⟨estou⟩ dando a vós,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Fala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e dize-lhes"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Quando"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "vierdes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨a⟩ terra"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "das vossas habitações"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Eu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨estou⟩ dando"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a vós"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18654,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19119
-  },
-  "translation": "Fala aos filhos de Yisrael e dize-lhes: Quando vierdes ⟨את⟩ ⟨para⟩ ⟨a⟩ terra das vossas habitações, que Eu ⟨estou⟩ dando a vós,",
-  "tokens": [
-    {
-      "surface": "דבר",
-      "english": "Fala"
-    },
-    {
-      "surface": "אל",
-      "english": "aos"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ואמרת",
-      "english": "e dize-lhes"
-    },
-    {
-      "surface": "אלהם",
-      "english": "-"
-    },
-    {
-      "surface": "כי",
-      "english": "Quando"
-    },
-    {
-      "surface": "תבאו",
-      "english": "vierdes"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨a⟩ terra"
-    },
-    {
-      "surface": "מושבתיכם",
-      "english": "das vossas habitações"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "אני",
-      "english": "Eu"
-    },
-    {
-      "surface": "נתן",
-      "english": "⟨estou⟩ dando"
-    },
-    {
-      "surface": "לכם",
-      "english": "a vós"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:25:32.734358240Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 135:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 135,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:09:02.452468012Z",
+  "translation": "Tudo o que YHWH ⟨desejou⟩, ⟨Ele⟩ fez nos céus e ⟨na⟩ terra, nos mares e ⟨em⟩ todos os Tehoms",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tudo o que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "⟨desejou⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨Ele⟩ fez"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nos céus"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "e ⟨na⟩ terra"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nos mares"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ⟨em⟩ todos"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "Tehoms"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "abismo",
@@ -13,64 +60,6 @@
       "hebrew": "תהום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 135,
-  "usage": {
-    "completion_tokens": 537,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63181,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63718
-  },
-  "translation": "Tudo o que YHWH ⟨desejou⟩, ⟨Ele⟩ fez nos céus e ⟨na⟩ terra, nos mares e ⟨em⟩ todos os Tehoms",
-  "tokens": [
-    {
-      "surface": "כל",
-      "english": "Tudo o que"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "חפץ",
-      "english": "⟨desejou⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "עשה",
-      "english": "⟨Ele⟩ fez"
-    },
-    {
-      "surface": "בשמים",
-      "english": "nos céus"
-    },
-    {
-      "surface": "ובארץ",
-      "english": "e ⟨na⟩ terra"
-    },
-    {
-      "surface": "בימים",
-      "english": "nos mares"
-    },
-    {
-      "surface": "וכל",
-      "english": "e ⟨em⟩ todos"
-    },
-    {
-      "surface": "תהומות",
-      "english": "Tehoms"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:09:02.452468012Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

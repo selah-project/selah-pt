@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "lamentations 4:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "lamentations",
+  "chapter": 4,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:27:40.335951831Z",
+  "translation": "Não acreditaram os reis ⟨da⟩ terra e todos ⟨os⟩ moradores ⟨do⟩ mundo ⟨que⟩ viria ⟨um⟩ adversário e ⟨um⟩ inimigo ⟨aos⟩ portões ⟨de⟩ Yerushalayim",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "acreditaram"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "os reis"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨da⟩ terra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todos"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨os⟩ moradores"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨do⟩ mundo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "viria"
+    },
+    {
+      "surface": "צר",
+      "gloss": "⟨um⟩ adversário"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "e ⟨um⟩ inimigo"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "⟨aos⟩ portões"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨de⟩ Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,76 +72,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 675,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 32612,
-    "prompt_tokens_details": {
-      "cached_tokens": 31099
-    },
-    "total_tokens": 33287
-  },
-  "translation": "Não acreditaram os reis ⟨da⟩ terra e todos ⟨os⟩ moradores ⟨do⟩ mundo ⟨que⟩ viria ⟨um⟩ adversário e ⟨um⟩ inimigo ⟨aos⟩ portões ⟨de⟩ Yerushalayim",
-  "tokens": [
-    {
-      "surface": "לא",
-      "english": "Não"
-    },
-    {
-      "surface": "האמינו",
-      "english": "acreditaram"
-    },
-    {
-      "surface": "מלכי",
-      "english": "os reis"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨da⟩ terra"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todos"
-    },
-    {
-      "surface": "ישבי",
-      "english": "⟨os⟩ moradores"
-    },
-    {
-      "surface": "תבל",
-      "english": "⟨do⟩ mundo"
-    },
-    {
-      "surface": "כי",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "יבא",
-      "english": "viria"
-    },
-    {
-      "surface": "צר",
-      "english": "⟨um⟩ adversário"
-    },
-    {
-      "surface": "ואויב",
-      "english": "e ⟨um⟩ inimigo"
-    },
-    {
-      "surface": "בשערי",
-      "english": "⟨aos⟩ portões"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨de⟩ Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:27:40.335951831Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

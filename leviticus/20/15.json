@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "leviticus 20:15",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 589,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25092,
-    "prompt_tokens_details": {
-      "cached_tokens": 23736
-    },
-    "total_tokens": 25681
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:27:26.765245054Z",
   "translation": "E um varão que ⟨está⟩ dando ⟨a sua⟩ deitar com ⟨um⟩ animal ⟨será⟩ morto ⟨por⟩ morte, e ⟨o⟩ animal vós matareis ⟨את⟩.",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "E um varão"
+      "gloss": "E um varão"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יתן",
-      "english": "⟨está⟩ dando"
+      "gloss": "⟨está⟩ dando"
     },
     {
       "surface": "שכבתו",
-      "english": "⟨a sua⟩ deitar"
+      "gloss": "⟨a sua⟩ deitar"
     },
     {
       "surface": "בבהמה",
-      "english": "com ⟨um⟩ animal"
+      "gloss": "com ⟨um⟩ animal"
     },
     {
       "surface": "מות",
-      "english": "⟨será⟩ morto ⟨por⟩ morte"
+      "gloss": "⟨será⟩ morto ⟨por⟩ morte"
     },
     {
       "surface": "יומת",
-      "english": "⟨será⟩ morto"
+      "gloss": "⟨será⟩ morto"
     },
     {
       "surface": "ואת",
-      "english": "e",
+      "gloss": "e",
       "marks": "הבהמה"
     },
     {
       "surface": "הבהמה",
-      "english": "⟨o⟩ animal"
+      "gloss": "⟨o⟩ animal"
     },
     {
       "surface": "תהרגו",
-      "english": "vós matareis"
+      "gloss": "vós matareis"
     }
-  ],
-  "timestamp": "2026-06-13T05:27:26.765245054Z",
-  "model": "glm-4.5"
+  ]
 }

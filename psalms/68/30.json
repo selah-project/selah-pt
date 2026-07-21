@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "psalms 68:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 68,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:23:12.780034621Z",
+  "translation": "De teu palácio ⟨sobre⟩ Yerushalayim ⟨a⟩ ti trarão reis um presente.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Teu palácio"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨a⟩ ti"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "trarão"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "reis"
+    },
+    {
+      "surface": "שי",
+      "gloss": "um presente"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,52 +48,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 68,
-  "usage": {
-    "completion_tokens": 307,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62951,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63258
-  },
-  "translation": "De teu palácio ⟨sobre⟩ Yerushalayim ⟨a⟩ ti trarão reis um presente.",
-  "tokens": [
-    {
-      "surface": "מהיכלך",
-      "english": "Teu palácio"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "לך",
-      "english": "⟨a⟩ ti"
-    },
-    {
-      "surface": "יובילו",
-      "english": "trarão"
-    },
-    {
-      "surface": "מלכים",
-      "english": "reis"
-    },
-    {
-      "surface": "שי",
-      "english": "um presente"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:23:12.780034621Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

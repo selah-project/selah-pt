@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 52:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 163,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62653,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 62816
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:13:34.435055599Z",
   "translation": "⟨To⟩ the director ⟨of⟩ music ⟨a⟩ contemplative poem ⟨to⟩ David",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨To⟩ the director ⟨of⟩ music"
+      "gloss": "⟨To⟩ the director ⟨of⟩ music"
     },
     {
       "surface": "משכיל",
-      "english": "⟨a⟩ contemplative poem"
+      "gloss": "⟨a⟩ contemplative poem"
     },
     {
       "surface": "לדוד",
-      "english": "⟨to⟩ David"
+      "gloss": "⟨to⟩ David"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:13:34.435055599Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 44,
   "ref": "numbers 14:44",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 14,
+  "verse": 44,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:24:59.298710605Z",
+  "translation": "E eles se obstinaram em subir ⟨ao⟩ topo do monte, mas ⟨o⟩ arco ⟨da⟩ Brit ⟨de⟩ YHWH e Moisés não se moveram ⟨de⟩ dentro ⟨do⟩ acampamento.",
+  "tokens": [
+    {
+      "surface": "ויעפלו",
+      "gloss": "E eles se obstinaram"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "em subir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "topo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "do monte"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "mas ⟨o⟩ arco"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨da⟩ Brit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "e Moisés"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "משו",
+      "gloss": "se moveram"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "⟨de⟩ dentro"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "⟨do⟩ acampamento"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "aliança",
@@ -13,76 +72,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18477,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19055
-  },
-  "translation": "E eles se obstinaram em subir ⟨ao⟩ topo do monte, mas ⟨o⟩ arco ⟨da⟩ Brit ⟨de⟩ YHWH e Moisés não se moveram ⟨de⟩ dentro ⟨do⟩ acampamento.",
-  "tokens": [
-    {
-      "surface": "ויעפלו",
-      "english": "E eles se obstinaram"
-    },
-    {
-      "surface": "לעלות",
-      "english": "em subir"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨ao⟩"
-    },
-    {
-      "surface": "ראש",
-      "english": "topo"
-    },
-    {
-      "surface": "ההר",
-      "english": "do monte"
-    },
-    {
-      "surface": "וארון",
-      "english": "mas ⟨o⟩ arco"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨da⟩ Brit"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    },
-    {
-      "surface": "ומשה",
-      "english": "e Moisés"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "משו",
-      "english": "se moveram"
-    },
-    {
-      "surface": "מקרב",
-      "english": "⟨de⟩ dentro"
-    },
-    {
-      "surface": "המחנה",
-      "english": "⟨do⟩ acampamento"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:24:59.298710605Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

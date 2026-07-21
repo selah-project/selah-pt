@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 41:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62958,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63322
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:06:42.978888541Z",
   "translation": "Meus inimigos falam ⟨o⟩ mal ⟨a⟩ respeito de mim: 'Quando ⟨ele⟩ morrerá, e ⟨seu⟩ nome perecerá?'",
   "tokens": [
     {
       "surface": "אויבי",
-      "english": "Meus inimigos"
+      "gloss": "Meus inimigos"
     },
     {
       "surface": "יאמרו",
-      "english": "falam"
+      "gloss": "falam"
     },
     {
       "surface": "רע",
-      "english": "⟨o⟩ mal"
+      "gloss": "⟨o⟩ mal"
     },
     {
       "surface": "לי",
-      "english": "⟨a⟩ respeito de mim"
+      "gloss": "⟨a⟩ respeito de mim"
     },
     {
       "surface": "מתי",
-      "english": "'Quando"
+      "gloss": "'Quando"
     },
     {
       "surface": "ימות",
-      "english": "⟨ele⟩ morrerá"
+      "gloss": "⟨ele⟩ morrerá"
     },
     {
       "surface": "ואבד",
-      "english": "e ⟨seu⟩"
+      "gloss": "e ⟨seu⟩"
     },
     {
       "surface": "שמו",
-      "english": "nome perecerá?'"
+      "gloss": "nome perecerá?'"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:06:42.978888541Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

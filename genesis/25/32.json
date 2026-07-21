@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "genesis 25:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 25,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:06:25.597436258Z",
+  "translation": "E Esav disse: Eis ⟨que⟩ estou prestes a morrer; ⟨e⟩ que ⟨é⟩ ⟨este⟩ ⟨de⟩ mim ⟨o⟩ direito de primogenitura?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Esaú disse"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "estou prestes a"
+    },
+    {
+      "surface": "למות",
+      "gloss": "morrer"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "⟨e⟩ que"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨de⟩ mim"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "⟨o⟩ direito de primogenitura"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Esaú",
@@ -13,64 +60,6 @@
       "hebrew": "עשו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21423,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21933
-  },
-  "translation": "E Esav disse: Eis ⟨que⟩ estou prestes a morrer; ⟨e⟩ que ⟨é⟩ ⟨este⟩ ⟨de⟩ mim ⟨o⟩ direito de primogenitura?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Esaú disse"
-    },
-    {
-      "surface": "עשו",
-      "english": "Esav"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis"
-    },
-    {
-      "surface": "אנכי",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "הולך",
-      "english": "estou prestes a"
-    },
-    {
-      "surface": "למות",
-      "english": "morrer"
-    },
-    {
-      "surface": "ולמה",
-      "english": "⟨e⟩ que"
-    },
-    {
-      "surface": "זה",
-      "english": "⟨este⟩"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨de⟩ mim"
-    },
-    {
-      "surface": "בכרה",
-      "english": "⟨o⟩ direito de primogenitura"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:06:25.597436258Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

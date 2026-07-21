@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "jeremiah 18:2",
   "book": "jeremiah",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 421,
-    "prompt_tokens": 24980,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25401
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:29:05.014303569Z",
   "translation": "Levanta-te, e desce à casa do oleiro, e ali eu te farei ouvir ⟨את⟩ as minhas palavras",
   "tokens": [
     {
       "surface": "קום",
-      "english": "Levanta-te"
+      "gloss": "Levanta-te"
     },
     {
       "surface": "וירדת",
-      "english": "e desce"
+      "gloss": "e desce"
     },
     {
       "surface": "בית",
-      "english": "à casa"
+      "gloss": "à casa"
     },
     {
       "surface": "היוצר",
-      "english": "do oleiro"
+      "gloss": "do oleiro"
     },
     {
       "surface": "ושמה",
-      "english": "e ali"
+      "gloss": "e ali"
     },
     {
       "surface": "אשמיעך",
-      "english": "eu te farei ouvir"
+      "gloss": "eu te farei ouvir"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "as minhas palavras"
     },
     {
       "surface": "דברי",
-      "english": "as minhas palavras"
+      "gloss": "as minhas palavras"
     }
-  ],
-  "timestamp": "2026-07-16T15:29:05.014303569Z",
-  "model": "glm-4.5"
+  ]
 }

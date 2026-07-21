@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "numbers 26:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 26,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:37:18.606340632Z",
+  "translation": "E aconteceu após a praga que YHWH falou a Moshé ⟨e⟩ a Elazar filho ⟨de⟩ Aharon o sacerdote, dizendo",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E aconteceu que",
+      "marks": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH",
+      "marks": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "a",
+      "marks": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé",
+      "marks": ""
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨e⟩",
+      "marks": "a Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar",
+      "marks": ""
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho ⟨de⟩",
+      "marks": "Aharão"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon",
+      "marks": ""
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "o sacerdote",
+      "marks": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Aharão",
@@ -13,74 +70,6 @@
       "hebrew": "אהרן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18120,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18734
-  },
-  "translation": "E aconteceu após a praga que YHWH falou a Moshé ⟨e⟩ a Elazar filho ⟨de⟩ Aharon o sacerdote, dizendo",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E aconteceu que",
-      "marks": ""
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH",
-      "marks": ""
-    },
-    {
-      "surface": "אל",
-      "english": "a",
-      "marks": ""
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé",
-      "marks": ""
-    },
-    {
-      "surface": "ואל",
-      "english": "⟨e⟩",
-      "marks": "a Elazar"
-    },
-    {
-      "surface": "אלעזר",
-      "english": "Elazar",
-      "marks": ""
-    },
-    {
-      "surface": "בן",
-      "english": "filho ⟨de⟩",
-      "marks": "Aharão"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharon",
-      "marks": ""
-    },
-    {
-      "surface": "הכהן",
-      "english": "o sacerdote",
-      "marks": ""
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:37:18.606340632Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "amos 5:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 5,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:08:36.290916688Z",
+  "translation": "Odeiem o mal e amem ⟨o⟩ bem, e estabeleçam ⟨o⟩ juízo ⟨na⟩ porta; talvez HaShem, Elohim Tzevaot, ⟨se⟩ tenha misericórdia ⟨do⟩ remanescente de Yosef.",
+  "tokens": [
+    {
+      "surface": "שִׂנְאוּ",
+      "gloss": "Odeiem"
+    },
+    {
+      "surface": "רָע",
+      "gloss": "o mal"
+    },
+    {
+      "surface": "וְ\/אֶ֣הֱבוּ",
+      "gloss": "e amem"
+    },
+    {
+      "surface": "ט֔וֹב",
+      "gloss": "⟨o⟩ bem"
+    },
+    {
+      "surface": "וְ\/הַצִּ֥יגוּ",
+      "gloss": "e estabeleçam"
+    },
+    {
+      "surface": "בַ\/שַּׁ֖עַר",
+      "gloss": "⟨o⟩ juízo ⟨na⟩ porta"
+    },
+    {
+      "surface": "מִשְׁפָּ֑ט",
+      "gloss": "⟨o⟩ juízo ⟨na⟩ porta"
+    },
+    {
+      "surface": "אוּלַ֗י",
+      "gloss": "talvez"
+    },
+    {
+      "surface": "יֶֽחֱנַ֛ן",
+      "gloss": "⟨se⟩ tenha misericórdia ⟨do⟩"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "HaShem"
+    },
+    {
+      "surface": "אֱלֹהֵֽי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "שְׁאֵרִ֥ית",
+      "gloss": "⟨o⟩ remanescente de"
+    },
+    {
+      "surface": "יוֹסֵֽף",
+      "gloss": "Yosef"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "dos exércitos",
@@ -20,80 +83,6 @@
       "hebrew": "יוסף"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 801,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17102,
-    "prompt_tokens_details": {
-      "cached_tokens": 15413
-    },
-    "total_tokens": 17903
-  },
-  "translation": "Odeiem o mal e amem ⟨o⟩ bem, e estabeleçam ⟨o⟩ juízo ⟨na⟩ porta; talvez HaShem, Elohim Tzevaot, ⟨se⟩ tenha misericórdia ⟨do⟩ remanescente de Yosef.",
-  "tokens": [
-    {
-      "surface": "שִׂנְאוּ",
-      "english": "Odeiem"
-    },
-    {
-      "surface": "רָע",
-      "english": "o mal"
-    },
-    {
-      "surface": "וְ\/אֶ֣הֱבוּ",
-      "english": "e amem"
-    },
-    {
-      "surface": "ט֔וֹב",
-      "english": "⟨o⟩ bem"
-    },
-    {
-      "surface": "וְ\/הַצִּ֥יגוּ",
-      "english": "e estabeleçam"
-    },
-    {
-      "surface": "בַ\/שַּׁ֖עַר",
-      "english": "⟨o⟩ juízo ⟨na⟩ porta"
-    },
-    {
-      "surface": "מִשְׁפָּ֑ט",
-      "english": "⟨o⟩ juízo ⟨na⟩ porta"
-    },
-    {
-      "surface": "אוּלַ֗י",
-      "english": "talvez"
-    },
-    {
-      "surface": "יֶֽחֱנַ֛ן",
-      "english": "⟨se⟩ tenha misericórdia ⟨do⟩"
-    },
-    {
-      "surface": "יְהוָ֥ה",
-      "english": "HaShem"
-    },
-    {
-      "surface": "אֱלֹהֵֽי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "צְבָא֖וֹת",
-      "english": "Tzevaot"
-    },
-    {
-      "surface": "שְׁאֵרִ֥ית",
-      "english": "⟨o⟩ remanescente de"
-    },
-    {
-      "surface": "יוֹסֵֽף",
-      "english": "Yosef"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:08:36.290916688Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

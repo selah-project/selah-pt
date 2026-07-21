@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 25:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 811,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63005,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63816
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:54:58.498272043Z",
   "translation": "Todos ⟨os⟩ caminhos de YHWH ⟨são⟩ hesed e emet para ⟨os⟩ que guardam ⟨o⟩ seu brit e ⟨suas⟩ edut.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todos",
+      "gloss": "Todos",
       "rationale": "Colocado antes do substantivo 'caminhos' no lugar de artigo"
     },
     {
       "surface": "ארחות",
-      "english": "caminhos",
+      "gloss": "caminhos",
       "rationale": "Literalmente 'caminhos bem trilhados' ou 'caravanas'"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH",
+      "gloss": "de YHWH",
       "rationale": "O Nome divino em conformidade com a disciplina de tradução para o português"
     },
     {
       "surface": "חסד",
-      "english": "hesed",
+      "gloss": "hesed",
       "rationale": "Termo hebraico não totalmente traduzível, que inclui bondade, lealdade, misericórdia e fidelidade dentro de um pacto"
     },
     {
       "surface": "ואמת",
-      "english": "e emet",
+      "gloss": "e emet",
       "rationale": "'Emet' significa verdade, fidelidade, confiabilidade; par conceitual com 'hesed'"
     },
     {
       "surface": "לנצרי",
-      "english": "para ⟨os⟩ que guardam",
+      "gloss": "para ⟨os⟩ que guardam",
       "rationale": "Preposição 'para' + particípio ativo que indica a ação de guardar\/observar"
     },
     {
       "surface": "בריתו",
-      "english": "⟨o⟩ seu brit",
+      "gloss": "⟨o⟩ seu brit",
       "rationale": "'Brit' significa pacto\/aliança; sufixo possessivo 'seu'; artigo em português adicionado"
     },
     {
       "surface": "ועדתיו",
-      "english": "e ⟨suas⟩ edut",
+      "gloss": "e ⟨suas⟩ edut",
       "rationale": "'Edut' significa testemunhos, preceitos, mandamentos; sufixo possessivo 'suas'; artigo em português adicionado"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:54:58.498272043Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

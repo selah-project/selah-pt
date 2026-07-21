@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "numbers 32:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 32,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:45:24.915141831Z",
+  "translation": "Nós passaremos ⟨armados⟩ antes de ⟨YHWH⟩ para ⟨a⟩ terra de Kenaan, e ⟨com⟩ nós ⟨estará⟩ ⟨a⟩ possessão ⟨da⟩ nossa herança ⟨do⟩ outro lado do Jordão.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Nós"
+    },
+    {
+      "surface": "נעבר",
+      "gloss": "passaremos"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "⟨armados⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "antes de",
+      "marks": "⟨YHWH⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨YHWH⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "para ⟨a⟩ terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Kenaan"
+    },
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨com⟩ nós"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "⟨a⟩ possessão ⟨da⟩"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "nossa herança"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "⟨do⟩ outro lado"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "do Jordão"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Canaã",
@@ -13,73 +69,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 740,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18520,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 19260
-  },
-  "translation": "Nós passaremos ⟨armados⟩ antes de ⟨YHWH⟩ para ⟨a⟩ terra de Kenaan, e ⟨com⟩ nós ⟨estará⟩ ⟨a⟩ possessão ⟨da⟩ nossa herança ⟨do⟩ outro lado do Jordão.",
-  "tokens": [
-    {
-      "surface": "נחנו",
-      "english": "Nós"
-    },
-    {
-      "surface": "נעבר",
-      "english": "passaremos"
-    },
-    {
-      "surface": "חלוצים",
-      "english": "⟨armados⟩"
-    },
-    {
-      "surface": "לפני",
-      "english": "antes de",
-      "marks": "⟨YHWH⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨YHWH⟩"
-    },
-    {
-      "surface": "ארץ",
-      "english": "para ⟨a⟩ terra"
-    },
-    {
-      "surface": "כנען",
-      "english": "de Kenaan"
-    },
-    {
-      "surface": "ואתנו",
-      "english": "⟨com⟩ nós"
-    },
-    {
-      "surface": "אחזת",
-      "english": "⟨a⟩ possessão ⟨da⟩"
-    },
-    {
-      "surface": "נחלתנו",
-      "english": "nossa herança"
-    },
-    {
-      "surface": "מעבר",
-      "english": "⟨do⟩ outro lado"
-    },
-    {
-      "surface": "לירדן",
-      "english": "do Jordão"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:45:24.915141831Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

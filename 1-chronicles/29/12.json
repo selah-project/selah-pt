@@ -1,93 +1,82 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-chronicles 29:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 890,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57673,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 58563
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:05:05.860305701Z",
   "translation": "e ⟨a⟩ riqueza e ⟨a⟩ honra ⟨estão⟩ diante de ti, e tu governas sobre tudo, e em tua mão ⟨está⟩ ⟨o⟩ poder e ⟨a⟩ força, e em tua mão ⟨é⟩ para engrandecer e para dar força a tudo",
   "tokens": [
     {
       "surface": "והעשר",
-      "english": "E ⟨a⟩ riqueza",
+      "gloss": "E ⟨a⟩ riqueza",
       "rationale": "העשר = riqueza, com vav-copulativo; ⟨o⟩ artigo implícito em português"
     },
     {
       "surface": "והכבוד",
-      "english": "e ⟨a⟩ honra",
+      "gloss": "e ⟨a⟩ honra",
       "rationale": "הכבוד = honra\/glória, com vav-copulativo; ⟨a⟩ artigo implícito em português"
     },
     {
       "surface": "מלפניך",
-      "english": "⟨estão⟩ diante de ti",
+      "gloss": "⟨estão⟩ diante de ti",
       "rationale": "מלפניך = da presença de ti\/diante de ti; verbo ⟨estão⟩ implícito em português"
     },
     {
       "surface": "ואתה",
-      "english": "e tu",
+      "gloss": "e tu",
       "rationale": "conj. + pron. pessoal"
     },
     {
       "surface": "מושל",
-      "english": "governas",
+      "gloss": "governas",
       "rationale": "particípio ativo 'reinar\/governar'"
     },
     {
       "surface": "בכל",
-      "english": "sobre tudo",
+      "gloss": "sobre tudo",
       "rationale": "ב + כל = em tudo, traduzido como 'sobre' no contexto de autoridade"
     },
     {
       "surface": "ובידך",
-      "english": "e em tua mão",
+      "gloss": "e em tua mão",
       "rationale": "ו + ב + ידך = e em mão de ti"
     },
     {
       "surface": "כח",
-      "english": "⟨o⟩ poder",
+      "gloss": "⟨o⟩ poder",
       "rationale": "poder\/vigor\/força; ⟨o⟩ artigo em português"
     },
     {
       "surface": "וגבורה",
-      "english": "e ⟨a⟩ força",
+      "gloss": "e ⟨a⟩ força",
       "rationale": "força\/poderio; ⟨a⟩ artigo em português"
     },
     {
       "surface": "ובידך",
-      "english": "e em tua mão",
+      "gloss": "e em tua mão",
       "rationale": "repetição do v.7"
     },
     {
       "surface": "לגדל",
-      "english": "para engrandecer",
+      "gloss": "para engrandecer",
       "rationale": "preposição + infinitivo Qal 'tornar grande'"
     },
     {
       "surface": "ולחזק",
-      "english": "e para dar força",
+      "gloss": "e para dar força",
       "rationale": "preposição + infinitivo Qal 'fortalecer'"
     },
     {
       "surface": "לכל",
-      "english": "a tudo",
+      "gloss": "a tudo",
       "rationale": "preposição + 'tudo', traduzido como 'a tudo' no sentido de beneficiar a todos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:05:05.860305701Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

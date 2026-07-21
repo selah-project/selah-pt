@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-chronicles 7:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 7,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:39:33.688748182Z",
+  "translation": "E os filhos de Efráyim: Shuthelah, e Bered ⟨seu⟩ filho, e Tahath ⟨seu⟩ filho, e Eladá ⟨seu⟩ filho, e Tahath ⟨seu⟩ filho",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos de"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "Shuthelah"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "e Bered"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨seu⟩ filho",
+      "marks": "Bered"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "e Tahath"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨seu⟩ filho",
+      "marks": "Tahath"
+    },
+    {
+      "surface": "ואלעדה",
+      "gloss": "e Eladá"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨seu⟩ filho",
+      "marks": "Eladá"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "e Tahath"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨seu⟩ filho",
+      "marks": "Tahath"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,72 +68,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57419,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 57879
-  },
-  "translation": "E os filhos de Efráyim: Shuthelah, e Bered ⟨seu⟩ filho, e Tahath ⟨seu⟩ filho, e Eladá ⟨seu⟩ filho, e Tahath ⟨seu⟩ filho",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos de"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "שותלח",
-      "english": "Shuthelah"
-    },
-    {
-      "surface": "וברד",
-      "english": "e Bered"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨seu⟩ filho",
-      "marks": "Bered"
-    },
-    {
-      "surface": "ותחת",
-      "english": "e Tahath"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨seu⟩ filho",
-      "marks": "Tahath"
-    },
-    {
-      "surface": "ואלעדה",
-      "english": "e Eladá"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨seu⟩ filho",
-      "marks": "Eladá"
-    },
-    {
-      "surface": "ותחת",
-      "english": "e Tahath"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨seu⟩ filho",
-      "marks": "Tahath"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:39:33.688748182Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

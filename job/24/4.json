@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 24:4",
   "book": "job",
-  "lang": "pt",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 27456,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27860
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:59:57.097379423Z",
   "translation": "Eles desviam ⟨os⟩ necessitados ⟨do⟩ caminho; os pobres ⟨da⟩ terra se escondem ⟨את⟩ juntos.",
   "tokens": [
     {
       "surface": "יטו",
-      "english": "Eles desviam"
+      "gloss": "Eles desviam"
     },
     {
       "surface": "אביונים",
-      "english": "⟨os⟩ necessitados"
+      "gloss": "⟨os⟩ necessitados"
     },
     {
       "surface": "מדרך",
-      "english": "⟨do⟩ caminho"
+      "gloss": "⟨do⟩ caminho"
     },
     {
       "surface": "יחד",
-      "english": "juntos"
+      "gloss": "juntos"
     },
     {
       "surface": "חבאו",
-      "english": "se escondem"
+      "gloss": "se escondem"
     },
     {
       "surface": "עניי",
-      "english": "os pobres"
+      "gloss": "os pobres"
     },
     {
       "surface": "ארץ",
-      "english": "⟨da⟩ terra"
+      "gloss": "⟨da⟩ terra"
     }
-  ],
-  "timestamp": "2026-07-16T15:59:57.097379423Z",
-  "model": "glm-4.5"
+  ]
 }

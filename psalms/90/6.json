@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 90:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62846,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63228
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:40:17.994233463Z",
   "translation": "Pela manhã ⟨ela⟩ floresce e renasce, à tarde ⟨ela⟩ é cortada e seca",
   "tokens": [
     {
       "surface": "בבקר",
-      "english": "Pela manhã"
+      "gloss": "Pela manhã"
     },
     {
       "surface": "יציץ",
-      "english": "floresce"
+      "gloss": "floresce"
     },
     {
       "surface": "וחלף",
-      "english": "e renasce"
+      "gloss": "e renasce"
     },
     {
       "surface": "לערב",
-      "english": "à tarde"
+      "gloss": "à tarde"
     },
     {
       "surface": "ימולל",
-      "english": "é cortada"
+      "gloss": "é cortada"
     },
     {
       "surface": "ויבש",
-      "english": "e seca"
+      "gloss": "e seca"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:40:17.994233463Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

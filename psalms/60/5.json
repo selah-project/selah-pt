@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 60:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 582,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62863,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63445
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:18:51.276006647Z",
   "translation": "Mostraste ⟨ao⟩ teu povo ⟨um⟩ ⟨fardo⟩ difícil; fizeste-nos beber ⟨o⟩ vinho ⟨do⟩ ⟨atordoamento⟩.",
   "tokens": [
     {
       "surface": "הראיתה",
-      "english": "Mostraste"
+      "gloss": "Mostraste"
     },
     {
       "surface": "עמך",
-      "english": "⟨ao⟩ teu povo",
+      "gloss": "⟨ao⟩ teu povo",
       "marks": "teu povo"
     },
     {
       "surface": "קשה",
-      "english": "⟨um⟩ ⟨fardo⟩ difícil"
+      "gloss": "⟨um⟩ ⟨fardo⟩ difícil"
     },
     {
       "surface": "השקיתנו",
-      "english": "fizeste-nos beber"
+      "gloss": "fizeste-nos beber"
     },
     {
       "surface": "יין",
-      "english": "⟨o⟩ vinho",
+      "gloss": "⟨o⟩ vinho",
       "marks": "vinho do atordoamento"
     },
     {
       "surface": "תרעלה",
-      "english": "⟨do⟩ ⟨atordoamento⟩"
+      "gloss": "⟨do⟩ ⟨atordoamento⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:18:51.276006647Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

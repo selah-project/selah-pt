@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 132:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62770,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63112
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:07:59.986593405Z",
   "translation": "Seus inimigos vestirei com ⟨a⟩ vergonha, e sobre ⟨ele⟩ florescerá ⟨o⟩ diadema ⟨de⟩ sua consagração.",
   "tokens": [
     {
       "surface": "אויביו",
-      "english": "Seus inimigos"
+      "gloss": "Seus inimigos"
     },
     {
       "surface": "אלביש",
-      "english": "vestirei",
+      "gloss": "vestirei",
       "marks": "com ⟨a⟩ vergonha"
     },
     {
       "surface": "בשת",
-      "english": "vergonha"
+      "gloss": "vergonha"
     },
     {
       "surface": "ועליו",
-      "english": "e sobre ⟨ele⟩"
+      "gloss": "e sobre ⟨ele⟩"
     },
     {
       "surface": "יציץ",
-      "english": "florescerá",
+      "gloss": "florescerá",
       "marks": "⟨o⟩ diadema ⟨de⟩ sua consagração"
     },
     {
       "surface": "נזרו",
-      "english": "diadema ⟨de⟩ sua consagração"
+      "gloss": "diadema ⟨de⟩ sua consagração"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:07:59.986593405Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

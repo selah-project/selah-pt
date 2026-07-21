@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 107:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62820,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63152
-  },
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:52:15.537907571Z",
   "translation": "Os que descem ⟨ao⟩ mar em navios, fazendo trabalho ⟨em⟩ muitas águas",
   "tokens": [
     {
       "surface": "יורדי",
-      "english": "Os que descem"
+      "gloss": "Os que descem"
     },
     {
       "surface": "הים",
-      "english": "⟨ao⟩ mar",
+      "gloss": "⟨ao⟩ mar",
       "marks": "mar"
     },
     {
       "surface": "באניות",
-      "english": "em navios"
+      "gloss": "em navios"
     },
     {
       "surface": "עשי",
-      "english": "fazendo"
+      "gloss": "fazendo"
     },
     {
       "surface": "מלאכה",
-      "english": "trabalho"
+      "gloss": "trabalho"
     },
     {
       "surface": "במים",
-      "english": "⟨em⟩",
+      "gloss": "⟨em⟩",
       "marks": "águas"
     },
     {
       "surface": "רבים",
-      "english": "muitas águas"
+      "gloss": "muitas águas"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:52:15.537907571Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

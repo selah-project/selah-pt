@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "nehemiah 8:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 8,
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:22:28.046155944Z",
+  "translation": "E eles acharam escrito na Torá ⟨que⟩ YHWH havia ordenado pela mão de Moshé ⟨que⟩ os filhos de Yisrael habitassem em sucot ⟨em⟩ ⟨o⟩ chag, no sétimo mês",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "E eles acharam"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "escrito"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "na Torá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havia ordenado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pela mão"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "habitasse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "em sucot"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sétimo mês"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 577,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 50337,
-    "prompt_tokens_details": {
-      "cached_tokens": 48507
-    },
-    "total_tokens": 50914
-  },
-  "translation": "E eles acharam escrito na Torá ⟨que⟩ YHWH havia ordenado pela mão de Moshé ⟨que⟩ os filhos de Yisrael habitassem em sucot ⟨em⟩ ⟨o⟩ chag, no sétimo mês",
-  "tokens": [
-    {
-      "surface": "וימצאו",
-      "english": "E eles acharam"
-    },
-    {
-      "surface": "כתוב",
-      "english": "escrito"
-    },
-    {
-      "surface": "בתורה",
-      "english": "na Torá"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "צוה",
-      "english": "havia ordenado"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "ביד",
-      "english": "pela mão"
-    },
-    {
-      "surface": "משה",
-      "english": "de Moshé"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "ישבו",
-      "english": "habitasse"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "בסכות",
-      "english": "em sucot"
-    },
-    {
-      "surface": "בחג",
-      "english": "⟨em⟩"
-    },
-    {
-      "surface": "בחדש",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "השביעי",
-      "english": "sétimo mês"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:22:28.046155944Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

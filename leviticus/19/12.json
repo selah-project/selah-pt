@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "leviticus 19:12",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 478,
-    "prompt_tokens": 25140,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25618
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:47:47.145347735Z",
   "translation": "E não jurareis ⟨pelo⟩ meu nome ⟨pela⟩ falsidade, nem profanareis ⟨את⟩ o nome de teu Elohim; eu sou YHWH.",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "E não"
+      "gloss": "E não"
     },
     {
       "surface": "תשבעו",
-      "english": "jurareis"
+      "gloss": "jurareis"
     },
     {
       "surface": "בשמי",
-      "english": "⟨pelo⟩ meu nome"
+      "gloss": "⟨pelo⟩ meu nome"
     },
     {
       "surface": "לשקר",
-      "english": "⟨pela⟩ falsidade"
+      "gloss": "⟨pela⟩ falsidade"
     },
     {
       "surface": "וחללת",
-      "english": "nem profanareis"
+      "gloss": "nem profanareis"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o nome"
     },
     {
       "surface": "שם",
-      "english": "o nome"
+      "gloss": "o nome"
     },
     {
       "surface": "אלהיך",
-      "english": "de teu Elohim"
+      "gloss": "de teu Elohim"
     },
     {
       "surface": "אני",
-      "english": "eu sou"
+      "gloss": "eu sou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T16:47:47.145347735Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-chronicles 5:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 5,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:10:56.777542059Z",
+  "translation": "Não ⟨há⟩ na arca ⟨את⟩ senão as duas tábuas que Moshé deu em Horebe, quando YHWH fez ⟨um⟩ pacto com ⟨os⟩ filhos de Yisrael, ⟨quando⟩ saíram ⟨do⟩ Egito.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Não ⟨há⟩"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "na arca"
+    },
+    {
+      "surface": "רק",
+      "gloss": "senão"
+    },
+    {
+      "surface": "שני",
+      "gloss": "as duas"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "tábuas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "em Horebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "fez ⟨um⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com ⟨os⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "⟨quando⟩ saíram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "⟨do⟩ Egito"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,92 +88,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 695,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58949,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59644
-  },
-  "translation": "Não ⟨há⟩ na arca ⟨את⟩ senão as duas tábuas que Moshé deu em Horebe, quando YHWH fez ⟨um⟩ pacto com ⟨os⟩ filhos de Yisrael, ⟨quando⟩ saíram ⟨do⟩ Egito.",
-  "tokens": [
-    {
-      "surface": "אין",
-      "english": "Não ⟨há⟩"
-    },
-    {
-      "surface": "בארון",
-      "english": "na arca"
-    },
-    {
-      "surface": "רק",
-      "english": "senão"
-    },
-    {
-      "surface": "שני",
-      "english": "as duas"
-    },
-    {
-      "surface": "הלחות",
-      "english": "tábuas"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "נתן",
-      "english": "deu"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "בחרב",
-      "english": "em Horebe"
-    },
-    {
-      "surface": "אשר",
-      "english": "quando"
-    },
-    {
-      "surface": "כרת",
-      "english": "fez ⟨um⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "עם",
-      "english": "com ⟨os⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "בצאתם",
-      "english": "⟨quando⟩ saíram"
-    },
-    {
-      "surface": "ממצרים",
-      "english": "⟨do⟩ Egito"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:10:56.777542059Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

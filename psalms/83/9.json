@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 83:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 83,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:35:10.887241724Z",
+  "translation": "Também a Ashshur uniu-se ⟨com⟩ eles: ⟨ela se tornou⟩ um braço ⟨para⟩ ⟨os⟩ filhos de Lot. Selá.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Também",
+      "marks": null
+    },
+    {
+      "surface": "אשור",
+      "gloss": "a Ashshur",
+      "marks": null
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "uniu-se",
+      "marks": null
+    },
+    {
+      "surface": "עמם",
+      "gloss": "⟨com⟩",
+      "marks": "eles"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨ela se tornou⟩",
+      "marks": null
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "um braço",
+      "marks": null
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨para⟩ ⟨os⟩",
+      "marks": "filhos"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot",
+      "marks": null
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selá",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Assíria",
@@ -20,69 +72,6 @@
       "hebrew": "לוט"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 83,
-  "usage": {
-    "completion_tokens": 674,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63075,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63749
-  },
-  "translation": "Também a Ashshur uniu-se ⟨com⟩ eles: ⟨ela se tornou⟩ um braço ⟨para⟩ ⟨os⟩ filhos de Lot. Selá.",
-  "tokens": [
-    {
-      "surface": "גם",
-      "english": "Também",
-      "marks": null
-    },
-    {
-      "surface": "אשור",
-      "english": "a Ashshur",
-      "marks": null
-    },
-    {
-      "surface": "נלוה",
-      "english": "uniu-se",
-      "marks": null
-    },
-    {
-      "surface": "עמם",
-      "english": "⟨com⟩",
-      "marks": "eles"
-    },
-    {
-      "surface": "היו",
-      "english": "⟨ela se tornou⟩",
-      "marks": null
-    },
-    {
-      "surface": "זרוע",
-      "english": "um braço",
-      "marks": null
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨para⟩ ⟨os⟩",
-      "marks": "filhos"
-    },
-    {
-      "surface": "לוט",
-      "english": "Lot",
-      "marks": null
-    },
-    {
-      "surface": "סלה",
-      "english": "Selá",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:35:10.887241724Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

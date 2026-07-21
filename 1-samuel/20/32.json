@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "1-samuel 20:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:32:43.632788920Z",
+  "translation": "E Yonatan respondeu ⟨a⟩ Shaul seu pai e disse ⟨a⟩ ele: Por que deve morrer? O que ele fez?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "E respondeu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Saul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ ele"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Por que"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "deve morrer"
+    },
+    {
+      "surface": "מה",
+      "gloss": "O que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ele fez"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jônatas",
@@ -20,69 +72,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16781,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17137
-  },
-  "translation": "E Yonatan respondeu ⟨a⟩ Shaul seu pai e disse ⟨a⟩ ele: Por que deve morrer? O que ele fez?",
-  "tokens": [
-    {
-      "surface": "ויען",
-      "english": "E respondeu"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Yonatan"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Saul"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "e disse"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ ele"
-    },
-    {
-      "surface": "למה",
-      "english": "Por que"
-    },
-    {
-      "surface": "יומת",
-      "english": "deve morrer"
-    },
-    {
-      "surface": "מה",
-      "english": "O que"
-    },
-    {
-      "surface": "עשה",
-      "english": "ele fez"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:32:43.632788920Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

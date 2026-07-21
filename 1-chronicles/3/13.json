@@ -1,9 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-chronicles 3:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 3,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:33:55.396171667Z",
+  "translation": "Ajaz ⟨o⟩ filho de Jizkiyahu ⟨o⟩ filho de Menashé ⟨o⟩ filho",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨o⟩ filho",
+      "marks": "Acaz"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "de Jizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨o⟩ filho",
+      "marks": "Ezequias"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "de Menashé"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨o⟩ filho",
+      "marks": "Manassés"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Acaz",
@@ -27,51 +61,6 @@
       "hebrew": "מנשה־מלך"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56905,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57279
-  },
-  "translation": "Ajaz ⟨o⟩ filho de Jizkiyahu ⟨o⟩ filho de Menashé ⟨o⟩ filho",
-  "tokens": [
-    {
-      "surface": "אחז",
-      "english": "Ajaz"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨o⟩ filho",
-      "marks": "Acaz"
-    },
-    {
-      "surface": "חזקיהו",
-      "english": "de Jizkiyahu"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨o⟩ filho",
-      "marks": "Ezequias"
-    },
-    {
-      "surface": "מנשה",
-      "english": "de Menashé"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨o⟩ filho",
-      "marks": "Manassés"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:33:55.396171667Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

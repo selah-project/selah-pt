@@ -1,80 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "amos 2:10",
   "book": "amos",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 784,
-    "prompt_tokens": 24741,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 25525
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:02:08.300794445Z",
   "translation": "E eu, eu fiz subir ⟨את⟩ vocês da terra de Mitzráyim e fiz caminhar ⟨את⟩ vocês no deserto quarenta anos para possuir ⟨את⟩ a terra do Emori",
   "tokens": [
     {
       "surface": "ואנכי",
-      "english": "E eu, eu"
+      "gloss": "E eu, eu"
     },
     {
       "surface": "העליתי",
-      "english": "fiz subir"
+      "gloss": "fiz subir"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩ vocês",
+      "gloss": "⟨את⟩ vocês",
       "marks": "da terra de Mitzráyim"
     },
     {
       "surface": "מארץ",
-      "english": "da terra"
+      "gloss": "da terra"
     },
     {
       "surface": "מצרים",
-      "english": "de Mitzráyim"
+      "gloss": "de Mitzráyim"
     },
     {
       "surface": "ואולך",
-      "english": "e fiz caminhar"
+      "gloss": "e fiz caminhar"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩ vocês",
+      "gloss": "⟨את⟩ vocês",
       "marks": "no deserto"
     },
     {
       "surface": "במדבר",
-      "english": "no deserto"
+      "gloss": "no deserto"
     },
     {
       "surface": "ארבעים",
-      "english": "quarenta"
+      "gloss": "quarenta"
     },
     {
       "surface": "שנה",
-      "english": "anos"
+      "gloss": "anos"
     },
     {
       "surface": "לרשת",
-      "english": "para possuir"
+      "gloss": "para possuir"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a terra do Emori"
     },
     {
       "surface": "ארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     },
     {
       "surface": "האמרי",
-      "english": "do Emori"
+      "gloss": "do Emori"
     }
-  ],
-  "timestamp": "2026-07-16T13:02:08.300794445Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 10:24",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 269,
-    "prompt_tokens": 28880,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29149
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:42:33.237202030Z",
   "translation": "E Arpachshad gerou ⟨את⟩ Shelach, e Shelach gerou ⟨את⟩ Ever",
   "tokens": [
     {
       "surface": "וארפכשד",
-      "english": "E Arpachshad"
+      "gloss": "E Arpachshad"
     },
     {
       "surface": "ילד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Shelach"
     },
     {
       "surface": "שלח",
-      "english": "Shelach"
+      "gloss": "Shelach"
     },
     {
       "surface": "ושלח",
-      "english": "e Shelach"
+      "gloss": "e Shelach"
     },
     {
       "surface": "ילד",
-      "english": "gerou"
+      "gloss": "gerou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Ever"
     },
     {
       "surface": "עבר",
-      "english": "Ever"
+      "gloss": "Ever"
     }
-  ],
-  "timestamp": "2026-07-16T14:42:33.237202030Z",
-  "model": "glm-4.5"
+  ]
 }

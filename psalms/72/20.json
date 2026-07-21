@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 72:20",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 329,
-    "prompt_tokens": 70050,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70379
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:14.601900964Z",
   "translation": "As orações de David, filho de Yishai, ⟨estão⟩ concluídas.",
   "tokens": [
     {
       "surface": "כלו",
-      "english": "As orações... estão concluídas"
+      "gloss": "As orações... estão concluídas"
     },
     {
       "surface": "תפלות",
-      "english": "orações"
+      "gloss": "orações"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "בן",
-      "english": "filho"
+      "gloss": "filho"
     },
     {
       "surface": "ישי",
-      "english": "Yishai"
+      "gloss": "Yishai"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:14.601900964Z",
-  "model": "glm-4.5"
+  ]
 }

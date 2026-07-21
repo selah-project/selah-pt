@@ -1,49 +1,41 @@
 {
-  "tier": "standard",
-  "verse": 4,
   "ref": "psalms 149:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 149,
-  "usage": {
-    "completion_tokens": 286,
-    "prompt_tokens": 70221,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70507
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "standard",
+  "model": "glm-4.7",
+  "timestamp": "2026-06-13T02:16:51.483989387Z",
   "translation": "Pois YHWH se agrada em ⟨o⟩ seu povo; ⟨ele⟩ adornará os humildes com ⟨a⟩ salvação.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "רוצה",
-      "english": "se agrada"
+      "gloss": "se agrada"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בעמו",
-      "english": "em ⟨o⟩ seu povo"
+      "gloss": "em ⟨o⟩ seu povo"
     },
     {
       "surface": "יפאר",
-      "english": "adornará"
+      "gloss": "adornará"
     },
     {
       "surface": "ענוים",
-      "english": "os humildes"
+      "gloss": "os humildes"
     },
     {
       "surface": "בישועה",
-      "english": "com ⟨a⟩ salvação"
+      "gloss": "com ⟨a⟩ salvação"
     }
-  ],
-  "timestamp": "2026-06-13T02:16:51.483989387Z",
-  "model": "glm-4.7"
+  ]
 }

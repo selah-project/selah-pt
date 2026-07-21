@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 20:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62692,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63040
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:51:53.646263312Z",
   "translation": "Salva, YHWH ⟨o⟩ Rei; que ⟨Ele⟩ nos responda no dia em que clamarmos.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הושיעה",
-      "english": "Salva"
+      "gloss": "Salva"
     },
     {
       "surface": "המלך",
-      "english": "⟨o⟩ Rei"
+      "gloss": "⟨o⟩ Rei"
     },
     {
       "surface": "יעננו",
-      "english": "que ⟨Ele⟩ nos responda"
+      "gloss": "que ⟨Ele⟩ nos responda"
     },
     {
       "surface": "ביום",
-      "english": "no dia em que"
+      "gloss": "no dia em que"
     },
     {
       "surface": "קראנו",
-      "english": "clamarmos"
+      "gloss": "clamarmos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:51:53.646263312Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

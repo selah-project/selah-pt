@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "2-samuel 10:7",
   "book": "2-samuel",
-  "lang": "pt",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 424,
-    "prompt_tokens": 24870,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25294
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:50:34.837755773Z",
   "translation": "E quando David ouviu, enviou ⟨את⟩ Joab e ⟨את⟩ todo o exército, ⟨os⟩ homens valentes.",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "E quando ouviu"
+      "gloss": "E quando ouviu"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "וישלח",
-      "english": "enviou"
+      "gloss": "enviou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Joab"
     },
     {
       "surface": "יואב",
-      "english": "Joab"
+      "gloss": "Joab"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "todo o exército"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "הצבא",
-      "english": "o exército"
+      "gloss": "o exército"
     },
     {
       "surface": "הגברים",
-      "english": "os homens valentes"
+      "gloss": "os homens valentes"
     }
-  ],
-  "timestamp": "2026-07-16T12:50:34.837755773Z",
-  "model": "glm-4.5"
+  ]
 }

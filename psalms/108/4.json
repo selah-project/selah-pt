@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 108:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62819,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63182
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:52:59.343800458Z",
   "translation": "Eu te louvarei ⟨entre⟩ os povos, YHWH, e ⟨te⟩ cantarei ⟨com⟩ não ⟨não⟩ povos.",
   "tokens": [
     {
       "surface": "אודך",
-      "english": "Eu te louvarei"
+      "gloss": "Eu te louvarei"
     },
     {
       "surface": "בעמים",
-      "english": "⟨entre⟩ os povos"
+      "gloss": "⟨entre⟩ os povos"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ואזמרך",
-      "english": "e ⟨te⟩ cantarei"
+      "gloss": "e ⟨te⟩ cantarei"
     },
     {
       "surface": "בל",
-      "english": "⟨com⟩ não"
+      "gloss": "⟨com⟩ não"
     },
     {
       "surface": "אמים",
-      "english": "⟨não⟩ povos"
+      "gloss": "⟨não⟩ povos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:52:59.343800458Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

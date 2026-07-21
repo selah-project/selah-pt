@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-samuel 1:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 1,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:43:17.423520990Z",
+  "translation": "E Davidd disse a ele: '⟨de⟩ onde vens?' E ele disse a ele: '⟨do⟩ acampamento de Yisrael escapuei.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אי",
+      "gloss": "⟨de⟩ onde"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "vens?"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "vês?"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "⟨do⟩ acampamento"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "escapuei"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,68 +71,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17520,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 17901
-  },
-  "translation": "E Davidd disse a ele: '⟨de⟩ onde vens?' E ele disse a ele: '⟨do⟩ acampamento de Yisrael escapuei.'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "לו",
-      "english": "a ele"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אי",
-      "english": "⟨de⟩ onde"
-    },
-    {
-      "surface": "מזה",
-      "english": "vens?"
-    },
-    {
-      "surface": "תבוא",
-      "english": "vês?"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ele"
-    },
-    {
-      "surface": "ממחנה",
-      "english": "⟨do⟩ acampamento"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "נמלטתי",
-      "english": "escapuei"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:43:17.423520990Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 22:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62783,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63068
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:53:01.585802132Z",
   "translation": "⟨In⟩ You our fathers trusted; ⟨in⟩ You they trusted, and ⟨You⟩ delivered them.",
   "tokens": [
     {
       "surface": "בך",
-      "english": "⟨In⟩ You"
+      "gloss": "⟨In⟩ You"
     },
     {
       "surface": "בטחו",
-      "english": "our fathers trusted"
+      "gloss": "our fathers trusted"
     },
     {
       "surface": "אבתינו",
-      "english": "⟨in⟩ You"
+      "gloss": "⟨in⟩ You"
     },
     {
       "surface": "בטחו",
-      "english": "they trusted"
+      "gloss": "they trusted"
     },
     {
       "surface": "ותפלטמו",
-      "english": "and ⟨You⟩ delivered them"
+      "gloss": "and ⟨You⟩ delivered them"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:53:01.585802132Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

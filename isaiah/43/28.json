@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "isaiah 43:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 43,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:46:36.689594734Z",
+  "translation": "Por isso profanarei ⟨os⟩ príncipes ⟨do⟩ santuário, e entregarei Yaakov ⟨à⟩ destruição e Israel ⟨para⟩ reprovações.",
+  "tokens": [
+    {
+      "surface": "ואחלל",
+      "gloss": "Por isso profanarei"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "⟨os⟩ príncipes"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨do⟩ santuário"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "e entregarei"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "Jacó ⟨à⟩ destruição",
+      "marks": "Jacó"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "e Israel"
+    },
+    {
+      "surface": "לגדופים",
+      "gloss": "⟨para⟩ reprovações"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacó",
@@ -13,57 +53,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 43,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19033,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19486
-  },
-  "translation": "Por isso profanarei ⟨os⟩ príncipes ⟨do⟩ santuário, e entregarei Yaakov ⟨à⟩ destruição e Israel ⟨para⟩ reprovações.",
-  "tokens": [
-    {
-      "surface": "ואחלל",
-      "english": "Por isso profanarei"
-    },
-    {
-      "surface": "שרי",
-      "english": "⟨os⟩ príncipes"
-    },
-    {
-      "surface": "קדש",
-      "english": "⟨do⟩ santuário"
-    },
-    {
-      "surface": "ואתנה",
-      "english": "e entregarei"
-    },
-    {
-      "surface": "לחרם",
-      "english": "Jacó ⟨à⟩ destruição",
-      "marks": "Jacó"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "וישראל",
-      "english": "e Israel"
-    },
-    {
-      "surface": "לגדופים",
-      "english": "⟨para⟩ reprovações"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:46:36.689594734Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

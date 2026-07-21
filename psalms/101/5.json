@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 101:5",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 101,
-  "usage": {
-    "completion_tokens": 579,
-    "prompt_tokens": 70928,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71507
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:46:07.230925922Z",
   "translation": "Quem em segredo calunia o seu próximo, ⟨eu o⟩ destruirei; quem tem olhos altivos e coração orgulhoso, ⟨eu⟩ ⟨não⟩ ⟨poderei⟩ suportar.",
   "tokens": [
     {
       "surface": "מלושני",
-      "english": "Quem ... calunia"
+      "gloss": "Quem ... calunia"
     },
     {
       "surface": "בסתר",
-      "english": "em segredo"
+      "gloss": "em segredo"
     },
     {
       "surface": "רעהו",
-      "english": "o seu próximo"
+      "gloss": "o seu próximo"
     },
     {
       "surface": "אותו",
-      "english": "⟨eu o⟩",
+      "gloss": "⟨eu o⟩",
       "marks": "destruirei"
     },
     {
       "surface": "אצמית",
-      "english": "destruirei"
+      "gloss": "destruirei"
     },
     {
       "surface": "גבה",
-      "english": "altivos"
+      "gloss": "altivos"
     },
     {
       "surface": "עינים",
-      "english": "olhos"
+      "gloss": "olhos"
     },
     {
       "surface": "ורחב",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "לבב",
-      "english": "coração"
+      "gloss": "coração"
     },
     {
       "surface": "אתו",
-      "english": "⟨eu⟩",
+      "gloss": "⟨eu⟩",
       "marks": "não poderei suportar"
     },
     {
       "surface": "לא",
-      "english": "⟨não⟩"
+      "gloss": "⟨não⟩"
     },
     {
       "surface": "אוכל",
-      "english": "⟨poderei⟩ suportar"
+      "gloss": "⟨poderei⟩ suportar"
     }
-  ],
-  "timestamp": "2026-07-16T17:46:07.230925922Z",
-  "model": "glm-4.5"
+  ]
 }

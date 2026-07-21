@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "micah 5:11",
   "book": "micah",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 512,
-    "prompt_tokens": 23141,
-    "prompt_tokens_details": {
-      "cached_tokens": 22016
-    },
-    "total_tokens": 23653
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:55:51.827375489Z",
   "translation": "E cortarei ⟨את⟩ ⟨as⟩ feitiçarias de ⟨a⟩ tua mão, e ⟨os⟩ encantamentos não estarão em ti.",
   "tokens": [
     {
       "surface": "והכרתי",
-      "english": "E cortarei"
+      "gloss": "E cortarei"
     },
     {
       "surface": "כשפים",
-      "english": "⟨את⟩ ⟨as⟩ feitiçarias",
+      "gloss": "⟨את⟩ ⟨as⟩ feitiçarias",
       "marks": "feitiçarias"
     },
     {
       "surface": "מידך",
-      "english": "de ⟨a⟩ tua mão"
+      "gloss": "de ⟨a⟩ tua mão"
     },
     {
       "surface": "ומעוננים",
-      "english": "e ⟨os⟩ encantamentos"
+      "gloss": "e ⟨os⟩ encantamentos"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "יהיו",
-      "english": "estarão"
+      "gloss": "estarão"
     },
     {
       "surface": "לך",
-      "english": "em ti"
+      "gloss": "em ti"
     }
-  ],
-  "timestamp": "2026-07-16T16:55:51.827375489Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 50:16",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 668,
-    "prompt_tokens": 70643,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71311
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:39:29.923013962Z",
   "translation": "Mas ao perverso disse Elohim: Que tens tu ⟨para⟩ narrar ⟨meus⟩ decretos, ⟨e⟩ tomaste a minha Brit na tua boca?",
   "tokens": [
     {
       "surface": "ולרשע",
-      "english": "Mas ao perverso"
+      "gloss": "Mas ao perverso"
     },
     {
       "surface": "אמר",
-      "english": "disse"
+      "gloss": "disse"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "מה",
-      "english": "Que"
+      "gloss": "Que"
     },
     {
       "surface": "לך",
-      "english": "tens tu"
+      "gloss": "tens tu"
     },
     {
       "surface": "לספר",
-      "english": "⟨para⟩ narrar"
+      "gloss": "⟨para⟩ narrar"
     },
     {
       "surface": "חקי",
-      "english": "⟨meus⟩ decretos"
+      "gloss": "⟨meus⟩ decretos"
     },
     {
       "surface": "ותשא",
-      "english": "⟨e⟩ tomaste"
+      "gloss": "⟨e⟩ tomaste"
     },
     {
       "surface": "בריתי",
-      "english": "a minha Brit",
+      "gloss": "a minha Brit",
       "marks": "a minha Brit"
     },
     {
       "surface": "עלי",
-      "english": "na"
+      "gloss": "na"
     },
     {
       "surface": "פיך",
-      "english": "tua boca"
+      "gloss": "tua boca"
     }
-  ],
-  "timestamp": "2026-07-16T17:39:29.923013962Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 19:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
+  "chapter": 19,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:34:18.253098581Z",
+  "translation": "Quem guarda ⟨o⟩ Mitzvá, guarda sua alma; mas quem despreza seus caminhos ⟨é⟩ aquele que morrerá.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Quem guarda"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "⟨o⟩ Mitzvá"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "guarda"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sua alma"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "mas quem despreza"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "seus caminhos"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "⟨é⟩ aquele que morrerá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamento",
@@ -13,52 +48,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52878,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53226
-  },
-  "translation": "Quem guarda ⟨o⟩ Mitzvá, guarda sua alma; mas quem despreza seus caminhos ⟨é⟩ aquele que morrerá.",
-  "tokens": [
-    {
-      "surface": "שמר",
-      "english": "Quem guarda"
-    },
-    {
-      "surface": "מצוה",
-      "english": "⟨o⟩ Mitzvá"
-    },
-    {
-      "surface": "שמר",
-      "english": "guarda"
-    },
-    {
-      "surface": "נפשו",
-      "english": "sua alma"
-    },
-    {
-      "surface": "בוזה",
-      "english": "mas quem despreza"
-    },
-    {
-      "surface": "דרכיו",
-      "english": "seus caminhos"
-    },
-    {
-      "surface": "יומת",
-      "english": "⟨é⟩ aquele que morrerá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:34:18.253098581Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

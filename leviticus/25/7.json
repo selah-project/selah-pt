@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "leviticus 25:7",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 622,
-    "prompt_tokens": 24967,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25589
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:50:52.423589596Z",
   "translation": "e para ⟨o⟩ teu gado, e para ⟨a⟩ besta-fera que ⟨está⟩ em ⟨a⟩ tua terra, será ⟨o⟩ todo ⟨o⟩ ⟨seu⟩ produto para comer",
   "tokens": [
     {
       "surface": "ולבהמתך",
-      "english": "e para ⟨o⟩ teu gado"
+      "gloss": "e para ⟨o⟩ teu gado"
     },
     {
       "surface": "ולחיה",
-      "english": "e para ⟨a⟩ besta-fera"
+      "gloss": "e para ⟨a⟩ besta-fera"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "בארצך",
-      "english": "⟨está⟩ em ⟨a⟩ tua terra"
+      "gloss": "⟨está⟩ em ⟨a⟩ tua terra"
     },
     {
       "surface": "תהיה",
-      "english": "será"
+      "gloss": "será"
     },
     {
       "surface": "כל",
-      "english": "⟨o⟩ todo"
+      "gloss": "⟨o⟩ todo"
     },
     {
       "surface": "תבואתה",
-      "english": "⟨o⟩ ⟨seu⟩ produto"
+      "gloss": "⟨o⟩ ⟨seu⟩ produto"
     },
     {
       "surface": "לאכל",
-      "english": "para comer"
+      "gloss": "para comer"
     }
-  ],
-  "timestamp": "2026-07-16T16:50:52.423589596Z",
-  "model": "glm-4.5"
+  ]
 }

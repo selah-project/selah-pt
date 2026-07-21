@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "numbers 2:8",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 379,
-    "prompt_tokens": 25381,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25760
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:02:49.002341440Z",
   "translation": "e seu exército e ⟨os⟩ seus contados: cinquenta e sete mil e quatrocentos",
   "tokens": [
     {
       "surface": "וצבאו",
-      "english": "e seu exército"
+      "gloss": "e seu exército"
     },
     {
       "surface": "ופקדיו",
-      "english": "e ⟨os⟩ seus contados"
+      "gloss": "e ⟨os⟩ seus contados"
     },
     {
       "surface": "שבעה",
-      "english": "sete"
+      "gloss": "sete"
     },
     {
       "surface": "וחמשים",
-      "english": "e cinquenta"
+      "gloss": "e cinquenta"
     },
     {
       "surface": "אלף",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "וארבע",
-      "english": "e quatro"
+      "gloss": "e quatro"
     },
     {
       "surface": "מאות",
-      "english": "centos"
+      "gloss": "centos"
     }
-  ],
-  "timestamp": "2026-07-16T17:02:49.002341440Z",
-  "model": "glm-4.5"
+  ]
 }

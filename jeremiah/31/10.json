@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "jeremiah 31:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 31,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:34:19.903833443Z",
+  "translation": "Ouçam ⟨o⟩ palavra de YHWH, ó nações, e ⟨o⟩ anunciem nas ilhas distantes, e digam: 'Aquele que espalhou Yisrael ⟨o⟩ congregará, e ⟨o⟩ guardará como pastor ⟨o⟩ seu rebanho.'",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ouçam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨o⟩ palavra",
+      "marks": "palavra de YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ó nações"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "e ⟨o⟩ anunciem"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "nas ilhas"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "distantes"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "e digam"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "'Aquele que espalhou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יקבצנו",
+      "gloss": "⟨o⟩ congregará",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "e ⟨o⟩ guardará",
+      "marks": "Israel"
+    },
+    {
+      "surface": "כרעה",
+      "gloss": "como pastor"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "⟨o⟩ seu rebanho",
+      "marks": "rebanho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 752,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18171,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18923
-  },
-  "translation": "Ouçam ⟨o⟩ palavra de YHWH, ó nações, e ⟨o⟩ anunciem nas ilhas distantes, e digam: 'Aquele que espalhou Yisrael ⟨o⟩ congregará, e ⟨o⟩ guardará como pastor ⟨o⟩ seu rebanho.'",
-  "tokens": [
-    {
-      "surface": "שמעו",
-      "english": "Ouçam"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨o⟩ palavra",
-      "marks": "palavra de YHWH"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "גוים",
-      "english": "ó nações"
-    },
-    {
-      "surface": "והגידו",
-      "english": "e ⟨o⟩ anunciem"
-    },
-    {
-      "surface": "באיים",
-      "english": "nas ilhas"
-    },
-    {
-      "surface": "ממרחק",
-      "english": "distantes"
-    },
-    {
-      "surface": "ואמרו",
-      "english": "e digam"
-    },
-    {
-      "surface": "מזרה",
-      "english": "'Aquele que espalhou"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "יקבצנו",
-      "english": "⟨o⟩ congregará",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ושמרו",
-      "english": "e ⟨o⟩ guardará",
-      "marks": "Israel"
-    },
-    {
-      "surface": "כרעה",
-      "english": "como pastor"
-    },
-    {
-      "surface": "עדרו",
-      "english": "⟨o⟩ seu rebanho",
-      "marks": "rebanho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:34:19.903833443Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

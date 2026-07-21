@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "nehemiah 2:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 2,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:15:50.364261664Z",
+  "translation": "E eu saí ⟨de⟩ noite pela porta do vale, ⟨e⟩ diante ⟨da⟩ fonte ⟨do⟩ dragão, ⟨e⟩ ⟨para⟩ a porta do esterco, ⟨e⟩ eu ⟨era⟩ examinando ⟨as⟩ muralhas de Yerushalayim, que estavam demolidas, e ⟨as⟩ suas portas foram consumidas ⟨pelo⟩ fogo.",
+  "tokens": [
+    {
+      "surface": "ואצאה",
+      "gloss": "E eu saí"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "pela porta"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "do vale"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "⟨de⟩ noite"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "diante ⟨da⟩"
+    },
+    {
+      "surface": "עין",
+      "gloss": "fonte"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "⟨do⟩ dragão"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "שער",
+      "gloss": "⟨para⟩ a porta"
+    },
+    {
+      "surface": "האשפת",
+      "gloss": "do esterco"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "⟨e⟩ eu ⟨era⟩"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "examinando"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "⟨as⟩ muralhas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "המפרוצים",
+      "gloss": "estavam demolidas"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "⟨as⟩ suas portas"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "foram consumidas"
+    },
+    {
+      "surface": "באש",
+      "gloss": "⟨pelo⟩ fogo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,104 +100,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 1056,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 50678,
-    "prompt_tokens_details": {
-      "cached_tokens": 48509
-    },
-    "total_tokens": 51734
-  },
-  "translation": "E eu saí ⟨de⟩ noite pela porta do vale, ⟨e⟩ diante ⟨da⟩ fonte ⟨do⟩ dragão, ⟨e⟩ ⟨para⟩ a porta do esterco, ⟨e⟩ eu ⟨era⟩ examinando ⟨as⟩ muralhas de Yerushalayim, que estavam demolidas, e ⟨as⟩ suas portas foram consumidas ⟨pelo⟩ fogo.",
-  "tokens": [
-    {
-      "surface": "ואצאה",
-      "english": "E eu saí"
-    },
-    {
-      "surface": "בשער",
-      "english": "pela porta"
-    },
-    {
-      "surface": "הגיא",
-      "english": "do vale"
-    },
-    {
-      "surface": "לילה",
-      "english": "⟨de⟩ noite"
-    },
-    {
-      "surface": "ואל",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "פני",
-      "english": "diante ⟨da⟩"
-    },
-    {
-      "surface": "עין",
-      "english": "fonte"
-    },
-    {
-      "surface": "התנין",
-      "english": "⟨do⟩ dragão"
-    },
-    {
-      "surface": "ואל",
-      "english": "⟨e⟩"
-    },
-    {
-      "surface": "שער",
-      "english": "⟨para⟩ a porta"
-    },
-    {
-      "surface": "האשפת",
-      "english": "do esterco"
-    },
-    {
-      "surface": "ואהי",
-      "english": "⟨e⟩ eu ⟨era⟩"
-    },
-    {
-      "surface": "שבר",
-      "english": "examinando"
-    },
-    {
-      "surface": "בחומת",
-      "english": "⟨as⟩ muralhas"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "המפרוצים",
-      "english": "estavam demolidas"
-    },
-    {
-      "surface": "ושעריה",
-      "english": "⟨as⟩ suas portas"
-    },
-    {
-      "surface": "אכלו",
-      "english": "foram consumidas"
-    },
-    {
-      "surface": "באש",
-      "english": "⟨pelo⟩ fogo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:15:50.364261664Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

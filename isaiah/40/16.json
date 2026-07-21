@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "isaiah 40:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 40,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:43:31.062588515Z",
+  "translation": "E para o Líbano não ⟨há⟩ lenha suficiente para queimar, e ⟨os⟩ animais dele não ⟨são⟩ suficientes para ⟨um⟩ Olá ⟨oferta⟩.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "E para o Líbano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "não ⟨há⟩"
+    },
+    {
+      "surface": "די",
+      "gloss": "lenha suficiente"
+    },
+    {
+      "surface": "בער",
+      "gloss": "para queimar"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "e ⟨os⟩ animais dele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "não ⟨são⟩"
+    },
+    {
+      "surface": "די",
+      "gloss": "suficientes"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "para ⟨um⟩ Olá ⟨oferta⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "holocausto",
@@ -13,56 +52,6 @@
       "hebrew": "עלה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 40,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19007,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19497
-  },
-  "translation": "E para o Líbano não ⟨há⟩ lenha suficiente para queimar, e ⟨os⟩ animais dele não ⟨são⟩ suficientes para ⟨um⟩ Olá ⟨oferta⟩.",
-  "tokens": [
-    {
-      "surface": "ולבנון",
-      "english": "E para o Líbano"
-    },
-    {
-      "surface": "אין",
-      "english": "não ⟨há⟩"
-    },
-    {
-      "surface": "די",
-      "english": "lenha suficiente"
-    },
-    {
-      "surface": "בער",
-      "english": "para queimar"
-    },
-    {
-      "surface": "וחיתו",
-      "english": "e ⟨os⟩ animais dele"
-    },
-    {
-      "surface": "אין",
-      "english": "não ⟨são⟩"
-    },
-    {
-      "surface": "די",
-      "english": "suficientes"
-    },
-    {
-      "surface": "עולה",
-      "english": "para ⟨um⟩ Olá ⟨oferta⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:43:31.062588515Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

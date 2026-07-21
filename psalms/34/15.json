@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 34:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 34,
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:00:37.818533058Z",
+  "translation": "Desvia-te do mal e faze ⟨o⟩ bem; busca ⟨a⟩ Shalom e persegue-a",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Desvia-te"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "do mal"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e faze"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨o⟩ bem"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "busca"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨a⟩ Shalom"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "e persegue-a"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,52 +48,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62858,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63164
-  },
-  "translation": "Desvia-te do mal e faze ⟨o⟩ bem; busca ⟨a⟩ Shalom e persegue-a",
-  "tokens": [
-    {
-      "surface": "סור",
-      "english": "Desvia-te"
-    },
-    {
-      "surface": "מרע",
-      "english": "do mal"
-    },
-    {
-      "surface": "ועשה",
-      "english": "e faze"
-    },
-    {
-      "surface": "טוב",
-      "english": "⟨o⟩ bem"
-    },
-    {
-      "surface": "בקש",
-      "english": "busca"
-    },
-    {
-      "surface": "שלום",
-      "english": "⟨a⟩ Shalom"
-    },
-    {
-      "surface": "ורדפהו",
-      "english": "e persegue-a"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:00:37.818533058Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "joshua 15:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 15,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:40:00.199450977Z",
+  "translation": "E ⟨o⟩ limite ⟨é⟩ ⟨o⟩ mar ⟨do⟩ grande mar e ⟨o⟩ limite este ⟨é⟩ ⟨o⟩ limite dos filhos de Yehudá ao redor para ⟨as⟩ suas famílias",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "E ⟨o⟩ limite"
+    },
+    {
+      "surface": "ים",
+      "gloss": "⟨o⟩ mar"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "⟨do⟩ grande mar"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "e ⟨o⟩ limite"
+    },
+    {
+      "surface": "זה",
+      "gloss": "este"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨o⟩ limite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dos filhos"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ao redor"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "para ⟨as⟩ suas famílias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,68 +64,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16706,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 17155
-  },
-  "translation": "E ⟨o⟩ limite ⟨é⟩ ⟨o⟩ mar ⟨do⟩ grande mar e ⟨o⟩ limite este ⟨é⟩ ⟨o⟩ limite dos filhos de Yehudá ao redor para ⟨as⟩ suas famílias",
-  "tokens": [
-    {
-      "surface": "וגבול",
-      "english": "E ⟨o⟩ limite"
-    },
-    {
-      "surface": "ים",
-      "english": "⟨o⟩ mar"
-    },
-    {
-      "surface": "הימה",
-      "english": "⟨do⟩ grande mar"
-    },
-    {
-      "surface": "הגדול",
-      "english": "grande"
-    },
-    {
-      "surface": "וגבול",
-      "english": "e ⟨o⟩ limite"
-    },
-    {
-      "surface": "זה",
-      "english": "este"
-    },
-    {
-      "surface": "גבול",
-      "english": "⟨o⟩ limite"
-    },
-    {
-      "surface": "בני",
-      "english": "dos filhos"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "סביב",
-      "english": "ao redor"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "para ⟨as⟩ suas famílias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:40:00.199450977Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

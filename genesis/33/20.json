@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 33:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 33,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:16:07.712259543Z",
+  "translation": "E ele estabeleceu ⟨um⟩ altar ali e o chamou El-Elohe-Yisrael",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "E ele estabeleceu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "⟨um⟩ altar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e o chamou"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21278,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21550
-  },
-  "translation": "E ele estabeleceu ⟨um⟩ altar ali e o chamou El-Elohe-Yisrael",
-  "tokens": [
-    {
-      "surface": "ויצב",
-      "english": "E ele estabeleceu"
-    },
-    {
-      "surface": "שם",
-      "english": "ali"
-    },
-    {
-      "surface": "מזבח",
-      "english": "⟨um⟩ altar"
-    },
-    {
-      "surface": "ויקרא",
-      "english": "e o chamou"
-    },
-    {
-      "surface": "לו",
-      "english": "o"
-    },
-    {
-      "surface": "אל",
-      "english": "El"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohe"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:16:07.712259543Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

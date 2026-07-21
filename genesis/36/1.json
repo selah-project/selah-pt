@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 36:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 240,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21055,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 21295
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:18:23.358027858Z",
   "translation": "E estes ⟨são⟩ ⟨as⟩ gerações de Esav, ⟨o qual é⟩ Edom.",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "E estes"
+      "gloss": "E estes"
     },
     {
       "surface": "תלדות",
-      "english": "⟨as⟩ gerações"
+      "gloss": "⟨as⟩ gerações"
     },
     {
       "surface": "עשו",
-      "english": "de Esav"
+      "gloss": "de Esav"
     },
     {
       "surface": "הוא",
-      "english": "⟨o qual é⟩"
+      "gloss": "⟨o qual é⟩"
     },
     {
       "surface": "אדום",
-      "english": "Edom"
+      "gloss": "Edom"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:18:23.358027858Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

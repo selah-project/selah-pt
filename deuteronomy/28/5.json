@@ -1,33 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "deuteronomy 28:5",
   "book": "deuteronomy",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 289,
-    "prompt_tokens": 24604,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 24893
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:29:09.896814421Z",
   "translation": "Bendito ⟨é⟩ ⟨o⟩ teu cesto e ⟨a⟩ tua amassadeira",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "Bendito"
+      "gloss": "Bendito"
     },
     {
       "surface": "טנאך",
-      "english": "⟨o⟩ teu cesto"
+      "gloss": "⟨o⟩ teu cesto"
     },
     {
       "surface": "ומשארתך",
-      "english": "e ⟨a⟩ tua amassadeira"
+      "gloss": "e ⟨a⟩ tua amassadeira"
     }
-  ],
-  "timestamp": "2026-07-16T13:29:09.896814421Z",
-  "model": "glm-4.5"
+  ]
 }

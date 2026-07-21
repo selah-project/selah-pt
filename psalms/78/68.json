@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 68,
   "ref": "psalms 78:68",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 390,
-    "prompt_tokens": 70525,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70915
-  },
+  "verse": 68,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:22.418424846Z",
   "translation": "E escolheu ⟨את⟩ a tribo de Yehudá, ⟨את⟩ o monte Tzion que ele amou.",
   "tokens": [
     {
       "surface": "ויבחר",
-      "english": "E escolheu"
+      "gloss": "E escolheu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a tribo de Yehudá"
     },
     {
       "surface": "שבט",
-      "english": "a tribo"
+      "gloss": "a tribo"
     },
     {
       "surface": "יהודה",
-      "english": "de Yehudá"
+      "gloss": "de Yehudá"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "o monte Tzion"
     },
     {
       "surface": "הר",
-      "english": "o monte"
+      "gloss": "o monte"
     },
     {
       "surface": "ציון",
-      "english": "Tzion"
+      "gloss": "Tzion"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אהב",
-      "english": "ele amou"
+      "gloss": "ele amou"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:22.418424846Z",
-  "model": "glm-4.5"
+  ]
 }

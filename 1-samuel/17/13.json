@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-samuel 17:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 17,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:28:14.380147394Z",
+  "translation": "E ⟨os⟩ três filhos mais velhos de Jessi foram e seguiram a Shaul ⟨para⟩ ⟨a⟩ guerra; e ⟨o⟩ nome dos três filhos dele que foram ⟨à⟩ guerra ⟨era⟩ Eliav ⟨o⟩ primogênito, e ⟨o⟩ seu segundo Abinadabe, e ⟨o⟩ terceiro Samá",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Foram"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "três"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "de Jessi"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "mais velhos"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "foram"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "seguiram"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "a Shaul"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "para a guerra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e o nome"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "três"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "filhos dele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "foram"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "à guerra"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "o primogênito"
+    },
+    {
+      "surface": "ומשנהו",
+      "gloss": "e o seu segundo"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadabe"
+    },
+    {
+      "surface": "והשלשי",
+      "gloss": "e o terceiro"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Samá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -13,108 +104,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 1016,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17724,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18740
-  },
-  "translation": "E ⟨os⟩ três filhos mais velhos de Jessi foram e seguiram a Shaul ⟨para⟩ ⟨a⟩ guerra; e ⟨o⟩ nome dos três filhos dele que foram ⟨à⟩ guerra ⟨era⟩ Eliav ⟨o⟩ primogênito, e ⟨o⟩ seu segundo Abinadabe, e ⟨o⟩ terceiro Samá",
-  "tokens": [
-    {
-      "surface": "וילכו",
-      "english": "Foram"
-    },
-    {
-      "surface": "שלשת",
-      "english": "três"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "ישי",
-      "english": "de Jessi"
-    },
-    {
-      "surface": "הגדלים",
-      "english": "mais velhos"
-    },
-    {
-      "surface": "הלכו",
-      "english": "foram"
-    },
-    {
-      "surface": "אחרי",
-      "english": "seguiram"
-    },
-    {
-      "surface": "שאול",
-      "english": "a Shaul"
-    },
-    {
-      "surface": "למלחמה",
-      "english": "para a guerra"
-    },
-    {
-      "surface": "ושם",
-      "english": "e o nome"
-    },
-    {
-      "surface": "שלשת",
-      "english": "três"
-    },
-    {
-      "surface": "בניו",
-      "english": "filhos dele"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "הלכו",
-      "english": "foram"
-    },
-    {
-      "surface": "במלחמה",
-      "english": "à guerra"
-    },
-    {
-      "surface": "אליאב",
-      "english": "Eliav"
-    },
-    {
-      "surface": "הבכור",
-      "english": "o primogênito"
-    },
-    {
-      "surface": "ומשנהו",
-      "english": "e o seu segundo"
-    },
-    {
-      "surface": "אבינדב",
-      "english": "Abinadabe"
-    },
-    {
-      "surface": "והשלשי",
-      "english": "e o terceiro"
-    },
-    {
-      "surface": "שמה",
-      "english": "Samá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:28:14.380147394Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

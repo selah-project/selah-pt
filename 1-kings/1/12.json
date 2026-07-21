@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-kings 1:12",
   "book": "1-kings",
-  "lang": "pt",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 554,
-    "prompt_tokens": 70412,
-    "prompt_tokens_details": {
-      "cached_tokens": 68608
-    },
-    "total_tokens": 70966
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:18:24.750523315Z",
   "translation": "Agora pois, vem, deixa-me dar-te conselho, rogo-te, e salva ⟨את⟩ a tua vida e ⟨את⟩ a vida de Shlomó, teu filho.",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "Agora pois"
+      "gloss": "Agora pois"
     },
     {
       "surface": "לכי",
-      "english": "vem"
+      "gloss": "vem"
     },
     {
       "surface": "איעצך",
-      "english": "deixa-me dar-te conselho"
+      "gloss": "deixa-me dar-te conselho"
     },
     {
       "surface": "נא",
-      "english": "rogo-te"
+      "gloss": "rogo-te"
     },
     {
       "surface": "עצה",
-      "english": "conselho"
+      "gloss": "conselho"
     },
     {
       "surface": "ומלטי",
-      "english": "e salva"
+      "gloss": "e salva"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a tua vida"
     },
     {
       "surface": "נפשך",
-      "english": "a tua vida"
+      "gloss": "a tua vida"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a vida"
     },
     {
       "surface": "נפש",
-      "english": "a vida"
+      "gloss": "a vida"
     },
     {
       "surface": "בנך",
-      "english": "de Shlomó, teu filho"
+      "gloss": "de Shlomó, teu filho"
     },
     {
       "surface": "שלמה",
-      "english": "Shlomó"
+      "gloss": "Shlomó"
     }
-  ],
-  "timestamp": "2026-07-16T11:18:24.750523315Z",
-  "model": "glm-4.5"
+  ]
 }

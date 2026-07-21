@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "exodus 33:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 33,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:27:18.613981982Z",
+  "translation": "E acontecia ⟨que⟩, ao entrar Moshé ⟨na⟩ tenda, a coluna de nuvem descia e se postava ⟨à⟩ entrada da tenda, e HaShem falava com Moshé.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E acontecia ⟨que⟩"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ao entrar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "⟨na⟩ tenda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "descia"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "coluna"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "de nuvem"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "e se postava"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "⟨à⟩ entrada"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "da tenda"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e HaShem falava"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -20,76 +79,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17344,
-    "prompt_tokens_details": {
-      "cached_tokens": 15861
-    },
-    "total_tokens": 17808
-  },
-  "translation": "E acontecia ⟨que⟩, ao entrar Moshé ⟨na⟩ tenda, a coluna de nuvem descia e se postava ⟨à⟩ entrada da tenda, e HaShem falava com Moshé.",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "E acontecia ⟨que⟩"
-    },
-    {
-      "surface": "כבא",
-      "english": "ao entrar"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "האהלה",
-      "english": "⟨na⟩ tenda"
-    },
-    {
-      "surface": "ירד",
-      "english": "descia"
-    },
-    {
-      "surface": "עמוד",
-      "english": "coluna"
-    },
-    {
-      "surface": "הענן",
-      "english": "de nuvem"
-    },
-    {
-      "surface": "ועמד",
-      "english": "e se postava"
-    },
-    {
-      "surface": "פתח",
-      "english": "⟨à⟩ entrada"
-    },
-    {
-      "surface": "האהל",
-      "english": "da tenda"
-    },
-    {
-      "surface": "ודבר",
-      "english": "e HaShem falava"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:27:18.613981982Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

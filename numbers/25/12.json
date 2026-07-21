@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "numbers 25:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 25,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:36:53.229777241Z",
+  "translation": "Portanto, dize: Eis que ⟨estou⟩ dando a ele ⟨את⟩ a minhBrit de Shalom",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Portanto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dize"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨estou⟩ dando"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a minha aliança"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "a minhBrit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de Shalom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "a aliança",
@@ -20,57 +60,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18096,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18511
-  },
-  "translation": "Portanto, dize: Eis que ⟨estou⟩ dando a ele ⟨את⟩ a minhBrit de Shalom",
-  "tokens": [
-    {
-      "surface": "לכן",
-      "english": "Portanto"
-    },
-    {
-      "surface": "אמר",
-      "english": "dize"
-    },
-    {
-      "surface": "הנני",
-      "english": "Eis que"
-    },
-    {
-      "surface": "נתן",
-      "english": "⟨estou⟩ dando"
-    },
-    {
-      "surface": "לו",
-      "english": "a ele"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "a minha aliança"
-    },
-    {
-      "surface": "בריתי",
-      "english": "a minhBrit"
-    },
-    {
-      "surface": "שלום",
-      "english": "de Shalom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:36:53.229777241Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

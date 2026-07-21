@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "ezekiel 39:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 39,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:43:40.917210174Z",
+  "translation": "E ⟨farei⟩-te ⟨vir⟩, e ⟨farei⟩-te vir, e ⟨farei⟩-te subir ⟨das partes⟩ mais remotas ⟨do⟩ norte, e ⟨trarei⟩-te sobre ⟨os⟩ montes de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושבבתיך",
+      "gloss": "E ⟨farei⟩-te ⟨vir⟩"
+    },
+    {
+      "surface": "וששאתיך",
+      "gloss": "e ⟨farei⟩-te vir"
+    },
+    {
+      "surface": "והעליתיך",
+      "gloss": "e ⟨farei⟩-te subir"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "⟨das partes⟩ mais remotas"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "⟨do⟩ norte"
+    },
+    {
+      "surface": "והבאותך",
+      "gloss": "e ⟨trarei⟩-te"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "⟨os⟩ montes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 39,
-  "usage": {
-    "completion_tokens": 680,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17680,
-    "prompt_tokens_details": {
-      "cached_tokens": 16310
-    },
-    "total_tokens": 18360
-  },
-  "translation": "E ⟨farei⟩-te ⟨vir⟩, e ⟨farei⟩-te vir, e ⟨farei⟩-te subir ⟨das partes⟩ mais remotas ⟨do⟩ norte, e ⟨trarei⟩-te sobre ⟨os⟩ montes de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ושבבתיך",
-      "english": "E ⟨farei⟩-te ⟨vir⟩"
-    },
-    {
-      "surface": "וששאתיך",
-      "english": "e ⟨farei⟩-te vir"
-    },
-    {
-      "surface": "והעליתיך",
-      "english": "e ⟨farei⟩-te subir"
-    },
-    {
-      "surface": "מירכתי",
-      "english": "⟨das partes⟩ mais remotas"
-    },
-    {
-      "surface": "צפון",
-      "english": "⟨do⟩ norte"
-    },
-    {
-      "surface": "והבאותך",
-      "english": "e ⟨trarei⟩-te"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "הרי",
-      "english": "⟨os⟩ montes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:43:40.917210174Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

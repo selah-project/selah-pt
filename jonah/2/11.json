@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "jonah 2:11",
   "book": "jonah",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 354,
-    "prompt_tokens": 26846,
-    "prompt_tokens_details": {
-      "cached_tokens": 25856
-    },
-    "total_tokens": 27200
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:04:55.477008089Z",
   "translation": "E YHWH disse ⟨ao⟩ peixe, e ele vomitou ⟨את⟩ Yoná para ⟨a⟩ terra seca",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "E ... disse"
+      "gloss": "E ... disse"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לדג",
-      "english": "⟨ao⟩ peixe"
+      "gloss": "⟨ao⟩ peixe"
     },
     {
       "surface": "ויקא",
-      "english": "e ele vomitou"
+      "gloss": "e ele vomitou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yoná"
     },
     {
       "surface": "יונה",
-      "english": "Yoná"
+      "gloss": "Yoná"
     },
     {
       "surface": "אל",
-      "english": "para"
+      "gloss": "para"
     },
     {
       "surface": "היבשה",
-      "english": "⟨a⟩ terra seca"
+      "gloss": "⟨a⟩ terra seca"
     }
-  ],
-  "timestamp": "2026-07-16T16:04:55.477008089Z",
-  "model": "glm-4.5"
+  ]
 }

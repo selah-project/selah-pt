@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 136:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62781,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63097
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:09:36.492439565Z",
   "translation": "Louvem ⟨ao⟩ Elohim dos elohim, pois para sempre ⟨é⟩ seu ḥesed.",
   "tokens": [
     {
       "surface": "הודו",
-      "english": "Louvem"
+      "gloss": "Louvem"
     },
     {
       "surface": "לאלהי",
-      "english": "⟨ao⟩ Elohim",
+      "gloss": "⟨ao⟩ Elohim",
       "marks": "Elohim dos elohim"
     },
     {
       "surface": "האלהים",
-      "english": "dos elohim"
+      "gloss": "dos elohim"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "לעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "חסדו",
-      "english": "seu ḥesed"
+      "gloss": "seu ḥesed"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:09:36.492439565Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

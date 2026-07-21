@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 136:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 488,
-    "prompt_tokens": 70478,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70966
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:05.209944203Z",
   "translation": "A lua e as estrelas para governar ⟨a⟩ noite, pois ⟨o⟩ Jésed de YHWH ⟨é⟩ para sempre.",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a lua"
     },
     {
       "surface": "הירח",
-      "english": "a lua"
+      "gloss": "a lua"
     },
     {
       "surface": "וכוכבים",
-      "english": "e as estrelas"
+      "gloss": "e as estrelas"
     },
     {
       "surface": "לממשלות",
-      "english": "para governar"
+      "gloss": "para governar"
     },
     {
       "surface": "בלילה",
-      "english": "⟨a⟩ noite"
+      "gloss": "⟨a⟩ noite"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "לעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     },
     {
       "surface": "חסדו",
-      "english": "⟨o⟩ Jésed de YHWH ⟨é⟩"
+      "gloss": "⟨o⟩ Jésed de YHWH ⟨é⟩"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:05.209944203Z",
-  "model": "glm-4.5"
+  ]
 }

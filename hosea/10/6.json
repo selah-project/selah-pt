@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "hosea 10:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 10,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:00:08.038084443Z",
+  "translation": "Também ⟨o⟩ será levado à Assíria, uma oferenda ao rei Jareb: Efráyim receberá vergonha, e Yisrael se envergonhará ⟨do⟩ seu próprio conselho.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Também"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨o⟩",
+      "marks": "à Assíria"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "à Assíria"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "será levado"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "uma oferenda"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ao rei"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jareb"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vergonha"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "receberá"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "e Israel se envergonhará"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "⟨do⟩ seu próprio conselho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -20,77 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20157,
-    "prompt_tokens_details": {
-      "cached_tokens": 18473
-    },
-    "total_tokens": 20661
-  },
-  "translation": "Também ⟨o⟩ será levado à Assíria, uma oferenda ao rei Jareb: Efráyim receberá vergonha, e Yisrael se envergonhará ⟨do⟩ seu próprio conselho.",
-  "tokens": [
-    {
-      "surface": "גם",
-      "english": "Também"
-    },
-    {
-      "surface": "אותו",
-      "english": "⟨o⟩",
-      "marks": "à Assíria"
-    },
-    {
-      "surface": "לאשור",
-      "english": "à Assíria"
-    },
-    {
-      "surface": "יובל",
-      "english": "será levado"
-    },
-    {
-      "surface": "מנחה",
-      "english": "uma oferenda"
-    },
-    {
-      "surface": "למלך",
-      "english": "ao rei"
-    },
-    {
-      "surface": "ירב",
-      "english": "Jareb"
-    },
-    {
-      "surface": "בשנה",
-      "english": "vergonha"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "יקח",
-      "english": "receberá"
-    },
-    {
-      "surface": "ויבוש",
-      "english": "e Israel se envergonhará"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מעצתו",
-      "english": "⟨do⟩ seu próprio conselho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:00:08.038084443Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

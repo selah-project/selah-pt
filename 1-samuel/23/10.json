@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-samuel 23:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 23,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:35:24.367938694Z",
+  "translation": "E disse Davidd: 'YHWH, Elohim de Yisrael, ⟨o⟩ teu servo ⟨tem⟩ ouvido, ouvido, que Shaul está buscando vir a Keilah para destruir ⟨a⟩ cidade por minha causa.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ouvido"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ouvido"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨o⟩ teu servo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "está buscando"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "vir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "para destruir"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "⟨a⟩ cidade"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "por minha causa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,92 +102,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17248,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17812
-  },
-  "translation": "E disse Davidd: 'YHWH, Elohim de Yisrael, ⟨o⟩ teu servo ⟨tem⟩ ouvido, ouvido, que Shaul está buscando vir a Keilah para destruir ⟨a⟩ cidade por minha causa.'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "שמע",
-      "english": "ouvido"
-    },
-    {
-      "surface": "שמע",
-      "english": "ouvido"
-    },
-    {
-      "surface": "עבדך",
-      "english": "⟨o⟩ teu servo"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "מבקש",
-      "english": "está buscando"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "לבוא",
-      "english": "vir"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "קעילה",
-      "english": "Keilah"
-    },
-    {
-      "surface": "לשחת",
-      "english": "para destruir"
-    },
-    {
-      "surface": "לעיר",
-      "english": "⟨a⟩ cidade"
-    },
-    {
-      "surface": "בעבורי",
-      "english": "por minha causa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:35:24.367938694Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

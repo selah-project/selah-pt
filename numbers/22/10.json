@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 22:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 22,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:33:19.733557271Z",
+  "translation": "E Bilam disse a Elohim: 'Balac ⟨é⟩ filho de Tsippor, rei de Moav, ⟨o⟩ qual me enviou, ⟨com a⟩ palavra:'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E Bilam disse"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balac"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨é⟩ filho"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "de Tsippor"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "⟨o⟩ qual me enviou"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨com a⟩ palavra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -13,68 +64,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18266,
-    "prompt_tokens_details": {
-      "cached_tokens": 16997
-    },
-    "total_tokens": 18652
-  },
-  "translation": "E Bilam disse a Elohim: 'Balac ⟨é⟩ filho de Tsippor, rei de Moav, ⟨o⟩ qual me enviou, ⟨com a⟩ palavra:'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E Bilam disse"
-    },
-    {
-      "surface": "בלעם",
-      "english": "Bilam"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "האלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "בלק",
-      "english": "Balac"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨é⟩ filho"
-    },
-    {
-      "surface": "צפר",
-      "english": "de Tsippor"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "שלח",
-      "english": "⟨o⟩ qual me enviou"
-    },
-    {
-      "surface": "אלי",
-      "english": "⟨com a⟩ palavra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:33:19.733557271Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

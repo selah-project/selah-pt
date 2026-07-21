@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 137:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 477,
-    "prompt_tokens": 70169,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70646
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:51:32.330464267Z",
   "translation": "Nosso ⟨é⟩ o pendurar nossas harpas sobre os salgueiros no meio ⟨dele⟩",
   "tokens": [
     {
       "surface": "על",
-      "english": "sobre",
+      "gloss": "sobre",
       "lemma": "עַל"
     },
     {
       "surface": "ערבים",
-      "english": "os salgueiros",
+      "gloss": "os salgueiros",
       "lemma": "עָרָב"
     },
     {
       "surface": "בתוכה",
-      "english": "no meio ⟨dele⟩",
+      "gloss": "no meio ⟨dele⟩",
       "lemma": "תוך"
     },
     {
       "surface": "תלינו",
-      "english": "nosso ⟨é⟩ o pendurar",
+      "gloss": "nosso ⟨é⟩ o pendurar",
       "lemma": "תָּלָה"
     },
     {
       "surface": "כנרותינו",
-      "english": "nossas harpas",
+      "gloss": "nossas harpas",
       "lemma": "כִּנּוֹר"
     }
-  ],
-  "timestamp": "2026-07-16T17:51:32.330464267Z",
-  "model": "glm-4.5"
+  ]
 }

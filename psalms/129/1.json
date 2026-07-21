@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 129:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 129,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:06:49.378124777Z",
+  "translation": "Um cântico ⟨das⟩ subidas. Grandemente me oprimiram desde ⟨a⟩ minha mocidade; diga agora, pois, Yisrael:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Um cântico"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "⟨das⟩ subidas"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Grandemente"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "me oprimiram"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "desde ⟨a⟩ minha mocidade"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "diga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "agora, pois"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 129,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62964,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63383
-  },
-  "translation": "Um cântico ⟨das⟩ subidas. Grandemente me oprimiram desde ⟨a⟩ minha mocidade; diga agora, pois, Yisrael:",
-  "tokens": [
-    {
-      "surface": "שיר",
-      "english": "Um cântico"
-    },
-    {
-      "surface": "המעלות",
-      "english": "⟨das⟩ subidas"
-    },
-    {
-      "surface": "רבת",
-      "english": "Grandemente"
-    },
-    {
-      "surface": "צררוני",
-      "english": "me oprimiram"
-    },
-    {
-      "surface": "מנעורי",
-      "english": "desde ⟨a⟩ minha mocidade"
-    },
-    {
-      "surface": "יאמר",
-      "english": "diga"
-    },
-    {
-      "surface": "נא",
-      "english": "agora, pois"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:06:49.378124777Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

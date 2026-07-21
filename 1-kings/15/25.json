@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "1-kings 15:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 15,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:33:04.612132487Z",
+  "translation": "E Nadab ⟨o⟩ filho de Yarovam começou a reinar sobre Yisrael, no segundo ano de Asa, rei de Yehudá; e reinou sobre Yisrael dois anos.",
+  "tokens": [
+    {
+      "surface": "ונדב",
+      "gloss": "E Nadab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "de Yarovam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "começou a reinar"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "no segundo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "de Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e reinou"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dois anos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeroboão",
@@ -34,84 +101,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63061,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63622
-  },
-  "translation": "E Nadab ⟨o⟩ filho de Yarovam começou a reinar sobre Yisrael, no segundo ano de Asa, rei de Yehudá; e reinou sobre Yisrael dois anos.",
-  "tokens": [
-    {
-      "surface": "ונדב",
-      "english": "E Nadab"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "de Yarovam"
-    },
-    {
-      "surface": "מלך",
-      "english": "começou a reinar"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בשנת",
-      "english": "no segundo"
-    },
-    {
-      "surface": "שתים",
-      "english": "ano"
-    },
-    {
-      "surface": "לאסא",
-      "english": "de Asa"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e reinou"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "שנתים",
-      "english": "dois anos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:33:04.612132487Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

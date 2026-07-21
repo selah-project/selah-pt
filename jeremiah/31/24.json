@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "jeremiah 31:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 31,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:34:53.864808238Z",
+  "translation": "E Yehudá ⟨é⟩ habitado ⟨ela⟩ ⟨em⟩ e todas ⟨as⟩ suas cidades ⟨estão⟩ juntas agricultores e viajam com ⟨o⟩ rebanho",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "E Judá ⟨é⟩ habitado"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨ela⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todas ⟨as⟩"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "suas cidades"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "⟨estão⟩ juntas"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "agricultores"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "e viajam"
+    },
+    {
+      "surface": "בעדר",
+      "gloss": "com ⟨o⟩ rebanho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,60 +56,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17561,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 17971
-  },
-  "translation": "E Yehudá ⟨é⟩ habitado ⟨ela⟩ ⟨em⟩ e todas ⟨as⟩ suas cidades ⟨estão⟩ juntas agricultores e viajam com ⟨o⟩ rebanho",
-  "tokens": [
-    {
-      "surface": "וישבו",
-      "english": "E Judá ⟨é⟩ habitado"
-    },
-    {
-      "surface": "בה",
-      "english": "⟨ela⟩"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todas ⟨as⟩"
-    },
-    {
-      "surface": "עריו",
-      "english": "suas cidades"
-    },
-    {
-      "surface": "יחדו",
-      "english": "⟨estão⟩ juntas"
-    },
-    {
-      "surface": "אכרים",
-      "english": "agricultores"
-    },
-    {
-      "surface": "ונסעו",
-      "english": "e viajam"
-    },
-    {
-      "surface": "בעדר",
-      "english": "com ⟨o⟩ rebanho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:34:53.864808238Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

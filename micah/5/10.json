@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "micah 5:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "micah",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 265,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 15746,
-    "prompt_tokens_details": {
-      "cached_tokens": 14742
-    },
-    "total_tokens": 16011
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:17:28.100546378Z",
   "translation": "e cortarei ⟨as⟩ cidades de tua terra e demolirei todas ⟨as⟩ tuas fortalezas",
   "tokens": [
     {
       "surface": "והכרתי",
-      "english": "E cortarei"
+      "gloss": "E cortarei"
     },
     {
       "surface": "ערי",
-      "english": "⟨as⟩ cidades",
+      "gloss": "⟨as⟩ cidades",
       "marks": "cidades de tua terra"
     },
     {
       "surface": "ארצך",
-      "english": "de tua terra"
+      "gloss": "de tua terra"
     },
     {
       "surface": "והרסתי",
-      "english": "e demolirei"
+      "gloss": "e demolirei"
     },
     {
       "surface": "כל",
-      "english": "todas ⟨as⟩"
+      "gloss": "todas ⟨as⟩"
     },
     {
       "surface": "מבצריך",
-      "english": "tuas fortalezas"
+      "gloss": "tuas fortalezas"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:17:28.100546378Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

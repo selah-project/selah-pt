@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 115:18",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 417,
-    "prompt_tokens": 70287,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70704
-  },
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:47:57.816493960Z",
   "translation": "Mas nós abençoaremos YHWH, ⟨agora⟩ e até ⟨o⟩ olam. Halelu-Yah.",
   "tokens": [
     {
       "surface": "ואנחנו",
-      "english": "Mas nós"
+      "gloss": "Mas nós"
     },
     {
       "surface": "נברך",
-      "english": "abençoaremos"
+      "gloss": "abençoaremos"
     },
     {
       "surface": "יה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מעתה",
-      "english": "⟨agora⟩"
+      "gloss": "⟨agora⟩"
     },
     {
       "surface": "ועד",
-      "english": "e até"
+      "gloss": "e até"
     },
     {
       "surface": "עולם",
-      "english": "⟨o⟩ olam"
+      "gloss": "⟨o⟩ olam"
     },
     {
       "surface": "הללו",
-      "english": "Halelu-Yah"
+      "gloss": "Halelu-Yah"
     },
     {
       "surface": "יה",
-      "english": "Yah"
+      "gloss": "Yah"
     }
-  ],
-  "timestamp": "2026-07-16T17:47:57.816493960Z",
-  "model": "glm-4.5"
+  ]
 }

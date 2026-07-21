@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "numbers 14:21",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 512,
-    "prompt_tokens": 25599,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 26111
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:12:17.475649493Z",
   "translation": "Mas ⟨como⟩ eu vivo, e ⟨certamente⟩ será ⟨a⟩ glória de YHWH cheia ⟨por⟩ todo ⟨a⟩ terra",
   "tokens": [
     {
       "surface": "ואולם",
-      "english": "Mas"
+      "gloss": "Mas"
     },
     {
       "surface": "חי",
-      "english": "⟨como⟩ eu vivo"
+      "gloss": "⟨como⟩ eu vivo"
     },
     {
       "surface": "אני",
-      "english": "eu"
+      "gloss": "eu"
     },
     {
       "surface": "וימלא",
-      "english": "e ⟨certamente⟩ será cheia"
+      "gloss": "e ⟨certamente⟩ será cheia"
     },
     {
       "surface": "כבוד",
-      "english": "⟨a⟩ glória"
+      "gloss": "⟨a⟩ glória"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨por⟩",
+      "gloss": "⟨por⟩",
       "marks": "todo a terra"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     }
-  ],
-  "timestamp": "2026-07-16T17:12:17.475649493Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-samuel 25:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 25,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:37:03.033081646Z",
+  "translation": "E os jovens de Davidd viraram seu caminho, e voltaram, e vieram, e ⟨o⟩ contaram todas estas palavras.",
+  "tokens": [
+    {
+      "surface": "ויהפכו",
+      "gloss": "E ... viraram"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "os jovens"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "seu caminho"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e voltaram"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e vieram"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "e contaram"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨o⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "todas"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "estas palavras"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "estas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,69 +65,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16722,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17056
-  },
-  "translation": "E os jovens de Davidd viraram seu caminho, e voltaram, e vieram, e ⟨o⟩ contaram todas estas palavras.",
-  "tokens": [
-    {
-      "surface": "ויהפכו",
-      "english": "E ... viraram"
-    },
-    {
-      "surface": "נערי",
-      "english": "os jovens"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "לדרכם",
-      "english": "seu caminho"
-    },
-    {
-      "surface": "וישבו",
-      "english": "e voltaram"
-    },
-    {
-      "surface": "ויבאו",
-      "english": "e vieram"
-    },
-    {
-      "surface": "ויגדו",
-      "english": "e contaram"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨o⟩",
-      "marks": "David"
-    },
-    {
-      "surface": "ככל",
-      "english": "todas"
-    },
-    {
-      "surface": "הדברים",
-      "english": "estas palavras"
-    },
-    {
-      "surface": "האלה",
-      "english": "estas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:37:03.033081646Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

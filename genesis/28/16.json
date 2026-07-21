@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 28:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 28,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:09:46.580548916Z",
+  "translation": "E Yaakov despertou do seu sono ⟨e⟩ disse: Certamente ⟨há⟩ YHWH neste lugar, ⟨e⟩ eu ⟨o⟩ não sabia.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "E Jacó despertou"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "do seu sono"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨e⟩ disse"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Certamente"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨há⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "neste lugar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "este"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "⟨e⟩ eu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨o⟩ não"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sabia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacó",
@@ -13,72 +68,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21750,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22150
-  },
-  "translation": "E Yaakov despertou do seu sono ⟨e⟩ disse: Certamente ⟨há⟩ YHWH neste lugar, ⟨e⟩ eu ⟨o⟩ não sabia.",
-  "tokens": [
-    {
-      "surface": "וייקץ",
-      "english": "E Jacó despertou"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "משנתו",
-      "english": "do seu sono"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "⟨e⟩ disse"
-    },
-    {
-      "surface": "אכן",
-      "english": "Certamente"
-    },
-    {
-      "surface": "יש",
-      "english": "⟨há⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "במקום",
-      "english": "neste lugar"
-    },
-    {
-      "surface": "הזה",
-      "english": "este"
-    },
-    {
-      "surface": "ואנכי",
-      "english": "⟨e⟩ eu"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨o⟩ não"
-    },
-    {
-      "surface": "ידעתי",
-      "english": "sabia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:09:46.580548916Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

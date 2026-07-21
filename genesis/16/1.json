@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 16:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 16,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T23:55:51.552187821Z",
+  "translation": "E Sarai, ⟨a⟩ mulher de Avram, não ⟨tinha⟩ ⟨dado⟩ à luz ⟨para⟩ ele; e ⟨tinha⟩ ⟨uma⟩ escrava, ⟨uma⟩ egípcia, e ⟨o⟩ nome ⟨dela⟩ ⟨era⟩ Hagar.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "E Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨a⟩ mulher"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "de Avram"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "⟨tinha⟩ ⟨dado⟩ à luz"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩ ele"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "e ⟨tinha⟩"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "⟨uma⟩ escrava"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "⟨uma⟩ egípcia"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "e ⟨o⟩ nome ⟨dela⟩"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "⟨era⟩ Hagar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Abrão",
@@ -13,68 +64,6 @@
       "hebrew": "אברם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 547,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21567,
-    "prompt_tokens_details": {
-      "cached_tokens": 20322
-    },
-    "total_tokens": 22114
-  },
-  "translation": "E Sarai, ⟨a⟩ mulher de Avram, não ⟨tinha⟩ ⟨dado⟩ à luz ⟨para⟩ ele; e ⟨tinha⟩ ⟨uma⟩ escrava, ⟨uma⟩ egípcia, e ⟨o⟩ nome ⟨dela⟩ ⟨era⟩ Hagar.",
-  "tokens": [
-    {
-      "surface": "ושרי",
-      "english": "E Sarai"
-    },
-    {
-      "surface": "אשת",
-      "english": "⟨a⟩ mulher"
-    },
-    {
-      "surface": "אברם",
-      "english": "de Avram"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "ילדה",
-      "english": "⟨tinha⟩ ⟨dado⟩ à luz"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩ ele"
-    },
-    {
-      "surface": "ולה",
-      "english": "e ⟨tinha⟩"
-    },
-    {
-      "surface": "שפחה",
-      "english": "⟨uma⟩ escrava"
-    },
-    {
-      "surface": "מצרית",
-      "english": "⟨uma⟩ egípcia"
-    },
-    {
-      "surface": "ושמה",
-      "english": "e ⟨o⟩ nome ⟨dela⟩"
-    },
-    {
-      "surface": "הגר",
-      "english": "⟨era⟩ Hagar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T23:55:51.552187821Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

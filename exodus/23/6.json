@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 23:6",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 341,
-    "prompt_tokens": 24032,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24373
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:55:10.781027050Z",
   "translation": "Não ⟨tu⟩ perverterás ⟨o⟩ juízo ⟨do⟩ teu pobre na sua contenda",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תטה",
-      "english": "perverterás"
+      "gloss": "perverterás"
     },
     {
       "surface": "משפט",
-      "english": "juízo"
+      "gloss": "juízo"
     },
     {
       "surface": "אבינך",
-      "english": "teu pobre"
+      "gloss": "teu pobre"
     },
     {
       "surface": "בריבו",
-      "english": "na sua contenda"
+      "gloss": "na sua contenda"
     }
-  ],
-  "timestamp": "2026-07-16T13:55:10.781027050Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "1-samuel 20:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:32:44.668658700Z",
+  "translation": "E aconteceu no dia seguinte ao ⟨o⟩ segundo dia do ⟨o⟩ novo ⟨mês⟩, ⟨que⟩ ⟨o⟩ lugar de David estava vazio; e disse Shaul a Yonatan, seu filho: 'Por ⟨que⟩ não veio ⟨o⟩ filho de Jessé ⟨nem⟩ ontem nem hoje ⟨para⟩ ⟨o⟩ almoço?'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E aconteceu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "no dia seguinte"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ao ⟨o⟩ novo ⟨mês⟩"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨o⟩ segundo dia"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "⟨que⟩ ⟨o⟩ lugar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "estava vazio; e disse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Por ⟨que⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "בא",
+      "gloss": "veio"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "de Jessé"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨nem⟩"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "ontem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩ ⟨o⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "almoço"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,116 +126,6 @@
       "hebrew": "יונתן"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 686,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17766,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18452
-  },
-  "translation": "E aconteceu no dia seguinte ao ⟨o⟩ segundo dia do ⟨o⟩ novo ⟨mês⟩, ⟨que⟩ ⟨o⟩ lugar de David estava vazio; e disse Shaul a Yonatan, seu filho: 'Por ⟨que⟩ não veio ⟨o⟩ filho de Jessé ⟨nem⟩ ontem nem hoje ⟨para⟩ ⟨o⟩ almoço?'",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E aconteceu"
-    },
-    {
-      "surface": "ממחרת",
-      "english": "no dia seguinte"
-    },
-    {
-      "surface": "החדש",
-      "english": "ao ⟨o⟩ novo ⟨mês⟩"
-    },
-    {
-      "surface": "השני",
-      "english": "⟨o⟩ segundo dia"
-    },
-    {
-      "surface": "ויפקד",
-      "english": "⟨que⟩ ⟨o⟩ lugar"
-    },
-    {
-      "surface": "מקום",
-      "english": "lugar"
-    },
-    {
-      "surface": "דוד",
-      "english": "de David"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "estava vazio; e disse"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Yonatan"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "מדוע",
-      "english": "Por ⟨que⟩"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "בא",
-      "english": "veio"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "ישי",
-      "english": "de Jessé"
-    },
-    {
-      "surface": "גם",
-      "english": "⟨nem⟩"
-    },
-    {
-      "surface": "תמול",
-      "english": "ontem"
-    },
-    {
-      "surface": "גם",
-      "english": "nem"
-    },
-    {
-      "surface": "היום",
-      "english": "hoje"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩ ⟨o⟩"
-    },
-    {
-      "surface": "הלחם",
-      "english": "almoço"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:32:44.668658700Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

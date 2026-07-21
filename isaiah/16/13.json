@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "isaiah 16:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 16,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:24:51.404166342Z",
+  "translation": "Esta ⟨é⟩ ⟨a⟩ palavra que YHWH falou a Moav desde aquele tempo",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Esta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨a⟩ palavra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "desde aquele tempo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moabe",
@@ -13,56 +52,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 233,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18980,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19213
-  },
-  "translation": "Esta ⟨é⟩ ⟨a⟩ palavra que YHWH falou a Moav desde aquele tempo",
-  "tokens": [
-    {
-      "surface": "זה",
-      "english": "Esta"
-    },
-    {
-      "surface": "הדבר",
-      "english": "⟨a⟩ palavra"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "דבר",
-      "english": "falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "מואב",
-      "english": "Moav"
-    },
-    {
-      "surface": "מאז",
-      "english": "desde aquele tempo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:24:51.404166342Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

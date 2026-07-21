@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 6:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52895,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53273
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:22:09.564573562Z",
   "translation": "Um pouco de sono, um pouco de torpor, um pouco ⟨o⟩ juntar ⟨das⟩ mãos para dormir",
   "tokens": [
     {
       "surface": "מעט",
-      "english": "Um pouco"
+      "gloss": "Um pouco"
     },
     {
       "surface": "שנות",
-      "english": "de sono"
+      "gloss": "de sono"
     },
     {
       "surface": "מעט",
-      "english": "um pouco"
+      "gloss": "um pouco"
     },
     {
       "surface": "תנומות",
-      "english": "de torpor"
+      "gloss": "de torpor"
     },
     {
       "surface": "מעט",
-      "english": "um pouco"
+      "gloss": "um pouco"
     },
     {
       "surface": "חבק",
-      "english": "⟨o⟩ juntar",
+      "gloss": "⟨o⟩ juntar",
       "marks": "das mãos"
     },
     {
       "surface": "ידים",
-      "english": "⟨das⟩ mãos"
+      "gloss": "⟨das⟩ mãos"
     },
     {
       "surface": "לשכב",
-      "english": "para dormir"
+      "gloss": "para dormir"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:22:09.564573562Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

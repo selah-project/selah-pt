@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 9:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 9,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:51:45.714067042Z",
+  "translation": "Na verdade, eu sei que ⟨é⟩ assim; e como ⟨será⟩ justificado ⟨את⟩ um mortal com ⟨את⟩ El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Na verdade"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "eu sei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "כן",
+      "gloss": "assim"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e como"
+    },
+    {
+      "surface": "י�צדק",
+      "gloss": "será justificado"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "um mortal",
+      "marks": "um mortal"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "o Poderoso",
@@ -13,61 +57,6 @@
       "hebrew": "אל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20138,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20587
-  },
-  "translation": "Na verdade, eu sei que ⟨é⟩ assim; e como ⟨será⟩ justificado ⟨את⟩ um mortal com ⟨את⟩ El?",
-  "tokens": [
-    {
-      "surface": "אמנם",
-      "english": "Na verdade"
-    },
-    {
-      "surface": "ידעתי",
-      "english": "eu sei"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "כן",
-      "english": "assim"
-    },
-    {
-      "surface": "ומה",
-      "english": "e como"
-    },
-    {
-      "surface": "י�צדק",
-      "english": "será justificado"
-    },
-    {
-      "surface": "אנוש",
-      "english": "um mortal",
-      "marks": "um mortal"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "אל",
-      "english": "El"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:51:45.714067042Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

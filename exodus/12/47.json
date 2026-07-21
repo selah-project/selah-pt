@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 47,
   "ref": "exodus 12:47",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 317,
-    "prompt_tokens": 24149,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24466
-  },
+  "verse": 47,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:49:04.573315465Z",
   "translation": "Toda ⟨a⟩ comunidade de Yisrael deve fazer ⟨את⟩ isso.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Toda"
+      "gloss": "Toda"
     },
     {
       "surface": "עדת",
-      "english": "⟨a⟩ comunidade"
+      "gloss": "⟨a⟩ comunidade"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "יעשו",
-      "english": "deve fazer"
+      "gloss": "deve fazer"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩ isso",
+      "gloss": "⟨את⟩ isso",
       "marks": "isso"
     }
-  ],
-  "timestamp": "2026-07-16T13:49:04.573315465Z",
-  "model": "glm-4.5"
+  ]
 }

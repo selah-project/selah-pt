@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "nehemiah 2:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 2,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:15:07.395816496Z",
+  "translation": "E eu vim para Yerushalayim e estive ⟨ali⟩ ⟨por⟩ três dias",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "E eu vim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "e estive"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ali⟩",
+      "marks": "em Jerusalém"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "⟨por⟩",
+      "marks": "três dias"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "três dias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -13,54 +50,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 49433,
-    "prompt_tokens_details": {
-      "cached_tokens": 48507
-    },
-    "total_tokens": 49750
-  },
-  "translation": "E eu vim para Yerushalayim e estive ⟨ali⟩ ⟨por⟩ três dias",
-  "tokens": [
-    {
-      "surface": "ואבוא",
-      "english": "E eu vim"
-    },
-    {
-      "surface": "אל",
-      "english": "para"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "ואהי",
-      "english": "e estive"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨ali⟩",
-      "marks": "em Jerusalém"
-    },
-    {
-      "surface": "ימים",
-      "english": "⟨por⟩",
-      "marks": "três dias"
-    },
-    {
-      "surface": "שלשה",
-      "english": "três dias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:15:07.395816496Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

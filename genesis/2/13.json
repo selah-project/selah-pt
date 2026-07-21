@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "genesis 2:13",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 367,
-    "prompt_tokens": 29028,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29395
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:38:00.427991469Z",
   "translation": "E o nome ⟨do⟩ segundo rio é Guiom; ele é ⟨o que⟩ rodeia ⟨את⟩ toda a terra de Cush;",
   "tokens": [
     {
       "surface": "ושם",
-      "english": "E o nome"
+      "gloss": "E o nome"
     },
     {
       "surface": "הנהר",
-      "english": "⟨do⟩ rio"
+      "gloss": "⟨do⟩ rio"
     },
     {
       "surface": "השני",
-      "english": "segundo"
+      "gloss": "segundo"
     },
     {
       "surface": "גיחון",
-      "english": "Guiom"
+      "gloss": "Guiom"
     },
     {
       "surface": "הוא",
-      "english": "ele"
+      "gloss": "ele"
     },
     {
       "surface": "הסובב",
-      "english": "é ⟨o que⟩ rodeia"
+      "gloss": "é ⟨o que⟩ rodeia"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toda a terra de Cush"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "ארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     },
     {
       "surface": "כוש",
-      "english": "de Cush"
+      "gloss": "de Cush"
     }
-  ],
-  "timestamp": "2026-07-16T14:38:00.427991469Z",
-  "model": "glm-4.5"
+  ]
 }

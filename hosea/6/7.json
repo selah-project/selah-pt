@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "hosea 6:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "hosea",
+  "chapter": 6,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:57:43.768115766Z",
+  "translation": "Mas eles, como Adão, transgrediram ⟨o⟩ Brit; ali traíram ⟨a⟩ mim.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Mas eles"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "como Adão"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "transgrediram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨o⟩ Brit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "traíram"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨a⟩ mim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,52 +48,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 310,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19368,
-    "prompt_tokens_details": {
-      "cached_tokens": 18473
-    },
-    "total_tokens": 19678
-  },
-  "translation": "Mas eles, como Adão, transgrediram ⟨o⟩ Brit; ali traíram ⟨a⟩ mim.",
-  "tokens": [
-    {
-      "surface": "והמה",
-      "english": "Mas eles"
-    },
-    {
-      "surface": "כאדם",
-      "english": "como Adão"
-    },
-    {
-      "surface": "עברו",
-      "english": "transgrediram"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨o⟩ Brit"
-    },
-    {
-      "surface": "שם",
-      "english": "ali"
-    },
-    {
-      "surface": "בגדו",
-      "english": "traíram"
-    },
-    {
-      "surface": "בי",
-      "english": "⟨a⟩ mim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:57:43.768115766Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

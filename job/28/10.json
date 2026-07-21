@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 28:10",
   "book": "job",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 283,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27355,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27638
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:45:43.592127596Z",
   "translation": "Among ⟨the⟩ rocks he cleaves ⟨the⟩ rivers, and ⟨the⟩ eye has seen every precious thing.",
   "tokens": [
     {
       "surface": "בצורות",
-      "english": "Among ⟨the⟩ rocks"
+      "gloss": "Among ⟨the⟩ rocks"
     },
     {
       "surface": "יארים",
-      "english": "he cleaves ⟨the⟩ rivers"
+      "gloss": "he cleaves ⟨the⟩ rivers"
     },
     {
       "surface": "בקע",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "וכל",
-      "english": "and ⟨the⟩"
+      "gloss": "and ⟨the⟩"
     },
     {
       "surface": "יקר",
-      "english": "precious thing"
+      "gloss": "precious thing"
     },
     {
       "surface": "ראתה",
-      "english": "has seen"
+      "gloss": "has seen"
     },
     {
       "surface": "עינו",
-      "english": "⟨the⟩ eye"
+      "gloss": "⟨the⟩ eye"
     }
-  ],
-  "timestamp": "2026-06-13T06:45:43.592127596Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "judges 19:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 19,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:09:50.274700683Z",
+  "translation": "E eis que veio um homem velho do seu trabalho do campo à tarde, e o homem era da região montanhosa de Efráyim, e ele residia em Gibeá, e os homens do lugar ⟨eram⟩ benjamitas.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "E eis que"
+    },
+    {
+      "surface": "איש",
+      "gloss": "um homem"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "velho"
+    },
+    {
+      "surface": "בא",
+      "gloss": "veio"
+    },
+    {
+      "surface": "מן",
+      "gloss": "do seu"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "trabalho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "do"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "campo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "à tarde"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "e o homem"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "era"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "da região montanhosa de Efráyim"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e ele"
+    },
+    {
+      "surface": "גר",
+      "gloss": "residia"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "em Gibeá"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "e os homens"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "do lugar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨eram⟩"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "benjamitas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -13,100 +96,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17246,
-    "prompt_tokens_details": {
-      "cached_tokens": 15159
-    },
-    "total_tokens": 17756
-  },
-  "translation": "E eis que veio um homem velho do seu trabalho do campo à tarde, e o homem era da região montanhosa de Efráyim, e ele residia em Gibeá, e os homens do lugar ⟨eram⟩ benjamitas.",
-  "tokens": [
-    {
-      "surface": "והנה",
-      "english": "E eis que"
-    },
-    {
-      "surface": "איש",
-      "english": "um homem"
-    },
-    {
-      "surface": "זקן",
-      "english": "velho"
-    },
-    {
-      "surface": "בא",
-      "english": "veio"
-    },
-    {
-      "surface": "מן",
-      "english": "do seu"
-    },
-    {
-      "surface": "מעשהו",
-      "english": "trabalho"
-    },
-    {
-      "surface": "מן",
-      "english": "do"
-    },
-    {
-      "surface": "השדה",
-      "english": "campo"
-    },
-    {
-      "surface": "בערב",
-      "english": "à tarde"
-    },
-    {
-      "surface": "והאיש",
-      "english": "e o homem"
-    },
-    {
-      "surface": "מהר",
-      "english": "era"
-    },
-    {
-      "surface": "אפרים",
-      "english": "da região montanhosa de Efráyim"
-    },
-    {
-      "surface": "והוא",
-      "english": "e ele"
-    },
-    {
-      "surface": "גר",
-      "english": "residia"
-    },
-    {
-      "surface": "בגבעה",
-      "english": "em Gibeá"
-    },
-    {
-      "surface": "ואנשי",
-      "english": "e os homens"
-    },
-    {
-      "surface": "המקום",
-      "english": "do lugar"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨eram⟩"
-    },
-    {
-      "surface": "ימיני",
-      "english": "benjamitas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:09:50.274700683Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

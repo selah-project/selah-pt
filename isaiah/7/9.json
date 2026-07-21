@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "isaiah 7:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 7,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:17:59.187799694Z",
+  "translation": "e a cabeça de Efráyim ⟨é⟩ Shomron, e a cabeça de Shomron ⟨é⟩ o filho de Remalias; se não credes, certamente não sereis confirmados.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "E a cabeça"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "e a cabeça"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "de Shomron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "o filho"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "de Remalias"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "credes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "certamente"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "sereis confirmados"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -27,76 +86,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19602,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 20031
-  },
-  "translation": "e a cabeça de Efráyim ⟨é⟩ Shomron, e a cabeça de Shomron ⟨é⟩ o filho de Remalias; se não credes, certamente não sereis confirmados.",
-  "tokens": [
-    {
-      "surface": "וראש",
-      "english": "E a cabeça"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomron"
-    },
-    {
-      "surface": "וראש",
-      "english": "e a cabeça"
-    },
-    {
-      "surface": "שמרון",
-      "english": "de Shomron"
-    },
-    {
-      "surface": "בן",
-      "english": "o filho"
-    },
-    {
-      "surface": "רמליהו",
-      "english": "de Remalias"
-    },
-    {
-      "surface": "אם",
-      "english": "se"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "תאמינו",
-      "english": "credes"
-    },
-    {
-      "surface": "כי",
-      "english": "certamente"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "תאמנו",
-      "english": "sereis confirmados"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:17:59.187799694Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

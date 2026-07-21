@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "numbers 9:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 9,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:19:16.102655223Z",
+  "translation": "E Moshé falou ⟨para⟩ ⟨os⟩ filhos ⟨de⟩ Yisrael para ⟨fazer⟩ ⟨o⟩ Pésaj",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E Mosheh falou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "para ⟨fazer⟩"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨o⟩ Pésaj"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,52 +48,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17927,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18303
-  },
-  "translation": "E Moshé falou ⟨para⟩ ⟨os⟩ filhos ⟨de⟩ Yisrael para ⟨fazer⟩ ⟨o⟩ Pésaj",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E Mosheh falou"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "לעשת",
-      "english": "para ⟨fazer⟩"
-    },
-    {
-      "surface": "הפסח",
-      "english": "⟨o⟩ Pésaj"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:19:16.102655223Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

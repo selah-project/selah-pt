@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "leviticus 26:2",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 453,
-    "prompt_tokens": 24932,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25385
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:52:11.045464949Z",
   "translation": "Meus shabbats vós guardareis, e ao meu santuário temereis: eu sou YHWH.",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Meus shabbats"
     },
     {
       "surface": "שבתתי",
-      "english": "Meus shabbats"
+      "gloss": "Meus shabbats"
     },
     {
       "surface": "תשמרו",
-      "english": "vós guardareis"
+      "gloss": "vós guardareis"
     },
     {
       "surface": "ומקדשי",
-      "english": "e ao meu santuário"
+      "gloss": "e ao meu santuário"
     },
     {
       "surface": "תיראו",
-      "english": "temereis"
+      "gloss": "temereis"
     },
     {
       "surface": "אני",
-      "english": "eu sou"
+      "gloss": "eu sou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T16:52:11.045464949Z",
-  "model": "glm-4.5"
+  ]
 }

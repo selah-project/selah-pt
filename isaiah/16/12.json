@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 16:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 16,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:25:13.302490372Z",
+  "translation": "E acontecerá quando ⟨for⟩ visto que Moab ⟨está⟩ cansado ⟨sobre⟩ o alto lugar, e entrará ⟨em⟩ seu Mikdash para orar, mas não prevalecerá.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E acontecerá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "⟨for⟩ visto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "Moab ⟨está⟩ cansado"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "o alto lugar"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "e entrará"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "seu Mikdash"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "para orar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mas não"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "prevalecerá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "santuário",
@@ -13,80 +76,6 @@
       "hebrew": "מקדש"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 581,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19565,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20146
-  },
-  "translation": "E acontecerá quando ⟨for⟩ visto que Moab ⟨está⟩ cansado ⟨sobre⟩ o alto lugar, e entrará ⟨em⟩ seu Mikdash para orar, mas não prevalecerá.",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "E acontecerá"
-    },
-    {
-      "surface": "כי",
-      "english": "quando"
-    },
-    {
-      "surface": "נראה",
-      "english": "⟨for⟩ visto"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "נלאה",
-      "english": "Moab ⟨está⟩ cansado"
-    },
-    {
-      "surface": "מואב",
-      "english": "Moab"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "הבמה",
-      "english": "o alto lugar"
-    },
-    {
-      "surface": "ובא",
-      "english": "e entrará"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨em⟩"
-    },
-    {
-      "surface": "מקדשו",
-      "english": "seu Mikdash"
-    },
-    {
-      "surface": "להתפלל",
-      "english": "para orar"
-    },
-    {
-      "surface": "ולא",
-      "english": "mas não"
-    },
-    {
-      "surface": "יוכל",
-      "english": "prevalecerá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:25:13.302490372Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

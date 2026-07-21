@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "2-chronicles 30:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 30,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:44:11.745832653Z",
+  "translation": "E toda ⟨a⟩ congregação de Yehudá se alegrou, tanto ⟨os⟩ kohanim como ⟨os⟩ Leviim, e toda ⟨a⟩ congregação ⟨os⟩ que vinham de Yisrael, e ⟨os⟩ gerim ⟨os⟩ que vinham da terra de Yisrael e ⟨os⟩ habitantes em Yehudá.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "E ... se alegrou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "congregação"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "tanto ⟨os⟩ kohanim"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "como ⟨os⟩ Leviim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e toda"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "⟨a⟩ congregação"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "⟨os⟩ que vinham"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "de Israel"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "e ⟨os⟩ gerim"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "⟨os⟩ que vinham"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "da terra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "והיושבים",
+      "gloss": "e ⟨os⟩ habitantes"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "em Judá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,88 +91,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 636,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58991,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59627
-  },
-  "translation": "E toda ⟨a⟩ congregação de Yehudá se alegrou, tanto ⟨os⟩ kohanim como ⟨os⟩ Leviim, e toda ⟨a⟩ congregação ⟨os⟩ que vinham de Yisrael, e ⟨os⟩ gerim ⟨os⟩ que vinham da terra de Yisrael e ⟨os⟩ habitantes em Yehudá.",
-  "tokens": [
-    {
-      "surface": "וישמחו",
-      "english": "E ... se alegrou"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "קהל",
-      "english": "congregação"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "והכהנים",
-      "english": "tanto ⟨os⟩ kohanim"
-    },
-    {
-      "surface": "והלוים",
-      "english": "como ⟨os⟩ Leviim"
-    },
-    {
-      "surface": "וכל",
-      "english": "e toda"
-    },
-    {
-      "surface": "הקהל",
-      "english": "⟨a⟩ congregação"
-    },
-    {
-      "surface": "הבאים",
-      "english": "⟨os⟩ que vinham"
-    },
-    {
-      "surface": "מישראל",
-      "english": "de Israel"
-    },
-    {
-      "surface": "והגרים",
-      "english": "e ⟨os⟩ gerim"
-    },
-    {
-      "surface": "הבאים",
-      "english": "⟨os⟩ que vinham"
-    },
-    {
-      "surface": "מארץ",
-      "english": "da terra"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "והיושבים",
-      "english": "e ⟨os⟩ habitantes"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "em Judá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:44:11.745832653Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

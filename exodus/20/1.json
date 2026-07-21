@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 20:1",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 347,
-    "prompt_tokens": 24183,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24530
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:53:07.536142257Z",
   "translation": "E Elohim falou ⟨את⟩ todas estas palavras, para dizer:",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "E Elohim falou"
+      "gloss": "E Elohim falou"
     },
     {
       "surface": "אלהים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todas estas palavras"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "הדברים",
-      "english": "estas palavras"
+      "gloss": "estas palavras"
     },
     {
       "surface": "האלה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לאמר",
-      "english": ", para dizer:"
+      "gloss": ", para dizer:"
     }
-  ],
-  "timestamp": "2026-07-16T13:53:07.536142257Z",
-  "model": "glm-4.5"
+  ]
 }

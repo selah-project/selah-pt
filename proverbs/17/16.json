@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 17:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
+  "chapter": 17,
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:32:12.118415636Z",
+  "translation": "Por que ⟨há⟩ este preço na mão ⟨de⟩ um tolo para comprar Jojmá, quando ⟨o⟩ coração ⟨é⟩ nulo?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Por que"
+    },
+    {
+      "surface": "זה",
+      "gloss": "este"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "preço"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na mão ⟨de⟩",
+      "marks": "tolo"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tolo"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "para comprar"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "⟨o⟩ coração"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨é⟩ nulo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabedoria",
@@ -13,61 +57,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52940,
-    "prompt_tokens_details": {
-      "cached_tokens": 51891
-    },
-    "total_tokens": 53351
-  },
-  "translation": "Por que ⟨há⟩ este preço na mão ⟨de⟩ um tolo para comprar Jojmá, quando ⟨o⟩ coração ⟨é⟩ nulo?",
-  "tokens": [
-    {
-      "surface": "למה",
-      "english": "Por que"
-    },
-    {
-      "surface": "זה",
-      "english": "este"
-    },
-    {
-      "surface": "מחיר",
-      "english": "preço"
-    },
-    {
-      "surface": "ביד",
-      "english": "na mão ⟨de⟩",
-      "marks": "tolo"
-    },
-    {
-      "surface": "כסיל",
-      "english": "tolo"
-    },
-    {
-      "surface": "לקנות",
-      "english": "para comprar"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "ולב",
-      "english": "⟨o⟩ coração"
-    },
-    {
-      "surface": "אין",
-      "english": "⟨é⟩ nulo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:32:12.118415636Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

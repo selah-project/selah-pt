@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "genesis 34:31",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 299,
-    "prompt_tokens": 28628,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 28927
-  },
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:55:16.463254178Z",
   "translation": "E disseram: Como uma prostituta ele fará ⟨את⟩ nossa irmã?",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "E disseram"
+      "gloss": "E disseram"
     },
     {
       "surface": "הכזונה",
-      "english": "Como uma prostituta"
+      "gloss": "Como uma prostituta"
     },
     {
       "surface": "יעשה",
-      "english": "ele fará"
+      "gloss": "ele fará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "nossa irmã"
     },
     {
       "surface": "אחותנו",
-      "english": "nossa irmã"
+      "gloss": "nossa irmã"
     }
-  ],
-  "timestamp": "2026-07-16T14:55:16.463254178Z",
-  "model": "glm-4.5"
+  ]
 }

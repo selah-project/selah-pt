@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 43,
   "ref": "1-kings 11:43",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 11,
+  "verse": 43,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:27:49.018100022Z",
+  "translation": "E Shlomá repousou com ⟨seus⟩ pais e foi sepultado na cidade de Davidd, seu pai; e Rejavam, seu filho, reinou ⟨em⟩ seu lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "E repousou"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomá"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "⟨seus⟩ pais"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e foi sepultado"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na cidade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e reinou"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨em⟩ seu lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,72 +75,6 @@
       "hebrew": "רחבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62715,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63209
-  },
-  "translation": "E Shlomá repousou com ⟨seus⟩ pais e foi sepultado na cidade de Davidd, seu pai; e Rejavam, seu filho, reinou ⟨em⟩ seu lugar.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "E repousou"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomá"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "⟨seus⟩ pais"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "e foi sepultado"
-    },
-    {
-      "surface": "בעיר",
-      "english": "na cidade"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e reinou"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "⟨em⟩ seu lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:27:49.018100022Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

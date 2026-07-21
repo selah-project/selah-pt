@@ -1,47 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "exodus 40:14",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 209,
-    "prompt_tokens": 24304,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24513
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:08:55.586870833Z",
   "translation": "E traze ⟨את⟩ os filhos dele, e vesti-os com túnicas",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "E traze ⟨את⟩",
+      "gloss": "E traze ⟨את⟩",
       "marks": "os filhos dele"
     },
     {
       "surface": "בניו",
-      "english": "os filhos dele"
+      "gloss": "os filhos dele"
     },
     {
       "surface": "תקריב",
-      "english": "traze"
+      "gloss": "traze"
     },
     {
       "surface": "והלבשת",
-      "english": "e vesti-os"
+      "gloss": "e vesti-os"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "túnicas"
     },
     {
       "surface": "כתנת",
-      "english": "túnicas"
+      "gloss": "túnicas"
     }
-  ],
-  "timestamp": "2026-07-16T14:08:55.586870833Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,124 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "ezekiel 36:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 36,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T08:40:39.363532842Z",
+  "translation": "Portanto, ó montes de Yisrael, ouvi a palavra de Adonai YHWH. Assim diz Adonai YHWH aos montes e aos outeiros, aos vales e às ravinas, aos lugares assolados e às cidades abandonadas, que se tornaram ⟨em⟩ presa e escárnio para o ⟨os⟩ resto das nações ⟨que estão⟩ ao redor.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Portanto"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ó montes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ouvi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a palavra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "de Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "aos montes"
+    },
+    {
+      "surface": "ולגבעות",
+      "gloss": "e aos outeiros"
+    },
+    {
+      "surface": "לאפיקים",
+      "gloss": "aos vales"
+    },
+    {
+      "surface": "ולגאיות",
+      "gloss": "e às ravinas"
+    },
+    {
+      "surface": "ולחרבות",
+      "gloss": "aos lugares"
+    },
+    {
+      "surface": "השממות",
+      "gloss": "assolados"
+    },
+    {
+      "surface": "ולערים",
+      "gloss": "e às cidades"
+    },
+    {
+      "surface": "הנעזבות",
+      "gloss": "abandonadas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "היו",
+      "gloss": "se tornaram"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "⟨em⟩ presa"
+    },
+    {
+      "surface": "וללעג",
+      "gloss": "e escárnio"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "para o ⟨os⟩ resto"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "das nações"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que estão⟩"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ao redor"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,132 +128,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 875,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19363,
-    "prompt_tokens_details": {
-      "cached_tokens": 16312
-    },
-    "total_tokens": 20238
-  },
-  "translation": "Portanto, ó montes de Yisrael, ouvi a palavra de Adonai YHWH. Assim diz Adonai YHWH aos montes e aos outeiros, aos vales e às ravinas, aos lugares assolados e às cidades abandonadas, que se tornaram ⟨em⟩ presa e escárnio para o ⟨os⟩ resto das nações ⟨que estão⟩ ao redor.",
-  "tokens": [
-    {
-      "surface": "לכן",
-      "english": "Portanto"
-    },
-    {
-      "surface": "הרי",
-      "english": "ó montes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "שמעו",
-      "english": "ouvi"
-    },
-    {
-      "surface": "דבר",
-      "english": "a palavra"
-    },
-    {
-      "surface": "אדני",
-      "english": "de Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "אמר",
-      "english": "diz"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "להרים",
-      "english": "aos montes"
-    },
-    {
-      "surface": "ולגבעות",
-      "english": "e aos outeiros"
-    },
-    {
-      "surface": "לאפיקים",
-      "english": "aos vales"
-    },
-    {
-      "surface": "ולגאיות",
-      "english": "e às ravinas"
-    },
-    {
-      "surface": "ולחרבות",
-      "english": "aos lugares"
-    },
-    {
-      "surface": "השממות",
-      "english": "assolados"
-    },
-    {
-      "surface": "ולערים",
-      "english": "e às cidades"
-    },
-    {
-      "surface": "הנעזבות",
-      "english": "abandonadas"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "היו",
-      "english": "se tornaram"
-    },
-    {
-      "surface": "לבז",
-      "english": "⟨em⟩ presa"
-    },
-    {
-      "surface": "וללעג",
-      "english": "e escárnio"
-    },
-    {
-      "surface": "לשארית",
-      "english": "para o ⟨os⟩ resto"
-    },
-    {
-      "surface": "הגוים",
-      "english": "das nações"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que estão⟩"
-    },
-    {
-      "surface": "מסביב",
-      "english": "ao redor"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T08:40:39.363532842Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

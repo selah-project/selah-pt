@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "1-samuel 3:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 3,
+  "verse": 19,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:15:16.915751595Z",
+  "translation": "E Shmuel cresceu, e YHWH ⟨estava⟩ com ele, e não permitiu ⟨que⟩ nenhuma de suas palavras caísse ⟨por⟩ terra.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "E Samuel cresceu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨estava⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "com ele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "permitiu ⟨que⟩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nenhuma de"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "suas palavras"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "caísse ⟨por⟩ terra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samuel",
@@ -13,64 +60,6 @@
       "hebrew": "שמואל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16616,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17050
-  },
-  "translation": "E Shmuel cresceu, e YHWH ⟨estava⟩ com ele, e não permitiu ⟨que⟩ nenhuma de suas palavras caísse ⟨por⟩ terra.",
-  "tokens": [
-    {
-      "surface": "ויגדל",
-      "english": "E Samuel cresceu"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shmuel"
-    },
-    {
-      "surface": "ויהוה",
-      "english": "e YHWH"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨estava⟩"
-    },
-    {
-      "surface": "עמו",
-      "english": "com ele"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "הפיל",
-      "english": "permitiu ⟨que⟩"
-    },
-    {
-      "surface": "מכל",
-      "english": "nenhuma de"
-    },
-    {
-      "surface": "דבריו",
-      "english": "suas palavras"
-    },
-    {
-      "surface": "ארצה",
-      "english": "caísse ⟨por⟩ terra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:15:16.915751595Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

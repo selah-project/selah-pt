@@ -1,72 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "leviticus 18:28",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 658,
-    "prompt_tokens": 25511,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 26169
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:46:58.414120733Z",
   "translation": "Para que ⟨a⟩ terra não vos vomite ⟨את⟩ quando ⟨a⟩ contaminardes com ⟨a⟩ vossa contaminação ⟨את⟩ como vomitou ⟨את⟩ ⟨o⟩ povo que ⟨estava⟩ diante de vós",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "Para que ... não"
+      "gloss": "Para que ... não"
     },
     {
       "surface": "תקיא",
-      "english": "vos vomite"
+      "gloss": "vos vomite"
     },
     {
       "surface": "הארץ",
-      "english": "⟨a⟩ terra"
+      "gloss": "⟨a⟩ terra"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "quando ⟨a⟩ contaminardes com ⟨a⟩ vossa contaminação"
     },
     {
       "surface": "בטמאכם",
-      "english": "quando ⟨a⟩ contaminardes com ⟨a⟩ vossa contaminação"
+      "gloss": "quando ⟨a⟩ contaminardes com ⟨a⟩ vossa contaminação"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "como"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "קאה",
-      "english": "vomitou"
+      "gloss": "vomitou"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨o⟩ povo"
     },
     {
       "surface": "הגוי",
-      "english": "⟨o⟩ povo"
+      "gloss": "⟨o⟩ povo"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "לפניכם",
-      "english": "⟨estava⟩ diante de vós"
+      "gloss": "⟨estava⟩ diante de vós"
     }
-  ],
-  "timestamp": "2026-07-16T16:46:58.414120733Z",
-  "model": "glm-4.5"
+  ]
 }

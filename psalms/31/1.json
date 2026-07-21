@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 31:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 203,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62595,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 62798
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:57:50.252137631Z",
   "translation": "⟨To⟩ the victorious ⟨one⟩, a psalm, ⟨to⟩ David.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨To⟩ the victorious ⟨one⟩"
+      "gloss": "⟨To⟩ the victorious ⟨one⟩"
     },
     {
       "surface": "מזמור",
-      "english": "a psalm"
+      "gloss": "a psalm"
     },
     {
       "surface": "לדוד",
-      "english": "⟨to⟩ David"
+      "gloss": "⟨to⟩ David"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:57:50.252137631Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

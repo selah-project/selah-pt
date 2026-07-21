@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 44:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 44,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:28:35.892116537Z",
+  "translation": "E Yehudá ⟨se⟩ aproximou dele ⟨e⟩ disse: Bi ⟨é⟩ ⟨o⟩ meu Adonai, ⟨por favor⟩ fale ⟨o⟩ seu servo uma palavra ⟨nos⟩ ouvidos ⟨do⟩ meu Adonai, e ⟨não⟩ ⟨se⟩ ⟨acenda⟩ ⟨a⟩ tua ira ⟨contra⟩ ⟨o⟩ teu servo, porque ⟨é⟩ como tu ⟨como⟩ Faraó.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "E Judá ⟨se⟩ aproximou"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "dele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨e⟩ disse"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Bi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "⟨é⟩ ⟨o⟩ meu Adonai"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "⟨por favor⟩ fale"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨por favor⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨o⟩ seu servo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uma palavra"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "⟨nos⟩ ouvidos"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "⟨do⟩ meu Adonai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ⟨não⟩"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "⟨se⟩ ⟨acenda⟩"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "⟨a⟩ tua ira"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "⟨contra⟩ ⟨o⟩ teu servo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "⟨é⟩ como tu"
+    },
+    {
+      "surface": "כפרעה",
+      "gloss": "⟨como⟩ Faraó"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,100 +96,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 44,
-  "usage": {
-    "completion_tokens": 1065,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22434,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 23499
-  },
-  "translation": "E Yehudá ⟨se⟩ aproximou dele ⟨e⟩ disse: Bi ⟨é⟩ ⟨o⟩ meu Adonai, ⟨por favor⟩ fale ⟨o⟩ seu servo uma palavra ⟨nos⟩ ouvidos ⟨do⟩ meu Adonai, e ⟨não⟩ ⟨se⟩ ⟨acenda⟩ ⟨a⟩ tua ira ⟨contra⟩ ⟨o⟩ teu servo, porque ⟨é⟩ como tu ⟨como⟩ Faraó.",
-  "tokens": [
-    {
-      "surface": "ויגש",
-      "english": "E Judá ⟨se⟩ aproximou"
-    },
-    {
-      "surface": "אליו",
-      "english": "dele"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "⟨e⟩ disse"
-    },
-    {
-      "surface": "בי",
-      "english": "Bi"
-    },
-    {
-      "surface": "אדני",
-      "english": "⟨é⟩ ⟨o⟩ meu Adonai"
-    },
-    {
-      "surface": "ידבר",
-      "english": "⟨por favor⟩ fale"
-    },
-    {
-      "surface": "נא",
-      "english": "⟨por favor⟩"
-    },
-    {
-      "surface": "עבדך",
-      "english": "⟨o⟩ seu servo"
-    },
-    {
-      "surface": "דבר",
-      "english": "uma palavra"
-    },
-    {
-      "surface": "באזני",
-      "english": "⟨nos⟩ ouvidos"
-    },
-    {
-      "surface": "אדני",
-      "english": "⟨do⟩ meu Adonai"
-    },
-    {
-      "surface": "ואל",
-      "english": "e ⟨não⟩"
-    },
-    {
-      "surface": "יחר",
-      "english": "⟨se⟩ ⟨acenda⟩"
-    },
-    {
-      "surface": "אפך",
-      "english": "⟨a⟩ tua ira"
-    },
-    {
-      "surface": "בעבדך",
-      "english": "⟨contra⟩ ⟨o⟩ teu servo"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "כמוך",
-      "english": "⟨é⟩ como tu"
-    },
-    {
-      "surface": "כפרעה",
-      "english": "⟨como⟩ Faraó"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:28:35.892116537Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

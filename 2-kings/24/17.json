@@ -1,9 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "2-kings 24:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 24,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:11:39.560992521Z",
+  "translation": "E o rei de Bavel fez reinar ⟨a⟩ Mattanyahu, tio de Jeoaquim, em seu lugar; e mudou ⟨o⟩ nome ⟨de⟩ Mattanyahu ⟨para⟩ Tsidkijah.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "E o rei de Babilônia fez reinar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rei de Babilônia"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Mattanyahu, tio de Jeoaquim"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanyahu, tio de Jeoaquim"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "tio de Jeoaquim"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "em seu lugar"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "e mudou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨o⟩",
+      "marks": "nome de Mattanyahu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nome de Mattanyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijah"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babilônia",
@@ -13,70 +66,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 648,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17322,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17970
-  },
-  "translation": "E o rei de Bavel fez reinar ⟨a⟩ Mattanyahu, tio de Jeoaquim, em seu lugar; e mudou ⟨o⟩ nome ⟨de⟩ Mattanyahu ⟨para⟩ Tsidkijah.",
-  "tokens": [
-    {
-      "surface": "וימלך",
-      "english": "E o rei de Babilônia fez reinar"
-    },
-    {
-      "surface": "מלך",
-      "english": "rei de Babilônia"
-    },
-    {
-      "surface": "בבל",
-      "english": "Bavel"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Mattanyahu, tio de Jeoaquim"
-    },
-    {
-      "surface": "מתניה",
-      "english": "Mattanyahu, tio de Jeoaquim"
-    },
-    {
-      "surface": "דדו",
-      "english": "tio de Jeoaquim"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "em seu lugar"
-    },
-    {
-      "surface": "ויסב",
-      "english": "e mudou"
-    },
-    {
-      "surface": "את",
-      "english": "⟨o⟩",
-      "marks": "nome de Mattanyahu"
-    },
-    {
-      "surface": "שמו",
-      "english": "nome de Mattanyahu"
-    },
-    {
-      "surface": "צדקיהו",
-      "english": "Tsidkijah"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:11:39.560992521Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

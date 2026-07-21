@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 42:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20011,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20498
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:14:58.947341505Z",
   "translation": "Escuta, peço-⟨te⟩, e ⟨eu⟩ falarei; ⟨eu⟩ perguntar-⟨te⟩-⟨ei⟩, e ⟨tu⟩ ⟨me⟩ farás saber.",
   "tokens": [
     {
       "surface": "שמע",
-      "english": "Escuta"
+      "gloss": "Escuta"
     },
     {
       "surface": "נא",
-      "english": "peço-⟨te⟩"
+      "gloss": "peço-⟨te⟩"
     },
     {
       "surface": "ואנכי",
-      "english": "e ⟨eu⟩"
+      "gloss": "e ⟨eu⟩"
     },
     {
       "surface": "אדבר",
-      "english": "falarei"
+      "gloss": "falarei"
     },
     {
       "surface": "אשאלך",
-      "english": "⟨eu⟩ perguntar-⟨te⟩-⟨ei⟩"
+      "gloss": "⟨eu⟩ perguntar-⟨te⟩-⟨ei⟩"
     },
     {
       "surface": "והודיעני",
-      "english": "e ⟨tu⟩ ⟨me⟩ farás saber"
+      "gloss": "e ⟨tu⟩ ⟨me⟩ farás saber"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:14:58.947341505Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

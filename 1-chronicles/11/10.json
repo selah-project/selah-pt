@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-chronicles 11:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 11,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:44:56.914757545Z",
+  "translation": "E estes ⟨são⟩ os cabeças ⟨dos⟩ poderosos que ⟨pertencem a⟩ David, ⟨os⟩ que se fortaleceram com ele em seu reinado com todo Yisrael para o fazer rei segundo ⟨a⟩ palavra ⟨de⟩ YHWH sobre Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E estes"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "⟨são⟩ os cabeças"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "⟨dos⟩ poderosos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "⟨pertencem a⟩ David"
+    },
+    {
+      "surface": "המתחזקים",
+      "gloss": "⟨os⟩ que se fortaleceram"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "com ele"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "em seu reinado"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "para o fazer rei"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "segundo ⟨a⟩ palavra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,88 +91,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 815,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57972,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58787
-  },
-  "translation": "E estes ⟨são⟩ os cabeças ⟨dos⟩ poderosos que ⟨pertencem a⟩ David, ⟨os⟩ que se fortaleceram com ele em seu reinado com todo Yisrael para o fazer rei segundo ⟨a⟩ palavra ⟨de⟩ YHWH sobre Yisrael.",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E estes"
-    },
-    {
-      "surface": "ראשי",
-      "english": "⟨são⟩ os cabeças"
-    },
-    {
-      "surface": "הגבורים",
-      "english": "⟨dos⟩ poderosos"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לדויד",
-      "english": "⟨pertencem a⟩ David"
-    },
-    {
-      "surface": "המתחזקים",
-      "english": "⟨os⟩ que se fortaleceram"
-    },
-    {
-      "surface": "עמו",
-      "english": "com ele"
-    },
-    {
-      "surface": "במלכותו",
-      "english": "em seu reinado"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "להמליכו",
-      "english": "para o fazer rei"
-    },
-    {
-      "surface": "כדבר",
-      "english": "segundo ⟨a⟩ palavra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:44:56.914757545Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-samuel 10:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 10,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:51:28.171936640Z",
+  "translation": "E saíram ⟨os⟩ filhos de Ammon e prepararam ⟨para⟩ batalha ⟨à⟩ entrada do portão; e Aram de Zobá, e Reob, e Ish-Tob, e Maacá estavam por si mesmos no campo.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "E saíram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos",
+      "marks": "de Amom"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Ammon"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "e prepararam"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "⟨para⟩ batalha"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "⟨à⟩ entrada"
+    },
+    {
+      "surface": "השער",
+      "gloss": "do portão"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "e Aram"
+    },
+    {
+      "surface": "צובא",
+      "gloss": "de Zobá"
+    },
+    {
+      "surface": "ורחוב",
+      "gloss": "e Reob"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e Ish"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tob"
+    },
+    {
+      "surface": "ומעכה",
+      "gloss": "e Maacá"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "por si mesmos"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "no campo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amom",
@@ -13,85 +81,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 668,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17993,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 18661
-  },
-  "translation": "E saíram ⟨os⟩ filhos de Ammon e prepararam ⟨para⟩ batalha ⟨à⟩ entrada do portão; e Aram de Zobá, e Reob, e Ish-Tob, e Maacá estavam por si mesmos no campo.",
-  "tokens": [
-    {
-      "surface": "ויצאו",
-      "english": "E saíram"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos",
-      "marks": "de Amom"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Ammon"
-    },
-    {
-      "surface": "ויערכו",
-      "english": "e prepararam"
-    },
-    {
-      "surface": "מלחמה",
-      "english": "⟨para⟩ batalha"
-    },
-    {
-      "surface": "פתח",
-      "english": "⟨à⟩ entrada"
-    },
-    {
-      "surface": "השער",
-      "english": "do portão"
-    },
-    {
-      "surface": "וארם",
-      "english": "e Aram"
-    },
-    {
-      "surface": "צובא",
-      "english": "de Zobá"
-    },
-    {
-      "surface": "ורחוב",
-      "english": "e Reob"
-    },
-    {
-      "surface": "ואיש",
-      "english": "e Ish"
-    },
-    {
-      "surface": "טוב",
-      "english": "Tob"
-    },
-    {
-      "surface": "ומעכה",
-      "english": "e Maacá"
-    },
-    {
-      "surface": "לבדם",
-      "english": "por si mesmos"
-    },
-    {
-      "surface": "בשדה",
-      "english": "no campo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:51:28.171936640Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

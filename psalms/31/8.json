@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 31:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 652,
-    "prompt_tokens": 70772,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 71424
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:36:51.468295865Z",
   "translation": "Exultarei e me alegrarei em teu Jésed, pois viste ⟨את⟩ minha aflição, conheceste as angústias de minha néfesh.",
   "tokens": [
     {
       "surface": "אגילה",
-      "english": "Exultarei"
+      "gloss": "Exultarei"
     },
     {
       "surface": "ואשמחה",
-      "english": "e me alegrarei"
+      "gloss": "e me alegrarei"
     },
     {
       "surface": "בחסדך",
-      "english": "em teu Jésed"
+      "gloss": "em teu Jésed"
     },
     {
       "surface": "אשר",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "ראית",
-      "english": "viste"
+      "gloss": "viste"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "minha aflição"
     },
     {
       "surface": "עניי",
-      "english": "minha aflição"
+      "gloss": "minha aflição"
     },
     {
       "surface": "ידעת",
-      "english": "conheceste"
+      "gloss": "conheceste"
     },
     {
       "surface": "בצרות",
-      "english": "as angústias de"
+      "gloss": "as angústias de"
     },
     {
       "surface": "נפשי",
-      "english": "minha néfesh"
+      "gloss": "minha néfesh"
     }
-  ],
-  "timestamp": "2026-07-16T17:36:51.468295865Z",
-  "model": "glm-4.5"
+  ]
 }

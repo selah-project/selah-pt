@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 122:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 368,
-    "prompt_tokens": 70232,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70600
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:54.040723881Z",
   "translation": "Por amor da Casa de YHWH, nosso Elohim, buscarei o ⟨teu⟩ bem.",
   "tokens": [
     {
       "surface": "למען",
-      "english": "Por amor de"
+      "gloss": "Por amor de"
     },
     {
       "surface": "בית",
-      "english": "a Casa de"
+      "gloss": "a Casa de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהינו",
-      "english": "nosso Elohim"
+      "gloss": "nosso Elohim"
     },
     {
       "surface": "אבקשה",
-      "english": "buscarei"
+      "gloss": "buscarei"
     },
     {
       "surface": "טוב",
-      "english": "o ⟨teu⟩ bem"
+      "gloss": "o ⟨teu⟩ bem"
     },
     {
       "surface": "לך",
-      "english": "⟨teu⟩"
+      "gloss": "⟨teu⟩"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:54.040723881Z",
-  "model": "glm-4.5"
+  ]
 }

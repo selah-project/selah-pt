@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "2-chronicles 9:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 9,
+  "verse": 31,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:16:58.001073396Z",
+  "translation": "E Shlomó descansou com seus pais, e o sepultaram ⟨na⟩ cidade ⟨de⟩ Davidd seu pai; e Rejavam seu filho reinou ⟨em⟩ seu lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "E Salomão descansou"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "e o sepultaram"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨na⟩ cidade"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e Roboão"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨em⟩ seu lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Salomão",
@@ -27,72 +82,6 @@
       "hebrew": "רחבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 675,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58410,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59085
-  },
-  "translation": "E Shlomó descansou com seus pais, e o sepultaram ⟨na⟩ cidade ⟨de⟩ Davidd seu pai; e Rejavam seu filho reinou ⟨em⟩ seu lugar.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "E Salomão descansou"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "ויקברהו",
-      "english": "e o sepultaram"
-    },
-    {
-      "surface": "בעיר",
-      "english": "⟨na⟩ cidade"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e Roboão"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "⟨em⟩ seu lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:16:58.001073396Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

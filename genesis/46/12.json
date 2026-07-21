@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 46:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 46,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:30:14.610072165Z",
+  "translation": "E os filhos de Yehudá: Er, e Onan, e Shelá, e Peretz, e Zeraḥ; e morreram Er e Onan ⟨estavam⟩ na terra de Kenaan. E os filhos de Peretz foram Hetzron e Ḥamul.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E os filhos de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "e Onan"
+    },
+    {
+      "surface": "ושלה",
+      "gloss": "e Shelá"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "e Peretz"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "e Zeraḥ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morreram"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "e Onan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨estavam⟩ na terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Kenaan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "E os filhos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "filhos"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "de Peretz"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "foram Hetzron"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "e Ḥamul"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,92 +95,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 46,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22231,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22714
-  },
-  "translation": "E os filhos de Yehudá: Er, e Onan, e Shelá, e Peretz, e Zeraḥ; e morreram Er e Onan ⟨estavam⟩ na terra de Kenaan. E os filhos de Peretz foram Hetzron e Ḥamul.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "E os filhos de"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "ער",
-      "english": "Er"
-    },
-    {
-      "surface": "ואונן",
-      "english": "e Onan"
-    },
-    {
-      "surface": "ושלה",
-      "english": "e Shelá"
-    },
-    {
-      "surface": "ופרץ",
-      "english": "e Peretz"
-    },
-    {
-      "surface": "וזרח",
-      "english": "e Zeraḥ"
-    },
-    {
-      "surface": "וימת",
-      "english": "e morreram"
-    },
-    {
-      "surface": "ער",
-      "english": "Er"
-    },
-    {
-      "surface": "ואונן",
-      "english": "e Onan"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨estavam⟩ na terra"
-    },
-    {
-      "surface": "כנען",
-      "english": "de Kenaan"
-    },
-    {
-      "surface": "ויהיו",
-      "english": "E os filhos"
-    },
-    {
-      "surface": "בני",
-      "english": "filhos"
-    },
-    {
-      "surface": "פרץ",
-      "english": "de Peretz"
-    },
-    {
-      "surface": "חצרון",
-      "english": "foram Hetzron"
-    },
-    {
-      "surface": "וחמול",
-      "english": "e Ḥamul"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:30:14.610072165Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

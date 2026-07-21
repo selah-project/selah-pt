@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 71:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62832,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63320
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:25:34.532003858Z",
   "translation": "Minha boca se encherá ⟨com⟩ ⟨o⟩ teu louvor, e ⟨com⟩ ⟨a⟩ tua glória ⟨por⟩ todo ⟨o⟩ dia",
   "tokens": [
     {
       "surface": "ימלא",
-      "english": "Se encherá",
+      "gloss": "Se encherá",
       "marks": "Minha boca"
     },
     {
       "surface": "פי",
-      "english": "Minha boca",
+      "gloss": "Minha boca",
       "marks": "se encherá"
     },
     {
       "surface": "תהלתך",
-      "english": "⟨o⟩ teu louvor",
+      "gloss": "⟨o⟩ teu louvor",
       "marks": "se encherá"
     },
     {
       "surface": "כל",
-      "english": "⟨por⟩ todo",
+      "gloss": "⟨por⟩ todo",
       "marks": "dia"
     },
     {
       "surface": "היום",
-      "english": "dia",
+      "gloss": "dia",
       "marks": "⟨por⟩ todo"
     },
     {
       "surface": "תפארתך",
-      "english": "⟨a⟩ tua glória",
+      "gloss": "⟨a⟩ tua glória",
       "marks": "se encherá"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:25:34.532003858Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

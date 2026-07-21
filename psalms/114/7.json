@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 114:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 470,
-    "prompt_tokens": 70296,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70766
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:47:33.986454807Z",
   "translation": "Treme, ⟨ó⟩ terra, da presença ⟨de⟩ Adonai, da presença ⟨de⟩ Elohim ⟨de⟩ Yaakov,",
   "tokens": [
     {
       "surface": "מלפני",
-      "english": "da presença ⟨de⟩"
+      "gloss": "da presença ⟨de⟩"
     },
     {
       "surface": "אדון",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "חולי",
-      "english": "Treme, ⟨ó⟩"
+      "gloss": "Treme, ⟨ó⟩"
     },
     {
       "surface": "ארץ",
-      "english": "terra"
+      "gloss": "terra"
     },
     {
       "surface": "מלפני",
-      "english": "da presença ⟨de⟩"
+      "gloss": "da presença ⟨de⟩"
     },
     {
       "surface": "אלוה",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     }
-  ],
-  "timestamp": "2026-07-16T17:47:33.986454807Z",
-  "model": "glm-4.5"
+  ]
 }

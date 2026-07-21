@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 60:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62891,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63234
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:18:31.102407530Z",
   "translation": "Elohim, ⟨tu⟩ rejeitaste-nos; ⟨tu⟩ quebraste-nos; ⟨tu⟩ ficaste irado; faze-nos voltar.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "זנחתנו",
-      "english": "rejeitaste-nos"
+      "gloss": "rejeitaste-nos"
     },
     {
       "surface": "פרצתנו",
-      "english": "quebraste-nos"
+      "gloss": "quebraste-nos"
     },
     {
       "surface": "אנפת",
-      "english": "ficaste irado"
+      "gloss": "ficaste irado"
     },
     {
       "surface": "תשובב",
-      "english": "faze-nos voltar"
+      "gloss": "faze-nos voltar"
     },
     {
       "surface": "לנו",
-      "english": "para nós"
+      "gloss": "para nós"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:18:31.102407530Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

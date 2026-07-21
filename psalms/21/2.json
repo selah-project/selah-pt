@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 21:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63037,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63454
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:52:20.479228335Z",
   "translation": "YHWH na ⟨tua⟩ força ⟨o⟩ rei se alegra, e na ⟨tua⟩ salvação quão grandemente exulta ⟨com⟩ grande gozo!",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בעזך",
-      "english": "na ⟨tua⟩ força",
+      "gloss": "na ⟨tua⟩ força",
       "marks": "força"
     },
     {
       "surface": "ישמח",
-      "english": "⟨o⟩ rei se alegra"
+      "gloss": "⟨o⟩ rei se alegra"
     },
     {
       "surface": "מלך",
-      "english": "rei"
+      "gloss": "rei"
     },
     {
       "surface": "ובישועתך",
-      "english": "e na ⟨tua⟩ salvação",
+      "gloss": "e na ⟨tua⟩ salvação",
       "marks": "salvação"
     },
     {
       "surface": "מה",
-      "english": "quão"
+      "gloss": "quão"
     },
     {
       "surface": "יגיל",
-      "english": "grandemente exulta"
+      "gloss": "grandemente exulta"
     },
     {
       "surface": "מאד",
-      "english": "⟨com⟩ grande gozo"
+      "gloss": "⟨com⟩ grande gozo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:52:20.479228335Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

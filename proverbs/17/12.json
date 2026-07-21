@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 17:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52820,
-    "prompt_tokens_details": {
-      "cached_tokens": 51891
-    },
-    "total_tokens": 53249
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:32:13.961949116Z",
   "translation": "Encontrar ⟨um⟩ urso ⟨perdido⟩ de ⟨seus⟩ filhotes ⟨é⟩ melhor do que encontrar ⟨um⟩ tolo ⟨em⟩ ⟨sua⟩ estupidez.",
   "tokens": [
     {
       "surface": "פגוש",
-      "english": "Encontrar"
+      "gloss": "Encontrar"
     },
     {
       "surface": "דב",
-      "english": "⟨um⟩ urso",
+      "gloss": "⟨um⟩ urso",
       "marks": "urso"
     },
     {
       "surface": "שכול",
-      "english": "⟨perdido⟩",
+      "gloss": "⟨perdido⟩",
       "marks": "de seus filhotes"
     },
     {
       "surface": "באיש",
-      "english": "⟨um⟩ homem",
+      "gloss": "⟨um⟩ homem",
       "marks": "homem"
     },
     {
       "surface": "ואל",
-      "english": "melhor do que"
+      "gloss": "melhor do que"
     },
     {
       "surface": "כסיל",
-      "english": "⟨um⟩ tolo"
+      "gloss": "⟨um⟩ tolo"
     },
     {
       "surface": "באולתו",
-      "english": "⟨em⟩ ⟨sua⟩ estupidez",
+      "gloss": "⟨em⟩ ⟨sua⟩ estupidez",
       "marks": "estupidez"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:32:13.961949116Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

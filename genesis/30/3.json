@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 30:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 30,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:11:33.046060052Z",
+  "translation": "E ela disse: Eis que ⟨a⟩ minha serva ⟨é⟩ Bilháh, vai ⟨a⟩ ela, e ela gerará sobre ⟨os⟩ meus joelhos, e eu também serei edificada por meio dela.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E ela disse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Eis que"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "⟨a⟩ minha serva"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "⟨é⟩ Bilháh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vai"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "⟨a⟩ ela"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e ela gerará"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "⟨os⟩ meus joelhos"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "e eu também serei edificada"
+    },
+    {
+      "surface": "גם",
+      "gloss": "também"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "eu"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "por meio dela"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Bilha",
@@ -13,76 +72,6 @@
       "hebrew": "בלהה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21790,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22320
-  },
-  "translation": "E ela disse: Eis que ⟨a⟩ minha serva ⟨é⟩ Bilháh, vai ⟨a⟩ ela, e ela gerará sobre ⟨os⟩ meus joelhos, e eu também serei edificada por meio dela.",
-  "tokens": [
-    {
-      "surface": "ותאמר",
-      "english": "E ela disse"
-    },
-    {
-      "surface": "הנה",
-      "english": "Eis que"
-    },
-    {
-      "surface": "אמתי",
-      "english": "⟨a⟩ minha serva"
-    },
-    {
-      "surface": "בלהה",
-      "english": "⟨é⟩ Bilháh"
-    },
-    {
-      "surface": "בא",
-      "english": "vai"
-    },
-    {
-      "surface": "אליה",
-      "english": "⟨a⟩ ela"
-    },
-    {
-      "surface": "ותלד",
-      "english": "e ela gerará"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ברכי",
-      "english": "⟨os⟩ meus joelhos"
-    },
-    {
-      "surface": "ואבנה",
-      "english": "e eu também serei edificada"
-    },
-    {
-      "surface": "גם",
-      "english": "também"
-    },
-    {
-      "surface": "אנכי",
-      "english": "eu"
-    },
-    {
-      "surface": "ממנה",
-      "english": "por meio dela"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:11:33.046060052Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

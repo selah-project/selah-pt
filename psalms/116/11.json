@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 116:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62683,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63096
-  },
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:56:50.958403718Z",
   "translation": "Eu disse ⟨com⟩ minha agitação: ⟨Todo⟩ ⟨o⟩ homem ⟨é⟩ mentiroso.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Eu"
+      "gloss": "Eu"
     },
     {
       "surface": "אמרתי",
-      "english": "disse"
+      "gloss": "disse"
     },
     {
       "surface": "בחפזי",
-      "english": "⟨com⟩ minha agitação"
+      "gloss": "⟨com⟩ minha agitação"
     },
     {
       "surface": "כל",
-      "english": "⟨Todo⟩"
+      "gloss": "⟨Todo⟩"
     },
     {
       "surface": "האדם",
-      "english": "⟨o⟩ homem"
+      "gloss": "⟨o⟩ homem"
     },
     {
       "surface": "כזב",
-      "english": "mentiroso"
+      "gloss": "mentiroso"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:56:50.958403718Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

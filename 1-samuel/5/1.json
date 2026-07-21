@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-samuel 5:1",
   "book": "1-samuel",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 484,
-    "prompt_tokens": 24053,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24537
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T11:43:48.290614588Z",
   "translation": "E os filisteus tomaram ⟨את⟩ arca ⟨de⟩ Elohim e a trouxeram de Even-HaEzer para Ashdod",
   "tokens": [
     {
       "surface": "ופלשתים",
-      "english": "E os filisteus"
+      "gloss": "E os filisteus"
     },
     {
       "surface": "לקחו",
-      "english": "tomaram"
+      "gloss": "tomaram"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "arca"
     },
     {
       "surface": "ארון",
-      "english": "arca"
+      "gloss": "arca"
     },
     {
       "surface": "האלהים",
-      "english": "⟨de⟩ Elohim"
+      "gloss": "⟨de⟩ Elohim"
     },
     {
       "surface": "ויבאהו",
-      "english": "e a trouxeram"
+      "gloss": "e a trouxeram"
     },
     {
       "surface": "מאבן",
-      "english": "de Even"
+      "gloss": "de Even"
     },
     {
       "surface": "העזר",
-      "english": "-HaEzer"
+      "gloss": "-HaEzer"
     },
     {
       "surface": "אשדודה",
-      "english": "para Ashdod"
+      "gloss": "para Ashdod"
     }
-  ],
-  "timestamp": "2026-07-16T11:43:48.290614588Z",
-  "model": "glm-4.5"
+  ]
 }

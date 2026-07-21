@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 122:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 122,
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:04:15.624854490Z",
+  "translation": "⟨seja⟩ Shalom dentro de tuas muralhas ⟨e⟩ tranquilidade dentro de teus palácios",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "⟨Seja⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "dentro de tuas muralhas"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "tranquilidade"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "dentro de teus palácios"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,44 +40,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 122,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62680,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 62971
-  },
-  "translation": "⟨seja⟩ Shalom dentro de tuas muralhas ⟨e⟩ tranquilidade dentro de teus palácios",
-  "tokens": [
-    {
-      "surface": "יהי",
-      "english": "⟨Seja⟩"
-    },
-    {
-      "surface": "שלום",
-      "english": "Shalom"
-    },
-    {
-      "surface": "בחילך",
-      "english": "dentro de tuas muralhas"
-    },
-    {
-      "surface": "שלוה",
-      "english": "tranquilidade"
-    },
-    {
-      "surface": "בארמנותיך",
-      "english": "dentro de teus palácios"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:04:15.624854490Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

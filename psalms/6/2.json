@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 6:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 399,
-    "prompt_tokens": 70373,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70772
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:34:12.728025864Z",
   "translation": "YHWH, não me repreendas na tua ira, nem me castigues ⟨na⟩ tua ⟨fúria⟩",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "באפך",
-      "english": "na tua ira"
+      "gloss": "na tua ira"
     },
     {
       "surface": "תוכיחני",
-      "english": "me repreendas"
+      "gloss": "me repreendas"
     },
     {
       "surface": "ואל",
-      "english": "nem"
+      "gloss": "nem"
     },
     {
       "surface": "בחמתך",
-      "english": "na tua ⟨fúria⟩"
+      "gloss": "na tua ⟨fúria⟩"
     },
     {
       "surface": "תיסרני",
-      "english": "me castigues"
+      "gloss": "me castigues"
     }
-  ],
-  "timestamp": "2026-07-16T17:34:12.728025864Z",
-  "model": "glm-4.5"
+  ]
 }

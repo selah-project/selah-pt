@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "jeremiah 21:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 21,
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:22:55.265669012Z",
+  "translation": "E Yirmeyahu disse a eles: ⟨Assim⟩ direis a Tzidkiyahu",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "a eles"
+    },
+    {
+      "surface": "כה",
+      "gloss": "⟨Assim⟩"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "direis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tzidkiyahu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeremias",
@@ -20,52 +55,6 @@
       "hebrew": "צדקיהו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 311,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17405,
-    "prompt_tokens_details": {
-      "cached_tokens": 16391
-    },
-    "total_tokens": 17716
-  },
-  "translation": "E Yirmeyahu disse a eles: ⟨Assim⟩ direis a Tzidkiyahu",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E disse"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "Yirmeyahu"
-    },
-    {
-      "surface": "אליהם",
-      "english": "a eles"
-    },
-    {
-      "surface": "כה",
-      "english": "⟨Assim⟩"
-    },
-    {
-      "surface": "תאמרן",
-      "english": "direis"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "צדקיהו",
-      "english": "Tzidkiyahu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:22:55.265669012Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

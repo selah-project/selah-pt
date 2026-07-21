@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "isaiah 19:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 19,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:27:33.075278025Z",
+  "translation": "a quem YHWH dos Exércitos abençoará, dizendo: Bendito ⟨é⟩ o meu povo, Mitzráyim, e ⟨a⟩ obra das minhas mãos, Ashshur, e ⟨a⟩ minha herança, Yisrael.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "A quem"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "abençoará"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "dos Exércitos"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Bendito"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "o meu povo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzráyim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "e ⟨a⟩ obra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "das minhas mãos"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "e ⟨a⟩ minha herança"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egito",
@@ -27,76 +86,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19595,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 20104
-  },
-  "translation": "a quem YHWH dos Exércitos abençoará, dizendo: Bendito ⟨é⟩ o meu povo, Mitzráyim, e ⟨a⟩ obra das minhas mãos, Ashshur, e ⟨a⟩ minha herança, Yisrael.",
-  "tokens": [
-    {
-      "surface": "אשר",
-      "english": "A quem"
-    },
-    {
-      "surface": "ברכו",
-      "english": "abençoará"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "צבאות",
-      "english": "dos Exércitos"
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo"
-    },
-    {
-      "surface": "ברוך",
-      "english": "Bendito"
-    },
-    {
-      "surface": "עמי",
-      "english": "o meu povo"
-    },
-    {
-      "surface": "מצרים",
-      "english": "Mitzráyim"
-    },
-    {
-      "surface": "ומעשה",
-      "english": "e ⟨a⟩ obra"
-    },
-    {
-      "surface": "ידי",
-      "english": "das minhas mãos"
-    },
-    {
-      "surface": "אשור",
-      "english": "Ashshur"
-    },
-    {
-      "surface": "ונחלתי",
-      "english": "e ⟨a⟩ minha herança"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:27:33.075278025Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

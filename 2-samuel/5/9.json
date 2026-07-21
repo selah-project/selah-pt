@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-samuel 5:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 5,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:47:22.253089893Z",
+  "translation": "E Davidd habitou ⟨na⟩ fortaleza e chamou-a cidade de Davidd. E Davidd edificou ao redor desde Millo e ⟨para dentro⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E David habitou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "⟨na⟩ fortaleza"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chamou"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-a"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cidade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "E David edificou"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ao redor"
+    },
+    {
+      "surface": "מן",
+      "gloss": "desde"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "e ⟨para dentro⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,76 +86,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17644,
-    "prompt_tokens_details": {
-      "cached_tokens": 16172
-    },
-    "total_tokens": 18198
-  },
-  "translation": "E Davidd habitou ⟨na⟩ fortaleza e chamou-a cidade de Davidd. E Davidd edificou ao redor desde Millo e ⟨para dentro⟩.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E David habitou"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "במצדה",
-      "english": "⟨na⟩ fortaleza"
-    },
-    {
-      "surface": "ויקרא",
-      "english": "e chamou"
-    },
-    {
-      "surface": "לה",
-      "english": "-a"
-    },
-    {
-      "surface": "עיר",
-      "english": "cidade"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "ויבן",
-      "english": "E David edificou"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "סביב",
-      "english": "ao redor"
-    },
-    {
-      "surface": "מן",
-      "english": "desde"
-    },
-    {
-      "surface": "המלוא",
-      "english": "Millo"
-    },
-    {
-      "surface": "וביתה",
-      "english": "e ⟨para dentro⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:47:22.253089893Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "isaiah 8:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 628,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18752,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19380
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:19:15.511328867Z",
   "translation": "Crampa ⟨o⟩ testemunho, sela ⟨a⟩ Torah entre ⟨meus⟩ discípulos",
   "tokens": [
     {
       "surface": "צור",
-      "english": "Crampa",
+      "gloss": "Crampa",
       "marks": "testemunho"
     },
     {
       "surface": "תעודה",
-      "english": "testemunho"
+      "gloss": "testemunho"
     },
     {
       "surface": "חתום",
-      "english": "sela",
+      "gloss": "sela",
       "marks": "Torah"
     },
     {
       "surface": "תורה",
-      "english": "Torah"
+      "gloss": "Torah"
     },
     {
       "surface": "בלמדי",
-      "english": "entre ⟨meus⟩ discípulos"
+      "gloss": "entre ⟨meus⟩ discípulos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:19:15.511328867Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

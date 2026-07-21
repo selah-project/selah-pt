@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 28:14",
   "book": "job",
-  "lang": "pt",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27419,
-    "prompt_tokens_details": {
-      "cached_tokens": 26406
-    },
-    "total_tokens": 27884
-  },
+  "verse": 14,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:32:49.200457899Z",
   "translation": "O abismo diz: ⟨ela⟩ ⟨não⟩ ⟨é⟩ em mim; e ⟨o⟩ mar diz: ⟨ela⟩ ⟨não⟩ ⟨está⟩ comigo",
   "tokens": [
     {
       "surface": "תהום",
-      "english": "O abismo"
+      "gloss": "O abismo"
     },
     {
       "surface": "אמר",
-      "english": "diz"
+      "gloss": "diz"
     },
     {
       "surface": "לא",
-      "english": "⟨ela⟩ ⟨não⟩ ⟨é⟩"
+      "gloss": "⟨ela⟩ ⟨não⟩ ⟨é⟩"
     },
     {
       "surface": "בי",
-      "english": "em mim"
+      "gloss": "em mim"
     },
     {
       "surface": "היא",
-      "english": "⟨ela⟩"
+      "gloss": "⟨ela⟩"
     },
     {
       "surface": "וים",
-      "english": "e ⟨o⟩ mar"
+      "gloss": "e ⟨o⟩ mar"
     },
     {
       "surface": "אמר",
-      "english": "diz"
+      "gloss": "diz"
     },
     {
       "surface": "אין",
-      "english": "⟨ela⟩ ⟨não⟩ ⟨está⟩"
+      "gloss": "⟨ela⟩ ⟨não⟩ ⟨está⟩"
     },
     {
       "surface": "עמדי",
-      "english": "comigo"
+      "gloss": "comigo"
     }
-  ],
-  "timestamp": "2026-06-11T23:32:49.200457899Z",
-  "model": "glm-4.5"
+  ]
 }

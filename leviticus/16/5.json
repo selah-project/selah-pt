@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "leviticus 16:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 16,
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:54:08.579309368Z",
+  "translation": "E da congregação dos ⟨filhos⟩ de ⟨Yisrael⟩ tomará ⟨את⟩ dois bodes ⟨dos⟩ ⟨goats⟩ para ⟨a⟩ ⟨oferta⟩ ⟨pelo⟩ ⟨pecado⟩ e ⟨um⟩ ⟨carneiro⟩ para ⟨o⟩ ⟨holocausto⟩",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "E da",
+      "marks": "congregação"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "congregação"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨filhos⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨Yisrael⟩"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tomará"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dois"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "bodes"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "⟨dos⟩ ⟨goats⟩"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "para ⟨a⟩ ⟨oferta⟩ ⟨pelo⟩ ⟨pecado⟩"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "e ⟨um⟩ ⟨carneiro⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨um⟩"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "para ⟨o⟩ ⟨holocausto⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,73 +69,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 643,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17993,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 18636
-  },
-  "translation": "E da congregação dos ⟨filhos⟩ de ⟨Yisrael⟩ tomará ⟨את⟩ dois bodes ⟨dos⟩ ⟨goats⟩ para ⟨a⟩ ⟨oferta⟩ ⟨pelo⟩ ⟨pecado⟩ e ⟨um⟩ ⟨carneiro⟩ para ⟨o⟩ ⟨holocausto⟩",
-  "tokens": [
-    {
-      "surface": "ומאת",
-      "english": "E da",
-      "marks": "congregação"
-    },
-    {
-      "surface": "עדת",
-      "english": "congregação"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨filhos⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨Yisrael⟩"
-    },
-    {
-      "surface": "יקח",
-      "english": "tomará"
-    },
-    {
-      "surface": "שני",
-      "english": "dois"
-    },
-    {
-      "surface": "שעירי",
-      "english": "bodes"
-    },
-    {
-      "surface": "עזים",
-      "english": "⟨dos⟩ ⟨goats⟩"
-    },
-    {
-      "surface": "לחטאת",
-      "english": "para ⟨a⟩ ⟨oferta⟩ ⟨pelo⟩ ⟨pecado⟩"
-    },
-    {
-      "surface": "ואיל",
-      "english": "e ⟨um⟩ ⟨carneiro⟩"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨um⟩"
-    },
-    {
-      "surface": "לעלה",
-      "english": "para ⟨o⟩ ⟨holocausto⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:54:08.579309368Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

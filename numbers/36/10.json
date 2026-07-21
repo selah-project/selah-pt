@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 36:10",
   "book": "numbers",
-  "lang": "pt",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 284,
-    "prompt_tokens": 25632,
-    "prompt_tokens_details": {
-      "cached_tokens": 24320
-    },
-    "total_tokens": 25916
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:26:51.773301260Z",
   "translation": "Como YHWH comandou ⟨את⟩ Moshé, assim fizeram as filhas de Tzelofjad",
   "tokens": [
     {
       "surface": "כאשר",
-      "english": "Como"
+      "gloss": "Como"
     },
     {
       "surface": "צוה",
-      "english": "comandou"
+      "gloss": "comandou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Moshé"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "כן",
-      "english": "assim"
+      "gloss": "assim"
     },
     {
       "surface": "עשו",
-      "english": "fizeram"
+      "gloss": "fizeram"
     },
     {
       "surface": "בנות",
-      "english": "as filhas"
+      "gloss": "as filhas"
     },
     {
       "surface": "צלפחד",
-      "english": "de Tzelofjad"
+      "gloss": "de Tzelofjad"
     }
-  ],
-  "timestamp": "2026-07-16T17:26:51.773301260Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 146:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70137,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70501
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:35:44.631827729Z",
   "translation": "Louvarei a YHWH durante minha vida; cantarei a ⟨o⟩ Elohim enquanto ⟨tenha⟩ ⟨ser⟩ ⟨em⟩ mim.",
   "tokens": [
     {
       "surface": "אהללה",
-      "english": "Louvarei"
+      "gloss": "Louvarei"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "בחיי",
-      "english": "durante minha vida"
+      "gloss": "durante minha vida"
     },
     {
       "surface": "אזמרה",
-      "english": "cantarei a"
+      "gloss": "cantarei a"
     },
     {
       "surface": "לאלהי",
-      "english": "⟨o⟩ Elohim"
+      "gloss": "⟨o⟩ Elohim"
     },
     {
       "surface": "בעודי",
-      "english": "enquanto ⟨tenha⟩ ⟨ser⟩ ⟨em⟩ mim"
+      "gloss": "enquanto ⟨tenha⟩ ⟨ser⟩ ⟨em⟩ mim"
     }
-  ],
-  "timestamp": "2026-06-11T23:35:44.631827729Z",
-  "model": "glm-4.5"
+  ]
 }

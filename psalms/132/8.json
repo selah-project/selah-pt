@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 132:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62786,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63091
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:07:46.100281252Z",
   "translation": "Levanta-te, YHWH, para ⟨o⟩ teu descanso, tu e ⟨a⟩ arca da tua força.",
   "tokens": [
     {
       "surface": "קומה",
-      "english": "Levanta-te"
+      "gloss": "Levanta-te"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "למנוחתך",
-      "english": "para ⟨o⟩ teu descanso"
+      "gloss": "para ⟨o⟩ teu descanso"
     },
     {
       "surface": "אתה",
-      "english": "tu"
+      "gloss": "tu"
     },
     {
       "surface": "וארון",
-      "english": "e ⟨a⟩ arca",
+      "gloss": "e ⟨a⟩ arca",
       "marks": "da tua força"
     },
     {
       "surface": "עזך",
-      "english": "da tua força"
+      "gloss": "da tua força"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:07:46.100281252Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

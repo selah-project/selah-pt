@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "genesis 36:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 36,
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:18:26.956449440Z",
+  "translation": "E estes ⟨são⟩ ⟨os⟩ filhos de Reuel: Naate, e Zera, e Sama, e Miza; estes foram ⟨os⟩ filhos de Basemate, mulher de Esav.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E estes",
+      "marks": "os filhos de Reuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "de Reuel"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Naate"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "e Zera"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "e Sama"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "e Miza"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estes"
+    },
+    {
+      "surface": "היו",
+      "gloss": "foram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨os⟩ filhos"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "de Basemate"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mulher de"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Esaú",
@@ -13,77 +73,6 @@
       "hebrew": "עשו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21856,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 22259
-  },
-  "translation": "E estes ⟨são⟩ ⟨os⟩ filhos de Reuel: Naate, e Zera, e Sama, e Miza; estes foram ⟨os⟩ filhos de Basemate, mulher de Esav.",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E estes",
-      "marks": "os filhos de Reuel"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "רעואל",
-      "english": "de Reuel"
-    },
-    {
-      "surface": "נחת",
-      "english": "Naate"
-    },
-    {
-      "surface": "וזרח",
-      "english": "e Zera"
-    },
-    {
-      "surface": "שמה",
-      "english": "e Sama"
-    },
-    {
-      "surface": "ומזה",
-      "english": "e Miza"
-    },
-    {
-      "surface": "אלה",
-      "english": "estes"
-    },
-    {
-      "surface": "היו",
-      "english": "foram"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨os⟩ filhos"
-    },
-    {
-      "surface": "בשמת",
-      "english": "de Basemate"
-    },
-    {
-      "surface": "אשת",
-      "english": "mulher de"
-    },
-    {
-      "surface": "עשו",
-      "english": "Esav"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:18:26.956449440Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

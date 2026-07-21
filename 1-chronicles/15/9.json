@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-chronicles 15:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 249,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56876,
-    "prompt_tokens_details": {
-      "cached_tokens": 56046
-    },
-    "total_tokens": 57125
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:49:12.423987749Z",
   "translation": "Dos filhos de ⟨Hebron⟩: Eliel ⟨o⟩ príncipe, e seus irmãos, oitenta.",
   "tokens": [
     {
       "surface": "לבני",
-      "english": "Dos filhos de"
+      "gloss": "Dos filhos de"
     },
     {
       "surface": "חברון",
-      "english": "⟨Hebron⟩",
+      "gloss": "⟨Hebron⟩",
       "marks": "Hebron"
     },
     {
       "surface": "אליאל",
-      "english": "Eliel"
+      "gloss": "Eliel"
     },
     {
       "surface": "השר",
-      "english": "⟨o⟩ príncipe",
+      "gloss": "⟨o⟩ príncipe",
       "marks": "Eliel"
     },
     {
       "surface": "ואחיו",
-      "english": "e seus irmãos"
+      "gloss": "e seus irmãos"
     },
     {
       "surface": "שמונים",
-      "english": "oitenta"
+      "gloss": "oitenta"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:49:12.423987749Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

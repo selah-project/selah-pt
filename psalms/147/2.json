@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 147:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 147,
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:16:10.325351501Z",
+  "translation": "⟨O que⟩ constrói Yerushalayim ⟨é⟩ YHWH, ⟨os⟩ dispersos de Yisrael Ele ⟨irá⟩ ajuntar",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "⟨O que⟩ constrói"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "⟨os⟩ dispersos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "Ele ⟨irá⟩ ajuntar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalém",
@@ -20,48 +51,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 147,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62832,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63405
-  },
-  "translation": "⟨O que⟩ constrói Yerushalayim ⟨é⟩ YHWH, ⟨os⟩ dispersos de Yisrael Ele ⟨irá⟩ ajuntar",
-  "tokens": [
-    {
-      "surface": "בונה",
-      "english": "⟨O que⟩ constrói"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "נדחי",
-      "english": "⟨os⟩ dispersos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "יכנס",
-      "english": "Ele ⟨irá⟩ ajuntar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:16:10.325351501Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

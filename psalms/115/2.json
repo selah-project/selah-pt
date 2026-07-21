@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 115:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62727,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63210
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:56:18.075412662Z",
   "translation": "Por que ⟨dirão⟩ ⟨os⟩ gentios ⟨assim⟩: ⟨Onde⟩ está agora seu Elohim?",
   "tokens": [
     {
       "surface": "למה",
-      "english": "Por que"
+      "gloss": "Por que"
     },
     {
       "surface": "יאמרו",
-      "english": "⟨dirão⟩",
+      "gloss": "⟨dirão⟩",
       "marks": "os gentios"
     },
     {
       "surface": "הגוים",
-      "english": "⟨os⟩ gentios"
+      "gloss": "⟨os⟩ gentios"
     },
     {
       "surface": "איה",
-      "english": "⟨Onde⟩"
+      "gloss": "⟨Onde⟩"
     },
     {
       "surface": "נא",
-      "english": "⟨assim⟩"
+      "gloss": "⟨assim⟩"
     },
     {
       "surface": "אלהיהם",
-      "english": "seu Elohim"
+      "gloss": "seu Elohim"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:56:18.075412662Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

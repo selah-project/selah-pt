@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "1-kings 8:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 8,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:21:56.625384456Z",
+  "translation": "E ouve ⟨a⟩ súplica do teu servo e ⟨do⟩ teu povo Yisrael que oram ⟨em⟩ direção ⟨a⟩ ⟨este⟩ lugar; e ⟨o⟩ Tu ouve ⟨no⟩ lugar da tua habitação ⟨nos⟩ céus e ouviste e perdoaste.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "E ouve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "תחנת",
+      "gloss": "súplica"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "do teu servo"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "e ⟨do⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "teu povo Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יתפללו",
+      "gloss": "oram ⟨em⟩ direção"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨este⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ⟨o⟩"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "Tu ouve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "da tua habitação"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨nos⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "céus"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "e ouviste"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "e perdoaste"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,104 +100,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 730,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63521,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 64251
-  },
-  "translation": "E ouve ⟨a⟩ súplica do teu servo e ⟨do⟩ teu povo Yisrael que oram ⟨em⟩ direção ⟨a⟩ ⟨este⟩ lugar; e ⟨o⟩ Tu ouve ⟨no⟩ lugar da tua habitação ⟨nos⟩ céus e ouviste e perdoaste.",
-  "tokens": [
-    {
-      "surface": "ושמעת",
-      "english": "E ouve"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "תחנת",
-      "english": "súplica"
-    },
-    {
-      "surface": "עבדך",
-      "english": "do teu servo"
-    },
-    {
-      "surface": "ועמך",
-      "english": "e ⟨do⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "teu povo Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "יתפללו",
-      "english": "oram ⟨em⟩ direção"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "המקום",
-      "english": "⟨este⟩"
-    },
-    {
-      "surface": "הזה",
-      "english": "lugar"
-    },
-    {
-      "surface": "ואתה",
-      "english": "e ⟨o⟩"
-    },
-    {
-      "surface": "תשמע",
-      "english": "Tu ouve"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "מקום",
-      "english": "lugar"
-    },
-    {
-      "surface": "שבתך",
-      "english": "da tua habitação"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨nos⟩"
-    },
-    {
-      "surface": "השמים",
-      "english": "céus"
-    },
-    {
-      "surface": "ושמעת",
-      "english": "e ouviste"
-    },
-    {
-      "surface": "וסלחת",
-      "english": "e perdoaste"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:21:56.625384456Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

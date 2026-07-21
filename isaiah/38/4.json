@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 38:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 38,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:41:45.881370170Z",
+  "translation": "E a palavra de YHWH veio a Yeshayahu, ⟨dizendo⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a palavra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨dizendo⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Isaías",
@@ -13,48 +44,6 @@
       "hebrew": "ישעיה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 38,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18845,
-    "prompt_tokens_details": {
-      "cached_tokens": 18005
-    },
-    "total_tokens": 19145
-  },
-  "translation": "E a palavra de YHWH veio a Yeshayahu, ⟨dizendo⟩",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "E"
-    },
-    {
-      "surface": "דבר",
-      "english": "a palavra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "ישעיהו",
-      "english": "Yeshayahu"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨dizendo⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:41:45.881370170Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

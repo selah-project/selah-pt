@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 72:12",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 399,
-    "prompt_tokens": 70313,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70712
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:40:54.013524619Z",
   "translation": "Porque ele livrará ⟨o⟩ necessitado quando clamar; ⟨o⟩ aflito, e ⟨aquele que⟩ não tem ⟨um⟩ ajudador para si.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יציל",
-      "english": "ele livrará"
+      "gloss": "ele livrará"
     },
     {
       "surface": "אביון",
-      "english": "⟨o⟩ necessitado"
+      "gloss": "⟨o⟩ necessitado"
     },
     {
       "surface": "משוע",
-      "english": "quando clamar"
+      "gloss": "quando clamar"
     },
     {
       "surface": "ועני",
-      "english": "⟨o⟩ aflito"
+      "gloss": "⟨o⟩ aflito"
     },
     {
       "surface": "ואין",
-      "english": "e ⟨aquele que⟩ não tem"
+      "gloss": "e ⟨aquele que⟩ não tem"
     },
     {
       "surface": "עזר",
-      "english": "⟨um⟩ ajudador"
+      "gloss": "⟨um⟩ ajudador"
     },
     {
       "surface": "לו",
-      "english": "para si"
+      "gloss": "para si"
     }
-  ],
-  "timestamp": "2026-07-16T17:40:54.013524619Z",
-  "model": "glm-4.5"
+  ]
 }

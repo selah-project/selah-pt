@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "2-kings 8:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 8,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:54:04.160498687Z",
+  "translation": "E Joram dormiu ⟨com⟩ seus pais, e ⟨foi⟩ sepultado ⟨com⟩ seus pais na cidade de Davidd; e Acazia, seu filho, reinou ⟨em⟩ seu lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "E Joram dormiu"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e ⟨foi⟩ sepultado"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na cidade"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e Acazia"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Acazia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "reinou ⟨em⟩ seu lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,76 +72,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17344,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17783
-  },
-  "translation": "E Joram dormiu ⟨com⟩ seus pais, e ⟨foi⟩ sepultado ⟨com⟩ seus pais na cidade de Davidd; e Acazia, seu filho, reinou ⟨em⟩ seu lugar.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "E Joram dormiu"
-    },
-    {
-      "surface": "יורם",
-      "english": "Joram"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "e ⟨foi⟩ sepultado"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "בעיר",
-      "english": "na cidade"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e Acazia"
-    },
-    {
-      "surface": "אחזיהו",
-      "english": "Acazia"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "reinou ⟨em⟩ seu lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:54:04.160498687Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

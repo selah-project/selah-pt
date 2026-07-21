@@ -1,29 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 30:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 663,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20058,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20721
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:05:37.044156336Z",
   "translation": "Clamo a ti e não ⟨me⟩ respondes; apresento-me diante de ti e ⟨tu⟩ não ⟨me⟩ consideras.",
   "tokens": [
     {
       "surface": "אשוע",
-      "english": "Clamo",
+      "gloss": "Clamo",
       "notes": [
         {
           "kind": "wordplay",
@@ -34,17 +22,17 @@
     },
     {
       "surface": "אליך",
-      "english": "a ti",
+      "gloss": "a ti",
       "notes": []
     },
     {
       "surface": "ולא",
-      "english": "e não",
+      "gloss": "e não",
       "notes": []
     },
     {
       "surface": "תענני",
-      "english": "⟨me⟩ respondes",
+      "gloss": "⟨me⟩ respondes",
       "marks": "a mim",
       "notes": [
         {
@@ -56,7 +44,7 @@
     },
     {
       "surface": "עמדתי",
-      "english": "apresento-me diante de ti",
+      "gloss": "apresento-me diante de ti",
       "notes": [
         {
           "kind": "idiom",
@@ -67,7 +55,7 @@
     },
     {
       "surface": "ותתבנן",
-      "english": "⟨tu⟩ não ⟨me⟩ consideras",
+      "gloss": "⟨tu⟩ não ⟨me⟩ consideras",
       "marks": "a mim",
       "notes": [
         {
@@ -79,7 +67,7 @@
     },
     {
       "surface": "בי",
-      "english": "⟨me⟩",
+      "gloss": "⟨me⟩",
       "notes": [
         {
           "kind": "addition",
@@ -89,7 +77,8 @@
       ]
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:05:37.044156336Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

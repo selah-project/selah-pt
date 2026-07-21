@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 82:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 82,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62772,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63169
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:34:44.155597306Z",
   "translation": "Livró ⟨o⟩ fraco e ⟨o⟩ necessitado; ⟨da⟩ mão ⟨dos⟩ perversos ⟨os⟩ libertai.",
   "tokens": [
     {
       "surface": "פלטו",
-      "english": "Livró"
+      "gloss": "Livró"
     },
     {
       "surface": "דל",
-      "english": "⟨o⟩ fraco"
+      "gloss": "⟨o⟩ fraco"
     },
     {
       "surface": "ואביון",
-      "english": "e ⟨o⟩ necessitado"
+      "gloss": "e ⟨o⟩ necessitado"
     },
     {
       "surface": "מיד",
-      "english": "⟨da⟩ mão"
+      "gloss": "⟨da⟩ mão"
     },
     {
       "surface": "רשעים",
-      "english": "⟨dos⟩ perversos"
+      "gloss": "⟨dos⟩ perversos"
     },
     {
       "surface": "הצילו",
-      "english": "⟨os⟩ libertai"
+      "gloss": "⟨os⟩ libertai"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:34:44.155597306Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

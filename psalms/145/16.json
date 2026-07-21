@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 145:16",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 405,
-    "prompt_tokens": 70330,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70735
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:53:02.361130003Z",
   "translation": "Abrindo ⟨tu⟩ mão, e satisfazes o desejo de todo ser vivente ⟨com favor⟩.",
   "tokens": [
     {
       "surface": "פותח",
-      "english": "Abrindo"
+      "gloss": "Abrindo"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tua mão"
     },
     {
       "surface": "ידך",
-      "english": "mão"
+      "gloss": "mão"
     },
     {
       "surface": "ומשביע",
-      "english": "e satisfazes"
+      "gloss": "e satisfazes"
     },
     {
       "surface": "לכל",
-      "english": "de todo"
+      "gloss": "de todo"
     },
     {
       "surface": "חי",
-      "english": "ser vivente"
+      "gloss": "ser vivente"
     },
     {
       "surface": "רצון",
-      "english": "desejo"
+      "gloss": "desejo"
     }
-  ],
-  "timestamp": "2026-07-16T17:53:02.361130003Z",
-  "model": "glm-4.5"
+  ]
 }

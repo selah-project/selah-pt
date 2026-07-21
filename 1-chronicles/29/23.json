@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "1-chronicles 29:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 29,
+  "verse": 23,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:05:44.127174738Z",
+  "translation": "E Shelomah ⟨se assentou⟩ sobre o trono de YHWH como rei em lugar de Davidd seu pai; e ⟨ele⟩ prosperou; e todo Yisrael obedeceu ⟨a⟩ ⟨ele⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E Shelomah ⟨se assentou⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "o trono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "como rei"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "em lugar de"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "ויצלח",
+      "gloss": "e ⟨ele⟩ prosperou"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "e todo Israel obedeceu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ ⟨ele⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,80 +83,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 689,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57661,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 58350
-  },
-  "translation": "E Shelomah ⟨se assentou⟩ sobre o trono de YHWH como rei em lugar de Davidd seu pai; e ⟨ele⟩ prosperou; e todo Yisrael obedeceu ⟨a⟩ ⟨ele⟩.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E Shelomah ⟨se assentou⟩"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomah"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כסא",
-      "english": "o trono"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "למלך",
-      "english": "como rei"
-    },
-    {
-      "surface": "תחת",
-      "english": "em lugar de"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    },
-    {
-      "surface": "ויצלח",
-      "english": "e ⟨ele⟩ prosperou"
-    },
-    {
-      "surface": "וישמעו",
-      "english": "e todo Israel obedeceu"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ ⟨ele⟩"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:05:44.127174738Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

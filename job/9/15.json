@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 9:15",
   "book": "job",
-  "lang": "pt",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 426,
-    "prompt_tokens": 27500,
-    "prompt_tokens_details": {
-      "cached_tokens": 26368
-    },
-    "total_tokens": 27926
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:56:48.250315891Z",
   "translation": "que, embora eu ⟨seja⟩ justo, não responderei; a meu juiz, farei súplicas",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אם",
-      "english": "embora"
+      "gloss": "embora"
     },
     {
       "surface": "צדקתי",
-      "english": "eu ⟨seja⟩ justo"
+      "gloss": "eu ⟨seja⟩ justo"
     },
     {
       "surface": "לא",
-      "english": "não"
+      "gloss": "não"
     },
     {
       "surface": "אענה",
-      "english": "responderei"
+      "gloss": "responderei"
     },
     {
       "surface": "למשפטי",
-      "english": "a meu juiz"
+      "gloss": "a meu juiz"
     },
     {
       "surface": "אתחנן",
-      "english": "farei súplicas"
+      "gloss": "farei súplicas"
     }
-  ],
-  "timestamp": "2026-07-16T15:56:48.250315891Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 52,
   "ref": "numbers 1:52",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 1,
+  "verse": 52,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T02:08:54.263261045Z",
+  "translation": "E ⟨os⟩ filhos de Yisrael ⟨deverão⟩ acampar, cada homem ⟨em⟩ ⟨o⟩ seu acampamento e cada homem ⟨em⟩ ⟨o⟩ seu estandarte, segundo ⟨os⟩ seus exércitos",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "E deverão acampar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada homem"
+    },
+    {
+      "surface": "על",
+      "gloss": "em"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "o seu acampamento"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e cada homem"
+    },
+    {
+      "surface": "על",
+      "gloss": "em"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "o seu estandarte"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "segundo os seus exércitos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18295,
-    "prompt_tokens_details": {
-      "cached_tokens": 16999
-    },
-    "total_tokens": 18707
-  },
-  "translation": "E ⟨os⟩ filhos de Yisrael ⟨deverão⟩ acampar, cada homem ⟨em⟩ ⟨o⟩ seu acampamento e cada homem ⟨em⟩ ⟨o⟩ seu estandarte, segundo ⟨os⟩ seus exércitos",
-  "tokens": [
-    {
-      "surface": "וחנו",
-      "english": "E deverão acampar"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "איש",
-      "english": "cada homem"
-    },
-    {
-      "surface": "על",
-      "english": "em"
-    },
-    {
-      "surface": "מחנהו",
-      "english": "o seu acampamento"
-    },
-    {
-      "surface": "ואיש",
-      "english": "e cada homem"
-    },
-    {
-      "surface": "על",
-      "english": "em"
-    },
-    {
-      "surface": "דגלו",
-      "english": "o seu estandarte"
-    },
-    {
-      "surface": "לצבאתם",
-      "english": "segundo os seus exércitos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T02:08:54.263261045Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

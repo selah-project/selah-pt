@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "psalms 107:36",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62766,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63129
-  },
+  "verse": 36,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:52:35.970606285Z",
   "translation": "E ele faz os famintos habitarem ⟨ali⟩, e eles constroem uma cidade ⟨de⟩ habitação ⟨את⟩",
   "tokens": [
     {
       "surface": "ויושב",
-      "english": "E ele faz habitar",
+      "gloss": "E ele faz habitar",
       "marks": "os famintos"
     },
     {
       "surface": "שם",
-      "english": "⟨ali⟩"
+      "gloss": "⟨ali⟩"
     },
     {
       "surface": "רעבים",
-      "english": "os famintos"
+      "gloss": "os famintos"
     },
     {
       "surface": "ויכוננו",
-      "english": "e eles constroem",
+      "gloss": "e eles constroem",
       "marks": "uma cidade"
     },
     {
       "surface": "עיר",
-      "english": "cidade"
+      "gloss": "cidade"
     },
     {
       "surface": "מושב",
-      "english": "habitação"
+      "gloss": "habitação"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:52:35.970606285Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

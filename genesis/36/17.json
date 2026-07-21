@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "genesis 36:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 36,
+  "verse": 17,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T00:18:43.687294685Z",
+  "translation": "E estes ⟨são⟩ os filhos de Reuel, filho de Esav: Alufe Naate, Alufe Zera, Alufe Sema, Alufe Miza; estes ⟨são⟩ os alufim de Reuel na terra de Edom. Estes ⟨são⟩ os filhos de Basemate, mulher de Esav.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E estes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "os filhos de"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "filho de"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "Alufe"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Naate"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "Alufe"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zera"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "Alufe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Sema"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "Alufe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Miza"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estes"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "os alufim de"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na terra de"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Estes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨são⟩ os filhos de"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemate"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mulher de"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Esaú",
@@ -20,116 +119,6 @@
       "hebrew": "עשו"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 737,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22880,
-    "prompt_tokens_details": {
-      "cached_tokens": 20324
-    },
-    "total_tokens": 23617
-  },
-  "translation": "E estes ⟨são⟩ os filhos de Reuel, filho de Esav: Alufe Naate, Alufe Zera, Alufe Sema, Alufe Miza; estes ⟨são⟩ os alufim de Reuel na terra de Edom. Estes ⟨são⟩ os filhos de Basemate, mulher de Esav.",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E estes"
-    },
-    {
-      "surface": "בני",
-      "english": "os filhos de"
-    },
-    {
-      "surface": "רעואל",
-      "english": "Reuel"
-    },
-    {
-      "surface": "בן",
-      "english": "filho de"
-    },
-    {
-      "surface": "עשו",
-      "english": "Esav"
-    },
-    {
-      "surface": "אלוף",
-      "english": "Alufe"
-    },
-    {
-      "surface": "נחת",
-      "english": "Naate"
-    },
-    {
-      "surface": "אלוף",
-      "english": "Alufe"
-    },
-    {
-      "surface": "זרח",
-      "english": "Zera"
-    },
-    {
-      "surface": "אלוף",
-      "english": "Alufe"
-    },
-    {
-      "surface": "שמה",
-      "english": "Sema"
-    },
-    {
-      "surface": "אלוף",
-      "english": "Alufe"
-    },
-    {
-      "surface": "מזה",
-      "english": "Miza"
-    },
-    {
-      "surface": "אלה",
-      "english": "estes"
-    },
-    {
-      "surface": "אלופי",
-      "english": "os alufim de"
-    },
-    {
-      "surface": "רעואל",
-      "english": "Reuel"
-    },
-    {
-      "surface": "בארץ",
-      "english": "na terra de"
-    },
-    {
-      "surface": "אדום",
-      "english": "Edom"
-    },
-    {
-      "surface": "אלה",
-      "english": "Estes"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨são⟩ os filhos de"
-    },
-    {
-      "surface": "בשמת",
-      "english": "Basemate"
-    },
-    {
-      "surface": "אשת",
-      "english": "mulher de"
-    },
-    {
-      "surface": "עשו",
-      "english": "Esav"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T00:18:43.687294685Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

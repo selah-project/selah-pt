@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "leviticus 22:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 22,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T01:59:46.955285466Z",
+  "translation": "E YHWH falou ⟨a⟩ Moshé, dizendo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E falou",
+      "marks": null
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH",
+      "marks": null
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé",
+      "marks": null
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dizendo:",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,49 +45,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 294,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17083,
-    "prompt_tokens_details": {
-      "cached_tokens": 16416
-    },
-    "total_tokens": 17377
-  },
-  "translation": "E YHWH falou ⟨a⟩ Moshé, dizendo:",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "E falou",
-      "marks": null
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH",
-      "marks": null
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩",
-      "marks": "Mosheh"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé",
-      "marks": null
-    },
-    {
-      "surface": "לאמר",
-      "english": "dizendo:",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T01:59:46.955285466Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

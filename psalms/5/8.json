@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 5:8",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 859,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70511,
-    "prompt_tokens_details": {
-      "cached_tokens": 69053
-    },
-    "total_tokens": 71370
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:37:08.806008050Z",
   "translation": "E eu, na abundância do teu jésed, virei ⟨para⟩ a tua casa; prostrar-me-ei ⟨em direção⟩ ⟨ao⟩ teu palácio sagrado, na tua yirá ⟨para contigo⟩",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "E eu"
+      "gloss": "E eu"
     },
     {
       "surface": "ברב",
-      "english": "na abundância"
+      "gloss": "na abundância"
     },
     {
       "surface": "חסדך",
-      "english": "do teu jésed"
+      "gloss": "do teu jésed"
     },
     {
       "surface": "אבוא",
-      "english": "virei"
+      "gloss": "virei"
     },
     {
       "surface": "ביתך",
-      "english": "⟨para⟩ a tua casa",
+      "gloss": "⟨para⟩ a tua casa",
       "marks": "a tua casa"
     },
     {
       "surface": "אשתחוה",
-      "english": "prostrar-me-ei"
+      "gloss": "prostrar-me-ei"
     },
     {
       "surface": "אל",
-      "english": "⟨em direção⟩ ⟨ao⟩"
+      "gloss": "⟨em direção⟩ ⟨ao⟩"
     },
     {
       "surface": "היכל",
-      "english": "teu palácio"
+      "gloss": "teu palácio"
     },
     {
       "surface": "קדשך",
-      "english": "sagrado"
+      "gloss": "sagrado"
     },
     {
       "surface": "ביראתך",
-      "english": "na tua yirá ⟨para contigo⟩"
+      "gloss": "na tua yirá ⟨para contigo⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:37:08.806008050Z",
-  "model": "glm-4.5"
+  ]
 }

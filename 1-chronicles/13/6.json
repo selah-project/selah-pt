@@ -1,9 +1,101 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-chronicles 13:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 13,
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:48:01.093202136Z",
+  "translation": "E Davidd subiu, e todo Yisrael, ⟨a⟩ Baalah, ⟨que é⟩ Kiriat-Jearim, ⟨que pertence⟩ ⟨a⟩ Judá, para trazer ⟨dali⟩ ⟨o⟩ arco ⟨de⟩ Elohim, YHWH, ⟨que⟩ habita ⟨entre⟩ os querubins, sobre ⟨o⟩ qual ⟨é⟩ invocado ⟨o⟩ Nome.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "E David subiu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעלתה",
+      "gloss": "⟨a⟩ Baalah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨que é⟩ Kiriat-Jearim"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriat-Jearim"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Kiriat-Jearim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que pertence⟩"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "⟨a⟩ Judá"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "para trazer"
+    },
+    {
+      "surface": "משם",
+      "gloss": "⟨dali⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨o⟩",
+      "marks": "arco ⟨de⟩ Elohim, YHWH"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arco"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨de⟩ Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨que⟩ habita"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "⟨entre⟩ os querubins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sobre ⟨o⟩ qual"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "⟨é⟩ invocado"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨o⟩ Nome"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,109 +112,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 1250,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58493,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 59743
-  },
-  "translation": "E Davidd subiu, e todo Yisrael, ⟨a⟩ Baalah, ⟨que é⟩ Kiriat-Jearim, ⟨que pertence⟩ ⟨a⟩ Judá, para trazer ⟨dali⟩ ⟨o⟩ arco ⟨de⟩ Elohim, YHWH, ⟨que⟩ habita ⟨entre⟩ os querubins, sobre ⟨o⟩ qual ⟨é⟩ invocado ⟨o⟩ Nome.",
-  "tokens": [
-    {
-      "surface": "ויעל",
-      "english": "E David subiu"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בעלתה",
-      "english": "⟨a⟩ Baalah"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨que é⟩ Kiriat-Jearim"
-    },
-    {
-      "surface": "קרית",
-      "english": "Kiriat-Jearim"
-    },
-    {
-      "surface": "יערים",
-      "english": "Kiriat-Jearim"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que pertence⟩"
-    },
-    {
-      "surface": "ליהודה",
-      "english": "⟨a⟩ Judá"
-    },
-    {
-      "surface": "להעלות",
-      "english": "para trazer"
-    },
-    {
-      "surface": "משם",
-      "english": "⟨dali⟩"
-    },
-    {
-      "surface": "את",
-      "english": "⟨o⟩",
-      "marks": "arco ⟨de⟩ Elohim, YHWH"
-    },
-    {
-      "surface": "ארון",
-      "english": "arco"
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨de⟩ Elohim"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "יושב",
-      "english": "⟨que⟩ habita"
-    },
-    {
-      "surface": "הכרובים",
-      "english": "⟨entre⟩ os querubins"
-    },
-    {
-      "surface": "אשר",
-      "english": "sobre ⟨o⟩ qual"
-    },
-    {
-      "surface": "נקרא",
-      "english": "⟨é⟩ invocado"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨o⟩ Nome"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:48:01.093202136Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

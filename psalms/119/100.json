@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 100,
   "ref": "psalms 119:100",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 515,
-    "prompt_tokens": 70140,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70655
-  },
+  "verse": 100,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:49:15.014820190Z",
   "translation": "Tenho mais entendimento ⟨que⟩ os anciãos, porque guardo ⟨את⟩ teus preceitos.",
   "tokens": [
     {
       "surface": "מזקנים",
-      "english": "mais entendimento ⟨que⟩ os anciãos",
+      "gloss": "mais entendimento ⟨que⟩ os anciãos",
       "notes": "Hebraico implícito: *me-bin* (entendo mais de) ou *mevunah* (entendimento) + *mi-zekenim* (dos anciãos). A preposição 'de' é elidida."
     },
     {
       "surface": "אתבונן",
-      "english": "entendimento",
+      "gloss": "entendimento",
       "notes": "Hitpoel de *bin*; o prefixo *et* é parte da raiz, não a partícula acusativa."
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "פקודיך",
-      "english": "teus preceitos",
+      "gloss": "teus preceitos",
       "notes": "Plural de *piqqud* (mandato, ordem)."
     },
     {
       "surface": "נצרתי",
-      "english": "guardo"
+      "gloss": "guardo"
     },
     {
       "surface": "⟨את⟩",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "teus preceitos"
     }
-  ],
-  "timestamp": "2026-07-16T17:49:15.014820190Z",
-  "model": "glm-4.5"
+  ]
 }

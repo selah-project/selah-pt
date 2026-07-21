@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 126,
   "ref": "psalms 119:126",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62654,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63019
-  },
+  "verse": 126,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:01:15.202029941Z",
   "translation": "⟨É⟩ tempo para ⟨o⟩ YHWH agir: porque violaram ⟨a⟩ tua Torah.",
   "tokens": [
     {
       "surface": "עת",
-      "english": "Tempo"
+      "gloss": "Tempo"
     },
     {
       "surface": "לעשות",
-      "english": "agir"
+      "gloss": "agir"
     },
     {
       "surface": "ליהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הפרו",
-      "english": "violaram"
+      "gloss": "violaram"
     },
     {
       "surface": "תורתך",
-      "english": "⟨a⟩ tua Torah",
+      "gloss": "⟨a⟩ tua Torah",
       "marks": "thy Torah"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:01:15.202029941Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

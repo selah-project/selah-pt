@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-chronicles 4:10",
   "book": "2-chronicles",
-  "lang": "pt",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 304,
-    "prompt_tokens": 65550,
-    "prompt_tokens_details": {
-      "cached_tokens": 64384
-    },
-    "total_tokens": 65854
-  },
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:05:57.953759090Z",
   "translation": "E colocou ⟨את⟩ o Mar ⟨o⟩ no lado direito ⟨o⟩ na frente ⟨o⟩ defronte ao sul",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "E colocou ⟨את⟩",
+      "gloss": "E colocou ⟨את⟩",
       "marks": "o Mar"
     },
     {
       "surface": "הים",
-      "english": "o Mar"
+      "gloss": "o Mar"
     },
     {
       "surface": "נתן",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מכתף",
-      "english": "⟨o⟩ no lado direito"
+      "gloss": "⟨o⟩ no lado direito"
     },
     {
       "surface": "הימנית",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "קדמה",
-      "english": "⟨o⟩ na frente"
+      "gloss": "⟨o⟩ na frente"
     },
     {
       "surface": "ממול",
-      "english": "⟨o⟩ defronte"
+      "gloss": "⟨o⟩ defronte"
     },
     {
       "surface": "נגבה",
-      "english": "ao sul"
+      "gloss": "ao sul"
     }
-  ],
-  "timestamp": "2026-07-16T12:05:57.953759090Z",
-  "model": "glm-4.5"
+  ]
 }

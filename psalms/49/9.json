@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 49:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62696,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63016
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:11:21.518109383Z",
   "translation": "⟨e⟩ o preço ⟨de⟩ resgate ⟨de⟩ sua alma ⟨e⟩ cessa para sempre",
   "tokens": [
     {
       "surface": "ויקר",
-      "english": "⟨E⟩ o preço"
+      "gloss": "⟨E⟩ o preço"
     },
     {
       "surface": "פדיון",
-      "english": "⟨de⟩ resgate"
+      "gloss": "⟨de⟩ resgate"
     },
     {
       "surface": "נפשם",
-      "english": "⟨de⟩ sua alma",
+      "gloss": "⟨de⟩ sua alma",
       "marks": "sua alma"
     },
     {
       "surface": "וחדל",
-      "english": "⟨e⟩ cessa"
+      "gloss": "⟨e⟩ cessa"
     },
     {
       "surface": "לעולם",
-      "english": "para sempre"
+      "gloss": "para sempre"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:11:21.518109383Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

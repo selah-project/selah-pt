@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 28:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 28,
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:39:48.577098620Z",
+  "translation": "⟨Um filho de⟩ vinte anos ⟨era⟩ Ajaz quando começou a reinar, e dezesseis anos reinou em Jerusalém; e não fez ⟨o que era⟩ reto aos olhos de YHWH, como Davi, seu pai.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "⟨Um filho de⟩"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vinte"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "quando começou a reinar"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dezesseis"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinou"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "em Jerusalém"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e não"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fez"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "⟨o que era⟩ reto"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aos olhos de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כדויד",
+      "gloss": "como Davi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Acaz",
@@ -13,92 +88,6 @@
       "hebrew": "אחז"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58852,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 59384
-  },
-  "translation": "⟨Um filho de⟩ vinte anos ⟨era⟩ Ajaz quando começou a reinar, e dezesseis anos reinou em Jerusalém; e não fez ⟨o que era⟩ reto aos olhos de YHWH, como Davi, seu pai.",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "⟨Um filho de⟩"
-    },
-    {
-      "surface": "עשרים",
-      "english": "vinte"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "אחז",
-      "english": "Ajaz"
-    },
-    {
-      "surface": "במלכו",
-      "english": "quando começou a reinar"
-    },
-    {
-      "surface": "ושש",
-      "english": "e"
-    },
-    {
-      "surface": "עשרה",
-      "english": "dezesseis"
-    },
-    {
-      "surface": "שנה",
-      "english": "anos"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinou"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "em Jerusalém"
-    },
-    {
-      "surface": "ולא",
-      "english": "e não"
-    },
-    {
-      "surface": "עשה",
-      "english": "fez"
-    },
-    {
-      "surface": "הישר",
-      "english": "⟨o que era⟩ reto"
-    },
-    {
-      "surface": "בעיני",
-      "english": "aos olhos de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "כדויד",
-      "english": "como Davi"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:39:48.577098620Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

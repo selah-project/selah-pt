@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 102:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62735,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63216
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:46:36.380425592Z",
   "translation": "Para ouvir ⟨o⟩ lamento ⟨do⟩ cativo, para soltar ⟨os⟩ filhos ⟨da⟩ morte",
   "tokens": [
     {
       "surface": "לשמע",
-      "english": "Para ouvir",
+      "gloss": "Para ouvir",
       "marks": null
     },
     {
       "surface": "אנקת",
-      "english": "⟨o⟩ lamento",
+      "gloss": "⟨o⟩ lamento",
       "marks": "lamento"
     },
     {
       "surface": "אסיר",
-      "english": "⟨do⟩ cativo",
+      "gloss": "⟨do⟩ cativo",
       "marks": "cativo"
     },
     {
       "surface": "לפתח",
-      "english": "para soltar",
+      "gloss": "para soltar",
       "marks": null
     },
     {
       "surface": "בני",
-      "english": "⟨os⟩ filhos",
+      "gloss": "⟨os⟩ filhos",
       "marks": "filhos"
     },
     {
       "surface": "תמותה",
-      "english": "⟨da⟩ morte",
+      "gloss": "⟨da⟩ morte",
       "marks": "morte"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:46:36.380425592Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

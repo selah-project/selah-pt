@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 147:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62903,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63406
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:15:59.247437737Z",
   "translation": "⟨O⟩ YHWH sustenta ⟨os⟩ humildes ⟨mas⟩ humilha ⟨os⟩ ímpios até à terra.",
   "tokens": [
     {
       "surface": "מעודד",
-      "english": "Sustenta"
+      "gloss": "Sustenta"
     },
     {
       "surface": "ענוים",
-      "english": "⟨os⟩ humildes"
+      "gloss": "⟨os⟩ humildes"
     },
     {
       "surface": "יהוה",
-      "english": "⟨O⟩ YHWH"
+      "gloss": "⟨O⟩ YHWH"
     },
     {
       "surface": "משפיל",
-      "english": "humilha"
+      "gloss": "humilha"
     },
     {
       "surface": "רשעים",
-      "english": "⟨os⟩ ímpios"
+      "gloss": "⟨os⟩ ímpios"
     },
     {
       "surface": "עדי",
-      "english": "até à"
+      "gloss": "até à"
     },
     {
       "surface": "ארץ",
-      "english": "terra"
+      "gloss": "terra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:15:59.247437737Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

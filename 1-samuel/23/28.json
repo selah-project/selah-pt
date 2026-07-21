@@ -1,9 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "1-samuel 23:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 23,
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:35:49.028572581Z",
+  "translation": "E Shaul voltou de perseguir após ⟨את⟩ Davidd e foi ao encontro ⟨לקראת⟩ ⟨את⟩ dos filisteus por causa ⟨על⟩ disto ⟨כן⟩ chamaram ⟨קראו⟩ ao ⟨למקום⟩ lugar ⟨ההוא⟩ aquele Sela-ham-Machlekoth",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "E voltou"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "de perseguir"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "após"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e foi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ao encontro",
+      "marks": "dos filisteus"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteus"
+    },
+    {
+      "surface": "על",
+      "gloss": "por causa",
+      "marks": "disto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "disto"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "chamaram"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ao",
+      "marks": "lugar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aquele"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "המחלקות",
+      "gloss": "ham-Machlekoth"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saul",
@@ -20,87 +90,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 571,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17034,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 17605
-  },
-  "translation": "E Shaul voltou de perseguir após ⟨את⟩ Davidd e foi ao encontro ⟨לקראת⟩ ⟨את⟩ dos filisteus por causa ⟨על⟩ disto ⟨כן⟩ chamaram ⟨קראו⟩ ao ⟨למקום⟩ lugar ⟨ההוא⟩ aquele Sela-ham-Machlekoth",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "E voltou"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "מרדף",
-      "english": "de perseguir"
-    },
-    {
-      "surface": "אחרי",
-      "english": "após"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "וילך",
-      "english": "e foi"
-    },
-    {
-      "surface": "לקראת",
-      "english": "ao encontro",
-      "marks": "dos filisteus"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "filisteus"
-    },
-    {
-      "surface": "על",
-      "english": "por causa",
-      "marks": "disto"
-    },
-    {
-      "surface": "כן",
-      "english": "disto"
-    },
-    {
-      "surface": "קראו",
-      "english": "chamaram"
-    },
-    {
-      "surface": "למקום",
-      "english": "ao",
-      "marks": "lugar"
-    },
-    {
-      "surface": "ההוא",
-      "english": "aquele"
-    },
-    {
-      "surface": "סלע",
-      "english": "Sela"
-    },
-    {
-      "surface": "המחלקות",
-      "english": "ham-Machlekoth"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:35:49.028572581Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

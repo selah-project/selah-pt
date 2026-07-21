@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "jeremiah 50:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 50,
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:53:45.426217012Z",
+  "translation": "Remove ⟨yourselves⟩ from ⟨the⟩ midst of Bavel, and go forth from ⟨the⟩ land of ⟨the⟩ Kasdites, and be as ⟨the⟩ he-goats before ⟨the⟩ flock.",
+  "tokens": [
+    {
+      "surface": "נדו",
+      "gloss": "Remove"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "from ⟨the⟩ midst"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "of Bavel"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "and from ⟨the⟩ land"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "of ⟨the⟩ Kasdites"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "go forth"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "and be"
+    },
+    {
+      "surface": "כעתודים",
+      "gloss": "as ⟨the⟩ he-goats"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before ⟨the⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "flock"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,64 +60,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 50,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17740,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18182
-  },
-  "translation": "Remove ⟨yourselves⟩ from ⟨the⟩ midst of Bavel, and go forth from ⟨the⟩ land of ⟨the⟩ Kasdites, and be as ⟨the⟩ he-goats before ⟨the⟩ flock.",
-  "tokens": [
-    {
-      "surface": "נדו",
-      "english": "Remove"
-    },
-    {
-      "surface": "מתוך",
-      "english": "from ⟨the⟩ midst"
-    },
-    {
-      "surface": "בבל",
-      "english": "of Bavel"
-    },
-    {
-      "surface": "ומארץ",
-      "english": "and from ⟨the⟩ land"
-    },
-    {
-      "surface": "כשדים",
-      "english": "of ⟨the⟩ Kasdites"
-    },
-    {
-      "surface": "יצאו",
-      "english": "go forth"
-    },
-    {
-      "surface": "והיו",
-      "english": "and be"
-    },
-    {
-      "surface": "כעתודים",
-      "english": "as ⟨the⟩ he-goats"
-    },
-    {
-      "surface": "לפני",
-      "english": "before ⟨the⟩"
-    },
-    {
-      "surface": "צאן",
-      "english": "flock"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:53:45.426217012Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

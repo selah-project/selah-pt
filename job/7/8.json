@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 7:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20072,
-    "prompt_tokens_details": {
-      "cached_tokens": 19086
-    },
-    "total_tokens": 20473
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:50:20.343730601Z",
   "translation": "A visão ⟨do⟩ que me viu não ⟨é⟩ mais; teus olhos ⟨estão⟩ em mim, e eu não ⟨estou⟩.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תשורני",
-      "english": "A visão ⟨do⟩ que me viu"
+      "gloss": "A visão ⟨do⟩ que me viu"
     },
     {
       "surface": "עין",
-      "english": "olho"
+      "gloss": "olho"
     },
     {
       "surface": "ראי",
-      "english": "viu"
+      "gloss": "viu"
     },
     {
       "surface": "עיניך",
-      "english": "teus olhos"
+      "gloss": "teus olhos"
     },
     {
       "surface": "בי",
-      "english": "em mim"
+      "gloss": "em mim"
     },
     {
       "surface": "ואינני",
-      "english": "e eu não ⟨estou⟩"
+      "gloss": "e eu não ⟨estou⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:50:20.343730601Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 73:24",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 332,
-    "prompt_tokens": 70098,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70430
-  },
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:41:31.891116810Z",
   "translation": "Com teu conselho ⟨tu⟩ me guiarás, e depois ⟨me⟩ receberás com glória",
   "tokens": [
     {
       "surface": "בעצתך",
-      "english": "com teu conselho"
+      "gloss": "com teu conselho"
     },
     {
       "surface": "תנחני",
-      "english": "⟨tu⟩ me guiarás"
+      "gloss": "⟨tu⟩ me guiarás"
     },
     {
       "surface": "ואחר",
-      "english": "e depois"
+      "gloss": "e depois"
     },
     {
       "surface": "כבוד",
-      "english": "glória"
+      "gloss": "glória"
     },
     {
       "surface": "תקחני",
-      "english": "⟨me⟩ receberás com"
+      "gloss": "⟨me⟩ receberás com"
     }
-  ],
-  "timestamp": "2026-07-16T17:41:31.891116810Z",
-  "model": "glm-4.5"
+  ]
 }

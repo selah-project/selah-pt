@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 7:12",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 504,
-    "prompt_tokens": 24700,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25204
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:45:56.608943716Z",
   "translation": "E eles lançaram cada um o seu cajado, e eles se tornaram ⟨serpentes⟩; mas o cajado de Aharon engoliu ⟨את⟩ os cajados deles.",
   "tokens": [
     {
       "surface": "וישליכו",
-      "english": "E eles lançaram"
+      "gloss": "E eles lançaram"
     },
     {
       "surface": "איש",
-      "english": "cada um"
+      "gloss": "cada um"
     },
     {
       "surface": "מטהו",
-      "english": "o seu cajado"
+      "gloss": "o seu cajado"
     },
     {
       "surface": "ויהיו",
-      "english": "e eles se tornaram"
+      "gloss": "e eles se tornaram"
     },
     {
       "surface": "לתנינם",
-      "english": "⟨serpentes⟩"
+      "gloss": "⟨serpentes⟩"
     },
     {
       "surface": "ותבלע",
-      "english": "mas engoliu"
+      "gloss": "mas engoliu"
     },
     {
       "surface": "מטה",
-      "english": "o cajado"
+      "gloss": "o cajado"
     },
     {
       "surface": "אהרן",
-      "english": "de Aharon"
+      "gloss": "de Aharon"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os cajados deles"
     },
     {
       "surface": "מטתם",
-      "english": "os cajados deles"
+      "gloss": "os cajados deles"
     }
-  ],
-  "timestamp": "2026-07-16T13:45:56.608943716Z",
-  "model": "glm-4.5"
+  ]
 }

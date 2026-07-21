@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 128:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 128,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62917,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63383
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:06:33.781826621Z",
   "translation": "Cântico ⟨das⟩ subidas. Feliz ⟨é⟩ todo ⟨o que⟩ teme a YHWH, ⟨o que⟩ caminha nos ⟨seus⟩ caminhos",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Cântico"
+      "gloss": "Cântico"
     },
     {
       "surface": "המעלות",
-      "english": "⟨das⟩ subidas",
+      "gloss": "⟨das⟩ subidas",
       "marks": "Cântico"
     },
     {
       "surface": "אשרי",
-      "english": "Feliz ⟨é⟩"
+      "gloss": "Feliz ⟨é⟩"
     },
     {
       "surface": "כל",
-      "english": "todo ⟨o que⟩"
+      "gloss": "todo ⟨o que⟩"
     },
     {
       "surface": "ירא",
-      "english": "teme"
+      "gloss": "teme"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "ההלך",
-      "english": "⟨o que⟩ caminha"
+      "gloss": "⟨o que⟩ caminha"
     },
     {
       "surface": "בדרכיו",
-      "english": "nos ⟨seus⟩ caminhos",
+      "gloss": "nos ⟨seus⟩ caminhos",
       "marks": "⟨o que⟩ caminha"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:06:33.781826621Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

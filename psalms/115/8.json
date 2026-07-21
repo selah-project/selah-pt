@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 115:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62901,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63363
-  },
+  "verse": 8,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:56:17.516113877Z",
   "translation": "como eles ⟨são⟩ ⟨os⟩ que os fazem; todo aquele que confia neles",
   "tokens": [
     {
       "surface": "כמוהם",
-      "english": "Como eles"
+      "gloss": "Como eles"
     },
     {
       "surface": "יהיו",
-      "english": "⟨são⟩",
+      "gloss": "⟨são⟩",
       "marks": "como eles ⟨são⟩ ⟨os⟩ que os fazem"
     },
     {
       "surface": "עשיהם",
-      "english": "⟨os⟩ que os fazem"
+      "gloss": "⟨os⟩ que os fazem"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "אשר",
-      "english": "aquele que"
+      "gloss": "aquele que"
     },
     {
       "surface": "בטח",
-      "english": "confia"
+      "gloss": "confia"
     },
     {
       "surface": "בהם",
-      "english": "neles",
+      "gloss": "neles",
       "marks": "confia neles"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:56:17.516113877Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

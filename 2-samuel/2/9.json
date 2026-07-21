@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-samuel 2:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 2,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:44:11.003014412Z",
+  "translation": "E o constituiu rei sobre ⟨o⟩ Gileade, e sobre ⟨o⟩ asurita, e sobre Jizreel, e sobre ⟨o⟩ Efráyim, e sobre ⟨o⟩ Binjamin, e sobre ⟨todo⟩ Yisrael",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "E o constituiu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "⟨o⟩ Gileade"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e sobre"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "⟨o⟩ asurita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e sobre"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sobre"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "⟨o⟩ Efráyim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sobre"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "⟨o⟩ Binjamin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨todo⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraim",
@@ -20,80 +83,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17831,
-    "prompt_tokens_details": {
-      "cached_tokens": 16174
-    },
-    "total_tokens": 18300
-  },
-  "translation": "E o constituiu rei sobre ⟨o⟩ Gileade, e sobre ⟨o⟩ asurita, e sobre Jizreel, e sobre ⟨o⟩ Efráyim, e sobre ⟨o⟩ Binjamin, e sobre ⟨todo⟩ Yisrael",
-  "tokens": [
-    {
-      "surface": "וימלכהו",
-      "english": "E o constituiu"
-    },
-    {
-      "surface": "אל",
-      "english": "sobre"
-    },
-    {
-      "surface": "הגלעד",
-      "english": "⟨o⟩ Gileade"
-    },
-    {
-      "surface": "ואל",
-      "english": "e sobre"
-    },
-    {
-      "surface": "האשורי",
-      "english": "⟨o⟩ asurita"
-    },
-    {
-      "surface": "ואל",
-      "english": "e sobre"
-    },
-    {
-      "surface": "יזרעאל",
-      "english": "Jizreel"
-    },
-    {
-      "surface": "ועל",
-      "english": "e sobre"
-    },
-    {
-      "surface": "אפרים",
-      "english": "⟨o⟩ Efráyim"
-    },
-    {
-      "surface": "ועל",
-      "english": "e sobre"
-    },
-    {
-      "surface": "בנימן",
-      "english": "⟨o⟩ Binjamin"
-    },
-    {
-      "surface": "ועל",
-      "english": "e sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "כלה",
-      "english": "⟨todo⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:44:11.003014412Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

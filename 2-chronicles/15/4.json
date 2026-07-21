@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 15:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 15,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:22:26.262158524Z",
+  "translation": "Mas quando na sua angústia se voltaram ⟨para⟩ YHWH, ⟨o⟩ Elohim de Yisrael, e O buscaram, Ele foi achado por eles",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Mas quando se voltaram"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "na sua angústia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "e O buscaram"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "Ele foi achado"
+    },
+    {
+      "surface": "להם",
+      "gloss": "por eles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58258,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58680
-  },
-  "translation": "Mas quando na sua angústia se voltaram ⟨para⟩ YHWH, ⟨o⟩ Elohim de Yisrael, e O buscaram, Ele foi achado por eles",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "Mas quando se voltaram"
-    },
-    {
-      "surface": "בצר",
-      "english": "na sua angústia"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩"
-    },
-    {
-      "surface": "על",
-      "english": "YHWH"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨o⟩"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויבקשהו",
-      "english": "e O buscaram"
-    },
-    {
-      "surface": "וימצא",
-      "english": "Ele foi achado"
-    },
-    {
-      "surface": "להם",
-      "english": "por eles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:22:26.262158524Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

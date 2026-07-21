@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 148:7",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 444,
-    "prompt_tokens": 70461,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70905
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:52:29.970535302Z",
   "translation": "Louvem ⟨a⟩ YHWH desde a terra, ⟨os⟩ dragões e todos os abismos",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "Louvem"
+      "gloss": "Louvem"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מן",
-      "english": "desde"
+      "gloss": "desde"
     },
     {
       "surface": "הארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     },
     {
       "surface": "תנינים",
-      "english": "⟨os⟩ dragões"
+      "gloss": "⟨os⟩ dragões"
     },
     {
       "surface": "וכל",
-      "english": "e todos"
+      "gloss": "e todos"
     },
     {
       "surface": "תהמות",
-      "english": "os abismos"
+      "gloss": "os abismos"
     }
-  ],
-  "timestamp": "2026-07-16T17:52:29.970535302Z",
-  "model": "glm-4.5"
+  ]
 }

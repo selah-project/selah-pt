@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "haggai 2:21",
   "book": "haggai",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 487,
-    "prompt_tokens": 27082,
-    "prompt_tokens_details": {
-      "cached_tokens": 21248
-    },
-    "total_tokens": 27569
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T15:07:00.813215893Z",
   "translation": "Fala a Zerubbabel, governador de Yehudá, dizendo: Eu ⟨estou⟩ abalando ⟨את⟩ os céus e ⟨את⟩ a terra",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "Fala"
+      "gloss": "Fala"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "זרבבל",
-      "english": "Zerubbabel"
+      "gloss": "Zerubbabel"
     },
     {
       "surface": "פחת",
-      "english": "governador de"
+      "gloss": "governador de"
     },
     {
       "surface": "יהודה",
-      "english": "Yehudá"
+      "gloss": "Yehudá"
     },
     {
       "surface": "לאמר",
-      "english": "dizendo:"
+      "gloss": "dizendo:"
     },
     {
       "surface": "אני",
-      "english": "Eu"
+      "gloss": "Eu"
     },
     {
       "surface": "מרעיש",
-      "english": "⟨estou⟩ abalando"
+      "gloss": "⟨estou⟩ abalando"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "os céus"
     },
     {
       "surface": "השמים",
-      "english": "os céus"
+      "gloss": "os céus"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "a terra"
     },
     {
       "surface": "הארץ",
-      "english": "a terra"
+      "gloss": "a terra"
     }
-  ],
-  "timestamp": "2026-07-16T15:07:00.813215893Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,43 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 19:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 193,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62543,
-    "prompt_tokens_details": {
-      "cached_tokens": 61415
-    },
-    "total_tokens": 62736
-  },
+  "verse": 1,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T09:51:35.176449040Z",
   "translation": "Ao maestro ⟨um⟩ salmo de David.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Ao maestro",
+      "gloss": "Ao maestro",
       "marks": ""
     },
     {
       "surface": "מזמור",
-      "english": "⟨um⟩ salmo",
+      "gloss": "⟨um⟩ salmo",
       "marks": ""
     },
     {
       "surface": "לדוד",
-      "english": "de David",
+      "gloss": "de David",
       "marks": ""
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T09:51:35.176449040Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

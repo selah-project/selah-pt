@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "2-kings 18:15",
   "book": "2-kings",
-  "lang": "pt",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 438,
-    "prompt_tokens": 24724,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25162
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T12:40:50.282845536Z",
   "translation": "E Jizkiyahu deu ⟨את⟩ todo o ⟨o⟩ prata encontrado na casa de YHWH e nos tesouros da casa do rei",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "E ... deu"
+      "gloss": "E ... deu"
     },
     {
       "surface": "חזקיה",
-      "english": "Jizkiyahu"
+      "gloss": "Jizkiyahu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todo o prata"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "הכסף",
-      "english": "o prata"
+      "gloss": "o prata"
     },
     {
       "surface": "הנמצא",
-      "english": "encontrado"
+      "gloss": "encontrado"
     },
     {
       "surface": "בית",
-      "english": "na casa"
+      "gloss": "na casa"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ובאצרות",
-      "english": "e nos tesouros"
+      "gloss": "e nos tesouros"
     },
     {
       "surface": "בית",
-      "english": "da casa"
+      "gloss": "da casa"
     },
     {
       "surface": "המלך",
-      "english": "do rei"
+      "gloss": "do rei"
     }
-  ],
-  "timestamp": "2026-07-16T12:40:50.282845536Z",
-  "model": "glm-4.5"
+  ]
 }

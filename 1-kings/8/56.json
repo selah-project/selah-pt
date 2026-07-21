@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 56,
   "ref": "1-kings 8:56",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 8,
+  "verse": 56,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:23:01.097163912Z",
+  "translation": "Bendito ⟨é⟩ YHWH que deu descanso a ⟨o⟩ seu povo Yisrael, conforme tudo o que falou; não caiu nenhuma palavra sequer de todas ⟨as⟩ suas boas palavras que falou ⟨por⟩ mão ⟨de⟩ Moshé, seu servo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bendito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "deu"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "descanso"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "a ⟨o⟩ seu povo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "conforme tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "falou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "caiu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "palavra"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nenhuma"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de todas ⟨as⟩"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "suas"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "boas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "falou"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨por⟩ mão ⟨de⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "seu servo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,112 +115,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 645,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63641,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 64286
-  },
-  "translation": "Bendito ⟨é⟩ YHWH que deu descanso a ⟨o⟩ seu povo Yisrael, conforme tudo o que falou; não caiu nenhuma palavra sequer de todas ⟨as⟩ suas boas palavras que falou ⟨por⟩ mão ⟨de⟩ Moshé, seu servo.",
-  "tokens": [
-    {
-      "surface": "ברוך",
-      "english": "Bendito"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "נתן",
-      "english": "deu"
-    },
-    {
-      "surface": "מנוחה",
-      "english": "descanso"
-    },
-    {
-      "surface": "לעמו",
-      "english": "a ⟨o⟩ seu povo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ככל",
-      "english": "conforme tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "o que"
-    },
-    {
-      "surface": "דבר",
-      "english": "falou"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "נפל",
-      "english": "caiu"
-    },
-    {
-      "surface": "דבר",
-      "english": "palavra"
-    },
-    {
-      "surface": "אחד",
-      "english": "nenhuma"
-    },
-    {
-      "surface": "מכל",
-      "english": "de todas ⟨as⟩"
-    },
-    {
-      "surface": "דברו",
-      "english": "suas"
-    },
-    {
-      "surface": "הטוב",
-      "english": "boas"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "דבר",
-      "english": "falou"
-    },
-    {
-      "surface": "ביד",
-      "english": "⟨por⟩ mão ⟨de⟩"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "עבדו",
-      "english": "seu servo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:23:01.097163912Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

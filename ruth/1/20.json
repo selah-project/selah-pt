@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "ruth 1:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ruth",
+  "chapter": 1,
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T12:20:50.498491618Z",
+  "translation": "E ela disse ⟨a⟩ elas: Não ⟨me⟩ chameis ⟨de⟩ Naomi; ⟨por⟩ Mara ⟨me⟩ chamai; pois Shaddai ⟨me⟩ tratou ⟨com⟩ grande amargura.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E ela disse"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "⟨a⟩ elas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Não"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "⟨me⟩ chameis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "⟨por⟩ ⟨me⟩ chamai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pois"
+    },
+    {
+      "surface": "המר",
+      "gloss": "Shaddai ⟨me⟩ tratou"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨com⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grande amargura"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noemi",
@@ -13,80 +76,6 @@
       "hebrew": "נעמי"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 605,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21440,
-    "prompt_tokens_details": {
-      "cached_tokens": 19951
-    },
-    "total_tokens": 22045
-  },
-  "translation": "E ela disse ⟨a⟩ elas: Não ⟨me⟩ chameis ⟨de⟩ Naomi; ⟨por⟩ Mara ⟨me⟩ chamai; pois Shaddai ⟨me⟩ tratou ⟨com⟩ grande amargura.",
-  "tokens": [
-    {
-      "surface": "ותאמר",
-      "english": "E ela disse"
-    },
-    {
-      "surface": "אליהן",
-      "english": "⟨a⟩ elas"
-    },
-    {
-      "surface": "אל",
-      "english": "Não"
-    },
-    {
-      "surface": "תקראנה",
-      "english": "⟨me⟩ chameis"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "נעמי",
-      "english": "Naomi"
-    },
-    {
-      "surface": "קראן",
-      "english": "⟨por⟩ ⟨me⟩ chamai"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "מרא",
-      "english": "Mara"
-    },
-    {
-      "surface": "כי",
-      "english": "pois"
-    },
-    {
-      "surface": "המר",
-      "english": "Shaddai ⟨me⟩ tratou"
-    },
-    {
-      "surface": "שדי",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨com⟩"
-    },
-    {
-      "surface": "מאד",
-      "english": "grande amargura"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T12:20:50.498491618Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

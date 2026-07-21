@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 17:9",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 395,
-    "prompt_tokens": 70368,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70763
-  },
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:34:47.087003181Z",
   "translation": "Da face dos ímpios que me oprimem, dos meus inimigos, ⟨que⟩ cercam ⟨a⟩ minha alma ⟨contra⟩ mim",
   "tokens": [
     {
       "surface": "מפני",
-      "english": "Da face de"
+      "gloss": "Da face de"
     },
     {
       "surface": "רשעים",
-      "english": "os ímpios"
+      "gloss": "os ímpios"
     },
     {
       "surface": "זו",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "שדוני",
-      "english": "me oprimem"
+      "gloss": "me oprimem"
     },
     {
       "surface": "איבי",
-      "english": "dos meus inimigos"
+      "gloss": "dos meus inimigos"
     },
     {
       "surface": "בנפש",
-      "english": "na alma"
+      "gloss": "na alma"
     },
     {
       "surface": "יקיפו",
-      "english": "cercam"
+      "gloss": "cercam"
     },
     {
       "surface": "עלי",
-      "english": "contra mim"
+      "gloss": "contra mim"
     }
-  ],
-  "timestamp": "2026-07-16T17:34:47.087003181Z",
-  "model": "glm-4.5"
+  ]
 }

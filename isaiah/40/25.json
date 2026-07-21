@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "isaiah 40:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18944,
-    "prompt_tokens_details": {
-      "cached_tokens": 18007
-    },
-    "total_tokens": 19435
-  },
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:43:37.966703945Z",
   "translation": "E a quem me comparareis ⟨e⟩ sereis ⟨iguais⟩? ⟨diz⟩ o Santo.",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "E a",
+      "gloss": "E a",
       "marks": "quem me comparareis"
     },
     {
       "surface": "מי",
-      "english": "quem"
+      "gloss": "quem"
     },
     {
       "surface": "תדמיוני",
-      "english": "me comparareis"
+      "gloss": "me comparareis"
     },
     {
       "surface": "ואשוה",
-      "english": "⟨e⟩ sereis ⟨iguais⟩?",
+      "gloss": "⟨e⟩ sereis ⟨iguais⟩?",
       "marks": "igualdade com o Santo"
     },
     {
       "surface": "יאמר",
-      "english": "⟨diz⟩"
+      "gloss": "⟨diz⟩"
     },
     {
       "surface": "קדוש",
-      "english": "o Santo"
+      "gloss": "o Santo"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:43:37.966703945Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

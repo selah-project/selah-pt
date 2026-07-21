@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-chronicles 8:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 8,
+  "verse": 10,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:15:24.396277823Z",
+  "translation": "E ⟨os⟩ ⟨que são⟩ chefes dos oficiais que ⟨estavam com⟩ ⟨o⟩ rei Shlomó: duzentos e cinquenta, ⟨os⟩ que governavam ⟨o⟩ povo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E ⟨os⟩ ⟨que são⟩",
+      "marks": "chefes dos oficiais"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chefes",
+      "marks": ""
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "dos oficiais",
+      "marks": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "marks": ""
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨estavam com⟩ ⟨o⟩ rei",
+      "marks": ""
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó",
+      "marks": ""
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquenta",
+      "marks": ""
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "duzentos",
+      "marks": ""
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "⟨os⟩ que governavam",
+      "marks": ""
+    },
+    {
+      "surface": "בעם",
+      "gloss": "⟨o⟩ povo",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Salomão",
@@ -13,74 +70,6 @@
       "hebrew": "שלמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58254,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58800
-  },
-  "translation": "E ⟨os⟩ ⟨que são⟩ chefes dos oficiais que ⟨estavam com⟩ ⟨o⟩ rei Shlomó: duzentos e cinquenta, ⟨os⟩ que governavam ⟨o⟩ povo.",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "E ⟨os⟩ ⟨que são⟩",
-      "marks": "chefes dos oficiais"
-    },
-    {
-      "surface": "שרי",
-      "english": "chefes",
-      "marks": ""
-    },
-    {
-      "surface": "הנציבים",
-      "english": "dos oficiais",
-      "marks": ""
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "marks": ""
-    },
-    {
-      "surface": "למלך",
-      "english": "⟨estavam com⟩ ⟨o⟩ rei",
-      "marks": ""
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó",
-      "marks": ""
-    },
-    {
-      "surface": "חמשים",
-      "english": "cinquenta",
-      "marks": ""
-    },
-    {
-      "surface": "ומאתים",
-      "english": "duzentos",
-      "marks": ""
-    },
-    {
-      "surface": "הרדים",
-      "english": "⟨os⟩ que governavam",
-      "marks": ""
-    },
-    {
-      "surface": "בעם",
-      "english": "⟨o⟩ povo",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:15:24.396277823Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

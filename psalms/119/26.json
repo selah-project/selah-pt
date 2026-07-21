@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 119:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62751,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63065
-  },
+  "verse": 26,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:58:58.531957007Z",
   "translation": "Meus caminhos narrei e ⟨tu⟩ me respondeste: ensina-me ⟨os teus⟩ estatutos.",
   "tokens": [
     {
       "surface": "דרכי",
-      "english": "Meus caminhos"
+      "gloss": "Meus caminhos"
     },
     {
       "surface": "ספרתי",
-      "english": "narrei"
+      "gloss": "narrei"
     },
     {
       "surface": "ותענני",
-      "english": "e ⟨tu⟩ me respondeste"
+      "gloss": "e ⟨tu⟩ me respondeste"
     },
     {
       "surface": "למדני",
-      "english": "ensina-me"
+      "gloss": "ensina-me"
     },
     {
       "surface": "חקיך",
-      "english": "⟨os teus⟩ estatutos"
+      "gloss": "⟨os teus⟩ estatutos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:58:58.531957007Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

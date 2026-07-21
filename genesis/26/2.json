@@ -1,85 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 26:2",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 790,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 29073,
-    "prompt_tokens_details": {
-      "cached_tokens": 27644
-    },
-    "total_tokens": 29863
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:44:20.786727259Z",
   "translation": "E YHWH apareceu a ele e disse: Não ⟨seja⟩ ⟨o⟩ ⟨que⟩ desce ⟨ao⟩ Egito; permanece ⟨na⟩ terra ⟨da qual⟩ ⟨eu⟩ direi a ti.",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "E apareceu",
+      "gloss": "E apareceu",
       "lemma": "c\/7200"
     },
     {
       "surface": "אליו",
-      "english": "a ele",
+      "gloss": "a ele",
       "lemma": "413"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "lemma": "3068"
     },
     {
       "surface": "ויאמר",
-      "english": "e disse",
+      "gloss": "e disse",
       "lemma": "c\/559"
     },
     {
       "surface": "אל",
-      "english": "Não",
+      "gloss": "Não",
       "lemma": "408"
     },
     {
       "surface": "תרד",
-      "english": "⟨seja⟩ ⟨o⟩ ⟨que⟩ desce",
+      "gloss": "⟨seja⟩ ⟨o⟩ ⟨que⟩ desce",
       "lemma": "3381"
     },
     {
       "surface": "מצרימה",
-      "english": "⟨ao⟩ Egito",
+      "gloss": "⟨ao⟩ Egito",
       "lemma": "4714"
     },
     {
       "surface": "שכן",
-      "english": "permanece",
+      "gloss": "permanece",
       "lemma": "7931"
     },
     {
       "surface": "בארץ",
-      "english": "⟨na⟩ terra",
+      "gloss": "⟨na⟩ terra",
       "marks": "⟨na⟩ terra ⟨da qual⟩",
       "lemma": "b\/776"
     },
     {
       "surface": "אשר",
-      "english": "⟨da qual⟩",
+      "gloss": "⟨da qual⟩",
       "lemma": "834 a"
     },
     {
       "surface": "אמר",
-      "english": "⟨eu⟩ direi",
+      "gloss": "⟨eu⟩ direi",
       "lemma": "559"
     },
     {
       "surface": "אליך",
-      "english": "a ti",
+      "gloss": "a ti",
       "lemma": "413"
     }
-  ],
-  "timestamp": "2026-06-13T02:44:20.786727259Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "2-kings 15:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 15,
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:01:03.185194084Z",
+  "translation": "E o restante ⟨dos⟩ atos de Menachem e tudo que ele fez, não ⟨estão⟩ eles escritos no livro ⟨dos⟩ atos ⟨dos⟩ dias ⟨dos⟩ reis ⟨de⟩ Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "E o restante"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨dos⟩ atos"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "de Menachem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ele fez"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "não"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨estão⟩ eles"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "no"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "livro"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨dos⟩ atos"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "⟨dos⟩ dias"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "⟨dos⟩ reis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17493,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 18015
-  },
-  "translation": "E o restante ⟨dos⟩ atos de Menachem e tudo que ele fez, não ⟨estão⟩ eles escritos no livro ⟨dos⟩ atos ⟨dos⟩ dias ⟨dos⟩ reis ⟨de⟩ Yisrael?",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "E o restante"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨dos⟩ atos"
-    },
-    {
-      "surface": "מנחם",
-      "english": "de Menachem"
-    },
-    {
-      "surface": "וכל",
-      "english": "e tudo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עשה",
-      "english": "ele fez"
-    },
-    {
-      "surface": "הלוא",
-      "english": "não"
-    },
-    {
-      "surface": "הם",
-      "english": "⟨estão⟩ eles"
-    },
-    {
-      "surface": "כתובים",
-      "english": "escritos"
-    },
-    {
-      "surface": "על",
-      "english": "no"
-    },
-    {
-      "surface": "ספר",
-      "english": "livro"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨dos⟩ atos"
-    },
-    {
-      "surface": "הימים",
-      "english": "⟨dos⟩ dias"
-    },
-    {
-      "surface": "למלכי",
-      "english": "⟨dos⟩ reis"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:01:03.185194084Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

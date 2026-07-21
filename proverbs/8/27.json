@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "proverbs 8:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
+  "chapter": 8,
+  "verse": 27,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:24:18.511502969Z",
+  "translation": "Quando ⟨Ele⟩ preparava ⟨o⟩ céu, ⟨eu⟩ ⟨estava⟩ lá: quando ⟨Ele⟩ traçou ⟨um⟩ círculo sobre ⟨a⟩ face ⟨do⟩ Tehom:",
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "Quando ⟨Ele⟩ preparava"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨o⟩ céu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨eu⟩ ⟨estava⟩ lá"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨eu⟩"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "traçou"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "⟨um⟩ círculo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨a⟩ face"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "⟨do⟩ Tehom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "abismo",
@@ -13,60 +56,6 @@
       "hebrew": "תהום"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52993,
-    "prompt_tokens_details": {
-      "cached_tokens": 51893
-    },
-    "total_tokens": 53441
-  },
-  "translation": "Quando ⟨Ele⟩ preparava ⟨o⟩ céu, ⟨eu⟩ ⟨estava⟩ lá: quando ⟨Ele⟩ traçou ⟨um⟩ círculo sobre ⟨a⟩ face ⟨do⟩ Tehom:",
-  "tokens": [
-    {
-      "surface": "בהכינו",
-      "english": "Quando ⟨Ele⟩ preparava"
-    },
-    {
-      "surface": "שמים",
-      "english": "⟨o⟩ céu"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨eu⟩ ⟨estava⟩ lá"
-    },
-    {
-      "surface": "אני",
-      "english": "⟨eu⟩"
-    },
-    {
-      "surface": "בחוקו",
-      "english": "traçou"
-    },
-    {
-      "surface": "חוג",
-      "english": "⟨um⟩ círculo"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "פני",
-      "english": "⟨a⟩ face"
-    },
-    {
-      "surface": "תהום",
-      "english": "⟨do⟩ Tehom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:24:18.511502969Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 107,
   "ref": "psalms 119:107",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 342,
-    "prompt_tokens": 70197,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70539
-  },
+  "verse": 107,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:48:49.105256889Z",
   "translation": "Fui afligido ⟨muito⟩, YHWH; faze-me viver segundo a tua palavra.",
   "tokens": [
     {
       "surface": "נעניתי",
-      "english": "Fui afligido"
+      "gloss": "Fui afligido"
     },
     {
       "surface": "עד",
-      "english": "muito"
+      "gloss": "muito"
     },
     {
       "surface": "מאד",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חיני",
-      "english": "faze-me viver"
+      "gloss": "faze-me viver"
     },
     {
       "surface": "כדברך",
-      "english": "segundo a tua palavra"
+      "gloss": "segundo a tua palavra"
     }
-  ],
-  "timestamp": "2026-07-16T17:48:49.105256889Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-chronicles 2:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 2,
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T14:07:18.575791939Z",
+  "translation": "E agora enviei um homem sábio ⟨que conhece⟩ Biná a Huram meu pai",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E agora"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "enviei"
+    },
+    {
+      "surface": "איש",
+      "gloss": "um homem"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sábio"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "⟨que conhece⟩",
+      "marks": "entendimento"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "Biná"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "a Huram"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meu pai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "entendimento",
@@ -13,57 +53,6 @@
       "hebrew": "בינה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58298,
-    "prompt_tokens_details": {
-      "cached_tokens": 57027
-    },
-    "total_tokens": 58682
-  },
-  "translation": "E agora enviei um homem sábio ⟨que conhece⟩ Biná a Huram meu pai",
-  "tokens": [
-    {
-      "surface": "ועתה",
-      "english": "E agora"
-    },
-    {
-      "surface": "שלחתי",
-      "english": "enviei"
-    },
-    {
-      "surface": "איש",
-      "english": "um homem"
-    },
-    {
-      "surface": "חכם",
-      "english": "sábio"
-    },
-    {
-      "surface": "יודע",
-      "english": "⟨que conhece⟩",
-      "marks": "entendimento"
-    },
-    {
-      "surface": "בינה",
-      "english": "Biná"
-    },
-    {
-      "surface": "לחורם",
-      "english": "a Huram"
-    },
-    {
-      "surface": "אבי",
-      "english": "meu pai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T14:07:18.575791939Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

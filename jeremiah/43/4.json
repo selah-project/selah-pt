@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "jeremiah 43:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 43,
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T07:47:15.157522049Z",
+  "translation": "E Joacã, ⟨o⟩ filho de Corá, e todos ⟨os⟩ líderes ⟨das⟩ forças, e todo ⟨o⟩ povo, não obedeceram à voz de YHWH, para permanecer ⟨na⟩ terra de Yehudá.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "E não"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "obedeceram"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Joacã"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨o⟩ filho"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "de Corá"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todos ⟨os⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "líderes"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "⟨das⟩ forças"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e todo ⟨o⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "povo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "à voz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "para permanecer"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ terra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,84 +80,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 43,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18078,
-    "prompt_tokens_details": {
-      "cached_tokens": 16393
-    },
-    "total_tokens": 18583
-  },
-  "translation": "E Joacã, ⟨o⟩ filho de Corá, e todos ⟨os⟩ líderes ⟨das⟩ forças, e todo ⟨o⟩ povo, não obedeceram à voz de YHWH, para permanecer ⟨na⟩ terra de Yehudá.",
-  "tokens": [
-    {
-      "surface": "ולא",
-      "english": "E não"
-    },
-    {
-      "surface": "שמע",
-      "english": "obedeceram"
-    },
-    {
-      "surface": "יוחנן",
-      "english": "Joacã"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨o⟩ filho"
-    },
-    {
-      "surface": "קרח",
-      "english": "de Corá"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todos ⟨os⟩"
-    },
-    {
-      "surface": "שרי",
-      "english": "líderes"
-    },
-    {
-      "surface": "החילים",
-      "english": "⟨das⟩ forças"
-    },
-    {
-      "surface": "וכל",
-      "english": "e todo ⟨o⟩"
-    },
-    {
-      "surface": "העם",
-      "english": "povo"
-    },
-    {
-      "surface": "בקול",
-      "english": "à voz"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "לשבת",
-      "english": "para permanecer"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨na⟩ terra"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T07:47:15.157522049Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

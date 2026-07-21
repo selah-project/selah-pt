@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "1-samuel 25:42",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 25,
+  "verse": 42,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:38:04.048438240Z",
+  "translation": "E Abigail apressou-se, e levantou-se, e montou ⟨את⟩ o jumento, e cinco de suas jovens servas que iam após ela; e ela foi após os mensageiros de David, e tornou-se ⟨את⟩ esposa dele.",
+  "tokens": [
+    {
+      "surface": "וַ\/תְּמַהֵ֞ר",
+      "gloss": "E Abigail apressou-se"
+    },
+    {
+      "surface": "וַ\/תָּ֣קָם",
+      "gloss": "e levantou-se"
+    },
+    {
+      "surface": "אֲבִיגַ֗יִל",
+      "gloss": "E Abigail"
+    },
+    {
+      "surface": "וַ\/תִּרְכַּב֙",
+      "gloss": "e montou"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הַ\/חֲמ֔וֹר",
+      "gloss": "o jumento"
+    },
+    {
+      "surface": "וְ\/חָמֵשׁ֙",
+      "gloss": "e cinco"
+    },
+    {
+      "surface": "נַעֲרֹתֶ֔י\/הָ",
+      "gloss": "de suas jovens servas"
+    },
+    {
+      "surface": "הַ\/הֹלְכ֖וֹת",
+      "gloss": "que iam"
+    },
+    {
+      "surface": "לְ\/רַגְלָ֑\/הּ",
+      "gloss": "após ela"
+    },
+    {
+      "surface": "וַ\/תֵּ֗לֶךְ",
+      "gloss": "e ela foi"
+    },
+    {
+      "surface": "אַֽחֲרֵי֙",
+      "gloss": "após"
+    },
+    {
+      "surface": "מַלְאֲכֵ֣י",
+      "gloss": "os mensageiros"
+    },
+    {
+      "surface": "דָוִ֔ד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "וַ\/תְּהִי־",
+      "gloss": "e tornou-se"
+    },
+    {
+      "surface": "ל֖\/וֹ",
+      "gloss": "a ele"
+    },
+    {
+      "surface": "לְ\/אִשָּֽׁה",
+      "gloss": "esposa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,92 +88,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 770,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17294,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18064
-  },
-  "translation": "E Abigail apressou-se, e levantou-se, e montou ⟨את⟩ o jumento, e cinco de suas jovens servas que iam após ela; e ela foi após os mensageiros de David, e tornou-se ⟨את⟩ esposa dele.",
-  "tokens": [
-    {
-      "surface": "וַ\/תְּמַהֵ֞ר",
-      "english": "E Abigail apressou-se"
-    },
-    {
-      "surface": "וַ\/תָּ֣קָם",
-      "english": "e levantou-se"
-    },
-    {
-      "surface": "אֲבִיגַ֗יִל",
-      "english": "E Abigail"
-    },
-    {
-      "surface": "וַ\/תִּרְכַּב֙",
-      "english": "e montou"
-    },
-    {
-      "surface": "עַֽל",
-      "english": "sobre"
-    },
-    {
-      "surface": "הַ\/חֲמ֔וֹר",
-      "english": "o jumento"
-    },
-    {
-      "surface": "וְ\/חָמֵשׁ֙",
-      "english": "e cinco"
-    },
-    {
-      "surface": "נַעֲרֹתֶ֔י\/הָ",
-      "english": "de suas jovens servas"
-    },
-    {
-      "surface": "הַ\/הֹלְכ֖וֹת",
-      "english": "que iam"
-    },
-    {
-      "surface": "לְ\/רַגְלָ֑\/הּ",
-      "english": "após ela"
-    },
-    {
-      "surface": "וַ\/תֵּ֗לֶךְ",
-      "english": "e ela foi"
-    },
-    {
-      "surface": "אַֽחֲרֵי֙",
-      "english": "após"
-    },
-    {
-      "surface": "מַלְאֲכֵ֣י",
-      "english": "os mensageiros"
-    },
-    {
-      "surface": "דָוִ֔ד",
-      "english": "de David"
-    },
-    {
-      "surface": "וַ\/תְּהִי־",
-      "english": "e tornou-se"
-    },
-    {
-      "surface": "ל֖\/וֹ",
-      "english": "a ele"
-    },
-    {
-      "surface": "לְ\/אִשָּֽׁה",
-      "english": "esposa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:38:04.048438240Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

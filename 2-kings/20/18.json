@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "2-kings 20:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 20,
+  "verse": 18,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T06:07:44.835500991Z",
+  "translation": "E dos teus filhos que sairão ⟨de⟩ ti, que gerarás, serão tomados e serão eunucos ⟨no⟩ palácio ⟨do⟩ rei ⟨de⟩ Bavel.",
+  "tokens": [
+    {
+      "surface": "ומבניך",
+      "gloss": "E dos teus filhos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sairão"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨de⟩ ti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "gerarás"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "serão tomados"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e serão"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "eunucos"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "⟨no⟩ palácio"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨do⟩ rei"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "⟨de⟩ Bavel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,72 +68,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 533,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17306,
-    "prompt_tokens_details": {
-      "cached_tokens": 15786
-    },
-    "total_tokens": 17839
-  },
-  "translation": "E dos teus filhos que sairão ⟨de⟩ ti, que gerarás, serão tomados e serão eunucos ⟨no⟩ palácio ⟨do⟩ rei ⟨de⟩ Bavel.",
-  "tokens": [
-    {
-      "surface": "ומבניך",
-      "english": "E dos teus filhos"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "יצאו",
-      "english": "sairão"
-    },
-    {
-      "surface": "ממך",
-      "english": "⟨de⟩ ti"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "תוליד",
-      "english": "gerarás"
-    },
-    {
-      "surface": "יקח",
-      "english": "serão tomados"
-    },
-    {
-      "surface": "והיו",
-      "english": "e serão"
-    },
-    {
-      "surface": "סריסים",
-      "english": "eunucos"
-    },
-    {
-      "surface": "בהיכל",
-      "english": "⟨no⟩ palácio"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨do⟩ rei"
-    },
-    {
-      "surface": "בבל",
-      "english": "⟨de⟩ Bavel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T06:07:44.835500991Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

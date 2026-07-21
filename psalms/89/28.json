@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "psalms 89:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62830,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63185
-  },
+  "verse": 28,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:39:18.404371100Z",
   "translation": "Também eu ⟨o⟩ farei ⟨o⟩ meu primogênito, ⟨o⟩ mais elevado ⟨dos⟩ reis ⟨da⟩ terra",
   "tokens": [
     {
       "surface": "אף",
-      "english": "Também"
+      "gloss": "Também"
     },
     {
       "surface": "אני",
-      "english": "eu"
+      "gloss": "eu"
     },
     {
       "surface": "בכור",
-      "english": "primogênito"
+      "gloss": "primogênito"
     },
     {
       "surface": "אתנהו",
-      "english": "farei"
+      "gloss": "farei"
     },
     {
       "surface": "עליון",
-      "english": "mais elevado"
+      "gloss": "mais elevado"
     },
     {
       "surface": "למלכי",
-      "english": "⟨dos⟩ reis",
+      "gloss": "⟨dos⟩ reis",
       "marks": "reis"
     },
     {
       "surface": "ארץ",
-      "english": "⟨da⟩ terra",
+      "gloss": "⟨da⟩ terra",
       "marks": "terra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:39:18.404371100Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

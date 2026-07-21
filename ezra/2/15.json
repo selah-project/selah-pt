@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "ezra 2:15",
   "book": "ezra",
-  "lang": "pt",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 234,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51949,
-    "prompt_tokens_details": {
-      "cached_tokens": 51187
-    },
-    "total_tokens": 52183
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:55:30.299349975Z",
   "translation": "Os filhos de Adin ⟨são⟩ quatrocentos cinquenta e ⟨quatro⟩",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Os filhos"
+      "gloss": "Os filhos"
     },
     {
       "surface": "עדין",
-      "english": "de Adin"
+      "gloss": "de Adin"
     },
     {
       "surface": "ארבע",
-      "english": "quatrocentos"
+      "gloss": "quatrocentos"
     },
     {
       "surface": "מאות",
-      "english": "cinquenta"
+      "gloss": "cinquenta"
     },
     {
       "surface": "חמשים",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "וארבעה",
-      "english": "⟨quatro⟩"
+      "gloss": "⟨quatro⟩"
     }
-  ],
-  "timestamp": "2026-06-13T06:55:30.299349975Z",
-  "model": "glm-4.5"
+  ]
 }

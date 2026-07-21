@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 20:4",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 540,
-    "prompt_tokens": 70272,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70812
-  },
+  "verse": 4,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:35:21.794750314Z",
   "translation": "Ele ⟨se⟩ lembre de toda a tua oferta de cereal e ⟨a⟩ tua oferenda queimada ⟨seja⟩ aceita; Selá",
   "tokens": [
     {
       "surface": "יזכר",
-      "english": "Ele ⟨se⟩ lembre"
+      "gloss": "Ele ⟨se⟩ lembre"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "מנחתך",
-      "english": "a tua oferta de cereal"
+      "gloss": "a tua oferta de cereal"
     },
     {
       "surface": "ועולתך",
-      "english": "e ⟨a⟩ tua oferenda queimada"
+      "gloss": "e ⟨a⟩ tua oferenda queimada"
     },
     {
       "surface": "ידשנה",
-      "english": "⟨seja⟩ aceita"
+      "gloss": "⟨seja⟩ aceita"
     },
     {
       "surface": "סלה",
-      "english": "Selá"
+      "gloss": "Selá"
     }
-  ],
-  "timestamp": "2026-07-16T17:35:21.794750314Z",
-  "model": "glm-4.5"
+  ]
 }

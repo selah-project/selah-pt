@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "leviticus 21:15",
   "book": "leviticus",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 357,
-    "prompt_tokens": 24879,
-    "prompt_tokens_details": {
-      "cached_tokens": 23808
-    },
-    "total_tokens": 25236
-  },
+  "verse": 15,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T16:49:23.253674887Z",
   "translation": "E ele não profanará ⟨o⟩ seu descendente entre ⟨o⟩ seu povo, pois eu sou YHWH, quem o santifica.",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "E ele não"
+      "gloss": "E ele não"
     },
     {
       "surface": "יחלל",
-      "english": "profanará"
+      "gloss": "profanará"
     },
     {
       "surface": "זרעו",
-      "english": "⟨o⟩ seu descendente"
+      "gloss": "⟨o⟩ seu descendente"
     },
     {
       "surface": "בעמיו",
-      "english": "entre ⟨o⟩ seu povo"
+      "gloss": "entre ⟨o⟩ seu povo"
     },
     {
       "surface": "כי",
-      "english": "pois"
+      "gloss": "pois"
     },
     {
       "surface": "אני",
-      "english": "eu sou"
+      "gloss": "eu sou"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מקדשו",
-      "english": "quem o santifica"
+      "gloss": "quem o santifica"
     }
-  ],
-  "timestamp": "2026-07-16T16:49:23.253674887Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 22:16",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 828,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70498,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 71326
-  },
+  "verse": 16,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-14T04:53:50.911302112Z",
   "translation": "Pois cães ⟨cercaram⟩-me, ⟨um⟩ bando de malfeitores ⟨cercou⟩-me; ⟨eles⟩ traspassaram ⟨minhas⟩ mãos e ⟨meus⟩ pés.",
   "tokens": [
     {
       "surface": "כִּי",
-      "english": "Pois"
+      "gloss": "Pois"
     },
     {
       "surface": "כְּלָבִים",
-      "english": "cães"
+      "gloss": "cães"
     },
     {
       "surface": "הִקִּיפוּ",
-      "english": "⟨cercaram⟩"
+      "gloss": "⟨cercaram⟩"
     },
     {
       "surface": "אֹתִי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "me"
     },
     {
       "surface": "אַגַּפְתְּ",
-      "english": "⟨um⟩"
+      "gloss": "⟨um⟩"
     },
     {
       "surface": "רָעִים",
-      "english": "bando de malfeitores"
+      "gloss": "bando de malfeitores"
     },
     {
       "surface": "הִקִּיפוּ",
-      "english": "⟨cercou⟩"
+      "gloss": "⟨cercou⟩"
     },
     {
       "surface": "אֹתִי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "me"
     },
     {
       "surface": "כָּרָה",
-      "english": "⟨eles⟩"
+      "gloss": "⟨eles⟩"
     },
     {
       "surface": "יָדַי",
-      "english": "⟨minhas⟩ mãos"
+      "gloss": "⟨minhas⟩ mãos"
     },
     {
       "surface": "וְ",
-      "english": "e"
+      "gloss": "e"
     },
     {
       "surface": "רַגְלַי",
-      "english": "⟨meus⟩ pés"
+      "gloss": "⟨meus⟩ pés"
     }
-  ],
-  "timestamp": "2026-06-14T04:53:50.911302112Z",
-  "model": "glm-4.5"
+  ]
 }

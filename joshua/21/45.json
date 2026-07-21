@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "joshua 21:45",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 21,
+  "verse": 45,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:46:45.605257004Z",
+  "translation": "Não caiu ⟨uma⟩ palavra de todas ⟨as⟩ boas palavras que YHWH falou à casa de Yisrael; tudo veio.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Não"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "caiu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨uma⟩ palavra"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de todas"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨as⟩ palavras"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "boas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "falou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tudo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "veio"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,80 +76,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16710,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 17152
-  },
-  "translation": "Não caiu ⟨uma⟩ palavra de todas ⟨as⟩ boas palavras que YHWH falou à casa de Yisrael; tudo veio.",
-  "tokens": [
-    {
-      "surface": "לא",
-      "english": "Não"
-    },
-    {
-      "surface": "נפל",
-      "english": "caiu"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨uma⟩ palavra"
-    },
-    {
-      "surface": "מכל",
-      "english": "de todas"
-    },
-    {
-      "surface": "הדבר",
-      "english": "⟨as⟩ palavras"
-    },
-    {
-      "surface": "הטוב",
-      "english": "boas"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "דבר",
-      "english": "falou"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "à"
-    },
-    {
-      "surface": "בית",
-      "english": "casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "הכל",
-      "english": "tudo"
-    },
-    {
-      "surface": "בא",
-      "english": "veio"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:46:45.605257004Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

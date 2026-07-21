@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "genesis 19:7",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28423,
-    "prompt_tokens_details": {
-      "cached_tokens": 27644
-    },
-    "total_tokens": 28723
-  },
+  "verse": 7,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T05:05:50.364770753Z",
   "translation": "e disse ⟨é⟩ ⟨a⟩ את ⟨o⟩ I peço, meus irmãos, não façais maldade:",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "e disse"
+      "gloss": "e disse"
     },
     {
       "surface": "אל",
-      "english": "I peço"
+      "gloss": "I peço"
     },
     {
       "surface": "נא",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "אחי",
-      "english": "meus irmãos"
+      "gloss": "meus irmãos"
     },
     {
       "surface": "תרעו",
-      "english": "não façais maldade:"
+      "gloss": "não façais maldade:"
     }
-  ],
-  "timestamp": "2026-06-13T05:05:50.364770753Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 88:13",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 376,
-    "prompt_tokens": 70231,
-    "prompt_tokens_details": {
-      "cached_tokens": 69248
-    },
-    "total_tokens": 70607
-  },
+  "verse": 13,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:42:34.189126850Z",
   "translation": "Será ⟨a⟩ tua maravilha conhecida na treva, e ⟨a⟩ tua justiça na terra do esquecimento?",
   "tokens": [
     {
       "surface": "היודע",
-      "english": "Será ⟨a⟩ tua maravilha conhecida"
+      "gloss": "Será ⟨a⟩ tua maravilha conhecida"
     },
     {
       "surface": "בחשך",
-      "english": "na treva"
+      "gloss": "na treva"
     },
     {
       "surface": "פלאך",
-      "english": "tua maravilha"
+      "gloss": "tua maravilha"
     },
     {
       "surface": "וצדקתך",
-      "english": "e ⟨a⟩ tua justiça"
+      "gloss": "e ⟨a⟩ tua justiça"
     },
     {
       "surface": "בארץ",
-      "english": "na terra"
+      "gloss": "na terra"
     },
     {
       "surface": "נשיה",
-      "english": "do esquecimento"
+      "gloss": "do esquecimento"
     }
-  ],
-  "timestamp": "2026-07-16T17:42:34.189126850Z",
-  "model": "glm-4.5"
+  ]
 }

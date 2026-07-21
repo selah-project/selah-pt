@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "1-kings 15:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 15,
+  "verse": 24,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T05:32:50.016972139Z",
+  "translation": "E Asa dormiu com seus pais, e ⟨foi⟩ sepultado com seus pais na cidade de Davidd, seu pai; e Yehoshafat, seu filho, reinou em seu lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Dormiu"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "E Asa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e ⟨foi⟩ sepultado"
+    },
+    {
+      "surface": "עם",
+      "gloss": "com"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seus pais"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na cidade de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seu pai"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e reinou"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seu filho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "em seu lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,80 +76,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63007,
-    "prompt_tokens_details": {
-      "cached_tokens": 61314
-    },
-    "total_tokens": 63465
-  },
-  "translation": "E Asa dormiu com seus pais, e ⟨foi⟩ sepultado com seus pais na cidade de Davidd, seu pai; e Yehoshafat, seu filho, reinou em seu lugar.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "Dormiu"
-    },
-    {
-      "surface": "אסא",
-      "english": "E Asa"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "e ⟨foi⟩ sepultado"
-    },
-    {
-      "surface": "עם",
-      "english": "com"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "seus pais"
-    },
-    {
-      "surface": "בעיר",
-      "english": "na cidade de"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אביו",
-      "english": "seu pai"
-    },
-    {
-      "surface": "וימלך",
-      "english": "e reinou"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "בנו",
-      "english": "seu filho"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "em seu lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T05:32:50.016972139Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

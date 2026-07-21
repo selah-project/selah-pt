@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 35:21",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70272,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70726
-  },
+  "verse": 21,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:37:52.561274987Z",
   "translation": "Eles ⟨se⟩ alargaram ⟨a⟩ boca contra mim, ⟨e⟩ disseram: Aha! Aha! ⟨nosso⟩ olho ⟨o⟩ viu.",
   "tokens": [
     {
       "surface": "וירחיבו",
-      "english": "Eles ⟨se⟩ alargaram"
+      "gloss": "Eles ⟨se⟩ alargaram"
     },
     {
       "surface": "עלי",
-      "english": "contra mim"
+      "gloss": "contra mim"
     },
     {
       "surface": "פיהם",
-      "english": "⟨a⟩ boca"
+      "gloss": "⟨a⟩ boca"
     },
     {
       "surface": "אמרו",
-      "english": "⟨e⟩ disseram"
+      "gloss": "⟨e⟩ disseram"
     },
     {
       "surface": "האח",
-      "english": "Aha!"
+      "gloss": "Aha!"
     },
     {
       "surface": "האח",
-      "english": "Aha!"
+      "gloss": "Aha!"
     },
     {
       "surface": "ראתה",
-      "english": "⟨nosso⟩ olho ⟨o⟩ viu"
+      "gloss": "⟨nosso⟩ olho ⟨o⟩ viu"
     },
     {
       "surface": "עינינו",
-      "english": "⟨nosso⟩ olho"
+      "gloss": "⟨nosso⟩ olho"
     }
-  ],
-  "timestamp": "2026-06-13T06:37:52.561274987Z",
-  "model": "glm-4.5"
+  ]
 }

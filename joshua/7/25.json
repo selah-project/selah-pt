@@ -1,9 +1,95 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "joshua 7:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 7,
+  "verse": 25,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T03:31:24.076814363Z",
+  "translation": "E Yehoshua disse: Que ⟨nos⟩ ⟨tens⟩ perturbado? YHWH ⟨te⟩ perturberá ⟨em⟩ este dia. E toda ⟨a⟩ Yisrael apedrejou ⟨com⟩ pedras ⟨o⟩, e queimaram-os ⟨com⟩ fogo, e apedrejaram-os ⟨com⟩ pedras.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E ... disse"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Que"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "⟨nos⟩ ⟨tens⟩ perturbado"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "⟨te⟩ perturberá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "este dia"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "apedrejou"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨com⟩",
+      "marks": "pedras"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda ⟨a⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "pedras"
+    },
+    {
+      "surface": "ואשרפו",
+      "gloss": "e queimaram-os"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨com⟩",
+      "marks": "fogo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "fogo"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "e apedrejaram-os"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨com⟩",
+      "marks": "pedras"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "pedras"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josué",
@@ -20,103 +106,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 739,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17755,
-    "prompt_tokens_details": {
-      "cached_tokens": 15289
-    },
-    "total_tokens": 18494
-  },
-  "translation": "E Yehoshua disse: Que ⟨nos⟩ ⟨tens⟩ perturbado? YHWH ⟨te⟩ perturberá ⟨em⟩ este dia. E toda ⟨a⟩ Yisrael apedrejou ⟨com⟩ pedras ⟨o⟩, e queimaram-os ⟨com⟩ fogo, e apedrejaram-os ⟨com⟩ pedras.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "E ... disse"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshua"
-    },
-    {
-      "surface": "מה",
-      "english": "Que"
-    },
-    {
-      "surface": "עכרתנו",
-      "english": "⟨nos⟩ ⟨tens⟩ perturbado"
-    },
-    {
-      "surface": "יעכרך",
-      "english": "⟨te⟩ perturberá"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "ביום",
-      "english": "⟨em⟩"
-    },
-    {
-      "surface": "הזה",
-      "english": "este dia"
-    },
-    {
-      "surface": "וירגמו",
-      "english": "apedrejou"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨com⟩",
-      "marks": "pedras"
-    },
-    {
-      "surface": "כל",
-      "english": "toda ⟨a⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אבן",
-      "english": "pedras"
-    },
-    {
-      "surface": "ואשרפו",
-      "english": "e queimaram-os"
-    },
-    {
-      "surface": "אתם",
-      "english": "⟨com⟩",
-      "marks": "fogo"
-    },
-    {
-      "surface": "באש",
-      "english": "fogo"
-    },
-    {
-      "surface": "ויסקלו",
-      "english": "e apedrejaram-os"
-    },
-    {
-      "surface": "אתם",
-      "english": "⟨com⟩",
-      "marks": "pedras"
-    },
-    {
-      "surface": "באבנים",
-      "english": "pedras"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T03:31:24.076814363Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

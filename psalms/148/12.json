@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 148:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62780,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63118
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T11:16:42.649131531Z",
   "translation": "rapazes e ⟨também⟩ donzelas, velhos ⟨junto com⟩ jovens",
   "tokens": [
     {
       "surface": "בחורים",
-      "english": "Rapazes"
+      "gloss": "Rapazes"
     },
     {
       "surface": "וגם",
-      "english": "e ⟨também⟩"
+      "gloss": "e ⟨também⟩"
     },
     {
       "surface": "בתולות",
-      "english": "donzelas"
+      "gloss": "donzelas"
     },
     {
       "surface": "זקנים",
-      "english": "velhos"
+      "gloss": "velhos"
     },
     {
       "surface": "עם",
-      "english": "⟨junto com⟩"
+      "gloss": "⟨junto com⟩"
     },
     {
       "surface": "נערים",
-      "english": "jovens"
+      "gloss": "jovens"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T11:16:42.649131531Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

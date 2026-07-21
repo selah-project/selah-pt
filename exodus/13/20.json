@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "exodus 13:20",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 227,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24087,
-    "prompt_tokens_details": {
-      "cached_tokens": 22533
-    },
-    "total_tokens": 24314
-  },
+  "verse": 20,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T02:45:22.446542211Z",
   "translation": "E partiram de Sucote e acamparam em Etã, ⟨na⟩ extremidade ⟨do⟩ deserto.",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "E partiram"
+      "gloss": "E partiram"
     },
     {
       "surface": "מסכת",
-      "english": "de Sucote"
+      "gloss": "de Sucote"
     },
     {
       "surface": "ויחנו",
-      "english": "e acamparam"
+      "gloss": "e acamparam"
     },
     {
       "surface": "באתם",
-      "english": "em Etã"
+      "gloss": "em Etã"
     },
     {
       "surface": "בקצה",
-      "english": "⟨na⟩ extremidade"
+      "gloss": "⟨na⟩ extremidade"
     },
     {
       "surface": "המדבר",
-      "english": "⟨do⟩ deserto"
+      "gloss": "⟨do⟩ deserto"
     }
-  ],
-  "timestamp": "2026-06-13T02:45:22.446542211Z",
-  "model": "glm-4.5"
+  ]
 }

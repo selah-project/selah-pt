@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 111:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 111,
+  "verse": 9,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:54:54.170302977Z",
+  "translation": "Ele envia redenção a ⟨o⟩ seu povo ⟨את⟩; ordenou seu Brit para sempre; santo e terrível ⟨é⟩ ⟨o⟩ seu nome.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "Redenção"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "envia"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "a ⟨o⟩ seu povo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ordenou"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "para sempre"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "seu Brit"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "e terrível"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨o⟩ seu nome"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,60 +56,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 111,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63075,
-    "prompt_tokens_details": {
-      "cached_tokens": 61937
-    },
-    "total_tokens": 63487
-  },
-  "translation": "Ele envia redenção a ⟨o⟩ seu povo ⟨את⟩; ordenou seu Brit para sempre; santo e terrível ⟨é⟩ ⟨o⟩ seu nome.",
-  "tokens": [
-    {
-      "surface": "פדות",
-      "english": "Redenção"
-    },
-    {
-      "surface": "שלח",
-      "english": "envia"
-    },
-    {
-      "surface": "לעמו",
-      "english": "a ⟨o⟩ seu povo"
-    },
-    {
-      "surface": "צוה",
-      "english": "ordenou"
-    },
-    {
-      "surface": "לעולם",
-      "english": "para sempre"
-    },
-    {
-      "surface": "בריתו",
-      "english": "seu Brit"
-    },
-    {
-      "surface": "קדוש",
-      "english": "santo"
-    },
-    {
-      "surface": "ונורא",
-      "english": "e terrível"
-    },
-    {
-      "surface": "שמו",
-      "english": "⟨o⟩ seu nome"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:54:54.170302977Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 99:2",
   "book": "psalms",
-  "lang": "pt",
   "chapter": 99,
-  "usage": {
-    "completion_tokens": 324,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70272,
-    "prompt_tokens_details": {
-      "cached_tokens": 69259
-    },
-    "total_tokens": 70596
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-13T06:40:25.311348959Z",
   "translation": "YHWH ⟨is⟩ great em Tzion e alto ⟨é⟩ Ele sobre todos ⟨os⟩ povos",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בציון",
-      "english": "em Tzion"
+      "gloss": "em Tzion"
     },
     {
       "surface": "גדול",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "ורם",
-      "english": "e alto"
+      "gloss": "e alto"
     },
     {
       "surface": "הוא",
-      "english": "Ele"
+      "gloss": "Ele"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כל",
-      "english": "todos ⟨os⟩",
+      "gloss": "todos ⟨os⟩",
       "marks": "povos"
     },
     {
       "surface": "העמים",
-      "english": "povos"
+      "gloss": "povos"
     }
-  ],
-  "timestamp": "2026-06-13T06:40:25.311348959Z",
-  "model": "glm-4.5"
+  ]
 }

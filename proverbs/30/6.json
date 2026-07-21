@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "proverbs 30:6",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 473,
-    "prompt_tokens": 60352,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60825
-  },
+  "verse": 6,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:32:16.247581783Z",
   "translation": "Não acrescente ⟨às⟩ suas palavras, para que não ⟨o⟩ reprove e você seja achado mentiroso.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Não"
+      "gloss": "Não"
     },
     {
       "surface": "תוסף",
-      "english": "acrescente"
+      "gloss": "acrescente"
     },
     {
       "surface": "על",
-      "english": "⟨às⟩"
+      "gloss": "⟨às⟩"
     },
     {
       "surface": "דבריו",
-      "english": "suas palavras"
+      "gloss": "suas palavras"
     },
     {
       "surface": "פן",
-      "english": "para que não"
+      "gloss": "para que não"
     },
     {
       "surface": "יוכיח",
-      "english": "⟨o⟩ reprove"
+      "gloss": "⟨o⟩ reprove"
     },
     {
       "surface": "בך",
-      "english": "e você"
+      "gloss": "e você"
     },
     {
       "surface": "ונכזבת",
-      "english": "seja achado mentiroso"
+      "gloss": "seja achado mentiroso"
     }
-  ],
-  "timestamp": "2026-07-16T17:32:16.247581783Z",
-  "model": "glm-4.5"
+  ]
 }

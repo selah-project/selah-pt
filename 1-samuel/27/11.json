@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-samuel 27:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 27,
+  "verse": 11,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T04:39:47.526329Z",
+  "translation": "E homem e mulher Davidd não deixou viver ⟨para⟩ trazer ⟨a⟩ Gath, ⟨para⟩ dizer: Para que não contem sobre nós, ⟨para⟩ dizer: Assim fez Davidd, e assim ⟨é⟩ seu juízo todos os dias que habitou no campo ⟨dos⟩ filisteus.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "E homem"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "e mulher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "não"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "deixou viver"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "⟨para⟩ trazer"
+    },
+    {
+      "surface": "גת",
+      "gloss": "⟨a⟩ Gath"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨para⟩ dizer"
+    },
+    {
+      "surface": "פן",
+      "gloss": "Para que"
+    },
+    {
+      "surface": "יגדו",
+      "gloss": "não contem"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sobre nós"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨para⟩ dizer"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Assim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fez"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "e assim"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "⟨é⟩ seu juízo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "os dias"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "habitou"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "no campo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨dos⟩ filisteus"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,116 +119,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 718,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17871,
-    "prompt_tokens_details": {
-      "cached_tokens": 15393
-    },
-    "total_tokens": 18589
-  },
-  "translation": "E homem e mulher Davidd não deixou viver ⟨para⟩ trazer ⟨a⟩ Gath, ⟨para⟩ dizer: Para que não contem sobre nós, ⟨para⟩ dizer: Assim fez Davidd, e assim ⟨é⟩ seu juízo todos os dias que habitou no campo ⟨dos⟩ filisteus.",
-  "tokens": [
-    {
-      "surface": "ואיש",
-      "english": "E homem"
-    },
-    {
-      "surface": "ואשה",
-      "english": "e mulher"
-    },
-    {
-      "surface": "לא",
-      "english": "não"
-    },
-    {
-      "surface": "יחיה",
-      "english": "deixou viver"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "להביא",
-      "english": "⟨para⟩ trazer"
-    },
-    {
-      "surface": "גת",
-      "english": "⟨a⟩ Gath"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨para⟩ dizer"
-    },
-    {
-      "surface": "פן",
-      "english": "Para que"
-    },
-    {
-      "surface": "יגדו",
-      "english": "não contem"
-    },
-    {
-      "surface": "עלינו",
-      "english": "sobre nós"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨para⟩ dizer"
-    },
-    {
-      "surface": "כה",
-      "english": "Assim"
-    },
-    {
-      "surface": "עשה",
-      "english": "fez"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "וכה",
-      "english": "e assim"
-    },
-    {
-      "surface": "משפטו",
-      "english": "⟨é⟩ seu juízo"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "הימים",
-      "english": "os dias"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "ישב",
-      "english": "habitou"
-    },
-    {
-      "surface": "בשדה",
-      "english": "no campo"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨dos⟩ filisteus"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T04:39:47.526329Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

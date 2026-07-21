@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 11:2",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 400,
-    "prompt_tokens": 60180,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 60580
-  },
+  "verse": 2,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:30:12.539642564Z",
   "translation": "Quando vem ⟨o⟩ orgulho, então vem ⟨o⟩ opróbrio, mas com os humildes está a sabedoria.",
   "tokens": [
     {
       "surface": "בא",
-      "english": "vem"
+      "gloss": "vem"
     },
     {
       "surface": "זדון",
-      "english": "⟨o⟩ orgulho"
+      "gloss": "⟨o⟩ orgulho"
     },
     {
       "surface": "ויבא",
-      "english": "então vem"
+      "gloss": "então vem"
     },
     {
       "surface": "קלון",
-      "english": "⟨o⟩ opróbrio"
+      "gloss": "⟨o⟩ opróbrio"
     },
     {
       "surface": "ואת",
-      "english": "mas com",
+      "gloss": "mas com",
       "marks": "os humildes"
     },
     {
       "surface": "צנועים",
-      "english": "os humildes"
+      "gloss": "os humildes"
     },
     {
       "surface": "חכמה",
-      "english": "a sabedoria"
+      "gloss": "a sabedoria"
     }
-  ],
-  "timestamp": "2026-07-16T17:30:12.539642564Z",
-  "model": "glm-4.5"
+  ]
 }

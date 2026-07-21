@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 3:12",
   "book": "proverbs",
-  "lang": "pt",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 528,
-    "prompt_tokens": 60657,
-    "prompt_tokens_details": {
-      "cached_tokens": 59264
-    },
-    "total_tokens": 61185
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T17:28:54.579619714Z",
   "translation": "Porque ⟨quem⟩ YHWH ama, ⟨את⟩ Ele repreende; e como um pai ⟨ao⟩ filho ⟨em quem⟩ tem prazer.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "את",
-      "english": "⟨quem⟩",
+      "gloss": "⟨quem⟩",
       "marks": "אשר"
     },
     {
       "surface": "אשר",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יאהב",
-      "english": "ama"
+      "gloss": "ama"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יוכיח",
-      "english": "repreende"
+      "gloss": "repreende"
     },
     {
       "surface": "וכאב",
-      "english": "e como um pai"
+      "gloss": "e como um pai"
     },
     {
       "surface": "את",
-      "english": "⟨ao⟩",
+      "gloss": "⟨ao⟩",
       "marks": "בן"
     },
     {
       "surface": "בן",
-      "english": "filho"
+      "gloss": "filho"
     },
     {
       "surface": "ירצה",
-      "english": "tem prazer"
+      "gloss": "tem prazer"
     }
-  ],
-  "timestamp": "2026-07-16T17:28:54.579619714Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "1-chronicles 7:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 7,
+  "verse": 30,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T13:40:14.036560391Z",
+  "translation": "Os filhos de Asher: Jimná, e Yishvá, e Yishví, e Beriá, e Será ⟨a⟩ irmã deles.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Os filhos de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "Jimná"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "e Yishvá"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "e Yishví"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "e Beriá"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "e Será"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "⟨a⟩ irmã deles"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Aser",
@@ -13,56 +52,6 @@
       "hebrew": "אשר"
     }
   ],
-  "source-version": "v1",
-  "lang": "pt",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57160,
-    "prompt_tokens_details": {
-      "cached_tokens": 56048
-    },
-    "total_tokens": 57531
-  },
-  "translation": "Os filhos de Asher: Jimná, e Yishvá, e Yishví, e Beriá, e Será ⟨a⟩ irmã deles.",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Os filhos de"
-    },
-    {
-      "surface": "אשר",
-      "english": "Asher"
-    },
-    {
-      "surface": "ימנה",
-      "english": "Jimná"
-    },
-    {
-      "surface": "וישוה",
-      "english": "e Yishvá"
-    },
-    {
-      "surface": "וישוי",
-      "english": "e Yishví"
-    },
-    {
-      "surface": "ובריעה",
-      "english": "e Beriá"
-    },
-    {
-      "surface": "ושרח",
-      "english": "e Será"
-    },
-    {
-      "surface": "אחותם",
-      "english": "⟨a⟩ irmã deles"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-31T13:40:14.036560391Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

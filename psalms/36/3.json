@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 36:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62909,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63439
-  },
+  "verse": 3,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:03:12.944893523Z",
   "translation": "Porque ⟨ele⟩ suaviza ⟨em⟩ seus olhos para encontrar ⟨o⟩ perversidade de ⟨seu⟩ pecado para odiar",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque",
+      "gloss": "Porque",
       "marks": null
     },
     {
       "surface": "החליק",
-      "english": "⟨ele⟩ suaviza",
+      "gloss": "⟨ele⟩ suaviza",
       "marks": "ele"
     },
     {
       "surface": "אליו",
-      "english": "⟨em⟩",
+      "gloss": "⟨em⟩",
       "marks": "ele"
     },
     {
       "surface": "בעיניו",
-      "english": "seus olhos",
+      "gloss": "seus olhos",
       "marks": null
     },
     {
       "surface": "למצא",
-      "english": "para encontrar",
+      "gloss": "para encontrar",
       "marks": null
     },
     {
       "surface": "עונו",
-      "english": "⟨o⟩ perversidade de ⟨seu⟩ pecado",
+      "gloss": "⟨o⟩ perversidade de ⟨seu⟩ pecado",
       "marks": "perversidade de seu pecado"
     },
     {
       "surface": "לשנא",
-      "english": "para odiar",
+      "gloss": "para odiar",
       "marks": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:03:12.944893523Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

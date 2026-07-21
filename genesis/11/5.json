@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 11:5",
   "book": "genesis",
-  "lang": "pt",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 456,
-    "prompt_tokens": 29148,
-    "prompt_tokens_details": {
-      "cached_tokens": 27648
-    },
-    "total_tokens": 29604
-  },
+  "verse": 5,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T14:42:43.421129862Z",
   "translation": "E YHWH desceu para ver ⟨את⟩ ⟨a⟩ cidade e ⟨את⟩ ⟨o⟩ migdal que ⟨os⟩ filhos de Adam edificaram",
   "tokens": [
     {
       "surface": "וירד",
-      "english": "E ... desceu"
+      "gloss": "E ... desceu"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לראת",
-      "english": "para ver"
+      "gloss": "para ver"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a cidade"
     },
     {
       "surface": "העיר",
-      "english": "⟨a⟩ cidade"
+      "gloss": "⟨a⟩ cidade"
     },
     {
       "surface": "ואת",
-      "english": "e ⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "o migdal"
     },
     {
       "surface": "המגדל",
-      "english": "⟨o⟩ migdal"
+      "gloss": "⟨o⟩ migdal"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "בנו",
-      "english": "edificaram"
+      "gloss": "edificaram"
     },
     {
       "surface": "בני",
-      "english": "⟨os⟩ filhos"
+      "gloss": "⟨os⟩ filhos"
     },
     {
       "surface": "האדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     }
-  ],
-  "timestamp": "2026-07-16T14:42:43.421129862Z",
-  "model": "glm-4.5"
+  ]
 }

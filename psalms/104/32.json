@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "psalms 104:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "pt",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62812,
-    "prompt_tokens_details": {
-      "cached_tokens": 61939
-    },
-    "total_tokens": 63092
-  },
+  "verse": 32,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-31T10:48:24.563618965Z",
   "translation": "⟨O que⟩ olha para ⟨a⟩ terra e ela treme; toca ⟨os⟩ montes e eles fumegam",
   "tokens": [
     {
       "surface": "המביט",
-      "english": "⟨O que⟩ olha"
+      "gloss": "⟨O que⟩ olha"
     },
     {
       "surface": "לארץ",
-      "english": "para ⟨a⟩ terra"
+      "gloss": "para ⟨a⟩ terra"
     },
     {
       "surface": "ותרעד",
-      "english": "e ela treme"
+      "gloss": "e ela treme"
     },
     {
       "surface": "יגע",
-      "english": "toca"
+      "gloss": "toca"
     },
     {
       "surface": "בהרים",
-      "english": "⟨os⟩ montes"
+      "gloss": "⟨os⟩ montes"
     },
     {
       "surface": "ויעשנו",
-      "english": "e eles fumegam"
+      "gloss": "e eles fumegam"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-31T10:48:24.563618965Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

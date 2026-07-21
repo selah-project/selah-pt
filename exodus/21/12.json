@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 21:12",
   "book": "exodus",
-  "lang": "pt",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 350,
-    "prompt_tokens": 23999,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24349
-  },
+  "verse": 12,
+  "lang": "pt",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T13:53:16.760009270Z",
   "translation": "Aquele que fere um homem e ⟨ele⟩ morre, ⟨ele⟩ será morto certamente",
   "tokens": [
     {
       "surface": "מכה",
-      "english": "Aquele que fere"
+      "gloss": "Aquele que fere"
     },
     {
       "surface": "איש",
-      "english": "um homem"
+      "gloss": "um homem"
     },
     {
       "surface": "ומת",
-      "english": "e ⟨ele⟩ morre"
+      "gloss": "e ⟨ele⟩ morre"
     },
     {
       "surface": "מות",
-      "english": "⟨ele⟩ será morto"
+      "gloss": "⟨ele⟩ será morto"
     },
     {
       "surface": "יומת",
-      "english": "certamente"
+      "gloss": "certamente"
     }
-  ],
-  "timestamp": "2026-07-16T13:53:16.760009270Z",
-  "model": "glm-4.5"
+  ]
 }
