@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "genesis 43:8",
   "book": "genesis",
-  "chapter": 43,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:26:52.894128353Z",
-  "translation": "E Yehudá disse a Yisrael seu pai: 'Envia ⟨o⟩ menino comigo, e nos levantaremos e iremos, e viveremos, e não morreremos, também nós, também tu, também nossos filhinhos.'",
+  "chapter": 43,
+  "translation": "E Yehudá disse a Yisrael, seu pai: Envia o jovem comigo, e nos levantemos e vamos, e ⟨viveremos⟩ e não morreremos — tanto nós, quanto tu, quanto nossos pequeninos.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "הנער",
-      "gloss": "⟨o⟩ menino"
+      "gloss": "o jovem"
     },
     {
       "surface": "אתי",
@@ -43,15 +41,15 @@
     },
     {
       "surface": "ונקומה",
-      "gloss": "e nos levantaremos"
+      "gloss": "e nos levantemos"
     },
     {
       "surface": "ונלכה",
-      "gloss": "e iremos"
+      "gloss": "e vamos"
     },
     {
       "surface": "ונחיה",
-      "gloss": "e viveremos"
+      "gloss": "e ⟨viveremos⟩"
     },
     {
       "surface": "ולא",
@@ -63,7 +61,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "também"
+      "gloss": "tanto"
     },
     {
       "surface": "אנחנו",
@@ -71,7 +69,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "também"
+      "gloss": "quanto"
     },
     {
       "surface": "אתה",
@@ -79,30 +77,13 @@
     },
     {
       "surface": "גם",
-      "gloss": "também"
+      "gloss": "quanto"
     },
     {
       "surface": "טפנו",
-      "gloss": "nossos filhinhos"
+      "gloss": "nossos pequeninos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 1,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 3,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:36:21.662218443Z",
+  "model": "glm-5.2"
 }

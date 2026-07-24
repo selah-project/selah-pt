@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "genesis 50:16",
   "book": "genesis",
-  "chapter": 50,
-  "verse": 16,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:34:50.024087734Z",
-  "translation": "E eles ⟨את⟩ deram uma ordem a Yosef, dizendo: Teu pai ordenou antes ⟨da⟩ sua morte, dizendo:",
+  "chapter": 50,
+  "translation": "E ⟨eles⟩ enviaram ⟨mensagem⟩ a Yosef, dizendo: Teu pai ordenou antes de sua morte, dizendo:",
   "tokens": [
     {
       "surface": "ויצוו",
-      "gloss": "E eles deram uma ordem"
+      "gloss": "E ⟨eles⟩ enviaram ⟨mensagem⟩"
     },
     {
       "surface": "אל",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "dizendo:"
+      "gloss": "dizendo"
     },
     {
       "surface": "אביך",
@@ -35,27 +33,17 @@
     },
     {
       "surface": "לפני",
-      "gloss": "antes"
+      "gloss": "antes de"
     },
     {
       "surface": "מותו",
-      "gloss": "⟨da⟩ sua morte"
+      "gloss": "sua morte"
     },
     {
       "surface": "לאמר",
-      "gloss": "dizendo:"
+      "gloss": "dizendo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "José",
-      "to": "Yosef",
-      "token-index": 2,
-      "strongs": 3130,
-      "hebrew": "יוסף"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:38:05.438992067Z",
+  "model": "glm-5.2"
 }

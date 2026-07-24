@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "leviticus 20:6",
   "book": "leviticus",
-  "chapter": 20,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:48:14.817052300Z",
-  "translation": "E a alma que se voltar para ⟨את⟩ os necromantes e para ⟨את⟩ os conhecedores, para se prostituir atrás deles, porei o meu rosto contra a alma ⟨aquela⟩ e cortarei ⟨את⟩ ele do meio do seu povo",
+  "chapter": 20,
+  "translation": "E a nefesh que se voltar para os ⟨ovot⟩ e para os ⟨yid'onim⟩, para se prostituir após eles — eu porei ⟨את⟩ minha face contra ⟨a nefesh⟩ ⟨aquela⟩, e o extirparei ⟨את⟩ do meio de seu povo.",
   "tokens": [
     {
       "surface": "והנפש",
-      "gloss": "E a alma"
+      "gloss": "E a nefesh"
     },
     {
       "surface": "אשר",
@@ -27,8 +25,7 @@
     },
     {
       "surface": "האבת",
-      "gloss": "⟨את⟩ os necromantes",
-      "marks": "האבת (necromantes)"
+      "gloss": "os ⟨ovot⟩"
     },
     {
       "surface": "ואל",
@@ -36,33 +33,32 @@
     },
     {
       "surface": "הידענים",
-      "gloss": "⟨את⟩ os conhecedores",
-      "marks": "הידענים (conhecedores)"
+      "gloss": "os ⟨yid'onim⟩"
     },
     {
       "surface": "לזנות",
-      "gloss": "para se prostituar"
+      "gloss": "para se prostituir"
     },
     {
       "surface": "אחריהם",
-      "gloss": "atrás deles"
+      "gloss": "após eles"
     },
     {
       "surface": "ונתתי",
-      "gloss": "porei"
+      "gloss": "eu porei"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "פני (o meu rosto)"
+      "marks": "minha face"
     },
     {
       "surface": "פני",
-      "gloss": "o meu rosto"
+      "gloss": "minha face"
     },
     {
       "surface": "בנפש",
-      "gloss": "contra a alma"
+      "gloss": "contra ⟨a nefesh⟩"
     },
     {
       "surface": "ההוא",
@@ -70,12 +66,12 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "e cortarei"
+      "gloss": "e o extirparei"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "מקרב (do meio)"
+      "marks": "do meio"
     },
     {
       "surface": "מקרב",
@@ -83,7 +79,9 @@
     },
     {
       "surface": "עמו",
-      "gloss": "do seu povo"
+      "gloss": "de seu povo"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:50:54.783291436Z",
+  "model": "glm-5.2"
 }

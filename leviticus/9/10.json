@@ -1,18 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "leviticus 9:10",
   "book": "leviticus",
-  "chapter": 9,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:40:37.861692603Z",
-  "translation": "mas a gordura, e os rins, e o lobo ⟨את⟩ do fígado da oferta pelo pecado, ele fez fumegar sobre o altar, como YHWH ⟨את⟩ ⟨o⟩ Moshé tinha ordenado",
+  "chapter": 9,
+  "translation": "E ⟨את⟩ a gordura, e ⟨את⟩ os rins, e ⟨את⟩ o lobo do fígado, da oferta de Jatat, ele queimou sobre o altar, como YHWH havia ordenado ⟨את⟩ Moshé.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "mas",
-      "marks": "החלב"
+      "gloss": "e ⟨את⟩",
+      "marks": "a gordura"
     },
     {
       "surface": "החלב",
@@ -20,8 +18,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e",
-      "marks": "הכלית"
+      "gloss": "e ⟨את⟩",
+      "marks": "os rins"
     },
     {
       "surface": "הכלית",
@@ -29,12 +27,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e",
-      "marks": "היתרת"
+      "gloss": "e ⟨את⟩",
+      "marks": "o lobo do fígado"
     },
     {
       "surface": "היתרת",
-      "gloss": "o lobo"
+      "gloss": "o lobo do fígado"
     },
     {
       "surface": "מן",
@@ -46,15 +44,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "da"
+      "gloss": "de"
     },
     {
       "surface": "החטאת",
-      "gloss": "oferta pelo pecado"
+      "gloss": "a oferta de Jatat"
     },
     {
       "surface": "הקטיר",
-      "gloss": "ele fez fumegar"
+      "gloss": "ele queimou"
     },
     {
       "surface": "המזבחה",
@@ -66,7 +64,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "tinha ordenado"
+      "gloss": "havia ordenado"
     },
     {
       "surface": "יהוה",
@@ -81,5 +79,7 @@
       "surface": "משה",
       "gloss": "Moshé"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:48:28.164460272Z",
+  "model": "glm-5.2"
 }

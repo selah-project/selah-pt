@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "1-samuel 29:3",
   "book": "1-samuel",
-  "chapter": 29,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:41:24.525291815Z",
-  "translation": "E disseram os príncipes ⟨dos⟩ filisteus: Que ⟨fazem⟩ estes hebreus aqui? E disse Aquis aos príncipes ⟨dos⟩ filisteus: Não ⟨é⟩ este Davidd, servo ⟨de⟩ Shaúl, rei ⟨de⟩ Yisrael, que esteve comigo estes dias ou estes anos, e não achei nele nada ⟨de mau⟩ desde o dia ⟨em⟩ que caiu ⟨para mim⟩ até este dia?",
+  "chapter": 29,
+  "translation": "E disseram os príncipes dos Pelishtim: Que ⟨fazem⟩ estes hebreus? E disse Akish aos príncipes dos Pelishtim: Acaso não ⟨é⟩ este David, servo de Shaul, rei de Yisrael, que tem estado comigo há dias ou há anos, e nada encontrei nele desde o dia de sua queda até ⟨o⟩ dia de hoje?",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -15,16 +13,15 @@
     },
     {
       "surface": "שרי",
-      "gloss": "os príncipes ⟨dos⟩",
-      "marks": "filisteus"
+      "gloss": "os príncipes"
     },
     {
       "surface": "פלשתים",
-      "gloss": "filisteus"
+      "gloss": "dos Pelishtim"
     },
     {
       "surface": "מה",
-      "gloss": "Que ⟨fazem⟩"
+      "gloss": "Que"
     },
     {
       "surface": "העברים",
@@ -32,7 +29,7 @@
     },
     {
       "surface": "האלה",
-      "gloss": "aqui?"
+      "gloss": "estes"
     },
     {
       "surface": "ויאמר",
@@ -40,24 +37,23 @@
     },
     {
       "surface": "אכיש",
-      "gloss": "Aquis"
+      "gloss": "Akish"
     },
     {
       "surface": "אל",
-      "gloss": "aos"
+      "gloss": "a"
     },
     {
       "surface": "שרי",
-      "gloss": "príncipes ⟨dos⟩",
-      "marks": "filisteus"
+      "gloss": "os príncipes"
     },
     {
       "surface": "פלשתים",
-      "gloss": "filisteus"
+      "gloss": "dos Pelishtim"
     },
     {
       "surface": "הלוא",
-      "gloss": "Não ⟨é⟩"
+      "gloss": "Acaso não"
     },
     {
       "surface": "זה",
@@ -65,25 +61,23 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "עבד",
-      "gloss": "servo ⟨de⟩",
-      "marks": "Shaúl"
+      "gloss": "servo"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaúl"
+      "gloss": "de Shaul"
     },
     {
       "surface": "מלך",
-      "gloss": "rei ⟨de⟩",
-      "marks": "Israel"
+      "gloss": "rei"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "אשר",
@@ -91,7 +85,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "esteve"
+      "gloss": "tem estado"
     },
     {
       "surface": "אתי",
@@ -99,7 +93,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "estes"
+      "gloss": "este"
     },
     {
       "surface": "ימים",
@@ -111,7 +105,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "estes"
+      "gloss": "este"
     },
     {
       "surface": "שנים",
@@ -123,7 +117,7 @@
     },
     {
       "surface": "מצאתי",
-      "gloss": "achei"
+      "gloss": "encontrei"
     },
     {
       "surface": "בו",
@@ -131,16 +125,15 @@
     },
     {
       "surface": "מאומה",
-      "gloss": "nada ⟨de mau⟩"
+      "gloss": "nada"
     },
     {
       "surface": "מיום",
-      "gloss": "desde o dia ⟨em⟩ que",
-      "marks": "caiu"
+      "gloss": "desde o dia"
     },
     {
       "surface": "נפלו",
-      "gloss": "caiu ⟨para mim⟩"
+      "gloss": "de sua queda"
     },
     {
       "surface": "עד",
@@ -148,30 +141,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "este dia"
+      "gloss": "o dia"
     },
     {
       "surface": "הזה",
-      "gloss": "este"
+      "gloss": "de hoje"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 13,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 17,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:23:22.759298880Z",
+  "model": "glm-5.2"
 }

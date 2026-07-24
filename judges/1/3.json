@@ -1,117 +1,81 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "judges 1:3",
   "book": "judges",
-  "chapter": 1,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:50:35.786775536Z",
-  "translation": "E Yehudá disse a Shimon seu irmão: 'Sobe comigo na minha porção, e lutaremos contra ⟨o⟩ cananeu; e eu também irei contigo na tua porção.' E Shimon foi com ele.",
+  "chapter": 1,
+  "translation": "E Yehudá disse a Shimon, seu irmão: Sobe comigo ⟨a⟩ ⟨o⟩ meu lote, e combatamos ⟨contra⟩ ⟨o⟩ kenaanita; e irei eu também contigo ⟨a⟩ ⟨o⟩ teu lote. E Shimon foi com ele.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E disse",
-      "lemma": "c\/559"
+      "gloss": "E disse"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudá",
-      "lemma": "3063"
+      "gloss": "Yehudá"
     },
     {
       "surface": "לשמעון",
-      "gloss": "a Simeão",
-      "lemma": "l\/8095"
+      "gloss": "a Shimon"
     },
     {
       "surface": "אחיו",
-      "gloss": "seu irmão",
-      "lemma": "251"
+      "gloss": "seu irmão"
     },
     {
       "surface": "עלה",
-      "gloss": "Sobe",
-      "lemma": "5927"
+      "gloss": "Sobe"
     },
     {
       "surface": "אתי",
-      "gloss": "comigo",
-      "lemma": "854"
+      "gloss": "comigo"
     },
     {
       "surface": "בגורלי",
-      "gloss": "na minha porção",
-      "lemma": "b\/1486"
+      "gloss": "⟨a⟩ ⟨o⟩ meu lote"
     },
     {
       "surface": "ונלחמה",
-      "gloss": "e lutaremos",
-      "lemma": "c\/3898 a"
+      "gloss": "e combatamos"
     },
     {
       "surface": "בכנעני",
-      "gloss": "contra ⟨o⟩ cananeu",
-      "lemma": "b\/3669 a"
+      "gloss": "⟨contra⟩ ⟨o⟩ kenaanita"
     },
     {
       "surface": "והלכתי",
-      "gloss": "e eu também irei",
-      "lemma": "c\/1980"
+      "gloss": "e irei"
     },
     {
       "surface": "גם",
-      "gloss": "também",
-      "lemma": "1571"
+      "gloss": "também"
     },
     {
       "surface": "אני",
-      "gloss": "eu",
-      "lemma": "589"
+      "gloss": "eu"
     },
     {
       "surface": "אתך",
-      "gloss": "contigo",
-      "lemma": "854"
+      "gloss": "contigo"
     },
     {
       "surface": "בגורלך",
-      "gloss": "na tua porção",
-      "lemma": "b\/1486"
+      "gloss": "⟨a⟩ ⟨o⟩ teu lote"
     },
     {
       "surface": "וילך",
-      "gloss": "E foi",
-      "lemma": "c\/3212"
+      "gloss": "E foi"
     },
     {
       "surface": "אתו",
-      "gloss": "com ele",
-      "lemma": "853"
+      "gloss": "com ele"
     },
     {
       "surface": "שמעון",
-      "gloss": "Shimon",
-      "lemma": "8095"
+      "gloss": "Shimon"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 1,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    },
-    {
-      "from": "Simeão",
-      "to": "Shimon",
-      "token-index": 16,
-      "strongs": 8095,
-      "hebrew": "שמעון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:13:39.214066826Z",
+  "model": "glm-5.2"
 }

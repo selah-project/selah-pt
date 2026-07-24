@@ -1,45 +1,43 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "isaiah 31:1",
   "book": "isaiah",
-  "chapter": 31,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:36:34.077897310Z",
-  "translation": "Ai ⟨dos⟩ que descem ⟨ao⟩ Mitzráyim para ajuda, ⟨e⟩ confiam em cavalos, ⟨e⟩ confiam em carros porque são muitos, ⟨e⟩ em cavaleiros porque são muito fortes; mas não olharam para o Santo de Yisrael, ⟨e⟩ ⟨a⟩ YHWH não buscaram.",
+  "chapter": 31,
+  "translation": "Ai dos que descem a Mitzráyim por socorro, sobre cavalos ⟨se apóiam⟩, e se apoiam em carros de guerra porque ⟨são⟩ muitos, e em cavaleiros porque ⟨são⟩ fortíssimos; mas não olham para o Santo de Yisrael, e a ⟨את⟩ YHWH não buscam.",
   "tokens": [
     {
       "surface": "הוי",
-      "gloss": "Ai"
+      "gloss": "ai de"
     },
     {
       "surface": "הירדים",
-      "gloss": "⟨dos⟩ que descem"
+      "gloss": "os que descem"
     },
     {
       "surface": "מצרים",
-      "gloss": "⟨ao⟩ Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "לעזרה",
-      "gloss": "para ajuda"
+      "gloss": "por socorro"
     },
     {
       "surface": "על",
-      "gloss": "⟨e⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "סוסים",
-      "gloss": "confiam em cavalos"
+      "gloss": "cavalos"
     },
     {
       "surface": "ישענו",
-      "gloss": "⟨e⟩"
+      "gloss": "se apóiam"
     },
     {
       "surface": "ויבטחו",
-      "gloss": "confiam"
+      "gloss": "e confiam"
     },
     {
       "surface": "על",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "רכב",
-      "gloss": "carros"
+      "gloss": "carros de guerra"
     },
     {
       "surface": "כי",
@@ -55,27 +53,27 @@
     },
     {
       "surface": "רב",
-      "gloss": "são"
+      "gloss": "muitos"
     },
     {
       "surface": "ועל",
-      "gloss": "muitos,"
+      "gloss": "e em"
     },
     {
       "surface": "פרשים",
-      "gloss": "⟨e⟩ em"
-    },
-    {
-      "surface": "כי",
       "gloss": "cavaleiros"
     },
     {
-      "surface": "עצמו",
+      "surface": "כי",
       "gloss": "porque"
     },
     {
+      "surface": "עצמו",
+      "gloss": "fortes"
+    },
+    {
       "surface": "מאד",
-      "gloss": "são muito fortes;"
+      "gloss": "muito"
     },
     {
       "surface": "ולא",
@@ -83,7 +81,7 @@
     },
     {
       "surface": "שעו",
-      "gloss": "olharam"
+      "gloss": "olham"
     },
     {
       "surface": "על",
@@ -95,11 +93,12 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael,"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨e⟩ ⟨a⟩"
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
     },
     {
       "surface": "יהוה",
@@ -111,26 +110,9 @@
     },
     {
       "surface": "דרשו",
-      "gloss": "buscaram."
+      "gloss": "buscam"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Egito",
-      "to": "Mitzráyim",
-      "token-index": 2,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 21,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:42:59.982843716Z",
+  "model": "glm-5.2"
 }

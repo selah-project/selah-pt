@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "genesis 37:17",
   "book": "genesis",
-  "chapter": 37,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:19:46.909292295Z",
-  "translation": "E o homem disse: Viajaram daqui, pois ouvi ⟨את⟩ eles dizendo: Vamos a Dotã. E foi Yosef após ⟨את⟩ seus irmãos e encontrou-os em Dotã.",
+  "chapter": 37,
+  "translation": "E o homem disse: Partiram daqui, pois ouvi ⟨os⟩ dizerem: Vamos a Dotan. E Yosef foi atrás de seus irmãos e os encontrou em Dotan.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "נסעו",
-      "gloss": "viajaram"
+      "gloss": "Partiram"
     },
     {
       "surface": "מזה",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "אמרים",
-      "gloss": "eles dizendo"
+      "gloss": "dizerem"
     },
     {
       "surface": "נלכה",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "דתינה",
-      "gloss": "a Dotã"
+      "gloss": "a Dotan"
     },
     {
       "surface": "וילך",
@@ -55,7 +53,7 @@
     },
     {
       "surface": "אחר",
-      "gloss": "após"
+      "gloss": "atrás de"
     },
     {
       "surface": "אחיו",
@@ -63,23 +61,13 @@
     },
     {
       "surface": "וימצאם",
-      "gloss": "e encontrou-os"
+      "gloss": "e os encontrou"
     },
     {
       "surface": "בדתן",
-      "gloss": "em Dotã"
+      "gloss": "em Dotan"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "José",
-      "to": "Yosef",
-      "token-index": 10,
-      "strongs": 3130,
-      "hebrew": "יוסף"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:34:22.605093148Z",
+  "model": "glm-5.2"
 }

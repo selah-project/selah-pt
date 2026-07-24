@@ -1,30 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "2-samuel 1:15",
   "book": "2-samuel",
-  "chapter": 1,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:43:30.008453405Z",
-  "translation": "E Davidd chamou um dos ⟨את⟩ jovens e disse: Vai, e ataca ⟨a⟩ ele. E ele o feriu e morreu.",
+  "chapter": 1,
+  "translation": "E David chamou a um dos jovens e disse: Aproxima-te, fere-o; e ⟨ele⟩ o feriu, e ⟨ele⟩ morreu.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "E David chamou"
+      "gloss": "E chamou"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "לאחד",
-      "gloss": "um"
+      "gloss": "a um"
     },
     {
       "surface": "מהנערים",
-      "gloss": "dos",
-      "marks": "jovens"
+      "gloss": "dos jovens"
     },
     {
       "surface": "ויאמר",
@@ -32,35 +29,25 @@
     },
     {
       "surface": "גש",
-      "gloss": "Vai"
+      "gloss": "aproxima-te"
     },
     {
       "surface": "פגע",
-      "gloss": "ataca"
+      "gloss": "fere"
     },
     {
       "surface": "בו",
-      "gloss": "⟨a⟩ ele"
+      "gloss": "o"
     },
     {
       "surface": "ויכהו",
-      "gloss": "E ele o feriu"
+      "gloss": "e ⟨ele⟩ o feriu"
     },
     {
       "surface": "וימת",
-      "gloss": "e morreu"
+      "gloss": "e ⟨ele⟩ morreu"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:23:59.641829066Z",
+  "model": "glm-5.2"
 }

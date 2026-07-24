@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "1-samuel 12:18",
   "book": "1-samuel",
-  "chapter": 12,
-  "verse": 18,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-17T00:27:01.536715648Z",
-  "translation": "E Shmuel clamou a YHWH, e YHWH deu vozes e chuva naquele dia, e todo o povo temeu muito ⟨את⟩ YHWH e ⟨את⟩ Shmuel",
+  "chapter": 12,
+  "translation": "E Shmuel invocou a YHWH, e YHWH deu ⟨את⟩ trovões e ⟨את⟩ chuva naquele dia; e todo o povo temeu muito a ⟨את⟩ YHWH e a ⟨את⟩ Shmuel.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "E clamou"
+      "gloss": "E invocou"
     },
     {
       "surface": "שמואל",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "e YHWH deu"
+      "gloss": "e deu"
     },
     {
       "surface": "יהוה",
@@ -35,31 +33,33 @@
     },
     {
       "surface": "קלת",
-      "gloss": "vozes"
+      "gloss": "⟨את⟩ trovões",
+      "marks": "trovões (קלת)"
     },
     {
       "surface": "ומטר",
-      "gloss": "e chuva"
+      "gloss": "e ⟨את⟩ chuva",
+      "marks": "chuva (מטר)"
     },
     {
       "surface": "ביום",
-      "gloss": "naquele dia"
+      "gloss": "no dia"
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "aquele"
     },
     {
       "surface": "ויירא",
-      "gloss": "e todo o povo temeu"
+      "gloss": "e temeu"
     },
     {
       "surface": "כל",
-      "gloss": ""
+      "gloss": "todo"
     },
     {
       "surface": "העם",
-      "gloss": ""
+      "gloss": "o povo"
     },
     {
       "surface": "מאד",
@@ -83,5 +83,7 @@
       "surface": "שמואל",
       "gloss": "Shmuel"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:20:01.769970933Z",
+  "model": "glm-5.2"
 }

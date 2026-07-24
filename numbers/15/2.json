@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "numbers 15:2",
   "book": "numbers",
-  "chapter": 15,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:25:32.734358240Z",
-  "translation": "Fala aos filhos de Yisrael e dize-lhes: Quando vierdes ⟨את⟩ ⟨para⟩ ⟨a⟩ terra das vossas habitações, que Eu ⟨estou⟩ dando a vós,",
+  "chapter": 15,
+  "translation": "Fala aos filhos de Yisrael e dir-lhes-ás: Quando entrardes na ⟨את⟩ terra das vossas moradas, que Eu vos dou a vós,",
   "tokens": [
     {
       "surface": "דבר",
@@ -15,23 +13,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "aos"
+      "gloss": "a"
     },
     {
       "surface": "בני",
-      "gloss": "filhos"
+      "gloss": "aos filhos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ואמרת",
-      "gloss": "e dize-lhes"
+      "gloss": "e dir-lhes-ás"
     },
     {
       "surface": "אלהם",
-      "gloss": "-"
+      "gloss": "a eles"
     },
     {
       "surface": "כי",
@@ -39,19 +37,19 @@
     },
     {
       "surface": "תבאו",
-      "gloss": "vierdes"
+      "gloss": "entrardes"
     },
     {
       "surface": "אל",
-      "gloss": "⟨para⟩"
+      "gloss": "na"
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨a⟩ terra"
+      "gloss": "terra"
     },
     {
       "surface": "מושבתיכם",
-      "gloss": "das vossas habitações"
+      "gloss": "das vossas moradas"
     },
     {
       "surface": "אשר",
@@ -63,23 +61,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "⟨estou⟩ dando"
+      "gloss": "dou"
     },
     {
       "surface": "לכם",
       "gloss": "a vós"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 3,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:55:53.975709277Z",
+  "model": "glm-5.2"
 }

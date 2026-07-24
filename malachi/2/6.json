@@ -1,130 +1,73 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "malachi 2:6",
   "book": "malachi",
-  "chapter": 2,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T09:38:03.685239031Z",
-  "translation": "A Torá da Emet ⟨estava⟩ em sua boca, ⟨e a⟩ perversidade não foi encontrada em seus lábios; em paz e ⟨em⟩ retidão ele andou comigo, e ⟨a⟩ muitos ele ⟨fazer⟩ retornar ⟨de⟩ ⟨a⟩ iniquidade.",
+  "chapter": 2,
+  "translation": "Torá de Emet ⟨esteve⟩ em sua boca, e injustiça não se achou em seus lábios; em Shalom e em retidão andou comigo, e a muitos fez tornar da iniquidade.",
   "tokens": [
     {
-      "surface": "תורת",
-      "gloss": "A Torá",
-      "lemma": 8451,
-      "strongs": "H8451",
-      "meaning": "instrução, lei, especialmente o Pentateuco"
+      "surface": "תּוֹרַ֤ת",
+      "gloss": "Torá de"
     },
     {
-      "surface": "אמת",
-      "gloss": "da Emet",
-      "lemma": 571,
-      "strongs": "H571",
-      "meaning": "verdade, fidelidade, estabilidade"
+      "surface": "אֱמֶת֙",
+      "gloss": "Emet"
     },
     {
-      "surface": "היתה",
-      "gloss": "⟨estava⟩",
-      "lemma": 1961,
-      "strongs": "H1961",
-      "meaning": "estar, tornar-se, acontecer"
+      "surface": "הָיְתָ֣ה",
+      "gloss": "esteve"
     },
     {
-      "surface": "בפיהו",
-      "gloss": "em sua boca",
-      "lemma": "b\/6310",
-      "strongs": "b\/H6310",
-      "meaning": "em boca dele"
+      "surface": "בְּפִ֔יהוּ",
+      "gloss": "em sua boca"
     },
     {
-      "surface": "ועולה",
-      "gloss": "⟨e a⟩ perversidade",
-      "lemma": "c\/5766 b",
-      "strongs": "c\/H5766b",
-      "meaning": "perversidade, iniquidade"
+      "surface": "וְעַוְלָ֖ה",
+      "gloss": "e injustiça"
     },
     {
-      "surface": "לא",
-      "gloss": "não",
-      "lemma": 3808,
-      "strongs": "H3808",
-      "meaning": "não"
+      "surface": "לֹא",
+      "gloss": "não"
     },
     {
-      "surface": "נמצא",
-      "gloss": "foi encontrada",
-      "lemma": 4672,
-      "strongs": "H4672",
-      "meaning": "ser encontrado, aparecer"
+      "surface": "נִמְצָ֣א",
+      "gloss": "se achou"
     },
     {
-      "surface": "בשפתיו",
-      "gloss": "em seus lábios",
-      "lemma": "b\/8193",
-      "strongs": "b\/H8193",
-      "meaning": "em lábios dele"
+      "surface": "בִשְׂפָתָ֑יו",
+      "gloss": "em seus lábios"
     },
     {
-      "surface": "בשלום",
-      "gloss": "em paz",
-      "lemma": "b\/7965",
-      "strongs": "b\/H7965",
-      "meaning": "em paz"
+      "surface": "בְּשָׁל֤וֹם",
+      "gloss": "em Shalom"
     },
     {
-      "surface": "ובמישור",
-      "gloss": "⟨e em⟩ retidão",
-      "lemma": "c\/b\/4334",
-      "strongs": "c\/b\/H4334",
-      "meaning": "em retidão, em equidade"
+      "surface": "וּבְמִישׁוֹר֙",
+      "gloss": "e em retidão"
     },
     {
-      "surface": "הלך",
-      "gloss": "ele andou",
-      "lemma": 1980,
-      "strongs": "H1980",
-      "meaning": "andar, caminhar"
+      "surface": "הָלַ֣ךְ",
+      "gloss": "andou"
     },
     {
-      "surface": "אתי",
-      "gloss": "comigo",
-      "lemma": 854,
-      "strongs": "H854",
-      "meaning": "comigo, a mim"
+      "surface": "אִתִּ֔י",
+      "gloss": "comigo"
     },
     {
-      "surface": "ורבים",
-      "gloss": "⟨e a⟩ muitos",
-      "lemma": "c\/7227 a",
-      "strongs": "c\/H7227a",
-      "meaning": "e muitos"
+      "surface": "וְרַבִּ֖ים",
+      "gloss": "e a muitos"
     },
     {
-      "surface": "השיב",
-      "gloss": "ele ⟨fazer⟩ retornar",
-      "lemma": 7725,
-      "strongs": "H7725",
-      "meaning": "fazer retornar, converter"
+      "surface": "הֵשִׁ֥יב",
+      "gloss": "fez tornar"
     },
     {
-      "surface": "מעון",
-      "gloss": "⟨de⟩ ⟨a⟩ iniquidade",
-      "lemma": "m\/5771",
-      "strongs": "m\/H5771",
-      "meaning": "de iniquidade"
+      "surface": "מֵעָוֺֽן",
+      "gloss": "da iniquidade"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "verdade",
-      "to": "Emet",
-      "token-index": 1,
-      "strongs": 571,
-      "hebrew": "אמת"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:08:06.852291293Z",
+  "model": "glm-5.2"
 }

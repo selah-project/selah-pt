@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "2-chronicles 35:3",
   "book": "2-chronicles",
-  "chapter": 35,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:51:01.761532785Z",
-  "translation": "E ele disse aos levitas que ensinavam a todo Yisrael, ⟨os⟩ santificados a YHWH: 'Coloquei ⟨a⟩ Aron santa na casa que Shlomó, filho de Davidd, rei de Yisrael, construiu; ⟨é⟩ um fardo ⟨nos⟩ vossos ombros? Não! Agora, sirvam ⟨a⟩ YHWH, ⟨o⟩ Elohim de vós, e ⟨ao⟩ povo de Yisrael, ⟨o⟩ YHWH'.",
+  "chapter": 35,
+  "translation": "E disse aos levitas, os que tornam sábios todo o Yisrael, os consagrados a YHWH: \"Deem ⟨את⟩ o Aron do Kodesh na casa que Shlomó, ben de David, rei de Yisrael, construiu; não ⟨há⟩ para vocês fardo no ombro. Agora, sirvam ⟨את⟩ YHWH, ⟨o⟩ Elohim de vocês, e ⟨את⟩ o seu povo, Yisrael.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E ele disse"
+      "gloss": "E disse"
     },
     {
       "surface": "ללוים",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "המבונים",
-      "gloss": "que ensinavam"
+      "gloss": "os que tornam sábios"
     },
     {
       "surface": "לכל",
-      "gloss": "a todo"
+      "gloss": "todo o"
     },
     {
       "surface": "ישראל",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "הקדושים",
-      "gloss": "⟨os⟩ santificados"
+      "gloss": "os consagrados"
     },
     {
       "surface": "ליהוה",
@@ -39,20 +37,20 @@
     },
     {
       "surface": "תנו",
-      "gloss": "Coloquei"
+      "gloss": "Deem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arca santa"
+      "marks": "o Aron do Kodesh"
     },
     {
       "surface": "ארון",
-      "gloss": "Aron"
+      "gloss": "o Aron"
     },
     {
       "surface": "הקדש",
-      "gloss": "santa"
+      "gloss": "do Kodesh"
     },
     {
       "surface": "בבית",
@@ -72,15 +70,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "filho"
+      "gloss": "ben de"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "מלך",
-      "gloss": "rei"
+      "gloss": "rei de"
     },
     {
       "surface": "ישראל",
@@ -88,11 +86,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "⟨é⟩"
+      "gloss": "não [há]"
     },
     {
       "surface": "לכם",
-      "gloss": "⟨nos⟩ vossos"
+      "gloss": "para vocês"
     },
     {
       "surface": "משא",
@@ -100,11 +98,11 @@
     },
     {
       "surface": "בכתף",
-      "gloss": "ombros"
+      "gloss": "no ombro"
     },
     {
       "surface": "עתה",
-      "gloss": "Não! Agora,"
+      "gloss": "Agora"
     },
     {
       "surface": "עבדו",
@@ -121,60 +119,22 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "⟨o⟩ Elohim de vós"
+      "gloss": "[o] Elohim de vocês"
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨ao⟩",
-      "marks": "povo de Israel"
+      "gloss": "e ⟨את⟩",
+      "marks": "o seu povo, Yisrael"
     },
     {
       "surface": "עמו",
-      "gloss": "povo de Israel"
+      "gloss": "o seu povo"
     },
     {
       "surface": "ישראל",
-      "gloss": "⟨o⟩ YHWH"
+      "gloss": "Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 4,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "arca",
-      "to": "Aron",
-      "token-index": 9,
-      "strongs": 727,
-      "hebrew": "ארון"
-    },
-    {
-      "from": "Salomão",
-      "to": "Shlomó",
-      "token-index": 14,
-      "strongs": 8010,
-      "hebrew": "שלמה"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 16,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 18,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:36:33.514239750Z",
+  "model": "glm-5.2"
 }

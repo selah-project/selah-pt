@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "ezekiel 24:2",
   "book": "ezekiel",
-  "chapter": 24,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:28:36.595156368Z",
-  "translation": "Filho do homem, escreve para ti ⟨o⟩ nome ⟨de⟩ este dia, ⟨o⟩ próprio essência ⟨de⟩ este dia; apoia-se ⟨o⟩ rei ⟨de⟩ Bavel ⟨contra⟩ Yerushalayim em ⟨o⟩ próprio essência ⟨de⟩ este dia.",
+  "chapter": 24,
+  "translation": "Filho de adam, escreve para ti ⟨את⟩ o nome do dia, ⟨את⟩ a própria essência deste dia: ⟩o⟨ rei de Bavel encostou-se contra Yerushalayim na própria essência deste dia.",
   "tokens": [
     {
       "surface": "בן",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "do homem"
+      "gloss": "de adam"
     },
     {
       "surface": "כתוב",
@@ -28,28 +26,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nome ⟨de⟩ este dia"
+      "marks": "o nome do dia"
     },
     {
       "surface": "שם",
-      "gloss": "nome"
+      "gloss": "o nome"
     },
     {
       "surface": "היום",
-      "gloss": "⟨de⟩ este dia"
+      "gloss": "do dia"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "próprio essência ⟨de⟩ este dia"
+      "marks": "a própria essência deste dia"
     },
     {
       "surface": "עצם",
-      "gloss": "próprio essência"
+      "gloss": "a própria essência"
     },
     {
       "surface": "היום",
-      "gloss": "⟨de⟩ este dia"
+      "gloss": "do dia"
     },
     {
       "surface": "הזה",
@@ -57,19 +55,19 @@
     },
     {
       "surface": "סמך",
-      "gloss": "apoia-se"
+      "gloss": "encostou-se"
     },
     {
       "surface": "מלך",
-      "gloss": "⟨o⟩ rei"
+      "gloss": "rei"
     },
     {
       "surface": "בבל",
-      "gloss": "⟨de⟩ Bavel"
+      "gloss": "de Bavel"
     },
     {
       "surface": "אל",
-      "gloss": "⟨contra⟩"
+      "gloss": "contra"
     },
     {
       "surface": "ירושלם",
@@ -77,34 +75,17 @@
     },
     {
       "surface": "בעצם",
-      "gloss": "em ⟨o⟩ próprio essência"
+      "gloss": "na própria essência"
     },
     {
       "surface": "היום",
-      "gloss": "⟨de⟩ este dia"
+      "gloss": "do dia"
     },
     {
       "surface": "הזה",
       "gloss": "este"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Babel",
-      "to": "Bavel",
-      "token-index": 13,
-      "strongs": 894,
-      "hebrew": "בבל"
-    },
-    {
-      "from": "Jerusalém",
-      "to": "Yerushalayim",
-      "token-index": 15,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:59:40.446927294Z",
+  "model": "glm-5.2"
 }

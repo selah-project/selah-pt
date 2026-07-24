@@ -1,29 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "1-chronicles 17:6",
   "book": "1-chronicles",
-  "chapter": 17,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:52:24.185814872Z",
-  "translation": "em todo lugar que andei com toda Yisrael ⟨foi⟩ que falei uma palavra ⟨ao⟩ ⟨um⟩ dos juízes de Yisrael, aos quais ordenei apascentar ⟨o⟩ meu povo, dizendo: Por que não construistes para mim ⟨uma⟩ casa de cedros?",
+  "chapter": 17,
+  "translation": "Por todo lugar onde tenho andado com todo ⟨o⟩ Yisrael, ⟨acaso⟩ falei ⟨uma⟩ palavra com ⟨algum⟩ um dos shofetim de Yisrael, a quem ordenei para apascentar ⟨את⟩ o meu povo, dizendo: Por que não me edificastes uma casa de cedros?",
   "tokens": [
     {
       "surface": "בכל",
-      "gloss": "Em todo"
+      "gloss": "Por todo"
     },
     {
       "surface": "אשר",
-      "gloss": "lugar que"
+      "gloss": "onde"
     },
     {
       "surface": "התהלכתי",
-      "gloss": "andei"
+      "gloss": "tenho andado"
     },
     {
       "surface": "בכל",
-      "gloss": "com toda"
+      "gloss": "com todo"
     },
     {
       "surface": "ישראל",
@@ -31,24 +29,24 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨foi⟩"
+      "gloss": "⟨acaso⟩ falei ⟨uma⟩ palavra"
     },
     {
       "surface": "דברתי",
-      "gloss": "que falei"
+      "gloss": "falei"
     },
     {
       "surface": "את",
-      "gloss": "⟨ao⟩",
-      "marks": "אחד"
+      "gloss": "⟨את⟩",
+      "marks": "⟨algum⟩ um dos shofetim"
     },
     {
       "surface": "אחד",
-      "gloss": "⟨um⟩"
+      "gloss": "um"
     },
     {
       "surface": "שפטי",
-      "gloss": "dos juízes"
+      "gloss": "dos shofetim"
     },
     {
       "surface": "ישראל",
@@ -56,7 +54,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aos quais"
+      "gloss": "a quem"
     },
     {
       "surface": "צויתי",
@@ -64,16 +62,16 @@
     },
     {
       "surface": "לרעות",
-      "gloss": "apascentar"
+      "gloss": "para apascentar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "עמי"
+      "marks": "o meu povo"
     },
     {
       "surface": "עמי",
-      "gloss": "meu povo"
+      "gloss": "o meu povo"
     },
     {
       "surface": "לאמר",
@@ -89,38 +87,21 @@
     },
     {
       "surface": "בניתם",
-      "gloss": "construístes"
+      "gloss": "edificastes"
     },
     {
       "surface": "לי",
-      "gloss": "para mim"
+      "gloss": "me"
     },
     {
       "surface": "בית",
-      "gloss": "⟨uma⟩"
+      "gloss": "uma casa"
     },
     {
       "surface": "ארזים",
-      "gloss": "casa de cedros"
+      "gloss": "de cedros"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 4,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 10,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:28:58.420657759Z",
+  "model": "glm-5.2"
 }

@@ -1,58 +1,49 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "2-chronicles 32:16",
   "book": "2-chronicles",
-  "chapter": 32,
-  "verse": 16,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:46:22.074299694Z",
-  "translation": "E ainda os servos ⟨dele⟩ falaram mais ⟨acerca de⟩ ⟨את⟩ YHWH ⟨o⟩ Elohim e ⟨acerca de⟩ ⟨את⟩ Jeconias, servo ⟨dele⟩",
+  "chapter": 32,
+  "translation": "E ainda seus servos falaram contra ⟨o⟩ YHWH, ⟨o⟩ Elohim, e contra Jizkiyahu, seu servo.",
   "tokens": [
     {
-      "surface": "ועוד",
+      "surface": "וְעוֹד",
       "gloss": "E ainda"
     },
     {
-      "surface": "דברו",
-      "gloss": "os servos"
+      "surface": "דִּבְּרוּ",
+      "gloss": "falaram"
     },
     {
-      "surface": "עבדיו",
-      "gloss": "⟨dele⟩",
-      "marks": "servos"
+      "surface": "עֲבָדָיו",
+      "gloss": "seus servos"
     },
     {
-      "surface": "על",
-      "gloss": "⟨acerca de⟩",
-      "rationale": "Hebrew 'al' here means 'against\/ concerning', rendered idiomatically"
+      "surface": "עַל",
+      "gloss": "contra"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "YHWH"
     },
     {
-      "surface": "האלהים",
-      "gloss": "⟨o⟩ Elohim",
-      "rationale": "Hebrew article required in English"
+      "surface": "הָאֱלֹהִים",
+      "gloss": "o Elohim"
     },
     {
-      "surface": "ועל",
-      "gloss": "e ⟨acerca de⟩",
-      "rationale": "Second instance of 'al' with same meaning"
+      "surface": "וְעַל",
+      "gloss": "e contra"
     },
     {
-      "surface": "יחזקיהו",
-      "gloss": "Jeconias"
+      "surface": "יְחִזְקִיָּהוּ",
+      "gloss": "Jizkiyahu"
     },
     {
-      "surface": "עבדו",
-      "gloss": "servo ⟨dele⟩",
-      "marks": "Jeconias"
+      "surface": "עַבְדּוֹ",
+      "gloss": "seu servo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:35:47.443206749Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "leviticus 9:6",
   "book": "leviticus",
-  "chapter": 9,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:40:11.098290102Z",
-  "translation": "E Moshé disse: Este é ⟨o⟩⟨é⟩ ⟨que⟩ YHWH ordenou que façais; ⟨e⟩ aparecerá a vós ⟨o⟩ kavod de YHWH.",
+  "chapter": 9,
+  "translation": "E disse Moshé: ⟨Isto⟩ ⟨é⟩ o davar que YHWH ordenou — fazei ⟨isto⟩ — e a glória de YHWH aparecerá a vós.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E Moshé disse"
+      "gloss": "E disse"
     },
     {
       "surface": "משה",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "זה",
-      "gloss": "Este"
+      "gloss": "⟨Isto⟩"
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨o⟩⟨é⟩"
+      "gloss": "o davar"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨que⟩"
+      "gloss": "que"
     },
     {
       "surface": "צוה",
@@ -39,16 +37,11 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "que façais"
+      "gloss": "fazei ⟨isto⟩"
     },
     {
-      "surface": "ואת",
-      "gloss": "⟨e⟩",
-      "marks": "aparecerá a vós o kavod"
-    },
-    {
-      "surface": "ירא",
-      "gloss": "aparecerá"
+      "surface": "וירא",
+      "gloss": "e aparecerá"
     },
     {
       "surface": "אליכם",
@@ -56,11 +49,13 @@
     },
     {
       "surface": "כבוד",
-      "gloss": "⟨o⟩ kavod"
+      "gloss": "a glória"
     },
     {
       "surface": "יהוה",
       "gloss": "de YHWH"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:48:26.067644821Z",
+  "model": "glm-5.2"
 }

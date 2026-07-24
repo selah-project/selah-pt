@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "judges 7:4",
   "book": "judges",
-  "chapter": 7,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:24:10.166014431Z",
-  "translation": "E YHWH disse a Gidon: ⟨o⟩ povo ⟨é⟩ ainda muito abundante; faze-os descer ⟨את⟩ às águas, e eu os purificarei para ti lá; e há de ser que aquele de quem eu te disser: Este irá contigo, este irá contigo; e todo aquele de quem eu te disser: Este não irá contigo, este não irá.",
+  "chapter": 7,
+  "translation": "E YHWH disse a Gidon: Ainda ⟨o⟩ povo ⟨é⟩ muito demais; fê-los descer ⟨את⟩ às águas, e Eu os refinei para ti ali. E ⟨será⟩ que aquele de quem Eu te disser: \"Este irá contigo\", ele contigo irá; e todo aquele de quem Eu te disser: \"Este não irá contigo\", ele não irá.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E ... disse"
+      "gloss": "E disse"
     },
     {
       "surface": "יהוה",
@@ -31,20 +29,20 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨o⟩ povo"
+      "gloss": "o povo"
     },
     {
       "surface": "רב",
-      "gloss": "muito abundante"
+      "gloss": "muito demais"
     },
     {
       "surface": "הורד",
-      "gloss": "faze-os descer"
+      "gloss": "faz descer"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "às águas"
+      "marks": "aos (às águas)"
     },
     {
       "surface": "אל",
@@ -52,11 +50,11 @@
     },
     {
       "surface": "המים",
-      "gloss": "águas"
+      "gloss": "as águas"
     },
     {
       "surface": "ואצרפנו",
-      "gloss": "e eu os purificarei"
+      "gloss": "e Eu os refinei"
     },
     {
       "surface": "לך",
@@ -64,11 +62,11 @@
     },
     {
       "surface": "שם",
-      "gloss": "lá"
+      "gloss": "ali"
     },
     {
       "surface": "והיה",
-      "gloss": "e há de ser"
+      "gloss": "e será"
     },
     {
       "surface": "אשר",
@@ -76,7 +74,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "eu disser"
+      "gloss": "Eu disser"
     },
     {
       "surface": "אליך",
@@ -84,18 +82,6 @@
     },
     {
       "surface": "זה",
-      "gloss": "Este"
-    },
-    {
-      "surface": "ילך",
-      "gloss": "irá"
-    },
-    {
-      "surface": "אתך",
-      "gloss": "contigo"
-    },
-    {
-      "surface": "הוא",
       "gloss": "este"
     },
     {
@@ -107,16 +93,28 @@
       "gloss": "contigo"
     },
     {
+      "surface": "הוא",
+      "gloss": "ele"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "irá"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "contigo"
+    },
+    {
       "surface": "וכל",
-      "gloss": "e todo aquele"
+      "gloss": "e todo"
     },
     {
       "surface": "אשר",
-      "gloss": "de quem"
+      "gloss": "aquele que"
     },
     {
       "surface": "אמר",
-      "gloss": "eu disser"
+      "gloss": "Eu disser"
     },
     {
       "surface": "אליך",
@@ -124,7 +122,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "Este"
+      "gloss": "este"
     },
     {
       "surface": "לא",
@@ -140,7 +138,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "este"
+      "gloss": "ele"
     },
     {
       "surface": "לא",
@@ -150,5 +148,7 @@
       "surface": "ילך",
       "gloss": "irá"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:15:15.268143050Z",
+  "model": "glm-5.2"
 }

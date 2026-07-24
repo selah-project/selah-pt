@@ -1,49 +1,47 @@
 {
+  "tier": "glm-5.2",
+  "verse": 29,
   "ref": "2-samuel 18:29",
   "book": "2-samuel",
-  "chapter": 18,
-  "verse": 29,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T05:00:24.904637193Z",
-  "translation": "E ⟨o⟩ rei disse: ⟨Está em⟩ Shalom ⟨o⟩ raShalom — ⟨para⟩ Absalom? E ⟨o⟩ Ahimaaz disse: Vi ⟨o⟩ grande tumulto, quando Joab, servo ⟨do⟩ rei, enviou ⟨a⟩ mim ⟨como⟩ teu servo, ⟨e⟩ não ⟨o⟩ que ⟨foi⟩.",
+  "chapter": 18,
+  "translation": "E o rei disse: ⟨Há⟩ Shalom ao jovem, a Avshalom? E Ajeimaatz disse: Eu vi ⟨um⟩ grande tumulto, para enviar ⟨את⟩ o servo do rei, Yoav, e ⟨את⟩ o teu servo; e eu não soube o quê.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E ⟨o⟩"
+      "gloss": "E disse"
     },
     {
       "surface": "המלך",
-      "gloss": "rei"
+      "gloss": "o rei"
     },
     {
       "surface": "שלום",
-      "gloss": "disse: ⟨Está em⟩ Shalom"
+      "gloss": "Shalom"
     },
     {
       "surface": "לנער",
-      "gloss": "⟨o⟩ rapaz"
+      "gloss": "ao jovem"
     },
     {
       "surface": "לאבשלום",
-      "gloss": "— ⟨para⟩ Absalom?"
+      "gloss": "a Avshalom"
     },
     {
       "surface": "ויאמר",
-      "gloss": "E ⟨o⟩"
+      "gloss": "E disse"
     },
     {
       "surface": "אחימעץ",
-      "gloss": "Ahimaaz"
+      "gloss": "Ajeimaatz"
     },
     {
       "surface": "ראיתי",
-      "gloss": "disse:"
+      "gloss": "Eu vi"
     },
     {
       "surface": "ההמון",
-      "gloss": "Vi ⟨o⟩"
+      "gloss": "o tumulto"
     },
     {
       "surface": "הגדול",
@@ -51,57 +49,47 @@
     },
     {
       "surface": "לשלח",
-      "gloss": "tumulto,"
+      "gloss": "para enviar"
     },
     {
       "surface": "את",
-      "gloss": "quando",
-      "marks": "עבד המלך יואב"
+      "gloss": "⟨את⟩",
+      "marks": "o servo do rei Yoav"
     },
     {
       "surface": "עבד",
-      "gloss": "Joab,"
+      "gloss": "o servo"
     },
     {
       "surface": "המלך",
-      "gloss": "servo ⟨do⟩"
+      "gloss": "do rei"
     },
     {
       "surface": "יואב",
-      "gloss": "rei,"
+      "gloss": "Yoav"
     },
     {
       "surface": "ואת",
-      "gloss": "enviou ⟨a⟩",
-      "marks": "עבדך"
+      "gloss": "e ⟨את⟩",
+      "marks": "o teu servo"
     },
     {
       "surface": "עבדך",
-      "gloss": "mim ⟨como⟩"
+      "gloss": "o teu servo"
     },
     {
       "surface": "ולא",
-      "gloss": "teu servo,"
+      "gloss": "e não"
     },
     {
       "surface": "ידעתי",
-      "gloss": "⟨e⟩ não"
+      "gloss": "eu soube"
     },
     {
       "surface": "מה",
-      "gloss": "⟨o⟩ que ⟨foi⟩."
+      "gloss": "o quê"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "paz",
-      "to": "Shalom",
-      "token-index": 2,
-      "strongs": 7965,
-      "hebrew": "שלום"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:27:45.873763684Z",
+  "model": "glm-5.2"
 }

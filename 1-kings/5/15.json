@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "1-kings 5:15",
   "book": "1-kings",
-  "chapter": 5,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T05:15:55.448411797Z",
-  "translation": "E Hiram, rei de Tzor, enviou ⟨os⟩ seus servos a Shlomó, porque ouviu que ⟨o⟩ ungiram como rei em lugar de seu pai; porque Hiram sempre amou a Davi, todos ⟨os⟩ dias.",
+  "chapter": 5,
+  "translation": "E Chiram, rei de Tzor, enviou ⟨את⟩ seus servos a Shlomó, pois ouviu que ⟨את⟩ o haviam ungido ⟨היה⟩ rei em lugar de seu pai; pois Chiram ⟨היה⟩ amante de David todos os dias.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -15,20 +13,20 @@
     },
     {
       "surface": "חירם",
-      "gloss": "Hiram"
+      "gloss": "Chiram"
     },
     {
       "surface": "מלך",
-      "gloss": "rei"
+      "gloss": "rei de"
     },
     {
       "surface": "צור",
-      "gloss": "de Tzor"
+      "gloss": "Tzor"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "עבדיו"
+      "marks": "seus servos"
     },
     {
       "surface": "עבדיו",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "pois"
     },
     {
       "surface": "שמע",
@@ -56,44 +54,44 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨o⟩",
-      "marks": "משחו"
+      "gloss": "⟨את⟩",
+      "marks": "o haviam ungido"
     },
     {
       "surface": "משחו",
-      "gloss": "ungiram"
+      "gloss": "haviam ungido"
     },
     {
       "surface": "למלך",
-      "gloss": "como rei"
+      "gloss": "por rei"
     },
     {
       "surface": "תחת",
-      "gloss": "em lugar"
+      "gloss": "em lugar de"
     },
     {
       "surface": "אביהו",
-      "gloss": "de seu pai"
+      "gloss": "seu pai"
     },
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "pois"
     },
     {
       "surface": "אהב",
-      "gloss": "amou"
+      "gloss": "amante"
     },
     {
       "surface": "היה",
-      "gloss": "sempre"
+      "gloss": "era"
     },
     {
       "surface": "חירם",
-      "gloss": "Hiram"
+      "gloss": "Chiram"
     },
     {
       "surface": "לדוד",
-      "gloss": "a Davi"
+      "gloss": "de David"
     },
     {
       "surface": "כל",
@@ -101,26 +99,9 @@
     },
     {
       "surface": "הימים",
-      "gloss": "⟨os⟩ dias"
+      "gloss": "os dias"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Tiro",
-      "to": "Tzor",
-      "token-index": 3,
-      "strongs": 6865,
-      "hebrew": "צור"
-    },
-    {
-      "from": "Salomão",
-      "to": "Shlomó",
-      "token-index": 7,
-      "strongs": 8010,
-      "hebrew": "שלמה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:30:00.207485398Z",
+  "model": "glm-5.2"
 }

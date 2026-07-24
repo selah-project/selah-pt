@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "exodus 5:20",
   "book": "exodus",
-  "chapter": 5,
-  "verse": 20,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:40:10.438727812Z",
-  "translation": "E encontraram ⟨a⟩ Moshé e ⟨a⟩ Aharon ⟨que estavam⟩ postados para encontrar ⟨eles⟩, ⟨ao⟩ saírem de Paró",
+  "chapter": 5,
+  "translation": "E ⟨eles⟩ encontraram ⟨את⟩ Moshé e ⟨את⟩ Aharon, postados ⟨para⟩ o seu encontro, ao saírem da presença de Paró.",
   "tokens": [
     {
       "surface": "ויפגעו",
@@ -16,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Moisés"
+      "marks": "Moshé"
     },
     {
       "surface": "משה",
@@ -24,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨a⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "Aharon"
     },
     {
@@ -33,42 +31,25 @@
     },
     {
       "surface": "נצבים",
-      "gloss": "⟨que estavam⟩ postados"
+      "gloss": "postados"
     },
     {
       "surface": "לקראתם",
-      "gloss": "para encontrar ⟨eles⟩"
+      "gloss": "⟨para⟩ o seu encontro"
     },
     {
       "surface": "בצאתם",
-      "gloss": "⟨ao⟩ saírem"
+      "gloss": "ao saírem"
     },
     {
       "surface": "מאת",
-      "gloss": "de"
+      "gloss": "da presença de"
     },
     {
       "surface": "פרעה",
       "gloss": "Paró"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moisés",
-      "to": "Moshé",
-      "token-index": 2,
-      "strongs": 4872,
-      "hebrew": "משה"
-    },
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 9,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:39:01.750825245Z",
+  "model": "glm-5.2"
 }

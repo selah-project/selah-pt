@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "deuteronomy 26:13",
   "book": "deuteronomy",
-  "chapter": 26,
-  "verse": 13,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:15:35.713785779Z",
-  "translation": "e você dirá à presença de ⟨את⟩ YHWH seu Elohim: Eu ⟨tenho⟩ afastado ⟨o⟩ ⟨que é⟩ sagrado de ⟨a⟩ casa, e também ⟨o⟩ dei ao levita, e ao estrangeiro, ao órfão, e à viúva, conforme todos os teus Mitzvás que me ordenaste; não ⟨tenho⟩ transgredido os teus Mitzvás, e não ⟨tenho⟩ esquecido",
+  "chapter": 26,
+  "translation": "E dirás perante YHWH teu Elohim: ⟨Eu⟩ removi ⟨o⟩ consagrado de ⟨a⟩ ⟨casa⟩, e também o dei ao Leví e ao ger, ao órfão e à viúva, conforme a toda tua Mitzvá que me ordenaste; não transgredi de tuas Mitzvot, e não esqueci.",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "E você dirá"
+      "gloss": "e dirás"
     },
     {
       "surface": "לפני",
-      "gloss": "à presença de"
+      "gloss": "perante"
     },
     {
       "surface": "יהוה",
@@ -23,15 +21,15 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "seu Elohim"
+      "gloss": "teu Elohim"
     },
     {
       "surface": "בערתי",
-      "gloss": "Eu ⟨tenho⟩ afastado"
+      "gloss": "removi"
     },
     {
       "surface": "הקדש",
-      "gloss": "⟨o⟩ ⟨que é⟩ sagrado"
+      "gloss": "o consagrado"
     },
     {
       "surface": "מן",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "⟨a⟩ casa"
+      "gloss": "a casa"
     },
     {
       "surface": "וגם",
@@ -47,15 +45,15 @@
     },
     {
       "surface": "נתתיו",
-      "gloss": "⟨o⟩ dei"
+      "gloss": "o dei"
     },
     {
       "surface": "ללוי",
-      "gloss": "ao levita"
+      "gloss": "ao Leví"
     },
     {
       "surface": "ולגר",
-      "gloss": "e ao estrangeiro"
+      "gloss": "e ao ger"
     },
     {
       "surface": "ליתום",
@@ -67,11 +65,11 @@
     },
     {
       "surface": "ככל",
-      "gloss": "conforme todos"
+      "gloss": "conforme a toda"
     },
     {
       "surface": "מצותך",
-      "gloss": "os teus Mitzvás"
+      "gloss": "tua Mitzvá"
     },
     {
       "surface": "אשר",
@@ -87,11 +85,11 @@
     },
     {
       "surface": "עברתי",
-      "gloss": "⟨tenho⟩ transgredido"
+      "gloss": "transgredi"
     },
     {
       "surface": "ממצותיך",
-      "gloss": "os teus mandamentos"
+      "gloss": "de tuas Mitzvot"
     },
     {
       "surface": "ולא",
@@ -99,19 +97,9 @@
     },
     {
       "surface": "שכחתי",
-      "gloss": "⟨tenho⟩ esquecido"
+      "gloss": "esqueci"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "mandamento",
-      "to": "Mitzvá",
-      "token-index": 15,
-      "strongs": 4687,
-      "hebrew": "מצוה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:05:28.183047457Z",
+  "model": "glm-5.2"
 }

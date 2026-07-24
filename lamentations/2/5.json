@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "lamentations 2:5",
   "book": "lamentations",
-  "chapter": 2,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:25:03.864438207Z",
-  "translation": "Adonai foi como um inimigo, devorou Yisrael, devorou ⟨את⟩ todas as suas cidadelas, destruiu ⟨as⟩ suas fortalezas, e aumentou na Filha de Yehudá ⟨o⟩ luto e ⟨o⟩ pranto.",
+  "chapter": 2,
+  "translation": "Adonai ⟨foi⟩ como um inimigo, devorou Yisrael, devorou todos os seus palácios, arruinou as suas fortalezas, e multiplicou na filha de Yehudá pranto e gemido.",
   "tokens": [
     {
       "surface": "היה",
-      "gloss": "Foi"
+      "gloss": "foi"
     },
     {
       "surface": "אדני",
@@ -35,27 +33,27 @@
     },
     {
       "surface": "כל",
-      "gloss": "todas"
+      "gloss": "todos"
     },
     {
       "surface": "ארמנותיה",
-      "gloss": "as suas cidadelas"
+      "gloss": "os seus palácios"
     },
     {
       "surface": "שחת",
-      "gloss": "destruiu"
+      "gloss": "arruinou"
     },
     {
       "surface": "מבצריו",
       "gloss": "as suas fortalezas"
     },
     {
-      "surface": "ואניה",
-      "gloss": "e aumentou"
+      "surface": "וירב",
+      "gloss": "e multiplicou"
     },
     {
       "surface": "בבת",
-      "gloss": "na Filha de"
+      "gloss": "na filha"
     },
     {
       "surface": "יהודה",
@@ -63,30 +61,13 @@
     },
     {
       "surface": "תאניה",
-      "gloss": "o luto"
+      "gloss": "pranto"
     },
     {
       "surface": "ואניה",
-      "gloss": "e o pranto"
+      "gloss": "e gemido"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 4,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 12,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:20:08.486551013Z",
+  "model": "glm-5.2"
 }

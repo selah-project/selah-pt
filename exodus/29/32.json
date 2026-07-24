@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 32,
   "ref": "exodus 29:32",
   "book": "exodus",
-  "chapter": 29,
-  "verse": 32,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:59:06.664618602Z",
-  "translation": "E Aharon e seus filhos comerão a carne do carneiro e ⟨את⟩ o pão que está no cesto, à porta da Tenda da Reunião.",
+  "chapter": 29,
+  "translation": "E Aharon e seus filhos comerão ⟨את⟩ a carne do carneiro e ⟨את⟩ o pão que ⟨está⟩ na cesta, ⟨na⟩ entrada da Tenda do Encontro.",
   "tokens": [
     {
       "surface": "ואכל",
@@ -24,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o pão"
+      "marks": "a carne"
     },
     {
       "surface": "בשר",
@@ -36,12 +34,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e"
+      "gloss": "e ⟨את⟩",
+      "marks": "o pão"
     },
     {
       "surface": "הלחם",
-      "gloss": "⟨את⟩ o pão",
-      "marks": "o pão"
+      "gloss": "o pão"
     },
     {
       "surface": "אשר",
@@ -49,11 +47,11 @@
     },
     {
       "surface": "בסל",
-      "gloss": "está no cesto"
+      "gloss": "na cesta"
     },
     {
       "surface": "פתח",
-      "gloss": "à porta"
+      "gloss": "entrada"
     },
     {
       "surface": "אהל",
@@ -61,7 +59,9 @@
     },
     {
       "surface": "מועד",
-      "gloss": "da Reunião"
+      "gloss": "do Encontro"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:43:50.382544944Z",
+  "model": "glm-5.2"
 }

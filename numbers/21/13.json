@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "numbers 21:13",
   "book": "numbers",
-  "chapter": 21,
-  "verse": 13,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:32:40.259111145Z",
-  "translation": "De lá eles viajaram e acamparam além do ⟨את⟩ Arnon, que ⟨está⟩ no deserto, ⟨que⟩ sai da fronteira ⟨dos⟩ amorreus, porque o Arnon ⟨é⟩ a fronteira de Moav, entre Moav e ⟨os⟩ amorreus",
+  "chapter": 21,
+  "translation": "Dali partiram, e acamparam do outro lado do Arnon, que ⟨está⟩ no deserto, o que sai da fronteira dos Emori — porque Arnon ⟨é⟩ fronteira de Moav, entre Moav e entre os Emori.",
   "tokens": [
     {
       "surface": "משם",
-      "gloss": "De lá"
+      "gloss": "de lá"
     },
     {
       "surface": "נסעו",
-      "gloss": "eles viajaram"
+      "gloss": "partiram"
     },
     {
       "surface": "ויחנו",
@@ -23,12 +21,11 @@
     },
     {
       "surface": "מעבר",
-      "gloss": "além do"
+      "gloss": "do outro lado"
     },
     {
       "surface": "ארנון",
-      "gloss": "Arnon",
-      "marks": "Arnon"
+      "gloss": "Arnon"
     },
     {
       "surface": "אשר",
@@ -36,11 +33,11 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "⟨está⟩ no deserto"
+      "gloss": "no deserto"
     },
     {
       "surface": "היצא",
-      "gloss": "⟨que⟩ sai"
+      "gloss": "o que sai"
     },
     {
       "surface": "מגבול",
@@ -48,7 +45,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "⟨dos⟩ amorreus"
+      "gloss": "dos Emori"
     },
     {
       "surface": "כי",
@@ -56,15 +53,15 @@
     },
     {
       "surface": "ארנון",
-      "gloss": "o Arnon"
+      "gloss": "Arnon"
     },
     {
       "surface": "גבול",
-      "gloss": "⟨é⟩ a fronteira"
+      "gloss": "fronteira"
     },
     {
       "surface": "מואב",
-      "gloss": "de Moav"
+      "gloss": "Moav"
     },
     {
       "surface": "בין",
@@ -76,30 +73,13 @@
     },
     {
       "surface": "ובין",
-      "gloss": "e"
+      "gloss": "e entre"
     },
     {
       "surface": "האמרי",
-      "gloss": "⟨os⟩ amorreus"
+      "gloss": "os Emori"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moabe",
-      "to": "Moav",
-      "token-index": 13,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    },
-    {
-      "from": "Moabe",
-      "to": "Moav",
-      "token-index": 15,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:38:23.335584248Z",
+  "model": "glm-5.2"
 }

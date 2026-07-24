@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "ezra 7:11",
   "book": "ezra",
-  "chapter": 7,
-  "verse": 11,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:09:37.271431002Z",
-  "translation": "E este ⟨é⟩ ⟨o⟩ texto da carta que o rei Artaxerxes deu a Esdras, o sacerdote, ⟨o⟩ escriba, escriba das palavras ⟨את⟩ dos Mitzvás de YHWH e seus estatutos sobre Yisrael:",
+  "chapter": 7,
+  "translation": "E esta ⟨é⟩ a cópia da carta que o rei Artajasta deu a Ezra, o kohen, o escriba — escriba das palavras das Mitzvot de YHWH e de Seus estatutos sobre Yisrael:",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "E este"
+      "gloss": "E esta"
     },
     {
       "surface": "פרשגן",
-      "gloss": "⟨é⟩ ⟨o⟩ texto"
+      "gloss": "a cópia"
     },
     {
       "surface": "הנשתון",
@@ -35,19 +33,19 @@
     },
     {
       "surface": "ארתחשסתא",
-      "gloss": "Artaxerxes"
+      "gloss": "Artajasta"
     },
     {
       "surface": "לעזרא",
-      "gloss": "a Esdras"
+      "gloss": "a Ezra"
     },
     {
       "surface": "הכהן",
-      "gloss": "o sacerdote"
+      "gloss": "o kohen"
     },
     {
       "surface": "הספר",
-      "gloss": "⟨o⟩ escriba"
+      "gloss": "o escriba"
     },
     {
       "surface": "ספר",
@@ -59,7 +57,7 @@
     },
     {
       "surface": "מצות",
-      "gloss": "dos Mitzvás"
+      "gloss": "das Mitzvot"
     },
     {
       "surface": "יהוה",
@@ -67,7 +65,7 @@
     },
     {
       "surface": "וחקיו",
-      "gloss": "e seus estatutos"
+      "gloss": "e de Seus estatutos"
     },
     {
       "surface": "על",
@@ -78,23 +76,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "mandamento",
-      "to": "Mitzvá",
-      "token-index": 12,
-      "strongs": 4687,
-      "hebrew": "מצוה"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 16,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:24:57.375628427Z",
+  "model": "glm-5.2"
 }

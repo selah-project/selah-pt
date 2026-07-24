@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "isaiah 14:2",
   "book": "isaiah",
-  "chapter": 14,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:23:35.871774970Z",
-  "translation": "E os povos os tomarão e os trarão ao seu lugar; e a casa de Yisrael possuirá ⟨את⟩ sobre a terra de HaShem para servos e para servas; e ⟨eles⟩ serão cativos dos seus cativos e governarão sobre os seus opressores.",
+  "chapter": 14,
+  "translation": "E os povos os tomarão, e os trarão ao seu lugar, e a casa de Yisrael os possuirá como herança sobre a terra de YHWH, por servos e por servas; e ⟨eles⟩ serão ⟨os que capturam⟩ aos seus capturadores, e dominarão sobre os seus opressores.",
   "tokens": [
     {
       "surface": "ולקחום",
-      "gloss": "E os povos os tomarão"
+      "gloss": "e os tomarão"
     },
     {
       "surface": "עמים",
@@ -23,19 +21,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "ao"
+      "gloss": "a"
     },
     {
       "surface": "מקומם",
-      "gloss": "seu lugar"
+      "gloss": "o seu lugar"
     },
     {
       "surface": "והתנחלום",
-      "gloss": "e a casa de Israel possuirá"
+      "gloss": "e os possuirão como herança"
     },
     {
       "surface": "בית",
-      "gloss": "casa"
+      "gloss": "a casa de"
     },
     {
       "surface": "ישראל",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "אדמת",
-      "gloss": "terra"
+      "gloss": "a terra de"
     },
     {
       "surface": "יהוה",
@@ -55,11 +53,11 @@
     },
     {
       "surface": "לעבדים",
-      "gloss": "para servos"
+      "gloss": "por servos"
     },
     {
       "surface": "ולשפחות",
-      "gloss": "e para servas"
+      "gloss": "e por servas"
     },
     {
       "surface": "והיו",
@@ -67,31 +65,21 @@
     },
     {
       "surface": "שבים",
-      "gloss": "cativos"
+      "gloss": "⟨os que capturam⟩"
     },
     {
       "surface": "לשביהם",
-      "gloss": "dos seus cativos"
+      "gloss": "aos seus capturadores"
     },
     {
       "surface": "ורדו",
-      "gloss": "e governarão"
+      "gloss": "e dominarão"
     },
     {
       "surface": "בנגשיהם",
       "gloss": "sobre os seus opressores"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 7,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:41:59.524705934Z",
+  "model": "glm-5.2"
 }

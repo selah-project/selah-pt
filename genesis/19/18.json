@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "genesis 19:18",
   "book": "genesis",
-  "chapter": 19,
-  "verse": 18,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T23:59:12.425245434Z",
-  "translation": "E Lot disse a eles: ⟨את⟩ não assim, eu ⟨te⟩ rogo, Adonai:",
+  "chapter": 19,
+  "translation": "E Lot disse a eles: Ah, não, eu te peço, Adonai!",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E Ló disse"
+      "gloss": "E disse"
     },
     {
       "surface": "לוט",
@@ -23,35 +21,17 @@
     },
     {
       "surface": "אל",
-      "gloss": "não",
-      "marks": "assim"
+      "gloss": "não"
     },
     {
       "surface": "נא",
-      "gloss": "eu ⟨te⟩ rogo"
+      "gloss": "eu te peço"
     },
     {
       "surface": "אדני",
       "gloss": "Adonai"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Ló",
-      "to": "Lot",
-      "token-index": 1,
-      "strongs": 3876,
-      "hebrew": "לוט"
-    },
-    {
-      "from": "meu Senhor",
-      "to": "Adonai",
-      "token-index": 5,
-      "strongs": 136,
-      "hebrew": "אדני"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:29:48.115243859Z",
+  "model": "glm-5.2"
 }

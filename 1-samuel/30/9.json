@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "1-samuel 30:9",
   "book": "1-samuel",
-  "chapter": 30,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:41:41.237803870Z",
-  "translation": "E Davidd foi, ele e ⟨o⟩ seiscentos homens ⟨que estavam⟩ com ⟨ele⟩, e vieram até ⟨o⟩ ribeiro de Besor; e ⟨os⟩ que ficaram para trás pararam.",
+  "chapter": 30,
+  "translation": "E foi David, ele e seiscentos homens que ⟨estavam⟩ com ele, e chegaram até o torrente do Besor; e ⟨os⟩ que ficaram para trás ficaram.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "E... foi"
+      "gloss": "E foi"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "הוא",
@@ -23,11 +21,11 @@
     },
     {
       "surface": "ושש",
-      "gloss": "e seis"
+      "gloss": "e seiscentos"
     },
     {
       "surface": "מאות",
-      "gloss": "centos"
+      "gloss": "[centos]"
     },
     {
       "surface": "איש",
@@ -39,12 +37,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨com⟩",
-      "marks": "ele"
+      "gloss": "com ele"
     },
     {
       "surface": "ויבאו",
-      "gloss": "e vieram"
+      "gloss": "e chegaram"
     },
     {
       "surface": "עד",
@@ -52,31 +49,21 @@
     },
     {
       "surface": "נחל",
-      "gloss": "ribeiro"
+      "gloss": "o torrente"
     },
     {
       "surface": "הבשור",
-      "gloss": "de Besor"
+      "gloss": "do Besor"
     },
     {
       "surface": "והנותרים",
-      "gloss": "e ⟨os⟩ que ficaram para trás"
+      "gloss": "e os que ficaram para trás"
     },
     {
       "surface": "עמדו",
-      "gloss": "pararam"
+      "gloss": "ficaram"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:23:30.972802954Z",
+  "model": "glm-5.2"
 }

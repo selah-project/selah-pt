@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 28,
   "ref": "1-samuel 23:28",
   "book": "1-samuel",
-  "chapter": 23,
-  "verse": 28,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:35:49.028572581Z",
-  "translation": "E Shaul voltou de perseguir após ⟨את⟩ Davidd e foi ao encontro ⟨לקראת⟩ ⟨את⟩ dos filisteus por causa ⟨על⟩ disto ⟨כן⟩ chamaram ⟨קראו⟩ ao ⟨למקום⟩ lugar ⟨ההוא⟩ aquele Sela-ham-Machlekoth",
+  "chapter": 23,
+  "translation": "E Shaul voltou de perseguir atrás de David, e foi ao encontro dos Pelishtim; por isso chamaram àquele ⟨o⟩ lugar Sela-Hamajlekot.",
   "tokens": [
     {
       "surface": "וישב",
@@ -23,11 +21,11 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "após"
+      "gloss": "atrás de"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "וילך",
@@ -35,21 +33,19 @@
     },
     {
       "surface": "לקראת",
-      "gloss": "ao encontro",
-      "marks": "dos filisteus"
+      "gloss": "ao encontro"
     },
     {
       "surface": "פלשתים",
-      "gloss": "filisteus"
+      "gloss": "dos Pelishtim"
     },
     {
       "surface": "על",
-      "gloss": "por causa",
-      "marks": "disto"
+      "gloss": "por"
     },
     {
       "surface": "כן",
-      "gloss": "disto"
+      "gloss": "isso"
     },
     {
       "surface": "קראו",
@@ -57,8 +53,7 @@
     },
     {
       "surface": "למקום",
-      "gloss": "ao",
-      "marks": "lugar"
+      "gloss": "ao lugar"
     },
     {
       "surface": "ההוא",
@@ -70,26 +65,9 @@
     },
     {
       "surface": "המחלקות",
-      "gloss": "ham-Machlekoth"
+      "gloss": "Hamajlekot"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Saul",
-      "to": "Shaul",
-      "token-index": 1,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 4,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:22:07.362041704Z",
+  "model": "glm-5.2"
 }

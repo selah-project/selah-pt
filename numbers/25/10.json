@@ -1,26 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "numbers 25:10",
   "book": "numbers",
-  "chapter": 25,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:36:35.087384243Z",
-  "translation": "E ⟨את⟩ YHWH falou com Moshé, dizendo:",
+  "chapter": 25,
+  "translation": "E YHWH falou a Moshé, dizendo:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "E ⟨o⟩"
+      "gloss": "E falou"
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH",
-      "marks": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "gloss": "falou com"
+      "gloss": "a"
     },
     {
       "surface": "משה",
@@ -28,19 +25,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "dizendo:"
+      "gloss": "dizendo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Mosheh",
-      "to": "Moshé",
-      "token-index": 3,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:58:17.589699358Z",
+  "model": "glm-5.2"
 }

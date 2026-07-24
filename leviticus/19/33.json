@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 33,
   "ref": "leviticus 19:33",
   "book": "leviticus",
-  "chapter": 19,
-  "verse": 33,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:47:32.103692909Z",
-  "translation": "E se um ger ⟨sojornar⟩ com ⟨você⟩ na ⟨vossa⟩ terra, não oprimireis ⟨את⟩ o ger",
+  "chapter": 19,
+  "translation": "E quando um ger residir ⟨contigo⟩ na vossa terra, não ⟨o⟩ oprimais ⟨את⟩.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "E se"
+      "gloss": "E quando"
     },
     {
       "surface": "יגור",
-      "gloss": "⟨sojornar⟩"
+      "gloss": "residir"
     },
     {
       "surface": "אתך",
-      "gloss": "com ⟨você⟩"
+      "gloss": "⟨contigo⟩"
     },
     {
       "surface": "גר",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "בארצכם",
-      "gloss": "na ⟨vossa⟩ terra"
+      "gloss": "na vossa terra"
     },
     {
       "surface": "לא",
@@ -35,12 +33,14 @@
     },
     {
       "surface": "תונו",
-      "gloss": "oprimireis"
+      "gloss": "oprimais"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "o ger"
+      "marks": "o (ger)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:50:40.374939701Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "1-samuel 21:10",
   "book": "1-samuel",
-  "chapter": 21,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:33:57.788714177Z",
-  "translation": "E o sacerdote disse: ⟨A⟩ espada de Golyat ⟨o⟩ filisteu, que tu feriste no ⟨vale⟩ de Elá, eis que ⟨ela⟩ está envolta ⟨num⟩ pano atrás ⟨do⟩ efode; se ⟨a⟩ tomares ⟨para⟩ ti, toma ⟨a⟩, pois não há outra exceto ⟨esta⟩ aqui. E disse David: Não há semelhante ⟨a⟩ ela; dá-ma.",
+  "chapter": 21,
+  "translation": "E o Kohen disse: ⟨a⟩ espada de Golyat, o Pelishti, a qual feriste no vale de Ha-Elá — eis que está envolta na manta, atrás do Efod; se ⟨את⟩ a tomares para ti, toma-a, pois não há outra além dela aqui. E disse David: Não há igual a ela; dá-ma.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "o sacerdote"
+      "gloss": "o Kohen"
     },
     {
       "surface": "חרב",
-      "gloss": "⟨A⟩ espada"
+      "gloss": "espada"
     },
     {
       "surface": "גלית",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "⟨o⟩ filisteu"
+      "gloss": "o Pelishti"
     },
     {
       "surface": "אשר",
@@ -35,15 +33,15 @@
     },
     {
       "surface": "הכית",
-      "gloss": "tu feriste"
+      "gloss": "feriste"
     },
     {
       "surface": "בעמק",
-      "gloss": "no ⟨vale⟩"
+      "gloss": "no vale"
     },
     {
       "surface": "האלה",
-      "gloss": "de Elá"
+      "gloss": "de Ha-Elá"
     },
     {
       "surface": "הנה",
@@ -51,15 +49,15 @@
     },
     {
       "surface": "היא",
-      "gloss": "⟨ela⟩"
+      "gloss": "ela"
     },
     {
       "surface": "לוטה",
-      "gloss": "está envolta"
+      "gloss": "envolta"
     },
     {
       "surface": "בשמלה",
-      "gloss": "⟨num⟩ pano"
+      "gloss": "na manta"
     },
     {
       "surface": "אחרי",
@@ -67,7 +65,7 @@
     },
     {
       "surface": "האפוד",
-      "gloss": "⟨do⟩ efode"
+      "gloss": "do Efod"
     },
     {
       "surface": "אם",
@@ -75,8 +73,8 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨a⟩",
-      "marks": "tomar"
+      "gloss": "⟨את⟩",
+      "marks": "a tomares (espada)"
     },
     {
       "surface": "תקח",
@@ -84,11 +82,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "⟨para⟩ ti"
+      "gloss": "para ti"
     },
     {
       "surface": "קח",
-      "gloss": "toma ⟨a⟩"
+      "gloss": "toma-a"
     },
     {
       "surface": "כי",
@@ -104,7 +102,7 @@
     },
     {
       "surface": "זולתה",
-      "gloss": "exceto ⟨esta⟩"
+      "gloss": "além dela"
     },
     {
       "surface": "בזה",
@@ -124,7 +122,7 @@
     },
     {
       "surface": "כמוה",
-      "gloss": "semelhante ⟨a⟩ ela"
+      "gloss": "igual a ela"
     },
     {
       "surface": "תננה",
@@ -132,26 +130,9 @@
     },
     {
       "surface": "לי",
-      "gloss": "me"
+      "gloss": "a mim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Golias",
-      "to": "Golyat",
-      "token-index": 3,
-      "strongs": 1555,
-      "hebrew": "גלית"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 26,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:21:59.692551278Z",
+  "model": "glm-5.2"
 }

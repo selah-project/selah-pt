@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 29,
   "ref": "exodus 14:29",
   "book": "exodus",
-  "chapter": 14,
-  "verse": 29,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:55:07.054321896Z",
-  "translation": "Mas os filhos de Yisrael caminharam ⟨em⟩ terra seca ⟨no⟩ meio ⟨do⟩ mar, e ⟨as⟩ águas ⟨eram⟩ para eles ⟨uma⟩ mura- ⟨את⟩, ⟨à⟩ sua direita e ⟨à⟩ sua esquerda",
+  "chapter": 14,
+  "translation": "E os filhos de Yisrael caminharam ⟨na⟩ terra seca no meio do mar, e as águas ⟨eram⟩ para eles muro ⟨à⟩ sua direita e ⟨à⟩ sua esquerda.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "Mas os filhos"
+      "gloss": "E os filhos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "הלכו",
@@ -23,28 +21,27 @@
     },
     {
       "surface": "ביבשה",
-      "gloss": "⟨em⟩ terra seca"
+      "gloss": "⟨na⟩ terra seca"
     },
     {
       "surface": "בתוך",
-      "gloss": "⟨no⟩ meio"
+      "gloss": "no meio ⟨de⟩"
     },
     {
       "surface": "הים",
-      "gloss": "⟨do⟩ mar"
+      "gloss": "o mar"
     },
     {
       "surface": "והמים",
-      "gloss": "e ⟨as⟩ águas"
+      "gloss": "e as águas"
     },
     {
       "surface": "להם",
-      "gloss": "⟨eram⟩ para eles"
+      "gloss": "para eles"
     },
     {
       "surface": "חמה",
-      "gloss": "⟨uma⟩ mura-",
-      "marks": "mura"
+      "gloss": "muro"
     },
     {
       "surface": "מימינם",
@@ -55,16 +52,6 @@
       "gloss": "e ⟨à⟩ sua esquerda"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 1,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:40:54.413583351Z",
+  "model": "glm-5.2"
 }

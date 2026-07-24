@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "genesis 22:10",
   "book": "genesis",
-  "chapter": 22,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T14:47:54.249806504Z",
-  "translation": "E Avraham estendeu ⟨a⟩ sua mão, e tomou ⟨את⟩ a faca para sacrificar ⟨את⟩ seu filho",
+  "chapter": 22,
+  "translation": "E Avraham estendeu ⟨את⟩ sua mão e tomou ⟨את⟩ a faca para imolar ⟨את⟩ seu filho.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "E ... estendeu"
+      "gloss": "E estendeu"
     },
     {
       "surface": "אברהם",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a faca"
+      "marks": "sua mão"
     },
     {
       "surface": "ידו",
@@ -41,7 +39,7 @@
     },
     {
       "surface": "לשחט",
-      "gloss": "para sacrificar"
+      "gloss": "para imolar"
     },
     {
       "surface": "את",
@@ -52,5 +50,7 @@
       "surface": "בנו",
       "gloss": "seu filho"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:30:41.259929759Z",
+  "model": "glm-5.2"
 }

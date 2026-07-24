@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "genesis 16:3",
   "book": "genesis",
-  "chapter": 16,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T23:56:11.437761845Z",
-  "translation": "E Sarai, esposa de Avram, tomou ⟨a⟩ Hagar ⟨a⟩ egípcia, sua escrava, depois de Avram ter habitado dez anos na terra de Kenaan, e a deu ⟨a⟩ seu marido Avram para ser sua mulher.",
+  "chapter": 16,
+  "translation": "E Sarai, ⟨esposa de⟩ Avram, tomou ⟨את⟩ Hagar, a mitzrita, sua serva, ao fim de dez anos de habitação de Avram na terra de Kenaan, e deu-a ⟨את⟩ para Avram, seu marido, a ele por esposa.",
   "tokens": [
     {
       "surface": "ותקח",
-      "gloss": "E...tomou"
+      "gloss": "E tomou"
     },
     {
       "surface": "שרי",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "אשת",
-      "gloss": "esposa de"
+      "gloss": "⟨esposa de⟩"
     },
     {
       "surface": "אברם",
@@ -36,15 +34,15 @@
     },
     {
       "surface": "המצרית",
-      "gloss": "⟨a⟩ egípcia"
+      "gloss": "a mitzrita"
     },
     {
       "surface": "שפחתה",
-      "gloss": "sua escrava"
+      "gloss": "sua serva"
     },
     {
       "surface": "מקץ",
-      "gloss": "depois de"
+      "gloss": "ao fim de"
     },
     {
       "surface": "עשר",
@@ -56,70 +54,46 @@
     },
     {
       "surface": "לשבת",
-      "gloss": "ter habitado"
+      "gloss": "de habitação"
     },
     {
       "surface": "אברם",
-      "gloss": "Avram"
+      "gloss": "de Avram"
     },
     {
       "surface": "בארץ",
-      "gloss": "na terra de"
+      "gloss": "na terra"
     },
     {
       "surface": "כנען",
-      "gloss": "Kenaan"
+      "gloss": "de Kenaan"
     },
     {
       "surface": "ותתן",
-      "gloss": "e a deu"
+      "gloss": "e deu"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨a⟩",
-      "marks": "seu marido Abrão"
+      "gloss": "a ⟨את⟩",
+      "marks": "para Avram"
     },
     {
       "surface": "לאברם",
-      "gloss": "seu marido Abrão"
+      "gloss": "para Avram"
     },
     {
       "surface": "אישה",
-      "gloss": "para ser mulher"
+      "gloss": "seu marido"
     },
     {
       "surface": "לו",
-      "gloss": "dele"
+      "gloss": "a ele"
     },
     {
       "surface": "לאשה",
-      "gloss": "para mulher"
+      "gloss": "por esposa"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Abrão",
-      "to": "Avram",
-      "token-index": 3,
-      "strongs": 87,
-      "hebrew": "אברם"
-    },
-    {
-      "from": "Abrão",
-      "to": "Avram",
-      "token-index": 12,
-      "strongs": 87,
-      "hebrew": "אברם"
-    },
-    {
-      "from": "Canaã",
-      "to": "Kenaan",
-      "token-index": 14,
-      "strongs": 3667,
-      "hebrew": "כנען"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:29:02.183824256Z",
+  "model": "glm-5.2"
 }

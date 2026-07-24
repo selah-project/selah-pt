@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "numbers 35:8",
   "book": "numbers",
-  "chapter": 35,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:48:31.625385575Z",
-  "translation": "E as cidades que dareis da possessão ⟨dos⟩ filhos de Yisrael, ⟨da⟩ maior parte tomareis muitas, e ⟨da⟩ menor parte ⟨את⟩ ⟨menos⟩ diminuireis; cada um segundo ⟨a⟩ sua herança que herdarem, dará ⟨de⟩ suas cidades aos levitas.",
+  "chapter": 35,
+  "translation": "E quanto às cidades que dareis da possessão dos filhos de Yisrael — do que tem muito multiplicareis, e de ⟨את⟩ o que tem pouco diminuireis; cada um conforme ⟨à⟩ sua herança que herdarão dará das suas cidades aos Levítas.",
   "tokens": [
     {
       "surface": "והערים",
-      "gloss": "E as cidades"
+      "gloss": "e quanto às cidades"
     },
     {
       "surface": "אשר",
@@ -27,32 +25,31 @@
     },
     {
       "surface": "בני",
-      "gloss": "dos"
+      "gloss": "dos filhos"
     },
     {
       "surface": "ישראל",
-      "gloss": "filhos de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "מאת",
-      "gloss": "da"
+      "gloss": "do que tem"
     },
     {
       "surface": "הרב",
-      "gloss": "maior parte"
+      "gloss": "muito"
     },
     {
       "surface": "תרבו",
-      "gloss": "tomareis muitas"
+      "gloss": "multiplicareis"
     },
     {
       "surface": "ומאת",
-      "gloss": "e ⟨da⟩",
-      "marks": "⟨menos⟩"
+      "gloss": "e de ⟨את⟩"
     },
     {
       "surface": "המעט",
-      "gloss": "menos"
+      "gloss": "o que tem pouco"
     },
     {
       "surface": "תמעיטו",
@@ -64,11 +61,11 @@
     },
     {
       "surface": "כפי",
-      "gloss": "segundo"
+      "gloss": "conforme"
     },
     {
       "surface": "נחלתו",
-      "gloss": "a sua herança"
+      "gloss": "à sua herança"
     },
     {
       "surface": "אשר",
@@ -76,7 +73,7 @@
     },
     {
       "surface": "ינחלו",
-      "gloss": "herdarem"
+      "gloss": "herdarão"
     },
     {
       "surface": "יתן",
@@ -84,23 +81,13 @@
     },
     {
       "surface": "מעריו",
-      "gloss": "de"
+      "gloss": "das suas cidades"
     },
     {
       "surface": "ללוים",
-      "gloss": "suas cidades aos levitas"
+      "gloss": "aos Levítas"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 5,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:00:16.300247690Z",
+  "model": "glm-5.2"
 }

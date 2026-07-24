@@ -1,34 +1,32 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "numbers 26:3",
   "book": "numbers",
-  "chapter": 26,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:37:16.048089252Z",
-  "translation": "E Moshé ⟨e⟩ Eleazar, ⟨o⟩ sacerdote, falaram ⟨com⟩ eles nas planícies de Moav ⟨ao⟩ Jordão ⟨perto de⟩ Yerijó, ⟨ao⟩ dizer",
+  "chapter": 26,
+  "translation": "E Moshé e Elazar, o kohen, falaram com ⟨את⟩ eles nas planícies de Moav, junto ao Yardén, ⟨em frente a⟩ Yerijó, dizendo:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "E Moshé"
+      "gloss": "E falou"
     },
     {
       "surface": "משה",
-      "gloss": "⟨e⟩"
+      "gloss": "Moshé"
     },
     {
       "surface": "ואלעזר",
-      "gloss": "Eleazar,"
+      "gloss": "e Elazar"
     },
     {
       "surface": "הכהן",
-      "gloss": "⟨o⟩ sacerdote,"
+      "gloss": "o kohen"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨com⟩ eles",
-      "marks": "בערבת"
+      "gloss": "⟨את⟩",
+      "marks": "eles"
     },
     {
       "surface": "בערבת",
@@ -40,38 +38,21 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨ao⟩ Jordão"
+      "gloss": "junto a"
     },
     {
       "surface": "ירדן",
-      "gloss": "⟨perto de⟩"
+      "gloss": "o Yardén"
     },
     {
       "surface": "ירחו",
-      "gloss": "Yerijó,"
+      "gloss": "Yerijó"
     },
     {
       "surface": "לאמר",
-      "gloss": "⟨ao⟩ dizer"
+      "gloss": "dizendo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moabe",
-      "to": "Moav",
-      "token-index": 6,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    },
-    {
-      "from": "Jericó",
-      "to": "Yerijó",
-      "token-index": 9,
-      "strongs": 3405,
-      "hebrew": "יריחו"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:58:19.410156948Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "leviticus 8:10",
   "book": "leviticus",
-  "chapter": 8,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:39:45.453262970Z",
-  "translation": "Moshé tomou ⟨את⟩ o óleo da unção e ungiu ⟨את⟩ o Mishkán e ⟨את⟩ tudo o que ⟨estava⟩ nele e os consagrou",
+  "chapter": 8,
+  "translation": "E Moshé tomou ⟨את⟩ o óleo da unção, e ungiu ⟨את⟩ ⟨o⟩ Mishkán e ⟨את⟩ tudo o que nele ⟨estava⟩; e os santificou ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "tomou"
+      "gloss": "E tomou"
     },
     {
       "surface": "משה",
@@ -24,7 +22,7 @@
     },
     {
       "surface": "שמן",
-      "gloss": "o óleo"
+      "gloss": "óleo"
     },
     {
       "surface": "המשחה",
@@ -41,7 +39,7 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "o Mishkán"
+      "gloss": "⟨o⟩ Mishkán"
     },
     {
       "surface": "ואת",
@@ -54,7 +52,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "o que"
+      "gloss": "que"
     },
     {
       "surface": "בו",
@@ -62,11 +60,14 @@
     },
     {
       "surface": "ויקדש",
-      "gloss": "e os consagrou"
+      "gloss": "e santificou"
     },
     {
       "surface": "אתם",
-      "gloss": ""
+      "gloss": "⟨את⟩",
+      "marks": "a eles"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:48:05.631064631Z",
+  "model": "glm-5.2"
 }

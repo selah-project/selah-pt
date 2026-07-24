@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "genesis 9:22",
   "book": "genesis",
-  "chapter": 9,
-  "verse": 22,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T23:49:58.336954312Z",
-  "translation": "E viu Cham, pai de Kenaan, ⟨a⟩ nudez de seu pai, e contou ⟨a⟩ seus dois irmãos ⟨no⟩ exterior.",
+  "chapter": 9,
+  "translation": "E Jam, pai de Kenaan, viu ⟨את⟩ a nudez de seu pai, e ⟨o⟩ declarou aos seus dois irmãos ⟨no⟩ exterior.",
   "tokens": [
     {
       "surface": "וירא",
@@ -15,24 +13,24 @@
     },
     {
       "surface": "חם",
-      "gloss": "Cham"
+      "gloss": "Jam"
     },
     {
       "surface": "אבי",
-      "gloss": "pai"
+      "gloss": "pai de"
     },
     {
       "surface": "כנען",
-      "gloss": "de Kenaan"
+      "gloss": "Kenaan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nudez de seu pai"
+      "marks": "a nudez"
     },
     {
       "surface": "ערות",
-      "gloss": "nudez"
+      "gloss": "a nudez"
     },
     {
       "surface": "אביו",
@@ -40,31 +38,21 @@
     },
     {
       "surface": "ויגד",
-      "gloss": "e contou"
+      "gloss": "e declarou"
     },
     {
       "surface": "לשני",
-      "gloss": "⟨a⟩"
+      "gloss": "aos seus dois"
     },
     {
       "surface": "אחיו",
-      "gloss": "seus dois irmãos"
+      "gloss": "irmãos"
     },
     {
       "surface": "בחוץ",
-      "gloss": "⟨no⟩ exterior"
+      "gloss": "no exterior"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Canaã",
-      "to": "Kenaan",
-      "token-index": 3,
-      "strongs": 3667,
-      "hebrew": "כנען"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:28:20.290150253Z",
+  "model": "glm-5.2"
 }

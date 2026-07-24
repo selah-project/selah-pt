@@ -1,97 +1,79 @@
 {
+  "tier": "glm-5.2",
+  "verse": 21,
   "ref": "jeremiah 33:21",
   "book": "jeremiah",
-  "chapter": 33,
-  "verse": 21,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:38:25.476539454Z",
-  "translation": "Também ⟨o⟩ meu Brit ⟨ser⟩ quebrado com Davidd, meu servo, ⟨para⟩ que ⟨ele⟩ não tenha ⟨um⟩ filho reinando sobre seu trono; e ⟨com⟩ os Levitas, ⟨os⟩ sacerdotes, meus ministros ⟨o⟩ ⟨seja⟩ quebrado.",
+  "chapter": 33,
+  "translation": "Também ⟨a⟩ minha Brit seria quebrada com ⟨את⟩ David, meu servo, de ⟨que⟩ ⟨haja⟩ para ele um filho reinando sobre o seu trono, e ⟨את⟩ os levitas, os sacerdotes, meus ministros.",
   "tokens": [
     {
-      "surface": "גם",
+      "surface": "גַּם",
       "gloss": "Também"
     },
     {
-      "surface": "בריתי",
-      "gloss": "⟨o⟩ meu Brit"
+      "surface": "בְּרִיתִ֤י",
+      "gloss": "minha Brit"
     },
     {
-      "surface": "תפר",
-      "gloss": "⟨ser⟩ quebrado"
+      "surface": "תֻפַר֙",
+      "gloss": "seria quebrada"
     },
     {
-      "surface": "את",
-      "gloss": "⟨⟩",
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
       "marks": "David"
     },
     {
-      "surface": "דוד",
-      "gloss": "Davidd"
+      "surface": "דָּוִ֣ד",
+      "gloss": "David"
     },
     {
-      "surface": "עבדי",
+      "surface": "עַבְדִּ֔י",
       "gloss": "meu servo"
     },
     {
-      "surface": "מהיות",
-      "gloss": "⟨para⟩ que"
+      "surface": "מִהְיֽוֹת",
+      "gloss": "de ⟨haja⟩"
     },
     {
-      "surface": "לו",
-      "gloss": "⟨ele⟩"
+      "surface": "ל֥וֹ",
+      "gloss": "para ele"
     },
     {
-      "surface": "בן",
-      "gloss": "⟨um⟩ filho"
+      "surface": "בֵ֖ן",
+      "gloss": "um filho"
     },
     {
-      "surface": "מלך",
+      "surface": "מֹלֵ֣ךְ",
       "gloss": "reinando"
     },
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "sobre"
     },
     {
-      "surface": "כסאו",
-      "gloss": "seu trono"
+      "surface": "כִּסְא֑וֹ",
+      "gloss": "o seu trono"
     },
     {
-      "surface": "ואת",
-      "gloss": "e ⟨com⟩"
+      "surface": "וְאֶת",
+      "gloss": "e ⟨את⟩",
+      "marks": "os levitas"
     },
     {
-      "surface": "הלוים",
-      "gloss": "os Levitas"
+      "surface": "הַלְוִיִּ֥ם",
+      "gloss": "os levitas"
     },
     {
-      "surface": "הכהנים",
-      "gloss": "⟨os⟩ sacerdotes"
+      "surface": "הַכֹּהֲנִ֖ים",
+      "gloss": "os sacerdotes"
     },
     {
-      "surface": "משרתי",
-      "gloss": "meus ministros ⟨o⟩ ⟨seja⟩ quebrado"
+      "surface": "מְשָׁרְתָֽי",
+      "gloss": "meus ministros"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "pacto",
-      "to": "Brit",
-      "token-index": 1,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 4,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:52:14.254672596Z",
+  "model": "glm-5.2"
 }

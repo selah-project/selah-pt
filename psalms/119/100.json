@@ -1,41 +1,33 @@
 {
+  "tier": "glm-5.2",
+  "verse": 100,
   "ref": "psalms 119:100",
   "book": "psalms",
-  "chapter": 119,
-  "verse": 100,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:49:15.014820190Z",
-  "translation": "Tenho mais entendimento ⟨que⟩ os anciãos, porque guardo ⟨את⟩ teus preceitos.",
+  "chapter": 119,
+  "translation": "Dos anciãos ⟨eu⟩ me tornou mais entendido, pois ⟨as⟩ tuas Mitzvot ⟨eu⟩ guardei.",
   "tokens": [
     {
-      "surface": "מזקנים",
-      "gloss": "mais entendimento ⟨que⟩ os anciãos",
-      "notes": "Hebraico implícito: *me-bin* (entendo mais de) ou *mevunah* (entendimento) + *mi-zekenim* (dos anciãos). A preposição 'de' é elidida."
+      "surface": "מִזְּקֵנִ֥ים",
+      "gloss": "Dos anciãos"
     },
     {
-      "surface": "אתבונן",
-      "gloss": "entendimento",
-      "notes": "Hitpoel de *bin*; o prefixo *et* é parte da raiz, não a partícula acusativa."
+      "surface": "אֶתְבּוֹנָ֑ן",
+      "gloss": "me tornei entendido"
     },
     {
-      "surface": "כי",
-      "gloss": "porque"
+      "surface": "כִּ֖י",
+      "gloss": "pois"
     },
     {
-      "surface": "פקודיך",
-      "gloss": "teus preceitos",
-      "notes": "Plural de *piqqud* (mandato, ordem)."
+      "surface": "פִקּוּדֶ֣יךָ",
+      "gloss": "tuas Mitzvot"
     },
     {
-      "surface": "נצרתי",
-      "gloss": "guardo"
-    },
-    {
-      "surface": "⟨את⟩",
-      "gloss": "⟨את⟩",
-      "marks": "teus preceitos"
+      "surface": "נָצָֽרְתִּי",
+      "gloss": "guardei"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:13:10.494781252Z",
+  "model": "glm-5.2"
 }

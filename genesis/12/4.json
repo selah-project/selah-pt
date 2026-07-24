@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "genesis 12:4",
   "book": "genesis",
-  "chapter": 12,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T23:53:01.591028979Z",
-  "translation": "E Avram saiu, como YHWH ⟨tinha⟩ falado ⟨com⟩ ele, e saiu com ele Lot, e Avram ⟨era⟩ filho de setenta e cinco anos em sua saída de Harã.",
+  "chapter": 12,
+  "translation": "E Avram foi, como YHWH ⟨o⟩ havia falado ⟨com⟩ ele, e Lot foi com ele; e Avram ⟨tinha⟩ ⟨a⟩ idade de cinco e setenta anos quando saiu de Harã.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "E saiu"
+      "gloss": "E foi"
     },
     {
       "surface": "אברם",
@@ -23,11 +21,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "⟨tinha⟩ falado ⟨com⟩"
+      "gloss": "havia falado"
     },
     {
       "surface": "אליו",
-      "gloss": "ele"
+      "gloss": "⟨com⟩ ele"
     },
     {
       "surface": "יהוה",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "e saiu"
+      "gloss": "e foi"
     },
     {
       "surface": "אתו",
@@ -47,11 +45,11 @@
     },
     {
       "surface": "ואברם",
-      "gloss": "e Abram"
+      "gloss": "E Avram"
     },
     {
       "surface": "בן",
-      "gloss": "⟨era⟩ filho de"
+      "gloss": "⟨tinha⟩ a idade de"
     },
     {
       "surface": "חמש",
@@ -71,30 +69,13 @@
     },
     {
       "surface": "בצאתו",
-      "gloss": "em sua saída"
+      "gloss": "quando saiu"
     },
     {
       "surface": "מחרן",
       "gloss": "de Harã"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Abram",
-      "to": "Avram",
-      "token-index": 1,
-      "strongs": 87,
-      "hebrew": "אברם"
-    },
-    {
-      "from": "Ló",
-      "to": "Lot",
-      "token-index": 8,
-      "strongs": 3876,
-      "hebrew": "לוט"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:28:31.795367348Z",
+  "model": "glm-5.2"
 }

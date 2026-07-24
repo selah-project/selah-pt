@@ -1,22 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "1-kings 8:5",
   "book": "1-kings",
-  "chapter": 8,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T05:21:14.955703809Z",
-  "translation": "E ⟨o⟩ rei Shelomá e toda ⟨a⟩ congregação de Yisrael, que ⟨eram⟩ convocados ⟨com⟩ ele, ⟨estavam⟩ com ele diante ⟨da⟩ arca, sacrificando ovelhas e bois, que não podiam ser contados nem numerados ⟨por⟩ multidão.",
+  "chapter": 8,
+  "translation": "E o rei Shlomó e toda a assembleia de Yisrael, os que se reuniam ⟨com ele⟩, ⟨estavam⟩ com ele diante do Aron, sacrificando rebanho e gado que não se poderiam contar nem numerar de ⟨tão⟩ grande ⟨quantidade⟩.",
   "tokens": [
     {
       "surface": "והמלך",
-      "gloss": "E ⟨o⟩ rei",
-      "marks": "Shelomá"
+      "gloss": "E o rei"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomá"
+      "gloss": "Shlomó"
     },
     {
       "surface": "וכל",
@@ -24,33 +21,31 @@
     },
     {
       "surface": "עדת",
-      "gloss": "⟨a⟩ congregação"
+      "gloss": "a assembleia de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "הנועדים",
-      "gloss": "que ⟨eram⟩ convocados"
+      "gloss": "os que se reuniam"
     },
     {
       "surface": "עליו",
-      "gloss": "⟨com⟩ ele"
+      "gloss": "com ele"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨estavam⟩ com ele",
-      "marks": "a congregação"
+      "gloss": "⟨את⟩ ele"
     },
     {
       "surface": "לפני",
-      "gloss": "diante ⟨da⟩",
-      "marks": "a arca"
+      "gloss": "diante de"
     },
     {
       "surface": "הארון",
-      "gloss": "arca"
+      "gloss": "o Aron"
     },
     {
       "surface": "מזבחים",
@@ -58,11 +53,11 @@
     },
     {
       "surface": "צאן",
-      "gloss": "ovelhas"
+      "gloss": "rebanho"
     },
     {
       "surface": "ובקר",
-      "gloss": "e bois"
+      "gloss": "e gado"
     },
     {
       "surface": "אשר",
@@ -74,7 +69,7 @@
     },
     {
       "surface": "יספרו",
-      "gloss": "podiam ser contados"
+      "gloss": "se poderiam contar"
     },
     {
       "surface": "ולא",
@@ -82,23 +77,13 @@
     },
     {
       "surface": "ימנו",
-      "gloss": "numerados"
+      "gloss": "numerar"
     },
     {
       "surface": "מרב",
-      "gloss": "⟨por⟩ multidão"
+      "gloss": "de grande quantidade"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 4,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:30:56.543845288Z",
+  "model": "glm-5.2"
 }

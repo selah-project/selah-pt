@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 26,
   "ref": "ezekiel 27:26",
   "book": "ezekiel",
-  "chapter": 27,
-  "verse": 26,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T14:21:04.266478947Z",
-  "translation": "Em ⟨as⟩ muitas águas te trouxeram ⟨os⟩ que te remam; o vento do oriente te quebrou ⟨no⟩ coração dos mares",
+  "chapter": 27,
+  "translation": "Em muitas águas ⟨os que te remam⟩ te trouxeram, ⟨os que remam⟩ ⟨את⟩ a ti; ⟨um⟩ vento oriental te quebrou no coração dos mares.",
   "tokens": [
     {
       "surface": "במים",
-      "gloss": "em ⟨as⟩ muitas águas"
+      "gloss": "em muitas águas"
     },
     {
       "surface": "רבים",
-      "gloss": "muitas"
+      "gloss": "(incluído em במים)"
     },
     {
       "surface": "הביאוך",
@@ -23,12 +21,12 @@
     },
     {
       "surface": "השטים",
-      "gloss": "⟨os⟩ que te remam"
+      "gloss": "os que remam"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "o vento do oriente"
+      "marks": "a ti"
     },
     {
       "surface": "רוח",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "הקדים",
-      "gloss": "do oriente"
+      "gloss": "oriental"
     },
     {
       "surface": "שברך",
@@ -44,11 +42,13 @@
     },
     {
       "surface": "בלב",
-      "gloss": "⟨no⟩ coração"
+      "gloss": "no coração"
     },
     {
       "surface": "ימים",
       "gloss": "dos mares"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:00:03.032561469Z",
+  "model": "glm-5.2"
 }

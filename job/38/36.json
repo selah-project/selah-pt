@@ -1,68 +1,49 @@
 {
+  "tier": "glm-5.2",
+  "verse": 36,
   "ref": "job 38:36",
   "book": "job",
-  "chapter": 38,
-  "verse": 36,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:12:27.407470280Z",
-  "translation": "Quem colocou ⟨a⟩ Jojmá nas partes internas ⟨את⟩, ou quem deu ⟨o⟩ Biná à mente ⟨את⟩?",
+  "chapter": 38,
+  "translation": "Quem depositou Jojmá ⟨nas⟩ entranhas, ou quem deu Biná ao שֶׂכְוִי?",
   "tokens": [
     {
-      "surface": "מי",
+      "surface": "מִי",
       "gloss": "Quem"
     },
     {
-      "surface": "שת",
-      "gloss": "colocou"
+      "surface": "שָׁ֭ת",
+      "gloss": "depositou"
     },
     {
-      "surface": "בטחות",
-      "gloss": "⟨a⟩ sabedoria nas partes internas"
+      "surface": "בַּטֻּח֣וֹת",
+      "gloss": "⟨nas⟩ entranhas"
     },
     {
-      "surface": "חכמה",
+      "surface": "חָכְמָ֑ה",
       "gloss": "Jojmá"
     },
     {
-      "surface": "או",
+      "surface": "א֤וֹ",
       "gloss": "ou"
     },
     {
-      "surface": "מי",
+      "surface": "מִֽי",
       "gloss": "quem"
     },
     {
-      "surface": "נתן",
+      "surface": "נָתַ֖ן",
       "gloss": "deu"
     },
     {
-      "surface": "לשכוי",
-      "gloss": "⟨o⟩ entendimento à mente"
+      "surface": "לַשֶּׂ֣כְוִי",
+      "gloss": "ao שֶׂכְוִי"
     },
     {
-      "surface": "בינה",
+      "surface": "בִינָֽה",
       "gloss": "Biná"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "sabedoria",
-      "to": "Jojmá",
-      "token-index": 3,
-      "strongs": 2451,
-      "hebrew": "חכמה"
-    },
-    {
-      "from": "entendimento",
-      "to": "Biná",
-      "token-index": 8,
-      "strongs": 998,
-      "hebrew": "בינה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:18:45.076061545Z",
+  "model": "glm-5.2"
 }

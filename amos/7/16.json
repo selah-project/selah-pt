@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "amos 7:16",
   "book": "amos",
-  "chapter": 7,
-  "verse": 16,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T09:10:29.727713403Z",
-  "translation": "E agora ouve ⟨את⟩ palavra de YHWH: tu estás dizendo, não profetizarás ⟨את⟩ sobre Yisrael, e não gotejarás ⟨את⟩ sobre casa de Isaque",
+  "chapter": 7,
+  "translation": "E agora, escuta ⟨o⟩ davar de YHWH: tu ⟨és o que⟩ dizes: 'Não profetizarás contra Yisrael e não destilarás ⟨palavra⟩ contra ⟨a⟩ casa de Yitzjak.'",
   "tokens": [
     {
       "surface": "ועתה",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "שמע",
-      "gloss": "ouve"
+      "gloss": "escuta"
     },
     {
       "surface": "דבר",
-      "gloss": "palavra"
+      "gloss": "⟨o⟩ davar"
     },
     {
       "surface": "יהוה",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "אמר",
-      "gloss": "estás dizendo"
+      "gloss": "dizes"
     },
     {
       "surface": "לא",
-      "gloss": "não"
+      "gloss": "Não"
     },
     {
       "surface": "תנבא",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "על",
-      "gloss": "sobre"
+      "gloss": "contra"
     },
     {
       "surface": "ישראל",
@@ -55,31 +53,21 @@
     },
     {
       "surface": "תטיף",
-      "gloss": "gotejarás"
+      "gloss": "destilarás"
     },
     {
       "surface": "על",
-      "gloss": "sobre"
+      "gloss": "contra"
     },
     {
       "surface": "בית",
-      "gloss": "casa"
+      "gloss": "⟨a⟩ casa"
     },
     {
       "surface": "ישחק",
-      "gloss": "de Isaque"
+      "gloss": "de Yitzjak"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 9,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:05:07.599248631Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "2-kings 6:2",
   "book": "2-kings",
-  "chapter": 6,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-14T04:42:37.000195877Z",
-  "translation": "Vamos, peço, até o Jordão, e tomemos dali ⟨o⟩ homem ⟨uma⟩ viga, e façamos para nós ⟨um⟩ lugar lá para habitar lá. E disse: Ide.",
+  "chapter": 6,
+  "translation": "Vamos, peço-te, até o Yardén, e tomemos dali cada um ⟨uma⟩ viga ⟨את⟩ uma, e façamos para nós lá ⟨um⟩ lugar para habitar lá. E ⟨ele⟩ disse: Ide.",
   "tokens": [
     {
       "surface": "נלכה",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "peço"
+      "gloss": "peço-te"
     },
     {
       "surface": "עד",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "o Jordão"
+      "gloss": "o Yardén"
     },
     {
       "surface": "ונקחה",
@@ -35,15 +33,16 @@
     },
     {
       "surface": "איש",
-      "gloss": "⟨o⟩ homem"
+      "gloss": "cada um"
     },
     {
       "surface": "קורה",
-      "gloss": "⟨uma⟩ viga"
+      "gloss": "viga"
     },
     {
       "surface": "אחת",
-      "gloss": ""
+      "gloss": "⟨את⟩ uma",
+      "marks": "uma viga"
     },
     {
       "surface": "ונעשה",
@@ -59,7 +58,7 @@
     },
     {
       "surface": "מקום",
-      "gloss": "⟨um⟩ lugar"
+      "gloss": "lugar"
     },
     {
       "surface": "לשבת",
@@ -71,11 +70,13 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "E disse"
+      "gloss": "e ⟨ele⟩ disse"
     },
     {
       "surface": "לכו",
       "gloss": "Ide"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:36:08.851132042Z",
+  "model": "glm-5.2"
 }

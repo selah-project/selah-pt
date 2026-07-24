@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "esther 5:12",
   "book": "esther",
-  "chapter": 5,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:41:05.454362349Z",
-  "translation": "E Haman disse: ⟨É⟩, ⟨a⟩ rainha Ester não trouxe ⟨ninguém⟩ com ⟨o⟩ rei ⟨ao⟩ banquete que ela fez, exceto ⟨a⟩ mim; e também ⟨para⟩ amanhã ⟨eu⟩ ⟨estou⟩ sendo chamado ⟨por⟩ ela com ⟨o⟩ rei.",
+  "chapter": 5,
+  "translation": "E Hamán disse: Além disso, Ester ⟨a⟩ rainha não trouxe ⟨ninguém⟩ com ⟨o⟩ rei ao banquete que ⟨ela⟩ preparou, senão ⟨a⟩ mim; e também amanhã eu ⟨estou⟩ convidado ⟨a⟩ ⟨ela⟩ com ⟨o⟩ rei.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E ... disse"
+      "gloss": "e disse"
     },
     {
       "surface": "המן",
-      "gloss": "Haman"
+      "gloss": "Hamán"
     },
     {
       "surface": "אף",
-      "gloss": "⟨É⟩"
+      "gloss": "além disso"
     },
     {
       "surface": "לא",
@@ -47,11 +45,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨ao⟩"
+      "gloss": "a"
     },
     {
       "surface": "המשתה",
-      "gloss": "banquete"
+      "gloss": "⟨o⟩ banquete"
     },
     {
       "surface": "אשר",
@@ -59,20 +57,20 @@
     },
     {
       "surface": "עשתה",
-      "gloss": "ela fez"
+      "gloss": "preparou"
     },
     {
       "surface": "כי",
-      "gloss": "exceto"
+      "gloss": "pois"
     },
     {
       "surface": "אם",
-      "gloss": "⟨a⟩"
+      "gloss": "senão"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨a⟩ mim",
-      "marks": "וגם"
+      "gloss": "⟨את⟩",
+      "marks": "a mim"
     },
     {
       "surface": "וגם",
@@ -80,19 +78,19 @@
     },
     {
       "surface": "למחר",
-      "gloss": "⟨para⟩ amanhã"
+      "gloss": "amanhã"
     },
     {
       "surface": "אני",
-      "gloss": "⟨eu⟩"
+      "gloss": "eu"
     },
     {
       "surface": "קרוא",
-      "gloss": "⟨estou⟩ sendo chamado"
+      "gloss": "convidado"
     },
     {
       "surface": "לה",
-      "gloss": "⟨por⟩ ela"
+      "gloss": "a ⟨ela⟩"
     },
     {
       "surface": "עם",
@@ -103,8 +101,6 @@
       "gloss": "⟨o⟩ rei"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:22:27.338593456Z",
+  "model": "glm-5.2"
 }

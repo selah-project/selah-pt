@@ -1,18 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "leviticus 8:20",
   "book": "leviticus",
-  "chapter": 8,
-  "verse": 20,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:39:24.815165228Z",
-  "translation": "e ele cortou o carneiro em seus pedaços, e Moshé fez fumaçar ⟨את⟩ a cabeça, e ⟨את⟩ os pedaços, e ⟨את⟩ a gordura",
+  "chapter": 8,
+  "translation": "E ⟨את⟩ o carneiro foi cortado em seus pedaços, e Moshé queimou ⟨את⟩ a cabeça, e ⟨את⟩ os pedaços, e ⟨את⟩ a gordura.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "e ⟨את⟩",
-      "marks": "האיל"
+      "gloss": "⟨את⟩",
+      "marks": "o carneiro"
     },
     {
       "surface": "האיל",
@@ -20,7 +18,7 @@
     },
     {
       "surface": "נתח",
-      "gloss": "cortou"
+      "gloss": "cortou em pedaços"
     },
     {
       "surface": "לנתחיו",
@@ -28,7 +26,7 @@
     },
     {
       "surface": "ויקטר",
-      "gloss": "e Moshé fez fumaçar"
+      "gloss": "e queimou"
     },
     {
       "surface": "משה",
@@ -37,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הראש"
+      "marks": "a cabeça"
     },
     {
       "surface": "הראש",
@@ -45,8 +43,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨את⟩",
-      "marks": "הנתחים"
+      "gloss": "⟨את⟩",
+      "marks": "os pedaços"
     },
     {
       "surface": "הנתחים",
@@ -54,12 +52,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨את⟩",
-      "marks": "הפדר"
+      "gloss": "⟨את⟩",
+      "marks": "a gordura"
     },
     {
       "surface": "הפדר",
       "gloss": "a gordura"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:48:15.100287392Z",
+  "model": "glm-5.2"
 }

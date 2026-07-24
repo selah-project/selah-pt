@@ -1,37 +1,36 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "genesis 17:3",
   "book": "genesis",
-  "chapter": 17,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T23:56:59.090669335Z",
-  "translation": "E Avraham caiu ⟨sobre⟩ o seu rosto ⟨e⟩ Elohim falou ⟨com⟩ ele dizendo:",
+  "chapter": 17,
+  "translation": "E Avram caiu sobre sua face, e Elohim falou ⟨com⟩ ele, dizendo:",
   "tokens": [
     {
       "surface": "ויפל",
-      "gloss": "E Avraham caiu"
+      "gloss": "E caiu"
     },
     {
       "surface": "אברם",
-      "gloss": "Avraham"
+      "gloss": "Avram"
     },
     {
       "surface": "על",
-      "gloss": "⟨sobre⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "פניו",
-      "gloss": "o seu rosto"
+      "gloss": "sua face"
     },
     {
       "surface": "וידבר",
-      "gloss": "⟨e⟩ Elohim falou"
+      "gloss": "e falou"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨com⟩ ele"
+      "gloss": "⟨את⟩ ele",
+      "marks": "ele"
     },
     {
       "surface": "אלהים",
@@ -39,11 +38,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "dizendo:"
+      "gloss": "dizendo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:29:11.797409569Z",
+  "model": "glm-5.2"
 }

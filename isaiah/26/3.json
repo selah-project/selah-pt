@@ -1,37 +1,35 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "isaiah 26:3",
   "book": "isaiah",
-  "chapter": 26,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:32:09.088471204Z",
-  "translation": "A mente ⟨que⟩ tu sustentas ⟨את⟩ tu guardarás em Shalom perfeita, Shalom! Porque em ti ⟨ela⟩ ⟨é⟩ confiante.",
+  "chapter": 26,
+  "translation": "O propósito firme — ⟨tu⟩ guardarás ⟨o⟩ shalom, ⟨o⟩ shalom; pois em ti ⟨está⟩ confiando.",
   "tokens": [
     {
       "surface": "יצר",
-      "gloss": "A mente"
+      "gloss": "O propósito firme"
     },
     {
       "surface": "סמוך",
-      "gloss": "⟨que⟩ tu sustentas"
+      "gloss": "apoiado"
     },
     {
       "surface": "תצר",
-      "gloss": "tu guardarás"
+      "gloss": "⟨tu⟩ guardarás"
     },
     {
       "surface": "שלום",
-      "gloss": "em Shalom perfeita"
+      "gloss": "⟨o⟩ shalom"
     },
     {
       "surface": "שלום",
-      "gloss": "Shalom"
+      "gloss": "⟨o⟩ shalom"
     },
     {
       "surface": "כי",
-      "gloss": "Porque"
+      "gloss": "pois"
     },
     {
       "surface": "בך",
@@ -39,26 +37,9 @@
     },
     {
       "surface": "בטוח",
-      "gloss": "⟨ela⟩ ⟨é⟩ confiante"
+      "gloss": "confiando"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "paz",
-      "to": "Shalom",
-      "token-index": 3,
-      "strongs": 7965,
-      "hebrew": "שלום"
-    },
-    {
-      "from": "paz",
-      "to": "Shalom",
-      "token-index": 4,
-      "strongs": 7965,
-      "hebrew": "שלום"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:42:33.141945874Z",
+  "model": "glm-5.2"
 }

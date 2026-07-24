@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "1-kings 22:4",
   "book": "1-kings",
-  "chapter": 22,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T05:44:31.896154407Z",
-  "translation": "E ele disse a Yehoshafat: ⟨Tu⟩ irás ⟨comigo⟩ ⟨à⟩ guerra ⟨em⟩ Ramot ⟨de⟩ Gilad? E Yehoshafat disse ⟨ao⟩ rei de Yisrael: ⟨Eu sou⟩ como ⟨tu⟩, ⟨meu⟩ povo como ⟨teu⟩ povo, ⟨meus⟩ cavalos como ⟨teus⟩ cavalos.",
+  "chapter": 22,
+  "translation": "E disse a Yehoshafat: Irás ⟨tu⟩ comigo à guerra ⟨em⟩ Ramot-Guilad? E Yehoshafat disse ao rei de Yisrael: Como eu, assim ⟨és⟩ tu; como meu povo, ⟨assim é⟩ o teu povo; como meus cavalos, ⟨assim são⟩ os teus cavalos.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E ele disse"
+      "gloss": "E disse"
     },
     {
       "surface": "אל",
@@ -23,27 +21,27 @@
     },
     {
       "surface": "התלך",
-      "gloss": "⟨Tu⟩ irás"
+      "gloss": "Irás"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨comigo⟩"
+      "gloss": "comigo"
     },
     {
       "surface": "למלחמה",
-      "gloss": "⟨à⟩ guerra"
+      "gloss": "à guerra"
     },
     {
       "surface": "רמת",
-      "gloss": "⟨em⟩ Ramot"
+      "gloss": "Ramot"
     },
     {
       "surface": "גלעד",
-      "gloss": "⟨de⟩ Gilad"
+      "gloss": "Guilad"
     },
     {
       "surface": "ויאמר",
-      "gloss": "E Yehoshafat disse"
+      "gloss": "E disse"
     },
     {
       "surface": "יהושפט",
@@ -51,11 +49,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨ao⟩"
+      "gloss": "a"
     },
     {
       "surface": "מלך",
-      "gloss": "rei"
+      "gloss": "o rei"
     },
     {
       "surface": "ישראל",
@@ -63,39 +61,29 @@
     },
     {
       "surface": "כמוני",
-      "gloss": "⟨Eu sou⟩ como ⟨tu⟩"
+      "gloss": "Como eu"
     },
     {
       "surface": "כמוך",
-      "gloss": "como ⟨tu⟩"
+      "gloss": "assim ⟨és⟩ tu"
     },
     {
       "surface": "כעמי",
-      "gloss": "⟨meu⟩ povo"
+      "gloss": "como meu povo"
     },
     {
       "surface": "כעמך",
-      "gloss": "como ⟨teu⟩ povo"
+      "gloss": "o teu povo"
     },
     {
       "surface": "כסוסי",
-      "gloss": "⟨meus⟩ cavalos"
+      "gloss": "como meus cavalos"
     },
     {
       "surface": "כסוסיך",
-      "gloss": "como ⟨teus⟩ cavalos"
+      "gloss": "os teus cavalos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 12,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:39:58.937257638Z",
+  "model": "glm-5.2"
 }

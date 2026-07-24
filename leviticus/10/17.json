@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "leviticus 10:17",
   "book": "leviticus",
-  "chapter": 10,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:41:19.277811757Z",
-  "translation": "Por que não comestes ⟨o⟩ ⟨את⟩ sacrifício pelo pecado no lugar ⟨o⟩ santuário, pois santíssimo ⟨é⟩, e ⟨ele⟩ ⟨o⟩ deu a vós para levar ⟨o⟩ ⟨את⟩ perversidade ⟨da⟩ congregação, para cobrir sobre eles diante de YHWH",
+  "chapter": 10,
+  "translation": "Por que não comestes ⟨את⟩ o Jatat no lugar santo? Pois ⟨é⟩ qódesh qodashim, ⟨e⟩ ⟨את⟩ ⟨isto⟩ deu a vós para levar a iniquidade da congregação, para fazer kapar sobre eles diante de YHWH.",
   "tokens": [
     {
       "surface": "מדוע",
@@ -24,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sacrifício pelo pecado"
+      "marks": "o Jatat"
     },
     {
       "surface": "החטאת",
-      "gloss": "sacrifício pelo pecado"
+      "gloss": "o Jatat"
     },
     {
       "surface": "במקום",
@@ -36,19 +34,19 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "⟨o⟩ santuário"
-    },
-    {
-      "surface": "כי",
-      "gloss": "pois"
-    },
-    {
-      "surface": "קדש",
       "gloss": "santo"
     },
     {
+      "surface": "כי",
+      "gloss": "Pois"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qódesh"
+    },
+    {
       "surface": "קדשים",
-      "gloss": "santíssimo"
+      "gloss": "qodashim"
     },
     {
       "surface": "הוא",
@@ -56,7 +54,8 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "e ⟨o⟩"
+      "gloss": "⟨e⟩ ⟨את⟩ ⟨isto⟩",
+      "marks": "o fato de dar"
     },
     {
       "surface": "נתן",
@@ -73,19 +72,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "perversidade"
+      "marks": "a iniquidade"
     },
     {
       "surface": "עון",
-      "gloss": "perversidade"
+      "gloss": "a iniquidade"
     },
     {
       "surface": "העדה",
-      "gloss": "⟨da⟩ congregação"
+      "gloss": "da congregação"
     },
     {
       "surface": "לכפר",
-      "gloss": "para cobrir"
+      "gloss": "para fazer kapar"
     },
     {
       "surface": "עליהם",
@@ -99,5 +98,7 @@
       "surface": "יהוה",
       "gloss": "YHWH"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:48:41.246971704Z",
+  "model": "glm-5.2"
 }

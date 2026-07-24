@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "lamentations 5:11",
   "book": "lamentations",
-  "chapter": 5,
-  "verse": 11,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:28:22.496268523Z",
-  "translation": "Mulheres em Sião ⟨foram⟩ humilhadas ⟨את⟩, virgens nas cidades ⟨de⟩ Yehudá.",
+  "chapter": 5,
+  "translation": "Mulheres em Tzion humilharam ⟨eles⟩, virgens nas cidades de Yehudá.",
   "tokens": [
     {
       "surface": "נשים",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "בציון",
-      "gloss": "em Sião"
+      "gloss": "em Tzion"
     },
     {
       "surface": "ענו",
-      "gloss": "⟨foram⟩ humilhadas"
+      "gloss": "humilharam"
     },
     {
       "surface": "בתלת",
@@ -27,23 +25,13 @@
     },
     {
       "surface": "בערי",
-      "gloss": "nas cidades ⟨de⟩"
+      "gloss": "nas cidades de"
     },
     {
-      "surface": "בערי",
+      "surface": "יהודה",
       "gloss": "Yehudá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 5,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:20:28.951371611Z",
+  "model": "glm-5.2"
 }

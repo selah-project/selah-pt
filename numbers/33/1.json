@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "numbers 33:1",
   "book": "numbers",
-  "chapter": 33,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:46:00.646928082Z",
-  "translation": "Estas ⟨são⟩ as jornadas dos filhos de Yisrael, que saíram da terra do Mitzráyim ⟨por⟩ seus exércitos, sob ⟨a⟩ mão de Moshé e ⟨de⟩ Aharon ⟨את⟩",
+  "chapter": 33,
+  "translation": "Estas são as jornadas dos filhos de Yisrael, que saíram da terra de Mitzráyim por seus exércitos, ⟨sob⟩ ⟨a⟩ mão de Moshé e de Aharon.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Estas"
+      "gloss": "estas"
     },
     {
       "surface": "מסעי",
-      "gloss": "as jornadas"
+      "gloss": "são as jornadas"
     },
     {
       "surface": "בני",
@@ -39,15 +37,15 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "do Mitzráyim"
+      "gloss": "de Mitzráyim"
     },
     {
       "surface": "לצבאתם",
-      "gloss": "⟨por⟩ seus exércitos"
+      "gloss": "por seus exércitos"
     },
     {
       "surface": "ביד",
-      "gloss": "sob ⟨a⟩ mão"
+      "gloss": "⟨sob⟩ ⟨a⟩ mão"
     },
     {
       "surface": "משה",
@@ -55,33 +53,9 @@
     },
     {
       "surface": "ואהרן",
-      "gloss": "e ⟨de⟩ Aharon"
+      "gloss": "e de Aharon"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 3,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Egito",
-      "to": "Mitzráyim",
-      "token-index": 7,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    },
-    {
-      "from": "Moshe",
-      "to": "Moshé",
-      "token-index": 10,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:38:23.172928706Z",
+  "model": "glm-5.2"
 }

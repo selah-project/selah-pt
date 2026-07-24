@@ -1,41 +1,37 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "psalms 69:22",
   "book": "psalms",
-  "chapter": 69,
-  "verse": 22,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:40:49.951173202Z",
-  "translation": "E deram-me ⟨את⟩ rosh por ⟨meu⟩ sustento e por ⟨minha⟩ sede deram-me ⟨para⟩ beber jémetz",
+  "chapter": 69,
+  "translation": "E deram ⟨⟩ na minha comida fel, e na minha sede me deram a beber vinagre.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "E deram-me"
+      "gloss": "E deram"
     },
     {
       "surface": "בברותי",
-      "gloss": "por ⟨meu⟩ sustento",
-      "notes": "substitution: b'rioti (em minha paz\/bem-estar) é traduzido contextualmente como sustento, ecoando a 'comida' do versículo anterior"
+      "gloss": "na minha comida"
     },
     {
       "surface": "ראש",
-      "gloss": "rosh",
-      "notes": "substitution: rosh (cabeça) é aqui uma planta venenosa (provavelmente papoula); transliterado para preservar o sentido hebraico distinto de 'veneno' genérico"
+      "gloss": "fel"
     },
     {
       "surface": "ולצמאי",
-      "gloss": "e por ⟨minha⟩ sede"
+      "gloss": "e na minha sede"
     },
     {
       "surface": "ישקוני",
-      "gloss": "deram-me ⟨para⟩ beber",
-      "notes": "elision: a raiz shaqah significa beber; a forma causativa e os pronomes são fundidos na tradução 'deram-me para beber'"
+      "gloss": "me deram a beber"
     },
     {
       "surface": "חמץ",
-      "gloss": "jémetz",
-      "notes": "substitution: jémetz (vinagre\/azedo) é transliterado para preservar o termo específico do Tanaj"
+      "gloss": "vinagre"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:10:43.292956710Z",
+  "model": "glm-5.2"
 }

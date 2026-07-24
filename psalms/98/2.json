@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "psalms 98:2",
   "book": "psalms",
-  "chapter": 98,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:44:32.566423626Z",
-  "translation": "HaShem fez conhecer suYeshuá ⟨את⟩ ⟨o⟩ ⟨a⟩ sua justiça Ele revelou diante dos povos",
+  "chapter": 98,
+  "translation": "YHWH fez conhecer Sua Yeshuá; perante os olhos das nações Ele revelou Sua tsedaká.",
   "tokens": [
     {
       "surface": "הודיע",
-      "gloss": "Fez conhecer"
+      "gloss": "fez conhecer"
     },
     {
       "surface": "יהוה",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "ישועתו",
-      "gloss": "suYeshuá"
+      "gloss": "Sua Yeshuá"
     },
     {
       "surface": "לעיני",
-      "gloss": "diante"
+      "gloss": "perante os olhos"
     },
     {
       "surface": "הגוים",
-      "gloss": "dos povos"
+      "gloss": "das nações"
     },
     {
       "surface": "גלה",
@@ -35,19 +33,9 @@
     },
     {
       "surface": "צדקתו",
-      "gloss": "a sua justiça"
+      "gloss": "Sua tsedaká"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "a salvação",
-      "to": "Yeshuá",
-      "token-index": 2,
-      "strongs": 3444,
-      "hebrew": "ישועה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:11:36.082102679Z",
+  "model": "glm-5.2"
 }

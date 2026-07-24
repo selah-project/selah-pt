@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "jeremiah 40:7",
   "book": "jeremiah",
-  "chapter": 40,
-  "verse": 7,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:45:04.724535001Z",
-  "translation": "E ouviram todos os comandantes ⟨das⟩ forças que ⟨estavam⟩ no campo, eles e seus homens, que o rei da Bavel havia confiado ⟨a⟩ Gedalias ⟨como⟩ governador sobre a terra, e que havia confiado com ele homens, mulheres e crianças, e os pobres da terra que não haviam sido exilados para a Bavel.",
+  "chapter": 40,
+  "translation": "E ouviram todos os líderes das tropas que ⟨estavam⟩ no campo — eles e os seus homens — que o rei de Bavel havia designado ⟨את⟩ Guedalyahu, ben de Ajikam, sobre a terra, e que havia confiado a ele homens, e mulheres, e crianças, e dos pobres da terra — daqueles que não foram exilados para Bavel.",
   "tokens": [
     {
       "surface": "וישמעו",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "שרי",
-      "gloss": "comandantes"
+      "gloss": "os líderes"
     },
     {
       "surface": "החילים",
-      "gloss": "⟨das⟩ forças"
+      "gloss": "das tropas"
     },
     {
       "surface": "אשר",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "⟨estavam⟩ no campo"
+      "gloss": "no campo"
     },
     {
       "surface": "המה",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "ואנשיהם",
-      "gloss": "e seus homens"
+      "gloss": "e os seus homens"
     },
     {
       "surface": "כי",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "הפקיד",
-      "gloss": "havia confiado"
+      "gloss": "havia designado"
     },
     {
       "surface": "מלך",
@@ -55,28 +53,28 @@
     },
     {
       "surface": "בבל",
-      "gloss": "da Bavel"
+      "gloss": "de Bavel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gedalias"
+      "marks": "Guedalyahu, ben de Ajikam"
     },
     {
       "surface": "גדליהו",
-      "gloss": "Gedalias"
+      "gloss": "Guedalyahu"
     },
     {
       "surface": "בן",
-      "gloss": "⟨como⟩"
+      "gloss": "ben"
     },
     {
       "surface": "אחיקם",
-      "gloss": "governador sobre"
+      "gloss": "de Ajikam"
     },
     {
       "surface": "בארץ",
-      "gloss": "a terra"
+      "gloss": "sobre a terra"
     },
     {
       "surface": "וכי",
@@ -88,7 +86,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "com ele"
+      "gloss": "a ele"
     },
     {
       "surface": "אנשים",
@@ -104,7 +102,7 @@
     },
     {
       "surface": "ומדלת",
-      "gloss": "e os pobres"
+      "gloss": "e dos pobres"
     },
     {
       "surface": "הארץ",
@@ -112,7 +110,7 @@
     },
     {
       "surface": "מאשר",
-      "gloss": "que"
+      "gloss": "daqueles que"
     },
     {
       "surface": "לא",
@@ -120,30 +118,13 @@
     },
     {
       "surface": "הגלו",
-      "gloss": "haviam sido exilados"
+      "gloss": "foram exilados"
     },
     {
       "surface": "בבלה",
-      "gloss": "para a Bavel"
+      "gloss": "para Bavel"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Babilônia",
-      "to": "Bavel",
-      "token-index": 11,
-      "strongs": 894,
-      "hebrew": "בבל"
-    },
-    {
-      "from": "Babilônia",
-      "to": "Bavel",
-      "token-index": 28,
-      "strongs": 894,
-      "hebrew": "בבל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:53:28.781170495Z",
+  "model": "glm-5.2"
 }

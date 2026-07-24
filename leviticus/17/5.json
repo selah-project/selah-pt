@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "leviticus 17:5",
   "book": "leviticus",
-  "chapter": 17,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:46:50.231360490Z",
-  "translation": "Para o fim de que os filhos de Yisrael tragam ⟨os⟩ seus sacrifícios, que eles estão oferecendo sobre a face ⟨do⟩ campo, e os tragam a YHWH, à entrada ⟨da⟩ tenda ⟨da⟩ reunião, ao kohen, e ofereçam sacrifícios de shelamim a YHWH, ⟨את⟩ eles",
+  "chapter": 17,
+  "translation": "Para que os bnei-Yisrael tragam os seus zevajim que ⟨eles⟩ sacrificam sobre a face do campo, e os tragam a YHWH, à entrada da Tenda do Encontro, ao kohen; e sacrifiquem-nos como zevê shelamim a YHWH ⟨את⟩-eles.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "Para o fim de que"
+      "gloss": "para que"
     },
     {
       "surface": "אשר",
-      "gloss": "que"
+      "gloss": "(conector)"
     },
     {
       "surface": "יביאו",
@@ -32,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "os seus sacrifícios"
+      "marks": "seus zevajim"
     },
     {
       "surface": "זבחיהם",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "זבחים",
-      "gloss": "estão oferecendo"
+      "gloss": "sacrificam"
     },
     {
       "surface": "על",
@@ -72,31 +70,31 @@
     },
     {
       "surface": "אל",
-      "gloss": "à"
+      "gloss": "a"
     },
     {
       "surface": "פתח",
-      "gloss": "entrada"
+      "gloss": "a entrada de"
     },
     {
       "surface": "אהל",
-      "gloss": "da tenda de"
+      "gloss": "a Tenda de"
     },
     {
       "surface": "מועד",
-      "gloss": "reunião"
+      "gloss": "Encontro"
     },
     {
       "surface": "אל",
-      "gloss": "ao"
+      "gloss": "a"
     },
     {
       "surface": "הכהן",
-      "gloss": "kohen"
+      "gloss": "o sacerdote"
     },
     {
       "surface": "וזבחו",
-      "gloss": "e ofereçam"
+      "gloss": "e sacrifiquem"
     },
     {
       "surface": "זבחי",
@@ -104,7 +102,7 @@
     },
     {
       "surface": "שלמים",
-      "gloss": "shelamim"
+      "gloss": "paz"
     },
     {
       "surface": "ליהוה",
@@ -112,8 +110,10 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ eles",
-      "marks": "os sacrifícios (referentes)"
+      "gloss": "⟨את⟩-eles",
+      "marks": "o referente dos zevê shelamim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:50:22.930396188Z",
+  "model": "glm-5.2"
 }

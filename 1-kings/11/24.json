@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 24,
   "ref": "1-kings 11:24",
   "book": "1-kings",
-  "chapter": 11,
-  "verse": 24,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T05:26:54.462434575Z",
-  "translation": "E congregou ⟨sobre⟩ ele homens, e se tornou chefe ⟨de⟩ ⟨uma⟩ tropa ⟨quando⟩ Davidd ⟨a⟩ ⟨matava⟩, ⟨então⟩ eles foram ⟨para⟩ Damesek, e habitaram ⟨em⟩ ela, e reinaram ⟨em⟩ Damesek.",
+  "chapter": 11,
+  "translation": "E reuniu ⟨ao seu redor⟩ homens, e foi chefe de uma tropa de ataque quando David os matou ⟨את⟩; e foram para Damesek e habitaram nela, e reinaram em Damesek.",
   "tokens": [
     {
       "surface": "ויקבץ",
-      "gloss": "E congregou"
+      "gloss": "e reuniu"
     },
     {
       "surface": "עליו",
-      "gloss": "⟨sobre⟩ ele"
+      "gloss": "ao seu redor"
     },
     {
       "surface": "אנשים",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "e se tornou"
+      "gloss": "e foi"
     },
     {
       "surface": "שר",
@@ -31,28 +29,28 @@
     },
     {
       "surface": "גדוד",
-      "gloss": "⟨de⟩ ⟨uma⟩ tropa"
+      "gloss": "de uma tropa de ataque"
     },
     {
       "surface": "בהרג",
-      "gloss": "⟨quando⟩"
+      "gloss": "quando matou"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨a⟩ ⟨matava⟩",
-      "marks": "וילכו"
+      "gloss": "⟨את⟩",
+      "marks": "eles"
     },
     {
       "surface": "וילכו",
-      "gloss": "⟨então⟩ eles foram"
+      "gloss": "e foram"
     },
     {
       "surface": "דמשק",
-      "gloss": "⟨para⟩ Damesek"
+      "gloss": "para Damesek"
     },
     {
       "surface": "וישבו",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "⟨em⟩ ela"
+      "gloss": "nela"
     },
     {
       "surface": "וימלכו",
@@ -68,26 +66,9 @@
     },
     {
       "surface": "בדמשק",
-      "gloss": "⟨em⟩ Damasco"
+      "gloss": "em Damesek"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 7,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Damasco",
-      "to": "Damesek",
-      "token-index": 10,
-      "strongs": 1834,
-      "hebrew": "דמשק"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:32:16.774403911Z",
+  "model": "glm-5.2"
 }

@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "exodus 10:11",
   "book": "exodus",
-  "chapter": 10,
-  "verse": 11,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:47:51.787263724Z",
-  "translation": "Não ⟨é⟩ assim; ide, ⟨os⟩ homens, e servi a YHWH, pois ⟨é⟩ isso que vós buscais; e foram expulsos de diante da presença de Faraó.",
+  "chapter": 10,
+  "translation": "Não ⟨assim⟩; ide agora ⟨vós⟩, os homens, e servi a ⟨את⟩ YHWH, porque ⟨é a⟩ ⟨isso⟩ que ⟨vós⟩ buscais; e ⟨ele⟩ os expulsou de diante da face de Paró.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Não"
+      "gloss": "não"
     },
     {
       "surface": "כן",
-      "gloss": "⟨é⟩ assim"
+      "gloss": "assim"
     },
     {
       "surface": "לכו",
@@ -23,11 +21,11 @@
     },
     {
       "surface": "נא",
-      "gloss": ""
+      "gloss": "agora"
     },
     {
       "surface": "הגברים",
-      "gloss": "⟨os⟩ homens"
+      "gloss": "os homens"
     },
     {
       "surface": "ועבדו",
@@ -44,15 +42,16 @@
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨é⟩ isso"
+      "gloss": "⟨a⟩ ⟨isso⟩",
+      "marks": "vós"
     },
     {
       "surface": "אתם",
-      "gloss": "que vós"
+      "gloss": "vós"
     },
     {
       "surface": "מבקשים",
@@ -60,24 +59,26 @@
     },
     {
       "surface": "ויגרש",
-      "gloss": "e foram expulsos"
+      "gloss": "e ⟨ele⟩ expulsou"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "de diante"
+      "marks": "eles"
     },
     {
       "surface": "מאת",
-      "gloss": "de diante"
+      "gloss": "de"
     },
     {
       "surface": "פני",
-      "gloss": "da presença"
+      "gloss": "diante da face"
     },
     {
       "surface": "פרעה",
-      "gloss": "de Faraó"
+      "gloss": "Paró"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:39:46.309003449Z",
+  "model": "glm-5.2"
 }

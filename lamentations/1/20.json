@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "lamentations 1:20",
   "book": "lamentations",
-  "chapter": 1,
-  "verse": 20,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:32:45.324522499Z",
-  "translation": "Vê, ó YHWH, pois ⟨estou⟩ em angústia; as minhas entranhas estão fervendo; o meu coração se voltou dentro de mim, pois me rebeli amargamente; ⟨ao⟩ de fora, a espada privou de filhos, ⟨em⟩ casa ⟨é⟩ como a morte.",
+  "chapter": 1,
+  "translation": "Vê, ó YHWH, porque ⟨estou⟩ em angústia; as minhas entranhas fervem; o meu coração se virou dentro de mim, porque amargamente me rebeli; por fora a espada ceifa, dentro de casa ⟨há⟩ como a morte.",
   "tokens": [
     {
       "surface": "ראה",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "צר",
-      "gloss": "⟨estou⟩ em angústia"
+      "gloss": "em angústia"
     },
     {
       "surface": "לי",
-      "gloss": ""
+      "gloss": "⟨estou⟩ eu"
     },
     {
       "surface": "מעי",
@@ -35,11 +33,11 @@
     },
     {
       "surface": "חמרמרו",
-      "gloss": "estão fervendo"
+      "gloss": "fervem"
     },
     {
       "surface": "נהפך",
-      "gloss": "se voltou"
+      "gloss": "se virou"
     },
     {
       "surface": "לבי",
@@ -51,23 +49,23 @@
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "מרו",
-      "gloss": "me rebeli"
-    },
-    {
-      "surface": "מריתי",
       "gloss": "amargamente"
     },
     {
+      "surface": "מריתי",
+      "gloss": "me rebeli"
+    },
+    {
       "surface": "מחוץ",
-      "gloss": "⟨ao⟩ de fora"
+      "gloss": "por fora"
     },
     {
       "surface": "שכלה",
-      "gloss": "privou de filhos"
+      "gloss": "ceifa"
     },
     {
       "surface": "חרב",
@@ -75,11 +73,13 @@
     },
     {
       "surface": "בבית",
-      "gloss": "⟨em⟩ casa"
+      "gloss": "dentro de casa"
     },
     {
       "surface": "כמות",
-      "gloss": "⟨é⟩ como a morte"
+      "gloss": "como a morte"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:20:11.537751489Z",
+  "model": "glm-5.2"
 }

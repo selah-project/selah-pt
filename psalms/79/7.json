@@ -1,42 +1,43 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "psalms 79:7",
   "book": "psalms",
-  "chapter": 79,
-  "verse": 7,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:42:27.568583789Z",
-  "translation": "Porque devoraram Yaakov, e ⟨את⟩ a morada dele devastaram.",
+  "chapter": 79,
+  "translation": "Pois devoraram ⟨את⟩ Yaakov, e ⟨את⟩ a sua habitação assolaram.",
   "tokens": [
     {
-      "surface": "כי",
-      "gloss": "Porque"
+      "surface": "כִּ֭י",
+      "gloss": "Pois"
     },
     {
-      "surface": "אכל",
+      "surface": "אָכַ֣ל",
       "gloss": "devoraram"
     },
     {
-      "surface": "את",
+      "surface": "אֶֽת",
       "gloss": "⟨את⟩",
-      "marks": "a morada dele"
+      "marks": "Yaakov"
     },
     {
-      "surface": "יעקב",
+      "surface": "יַעֲקֹ֑ב",
       "gloss": "Yaakov"
     },
     {
-      "surface": "ואת",
-      "gloss": "e"
+      "surface": "וְֽאֶת",
+      "gloss": "e ⟨את⟩",
+      "marks": "a sua habitação"
     },
     {
-      "surface": "נוהו",
-      "gloss": "a morada dele"
+      "surface": "נָוֵ֥הוּ",
+      "gloss": "a sua habitação"
     },
     {
-      "surface": "השמו",
-      "gloss": "devastaram"
+      "surface": "הֵשַֽׁמּוּ",
+      "gloss": "assolaram"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:11:02.505928038Z",
+  "model": "glm-5.2"
 }

@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "leviticus 18:4",
   "book": "leviticus",
-  "chapter": 18,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:46:55.350816761Z",
-  "translation": "Meus juízos fareis e ⟨את⟩ meus estatutos guardareis para andar neles; eu sou YHWH vosso Elohim.",
+  "chapter": 18,
+  "translation": "⟨את⟩ meus juízes fareis, e ⟨את⟩ meus estatutos guardareis, para andar neles. Eu ⟨sou⟩ YHWH, ⟨o⟩ vosso Elohim.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "meus juízos"
+      "marks": "meus juízes"
     },
     {
       "surface": "משפטי",
-      "gloss": "meus juízos"
+      "gloss": "meus juízes"
     },
     {
       "surface": "תעשו",
@@ -24,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "meus estatutos"
     },
     {
@@ -45,7 +43,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "eu sou"
+      "gloss": "Eu"
     },
     {
       "surface": "יהוה",
@@ -55,5 +53,7 @@
       "surface": "אלהיכם",
       "gloss": "vosso Elohim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:50:30.221766761Z",
+  "model": "glm-5.2"
 }

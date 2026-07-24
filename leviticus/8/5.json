@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "leviticus 8:5",
   "book": "leviticus",
-  "chapter": 8,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T01:43:50.317351076Z",
-  "translation": "E Moshé disse ⟨את⟩ à congregação: 'Este ⟨é⟩ ⟨o⟩ ⟨que⟩ HaShem ordenou para ⟨ser⟩ feito.'",
+  "chapter": 8,
+  "translation": "E Moshé disse à assembleia: isto ⟨é⟩ o davar que YHWH ordenou para fazer.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E Moshe disse"
+      "gloss": "E disse"
     },
     {
       "surface": "משה",
@@ -19,24 +17,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "à"
+      "gloss": "a"
     },
     {
       "surface": "העדה",
-      "gloss": "congregação",
-      "marks": "à congregação"
+      "gloss": "a assembleia"
     },
     {
       "surface": "זה",
-      "gloss": "Este"
+      "gloss": "isto"
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨que⟩"
+      "gloss": "o davar"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨que⟩"
+      "gloss": "que"
     },
     {
       "surface": "צוה",
@@ -48,19 +45,9 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "para ⟨ser⟩ feito"
+      "gloss": "para fazer"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moshe",
-      "to": "Moshé",
-      "token-index": 1,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:48:02.352916957Z",
+  "model": "glm-5.2"
 }

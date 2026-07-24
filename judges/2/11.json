@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "judges 2:11",
   "book": "judges",
-  "chapter": 2,
-  "verse": 11,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:51:45.436479392Z",
-  "translation": "E os filhos de Yisrael fizeram ⟨o⟩ mal ⟨em⟩ ⟨os⟩ olhos de HaShem, e serviram ⟨aos⟩ Baalins.",
+  "chapter": 2,
+  "translation": "E os filhos de Yisrael fizeram ⟨את⟩ o mal aos olhos de YHWH, e serviram ⟨את⟩ aos baalim.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "E fizeram"
+      "gloss": "e fizeram"
     },
     {
       "surface": "בני",
-      "gloss": "filhos de"
+      "gloss": "os filhos de"
     },
     {
       "surface": "ישראל",
@@ -24,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הרע"
+      "marks": "o mal"
     },
     {
       "surface": "הרע",
-      "gloss": "mal"
+      "gloss": "o mal"
     },
     {
       "surface": "בעיני",
-      "gloss": "⟨em⟩ ⟨os⟩ olhos"
+      "gloss": "aos olhos de"
     },
     {
       "surface": "יהוה",
-      "gloss": "de YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויעבדו",
@@ -45,23 +43,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הבעלים"
+      "marks": "aos baalim"
     },
     {
       "surface": "הבעלים",
-      "gloss": "Baalins"
+      "gloss": "aos baalim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:14:10.331083300Z",
+  "model": "glm-5.2"
 }

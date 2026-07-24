@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 35,
   "ref": "2-kings 17:35",
   "book": "2-kings",
-  "chapter": 17,
-  "verse": 35,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:04:13.297448445Z",
-  "translation": "E HaShem ⟨fez⟩ ⟨um⟩ Brit ⟨com⟩ eles e ⟨o⟩ ordenou ⟨a⟩ eles ⟨dizendo⟩: ⟨Não⟩ temereis ⟨a⟩ elohim outros, e ⟨não⟩ ⟨vos⟩ prostrareis ⟨a⟩ eles, e ⟨não⟩ os servireis, e ⟨não⟩ lhes sacrificareis.",
+  "chapter": 17,
+  "translation": "E YHWH fez ⟨com⟩ eles ⟨um⟩ Brit, e lhes ordenou, dizendo: Não temereis a outros elohim, e não vos prostrareis diante deles, e não os servireis, e não lhes sacrificareis.",
   "tokens": [
     {
       "surface": "ויכרת",
-      "gloss": "E HaShem ⟨fez⟩"
+      "gloss": "E fez"
     },
     {
       "surface": "יהוה",
@@ -19,24 +17,23 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨um⟩ pacto ⟨com⟩ eles",
-      "marks": "um pacto com eles"
+      "gloss": "⟨com⟩ eles"
     },
     {
       "surface": "ברית",
-      "gloss": "Brit"
+      "gloss": "⟨um⟩ Brit"
     },
     {
       "surface": "ויצום",
-      "gloss": "e ⟨o⟩ ordenou ⟨a⟩ eles"
+      "gloss": "e lhes ordenou"
     },
     {
       "surface": "לאמר",
-      "gloss": "⟨dizendo⟩"
+      "gloss": "dizendo"
     },
     {
       "surface": "לא",
-      "gloss": "⟨Não⟩"
+      "gloss": "não"
     },
     {
       "surface": "תיראו",
@@ -44,7 +41,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "⟨a⟩ elohim"
+      "gloss": "a elohim"
     },
     {
       "surface": "אחרים",
@@ -52,19 +49,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "e ⟨não⟩"
+      "gloss": "e não"
     },
     {
       "surface": "תשתחוו",
-      "gloss": "⟨vos⟩ prostrareis"
+      "gloss": "vos prostrareis"
     },
     {
       "surface": "להם",
-      "gloss": "⟨a⟩ eles"
+      "gloss": "diante deles"
     },
     {
       "surface": "ולא",
-      "gloss": "e ⟨não⟩"
+      "gloss": "e não"
     },
     {
       "surface": "תעבדום",
@@ -72,27 +69,17 @@
     },
     {
       "surface": "ולא",
-      "gloss": "e ⟨não⟩"
+      "gloss": "e não"
     },
     {
       "surface": "תזבחו",
-      "gloss": "lhes sacrificareis"
+      "gloss": "sacrificareis"
     },
     {
       "surface": "להם",
-      "gloss": "⟨a⟩ eles"
+      "gloss": "a eles"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "pacto",
-      "to": "Brit",
-      "token-index": 3,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:38:47.897835257Z",
+  "model": "glm-5.2"
 }

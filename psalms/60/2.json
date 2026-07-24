@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "psalms 60:2",
   "book": "psalms",
-  "chapter": 60,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:40:28.772543663Z",
-  "translation": "Ao contender com ⟨את⟩ Aram-Naharaim e com ⟨את⟩ Aram-Zobá, e Yoav retornou e feriu ⟨את⟩ Edom no Vale do Sal — doze mil.",
+  "chapter": 60,
+  "translation": "Ao contender ⟨com⟩ ⟨את⟩ Aram-Naharayim e ⟨את⟩ Aram-Tsoba, Yoav voltou e feriu ⟨את⟩ Edom no Vale do Sal — doze mil.",
   "tokens": [
     {
       "surface": "בהצותו",
@@ -16,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aram-Naharaim"
+      "marks": "Aram-Naharayim"
     },
     {
       "surface": "ארם",
@@ -24,12 +22,12 @@
     },
     {
       "surface": "נהרים",
-      "gloss": "-Naharaim"
+      "gloss": "Naharayim"
     },
     {
       "surface": "ואת",
-      "gloss": "e com ⟨את⟩",
-      "marks": "Aram-Zobá"
+      "gloss": "e ⟨את⟩",
+      "marks": "Aram-Tsoba"
     },
     {
       "surface": "ארם",
@@ -37,11 +35,11 @@
     },
     {
       "surface": "צובה",
-      "gloss": "-Zobá"
+      "gloss": "Tsoba"
     },
     {
       "surface": "וישב",
-      "gloss": "e Yoav retornou"
+      "gloss": "voltou"
     },
     {
       "surface": "יואב",
@@ -74,11 +72,13 @@
     },
     {
       "surface": "עשר",
-      "gloss": "mil"
+      "gloss": "(milhar)"
     },
     {
       "surface": "אלף",
-      "gloss": ""
+      "gloss": "mil"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:10:17.397278183Z",
+  "model": "glm-5.2"
 }

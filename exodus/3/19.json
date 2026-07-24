@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "exodus 3:19",
   "book": "exodus",
-  "chapter": 3,
-  "verse": 19,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:43:45.218858375Z",
-  "translation": "E eu sei que o rei do Egito não ⟨vos⟩ dará ⟨partida⟩, exceto por mão forte",
+  "chapter": 3,
+  "translation": "E eu sei que o rei de Mitzráyim não ⟨os⟩ deixará ir, ⟨את⟩ — e não por mão forte.",
   "tokens": [
     {
       "surface": "ואני",
@@ -27,12 +25,12 @@
     },
     {
       "surface": "יתן",
-      "gloss": "⟨vos⟩ dará"
+      "gloss": "deixará ir \/ dará permissão"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "partida"
+      "marks": "vocês (o povo)"
     },
     {
       "surface": "מלך",
@@ -40,15 +38,15 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "do Egito"
+      "gloss": "de Mitzráyim"
     },
     {
       "surface": "להלך",
-      "gloss": "⟨partida⟩"
+      "gloss": "para ir"
     },
     {
       "surface": "ולא",
-      "gloss": "exceto"
+      "gloss": "e não"
     },
     {
       "surface": "ביד",
@@ -58,5 +56,7 @@
       "surface": "חזקה",
       "gloss": "forte"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:38:39.710424252Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 32,
   "ref": "1-samuel 20:32",
   "book": "1-samuel",
-  "chapter": 20,
-  "verse": 32,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:32:43.632788920Z",
-  "translation": "E Yonatan respondeu ⟨a⟩ Shaul seu pai e disse ⟨a⟩ ele: Por que deve morrer? O que ele fez?",
+  "chapter": 20,
+  "translation": "E Yonatan respondeu a ⟨את⟩ Shaul, seu pai, e disse-lhe: por que ⟨ele⟩ seria morto? O que ⟨ele⟩ fez?",
   "tokens": [
     {
       "surface": "ויען",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Saul"
+      "marks": "Shaul"
     },
     {
       "surface": "שאול",
@@ -36,15 +34,15 @@
     },
     {
       "surface": "אליו",
-      "gloss": "⟨a⟩ ele"
+      "gloss": "a ele"
     },
     {
       "surface": "למה",
-      "gloss": "Por que"
+      "gloss": "por que"
     },
     {
       "surface": "יומת",
-      "gloss": "deve morrer"
+      "gloss": "seria morto"
     },
     {
       "surface": "מה",
@@ -52,26 +50,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "ele fez"
+      "gloss": "fez"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jônatas",
-      "to": "Yonatan",
-      "token-index": 1,
-      "strongs": 3083,
-      "hebrew": "יונתן"
-    },
-    {
-      "from": "Saul",
-      "to": "Shaul",
-      "token-index": 3,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:21:45.741445936Z",
+  "model": "glm-5.2"
 }

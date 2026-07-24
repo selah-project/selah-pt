@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "1-kings 16:18",
   "book": "1-kings",
-  "chapter": 16,
-  "verse": 18,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T11:35:21.375690424Z",
-  "translation": "E aconteceu, ao ver Zimri que ⟨a⟩ cidade ⟨foi⟩ tomada, que ele entrou na cidadela da casa do rei, e queimou sobre si ⟨את⟩ casa do rei com fogo, e morreu.",
+  "chapter": 16,
+  "translation": "E aconteceu, ao ver Zimri que ⟨a⟩ cidade foi capturada, que ele entrou ⟨no⟩ interior do palácio do rei, e queimou sobre ele ⟨את⟩ ⟨a⟩ casa ⟨do⟩ rei com fogo, e morreu.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "נלכדה",
-      "gloss": "⟨a⟩ cidade ⟨foi⟩ tomada"
+      "gloss": "foi capturada"
     },
     {
       "surface": "העיר",
-      "gloss": ""
+      "gloss": "⟨a⟩ cidade"
     },
     {
       "surface": "ויבא",
@@ -39,19 +37,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "em"
+      "gloss": "⟨no⟩ interior de"
     },
     {
       "surface": "ארמון",
-      "gloss": "a cidadela"
+      "gloss": "palácio"
     },
     {
       "surface": "בית",
-      "gloss": "da casa"
+      "gloss": "de"
     },
     {
       "surface": "המלך",
-      "gloss": "do rei"
+      "gloss": "o rei"
     },
     {
       "surface": "וישרף",
@@ -59,20 +57,20 @@
     },
     {
       "surface": "עליו",
-      "gloss": "sobre si"
+      "gloss": "sobre ele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "casa do rei"
+      "marks": "a casa do rei"
     },
     {
       "surface": "בית",
-      "gloss": "casa"
+      "gloss": "⟨a⟩ casa"
     },
     {
       "surface": "מלך",
-      "gloss": "do rei"
+      "gloss": "⟨do⟩ rei"
     },
     {
       "surface": "באש",
@@ -82,5 +80,7 @@
       "surface": "וימת",
       "gloss": "e morreu"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:33:34.555017597Z",
+  "model": "glm-5.2"
 }

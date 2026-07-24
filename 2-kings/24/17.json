@@ -1,38 +1,36 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "2-kings 24:17",
   "book": "2-kings",
-  "chapter": 24,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:11:39.560992521Z",
-  "translation": "E o rei de Bavel fez reinar ⟨a⟩ Mattanyahu, tio de Jeoaquim, em seu lugar; e mudou ⟨o⟩ nome ⟨de⟩ Mattanyahu ⟨para⟩ Tsidkijah.",
+  "chapter": 24,
+  "translation": "E o rei de Bavel fez reinar ⟨את⟩ Matanyá, ⟨o seu tio⟩, em seu lugar, e mudou ⟨את⟩ o seu nome para Tzidkiyahu.",
   "tokens": [
     {
       "surface": "וימלך",
-      "gloss": "E o rei de Babilônia fez reinar"
+      "gloss": "e fez reinar"
     },
     {
       "surface": "מלך",
-      "gloss": "rei de Babilônia"
+      "gloss": "o rei"
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "de Bavel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mattanyahu, tio de Jeoaquim"
+      "marks": "Matanyá"
     },
     {
       "surface": "מתניה",
-      "gloss": "Mattanyahu, tio de Jeoaquim"
+      "gloss": "Matanyá"
     },
     {
       "surface": "דדו",
-      "gloss": "tio de Jeoaquim"
+      "gloss": "seu tio"
     },
     {
       "surface": "תחתיו",
@@ -45,27 +43,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nome de Mattanyahu"
+      "marks": "o seu nome"
     },
     {
       "surface": "שמו",
-      "gloss": "nome de Mattanyahu"
+      "gloss": "o seu nome"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsidkijah"
+      "gloss": "para Tzidkiyahu"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Babilônia",
-      "to": "Bavel",
-      "token-index": 2,
-      "strongs": 894,
-      "hebrew": "בבל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:40:32.847072964Z",
+  "model": "glm-5.2"
 }

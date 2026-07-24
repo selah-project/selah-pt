@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "2-kings 23:2",
   "book": "2-kings",
-  "chapter": 23,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:10:06.916454901Z",
-  "translation": "E o rei subiu ⟨a⟩ casa de YHWH, e todo homem de Yehudá e todo ⟨o⟩ habitante de Yerushalayim com ele, e ⟨os⟩ sacerdotes, e ⟨os⟩ profetas, e todo o povo, desde ⟨o⟩ pequeno até ⟨o⟩ grande; e ele chamou em seus ouvidos ⟨את⟩ todas as palavras dSéfer da Brit ⟨que foi⟩ encontrado na casa de YHWH",
+  "chapter": 23,
+  "translation": "E subiu o rei ⟨à⟩ Casa de YHWH, e todo homem de Yehudá, e todos os habitantes de Yerushalayim com ele, e os kohanim, e os navim, e todo o povo, do menor até o grande; e ele leu em seus ouvidos ⟨את⟩ todas as palavras do Séfer da Brit que se encontrava na Casa de YHWH.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "E o rei subiu"
+      "gloss": "E subiu"
     },
     {
       "surface": "המלך",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "casa"
+      "gloss": "à Casa de"
     },
     {
       "surface": "יהוה",
-      "gloss": "de YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "וכל",
@@ -39,15 +37,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "e todo"
+      "gloss": "e todos"
     },
     {
       "surface": "ישבי",
-      "gloss": "⟨o⟩ habitante"
+      "gloss": "os habitantes de"
     },
     {
       "surface": "ירושלם",
-      "gloss": "de Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "אתו",
@@ -55,11 +53,11 @@
     },
     {
       "surface": "והכהנים",
-      "gloss": "e ⟨os⟩ sacerdotes"
+      "gloss": "e os kohanim"
     },
     {
       "surface": "והנביאים",
-      "gloss": "e ⟨os⟩ profetas"
+      "gloss": "e os navim"
     },
     {
       "surface": "וכל",
@@ -71,7 +69,7 @@
     },
     {
       "surface": "למקטן",
-      "gloss": "desde ⟨o⟩ pequeno"
+      "gloss": "do menor"
     },
     {
       "surface": "ועד",
@@ -79,11 +77,11 @@
     },
     {
       "surface": "גדול",
-      "gloss": "⟨o⟩ grande"
+      "gloss": "o grande"
     },
     {
       "surface": "ויקרא",
-      "gloss": "e ele chamou"
+      "gloss": "e ele leu"
     },
     {
       "surface": "באזניהם",
@@ -100,11 +98,11 @@
     },
     {
       "surface": "דברי",
-      "gloss": "as palavras"
+      "gloss": "as palavras de"
     },
     {
       "surface": "ספר",
-      "gloss": "dSéfer"
+      "gloss": "o Séfer"
     },
     {
       "surface": "הברית",
@@ -112,41 +110,17 @@
     },
     {
       "surface": "הנמצא",
-      "gloss": "⟨que foi⟩ encontrado"
+      "gloss": "que se encontrava"
     },
     {
       "surface": "בבית",
-      "gloss": "na casa"
+      "gloss": "na Casa de"
     },
     {
       "surface": "יהוה",
-      "gloss": "de YHWH"
+      "gloss": "YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 6,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    },
-    {
-      "from": "Jerusalém",
-      "to": "Yerushalayim",
-      "token-index": 9,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    },
-    {
-      "from": "o livro",
-      "to": "Séfer",
-      "token-index": 23,
-      "strongs": 5612,
-      "hebrew": "תורה־ספר"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:40:09.922258324Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "exodus 17:14",
   "book": "exodus",
-  "chapter": 17,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T01:00:42.271895913Z",
-  "translation": "E YHWH disse a Moshé: 'Escreve isto ⟨por⟩ memorial no livro, e ⟨o⟩ põe nos ouvidos de Yehoshua, porque ⟨eu⟩ apagarei ⟨o⟩ memorial de Amalek de sob ⟨os⟩ céus.'",
+  "chapter": 17,
+  "translation": "E YHWH disse a Moshé: \"Escreve isto ⟨como⟩ memorial no Séfer, e põe aos ouvidos de Yehoshua — porque apagando apagarei ⟨את⟩ a memória de Amalek de debaixo dos céus.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E YHWH disse"
+      "gloss": "E disse"
     },
     {
       "surface": "יהוה",
@@ -35,19 +33,19 @@
     },
     {
       "surface": "זכרון",
-      "gloss": "⟨por⟩ memorial"
+      "gloss": "memorial"
     },
     {
       "surface": "בספר",
-      "gloss": "no livro"
+      "gloss": "no Séfer"
     },
     {
       "surface": "ושים",
-      "gloss": "e ⟨o⟩ põe"
+      "gloss": "e põe"
     },
     {
       "surface": "באזני",
-      "gloss": "nos ouvidos de"
+      "gloss": "aos ouvidos de"
     },
     {
       "surface": "יהושע",
@@ -59,7 +57,7 @@
     },
     {
       "surface": "מחה",
-      "gloss": "⟨eu⟩ apagarei"
+      "gloss": "apagando"
     },
     {
       "surface": "אמחה",
@@ -68,11 +66,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "memorial"
+      "marks": "a memória"
     },
     {
       "surface": "זכר",
-      "gloss": "memorial"
+      "gloss": "memória"
     },
     {
       "surface": "עמלק",
@@ -80,23 +78,13 @@
     },
     {
       "surface": "מתחת",
-      "gloss": "de sob"
+      "gloss": "de debaixo"
     },
     {
       "surface": "השמים",
-      "gloss": "⟨os⟩ céus"
+      "gloss": "dos céus"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Amaleque",
-      "to": "Amalek",
-      "token-index": 16,
-      "strongs": 6002,
-      "hebrew": "עמלק"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:41:30.652692601Z",
+  "model": "glm-5.2"
 }

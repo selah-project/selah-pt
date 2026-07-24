@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "exodus 31:18",
   "book": "exodus",
-  "chapter": 31,
-  "verse": 18,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T01:24:39.520920483Z",
-  "translation": "E ⟨deu⟩ ⟨a⟩ Moshé, quando terminou de falar ⟨com⟩ ele ⟨no⟩ monte Sinai, duas tábuas ⟨do⟩ Testemunho, tábuas ⟨de⟩ pedra, escritas ⟨com⟩ o dedo ⟨de⟩ Elohim.",
+  "chapter": 31,
+  "translation": "E ⟨ele⟩ deu a Moshé, ao terminar de falar com ele no monte Sinai, duas tábuas do testemunho, tábuas de pedra, escritas pelo dedo de Elohim.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "E ⟨deu⟩"
+      "gloss": "e deu"
     },
     {
       "surface": "אל",
-      "gloss": "⟨a⟩"
+      "gloss": "a"
     },
     {
       "surface": "משה",
@@ -23,19 +21,19 @@
     },
     {
       "surface": "ככלתו",
-      "gloss": "quando terminou de falar"
+      "gloss": "ao terminar"
     },
     {
       "surface": "לדבר",
-      "gloss": "⟨com⟩"
+      "gloss": "de falar"
     },
     {
       "surface": "אתו",
-      "gloss": "ele"
+      "gloss": "com ele"
     },
     {
       "surface": "בהר",
-      "gloss": "⟨no⟩ monte"
+      "gloss": "no monte"
     },
     {
       "surface": "סיני",
@@ -51,7 +49,7 @@
     },
     {
       "surface": "העדת",
-      "gloss": "⟨do⟩ Testemunho"
+      "gloss": "do testemunho"
     },
     {
       "surface": "לחת",
@@ -59,7 +57,7 @@
     },
     {
       "surface": "אבן",
-      "gloss": "⟨de⟩ pedra"
+      "gloss": "de pedra"
     },
     {
       "surface": "כתבים",
@@ -67,23 +65,13 @@
     },
     {
       "surface": "באצבע",
-      "gloss": "⟨com⟩ o dedo"
+      "gloss": "pelo dedo"
     },
     {
       "surface": "אלהים",
-      "gloss": "⟨de⟩ Elohim"
+      "gloss": "de Elohim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moshê",
-      "to": "Moshé",
-      "token-index": 2,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:37:33.820113781Z",
+  "model": "glm-5.2"
 }

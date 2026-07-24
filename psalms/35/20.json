@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "psalms 35:20",
   "book": "psalms",
-  "chapter": 35,
-  "verse": 20,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:02:20.378470301Z",
-  "translation": "Pois não falam Shalom ⟨את⟩ e contra os quietos da terra inventam palavras enganosas",
+  "chapter": 35,
+  "translation": "Pois não ⟨é⟩ Shalom que falam, e contra os pacíficos da terra, palavras de fraude maquinam.",
   "tokens": [
     {
       "surface": "כי",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "שלום",
-      "gloss": "falam Shalom"
+      "gloss": "Shalom"
     },
     {
       "surface": "ידברו",
-      "gloss": "falam"
+      "gloss": "que falam"
     },
     {
       "surface": "ועל",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "רגעי",
-      "gloss": "os quietos"
+      "gloss": "os pacíficos"
     },
     {
       "surface": "ארץ",
@@ -43,23 +41,13 @@
     },
     {
       "surface": "מרמות",
-      "gloss": "enganosas"
+      "gloss": "de fraude"
     },
     {
       "surface": "יחשבון",
-      "gloss": "inventam"
+      "gloss": "maquinam"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "paz",
-      "to": "Shalom",
-      "token-index": 2,
-      "strongs": 7965,
-      "hebrew": "שלום"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:09:40.834242882Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 59,
   "ref": "deuteronomy 28:59",
   "book": "deuteronomy",
-  "chapter": 28,
-  "verse": 59,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:18:33.293997219Z",
-  "translation": "E ⟨o⟩ YHWH fará ⟨as⟩ tuas pragas maravilhosas, e ⟨as⟩ pragas de ⟨a⟩ tua descendência, pragas grandes e firmes, e doenças más e firmes",
+  "chapter": 28,
+  "translation": "Então YHWH fará extraordinárias ⟨את⟩ tuas pragas e ⟨את⟩ as pragas da tua descendência: pragas grandes e persistentes, e doenças más e persistentes.",
   "tokens": [
     {
       "surface": "והפלא",
-      "gloss": "E fará"
+      "gloss": "fará extraordinárias"
     },
     {
       "surface": "יהוה",
@@ -28,16 +26,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨as⟩",
-      "marks": "pragas"
+      "gloss": "e ⟨את⟩",
+      "marks": "as pragas da tua descendência"
     },
     {
       "surface": "מכות",
-      "gloss": "pragas"
+      "gloss": "as pragas"
     },
     {
       "surface": "זרעך",
-      "gloss": "de ⟨a⟩ tua descendência"
+      "gloss": "da tua descendência"
     },
     {
       "surface": "מכות",
@@ -49,7 +47,7 @@
     },
     {
       "surface": "ונאמנות",
-      "gloss": "e firmes"
+      "gloss": "e persistentes"
     },
     {
       "surface": "וחלים",
@@ -61,19 +59,9 @@
     },
     {
       "surface": "ונאמנים",
-      "gloss": "e firmes"
+      "gloss": "e persistentes"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Senhor",
-      "to": "YHWH",
-      "token-index": 1,
-      "strongs": 3068,
-      "hebrew": "יהוה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:06:02.505119522Z",
+  "model": "glm-5.2"
 }

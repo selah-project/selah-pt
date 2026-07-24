@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "2-kings 10:8",
   "book": "2-kings",
-  "chapter": 10,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:33:23.117291775Z",
-  "translation": "E o mensageiro veio e contou a ele, dizendo: Trouxeram as cabeças dos filhos do rei. E ele disse: Ponde-as ⟨as⟩ em dois montes à entrada do portão até a manhã.",
+  "chapter": 10,
+  "translation": "E veio o mensageiro, e anunciou-lhe, dizendo: Trouxeram as cabeças dos filhos do rei. E ele disse: Ponde ⟨את⟩-os em dois montões ⟨na⟩ entrada do portão, até ⟨a⟩ manhã.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "ויגד",
-      "gloss": "e contou"
+      "gloss": "e anunciou"
     },
     {
       "surface": "לו",
@@ -51,24 +49,24 @@
     },
     {
       "surface": "שימו",
-      "gloss": "Ponde-as"
+      "gloss": "Ponde"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨as⟩",
-      "marks": "cabeças (implícito pelo sufixo)"
+      "gloss": "⟨את⟩-os",
+      "marks": "em dois montões"
     },
     {
       "surface": "שני",
-      "gloss": "em dois"
+      "gloss": "dois"
     },
     {
       "surface": "צברים",
-      "gloss": "montes"
+      "gloss": "montões"
     },
     {
       "surface": "פתח",
-      "gloss": "à entrada"
+      "gloss": "entrada"
     },
     {
       "surface": "השער",
@@ -82,5 +80,7 @@
       "surface": "הבקר",
       "gloss": "a manhã"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:37:06.043068053Z",
+  "model": "glm-5.2"
 }

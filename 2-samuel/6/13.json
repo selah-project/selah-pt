@@ -1,33 +1,31 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "2-samuel 6:13",
   "book": "2-samuel",
-  "chapter": 6,
-  "verse": 13,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:48:11.635155260Z",
-  "translation": "E aconteceu que, quando os que levavam ⟨את⟩ Aron de YHWH deram seis passos, ele sacrificou ⟨um⟩ boi e ⟨um⟩ animal cevado.",
+  "chapter": 6,
+  "translation": "E aconteceu que, quando os portadores do Arão de YHWH haviam avançado seis passos, ⟨ele⟩ sacrificou ⟨um⟩ boi e ⟨um⟩ animal cevado.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "E aconteceu que"
+      "gloss": "E aconteceu"
     },
     {
       "surface": "כי",
-      "gloss": "quando"
+      "gloss": "que"
     },
     {
       "surface": "צעדו",
-      "gloss": "deram"
+      "gloss": "haviam avançado"
     },
     {
       "surface": "נשאי",
-      "gloss": "os que levavam"
+      "gloss": "os portadores de"
     },
     {
       "surface": "ארון",
-      "gloss": "Aron"
+      "gloss": "o Arão"
     },
     {
       "surface": "יהוה",
@@ -43,27 +41,17 @@
     },
     {
       "surface": "ויזבח",
-      "gloss": "ele sacrificou"
+      "gloss": "sacrificou"
     },
     {
       "surface": "שור",
-      "gloss": "⟨um⟩ boi"
+      "gloss": "um boi"
     },
     {
       "surface": "ומריא",
-      "gloss": "e ⟨um⟩ animal cevado"
+      "gloss": "e um animal cevado"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "a arca",
-      "to": "Aron",
-      "token-index": 4,
-      "strongs": 727,
-      "hebrew": "ארון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:24:50.335906818Z",
+  "model": "glm-5.2"
 }

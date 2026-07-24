@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "2-kings 16:17",
   "book": "2-kings",
-  "chapter": 16,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:40:15.152558353Z",
-  "translation": "E o rei Ajáv cortou as molduras das bases e removeu ⟨delas⟩ a pia e desceu ⟨את⟩ o mar de sobre os bois de bronze que estavam debaixo dele e o pôs sobre um pavimento de pedras.",
+  "chapter": 16,
+  "translation": "E o rei Ajaz cortou as bordas das bases, e removeu delas ⟨את⟩ o Kiyor; e ⟨את⟩ o Mar ele desceu de sobre os bois de bronze que ⟨estavam⟩ debaixo dele, e o colocou sobre um pavimento de pedras.",
   "tokens": [
     {
       "surface": "ויקצץ",
@@ -19,16 +17,16 @@
     },
     {
       "surface": "אחז",
-      "gloss": "Ajáv"
+      "gloss": "Ajaz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "המסגרות"
+      "marks": "as bordas das bases"
     },
     {
       "surface": "המסגרות",
-      "gloss": "as molduras"
+      "gloss": "as bordas"
     },
     {
       "surface": "המכנות",
@@ -40,29 +38,29 @@
     },
     {
       "surface": "מעליהם",
-      "gloss": "⟨delas⟩"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "הכיר"
-    },
-    {
-      "surface": "הכיר",
-      "gloss": "a pia"
+      "gloss": "delas"
     },
     {
       "surface": "ואת",
       "gloss": "e ⟨את⟩",
-      "marks": "הים"
+      "marks": "o Kiyor"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "o Kiyor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "o Mar"
     },
     {
       "surface": "הים",
-      "gloss": "o mar"
+      "gloss": "o Mar"
     },
     {
       "surface": "הורד",
-      "gloss": "desceu"
+      "gloss": "ele desceu"
     },
     {
       "surface": "מעל",
@@ -78,7 +76,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "que estavam"
+      "gloss": "que"
     },
     {
       "surface": "תחתיה",
@@ -86,12 +84,12 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "e o pôs"
+      "gloss": "e colocou"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "על"
+      "gloss": "ele (com ⟨את⟩)",
+      "marks": "sobre um pavimento"
     },
     {
       "surface": "על",
@@ -105,5 +103,7 @@
       "surface": "אבנים",
       "gloss": "de pedras"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:38:23.008273127Z",
+  "model": "glm-5.2"
 }

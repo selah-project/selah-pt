@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 27,
   "ref": "jeremiah 52:27",
   "book": "jeremiah",
-  "chapter": 52,
-  "verse": 27,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:58:13.954997595Z",
-  "translation": "E o rei de Bavel ⟨o⟩ feriu, e ⟨o⟩ matou em Ribla na terra de Hamate; e Yehudá foi levado cativo de sobre sua própria terra.",
+  "chapter": 52,
+  "translation": "E o rei de Bavel os feriu ⟨את⟩, e os matou em Rivlá, na terra de Jamat; e Yehudá foi levado ao exílio da sua terra.",
   "tokens": [
     {
       "surface": "ויכה",
@@ -15,8 +13,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨o⟩",
-      "marks": "o rei de Babel"
+      "gloss": "⟨את⟩",
+      "marks": "o rei (mas o sufixo os aponta como alvo)"
     },
     {
       "surface": "מלך",
@@ -28,11 +26,11 @@
     },
     {
       "surface": "וימתם",
-      "gloss": "e matou"
+      "gloss": "e os matou"
     },
     {
       "surface": "ברבלה",
-      "gloss": "em Ribla"
+      "gloss": "em Rivlá"
     },
     {
       "surface": "בארץ",
@@ -40,11 +38,11 @@
     },
     {
       "surface": "חמת",
-      "gloss": "de Hamate"
+      "gloss": "de Jamat"
     },
     {
-      "surface": "ואיגל",
-      "gloss": "e foi levado cativo"
+      "surface": "ויגל",
+      "gloss": "e foi levado ao exílio"
     },
     {
       "surface": "יהודה",
@@ -56,26 +54,9 @@
     },
     {
       "surface": "אדמתו",
-      "gloss": "sua própria terra"
+      "gloss": "a sua terra"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Babel",
-      "to": "Bavel",
-      "token-index": 3,
-      "strongs": 894,
-      "hebrew": "בבל"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 9,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:55:53.142488283Z",
+  "model": "glm-5.2"
 }

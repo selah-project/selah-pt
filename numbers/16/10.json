@@ -1,26 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "numbers 16:10",
   "book": "numbers",
-  "chapter": 16,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:14:29.697502153Z",
-  "translation": "e ⟨te⟩ trouxe ⟨את⟩ perto, e todos os teus irmãos, os filhos de Levi, contigo; e ⟨buscastes⟩ também o sacerdócio?",
+  "chapter": 16,
+  "translation": "e ⟨ele⟩ te trouxe para perto, e ⟨את⟩ ⟨a⟩ ti, e ⟨את⟩ todos ⟨os⟩ teus irmãos, ⟨os⟩ filhos de Leví, contigo — e vós buscais também ⟨o⟩ sacerdócio?",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "e trouxe"
+      "gloss": "e trouxe para perto"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "perto"
+      "marks": "te (a ti)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "todos os teus irmãos"
     },
     {
@@ -29,15 +27,15 @@
     },
     {
       "surface": "אחיך",
-      "gloss": "os teus irmãos"
+      "gloss": "teus irmãos"
     },
     {
       "surface": "בני",
-      "gloss": "os filhos"
+      "gloss": "filhos de"
     },
     {
       "surface": "לוי",
-      "gloss": "de Levi"
+      "gloss": "Leví"
     },
     {
       "surface": "אתך",
@@ -45,7 +43,7 @@
     },
     {
       "surface": "ובקשתם",
-      "gloss": "e ⟨buscastes⟩"
+      "gloss": "e vós buscais"
     },
     {
       "surface": "גם",
@@ -55,5 +53,7 @@
       "surface": "כהנה",
       "gloss": "o sacerdócio"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:56:16.553019543Z",
+  "model": "glm-5.2"
 }

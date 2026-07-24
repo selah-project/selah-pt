@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "2-chronicles 26:23",
   "book": "2-chronicles",
-  "chapter": 26,
-  "verse": 23,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:38:26.706931860Z",
-  "translation": "E Uziyahu repousou ⟨com⟩ ⟨os⟩ pais dele, e ⟨o⟩ sepultaram ⟨com⟩ ⟨os⟩ pais dele no campo do sepultamento que ⟨é⟩ dos reis, pois disseram: ele ⟨é⟩ leproso; e Jotão, ⟨o⟩ filho dele, reinou em ⟨o⟩ lugar dele.",
+  "chapter": 26,
+  "translation": "E Uziyahu dormiu com seus pais, e o enterraram ⟨את⟩ com seus pais no campo da sepultura que ⟨pertencia⟩ aos reis, pois disseram: «leproso ⟨ele⟩ ⟨é⟩». E Yotam, seu filho, reinou em seu lugar.",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "E Uzias repousou"
+      "gloss": "e dormiu"
     },
     {
       "surface": "עזיהו",
@@ -19,28 +17,28 @@
     },
     {
       "surface": "עם",
-      "gloss": "⟨com⟩"
+      "gloss": "com"
     },
     {
       "surface": "אבתיו",
-      "gloss": "⟨os⟩ pais dele"
+      "gloss": "seus pais"
     },
     {
       "surface": "ויקברו",
-      "gloss": "e ⟨o⟩ sepultaram"
+      "gloss": "e o enterraram"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨com⟩",
-      "marks": "⟨os⟩ pais dele"
+      "gloss": "⟨את⟩",
+      "marks": "ele (Uziyahu)"
     },
     {
       "surface": "עם",
-      "gloss": "⟨com⟩"
+      "gloss": "com"
     },
     {
       "surface": "אבתיו",
-      "gloss": "⟨os⟩ pais dele"
+      "gloss": "seus pais"
     },
     {
       "surface": "בשדה",
@@ -48,15 +46,15 @@
     },
     {
       "surface": "הקבורה",
-      "gloss": "do sepultamento"
+      "gloss": "da sepultura"
     },
     {
       "surface": "אשר",
-      "gloss": "que ⟨é⟩"
+      "gloss": "que"
     },
     {
       "surface": "למלכים",
-      "gloss": "dos reis"
+      "gloss": "aos reis"
     },
     {
       "surface": "כי",
@@ -72,35 +70,25 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ele ⟨é⟩"
+      "gloss": "ele"
     },
     {
       "surface": "וימלך",
-      "gloss": "e Jotão"
+      "gloss": "e reinou"
     },
     {
       "surface": "יותם",
-      "gloss": "Jotão"
+      "gloss": "Yotam"
     },
     {
       "surface": "בנו",
-      "gloss": "⟨o⟩ filho dele"
+      "gloss": "seu filho"
     },
     {
       "surface": "תחתיו",
-      "gloss": "em ⟨o⟩ lugar dele"
+      "gloss": "em seu lugar"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Uzias",
-      "to": "Uziyahu",
-      "token-index": 1,
-      "strongs": 5818,
-      "hebrew": "עזיהו"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:35:09.949047074Z",
+  "model": "glm-5.2"
 }

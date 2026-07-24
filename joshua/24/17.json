@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "joshua 24:17",
   "book": "joshua",
-  "chapter": 24,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:18:00.278042746Z",
-  "translation": "porque YHWH, nosso Elohim, ⟨é⟩ ele ⟨o⟩ que faz subir ⟨a⟩ nós e ⟨את⟩ nossos pais da terra do Egito, da casa de servos, e que fez aos nossos olhos ⟨את⟩ os grandes sinais, estes, e nos guardou em todo o caminho pelo qual andamos e em todos os povos pelo meio dos quais passamos",
+  "chapter": 24,
+  "translation": "Porque YHWH nosso Elohim, ⟨ele⟩ é quem nos fez subir, ⟨את⟩ a nós e ⟨את⟩ a nossos pais, da terra de Mitzráyim, da casa de servos; e que fez aos nossos olhos ⟨את⟩ estes sinais grandes, estes; e nos guardou em todo ⟨o⟩ caminho que andamos nele, e em todos os povos que passamos por seu meio.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יהוה",
@@ -23,20 +21,21 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨é⟩ ele"
+      "gloss": "⟨ele⟩"
     },
     {
       "surface": "המעלה",
-      "gloss": "⟨o⟩ que faz subir"
+      "gloss": "é quem fez subir"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨a⟩ nós"
+      "gloss": "⟨את⟩",
+      "marks": "a nós"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "nossos pais"
+      "gloss": "e ⟨את⟩",
+      "marks": "a nossos pais"
     },
     {
       "surface": "אבותינו",
@@ -44,19 +43,19 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "da terra"
+      "gloss": "da terra de"
     },
     {
       "surface": "מצרים",
-      "gloss": "do Egito"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "מבית",
-      "gloss": "da casa"
+      "gloss": "da casa de"
     },
     {
       "surface": "עבדים",
-      "gloss": "de servos"
+      "gloss": "servos"
     },
     {
       "surface": "ואשר",
@@ -73,11 +72,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "os grandes sinais"
+      "marks": "estes sinais grandes"
     },
     {
       "surface": "האתות",
-      "gloss": "os grandes sinais"
+      "gloss": "os sinais"
     },
     {
       "surface": "הגדלות",
@@ -101,7 +100,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "pelo qual"
+      "gloss": "que"
     },
     {
       "surface": "הלכנו",
@@ -121,7 +120,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "pelos quais"
+      "gloss": "que"
     },
     {
       "surface": "עברנו",
@@ -129,7 +128,9 @@
     },
     {
       "surface": "בקרבם",
-      "gloss": "pelo meio deles"
+      "gloss": "por seu meio"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:13:27.346142762Z",
+  "model": "glm-5.2"
 }

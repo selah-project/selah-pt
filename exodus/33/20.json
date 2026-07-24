@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "exodus 33:20",
   "book": "exodus",
-  "chapter": 33,
-  "verse": 20,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T14:00:53.828371442Z",
-  "translation": "E ele disse: Não poderás ver ⟨o⟩ meu rosto, pois o homem não ⟨pode⟩ me ver e viver.",
+  "chapter": 33,
+  "translation": "E disse: Não poderás ver ⟨את⟩ meu rosto, pois ⟨o⟩ homem não me verá e viverá.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E ele disse"
+      "gloss": "E disse"
     },
     {
       "surface": "לא",
-      "gloss": "não"
+      "gloss": "Não"
     },
     {
       "surface": "תוכל",
@@ -28,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨o⟩ meu rosto"
+      "marks": "meu rosto"
     },
     {
       "surface": "פני",
@@ -44,15 +42,17 @@
     },
     {
       "surface": "יראני",
-      "gloss": "me ver"
+      "gloss": "me verá"
     },
     {
       "surface": "האדם",
-      "gloss": "o homem"
+      "gloss": "⟨o⟩ homem"
     },
     {
       "surface": "וחי",
-      "gloss": "e viver"
+      "gloss": "e viverá"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:44:56.985479377Z",
+  "model": "glm-5.2"
 }

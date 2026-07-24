@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 27,
   "ref": "exodus 10:27",
   "book": "exodus",
-  "chapter": 10,
-  "verse": 27,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:46:37.280132024Z",
-  "translation": "Mas YHWH fortaleceu ⟨o⟩ coração de Paró, e ele não consentiu em enviá-los.",
+  "chapter": 10,
+  "translation": "E YHWH endureceu ⟨את⟩ o coração de Paró, e ⟨ele⟩ não quis deixá-los ir.",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "Fortaleceu"
+      "gloss": "E endureceu"
     },
     {
       "surface": "יהוה",
@@ -24,7 +22,7 @@
     },
     {
       "surface": "לב",
-      "gloss": "coração"
+      "gloss": "o coração"
     },
     {
       "surface": "פרעה",
@@ -32,27 +30,17 @@
     },
     {
       "surface": "ולא",
-      "gloss": "e"
+      "gloss": "e não"
     },
     {
       "surface": "אבה",
-      "gloss": "não consentiu"
+      "gloss": "quis"
     },
     {
       "surface": "לשלחם",
-      "gloss": "em enviá-los"
+      "gloss": "deixá-los ir"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 4,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:39:52.917786558Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 33,
   "ref": "joshua 21:33",
   "book": "joshua",
-  "chapter": 21,
-  "verse": 33,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:15:41.088590067Z",
-  "translation": "Todas as cidades dos gersonitas ⟨são⟩ treze cidades com seus campos, segundo ⟨as⟩ suas famílias",
+  "chapter": 21,
+  "translation": "Todas as cidades dos gershonitas, segundo as suas famílias: ⟨eram⟩ treze cidades e os seus pastos.",
   "tokens": [
     {
       "surface": "כל",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "הגרשני",
-      "gloss": "dos gersonitas"
+      "gloss": "dos gershonitas"
     },
     {
       "surface": "למשפחתם",
-      "gloss": "segundo ⟨as⟩ suas famílias"
+      "gloss": "segundo as suas famílias"
     },
     {
       "surface": "שלש",
@@ -31,7 +29,8 @@
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "[partícula numérica (-teen)]",
+      "notes": "hebraico usa duas palavras (שלש עשרה) onde português usa uma palavra composta (treze)"
     },
     {
       "surface": "עיר",
@@ -39,7 +38,9 @@
     },
     {
       "surface": "ומגרשיהן",
-      "gloss": "com seus campos"
+      "gloss": "e os seus pastos"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:38:49.563749692Z",
+  "model": "glm-5.2"
 }

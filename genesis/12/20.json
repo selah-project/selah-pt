@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "genesis 12:20",
   "book": "genesis",
-  "chapter": 12,
-  "verse": 20,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T14:43:47.465230785Z",
-  "translation": "E Paró ordenou homens sobre ele, e enviaram-no, e ⟨את⟩ sua mulher, e ⟨את⟩ tudo o que ⟨era⟩ dele.",
+  "chapter": 12,
+  "translation": "E Paró designou homens sobre ele, e eles o escoltaram ⟨את⟩-a-ele, e ⟨את⟩ sua esposa, e ⟨את⟩ tudo quanto ⟨era⟩ dele.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "E ... ordenou"
+      "gloss": "E designou"
     },
     {
       "surface": "עליו",
@@ -27,21 +25,21 @@
     },
     {
       "surface": "וישלחו",
-      "gloss": "e enviaram-no"
+      "gloss": "e eles escoltaram"
     },
     {
       "surface": "אתו",
-      "gloss": "",
-      "marks": ""
+      "gloss": "⟨את⟩",
+      "marks": "a-ele"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "sua mulher"
+      "marks": "sua esposa"
     },
     {
       "surface": "אשתו",
-      "gloss": "sua mulher"
+      "gloss": "sua esposa"
     },
     {
       "surface": "ואת",
@@ -54,11 +52,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "o que"
+      "gloss": "quanto"
     },
     {
       "surface": "לו",
       "gloss": "dele"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:28:38.720529905Z",
+  "model": "glm-5.2"
 }

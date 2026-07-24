@@ -1,46 +1,44 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "1-chronicles 18:3",
   "book": "1-chronicles",
-  "chapter": 18,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:53:25.976734660Z",
-  "translation": "E Davidd golpeou ⟨é⟩ Hadadezer, rei de Zoba, ⟨em⟩ Hamath, quando ele saía para estabelecer o ⟨o⟩ seu domínio ⟨é⟩ ⟨pelo⟩ rio Eufrates.",
+  "chapter": 18,
+  "translation": "E David feriu ⟨את⟩ Hadadézer, rei de Tzová, em direção a Jamat, ao ir ele para estabelecer sua mão no rio Perat.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "E David golpeou"
+      "gloss": "E feriu"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Hadadezer"
+      "marks": "Hadadézer"
     },
     {
       "surface": "הדדעזר",
-      "gloss": "Hadadezer"
+      "gloss": "Hadadézer"
     },
     {
       "surface": "מלך",
-      "gloss": "rei"
+      "gloss": "rei de"
     },
     {
       "surface": "צובה",
-      "gloss": "de Zoba"
+      "gloss": "Tzová"
     },
     {
       "surface": "חמתה",
-      "gloss": "⟨em⟩ Hamath"
+      "gloss": "em direção a Jamat"
     },
     {
       "surface": "בלכתו",
-      "gloss": "quando ele saía"
+      "gloss": "ao ir ele"
     },
     {
       "surface": "להציב",
@@ -48,27 +46,17 @@
     },
     {
       "surface": "ידו",
-      "gloss": "o ⟨o⟩ seu domínio ⟨é⟩"
+      "gloss": "sua mão"
     },
     {
       "surface": "בנהר",
-      "gloss": "⟨pelo⟩ rio"
+      "gloss": "no rio"
     },
     {
       "surface": "פרת",
-      "gloss": "Eufrates"
+      "gloss": "Perat"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:29:08.771531537Z",
+  "model": "glm-5.2"
 }

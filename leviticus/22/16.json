@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "leviticus 22:16",
   "book": "leviticus",
-  "chapter": 22,
-  "verse": 16,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:49:36.487275872Z",
-  "translation": "e não ⟨os⟩ façam ⟨carregar⟩ a iniquidade da culpa, ao comerem ⟨את⟩ as suas coisas santas; pois eu sou YHWH, quem os santifica.",
+  "chapter": 22,
+  "translation": "e os farão levar ⟨את⟩ a iniquidade da culpa ao comerem ⟨את⟩ as suas coisas sagradas, porque Eu ⟨sou⟩ YHWH, ⟨Aquele que⟩ os santifica.",
   "tokens": [
     {
       "surface": "והשיאו",
-      "gloss": "e não ⟨os⟩ façam ⟨carregar⟩"
+      "gloss": "e os farão levar"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨os⟩",
-      "marks": "iniquidade"
+      "gloss": "⟨את⟩",
+      "marks": "a iniquidade (עון)"
     },
     {
       "surface": "עון",
@@ -33,19 +31,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "as suas coisas santas"
+      "marks": "as suas coisas sagradas (קדשיהם)"
     },
     {
       "surface": "קדשיהם",
-      "gloss": "as suas coisas santas"
+      "gloss": "as suas coisas sagradas"
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "אני",
-      "gloss": "eu"
+      "gloss": "Eu"
     },
     {
       "surface": "יהוה",
@@ -53,7 +51,9 @@
     },
     {
       "surface": "מקדשם",
-      "gloss": "quem os santifica"
+      "gloss": "os santifica"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:51:15.504134217Z",
+  "model": "glm-5.2"
 }

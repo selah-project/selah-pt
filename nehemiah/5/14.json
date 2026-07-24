@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "nehemiah 5:14",
   "book": "nehemiah",
-  "chapter": 5,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:19:15.973390515Z",
-  "translation": "Também desde o dia ⟨que⟩ ⟨o⟩ rei me ordenou ⟨para⟩ ⟨ser⟩ governador na terra de Yehudá, desde o ano vinte até ⟨o⟩ ano trinta e dois de Artaxerxes ⟨o⟩ rei, ⟨por⟩ doze anos, eu e meus irmãos não comemos ⟨o⟩ pão ⟨do⟩ governador.",
+  "chapter": 5,
+  "translation": "Também desde o dia em que me ordenou para ⟨את⟩ ser pachá na terra de Yehudá, desde ⟨o⟩ ano vinte até ⟨o⟩ ano trinta e dois de Artajshasta, ⟨o⟩ rei — ⟨são⟩ doze anos —, eu e meus irmãos ⟨o⟩ pão do pachá não comemos.",
   "tokens": [
     {
       "surface": "גם",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨que⟩"
+      "gloss": "em que"
     },
     {
       "surface": "צוה",
@@ -27,16 +25,16 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨o⟩",
-      "marks": "מלך"
+      "gloss": "⟨את⟩",
+      "marks": "ser"
     },
     {
       "surface": "להיות",
-      "gloss": "⟨para⟩ ⟨ser⟩"
+      "gloss": "para ser"
     },
     {
       "surface": "פחם",
-      "gloss": "governador"
+      "gloss": "pachá"
     },
     {
       "surface": "בארץ",
@@ -44,11 +42,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudá"
+      "gloss": "de Yehudá"
     },
     {
       "surface": "משנת",
-      "gloss": "desde o ano"
+      "gloss": "desde ⟨o⟩ ano"
     },
     {
       "surface": "עשרים",
@@ -64,15 +62,15 @@
     },
     {
       "surface": "שלשים",
-      "gloss": "trinta e"
+      "gloss": "trinta"
     },
     {
       "surface": "ושתים",
-      "gloss": "dois"
+      "gloss": "e dois"
     },
     {
       "surface": "לארתחשסתא",
-      "gloss": "de Artaxerxes"
+      "gloss": "de Artajshasta"
     },
     {
       "surface": "המלך",
@@ -80,7 +78,7 @@
     },
     {
       "surface": "שנים",
-      "gloss": "⟨por⟩ doze"
+      "gloss": "anos"
     },
     {
       "surface": "שתים",
@@ -88,7 +86,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "dez"
+      "gloss": "(e) dez"
     },
     {
       "surface": "אני",
@@ -100,11 +98,11 @@
     },
     {
       "surface": "לחם",
-      "gloss": "pão"
+      "gloss": "⟨o⟩ pão"
     },
     {
       "surface": "הפחה",
-      "gloss": "⟨do⟩ governador"
+      "gloss": "do pachá"
     },
     {
       "surface": "לא",
@@ -115,16 +113,6 @@
       "gloss": "comemos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 8,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:26:02.317894384Z",
+  "model": "glm-5.2"
 }

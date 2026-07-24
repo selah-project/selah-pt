@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "ezekiel 31:18",
   "book": "ezekiel",
-  "chapter": 31,
-  "verse": 18,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:35:31.273935459Z",
-  "translation": "A quem tu assemelhavas ⟨como⟩ ⟨esta⟩ em glória e em grandeza entre as árvores do Éden? Contigo serão descidas ⟨as⟩ árvores do Éden ⟨para⟩ a terra das profundezas: no meio ⟨dos⟩ incircuncisos tu te deitarás ⟨com⟩ ⟨os⟩ trespassados ⟨da⟩ espada. Ele ⟨é⟩ Paró e toda a sua multidão, declara ⟨o⟩ Soberano YHWH.",
+  "chapter": 31,
+  "translation": "A quem te comparaste assim em glória e em grandeza entre as árvores do Éden? E serás descido ⟨את⟩ as árvores do Éden à terra inferior, no meio dos incircuncisos deitar-te-ás ⟨את⟩ os traspassados pela espada. Este ⟨é⟩ Paró e toda a sua multidão — oráculo de Adonai YHWH.",
   "tokens": [
     {
       "surface": "אל",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "דמית",
-      "gloss": "tu assemelhavas"
+      "gloss": "te comparaste"
     },
     {
       "surface": "ככה",
-      "gloss": "⟨como⟩ ⟨esta⟩"
+      "gloss": "assim"
     },
     {
       "surface": "בכבוד",
@@ -43,12 +41,12 @@
     },
     {
       "surface": "והורדת",
-      "gloss": "Contigo serão descidas"
+      "gloss": "E serás descido"
     },
     {
       "surface": "את",
-      "gloss": "⟨as⟩",
-      "marks": "árvores do Éden"
+      "gloss": "⟨את⟩",
+      "marks": "as árvores"
     },
     {
       "surface": "עצי",
@@ -60,44 +58,44 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨para⟩"
+      "gloss": "a"
     },
     {
       "surface": "ארץ",
-      "gloss": "a terra"
+      "gloss": "terra"
     },
     {
       "surface": "תחתית",
-      "gloss": "das profundezas"
+      "gloss": "inferior"
     },
     {
       "surface": "בתוך",
-      "gloss": "no meio ⟨dos⟩"
+      "gloss": "no meio"
     },
     {
       "surface": "ערלים",
-      "gloss": "incircuncisos"
+      "gloss": "dos incircuncisos"
     },
     {
       "surface": "תשכב",
-      "gloss": "tu te deitarás"
+      "gloss": "deitar-te-ás"
     },
     {
       "surface": "את",
-      "gloss": "⟨com⟩ ⟨os⟩",
-      "marks": "trespessados da espada"
+      "gloss": "⟨את⟩",
+      "marks": "os traspassados"
     },
     {
       "surface": "חללי",
-      "gloss": "trespessados"
+      "gloss": "os traspassados"
     },
     {
       "surface": "חרב",
-      "gloss": "⟨da⟩ espada"
+      "gloss": "pela espada"
     },
     {
       "surface": "הוא",
-      "gloss": "Ele ⟨é⟩"
+      "gloss": "Este"
     },
     {
       "surface": "פרעה",
@@ -113,27 +111,17 @@
     },
     {
       "surface": "נאם",
-      "gloss": "declara"
+      "gloss": "oráculo"
     },
     {
       "surface": "אדני",
-      "gloss": "⟨o⟩ Soberano"
+      "gloss": "de Adonai"
     },
     {
       "surface": "יהוה",
       "gloss": "YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 22,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:00:34.473345430Z",
+  "model": "glm-5.2"
 }

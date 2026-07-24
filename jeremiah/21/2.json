@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "jeremiah 21:2",
   "book": "jeremiah",
-  "chapter": 21,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:23:18.905364044Z",
-  "translation": "Pergunta ⟨por⟩ nós, ⟨por⟩ favor, ⟨a⟩ YHWH, porque Nevujadnetzar, rei de Bavel, está ⟨a⟩ guerrear contra nós; talvez YHWH faça ⟨por⟩ nós algo conforme todos ⟨os⟩ seus prodígios, e ⟨ele⟩ suba de sobre nós.",
+  "chapter": 21,
+  "translation": "Consulta, peço-te, em nosso favor a ⟨את⟩ YHWH, pois Nevujadnetzar, rei de Bavel, guerreia contra nós — talvez YHWH faça conosco conforme todas as suas maravilhas, e ⟨ele⟩ se retire de sobre nós.",
   "tokens": [
     {
       "surface": "דרש",
-      "gloss": "Pergunta"
+      "gloss": "consulta"
     },
     {
       "surface": "נא",
-      "gloss": "⟨por⟩ nós, ⟨por⟩ favor"
+      "gloss": "peço-te"
     },
     {
       "surface": "בעדנו",
-      "gloss": "⟨por⟩ nós"
+      "gloss": "em nosso favor"
     },
     {
       "surface": "את",
@@ -32,7 +30,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "pois"
     },
     {
       "surface": "נבוכדראצר",
@@ -44,11 +42,11 @@
     },
     {
       "surface": "בבל",
-      "gloss": "de Bavel"
+      "gloss": "Bavel"
     },
     {
       "surface": "נלחם",
-      "gloss": "está ⟨a⟩ guerrear"
+      "gloss": "guerreia"
     },
     {
       "surface": "עלינו",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "faça ⟨por⟩ nós"
+      "gloss": "faça"
     },
     {
       "surface": "יהוה",
@@ -68,42 +66,25 @@
     },
     {
       "surface": "אותנו",
-      "gloss": "⟨por⟩ nós"
+      "gloss": "conosco"
     },
     {
       "surface": "ככל",
-      "gloss": "conforme todos ⟨os⟩"
+      "gloss": "conforme todas as"
     },
     {
       "surface": "נפלאתיו",
-      "gloss": "seus prodígios"
+      "gloss": "suas maravilhas"
     },
     {
       "surface": "ויעלה",
-      "gloss": "e ⟨ele⟩ suba"
+      "gloss": "e se retire"
     },
     {
       "surface": "מעלינו",
       "gloss": "de sobre nós"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Nabucodonosor",
-      "to": "Nevujadnetzar",
-      "token-index": 6,
-      "strongs": 5019,
-      "hebrew": "נבוכדנאצר"
-    },
-    {
-      "from": "Babilônia",
-      "to": "Bavel",
-      "token-index": 8,
-      "strongs": 894,
-      "hebrew": "בבל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:49:00.331490120Z",
+  "model": "glm-5.2"
 }

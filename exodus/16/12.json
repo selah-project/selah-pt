@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "exodus 16:12",
   "book": "exodus",
-  "chapter": 16,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:58:28.142341236Z",
-  "translation": "Ouvi ⟨as⟩ murmurações ⟨dos⟩ filhos de Yisrael; dize-lhes: Entre ⟨os⟩ dois arrebolares comereis carne, e ⟨pela⟩ manhã vos saciareis ⟨de⟩ pão; e sabereis que eu sou HaShem vosso Elohim.",
+  "chapter": 16,
+  "translation": "Ouvi ⟨את⟩ as murmurações dos filhos de Yisrael. Fala-lhes, dizendo: Entre as tardes comereis carne, e pela manhã vos saciareis de pão; e sabereis que Eu ⟨sou⟩ YHWH, ⟨o⟩ vosso Elohim.",
   "tokens": [
     {
       "surface": "שמעתי",
@@ -16,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "murmurações"
+      "marks": "as murmurações"
     },
     {
       "surface": "תלונת",
-      "gloss": "murmurações"
+      "gloss": "as murmurações"
     },
     {
       "surface": "בני",
-      "gloss": "⟨dos⟩ filhos"
+      "gloss": "dos filhos"
     },
     {
       "surface": "ישראל",
@@ -32,15 +30,15 @@
     },
     {
       "surface": "דבר",
-      "gloss": "dize-lhes"
+      "gloss": "Fala"
     },
     {
       "surface": "אלהם",
-      "gloss": "-"
+      "gloss": "para eles"
     },
     {
       "surface": "לאמר",
-      "gloss": "-"
+      "gloss": "dizendo"
     },
     {
       "surface": "בין",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "הערבים",
-      "gloss": "⟨os⟩ dois arrebolares"
+      "gloss": "as tardes"
     },
     {
       "surface": "תאכלו",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "ובבקר",
-      "gloss": "e ⟨pela⟩ manhã"
+      "gloss": "e pela manhã"
     },
     {
       "surface": "תשבעו",
@@ -68,7 +66,7 @@
     },
     {
       "surface": "לחם",
-      "gloss": "⟨de⟩ pão"
+      "gloss": "de pão"
     },
     {
       "surface": "וידעתם",
@@ -80,7 +78,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "eu sou"
+      "gloss": "Eu"
     },
     {
       "surface": "יהוה",
@@ -91,16 +89,6 @@
       "gloss": "vosso Elohim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 4,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:41:04.151086047Z",
+  "model": "glm-5.2"
 }

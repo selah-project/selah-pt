@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "1-chronicles 24:25",
   "book": "1-chronicles",
-  "chapter": 24,
-  "verse": 25,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:58:49.920981187Z",
-  "translation": "O irmão de Micaías ⟨é⟩ Jishia; dos filhos de Jishia: ⟨את⟩ Zekharyá",
+  "chapter": 24,
+  "translation": "O irmão de Miká ⟨foi⟩ Yishiyá; dos filhos de Yishiyá: Zekharyá.",
   "tokens": [
     {
       "surface": "אחי",
-      "gloss": "O irmão de"
+      "gloss": "o irmão de"
     },
     {
       "surface": "מיכה",
-      "gloss": "Micaías"
+      "gloss": "Miká"
     },
     {
       "surface": "ישיה",
-      "gloss": "Jishia"
+      "gloss": "Yishiyá"
     },
     {
       "surface": "לבני",
@@ -27,24 +25,13 @@
     },
     {
       "surface": "ישיה",
-      "gloss": "Jishia"
+      "gloss": "Yishiyá"
     },
     {
       "surface": "זכריהו",
-      "gloss": "Zekharyá",
-      "marks": "filhos de Jishia"
+      "gloss": "Zekharyá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Zacarias",
-      "to": "Zekharyá",
-      "token-index": 5,
-      "strongs": 2148,
-      "hebrew": "זכריה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:30:02.750123786Z",
+  "model": "glm-5.2"
 }

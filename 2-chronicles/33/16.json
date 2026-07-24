@@ -1,26 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "2-chronicles 33:16",
   "book": "2-chronicles",
-  "chapter": 33,
-  "verse": 16,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:47:27.698439847Z",
-  "translation": "E ele restaurou ⟨o⟩ altar de YHWH e sacrificou sobre ⟨ele⟩ sacrifícios de shlamim e ⟨de⟩ agradecimento, e ordenou a Judá para servir ⟨a⟩ YHWH, Elohim de Yisrael.",
+  "chapter": 33,
+  "translation": "E preparou ⟨את⟩ o altar de YHWH, e sacrificou sobre ele Shelamim e ofertas de todá, e disse a Yehudá para servir ⟨את⟩ YHWH, Elohim de Yisrael.",
   "tokens": [
     {
       "surface": "ויכן",
-      "gloss": "E ele restaurou"
+      "gloss": "E preparou"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "altar"
+      "marks": "o altar"
     },
     {
       "surface": "מזבח",
-      "gloss": "altar"
+      "gloss": "o altar"
     },
     {
       "surface": "יהוה",
@@ -32,27 +30,27 @@
     },
     {
       "surface": "עליו",
-      "gloss": "sobre ⟨ele⟩"
+      "gloss": "sobre ele"
     },
     {
       "surface": "זבחי",
-      "gloss": "sacrifícios"
+      "gloss": "Shelamim"
     },
     {
       "surface": "שלמים",
-      "gloss": "de shlamim"
+      "gloss": "de paz"
     },
     {
       "surface": "ותודה",
-      "gloss": "e ⟨de⟩ agradecimento"
+      "gloss": "e ofertas de todá"
     },
     {
       "surface": "ויאמר",
-      "gloss": "e ordenou"
+      "gloss": "e disse"
     },
     {
       "surface": "ליהודה",
-      "gloss": "a Judá"
+      "gloss": "a Yehudá"
     },
     {
       "surface": "לעבוד",
@@ -69,23 +67,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 15,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:36:02.933474792Z",
+  "model": "glm-5.2"
 }

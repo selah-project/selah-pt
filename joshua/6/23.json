@@ -1,42 +1,40 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "joshua 6:23",
   "book": "joshua",
-  "chapter": 6,
-  "verse": 23,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:30:23.448929495Z",
-  "translation": "E os jovens, ⟨os⟩ espias, entraram e trouxeram ⟨a⟩ Raabe e ⟨a⟩ seu pai e ⟨a⟩ sua mãe e ⟨a⟩ seus irmãos e ⟨a⟩ tudo o que ⟨era⟩ dela e ⟨a⟩ todas ⟨as⟩ suas famílias; eles trouxeram ⟨para⟩ fora e ⟨os⟩ colocaram ⟨para⟩ fora do acampamento de Yisrael.",
+  "chapter": 6,
+  "translation": "E entraram ⟨os⟩ jovens ⟨os⟩ espias, e tiraram ⟨את⟩ Rajav, e ⟨את⟩ seu pai, e ⟨את⟩ sua mãe, e ⟨את⟩ seus irmãos, e ⟨את⟩ todos os que ⟨lhe pertenciam⟩; e ⟨את⟩ todas as suas famílias — tiraram ⟨estes⟩; e os deixaram fora do acampamento de Yisrael.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "E os jovens"
+      "gloss": "e entraram"
     },
     {
       "surface": "הנערים",
-      "gloss": "⟨os⟩ espias"
+      "gloss": "⟨os⟩ jovens"
     },
     {
       "surface": "המרגלים",
-      "gloss": "entraram"
+      "gloss": "⟨os⟩ espias"
     },
     {
       "surface": "ויציאו",
-      "gloss": "e trouxeram"
+      "gloss": "e tiraram"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Raabe"
+      "marks": "Rajav"
     },
     {
       "surface": "רחב",
-      "gloss": "Raabe"
+      "gloss": "Rajav"
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨a⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "seu pai"
     },
     {
@@ -45,7 +43,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨a⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "sua mãe"
     },
     {
@@ -54,7 +52,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨a⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "seus irmãos"
     },
     {
@@ -63,24 +61,24 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨a⟩",
-      "marks": "tudo"
+      "gloss": "e ⟨את⟩",
+      "marks": "todos"
     },
     {
       "surface": "כל",
-      "gloss": "tudo"
+      "gloss": "todos"
     },
     {
       "surface": "אשר",
-      "gloss": "o que"
+      "gloss": "os que"
     },
     {
       "surface": "לה",
-      "gloss": "⟨era⟩"
+      "gloss": "⟨a ela pertenciam⟩"
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨a⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "todas"
     },
     {
@@ -89,19 +87,19 @@
     },
     {
       "surface": "משפחותיה",
-      "gloss": "suas famílias"
+      "gloss": "as suas famílias"
     },
     {
       "surface": "הוציאו",
-      "gloss": "eles trouxeram ⟨para⟩ fora"
+      "gloss": "tiraram"
     },
     {
       "surface": "ויניחום",
-      "gloss": "e ⟨os⟩ colocaram ⟨para⟩ fora"
+      "gloss": "e os deixaram"
     },
     {
       "surface": "מחוץ",
-      "gloss": "⟨para⟩ fora"
+      "gloss": "fora"
     },
     {
       "surface": "למחנה",
@@ -112,16 +110,6 @@
       "gloss": "de Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 23,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:09:47.736800184Z",
+  "model": "glm-5.2"
 }

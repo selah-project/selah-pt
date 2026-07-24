@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "exodus 14:4",
   "book": "exodus",
-  "chapter": 14,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:54:05.876889793Z",
-  "translation": "E fortalecerei ⟨o⟩ coração de Paró, e ele perseguirá após eles, e serei glorificado ⟨em⟩ Paró e ⟨em⟩ todo ⟨o⟩ seu exército, e saberão ⟨os⟩ egípcios que eu ⟨sou⟩ YHWH, e fizeram assim.",
+  "chapter": 14,
+  "translation": "E Eu fortalecerei ⟨את⟩ o coração de Paró, e ele perseguirá atrás deles; e serei engrandecido em Paró e em todo o seu exército; e os de Mitzráyim saberão que Eu sou YHWH.\" E eles fizeram assim.",
   "tokens": [
     {
       "surface": "וחזקתי",
-      "gloss": "E fortalecerei"
+      "gloss": "E Eu fortalecerei"
     },
     {
       "surface": "את",
@@ -20,7 +18,7 @@
     },
     {
       "surface": "לב",
-      "gloss": "coração"
+      "gloss": "o coração"
     },
     {
       "surface": "פרעה",
@@ -32,23 +30,23 @@
     },
     {
       "surface": "אחריהם",
-      "gloss": "após eles"
+      "gloss": "atrás deles"
     },
     {
       "surface": "ואכבדה",
-      "gloss": "e serei glorificado"
+      "gloss": "e serei engrandecido"
     },
     {
       "surface": "בפרעה",
-      "gloss": "⟨em⟩ Faraó"
+      "gloss": "em Paró"
     },
     {
       "surface": "ובכל",
-      "gloss": "e ⟨em⟩ todo"
+      "gloss": "e em todo"
     },
     {
       "surface": "חילו",
-      "gloss": "⟨o⟩ seu exército"
+      "gloss": "o seu exército"
     },
     {
       "surface": "וידעו",
@@ -56,7 +54,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "⟨os⟩ egípcios"
+      "gloss": "os de Mitzráyim"
     },
     {
       "surface": "כי",
@@ -64,31 +62,21 @@
     },
     {
       "surface": "אני",
-      "gloss": "eu"
+      "gloss": "Eu sou"
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨sou⟩ YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויעשו",
-      "gloss": "e fizeram"
+      "gloss": "E eles fizeram"
     },
     {
       "surface": "כן",
       "gloss": "assim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 3,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:40:40.788030669Z",
+  "model": "glm-5.2"
 }

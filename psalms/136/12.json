@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "psalms 136:12",
   "book": "psalms",
-  "chapter": 136,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T11:09:51.632013617Z",
-  "translation": "Com mão forte ⟨e⟩ braço estendido ⟨את⟩ porque para sempre ⟨é⟩ ⟨o⟩ seu Jésed",
+  "chapter": 136,
+  "translation": "Com mão forte e com braço estendido, pois para sempre ⟨é⟩ o seu Jésed.",
   "tokens": [
     {
       "surface": "ביד",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "ובזרוע",
-      "gloss": "⟨e⟩ braço"
+      "gloss": "e com braço"
     },
     {
       "surface": "נטויה",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "pois"
     },
     {
       "surface": "לעולם",
@@ -35,19 +33,9 @@
     },
     {
       "surface": "חסדו",
-      "gloss": "⟨o⟩ seu Jésed"
+      "gloss": "o seu Jésed"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "amor leal",
-      "to": "Jésed",
-      "token-index": 6,
-      "strongs": 2617,
-      "hebrew": "חסד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:13:35.646382486Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "job 9:2",
   "book": "job",
-  "chapter": 9,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T11:51:45.714067042Z",
-  "translation": "Na verdade, eu sei que ⟨é⟩ assim; e como ⟨será⟩ justificado ⟨את⟩ um mortal com ⟨את⟩ El?",
+  "chapter": 9,
+  "translation": "Em verdade, eu sei que ⟨é⟩ assim; e como ⟨poderia⟩ um Enosh ⟨ser⟩ justo diante de El?",
   "tokens": [
     {
       "surface": "אמנם",
-      "gloss": "Na verdade"
+      "gloss": "Em verdade"
     },
     {
       "surface": "ידעתי",
@@ -30,33 +28,22 @@
       "gloss": "e como"
     },
     {
-      "surface": "י�צדק",
-      "gloss": "será justificado"
+      "surface": "יצדק",
+      "gloss": "⟨ser⟩ justo"
     },
     {
       "surface": "אנוש",
-      "gloss": "um mortal",
-      "marks": "um mortal"
+      "gloss": "um Enosh"
     },
     {
       "surface": "עם",
-      "gloss": "com"
+      "gloss": "diante de"
     },
     {
       "surface": "אל",
       "gloss": "El"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "o Poderoso",
-      "to": "El",
-      "token-index": 8,
-      "strongs": 410,
-      "hebrew": "אל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:17:02.279689712Z",
+  "model": "glm-5.2"
 }

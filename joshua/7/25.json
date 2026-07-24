@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "joshua 7:25",
   "book": "joshua",
-  "chapter": 7,
-  "verse": 25,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:31:24.076814363Z",
-  "translation": "E Yehoshua disse: Que ⟨nos⟩ ⟨tens⟩ perturbado? YHWH ⟨te⟩ perturberá ⟨em⟩ este dia. E toda ⟨a⟩ Yisrael apedrejou ⟨com⟩ pedras ⟨o⟩, e queimaram-os ⟨com⟩ fogo, e apedrejaram-os ⟨com⟩ pedras.",
+  "chapter": 7,
+  "translation": "E Yehoshua disse: Por que nos perturbaste? YHWH te perturbará neste dia. E todo Yisrael ⟨את⟩ o apedrejou, pedra; e queimaram ⟨את⟩ a eles no fogo; e os apedrejaram ⟨את⟩ a eles com pedras.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E ... disse"
+      "gloss": "E disse"
     },
     {
       "surface": "יהושע",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "מה",
-      "gloss": "Que"
+      "gloss": "Por que"
     },
     {
       "surface": "עכרתנו",
-      "gloss": "⟨nos⟩ ⟨tens⟩ perturbado"
+      "gloss": "nos perturbaste"
     },
     {
       "surface": "יעכרך",
-      "gloss": "⟨te⟩ perturberá"
+      "gloss": "te perturbará"
     },
     {
       "surface": "יהוה",
@@ -35,24 +33,24 @@
     },
     {
       "surface": "ביום",
-      "gloss": "⟨em⟩"
+      "gloss": "no dia"
     },
     {
       "surface": "הזה",
-      "gloss": "este dia"
+      "gloss": "este"
     },
     {
       "surface": "וירגמו",
-      "gloss": "apedrejou"
+      "gloss": "E apedrejaram"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨com⟩",
-      "marks": "pedras"
+      "gloss": "⟨את⟩",
+      "marks": "ele"
     },
     {
       "surface": "כל",
-      "gloss": "toda ⟨a⟩"
+      "gloss": "todo"
     },
     {
       "surface": "ישראל",
@@ -60,52 +58,35 @@
     },
     {
       "surface": "אבן",
-      "gloss": "pedras"
+      "gloss": "pedra"
     },
     {
-      "surface": "ואשרפו",
-      "gloss": "e queimaram-os"
+      "surface": "וישרפו",
+      "gloss": "E queimaram"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨com⟩",
-      "marks": "fogo"
+      "gloss": "⟨את⟩",
+      "marks": "a eles"
     },
     {
       "surface": "באש",
-      "gloss": "fogo"
+      "gloss": "no fogo"
     },
     {
       "surface": "ויסקלו",
-      "gloss": "e apedrejaram-os"
+      "gloss": "E apedrejaram"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨com⟩",
-      "marks": "pedras"
+      "gloss": "⟨את⟩",
+      "marks": "a eles"
     },
     {
       "surface": "באבנים",
-      "gloss": "pedras"
+      "gloss": "com pedras"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Josué",
-      "to": "Yehoshua",
-      "token-index": 1,
-      "strongs": 3091,
-      "hebrew": "יהושע"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 11,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:10:10.915380423Z",
+  "model": "glm-5.2"
 }

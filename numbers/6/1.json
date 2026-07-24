@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "numbers 6:1",
   "book": "numbers",
-  "chapter": 6,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:14:19.058392115Z",
-  "translation": "E YHWH falou ⟨את⟩ Moshé, dizendo:",
+  "chapter": 6,
+  "translation": "E YHWH falou ⟨com⟩ Moshé, dizendo:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "E ... falou"
+      "gloss": "E falou"
     },
     {
       "surface": "יהוה",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "a"
+      "gloss": "⟨com⟩"
     },
     {
       "surface": "משה",
@@ -27,19 +25,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": ", dizendo:"
+      "gloss": "dizendo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moisés",
-      "to": "Moshé",
-      "token-index": 3,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:53:40.251575349Z",
+  "model": "glm-5.2"
 }

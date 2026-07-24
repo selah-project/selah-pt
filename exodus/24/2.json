@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "exodus 24:2",
   "book": "exodus",
-  "chapter": 24,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T01:11:32.359291834Z",
-  "translation": "E Moshé aproximou-se sozinho a ⟨את⟩ YHWH, e eles não ⟨são⟩ ⟨para⟩ aproximarem-se, e o povo não ⟨é⟩ ⟨para⟩ subir com ele.",
+  "chapter": 24,
+  "translation": "E Moshé se aproximará sozinho para ⟨junto de⟩ YHWH, e eles não se aproximarão; e o povo não subirá com ele.",
   "tokens": [
     {
       "surface": "ונגש",
-      "gloss": "E Mosheh aproximou-se"
+      "gloss": "E se aproximará"
     },
     {
       "surface": "משה",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "a"
+      "gloss": "para ⟨junto de⟩"
     },
     {
       "surface": "יהוה",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "יגשו",
-      "gloss": "são para aproximarem-se"
+      "gloss": "se aproximarão"
     },
     {
       "surface": "והעם",
@@ -51,23 +49,13 @@
     },
     {
       "surface": "יעלו",
-      "gloss": "é para subir"
+      "gloss": "subirá"
     },
     {
       "surface": "עמו",
       "gloss": "com ele"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Mosheh",
-      "to": "Moshé",
-      "token-index": 1,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:42:25.645277584Z",
+  "model": "glm-5.2"
 }

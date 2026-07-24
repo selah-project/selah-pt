@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "jeremiah 21:8",
   "book": "jeremiah",
-  "chapter": 21,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T15:29:46.827033473Z",
-  "translation": "E a este povo dirás: Assim diz YHWH: Eis que ponho diante de vós ⟨את⟩ o caminho da vida e ⟨את⟩ o caminho da morte",
+  "chapter": 21,
+  "translation": "E a este povo dirás: Assim disse YHWH: ⟨⟨Eis-me aqui⟩⟩, eu ponho diante de vós ⟨את⟩ o caminho da vida e ⟨את⟩ o caminho da morte.",
   "tokens": [
     {
       "surface": "ואל",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "este"
     },
     {
       "surface": "תאמר",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "diz"
+      "gloss": "disse"
     },
     {
       "surface": "יהוה",
@@ -39,11 +37,11 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Eis que"
+      "gloss": "Eis-me aqui"
     },
     {
       "surface": "נתן",
-      "gloss": "ponho"
+      "gloss": "eu ponho"
     },
     {
       "surface": "לפניכם",
@@ -52,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o caminho"
+      "marks": "o caminho da vida"
     },
     {
       "surface": "דרך",
@@ -65,7 +63,7 @@
     {
       "surface": "ואת",
       "gloss": "e ⟨את⟩",
-      "marks": "o caminho"
+      "marks": "o caminho da morte"
     },
     {
       "surface": "דרך",
@@ -75,5 +73,7 @@
       "surface": "המות",
       "gloss": "da morte"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:49:00.441073928Z",
+  "model": "glm-5.2"
 }

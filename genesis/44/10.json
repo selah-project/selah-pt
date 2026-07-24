@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "genesis 44:10",
   "book": "genesis",
-  "chapter": 44,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T15:03:00.183026330Z",
-  "translation": "E disse: também agora segundo as vossas palavras ⟨é⟩ assim; aquele com quem for encontrado ⟨o⟩ copo será meu servo, e vós sereis inocentes.",
+  "chapter": 44,
+  "translation": "E ele disse: também agora, conforme as ⟨vossas⟩ palavras, assim ⟨é⟩; aquele com quem ⟨את⟩ for encontrado será meu servo, e vós sereis inocentes.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E disse"
+      "gloss": "e ele disse"
     },
     {
       "surface": "גם",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "כדבריכם",
-      "gloss": "segundo as vossas palavras"
+      "gloss": "conforme as vossas palavras"
     },
     {
       "surface": "כן",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aquele com quem"
+      "gloss": "aquele que"
     },
     {
       "surface": "ימצא",
@@ -43,8 +41,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨o⟩",
-      "marks": "copo"
+      "gloss": "⟨את⟩ ele",
+      "marks": "ele (a copa encontrada com ele)"
     },
     {
       "surface": "יהיה",
@@ -52,7 +50,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "meu"
+      "gloss": "para mim"
     },
     {
       "surface": "עבד",
@@ -70,5 +68,7 @@
       "surface": "נקים",
       "gloss": "inocentes"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:36:46.217193330Z",
+  "model": "glm-5.2"
 }

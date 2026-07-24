@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "1-samuel 24:6",
   "book": "1-samuel",
-  "chapter": 24,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T11:57:56.563057049Z",
-  "translation": "E aconteceu depois disto, e o coração de David o feriu, por ter cortado ⟨את⟩ a borda ⟨que era⟩ de Shaul.",
+  "chapter": 24,
+  "translation": "E aconteceu depois destas coisas, e ⟨a⟩ consciência de David o feriu ⟨por ele⟩ ter cortado ⟨את⟩ ⟨a⟩ orla que ⟨pertencia⟩ a Shaul.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -19,28 +17,28 @@
     },
     {
       "surface": "כן",
-      "gloss": "disto"
+      "gloss": "destas coisas"
     },
     {
       "surface": "ויך",
-      "gloss": "e o coração feriu"
+      "gloss": "e feriu"
     },
     {
       "surface": "לב",
-      "gloss": "o coração"
+      "gloss": "o coração \/ a consciência"
     },
     {
       "surface": "דוד",
-      "gloss": "de David"
+      "gloss": "David"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "a borda"
+      "marks": "ele (a Shaul implícito pelo contexto do objeto cortado)"
     },
     {
       "surface": "על",
-      "gloss": "sobre"
+      "gloss": "por"
     },
     {
       "surface": "אשר",
@@ -48,16 +46,16 @@
     },
     {
       "surface": "כרת",
-      "gloss": "cortou"
+      "gloss": "ele cortar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a borda"
+      "marks": "a orla (כנף)"
     },
     {
       "surface": "כנף",
-      "gloss": "a borda"
+      "gloss": "orla \/ borda"
     },
     {
       "surface": "אשר",
@@ -65,7 +63,9 @@
     },
     {
       "surface": "לשאול",
-      "gloss": "de Shaul"
+      "gloss": "a Shaul"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:22:20.328645926Z",
+  "model": "glm-5.2"
 }

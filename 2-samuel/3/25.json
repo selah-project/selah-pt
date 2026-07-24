@@ -1,22 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "2-samuel 3:25",
   "book": "2-samuel",
-  "chapter": 3,
-  "verse": 25,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:47:31.204824366Z",
-  "translation": "Tu conheces ⟨את⟩ Avner ben Ner, pois ⟨é⟩ para enganar-te que ele veio, e para conhecer ⟨את⟩ a tua saída e ⟨את⟩ ⟨a⟩ tua entrada, e para conhecer ⟨את⟩ tudo o que tu ⟨estás⟩ fazendo.",
+  "chapter": 3,
+  "translation": "Sabes que ⟨את⟩ Avner ben-Ner veio para enganar-te, e para conhecer ⟨את⟩ a tua saída e ⟨את⟩ a tua entrada, e para conhecer ⟨את⟩ tudo ⟨o que⟩ tu fazes.",
   "tokens": [
     {
       "surface": "יָדַ֨עְתָּ֙",
-      "gloss": "Tu conheces"
+      "gloss": "Sabes"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
     },
     {
       "surface": "אַבְנֵ֣ר",
-      "gloss": "⟨את⟩",
-      "marks": "Avner"
+      "gloss": "Avner"
     },
     {
       "surface": "בֶּן",
@@ -28,36 +30,40 @@
     },
     {
       "surface": "כִּ֥י",
-      "gloss": "pois"
+      "gloss": "que"
     },
     {
-      "surface": "לְ\/פַתֹּתְ\/ךָ֖",
-      "gloss": "⟨é⟩ para enganar-te"
+      "surface": "לְפַתֹּתְךָ֖",
+      "gloss": "para enganar-te"
     },
     {
       "surface": "בָּ֑א",
-      "gloss": "que ele veio"
+      "gloss": "veio"
     },
     {
-      "surface": "וְ\/לָ\/דַ֜עַת",
+      "surface": "וְלָדַ֜עַת",
       "gloss": "e para conhecer"
     },
     {
-      "surface": "מוֹצָֽאֲ\/ךָ֙",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "a tua saída"
     },
     {
-      "surface": "וְ\/אֶת",
+      "surface": "מוֹצָֽאֲךָ֙",
+      "gloss": "a tua saída"
+    },
+    {
+      "surface": "וְאֶת",
       "gloss": "e ⟨את⟩",
       "marks": "a tua entrada"
     },
     {
-      "surface": "מבוא\/ך",
-      "gloss": "⟨a⟩ tua entrada"
+      "surface": "מבואך",
+      "gloss": "a tua entrada"
     },
     {
-      "surface": "וְ\/לָ\/דַ֕עַת",
+      "surface": "וְלָדַ֕עַת",
       "gloss": "e para conhecer"
     },
     {
@@ -79,7 +85,9 @@
     },
     {
       "surface": "עֹשֶֽׂה",
-      "gloss": "⟨estás⟩ fazendo"
+      "gloss": "fazes"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:24:28.030266414Z",
+  "model": "glm-5.2"
 }

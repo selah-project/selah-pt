@@ -1,30 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 21,
   "ref": "ezekiel 30:21",
   "book": "ezekiel",
-  "chapter": 30,
-  "verse": 21,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:34:40.665960313Z",
-  "translation": "Filho do homem, ⟨o⟩ braço de Paró, rei ⟨do⟩ Mitzráyim, eu quebrei; e eis que não ⟨foi⟩ envolvido em curativo, para colocar ⟨um⟩ pavio ⟨de⟩ medicamento, para ⟨o⟩ embrulhar ⟨com⟩ atadura, para ⟨o⟩ fortalecer, para pegar ⟨a⟩ espada",
+  "chapter": 30,
+  "translation": "Filho de adam: ⟨את⟩ o braço de Paró, rei de Mitzráyim, quebrei — e eis que não foi enfaixada para se aplicar remédios, para se pôr bandagem para enfaixá-la, para fortalecê-la para empunhar a espada.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "Filho"
+      "gloss": "Filho de"
     },
     {
       "surface": "אדם",
-      "gloss": "do homem"
+      "gloss": "adam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "braço"
+      "marks": "o braço"
     },
     {
       "surface": "זרוע",
-      "gloss": "braço"
+      "gloss": "o braço"
     },
     {
       "surface": "פרעה",
@@ -36,11 +34,11 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "⟨do⟩ Mitzráyim"
+      "gloss": "de Mitzráyim"
     },
     {
       "surface": "שברתי",
-      "gloss": "eu quebrei"
+      "gloss": "quebrei"
     },
     {
       "surface": "והנה",
@@ -52,58 +50,41 @@
     },
     {
       "surface": "חבשה",
-      "gloss": "⟨foi⟩ envolvido"
+      "gloss": "foi enfaixada"
     },
     {
       "surface": "לתת",
-      "gloss": "em curativo"
+      "gloss": "para se aplicar"
     },
     {
       "surface": "רפאות",
-      "gloss": "para colocar"
+      "gloss": "remédios"
     },
     {
       "surface": "לשום",
-      "gloss": "⟨um⟩ pavio"
+      "gloss": "para se pôr"
     },
     {
       "surface": "חתול",
-      "gloss": "⟨de⟩ medicamento"
+      "gloss": "bandagem"
     },
     {
       "surface": "לחבשה",
-      "gloss": "para ⟨o⟩ embrulhar"
+      "gloss": "para enfaixá-la"
     },
     {
       "surface": "לחזקה",
-      "gloss": "⟨com⟩ atadura"
+      "gloss": "para fortalecê-la"
     },
     {
       "surface": "לתפש",
-      "gloss": "para ⟨o⟩ fortalecer"
+      "gloss": "para empunhar"
     },
     {
       "surface": "בחרב",
-      "gloss": "para pegar ⟨a⟩ espada"
+      "gloss": "a espada"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 4,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    },
-    {
-      "from": "Egito",
-      "to": "Mitzráyim",
-      "token-index": 6,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:41:11.556962076Z",
+  "model": "glm-5.2"
 }

@@ -1,55 +1,54 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "jeremiah 30:9",
   "book": "jeremiah",
-  "chapter": 30,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T15:35:02.938563901Z",
-  "translation": "E eles servirão a YHWH, seu Elohim, e ⟨את⟩ David, seu rei, que eu levantarei para eles.",
+  "chapter": 30,
+  "translation": "E servirão a ⟨את⟩ YHWH seu Elohim, e ⟨את⟩ David seu rei, que ⟨eu⟩ levantarei para eles.",
   "tokens": [
     {
-      "surface": "וְ\/עָבְד֔וּ",
-      "gloss": "E eles servirão"
+      "surface": "וְעָ֣בְד֔וּ",
+      "gloss": "E servirão"
     },
     {
       "surface": "אֵ֖ת",
       "gloss": "⟨את⟩",
-      "marks": "David"
+      "marks": "YHWH"
     },
     {
       "surface": "יְהוָ֣ה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אֱלֹֽהֵיהֶ֑ם",
       "gloss": "YHWH"
     },
     {
-      "surface": "אֱלֹֽהֵי\/הֶ֑ם",
-      "gloss": ", seu Elohim"
-    },
-    {
-      "surface": "וְ\/אֵת֙",
-      "gloss": ", e ⟨את⟩",
-      "marks": "David"
+      "surface": "וְאֵת֙",
+      "gloss": "seu Elohim"
     },
     {
       "surface": "דָּוִ֣ד",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "מַלְכָּ֔ם",
       "gloss": "David"
     },
     {
-      "surface": "מַלְכָּ֔\/ם",
-      "gloss": ", seu rei"
-    },
-    {
       "surface": "אֲשֶׁ֥ר",
-      "gloss": ", que"
+      "gloss": "seu rei"
     },
     {
       "surface": "אָקִ֖ים",
-      "gloss": "eu levantarei"
+      "gloss": "que"
     },
     {
-      "surface": "לָ\/הֶֽם",
-      "gloss": "para eles"
+      "surface": "לָהֶֽם",
+      "gloss": "levantarei"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:51:17.568024354Z",
+  "model": "glm-5.2"
 }

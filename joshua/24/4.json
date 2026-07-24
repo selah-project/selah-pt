@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "joshua 24:4",
   "book": "joshua",
-  "chapter": 24,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:17:18.695654518Z",
-  "translation": "E dei ⟨את⟩ Yaakov e ⟨את⟩ Esav a Yitzjak; e dei ⟨את⟩ o monte Seir a Esav, para possuí-lo; e Yaakov e seus filhos desceram ao Mitzráyim.",
+  "chapter": 24,
+  "translation": "E dei a Yitzjak ⟨את⟩ Yaakov e ⟨את⟩ Esav; e dei a Esav ⟨את⟩ o monte Seir, para possuí-lo; e Yaakov e seus filhos desceram ⟨a⟩ Mitzráyim.",
   "tokens": [
     {
       "surface": "ואתן",
@@ -46,7 +44,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o monte Seir"
+      "marks": "o monte"
     },
     {
       "surface": "הר",
@@ -58,11 +56,12 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "para possuí-lo"
+      "gloss": "para possuir"
     },
     {
       "surface": "אותו",
-      "gloss": ""
+      "gloss": "⟨את⟩-o",
+      "marks": "o monte Seir"
     },
     {
       "surface": "ויעקב",
@@ -78,7 +77,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "ao Mitzráyim"
+      "gloss": "Mitzráyim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:13:11.925764536Z",
+  "model": "glm-5.2"
 }

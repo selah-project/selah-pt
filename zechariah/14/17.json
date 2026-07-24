@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "zechariah 14:17",
   "book": "zechariah",
-  "chapter": 14,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T09:36:33.376737434Z",
-  "translation": "E será que ⟨o⟩ que não subir de ⟨entre⟩ as famílias da terra a ⟨de⟩ Yerushalayim para prostrar-se ⟨ao⟩ Rei, HaShem ⟨dos⟩ exércitos, também sobre eles não haverá ⟨a⟩ chuva.",
+  "chapter": 14,
+  "translation": "E será aquele que não subir ⟨mאת⟩ as famílias da terra a Yerushalayim para prostrar-se diante do rei, YHWH Tzevaot — e sobre eles não haverá a chuva.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "E será que"
+      "gloss": "E será"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨o⟩ que"
+      "gloss": "aquele que"
     },
     {
       "surface": "לא",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨entre⟩",
+      "gloss": "⟨את⟩",
       "marks": "as famílias da terra"
     },
     {
@@ -44,7 +42,7 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "⟨de⟩ Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "להשתחות",
@@ -52,7 +50,7 @@
     },
     {
       "surface": "למלך",
-      "gloss": "⟨ao⟩ Rei"
+      "gloss": "diante do rei"
     },
     {
       "surface": "יהוה",
@@ -60,11 +58,11 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "⟨dos⟩ exércitos"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "ולא",
-      "gloss": "também sobre eles não"
+      "gloss": "e não"
     },
     {
       "surface": "עליהם",
@@ -76,19 +74,9 @@
     },
     {
       "surface": "הגשם",
-      "gloss": "⟨a⟩ chuva"
+      "gloss": "a chuva"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jerusalém",
-      "to": "Yerushalayim",
-      "token-index": 8,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:07:53.307733192Z",
+  "model": "glm-5.2"
 }

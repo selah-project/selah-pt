@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "exodus 7:3",
   "book": "exodus",
-  "chapter": 7,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:42:08.027751019Z",
-  "translation": "E Eu endurecerei ⟨o⟩ coração ⟨de⟩ Paró, e multiplicarei ⟨meus⟩ sinais ⟨e⟩ ⟨meus⟩ prodígios ⟨em⟩ ⟨a⟩ terra ⟨do⟩ Mitzráyim.",
+  "chapter": 7,
+  "translation": "E eu endurecerei ⟨את⟩ o coração de Paró, e multiplicarei ⟨את⟩ os meus sinais e ⟨את⟩ os meus prodígios na terra de Mitzráyim.",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "E Eu"
+      "gloss": "E eu"
     },
     {
       "surface": "אקשה",
@@ -20,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "coração ⟨de⟩ Faraó"
+      "marks": "o coração"
     },
     {
       "surface": "לב",
-      "gloss": "coração"
+      "gloss": "o coração"
     },
     {
       "surface": "פרעה",
-      "gloss": "⟨de⟩ Paró"
+      "gloss": "de Paró"
     },
     {
       "surface": "והרביתי",
@@ -37,47 +35,30 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sinais"
+      "marks": "os meus sinais"
     },
     {
       "surface": "אתתי",
-      "gloss": "sinais"
+      "gloss": "os meus sinais"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨e⟩",
-      "marks": "⟨meus⟩ prodígios"
+      "gloss": "e ⟨את⟩",
+      "marks": "os meus prodígios"
     },
     {
       "surface": "מופתי",
-      "gloss": "⟨meus⟩ prodígios"
+      "gloss": "os meus prodígios"
     },
     {
       "surface": "בארץ",
-      "gloss": "⟨em⟩ ⟨a⟩ terra"
+      "gloss": "na terra"
     },
     {
       "surface": "מצרים",
-      "gloss": "⟨do⟩ Mitzráyim"
+      "gloss": "de Mitzráyim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 4,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    },
-    {
-      "from": "Egito",
-      "to": "Mitzráyim",
-      "token-index": 11,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:39:15.173052966Z",
+  "model": "glm-5.2"
 }

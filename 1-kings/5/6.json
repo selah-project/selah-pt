@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "1-kings 5:6",
   "book": "1-kings",
-  "chapter": 5,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T11:22:37.766381809Z",
-  "translation": "E houve para Shlomó quarenta mil ⟨urót⟩ cavalos para os seus carros e doze mil cavaleiros",
+  "chapter": 5,
+  "translation": "E Shlomó ⟨tinha⟩ quarenta mil ⟨את⟩ currais de cavalos para os seus carros, e doze mil cavaleiros.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "E houve"
+      "gloss": "E acontecia"
     },
     {
       "surface": "לשלמה",
-      "gloss": "para Shlomó"
+      "gloss": "a Shlomó"
     },
     {
       "surface": "ארבעים",
@@ -27,11 +25,12 @@
     },
     {
       "surface": "ארות",
-      "gloss": "⟨urót⟩"
+      "gloss": "⟨את⟩",
+      "marks": "currais de cavalos"
     },
     {
       "surface": "סוסים",
-      "gloss": "cavalos"
+      "gloss": "de cavalos"
     },
     {
       "surface": "למרכבו",
@@ -43,7 +42,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "[parte de doze]"
     },
     {
       "surface": "אלף",
@@ -53,5 +52,7 @@
       "surface": "פרשים",
       "gloss": "cavaleiros"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:29:59.039588722Z",
+  "model": "glm-5.2"
 }

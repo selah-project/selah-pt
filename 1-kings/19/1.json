@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "1-kings 19:1",
   "book": "1-kings",
-  "chapter": 19,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T11:35:58.128210241Z",
-  "translation": "E Ajáv contou a Izével tudo o que Eliyahu tinha feito, e ⟨também⟩ como ele tinha matado ⟨את⟩ todos os profetas ⟨pela⟩ espada",
+  "chapter": 19,
+  "translation": "E Ajáv relatou a Izével ⟨את⟩ tudo o que Eliyahu havia feito, e ⟨את⟩ tudo como ele matou ⟨את⟩ todos os profetas à espada.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "e contou"
+      "gloss": "e relatou"
     },
     {
       "surface": "אחאב",
@@ -24,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todos"
+      "marks": "tudo"
     },
     {
       "surface": "כל",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "tinha feito"
+      "gloss": "havia feito"
     },
     {
       "surface": "אליהו",
@@ -44,19 +42,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨também⟩"
+      "gloss": "e ⟨את⟩",
+      "marks": "tudo"
     },
     {
       "surface": "כל",
-      "gloss": "como"
+      "gloss": "tudo"
     },
     {
       "surface": "אשר",
-      "gloss": "que"
+      "gloss": "como"
     },
     {
       "surface": "הרג",
-      "gloss": "ele tinha matado"
+      "gloss": "ele matou"
     },
     {
       "surface": "את",
@@ -73,7 +72,9 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "⟨pela⟩ espada"
+      "gloss": "à espada"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:34:18.146764477Z",
+  "model": "glm-5.2"
 }

@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 55,
   "ref": "judges 9:55",
   "book": "judges",
-  "chapter": 9,
-  "verse": 55,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:00:48.890091005Z",
-  "translation": "E ⟨os⟩ homens de Yisrael viram que ⟨את⟩ Avimeleque ⟨era⟩ morto, e foram, cada homem para ⟨o⟩ seu lugar.",
+  "chapter": 9,
+  "translation": "E os homens de Yisrael viram que Avimelekh havia morrido, e foram, cada homem, ao seu lugar.",
   "tokens": [
     {
       "surface": "ויראו",
-      "gloss": "E ⟨os⟩ homens de Israel viram"
+      "gloss": "E viram"
     },
     {
       "surface": "איש",
-      "gloss": "homens"
+      "gloss": "os homens de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כי",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "מת",
-      "gloss": "⟨era⟩ morto"
+      "gloss": "havia morrido"
     },
     {
       "surface": "אבימלך",
-      "gloss": "Avimeleque"
+      "gloss": "Avimelekh"
     },
     {
       "surface": "וילכו",
@@ -43,19 +41,9 @@
     },
     {
       "surface": "למקמו",
-      "gloss": "para ⟨o⟩ seu lugar"
+      "gloss": "ao seu lugar"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:16:10.926841290Z",
+  "model": "glm-5.2"
 }

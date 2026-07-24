@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "psalms 111:9",
   "book": "psalms",
-  "chapter": 111,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:54:54.170302977Z",
-  "translation": "Ele envia redenção a ⟨o⟩ seu povo ⟨את⟩; ordenou seu Brit para sempre; santo e terrível ⟨é⟩ ⟨o⟩ seu nome.",
+  "chapter": 111,
+  "translation": "Redenção Ele enviou ao seu povo; ordenou para sempre a sua Brit; qadosh e temível ⟨é⟩ o seu Nome.",
   "tokens": [
     {
       "surface": "פדות",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "שלח",
-      "gloss": "envia"
+      "gloss": "Ele enviou"
     },
     {
       "surface": "לעמו",
-      "gloss": "a ⟨o⟩ seu povo"
+      "gloss": "ao seu povo"
     },
     {
       "surface": "צוה",
@@ -31,31 +29,21 @@
     },
     {
       "surface": "בריתו",
-      "gloss": "seu Brit"
+      "gloss": "a sua Brit"
     },
     {
       "surface": "קדוש",
-      "gloss": "santo"
+      "gloss": "qadosh"
     },
     {
       "surface": "ונורא",
-      "gloss": "e terrível"
+      "gloss": "e temível"
     },
     {
       "surface": "שמו",
-      "gloss": "⟨o⟩ seu nome"
+      "gloss": "o seu Nome"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "pacto",
-      "to": "Brit",
-      "token-index": 5,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:12:29.661994406Z",
+  "model": "glm-5.2"
 }

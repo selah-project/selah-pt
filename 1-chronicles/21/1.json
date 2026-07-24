@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "1-chronicles 21:1",
   "book": "1-chronicles",
-  "chapter": 21,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T11:14:49.098384104Z",
-  "translation": "E HaSatán se levantou contra Yisrael e incitou David a numerar ⟨o⟩ Yisrael",
+  "chapter": 21,
+  "translation": "E satán se levantou contra Yisrael, e incitou ⟨a⟩ David a contar ⟨את⟩ Yisrael.",
   "tokens": [
     {
       "surface": "ויעמד",
@@ -15,14 +13,14 @@
     },
     {
       "surface": "שטן",
-      "gloss": "HaSatán"
+      "gloss": "satán"
     },
     {
       "surface": "על",
       "gloss": "contra"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵל",
       "gloss": "Yisrael"
     },
     {
@@ -35,12 +33,12 @@
       "marks": "David"
     },
     {
-      "surface": "דויד",
+      "surface": "דָּוִיד",
       "gloss": "David"
     },
     {
       "surface": "למנות",
-      "gloss": "a numerar"
+      "gloss": "a contar"
     },
     {
       "surface": "את",
@@ -48,8 +46,10 @@
       "marks": "Yisrael"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵל",
       "gloss": "Yisrael"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:29:35.042444645Z",
+  "model": "glm-5.2"
 }

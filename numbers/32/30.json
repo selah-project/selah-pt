@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "numbers 32:30",
   "book": "numbers",
-  "chapter": 32,
-  "verse": 30,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:45:00.529603176Z",
-  "translation": "E se ⟨não⟩ passarem armados ⟨com⟩ vós, ⟨então⟩ terão possessões ⟨no meio de⟩ vós ⟨na⟩ terra ⟨de⟩ Kenaan.",
+  "chapter": 32,
+  "translation": "E se não passarem armados ⟨com⟩⟨את⟩vocês, então se estabelecerão no meio de vocês na terra de Kenaan.",
   "tokens": [
     {
       "surface": "ואם",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "⟨não⟩"
+      "gloss": "não"
     },
     {
       "surface": "יעברו",
@@ -23,43 +21,30 @@
     },
     {
       "surface": "חלוצים",
-      "gloss": "armados"
+      "gloss": "armados (como tropas)"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨com⟩ vós",
-      "marks": "vós"
+      "gloss": "⟨com⟩⟨את⟩vocês",
+      "marks": "vocês"
     },
     {
       "surface": "ונאחזו",
-      "gloss": "⟨então⟩ terão possessões"
+      "gloss": "então se estabelecerão"
     },
     {
       "surface": "בתככם",
-      "gloss": "⟨no meio de⟩ vós",
-      "marks": "vós"
+      "gloss": "no meio de vocês"
     },
     {
       "surface": "בארץ",
-      "gloss": "⟨na⟩ terra",
-      "marks": "terra"
+      "gloss": "na terra"
     },
     {
       "surface": "כנען",
-      "gloss": "⟨de⟩ Kenaan",
-      "marks": "terra"
+      "gloss": "de Kenaan"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Canaã",
-      "to": "Kenaan",
-      "token-index": 8,
-      "strongs": 3667,
-      "hebrew": "כנען"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:59:41.182108454Z",
+  "model": "glm-5.2"
 }

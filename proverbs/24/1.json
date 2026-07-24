@@ -1,57 +1,45 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "proverbs 24:1",
   "book": "proverbs",
-  "chapter": 24,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T11:39:04.753692138Z",
-  "translation": "Não ⟨tenhas⟩ inveja dos homens maus nem ⟨desejes⟩ ⟨estar⟩ ⟨com⟩ ⟨eles⟩",
+  "chapter": 24,
+  "translation": "Não tenhas ciúmes dos homens de ra, e não cobices ⟨o⟩ estar com eles.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Não",
-      "rationale": "The qualified negation (prohibition particle) — not just 'no' but an injunction; 'Não' captures the deprecative force."
+      "gloss": "Não"
     },
     {
       "surface": "תקנא",
-      "gloss": "⟨tenhas⟩ inveja",
-      "rationale": "Causative stem of 'to be zealous\/jealous'; here contextually 'envy'. ⟨tenhas⟩ added for verbal coherence."
+      "gloss": "tenhas ciúmes"
     },
     {
       "surface": "באנשי",
-      "gloss": "dos homens",
-      "rationale": "Prepositional ב + plural of 'man\/Adam' — 'of men'. ⟨os⟩ added as definite article in English."
+      "gloss": "dos homens de"
     },
     {
       "surface": "רעה",
-      "gloss": "maus",
-      "rationale": "Adjective from 'evil\/bad' — 'evil\/wicked' applied to the men. 'Ma' is the standard evil-to-wicked shift in Proverbs context."
+      "gloss": "ra"
     },
     {
       "surface": "ואל",
-      "gloss": "nem",
-      "rationale": "The prefixed ו here acts as 'and\/or' joining two commands; 'nem' for the negative continuation fits the context."
+      "gloss": "e não"
     },
     {
       "surface": "תתאו",
-      "gloss": "⟨desejes⟩",
-      "rationale": "Hiphil of 'desire\/wish for' — causative 'make oneself desire'. ⟨desejes⟩ added for verbal conjugation."
+      "gloss": "cobices"
     },
     {
       "surface": "להיות",
-      "gloss": "⟨estar⟩",
-      "rationale": "Infinitive construct of 'to be'. Portuguese requires 'estar' here for existential sense; literal 'to be' would be ungrammatical."
+      "gloss": "⟨o⟩ estar"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨com⟩ ⟨eles⟩",
-      "rationale": "Prepositional pronominal suffix here meaning 'with them' (from את + ם). Portuguese needs both the preposition ⟨com⟩ and the pronoun ⟨eles⟩."
+      "gloss": "com eles"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:42:01.878630747Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "1-samuel 15:4",
   "book": "1-samuel",
-  "chapter": 15,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T11:49:35.865798253Z",
-  "translation": "E Shaul convocou ⟨את⟩ ⟨o⟩ povo e os contou em Telaim, duzentos mil soldados de infantaria e dez mil homens de Yehudá",
+  "chapter": 15,
+  "translation": "E Shaul convocou ⟨את⟩ o povo, e os contou em Telaim: duzentos mil ⟨homens⟩ de infantaria, e dez mil ⟨את⟩ ⟨os⟩ homens de Yehudá.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "E Shaul convocou"
+      "gloss": "E convocou"
     },
     {
       "surface": "שאול",
@@ -20,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "העם"
+      "marks": "o povo"
     },
     {
       "surface": "העם",
-      "gloss": "⟨o⟩ povo"
+      "gloss": "o povo"
     },
     {
       "surface": "ויפקדם",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "רגלי",
-      "gloss": "soldados de infantaria"
+      "gloss": "de infantaria"
     },
     {
       "surface": "ועשרת",
@@ -57,7 +55,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "איש"
+      "marks": "os homens de Yehudá"
     },
     {
       "surface": "איש",
@@ -67,5 +65,7 @@
       "surface": "יהודה",
       "gloss": "de Yehudá"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:20:35.186063900Z",
+  "model": "glm-5.2"
 }

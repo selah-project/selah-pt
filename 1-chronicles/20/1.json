@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "1-chronicles 20:1",
   "book": "1-chronicles",
-  "chapter": 20,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:55:22.871343960Z",
-  "translation": "E aconteceu, no tempo da volta do ano, no tempo da saída dos reis, que Joab conduziu ⟨o⟩ poder ⟨do⟩ exército e devastou ⟨a⟩ terra dos filhos de Ammon e veio e cercou Rabá; mas Davi permaneceu em Jerusalém, e Joab golpeou Rabá e ⟨a⟩ demoliu.",
+  "chapter": 20,
+  "translation": "E aconteceu ⟨na⟩ época da virada do ano, ⟨na⟩ época da saída dos reis, que Yoav conduziu ⟨את⟩ a força do exército e devastou ⟨את⟩ a terra dos filhos de Ammon; e veio e sitiou ⟨את⟩ Rabbah — e David habitava em Yerushalayim; e Yoav feriu ⟨את⟩ Rabbah e a destruiu.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "לעת",
-      "gloss": "no tempo"
+      "gloss": "na época de"
     },
     {
       "surface": "תשובת",
-      "gloss": "da volta"
+      "gloss": "a virada"
     },
     {
       "surface": "השנה",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "לעת",
-      "gloss": "no tempo"
+      "gloss": "na época de"
     },
     {
       "surface": "צאת",
-      "gloss": "da saída"
+      "gloss": "a saída"
     },
     {
       "surface": "המלכים",
@@ -39,20 +37,20 @@
     },
     {
       "surface": "וינהג",
-      "gloss": "que Joab conduziu"
+      "gloss": "que conduziu"
     },
     {
       "surface": "יואב",
-      "gloss": "Joab"
+      "gloss": "Yoav"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "poder do exército"
+      "marks": "a força"
     },
     {
       "surface": "חיל",
-      "gloss": "poder"
+      "gloss": "a força"
     },
     {
       "surface": "הצבא",
@@ -65,19 +63,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "terra dos filhos de Amom"
+      "marks": "a terra"
     },
     {
       "surface": "ארץ",
-      "gloss": "terra"
+      "gloss": "a terra"
     },
     {
       "surface": "בני",
-      "gloss": "dos filhos"
+      "gloss": "dos filhos de"
     },
     {
       "surface": "עמון",
-      "gloss": "de Ammon"
+      "gloss": "Ammon"
     },
     {
       "surface": "ויבא",
@@ -85,61 +83,51 @@
     },
     {
       "surface": "ויצר",
-      "gloss": "e cercou"
+      "gloss": "e sitiou"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Rabá"
+      "marks": "Rabbah"
     },
     {
       "surface": "רבה",
-      "gloss": "Rabá"
+      "gloss": "Rabbah"
     },
     {
       "surface": "ודויד",
-      "gloss": "mas Davi"
+      "gloss": "e David"
     },
     {
       "surface": "ישב",
-      "gloss": "permaneceu"
+      "gloss": "habitava"
     },
     {
       "surface": "בירושלם",
-      "gloss": "em Jerusalém"
+      "gloss": "em Yerushalayim"
     },
     {
       "surface": "ויך",
-      "gloss": "e Joab golpeou"
+      "gloss": "e feriu"
     },
     {
       "surface": "יואב",
-      "gloss": "Joab"
+      "gloss": "Yoav"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Rabá"
+      "marks": "Rabbah"
     },
     {
       "surface": "רבה",
-      "gloss": "Rabá"
+      "gloss": "Rabbah"
     },
     {
       "surface": "ויהרסה",
-      "gloss": "e ⟨a⟩ demoliu"
+      "gloss": "e a destruiu"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Amom",
-      "to": "Ammon",
-      "token-index": 16,
-      "strongs": 5983,
-      "hebrew": "עמון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:29:22.391642153Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "zechariah 11:9",
   "book": "zechariah",
-  "chapter": 11,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:58:33.335014384Z",
-  "translation": "E eu disse: não ⟨eu⟩ apascentarei ⟨את⟩ a que morre; morra; e a que há de ser eliminada, seja eliminada; e as que restarem, comam, cada mulher, a carne de sua companheira.",
+  "chapter": 11,
+  "translation": "E eu disse: Não vos apascentarei mais — ⟨את⟩ a que morre, morra; e a que se desvanecer, se desvaneça; e as que restarem devorem, ⟨cada⟩ mulher ⟨את⟩ a carne de sua próxima.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -19,12 +17,11 @@
     },
     {
       "surface": "ארעה",
-      "gloss": "⟨eu⟩ apascentarei"
+      "gloss": "apascentarei"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "a que morre"
+      "gloss": "⟨את⟩ a vós (objeto: a que morre)"
     },
     {
       "surface": "המתה",
@@ -36,11 +33,11 @@
     },
     {
       "surface": "והנכחדת",
-      "gloss": "e a que há de ser eliminada"
+      "gloss": "e a que se desvanecer"
     },
     {
       "surface": "תכחד",
-      "gloss": "seja eliminada"
+      "gloss": "se desvaneça"
     },
     {
       "surface": "והנשארות",
@@ -48,7 +45,7 @@
     },
     {
       "surface": "תאכלנה",
-      "gloss": "comam"
+      "gloss": "devorem"
     },
     {
       "surface": "אשה",
@@ -56,8 +53,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "a carne"
+      "gloss": "⟨את⟩ (objeto: a carne)"
     },
     {
       "surface": "בשר",
@@ -65,7 +61,9 @@
     },
     {
       "surface": "רעותה",
-      "gloss": "de sua companheira"
+      "gloss": "de sua próxima"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:07:29.004297786Z",
+  "model": "glm-5.2"
 }

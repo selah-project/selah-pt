@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "genesis 2:3",
   "book": "genesis",
-  "chapter": 2,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T14:38:02.446288734Z",
-  "translation": "E Elohim abençoou ⟨o⟩ sétimo dia e o santificou, pois nele descansou de toda a sua obra que Elohim criara para fazer.",
+  "chapter": 2,
+  "translation": "E Elohim abençoou ⟨את⟩ o sétimo dia, e o santificou; porque nele shabatou de toda ⟨a⟩ sua obra que Elohim criou para fazer.",
   "tokens": [
     {
       "surface": "ויברך",
@@ -20,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sétimo dia"
+      "marks": "o sétimo dia"
     },
     {
       "surface": "יום",
-      "gloss": "dia"
+      "gloss": "o dia"
     },
     {
       "surface": "השביעי",
@@ -32,16 +30,15 @@
     },
     {
       "surface": "ויקדש",
-      "gloss": "e o santificou"
+      "gloss": "e santificou"
     },
     {
       "surface": "אתו",
-      "gloss": "o",
-      "marks": "nele"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "בו",
@@ -49,11 +46,11 @@
     },
     {
       "surface": "שבת",
-      "gloss": "descansou"
+      "gloss": "shabatou"
     },
     {
       "surface": "מכל",
-      "gloss": "de toda a"
+      "gloss": "de toda"
     },
     {
       "surface": "מלאכתו",
@@ -65,7 +62,7 @@
     },
     {
       "surface": "ברא",
-      "gloss": "criara"
+      "gloss": "criou"
     },
     {
       "surface": "אלהים",
@@ -75,5 +72,7 @@
       "surface": "לעשות",
       "gloss": "para fazer"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:26:56.897103844Z",
+  "model": "glm-5.2"
 }

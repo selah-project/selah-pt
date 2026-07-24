@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "1-chronicles 21:11",
   "book": "1-chronicles",
-  "chapter": 21,
-  "verse": 11,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:55:36.320465480Z",
-  "translation": "E Gad veio a Davidd e disse-lhe: ⟨assim⟩ diz YHWH, escolhe ⟨para⟩ ti ⟨את⟩ o que quiseres",
+  "chapter": 21,
+  "translation": "E Gad veio a David, e lhe disse: Assim disse YHWH: recebe ⟨para ti⟩",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "E veio"
+      "gloss": "e veio"
     },
     {
       "surface": "גד",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "ויאמר",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "diz"
+      "gloss": "disse"
     },
     {
       "surface": "יהוה",
@@ -47,23 +45,13 @@
     },
     {
       "surface": "קבל",
-      "gloss": "escolhe ⟨para⟩ ti"
+      "gloss": "recebe"
     },
     {
       "surface": "לך",
-      "gloss": "o que quiseres"
+      "gloss": "⟨para ti⟩"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 3,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:29:32.829929843Z",
+  "model": "glm-5.2"
 }

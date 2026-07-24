@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 31,
   "ref": "numbers 13:31",
   "book": "numbers",
-  "chapter": 13,
-  "verse": 31,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:23:27.228041296Z",
-  "translation": "E ⟨את⟩ os homens que subiram com ele disseram: Não podemos subir ⟨את⟩ contra o povo, porque ⟨é⟩ mais forte do que nós.",
+  "chapter": 13,
+  "translation": "E os homens que subiram com ele disseram: \"Não podemos subir contra ⟨o⟩ povo, porque ⟨ele⟩ é mais forte do que nós.",
   "tokens": [
     {
       "surface": "והאנשים",
@@ -43,8 +41,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "contra",
-      "marks": "o povo"
+      "gloss": "contra"
     },
     {
       "surface": "העם",
@@ -56,19 +53,17 @@
     },
     {
       "surface": "חזק",
-      "gloss": "forte"
+      "gloss": "mais forte"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨é⟩"
+      "gloss": "ele"
     },
     {
       "surface": "ממנו",
       "gloss": "do que nós"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:55:28.244624226Z",
+  "model": "glm-5.2"
 }

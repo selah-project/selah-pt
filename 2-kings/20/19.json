@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "2-kings 20:19",
   "book": "2-kings",
-  "chapter": 20,
-  "verse": 19,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:07:37.371337174Z",
-  "translation": "E Chizkijah disse a Yeshayah: Bom ⟨é⟩ ⟨את⟩ a palavra de YHWH que falaste. E ele disse: Será que não, se Shalom e verdade houver em meus dias?",
+  "chapter": 20,
+  "translation": "E Jizkiyahu disse a Yeshayahu: ⟨A⟩ palavra de YHWH que falaste ⟨é⟩ boa. E disse: ⟨Haverá⟩ não, ⟨acaso⟩, se Shalom e Emet ⟨houver⟩ em meus dias?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Chizkijah"
+      "gloss": "Jizkiyahu"
     },
     {
       "surface": "אל",
@@ -23,15 +21,15 @@
     },
     {
       "surface": "ישעיהו",
-      "gloss": "Yeshayah"
+      "gloss": "Yeshayahu"
     },
     {
       "surface": "טוב",
-      "gloss": "Bom"
+      "gloss": "boa"
     },
     {
       "surface": "דבר",
-      "gloss": "a palavra"
+      "gloss": "⟨A⟩ palavra"
     },
     {
       "surface": "יהוה",
@@ -47,11 +45,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "E ele disse"
+      "gloss": "E disse"
     },
     {
       "surface": "הלוא",
-      "gloss": "Será que não"
+      "gloss": "não, ⟨acaso⟩"
     },
     {
       "surface": "אם",
@@ -63,27 +61,17 @@
     },
     {
       "surface": "ואמת",
-      "gloss": "e verdade"
+      "gloss": "e Emet"
     },
     {
       "surface": "יהיה",
-      "gloss": "houver"
+      "gloss": "⟨houver⟩"
     },
     {
       "surface": "בימי",
       "gloss": "em meus dias"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "paz",
-      "to": "Shalom",
-      "token-index": 12,
-      "strongs": 7965,
-      "hebrew": "שלום"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:39:33.839861916Z",
+  "model": "glm-5.2"
 }

@@ -1,33 +1,31 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "1-samuel 19:4",
   "book": "1-samuel",
-  "chapter": 19,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:31:47.006161274Z",
-  "translation": "E Jônatan falou ⟨bem⟩ ⟨de⟩ ⟨את⟩ ⟨Davi⟩ ⟨a⟩ ⟨Shaul⟩, ⟨seu⟩ pai, ⟨e⟩ disse ⟨a⟩ ⟨ele⟩: Não ⟨peque⟩ ⟨o⟩ rei ⟨contra⟩ ⟨o⟩ ⟨seu⟩ servo, ⟨contra⟩ ⟨Davi⟩; porque ⟨ele⟩ não pecou ⟨contra⟩ ⟨ti⟩, e porque ⟨suas⟩ obras ⟨são⟩ ⟨boas⟩ ⟨para⟩ ⟨ti⟩ ⟨muito⟩.",
+  "chapter": 19,
+  "translation": "E Yonatan falou bem de David a Shaul, seu pai, e disse-lhe: não peque o rei contra seu servo, contra David, porque ele não pecou contra ti, e porque suas obras ⟨foram⟩ boas para ti grandemente.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "E ... falou"
+      "gloss": "e falou"
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jônatan"
+      "gloss": "Yonatan"
     },
     {
       "surface": "בדוד",
-      "gloss": "⟨bem⟩ ⟨de⟩"
+      "gloss": "de David"
     },
     {
       "surface": "טוב",
-      "gloss": "⟨Davi⟩"
+      "gloss": "bem"
     },
     {
       "surface": "אל",
-      "gloss": "⟨a⟩"
+      "gloss": "a"
     },
     {
       "surface": "שאול",
@@ -35,35 +33,35 @@
     },
     {
       "surface": "אביו",
-      "gloss": "⟨seu⟩ pai"
+      "gloss": "seu pai"
     },
     {
       "surface": "ויאמר",
-      "gloss": "⟨e⟩ disse"
+      "gloss": "e disse"
     },
     {
       "surface": "אליו",
-      "gloss": "⟨a⟩ ⟨ele⟩:"
+      "gloss": "a ele"
     },
     {
       "surface": "אל",
-      "gloss": "Não"
+      "gloss": "não"
     },
     {
       "surface": "יחטא",
-      "gloss": "⟨peque⟩"
+      "gloss": "peque"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨o⟩ rei"
+      "gloss": "o rei"
     },
     {
       "surface": "בעבדו",
-      "gloss": "⟨contra⟩ ⟨o⟩ ⟨seu⟩ servo"
+      "gloss": "contra seu servo"
     },
     {
       "surface": "בדוד",
-      "gloss": "⟨contra⟩ ⟨Davi⟩"
+      "gloss": "contra David"
     },
     {
       "surface": "כי",
@@ -71,7 +69,7 @@
     },
     {
       "surface": "לוא",
-      "gloss": "⟨ele⟩ não"
+      "gloss": "não"
     },
     {
       "surface": "חטא",
@@ -79,7 +77,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "⟨contra⟩ ⟨ti⟩"
+      "gloss": "contra ti"
     },
     {
       "surface": "וכי",
@@ -87,31 +85,21 @@
     },
     {
       "surface": "מעשיו",
-      "gloss": "⟨suas⟩ obras"
+      "gloss": "suas obras"
     },
     {
       "surface": "טוב",
-      "gloss": "⟨são⟩ ⟨boas⟩"
+      "gloss": "boas"
     },
     {
       "surface": "לך",
-      "gloss": "⟨para⟩ ⟨ti⟩"
+      "gloss": "para ti"
     },
     {
       "surface": "מאד",
-      "gloss": "⟨muito⟩"
+      "gloss": "grandemente"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Saul",
-      "to": "Shaul",
-      "token-index": 5,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:21:21.453274533Z",
+  "model": "glm-5.2"
 }

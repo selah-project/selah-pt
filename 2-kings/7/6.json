@@ -1,30 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "2-kings 7:6",
   "book": "2-kings",
-  "chapter": 7,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:32:04.868926061Z",
-  "translation": "Pois YHWH fizera o acampamento de Aram ouvir ⟨um⟩ som de carros, ⟨um⟩ som de cavalos, ⟨o⟩ som de ⟨um⟩ grande exército, e disseram um ao seu irmão: Eis que ⟨o⟩ rei de Israel assalariou contra nós os reis dos hititas e ⟨את⟩ os reis dos egípcios para vir sobre nós.",
+  "chapter": 7,
+  "translation": "Pois Adonai fez ouvir ⟨a ⟨את⟩ o acampamento⟩ de Aram som de carruagens, som de cavalos, som de ⟨um⟩ exército grande; e disseram, cada um ao seu irmão: Eis que o rei de Yisrael alugou contra nós ⟨a ⟨את⟩ os reis⟩ dos hititas e ⟨a ⟨את⟩ os reis⟩ de Mitzráyim para vir sobre nós.",
   "tokens": [
     {
       "surface": "ואדני",
-      "gloss": "Pois YHWH"
+      "gloss": "Pois Adonai"
     },
     {
       "surface": "השמיע",
-      "gloss": "fizera ouvir"
+      "gloss": "fez ouvir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "som"
+      "marks": "o acampamento"
     },
     {
       "surface": "מחנה",
-      "gloss": "o acampamento"
+      "gloss": "acampamento"
     },
     {
       "surface": "ארם",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "רכב",
-      "gloss": "de carros"
+      "gloss": "de carruagens"
     },
     {
       "surface": "קול",
@@ -64,11 +62,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "um"
+      "gloss": "cada um"
     },
     {
       "surface": "אל",
-      "gloss": "ao"
+      "gloss": "a"
     },
     {
       "surface": "אחיו",
@@ -80,7 +78,7 @@
     },
     {
       "surface": "שכר",
-      "gloss": "assalariou"
+      "gloss": "alugou"
     },
     {
       "surface": "עלינו",
@@ -92,12 +90,12 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "de Israel"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "os reis"
+      "marks": "os reis dos hititas"
     },
     {
       "surface": "מלכי",
@@ -110,7 +108,7 @@
     {
       "surface": "ואת",
       "gloss": "e ⟨את⟩",
-      "marks": "os reis"
+      "marks": "os reis de Mitzráyim"
     },
     {
       "surface": "מלכי",
@@ -118,7 +116,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "dos egípcios"
+      "gloss": "de Mitzráyim"
     },
     {
       "surface": "לבוא",
@@ -128,5 +126,7 @@
       "surface": "עלינו",
       "gloss": "sobre nós"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:36:31.860026904Z",
+  "model": "glm-5.2"
 }

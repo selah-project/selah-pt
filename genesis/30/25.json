@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "genesis 30:25",
   "book": "genesis",
-  "chapter": 30,
-  "verse": 25,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:12:10.202399529Z",
-  "translation": "E aconteceu quando Rajel deu à luz ⟨é⟩ a Yosef que Yaakov disse a Labão: 'Envia-me para que eu vá ao meu lugar e ⟨ao⟩ meu país'",
+  "chapter": 30,
+  "translation": "E aconteceu, quando Rajel deu à luz ⟨את⟩ Yosef, que Yaakov disse a Lavan: Envia-me, e irei ao meu lugar e à minha terra.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -28,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a José"
+      "marks": "Yosef"
     },
     {
       "surface": "יוסף",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "que Jacó disse"
+      "gloss": "e disse"
     },
     {
       "surface": "יעקב",
@@ -48,19 +46,19 @@
     },
     {
       "surface": "לבן",
-      "gloss": "Labão"
+      "gloss": "Lavan"
     },
     {
       "surface": "שלחני",
-      "gloss": "'Envia-me"
+      "gloss": "Envia-me"
     },
     {
       "surface": "ואלכה",
-      "gloss": "para que eu vá"
+      "gloss": "e irei"
     },
     {
       "surface": "אל",
-      "gloss": "ao"
+      "gloss": "a"
     },
     {
       "surface": "מקומי",
@@ -68,33 +66,9 @@
     },
     {
       "surface": "ולארצי",
-      "gloss": "e ⟨ao⟩ meu país"
+      "gloss": "e à minha terra"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Raquel",
-      "to": "Rajel",
-      "token-index": 3,
-      "strongs": 7354,
-      "hebrew": "רחל"
-    },
-    {
-      "from": "José",
-      "to": "Yosef",
-      "token-index": 5,
-      "strongs": 3130,
-      "hebrew": "יוסף"
-    },
-    {
-      "from": "Jacó",
-      "to": "Yaakov",
-      "token-index": 7,
-      "strongs": 3290,
-      "hebrew": "יעקב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:32:38.326117961Z",
+  "model": "glm-5.2"
 }

@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "jeremiah 27:17",
   "book": "jeremiah",
-  "chapter": 27,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:30:22.982340654Z",
-  "translation": "Não ouçais ⟨a⟩ eles; servi ⟨ao⟩ rei de Bavel e vivei; por que esta cidade se tornará ⟨uma⟩ desolação?",
+  "chapter": 27,
+  "translation": "Não lhes deem ouvidos; servi ao rei de Bavel e vivereis; por que ⟨deveria⟩ esta cidade tornar-se ⟨uma⟩ ruína?",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Não"
+      "gloss": "não"
     },
     {
       "surface": "תשמעו",
-      "gloss": "ouçais"
+      "gloss": "deem ouvidos"
     },
     {
       "surface": "אליהם",
-      "gloss": "⟨a⟩ eles"
+      "gloss": "a eles"
     },
     {
       "surface": "עבדו",
@@ -28,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rei"
+      "marks": "o rei de Bavel"
     },
     {
       "surface": "מלך",
-      "gloss": "rei"
+      "gloss": "ao rei"
     },
     {
       "surface": "בבל",
@@ -40,7 +38,7 @@
     },
     {
       "surface": "וחיו",
-      "gloss": "e vivei"
+      "gloss": "e vivereis"
     },
     {
       "surface": "למה",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "se tornará"
+      "gloss": "tornar-se"
     },
     {
       "surface": "העיר",
@@ -56,23 +54,13 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "⟨uma⟩"
+      "gloss": "esta"
     },
     {
       "surface": "חרבה",
-      "gloss": "desolação"
+      "gloss": "ruína"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Babel",
-      "to": "Bavel",
-      "token-index": 6,
-      "strongs": 894,
-      "hebrew": "בבל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:50:40.081826066Z",
+  "model": "glm-5.2"
 }

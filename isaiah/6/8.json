@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "isaiah 6:8",
   "book": "isaiah",
-  "chapter": 6,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T15:09:54.517279056Z",
-  "translation": "E ouvi ⟨o⟩ voz de Adonai dizendo: Quem enviarei eu, e quem há de ir por ⟨nós⟩? E eu disse: Eis-me aqui, envia-me a mim.",
+  "chapter": 6,
+  "translation": "E ouvi ⟨את⟩ a voz de Adonai, dizendo: ⟨את⟩ Quem enviarei, e quem irá por nós? E eu disse: Hinení, envia-me a mim.",
   "tokens": [
     {
       "surface": "ואשמע",
@@ -16,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "voz"
+      "marks": "a voz"
     },
     {
       "surface": "קול",
-      "gloss": "voz"
+      "gloss": "a voz"
     },
     {
       "surface": "אדני",
@@ -33,15 +31,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "quem"
+      "marks": "Quem"
     },
     {
       "surface": "מי",
-      "gloss": "quem"
+      "gloss": "Quem"
     },
     {
       "surface": "אשלח",
-      "gloss": "enviarei eu"
+      "gloss": "enviarei"
     },
     {
       "surface": "ומי",
@@ -49,11 +47,11 @@
     },
     {
       "surface": "ילך",
-      "gloss": "há de ir"
+      "gloss": "irá"
     },
     {
       "surface": "לנו",
-      "gloss": "por ⟨nós⟩"
+      "gloss": "por nós"
     },
     {
       "surface": "ואמר",
@@ -61,11 +59,13 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Eis-me aqui"
+      "gloss": "Hinení (eis-me aqui)"
     },
     {
       "surface": "שלחני",
       "gloss": "envia-me a mim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:41:20.461959749Z",
+  "model": "glm-5.2"
 }

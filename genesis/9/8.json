@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "genesis 9:8",
   "book": "genesis",
-  "chapter": 9,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T23:49:43.110983856Z",
-  "translation": "E Elohim disse ⟨a⟩ Noaj ⟨e⟩ ⟨a⟩ seus filhos com ⟨ele⟩, ⟨ao⟩ dizer:",
+  "chapter": 9,
+  "translation": "E Elohim falou a Noaj e aos seus filhos com ele, dizendo:",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E Elohim disse"
+      "gloss": "E falou"
     },
     {
       "surface": "אלהים",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨a⟩"
+      "gloss": "a"
     },
     {
       "surface": "נח",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "⟨e⟩ ⟨a⟩"
+      "gloss": "e a"
     },
     {
       "surface": "בניו",
@@ -35,24 +33,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "com ⟨ele⟩",
-      "marks": "seus filhos"
+      "gloss": "com ele"
     },
     {
       "surface": "לאמר",
-      "gloss": "⟨ao⟩ dizer:"
+      "gloss": "dizendo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Noé",
-      "to": "Noaj",
-      "token-index": 3,
-      "strongs": 5146,
-      "hebrew": "נח"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:28:03.232825564Z",
+  "model": "glm-5.2"
 }

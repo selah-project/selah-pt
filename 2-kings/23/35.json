@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 35,
   "ref": "2-kings 23:35",
   "book": "2-kings",
-  "chapter": 23,
-  "verse": 35,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:11:01.484745557Z",
-  "translation": "E a prata e ⟨o⟩ ouro deu Yehoyakim a Paró, só avaliou ⟨a⟩ terra para dar ⟨a⟩ prata segundo ⟨o⟩ comando de Paró; cada homem conforme seu valor cobrou ⟨a⟩ prata e ⟨o⟩ ouro, ⟨de⟩ ⟨o⟩ povo da terra, para dar a Paró Necó.",
+  "chapter": 23,
+  "translation": "E a prata e o ouro deu Yehoyaqim a Paró; porém avaliou ⟨את⟩ a terra para dar ⟨את⟩ a prata conforme a ordem de Paró; a cada homem segundo a sua avaliação exigiu ⟨את⟩ a prata e ⟨את⟩ o ouro ⟨a partir de⟩ ⟨את⟩ o povo da terra, para dar a Paró-Nekó.",
   "tokens": [
     {
       "surface": "והכסף",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "והזהב",
-      "gloss": "e ⟨o⟩ ouro"
+      "gloss": "e o ouro"
     },
     {
       "surface": "נתן",
@@ -23,15 +21,15 @@
     },
     {
       "surface": "יהויקים",
-      "gloss": "Yehoyakim"
+      "gloss": "Yehoyaqim"
     },
     {
       "surface": "לפרעה",
-      "gloss": "a Faraó"
+      "gloss": "a Paró"
     },
     {
       "surface": "אך",
-      "gloss": "só"
+      "gloss": "porém"
     },
     {
       "surface": "העריך",
@@ -40,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הארץ"
+      "marks": "a terra"
     },
     {
       "surface": "הארץ",
-      "gloss": "terra"
+      "gloss": "a terra"
     },
     {
       "surface": "לתת",
@@ -53,61 +51,62 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הכסף"
+      "marks": "a prata"
     },
     {
       "surface": "הכסף",
-      "gloss": "prata"
+      "gloss": "a prata"
     },
     {
       "surface": "על",
-      "gloss": "segundo"
+      "gloss": "conforme"
     },
     {
       "surface": "פי",
-      "gloss": "⟨o⟩"
+      "gloss": "a ordem de"
     },
     {
       "surface": "פרעה",
-      "gloss": "comando de Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "איש",
-      "gloss": "cada homem"
+      "gloss": "a cada homem"
     },
     {
       "surface": "כערכו",
-      "gloss": "conforme seu valor"
+      "gloss": "segundo a sua avaliação"
     },
     {
       "surface": "נגש",
-      "gloss": "cobrou"
+      "gloss": "exigiu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הכסף"
+      "marks": "a prata"
     },
     {
       "surface": "הכסף",
-      "gloss": "prata"
+      "gloss": "a prata"
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨o⟩"
+      "gloss": "e ⟨את⟩",
+      "marks": "o ouro"
     },
     {
       "surface": "הזהב",
-      "gloss": "ouro"
+      "gloss": "o ouro"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "עם"
+      "marks": "o povo"
     },
     {
       "surface": "עם",
-      "gloss": "⟨o⟩ povo"
+      "gloss": "a partir de o povo"
     },
     {
       "surface": "הארץ",
@@ -119,23 +118,13 @@
     },
     {
       "surface": "לפרעה",
-      "gloss": "a Faraó"
+      "gloss": "a Paró-Nekó"
     },
     {
       "surface": "נכה",
-      "gloss": "Necó"
+      "gloss": ""
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 14,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:40:36.548104673Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "jeremiah 37:17",
   "book": "jeremiah",
-  "chapter": 37,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:42:13.981304445Z",
-  "translation": "E o rei Tsidkijahu ⟨o⟩ enviou e ⟨o⟩ tomou, e o interrogou o rei em sua casa em segredo, e disse: ⟨Existe⟩ ⟨palavra⟩ ⟨de⟩ ⟨YHWH⟩? E ⟨disse⟩ Yirmeyahu: ⟨Existe⟩. E disse: Na mão do rei de Bavel ⟨serás⟩ entregue.",
+  "chapter": 37,
+  "translation": "E Tzidkiyahu, o rei, enviou ⟨mensageiros⟩ e o fez vir; e o rei o interrogou em sua casa, no secreto, e disse: Há ⟨alguma⟩ davar da parte de YHWH? E Yirmeyahu disse: Há. E ⟨ele⟩ disse: Na mão do rei de Bavel ⟨você⟩ será entregue.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "E ⟨o⟩ enviou"
+      "gloss": "E enviou"
     },
     {
       "surface": "המלך",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsidkijahu"
+      "gloss": "Tzidkiyahu"
     },
     {
       "surface": "ויקחהו",
-      "gloss": "e ⟨o⟩ tomou"
+      "gloss": "e o fez vir"
     },
     {
       "surface": "וישאלהו",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "בסתר",
-      "gloss": "em segredo"
+      "gloss": "no secreto"
     },
     {
       "surface": "ויאמר",
@@ -47,24 +45,23 @@
     },
     {
       "surface": "היש",
-      "gloss": "⟨Existe⟩"
+      "gloss": "Há"
     },
     {
       "surface": "דבר",
-      "gloss": "⟨palavra⟩"
+      "gloss": "⟨alguma⟩ davar"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de⟩",
-      "marks": "palavra"
+      "gloss": "da parte de"
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨YHWH⟩"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויאמר",
-      "gloss": "e ⟨disse⟩"
+      "gloss": "E disse"
     },
     {
       "surface": "ירמיהו",
@@ -72,15 +69,15 @@
     },
     {
       "surface": "יש",
-      "gloss": "⟨Existe⟩"
+      "gloss": "Há"
     },
     {
-      "surface": "ואמר",
-      "gloss": "e disse"
+      "surface": "ויאמר",
+      "gloss": "e ⟨ele⟩ disse"
     },
     {
       "surface": "ביד",
-      "gloss": "na mão"
+      "gloss": "Na mão"
     },
     {
       "surface": "מלך",
@@ -92,19 +89,9 @@
     },
     {
       "surface": "תנתן",
-      "gloss": "⟨serás⟩ entregue"
+      "gloss": "⟨você⟩ será entregue"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Babel",
-      "to": "Bavel",
-      "token-index": 19,
-      "strongs": 894,
-      "hebrew": "בבל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:52:50.502271892Z",
+  "model": "glm-5.2"
 }

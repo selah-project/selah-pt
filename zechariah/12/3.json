@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "zechariah 12:3",
   "book": "zechariah",
-  "chapter": 12,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T09:35:16.474119522Z",
-  "translation": "E acontecerá naquele dia que Eu porei ⟨את⟩ Yerushalayim como pedra de fardo para todos os povos; todos ⟨את⟩ que carregam-na serão gotejados de sangue; e juntar-se-ão sobre ela todas as nações da terra.",
+  "chapter": 12,
+  "translation": "E acontecerá naquele dia: farei de ⟨את⟩ Yerushalayim uma pedra de peso para todos os povos — todos os que a carregam ⟨serão⟩ profundamente cortados, e contra ela se reunirão todas as nações da terra.",
   "tokens": [
     {
       "surface": "והיה",
@@ -15,20 +13,20 @@
     },
     {
       "surface": "ביום",
-      "gloss": "naquele dia"
+      "gloss": "no dia"
     },
     {
       "surface": "ההוא",
-      "gloss": "que"
+      "gloss": "aquele"
     },
     {
       "surface": "אשים",
-      "gloss": "Eu porei"
+      "gloss": "farei de"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jerusalém"
+      "marks": "Yerushalayim"
     },
     {
       "surface": "ירושלם",
@@ -36,11 +34,11 @@
     },
     {
       "surface": "אבן",
-      "gloss": "como pedra"
+      "gloss": "uma pedra"
     },
     {
       "surface": "מעמסה",
-      "gloss": "de fardo"
+      "gloss": "de peso"
     },
     {
       "surface": "לכל",
@@ -56,23 +54,23 @@
     },
     {
       "surface": "עמסיה",
-      "gloss": "⟨את⟩ que carregam-na"
+      "gloss": "os que a carregam"
     },
     {
       "surface": "שרוט",
-      "gloss": "serão"
+      "gloss": "cortados"
     },
     {
       "surface": "ישרטו",
-      "gloss": "gotejados de sangue"
+      "gloss": "profundamente"
     },
     {
       "surface": "ונאספו",
-      "gloss": "e juntar-se-ão"
+      "gloss": "e se reunirão"
     },
     {
       "surface": "עליה",
-      "gloss": "sobre ela"
+      "gloss": "contra ela"
     },
     {
       "surface": "כל",
@@ -87,16 +85,6 @@
       "gloss": "da terra"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jerusalém",
-      "to": "Yerushalayim",
-      "token-index": 5,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:07:43.174792229Z",
+  "model": "glm-5.2"
 }

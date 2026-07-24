@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "2-chronicles 31:4",
   "book": "2-chronicles",
-  "chapter": 31,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:44:53.704338303Z",
-  "translation": "E disse ao povo aos habitantes de Yerushalayim ⟨para⟩ dar ⟨את⟩ a porção dos sacerdotes e ⟨dos⟩ levitas para que se fortaleçam na Torá de YHWH",
+  "chapter": 31,
+  "translation": "E ordenou ao povo, aos habitantes de Yerushalayim, que dessem ⟨a⟩ porção dos Kohanim e dos Levítas, para que se fortalecessem na Torá de YHWH.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E disse"
+      "gloss": "e ordenou"
     },
     {
       "surface": "לעם",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "ליושבי",
-      "gloss": "aos habitantes"
+      "gloss": "aos habitantes de"
     },
     {
       "surface": "ירושלם",
-      "gloss": "de Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "לתת",
-      "gloss": "⟨para⟩ dar"
+      "gloss": "que dessem"
     },
     {
       "surface": "מנת",
@@ -35,11 +33,11 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "dos sacerdotes"
+      "gloss": "dos Kohanim"
     },
     {
       "surface": "והלוים",
-      "gloss": "e ⟨dos⟩ levitas"
+      "gloss": "e dos Levítas"
     },
     {
       "surface": "למען",
@@ -47,27 +45,17 @@
     },
     {
       "surface": "יחזקו",
-      "gloss": "se fortaleçam"
+      "gloss": "se fortalecessem"
     },
     {
       "surface": "בתורת",
-      "gloss": "na Torá"
+      "gloss": "na Torá de"
     },
     {
       "surface": "יהוה",
-      "gloss": "de YHWH"
+      "gloss": "YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jerusalém",
-      "to": "Yerushalayim",
-      "token-index": 3,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:35:47.814645260Z",
+  "model": "glm-5.2"
 }

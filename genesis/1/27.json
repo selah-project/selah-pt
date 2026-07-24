@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 27,
   "ref": "genesis 1:27",
   "book": "genesis",
-  "chapter": 1,
-  "verse": 27,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T14:38:22.879204635Z",
-  "translation": "E Elohim criou o adam à sua imagem, à imagem de Elohim o criou; macho e fêmea os criou.",
+  "chapter": 1,
+  "translation": "E Elohim criou ⟨את⟩ ⟨o⟩ Adam; à sua imagem, à imagem de Elohim ⟨o⟩ criou; macho e fêmea ⟨os⟩ criou.",
   "tokens": [
     {
       "surface": "ויברא",
-      "gloss": "E criou"
+      "gloss": "e criou"
     },
     {
       "surface": "אלהים",
@@ -20,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o adam"
+      "marks": "Adam"
     },
     {
       "surface": "האדם",
-      "gloss": "o adam"
+      "gloss": "⟨o⟩ Adam"
     },
     {
       "surface": "בצלמו",
@@ -45,7 +43,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ele"
+      "marks": "ele (o亚当\/-humanidade)"
     },
     {
       "surface": "זכר",
@@ -62,7 +60,9 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "os"
+      "marks": "eles (macho e fêmea)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:26:44.365308245Z",
+  "model": "glm-5.2"
 }

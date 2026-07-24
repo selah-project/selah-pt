@@ -1,43 +1,37 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "ruth 1:10",
   "book": "ruth",
-  "chapter": 1,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:20:23.009167790Z",
-  "translation": "E elas disseram ⟨a⟩ ela: Por ⟨certo⟩ contigo retornaremos ⟨a⟩ teu povo.",
+  "chapter": 1,
+  "translation": "E elas ⟨lhe⟩ disseram: ⟨com⟩ ti voltaremos ao teu povo.",
   "tokens": [
     {
-      "surface": "וַ\/תֹּאמַ֖רְנָה",
+      "surface": "וַתֹּאמַ֖רְנָה",
       "gloss": "E elas disseram"
     },
     {
-      "surface": "לָּ֑\/הּ",
-      "gloss": "⟨a⟩ ela",
-      "marks": "Naomi"
+      "surface": "לָּ֑הּ",
+      "gloss": "⟨a ela⟩"
     },
     {
       "surface": "כִּי",
-      "gloss": "Por ⟨certo⟩"
+      "gloss": "Com"
     },
     {
-      "surface": "אִתָּ֥\/ךְ",
-      "gloss": "contigo"
+      "surface": "אִתָּ֥ךְ",
+      "gloss": "ti"
     },
     {
       "surface": "נָשׁ֖וּב",
-      "gloss": "retornaremos"
+      "gloss": "voltaremos"
     },
     {
-      "surface": "לְ\/עַמֵּֽ\/ךְ",
-      "gloss": "⟨a⟩ teu povo",
-      "marks": "povo"
+      "surface": "לְעַמֵּֽךְ",
+      "gloss": "ao teu povo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:19:31.489189054Z",
+  "model": "glm-5.2"
 }

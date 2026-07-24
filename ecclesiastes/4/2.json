@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "ecclesiastes 4:2",
   "book": "ecclesiastes",
-  "chapter": 4,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:35:49.531776910Z",
-  "translation": "E eu louvei os que já morreram, ⟨os⟩ mortos, mais do que ⟨os⟩ vivos que ainda vivem até agora.",
+  "chapter": 4,
+  "translation": "E eu louvo ⟨את⟩ os mortos que já morreram, mais do que os vivos, que ⟨ainda⟩ estão vivos até agora;",
   "tokens": [
     {
       "surface": "ושבח",
-      "gloss": "E eu louvei"
+      "gloss": "E eu louvo"
     },
     {
       "surface": "אני",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "המתים"
+      "marks": "os mortos"
     },
     {
       "surface": "המתים",
@@ -28,7 +26,7 @@
     },
     {
       "surface": "שכבר",
-      "gloss": "já"
+      "gloss": "que já"
     },
     {
       "surface": "מתו",
@@ -40,7 +38,7 @@
     },
     {
       "surface": "החיים",
-      "gloss": "⟨os⟩ vivos"
+      "gloss": "os vivos"
     },
     {
       "surface": "אשר",
@@ -52,11 +50,13 @@
     },
     {
       "surface": "חיים",
-      "gloss": "vivem"
+      "gloss": "estão vivos"
     },
     {
       "surface": "עדנה",
       "gloss": "até agora"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:20:54.225205003Z",
+  "model": "glm-5.2"
 }

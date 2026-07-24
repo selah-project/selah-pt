@@ -1,34 +1,32 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "1-chronicles 19:4",
   "book": "1-chronicles",
-  "chapter": 19,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:54:16.555978071Z",
-  "translation": "Então Hanun tomou ⟨os⟩ servos de David e os barbeou e cortou ⟨as⟩ vestes deles ⟨em⟩ meio até ⟨as⟩ nádegas e os enviou",
+  "chapter": 19,
+  "translation": "E Janon tomou ⟨את⟩ os servos de David, e os barbeou, e cortou ⟨את⟩ suas vestes pelo meio até as nádegas, e os despediu.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Então"
+      "gloss": "e tomou"
     },
     {
       "surface": "חנון",
-      "gloss": "Hanun"
+      "gloss": "Janon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "servos"
+      "marks": "os servos de David"
     },
     {
       "surface": "עבדי",
-      "gloss": "servos"
+      "gloss": "os servos de"
     },
     {
       "surface": "דויד",
-      "gloss": "de David"
+      "gloss": "David"
     },
     {
       "surface": "ויגלחם",
@@ -41,15 +39,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vestes deles"
+      "marks": "suas vestes"
     },
     {
       "surface": "מדויהם",
-      "gloss": "vestes deles"
+      "gloss": "suas vestes"
     },
     {
       "surface": "בחצי",
-      "gloss": "⟨em⟩ meio"
+      "gloss": "pelo meio"
     },
     {
       "surface": "עד",
@@ -57,23 +55,13 @@
     },
     {
       "surface": "המפשעה",
-      "gloss": "⟨as⟩ nádegas"
+      "gloss": "as nádegas"
     },
     {
       "surface": "וישלחם",
-      "gloss": "e os enviou"
+      "gloss": "e os despediu"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 4,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:29:20.775753920Z",
+  "model": "glm-5.2"
 }

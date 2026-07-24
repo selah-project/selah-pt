@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "judges 8:1",
   "book": "judges",
-  "chapter": 8,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:58:17.303874452Z",
-  "translation": "E os ⟨homens de⟩ Efráyim disseram-lhe: ⟨O⟩ que ⟨é⟩ esta coisa que fizeste a nós, para ⟨o⟩ não nos chamares, quando foste ⟨para⟩ lutar contra Midiã? E contenderam com ⟨ele⟩ ⟨com⟩ veemência.",
+  "chapter": 8,
+  "translation": "E disseram-lhe ⟨os⟩ homens de Efráyim: Que ⟨é⟩ ⟨esta⟩ coisa ⟨que⟩ fizeste conosco, ⟨o⟩ não nos chamar quando foste pelejar contra Midyan? E contenderam com ele ⟨com⟩ força.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -15,27 +13,27 @@
     },
     {
       "surface": "אליו",
-      "gloss": "-lhe"
+      "gloss": "a ele"
     },
     {
       "surface": "איש",
-      "gloss": "⟨homens de⟩"
+      "gloss": "⟨os⟩ homens"
     },
     {
       "surface": "אפרים",
-      "gloss": "Efráyim"
+      "gloss": "de Efráyim"
     },
     {
       "surface": "מה",
-      "gloss": "⟨O⟩ que"
+      "gloss": "Que"
     },
     {
       "surface": "הדבר",
-      "gloss": "esta coisa"
+      "gloss": "coisa"
     },
     {
       "surface": "הזה",
-      "gloss": "que"
+      "gloss": "esta"
     },
     {
       "surface": "עשית",
@@ -43,19 +41,19 @@
     },
     {
       "surface": "לנו",
-      "gloss": "a nós"
+      "gloss": "conosco"
     },
     {
       "surface": "לבלתי",
-      "gloss": "para ⟨o⟩ não"
+      "gloss": "para não"
     },
     {
       "surface": "קראות",
-      "gloss": "nos chamares"
+      "gloss": "chamar"
     },
     {
       "surface": "לנו",
-      "gloss": "a nós"
+      "gloss": "nos"
     },
     {
       "surface": "כי",
@@ -67,11 +65,11 @@
     },
     {
       "surface": "להלחם",
-      "gloss": "⟨para⟩ lutar"
+      "gloss": "pelejar"
     },
     {
       "surface": "במדין",
-      "gloss": "contra Midiã"
+      "gloss": "contra Midyan"
     },
     {
       "surface": "ויריבון",
@@ -79,24 +77,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "com ⟨ele⟩",
-      "marks": "com ele"
+      "gloss": "com ele"
     },
     {
       "surface": "בחזקה",
-      "gloss": "⟨com⟩ veemência"
+      "gloss": "⟨com⟩ força"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Efraim",
-      "to": "Efráyim",
-      "token-index": 3,
-      "strongs": 669,
-      "hebrew": "אפרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:15:25.388477587Z",
+  "model": "glm-5.2"
 }

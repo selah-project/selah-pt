@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "psalms 87:1",
   "book": "psalms",
-  "chapter": 87,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:37:26.868000310Z",
-  "translation": "Aos ⟨filhos⟩ de Koraj ⟨את⟩ ⟨um⟩ salmo ⟨um⟩ cântico sua fundação ⟨está⟩ nos montes santos",
+  "chapter": 87,
+  "translation": "Aos filhos de Koraj. Um mizmor, um shir. O seu fundamento ⟨está⟩ nas montanhas de Kódesh.",
   "tokens": [
     {
       "surface": "לבני",
-      "gloss": "Aos ⟨filhos⟩ de Corá"
+      "gloss": "Aos filhos de"
     },
     {
       "surface": "קרח",
@@ -19,35 +17,25 @@
     },
     {
       "surface": "מזמור",
-      "gloss": "⟨um⟩ salmo"
+      "gloss": "Um mizmor"
     },
     {
       "surface": "שיר",
-      "gloss": "⟨um⟩ cântico"
+      "gloss": "um shir"
     },
     {
       "surface": "יסודתו",
-      "gloss": "sua fundação"
+      "gloss": "O seu fundamento"
     },
     {
       "surface": "בהררי",
-      "gloss": "nos montes"
+      "gloss": "nas montanhas de"
     },
     {
       "surface": "קדש",
-      "gloss": "santos"
+      "gloss": "Kódesh"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Corá",
-      "to": "Koraj",
-      "token-index": 1,
-      "strongs": 7141,
-      "hebrew": "קרח"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:11:14.074478804Z",
+  "model": "glm-5.2"
 }

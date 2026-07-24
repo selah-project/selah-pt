@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 24,
   "ref": "leviticus 25:24",
   "book": "leviticus",
-  "chapter": 25,
-  "verse": 24,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:03:47.540610237Z",
-  "translation": "E em toda ⟨a⟩ terra de vossa possessão, Gueulá concedereis ⟨את⟩ ⟨à⟩ terra.",
+  "chapter": 25,
+  "translation": "E em toda ⟨a⟩ terra de vossa possessão, fareis ⟨que haja⟩ gueulá para ⟨a⟩ terra.",
   "tokens": [
     {
       "surface": "ובכל",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨a⟩ terra"
+      "gloss": "terra"
     },
     {
       "surface": "אחזתכם",
@@ -23,28 +21,17 @@
     },
     {
       "surface": "גאלה",
-      "gloss": "Gueulá"
+      "gloss": "gueulá"
     },
     {
       "surface": "תתנו",
-      "gloss": "concedereis"
+      "gloss": "fareis ⟨que haja⟩"
     },
     {
       "surface": "לארץ",
-      "gloss": "⟨את⟩ ⟨à⟩ terra",
-      "marks": "a terra"
+      "gloss": "para ⟨a⟩ terra"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "redenção",
-      "to": "Gueulá",
-      "token-index": 3,
-      "strongs": 1353,
-      "hebrew": "גאולה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:51:45.483526013Z",
+  "model": "glm-5.2"
 }

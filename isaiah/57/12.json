@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "isaiah 57:12",
   "book": "isaiah",
-  "chapter": 57,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:56:31.918316049Z",
-  "translation": "Eu declararei ⟨a tua⟩ justiça e ⟨os teus⟩ atos, e ⟨eles⟩ não ⟨irão⟩ te aproveitar.",
+  "chapter": 57,
+  "translation": "Eu declararei a tua justiça, e ⟨את⟩ as tuas obras — e elas não te aproveitarão.",
   "tokens": [
     {
       "surface": "אני",
@@ -19,16 +17,16 @@
     },
     {
       "surface": "צדקתך",
-      "gloss": "⟨a tua⟩ justiça"
+      "gloss": "a tua justiça"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨os teus⟩",
-      "marks": "atos"
+      "gloss": "⟨את⟩",
+      "marks": "as tuas obras"
     },
     {
       "surface": "מעשיך",
-      "gloss": "atos"
+      "gloss": "as tuas obras"
     },
     {
       "surface": "ולא",
@@ -36,11 +34,9 @@
     },
     {
       "surface": "יועילוך",
-      "gloss": "⟨eles⟩ não ⟨irão⟩ te aproveitar"
+      "gloss": "te aproveitarão"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:45:03.107284024Z",
+  "model": "glm-5.2"
 }

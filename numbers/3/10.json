@@ -1,18 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "numbers 3:10",
   "book": "numbers",
-  "chapter": 3,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:02:53.157277281Z",
-  "translation": "E tu apontarás ⟨את⟩ Aharon e ⟨את⟩ seus filhos, e eles guardarão o seu sacerdócio; e o estranho que se aproximar morrerá.",
+  "chapter": 3,
+  "translation": "E a Aharon e a seus filhos encarregarás, e guardarão ⟨את⟩ o seu sacerdócio; e o estranho que se aproximar morrerá.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Aharon"
+      "gloss": "e ⟨את⟩",
+      "marks": "a Aharon"
     },
     {
       "surface": "אהרן",
@@ -20,8 +18,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "seus filhos"
+      "gloss": "e ⟨את⟩",
+      "marks": "a seus filhos"
     },
     {
       "surface": "בניו",
@@ -29,11 +27,11 @@
     },
     {
       "surface": "תפקד",
-      "gloss": "apontarás"
+      "gloss": "encarregarás"
     },
     {
       "surface": "ושמרו",
-      "gloss": "e eles guardarão"
+      "gloss": "e guardarão"
     },
     {
       "surface": "את",
@@ -56,5 +54,7 @@
       "surface": "יומת",
       "gloss": "morrerá"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:37:59.931162816Z",
+  "model": "glm-5.2"
 }

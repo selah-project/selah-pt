@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "jeremiah 36:1",
   "book": "jeremiah",
-  "chapter": 36,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:40:26.356377230Z",
-  "translation": "E aconteceu no quarto ano de Yehoyakim ⟨filho⟩ de Yoshiyahu, ⟨rei⟩ de Yehudá, ⟨foi⟩ ⟨que⟩ ⟨a⟩ palavra ⟨esta⟩ veio a Yirmeyahu ⟨de⟩ YHWH, dizendo:",
+  "chapter": 36,
+  "translation": "E aconteceu no ano quarto de Yehoyakim, ben de Yoshiyahu, rei de Yehudá: ⟨este⟩ davar veio a Yirmeyahu de ⟨את⟩ YHWH, dizendo:",
   "tokens": [
     {
       "surface": "ויהי",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "בשנה",
-      "gloss": "no quarto ano"
+      "gloss": "no ano"
     },
     {
       "surface": "הרביעת",
@@ -27,31 +25,31 @@
     },
     {
       "surface": "בן",
-      "gloss": "⟨filho⟩"
+      "gloss": "ben de"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "de Yoshiyahu"
+      "gloss": "Yoshiyahu"
     },
     {
       "surface": "מלך",
-      "gloss": "⟨rei⟩"
+      "gloss": "rei de"
     },
     {
       "surface": "יהודה",
-      "gloss": "de Yehudá"
+      "gloss": "Yehudá"
     },
     {
       "surface": "היה",
-      "gloss": "⟨foi⟩"
+      "gloss": "⟨aconteceu⟩"
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨que⟩ ⟨a⟩ palavra"
+      "gloss": "o davar"
     },
     {
       "surface": "הזה",
-      "gloss": "⟨esta⟩"
+      "gloss": "este"
     },
     {
       "surface": "אל",
@@ -63,7 +61,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de⟩"
+      "gloss": "de ⟨את⟩"
     },
     {
       "surface": "יהוה",
@@ -74,16 +72,6 @@
       "gloss": "dizendo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 7,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:52:35.740575705Z",
+  "model": "glm-5.2"
 }

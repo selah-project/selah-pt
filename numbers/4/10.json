@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "numbers 4:10",
   "book": "numbers",
-  "chapter": 4,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:04:12.854913750Z",
-  "translation": "e colocarão ⟨a⟩ e ⟨את⟩ todos os seus utensílios em ⟨uma⟩ cobertura de pele de tachash, e colocarão sobre o varão",
+  "chapter": 4,
+  "translation": "E colocarão ⟨את⟩-ela e ⟨את⟩ todos os seus utensílios numa cobertura de pele de tajash, e colocarão sobre o varal.",
   "tokens": [
     {
       "surface": "ונתנו",
@@ -15,12 +13,12 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨a⟩",
-      "marks": "o candelabro (implícito)"
+      "gloss": "⟨את⟩",
+      "marks": "ela"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "todos os seus utensílios"
     },
     {
@@ -33,11 +31,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "em"
+      "gloss": "numa"
     },
     {
       "surface": "מכסה",
-      "gloss": "uma cobertura"
+      "gloss": "cobertura"
     },
     {
       "surface": "עור",
@@ -45,7 +43,7 @@
     },
     {
       "surface": "תחש",
-      "gloss": "de tachash"
+      "gloss": "de tajash"
     },
     {
       "surface": "ונתנו",
@@ -57,7 +55,9 @@
     },
     {
       "surface": "המוט",
-      "gloss": "o varão"
+      "gloss": "o varal"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:53:19.161850629Z",
+  "model": "glm-5.2"
 }

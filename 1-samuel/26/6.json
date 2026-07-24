@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "1-samuel 26:6",
   "book": "1-samuel",
-  "chapter": 26,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:38:50.408504648Z",
-  "translation": "Então respondeu David e disse a Ahimeleque ⟨o⟩ hitita e a Abisai filho de Zerujia, irmão de Joab, dizendo: Quem descerá comigo a Shaul ⟨ao⟩ acampamento? E disse Abisai: Eu descerei contigo.",
+  "chapter": 26,
+  "translation": "E David respondeu e disse a Ajimelekh, o jitita, e a Avishai, filho de Tseruyá, irmão de Yoav, dizendo: Quem descerá comigo a Shaul, ao acampamento? E Avishai disse: Eu descerei contigo.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "Então respondeu"
+      "gloss": "E respondeu"
     },
     {
       "surface": "דוד",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "אחימלך",
-      "gloss": "Ahimeleque"
+      "gloss": "Ajimelekh"
     },
     {
       "surface": "החתי",
-      "gloss": "⟨o⟩ hitita"
+      "gloss": "o jitita"
     },
     {
       "surface": "ואל",
@@ -39,23 +37,23 @@
     },
     {
       "surface": "אבישי",
-      "gloss": "Abisai"
+      "gloss": "Avishai"
     },
     {
       "surface": "בן",
-      "gloss": "filho"
+      "gloss": "filho de"
     },
     {
       "surface": "צרויה",
-      "gloss": "Zerujia"
+      "gloss": "Tseruyá"
     },
     {
       "surface": "אחי",
-      "gloss": "irmão"
+      "gloss": "irmão de"
     },
     {
       "surface": "יואב",
-      "gloss": "Joab"
+      "gloss": "Yoav"
     },
     {
       "surface": "לאמר",
@@ -83,11 +81,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨ao⟩"
+      "gloss": "a"
     },
     {
       "surface": "המחנה",
-      "gloss": "acampamento"
+      "gloss": "o acampamento"
     },
     {
       "surface": "ויאמר",
@@ -95,7 +93,7 @@
     },
     {
       "surface": "אבישי",
-      "gloss": "Abisai"
+      "gloss": "Avishai"
     },
     {
       "surface": "אני",
@@ -110,23 +108,6 @@
       "gloss": "contigo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Saul",
-      "to": "Shaul",
-      "token-index": 17,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:22:54.081526518Z",
+  "model": "glm-5.2"
 }

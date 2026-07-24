@@ -1,54 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "hosea 10:7",
   "book": "hosea",
-  "chapter": 10,
-  "verse": 7,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T09:00:04.424917568Z",
-  "translation": "Shomron ⟨is⟩ cut off; its king ⟨is⟩ as foam ⟨את⟩ upon the face of the waters.",
+  "chapter": 10,
+  "translation": "Shomron ⟨será⟩ silenciada, ⟨junto com⟩ seu rei — como ⟨a⟩ espuma sobre a face das águas.",
   "tokens": [
     {
-      "surface": "נדמה",
-      "gloss": "Cut off"
+      "surface": "נִדְמֶ֥ה",
+      "gloss": "silenciada"
     },
     {
-      "surface": "שמרון",
+      "surface": "שֹׁמְר֖וֹן",
       "gloss": "Shomron"
     },
     {
-      "surface": "מלכה",
-      "gloss": "its king"
+      "surface": "מַלְכָּ֑הּ",
+      "gloss": "seu rei"
     },
     {
-      "surface": "כקצף",
-      "gloss": "as foam"
+      "surface": "כְּקֶ֖צֶף",
+      "gloss": "como espuma"
     },
     {
-      "surface": "על",
-      "gloss": "upon"
+      "surface": "עַל",
+      "gloss": "sobre"
     },
     {
-      "surface": "פני",
-      "gloss": "face",
-      "marks": "the waters"
+      "surface": "פְּנֵי",
+      "gloss": "a face"
     },
     {
-      "surface": "מים",
-      "gloss": "the waters"
+      "surface": "מָֽיִם",
+      "gloss": "das águas"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Samaria",
-      "to": "Shomron",
-      "token-index": 1,
-      "strongs": 8111,
-      "hebrew": "שמרון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:04:04.670502871Z",
+  "model": "glm-5.2"
 }

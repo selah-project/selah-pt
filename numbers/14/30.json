@@ -1,41 +1,39 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "numbers 14:30",
   "book": "numbers",
-  "chapter": 14,
-  "verse": 30,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:12:28.488581336Z",
-  "translation": "Certamente ⟨vós⟩ não ⟨entrareis⟩ ⟨na⟩ terra ⟨que⟩ ⟨levantei⟩ ⟨את⟩ minha mão ⟨para fazer⟩ ⟨vós⟩ habitar ⟨nela⟩, exceto Kalev ben Yefuné e Yehoshua ben Nun.",
+  "chapter": 14,
+  "translation": "Se vós entrardes ⟨na⟩ terra sobre a qual levantei ⟨את⟩ minha mão para fazer-vos habitar nela — ⟨exceto⟩ Kalev, filho de Yefuné, e Yehoshua, filho de Nun.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "Se"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨vós⟩"
+      "gloss": "vós"
     },
     {
       "surface": "תבאו",
-      "gloss": "⟨entrareis⟩"
+      "gloss": "entrardes"
     },
     {
       "surface": "אל",
-      "gloss": "⟨na⟩"
+      "gloss": "⟨em⟩"
     },
     {
       "surface": "הארץ",
-      "gloss": "terra"
+      "gloss": "a terra"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨que⟩"
+      "gloss": "sobre a qual"
     },
     {
       "surface": "נשאתי",
-      "gloss": "⟨levantei⟩"
+      "gloss": "levantei"
     },
     {
       "surface": "את",
@@ -48,23 +46,24 @@
     },
     {
       "surface": "לשכן",
-      "gloss": "⟨para fazer⟩"
+      "gloss": "para fazer-vos habitar"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨vós⟩"
+      "gloss": "⟨את⟩",
+      "marks": "vos (fazer-vos)"
     },
     {
       "surface": "בה",
-      "gloss": "⟨nela⟩"
+      "gloss": "nela"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "אם",
-      "gloss": "exceto"
+      "gloss": "⟨exceto⟩"
     },
     {
       "surface": "כלב",
@@ -72,7 +71,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "ben"
+      "gloss": "filho de"
     },
     {
       "surface": "יפנה",
@@ -84,11 +83,13 @@
     },
     {
       "surface": "בן",
-      "gloss": "ben"
+      "gloss": "filho de"
     },
     {
       "surface": "נון",
       "gloss": "Nun"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:55:56.292233198Z",
+  "model": "glm-5.2"
 }

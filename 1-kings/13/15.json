@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "1-kings 13:15",
   "book": "1-kings",
-  "chapter": 13,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T05:29:39.328111996Z",
-  "translation": "E ele disse ⟨a⟩ ele: ⟨vai⟩ comigo ⟨para a⟩ casa, e come ⟨o⟩ pão.",
+  "chapter": 13,
+  "translation": "E ele disse a ele: Vai comigo ⟨à⟩ casa, e come pão.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -15,12 +13,11 @@
     },
     {
       "surface": "אליו",
-      "gloss": "⟨a⟩ ele",
-      "marks": "ele"
+      "gloss": "a ele"
     },
     {
       "surface": "לך",
-      "gloss": "⟨vai⟩"
+      "gloss": "Vai"
     },
     {
       "surface": "אתי",
@@ -28,8 +25,7 @@
     },
     {
       "surface": "הביתה",
-      "gloss": "⟨para a⟩ casa",
-      "marks": "casa"
+      "gloss": "⟨à⟩ casa"
     },
     {
       "surface": "ואכל",
@@ -37,12 +33,9 @@
     },
     {
       "surface": "לחם",
-      "gloss": "⟨o⟩ pão",
-      "marks": "pão"
+      "gloss": "pão"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:32:52.640082491Z",
+  "model": "glm-5.2"
 }

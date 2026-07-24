@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 24,
   "ref": "2-chronicles 24:24",
   "book": "2-chronicles",
-  "chapter": 24,
-  "verse": 24,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:19:35.421412239Z",
-  "translation": "Pois com ⟨um⟩ pequeno ⟨número⟩ de homens veio o exército de Aram, e YHWH deu em ⟨sua⟩ mão um exército muito ⟨grande⟩ em multidão, pois abandonaram ⟨את⟩ YHWH, ⟨o⟩ Elohim de seus pais, e com Yoash executaram julgamentos.",
+  "chapter": 24,
+  "translation": "Porque com um pequeno número de homens veio o exército de Aram, e YHWH entregou em sua mão um exército muitíssimo grande, porque abandonaram ⟨את⟩ YHWH, Elohim de seus pais; e contra Yoash executaram juízos.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Pois"
+      "gloss": "Porque"
     },
     {
       "surface": "במצער",
-      "gloss": "com ⟨um⟩ pequeno ⟨número⟩"
+      "gloss": "com um pequeno número"
     },
     {
       "surface": "אנשים",
@@ -39,11 +37,11 @@
     },
     {
       "surface": "נתן",
-      "gloss": "deu"
+      "gloss": "entregou"
     },
     {
       "surface": "בידם",
-      "gloss": "em ⟨sua⟩ mão"
+      "gloss": "em sua mão"
     },
     {
       "surface": "חיל",
@@ -51,15 +49,15 @@
     },
     {
       "surface": "לרב",
-      "gloss": "muito ⟨grande⟩"
+      "gloss": "muitíssimo grande"
     },
     {
       "surface": "מאד",
-      "gloss": "em multidão"
+      "gloss": "(em extrema quantidade)"
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "עזבו",
@@ -76,15 +74,16 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "⟨o⟩ Elohim"
+      "gloss": "Elohim de"
     },
     {
       "surface": "אבותיהם",
-      "gloss": "de seus pais"
+      "gloss": "seus pais"
     },
     {
       "surface": "ואת",
-      "gloss": "e com"
+      "gloss": "e ⟨את⟩",
+      "marks": "Yoash"
     },
     {
       "surface": "יואש",
@@ -96,7 +95,9 @@
     },
     {
       "surface": "שפטים",
-      "gloss": "julgamentos"
+      "gloss": "juízos"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:34:55.766251925Z",
+  "model": "glm-5.2"
 }

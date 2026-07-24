@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "ezekiel 6:14",
   "book": "ezekiel",
-  "chapter": 6,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:03:18.988386820Z",
-  "translation": "E estenderei ⟨a⟩ minha mão sobre eles, e darei ⟨a⟩ terra ⟨como⟩ devastação e ⟨como⟩ desolação, desde ⟨o⟩ deserto até Diblá, em todas ⟨as⟩ suas habitações, e saberão que eu sou ⟨o⟩ YHWH.",
+  "chapter": 6,
+  "translation": "E estenderei ⟨את⟩ minha mão sobre eles, e farei ⟨את⟩ a terra desolação e assolamento, desde o deserto até Diblá, em todas as suas habitações; e saberão que eu ⟨sou⟩ YHWH.",
   "tokens": [
     {
       "surface": "ונטיתי",
@@ -28,7 +26,7 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "e darei"
+      "gloss": "e farei"
     },
     {
       "surface": "את",
@@ -41,15 +39,15 @@
     },
     {
       "surface": "שממה",
-      "gloss": "⟨como⟩ devastação"
+      "gloss": "desolação"
     },
     {
       "surface": "ומשמה",
-      "gloss": "e ⟨como⟩ desolação"
+      "gloss": "e assolamento"
     },
     {
       "surface": "ממדבר",
-      "gloss": "desde ⟨o⟩ deserto"
+      "gloss": "desde o deserto"
     },
     {
       "surface": "דבלתה",
@@ -57,11 +55,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "em todas ⟨as⟩"
+      "gloss": "em todas"
     },
     {
       "surface": "מושבותיהם",
-      "gloss": "suas habitações"
+      "gloss": "as suas habitações"
     },
     {
       "surface": "וידעו",
@@ -73,23 +71,13 @@
     },
     {
       "surface": "אני",
-      "gloss": "eu sou"
+      "gloss": "eu"
     },
     {
       "surface": "יהוה",
       "gloss": "YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "SENHOR",
-      "to": "YHWH",
-      "token-index": 16,
-      "strongs": 3068,
-      "hebrew": "יהוה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:56:44.396663783Z",
+  "model": "glm-5.2"
 }

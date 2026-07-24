@@ -1,22 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 46,
   "ref": "jeremiah 50:46",
   "book": "jeremiah",
-  "chapter": 50,
-  "verse": 46,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:54:46.178565198Z",
-  "translation": "Da voz ⟨את⟩ Bavel ⟨foi⟩ capturada, ⟨a⟩ terra tremeu, e ⟨um⟩ grito entre ⟨as⟩ nações ⟨foi⟩ ouvido",
+  "chapter": 50,
+  "translation": "Pela voz ⟨de⟩ Bavel ⟨sendo⟩ capturada, ⟨a⟩ terra se abala; e um clamor entre as nações se ouve.",
   "tokens": [
     {
       "surface": "מקול",
-      "gloss": "Da voz"
+      "gloss": "pela voz"
     },
     {
       "surface": "נתפשה",
-      "gloss": "⟨את⟩",
-      "marks": "Babel"
+      "gloss": "⟨sendo⟩ capturada"
     },
     {
       "surface": "בבל",
@@ -24,7 +21,7 @@
     },
     {
       "surface": "נרעשה",
-      "gloss": "⟨foi⟩ capturada"
+      "gloss": "se abala"
     },
     {
       "surface": "הארץ",
@@ -32,27 +29,17 @@
     },
     {
       "surface": "וזעקה",
-      "gloss": "tremeu"
+      "gloss": "e um clamor"
     },
     {
       "surface": "בגוים",
-      "gloss": "e ⟨um⟩ grito entre ⟨as⟩ nações"
+      "gloss": "entre as nações"
     },
     {
       "surface": "נשמע",
-      "gloss": "⟨foi⟩ ouvido"
+      "gloss": "se ouve"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Babel",
-      "to": "Bavel",
-      "token-index": 2,
-      "strongs": 894,
-      "hebrew": "בבל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:55:18.602065209Z",
+  "model": "glm-5.2"
 }

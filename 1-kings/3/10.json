@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "1-kings 3:10",
   "book": "1-kings",
-  "chapter": 3,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T11:20:18.636319235Z",
-  "translation": "E a palavra foi boa aos olhos de Adonai, que Shlomó pediu esta coisa.",
+  "chapter": 3,
+  "translation": "E ⟨a palavra⟩ foi boa aos olhos de Adonai, porque Shlomó pediu ⟨את⟩ ⟨a palavra⟩ esta.",
   "tokens": [
     {
       "surface": "וייטב",
-      "gloss": "E a palavra foi boa"
+      "gloss": "E foi boa"
     },
     {
       "surface": "הדבר",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "aos olhos"
+      "gloss": "aos olhos de"
     },
     {
       "surface": "אדני",
-      "gloss": "de Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "כי",
-      "gloss": "que"
+      "gloss": "porque"
     },
     {
       "surface": "שאל",
@@ -40,15 +38,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "esta coisa"
+      "marks": "a palavra"
     },
     {
       "surface": "הדבר",
-      "gloss": "coisa"
+      "gloss": "a palavra"
     },
     {
       "surface": "הזה",
       "gloss": "esta"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:29:46.211126382Z",
+  "model": "glm-5.2"
 }

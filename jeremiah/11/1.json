@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "jeremiah 11:1",
   "book": "jeremiah",
-  "chapter": 11,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:14:21.883498361Z",
-  "translation": "A palavra que foi ⟨para⟩ Yirmeyahu ⟨de⟩ YHWH ⟨para⟩ dizer",
+  "chapter": 11,
+  "translation": "O davar que ⟨foi⟩ a Yirmeyahu, da parte de YHWH, para dizer:",
   "tokens": [
     {
       "surface": "הדבר",
-      "gloss": "A palavra"
+      "gloss": "O davar"
     },
     {
       "surface": "אשר",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "foi"
+      "gloss": "⟨foi⟩"
     },
     {
       "surface": "אל",
-      "gloss": "⟨para⟩"
+      "gloss": "a"
     },
     {
       "surface": "ירמיהו",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de⟩"
+      "gloss": "da parte de"
     },
     {
       "surface": "יהוה",
@@ -39,19 +37,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "⟨para⟩ dizer"
+      "gloss": "para dizer"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jeremias",
-      "to": "Yirmeyahu",
-      "token-index": 4,
-      "strongs": 3414,
-      "hebrew": "ירמיה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:47:21.886550199Z",
+  "model": "glm-5.2"
 }

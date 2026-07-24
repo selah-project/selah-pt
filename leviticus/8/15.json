@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "leviticus 8:15",
   "book": "leviticus",
-  "chapter": 8,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:39:53.922746066Z",
-  "translation": "E ele ⟨o⟩ sacrificou, e Moshé tomou ⟨את⟩ ⟨o⟩ sangue, e pôs sobre os cornos do altar ao redor com o seu dedo, e purificou o altar, e derramou ⟨את⟩ ⟨o⟩ sangue para a fundação do altar, e o santificou, para fazer expiação sobre ele.",
+  "chapter": 8,
+  "translation": "E ⟨ele⟩ o abateu; e Moshé tomou ⟨את⟩ o sangue e o pôs sobre os chifres do altar, ao redor, com o seu dedo, e purificou ⟨את⟩ o altar; e ⟨את⟩ o sangue derramou ele para ⟨o⟩ fundamento do altar, e o consagrou, para fazer kapará sobre ele.",
   "tokens": [
     {
       "surface": "וישחט",
-      "gloss": "E ele ⟨o⟩ sacrificou"
+      "gloss": "e abateu"
     },
     {
       "surface": "ויקח",
@@ -32,7 +30,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "e pôs"
+      "gloss": "e o pôs"
     },
     {
       "surface": "על",
@@ -40,7 +38,7 @@
     },
     {
       "surface": "קרנות",
-      "gloss": "os cornos"
+      "gloss": "os chifres"
     },
     {
       "surface": "המזבח",
@@ -69,7 +67,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e"
+      "gloss": "⟨את⟩",
+      "marks": "o sangue"
     },
     {
       "surface": "הדם",
@@ -85,7 +84,7 @@
     },
     {
       "surface": "יסוד",
-      "gloss": "a fundação"
+      "gloss": "o fundamento"
     },
     {
       "surface": "המזבח",
@@ -93,15 +92,17 @@
     },
     {
       "surface": "ויקדשהו",
-      "gloss": "e o santificou"
+      "gloss": "e o consagrou"
     },
     {
       "surface": "לכפר",
-      "gloss": "para fazer expiação"
+      "gloss": "para fazer kapará"
     },
     {
       "surface": "עליו",
       "gloss": "sobre ele"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:37:50.181918487Z",
+  "model": "glm-5.2"
 }

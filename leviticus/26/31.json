@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 31,
   "ref": "leviticus 26:31",
   "book": "leviticus",
-  "chapter": 26,
-  "verse": 31,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:05:20.093342971Z",
-  "translation": "E darei ⟨a⟩ vossas cidades ⟨como⟩ desolação e farei ⟨os⟩ vossos Mikdashs ⟨em⟩ desolação e não sentirei ⟨o⟩ suave aroma ⟨de⟩ ⟨vossos⟩ aromas tranquilizantes",
+  "chapter": 26,
+  "translation": "E darei ⟨as⟩ vossas cidades ⟨à⟩ desolação, e assolarei ⟨os⟩ vossos Mikdash; e não cheirarei ⟨o⟩ vosso aroma suave.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "E darei"
+      "gloss": "e darei"
     },
     {
       "surface": "את",
@@ -24,48 +22,38 @@
     },
     {
       "surface": "חרבה",
-      "gloss": "⟨como⟩ desolação"
+      "gloss": "à desolação"
     },
     {
       "surface": "והשמותי",
-      "gloss": "e farei"
+      "gloss": "e assolarei"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vossos santuários"
+      "marks": "vossos Mikdash"
     },
     {
       "surface": "מקדשיכם",
-      "gloss": "vossos Mikdashs"
+      "gloss": "vossos Mikdash"
     },
     {
       "surface": "ולא",
-      "gloss": "e não sentirei"
+      "gloss": "e não"
     },
     {
       "surface": "אריח",
-      "gloss": "⟨o⟩ suave aroma"
+      "gloss": "cheirarei"
     },
     {
       "surface": "בריח",
-      "gloss": "⟨de⟩"
+      "gloss": "o aroma"
     },
     {
       "surface": "ניחחכם",
-      "gloss": "⟨vossos⟩ aromas tranquilizantes"
+      "gloss": "vosso aroma suave"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "santuário",
-      "to": "Mikdash",
-      "token-index": 6,
-      "strongs": 4720,
-      "hebrew": "מקדש"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:52:20.529994319Z",
+  "model": "glm-5.2"
 }

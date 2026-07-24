@@ -1,23 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "genesis 43:3",
   "book": "genesis",
-  "chapter": 43,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:27:13.092901813Z",
-  "translation": "E Yehudá disse-lhe, dizendo: ⟨O⟩ homem ⟨foi⟩ testemunhando entre nós, dizendo: 'Não vereis ⟨a⟩ minha face ⟨a⟩ ⟨não ser⟩ que ⟨o⟩ vosso irmão ⟨esteja⟩ ⟨com⟩ vós'.",
+  "chapter": 43,
+  "translation": "E Yehudá lhe disse, dizendo: ⟨O⟩ homem nos advertiu ⟨com⟩ ⟨solene⟩ advertência, dizendo: não vereis minha face a não ser que ⟨o⟩ vosso irmão ⟨esteja⟩ convosco.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E ... disse",
-      "marks": "Judá"
+      "gloss": "E disse"
     },
     {
       "surface": "אליו",
-      "gloss": "⟨a⟩ ele",
-      "marks": "a Jacó"
+      "gloss": "a ele"
     },
     {
       "surface": "יהודה",
@@ -25,32 +21,31 @@
     },
     {
       "surface": "לאמר",
-      "gloss": ", dizendo"
+      "gloss": "dizendo"
     },
     {
       "surface": "העד",
-      "gloss": "⟨O⟩ ... testemunhando",
-      "marks": "homem"
+      "gloss": "advertindo"
     },
     {
       "surface": "העד",
-      "gloss": "testemunhando"
+      "gloss": "advertiu"
     },
     {
       "surface": "בנו",
-      "gloss": "⟨entre⟩ nós"
+      "gloss": "em nós"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨o⟩ homem"
+      "gloss": "⟨O⟩ homem"
     },
     {
       "surface": "לאמר",
-      "gloss": ", dizendo"
+      "gloss": "dizendo"
     },
     {
       "surface": "לא",
-      "gloss": "'Não"
+      "gloss": "não"
     },
     {
       "surface": "תראו",
@@ -58,11 +53,11 @@
     },
     {
       "surface": "פני",
-      "gloss": "⟨a⟩ minha face"
+      "gloss": "minha face"
     },
     {
       "surface": "בלתי",
-      "gloss": "⟨a⟩ ⟨não ser⟩ que"
+      "gloss": "a não ser que"
     },
     {
       "surface": "אחיכם",
@@ -70,19 +65,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨com⟩ vós"
+      "gloss": "convosco"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 2,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:36:09.814983920Z",
+  "model": "glm-5.2"
 }

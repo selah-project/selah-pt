@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "2-chronicles 6:17",
   "book": "2-chronicles",
-  "chapter": 6,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:11:54.246290601Z",
-  "translation": "E agora, HaShem, Elohim de Yisrael, ⟨seja⟩ firme ⟨o⟩ ⟨את⟩ ⟨a⟩ tua palavra, que falaste ⟨ao⟩ teu servo ⟨para⟩ David",
+  "chapter": 6,
+  "translation": "E agora, YHWH, Elohim de Yisrael, ⟨seja⟩ confirmado o teu davar que falaste ao teu servo, a David.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "יאמן",
-      "gloss": "⟨seja⟩ firme"
+      "gloss": "⟨seja⟩ confirmado"
     },
     {
       "surface": "דברך",
-      "gloss": "⟨a⟩ tua palavra"
+      "gloss": "o teu davar"
     },
     {
       "surface": "אשר",
@@ -43,23 +41,13 @@
     },
     {
       "surface": "לעבדך",
-      "gloss": "⟨ao⟩ teu servo"
+      "gloss": "ao teu servo"
     },
     {
       "surface": "לדויד",
-      "gloss": "⟨para⟩ David"
+      "gloss": "a David"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 3,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:31:28.614944423Z",
+  "model": "glm-5.2"
 }

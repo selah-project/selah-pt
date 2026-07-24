@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "1-chronicles 12:19",
   "book": "1-chronicles",
-  "chapter": 12,
-  "verse": 19,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:46:28.844831277Z",
-  "translation": "E o Rúaj vestiu ⟨o⟩ Amasai, ⟨o⟩ cabeça dos trinta: a ti ⟨é⟩, Davidd, e contigo ⟨está⟩ ben de Jessé: shalom, shalom ⟨seja⟩ a ti, e shalom ⟨seja⟩ aos teus ajudantes, porque ⟨o⟩ teu Elohim ⟨é⟩ ⟨o⟩ teu ajudador. Então Davidd os aceitou e os colocou ⟨como⟩ cabeças ⟨do⟩ batalhão.",
+  "chapter": 12,
+  "translation": "E uma Rúaj vestiu ⟨את⟩ Amasai, chefe dos trinta: \"Para ti, David, e contigo, filho de Yishai! Shalom, shalom para ti, e shalom para quem te ajuda, pois o teu Elohim te ajuda!\" E David os recebeu e os colocou como chefes do bando.",
   "tokens": [
     {
       "surface": "ורוח",
-      "gloss": "E o Rúaj"
+      "gloss": "E uma Rúaj"
     },
     {
       "surface": "לבשה",
@@ -28,7 +26,7 @@
     },
     {
       "surface": "ראש",
-      "gloss": "cabeça"
+      "gloss": "chefe"
     },
     {
       "surface": "השלושים",
@@ -36,11 +34,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "a ti"
+      "gloss": "Para ti"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "ועמך",
@@ -48,15 +46,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "ben"
+      "gloss": "filho"
     },
     {
       "surface": "ישי",
-      "gloss": "de Jessé"
+      "gloss": "de Yishai"
     },
     {
       "surface": "שלום",
-      "gloss": "shalom"
+      "gloss": "Shalom"
     },
     {
       "surface": "שלום",
@@ -64,7 +62,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "a ti"
+      "gloss": "para ti"
     },
     {
       "surface": "ושלום",
@@ -72,58 +70,41 @@
     },
     {
       "surface": "לעזרך",
-      "gloss": "aos teus ajudantes"
+      "gloss": "para quem te ajuda"
     },
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "pois"
     },
     {
       "surface": "עזרך",
-      "gloss": "⟨o⟩ teu ajudador"
+      "gloss": "te ajuda"
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim"
+      "gloss": "o teu Elohim"
     },
     {
       "surface": "ויקבלם",
-      "gloss": "Então David os aceitou"
+      "gloss": "E [...] recebeu-os"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "ויתנם",
-      "gloss": "e os colocou"
+      "gloss": "e colocou-os"
     },
     {
       "surface": "בראשי",
-      "gloss": "⟨como⟩ cabeças"
+      "gloss": "como chefes"
     },
     {
       "surface": "הגדוד",
-      "gloss": "⟨do⟩ batalhão"
+      "gloss": "do bando"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 7,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 20,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:28:24.633757597Z",
+  "model": "glm-5.2"
 }

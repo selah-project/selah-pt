@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "2-chronicles 23:11",
   "book": "2-chronicles",
-  "chapter": 23,
-  "verse": 11,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:17:41.325832669Z",
-  "translation": "E tiraram ⟨את⟩ o filho do rei e puseram sobre ele a coroa e ⟨את⟩ o testemunho e o fizeram reinar; e Yehoyadá e seus filhos o ungiram e disseram: Viva o rei!",
+  "chapter": 23,
+  "translation": "E fizeram sair ⟨את⟩ o filho do rei, e puseram sobre ele ⟨את⟩ a coroa e ⟨את⟩ o testemunho, e o fizeram rei; e Yehoyadá e seus filhos o ungiram, e disseram: Viva o rei!",
   "tokens": [
     {
       "surface": "ויוציאו",
-      "gloss": "E tiraram"
+      "gloss": "E fizeram sair"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o filho"
+      "marks": "o filho do rei"
     },
     {
       "surface": "בן",
@@ -54,20 +52,20 @@
     },
     {
       "surface": "וימליכו",
-      "gloss": "e o fizeram reinar"
+      "gloss": "e fizeram rei"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "o fizeram reinar"
+      "gloss": "⟨את⟩ a ele",
+      "marks": "o ungiram (suffix)"
     },
     {
       "surface": "וימשחהו",
-      "gloss": "o ungiram"
+      "gloss": "e o ungiram"
     },
     {
       "surface": "יהוידע",
-      "gloss": "e Yehoyadá"
+      "gloss": "Yehoyadá"
     },
     {
       "surface": "ובניו",
@@ -85,5 +83,7 @@
       "surface": "המלך",
       "gloss": "o rei"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:34:19.383694271Z",
+  "model": "glm-5.2"
 }

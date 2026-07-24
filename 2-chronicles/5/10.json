@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "2-chronicles 5:10",
   "book": "2-chronicles",
-  "chapter": 5,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:10:56.777542059Z",
-  "translation": "Não ⟨há⟩ na arca ⟨את⟩ senão as duas tábuas que Moshé deu em Horebe, quando YHWH fez ⟨um⟩ pacto com ⟨os⟩ filhos de Yisrael, ⟨quando⟩ saíram ⟨do⟩ Egito.",
+  "chapter": 5,
+  "translation": "Não ⟨havia⟩ nada no Aron, senão as duas tábuas que Moshé deu em Jorév, as quais YHWH cortou ⟨como⟩ Brit com os filhos de Yisrael na saída deles de Mitzráyim.",
   "tokens": [
     {
       "surface": "אין",
-      "gloss": "Não ⟨há⟩"
+      "gloss": "Não"
     },
     {
       "surface": "בארון",
-      "gloss": "na arca"
+      "gloss": "no Aron"
     },
     {
       "surface": "רק",
@@ -43,15 +41,15 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "em Horebe"
+      "gloss": "em Jorév"
     },
     {
       "surface": "אשר",
-      "gloss": "quando"
+      "gloss": "as quais"
     },
     {
       "surface": "כרת",
-      "gloss": "fez ⟨um⟩"
+      "gloss": "cortou"
     },
     {
       "surface": "יהוה",
@@ -59,11 +57,11 @@
     },
     {
       "surface": "עם",
-      "gloss": "com ⟨os⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "בני",
-      "gloss": "filhos"
+      "gloss": "com os filhos"
     },
     {
       "surface": "ישראל",
@@ -71,23 +69,13 @@
     },
     {
       "surface": "בצאתם",
-      "gloss": "⟨quando⟩ saíram"
+      "gloss": "na saída deles"
     },
     {
       "surface": "ממצרים",
-      "gloss": "⟨do⟩ Egito"
+      "gloss": "de Mitzráyim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 14,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:31:28.821287282Z",
+  "model": "glm-5.2"
 }

@@ -1,43 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "genesis 12:15",
   "book": "genesis",
-  "chapter": 12,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T23:52:47.347330154Z",
-  "translation": "E viram ⟨ela⟩ os príncipes de Paró e a elogiaram ⟨ela⟩ a Paró e a mulher ⟨foi⟩ levada à casa de Paró",
+  "chapter": 12,
+  "translation": "E os oficiais de Paró ⟨a⟩ viram ⟨את⟩-a, e ⟨a⟩ louvaram ⟨את⟩-a diante de Paró, e ⟨a⟩ mulher foi levada ⟨à⟩ casa de Paró.",
   "tokens": [
     {
       "surface": "ויראו",
-      "gloss": "E viram"
+      "gloss": "e viram"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨ela⟩",
-      "marks": "os príncipes"
+      "gloss": "⟨את⟩-a",
+      "marks": "Sarai (implícita)"
     },
     {
       "surface": "שרי",
-      "gloss": "príncipes"
+      "gloss": "os oficiais de"
     },
     {
       "surface": "פרעה",
-      "gloss": "de Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "ויהללו",
-      "gloss": "e a elogiaram"
+      "gloss": "e louvaram"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨ela⟩",
-      "marks": "a"
+      "gloss": "⟨את⟩-a",
+      "marks": "diante de Paró"
     },
     {
       "surface": "אל",
-      "gloss": "a"
+      "gloss": "diante de (literalmente: a \/ para)"
     },
     {
       "surface": "פרעה",
@@ -45,11 +43,11 @@
     },
     {
       "surface": "ותקח",
-      "gloss": "e a mulher ⟨foi⟩ levada"
+      "gloss": "e foi levada"
     },
     {
       "surface": "האשה",
-      "gloss": "mulher"
+      "gloss": "a mulher"
     },
     {
       "surface": "בית",
@@ -60,30 +58,6 @@
       "gloss": "de Paró"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 3,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    },
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 7,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    },
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 11,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:28:40.558039116Z",
+  "model": "glm-5.2"
 }

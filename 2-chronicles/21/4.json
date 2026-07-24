@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "2-chronicles 21:4",
   "book": "2-chronicles",
-  "chapter": 21,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:30:14.149359124Z",
-  "translation": "E Yehorão se levantou sobre ⟨o⟩ reino de seu pai, e se fortaleceu, e matou ⟨com⟩ a espada todos os seus irmãos, ⟨e⟩ também ⟨alguns⟩ dos líderes de Yisrael.",
+  "chapter": 21,
+  "translation": "E Yehorám levantou-se sobre ⟨a⟩ reino de seu pai, e se fortaleceu, e matou ⟨את⟩ todos os seus irmãos ⟨com⟩ fôlego de espada, e também ⟨dos⟩ príncipes de Yisrael.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "E Yehorão se levantou"
+      "gloss": "E levantou-se"
     },
     {
       "surface": "יהורם",
-      "gloss": "Yehorão"
+      "gloss": "Yehorám"
     },
     {
       "surface": "על",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "ממלכת",
-      "gloss": "⟨o⟩ reino"
+      "gloss": "reino"
     },
     {
       "surface": "אביו",
@@ -52,31 +50,21 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "⟨com⟩ a espada"
+      "gloss": "à espada"
     },
     {
       "surface": "וגם",
-      "gloss": "⟨e⟩ também"
+      "gloss": "e também"
     },
     {
       "surface": "משרי",
-      "gloss": "⟨alguns⟩ dos líderes"
+      "gloss": "príncipes"
     },
     {
       "surface": "ישראל",
       "gloss": "de Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 13,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:33:54.922379164Z",
+  "model": "glm-5.2"
 }

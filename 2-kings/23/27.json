@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 27,
   "ref": "2-kings 23:27",
   "book": "2-kings",
-  "chapter": 23,
-  "verse": 27,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:46:19.130152106Z",
-  "translation": "E YHWH disse: também removerei ⟨את⟩ Yehudá de diante da minha face, assim como removi ⟨את⟩ Yisrael, e rejeitarei ⟨את⟩ esta cidade que escolhi — Yerushalayim — e ⟨את⟩ a casa da qual disse: estará ⟨o⟩ meu nome ali.",
+  "chapter": 23,
+  "translation": "E YHWH disse: também a Yehudá ⟨את⟩ removerei de diante da minha face, assim como removi ⟨את⟩ a Yisrael; e rejeitarei ⟨את⟩ esta cidade que escolhi — ⟨את⟩ Yerushalayim — e ⟨את⟩ a casa da qual disse: 'Meu nome estará ali.'",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E ... disse"
+      "gloss": "E disse"
     },
     {
       "surface": "יהוה",
@@ -24,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yehudá"
+      "marks": "a Yehudá"
     },
     {
       "surface": "יהודה",
@@ -40,7 +38,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "a minha face"
+      "gloss": "minha face"
     },
     {
       "surface": "כאשר",
@@ -53,7 +51,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisrael"
+      "marks": "a Yisrael"
     },
     {
       "surface": "ישראל",
@@ -70,7 +68,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "esta cidade"
+      "gloss": "a cidade"
     },
     {
       "surface": "הזאת",
@@ -116,11 +114,13 @@
     },
     {
       "surface": "שמי",
-      "gloss": "⟨o⟩ meu nome"
+      "gloss": "meu nome"
     },
     {
       "surface": "שם",
       "gloss": "ali"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:40:23.735423361Z",
+  "model": "glm-5.2"
 }

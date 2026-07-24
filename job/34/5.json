@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "job 34:5",
   "book": "job",
-  "chapter": 34,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:08:30.815593352Z",
-  "translation": "Porque Iyov disse: ⟨estou⟩ justo ⟨e⟩ ⟨o⟩ Elohim ⟨את⟩ removeu meu ⟨direito⟩",
+  "chapter": 34,
+  "translation": "Porque Iyov disse: «⟨Eu⟩ ⟨sou⟩ justo, e El removeu o meu juízo.»",
   "tokens": [
     {
       "surface": "כי",
@@ -23,11 +21,11 @@
     },
     {
       "surface": "צדקתי",
-      "gloss": "⟨estou⟩ justo"
+      "gloss": "«⟨Eu⟩ ⟨sou⟩ justo"
     },
     {
       "surface": "ואל",
-      "gloss": "⟨e⟩ ⟨o⟩ Elohim"
+      "gloss": "e El"
     },
     {
       "surface": "הסיר",
@@ -35,19 +33,9 @@
     },
     {
       "surface": "משפטי",
-      "gloss": "⟨direito⟩"
+      "gloss": "o meu juízo.»"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jó",
-      "to": "Iyov",
-      "token-index": 2,
-      "strongs": 347,
-      "hebrew": "איוב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:18:22.449826979Z",
+  "model": "glm-5.2"
 }

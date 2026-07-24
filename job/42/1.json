@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "job 42:1",
   "book": "job",
-  "chapter": 42,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:15:05.239923282Z",
-  "translation": "Então Iyov respondeu ⟨a⟩ HaShem ⟨a⟩, e disse:",
+  "chapter": 42,
+  "translation": "E Iyov respondeu a ⟨את⟩ YHWH e disse:",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "Então respondeu"
+      "gloss": "E respondeu"
     },
     {
       "surface": "איוב",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "HaShem"
+      "marks": "YHWH"
     },
     {
       "surface": "יהוה",
@@ -31,16 +29,6 @@
       "gloss": "e disse"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jó",
-      "to": "Iyov",
-      "token-index": 1,
-      "strongs": 347,
-      "hebrew": "איוב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:18:50.188176231Z",
+  "model": "glm-5.2"
 }

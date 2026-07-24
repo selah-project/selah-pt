@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "2-chronicles 5:6",
   "book": "2-chronicles",
-  "chapter": 5,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:10:35.829619682Z",
-  "translation": "E o rei Shlomó e toda a congregação ⟨de⟩ Yisrael que estava congregada ⟨com⟩ ele ⟨estavam⟩ diante ⟨do⟩ ⟨את⟩ da arca, sacrificando ovelhas e gado que não se podiam contar nem numerar por ⟨sua⟩ multidão.",
+  "chapter": 5,
+  "translation": "E o rei Shlomó e toda a assembleia de Yisrael, os congregados ⟨sobre ele⟩ diante do Aron, sacrificavam rebanhos e gado, que não se podiam contar nem enumerar de tão numerosos.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -23,35 +21,35 @@
     },
     {
       "surface": "עדת",
-      "gloss": "congregação"
+      "gloss": "a assembleia de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "הנועדים",
-      "gloss": "que estava congregada"
+      "gloss": "os congregados"
     },
     {
       "surface": "עליו",
-      "gloss": "com ele"
+      "gloss": "sobre ele"
     },
     {
       "surface": "לפני",
-      "gloss": "diante"
+      "gloss": "diante de"
     },
     {
       "surface": "הארון",
-      "gloss": "da arca"
+      "gloss": "o Aron"
     },
     {
       "surface": "מזבחים",
-      "gloss": "sacrificando"
+      "gloss": "sacrificavam"
     },
     {
       "surface": "צאן",
-      "gloss": "ovelhas"
+      "gloss": "rebanhos"
     },
     {
       "surface": "ובקר",
@@ -63,11 +61,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "não se podiam"
+      "gloss": "não"
     },
     {
       "surface": "יספרו",
-      "gloss": "contar"
+      "gloss": "se podiam contar"
     },
     {
       "surface": "ולא",
@@ -75,30 +73,13 @@
     },
     {
       "surface": "ימנו",
-      "gloss": "numerar"
+      "gloss": "enumerar"
     },
     {
       "surface": "מרב",
-      "gloss": "por sua multidão"
+      "gloss": "de tão numerosos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Salomão",
-      "to": "Shlomó",
-      "token-index": 1,
-      "strongs": 8010,
-      "hebrew": "שלמה"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 4,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:31:30.283844908Z",
+  "model": "glm-5.2"
 }

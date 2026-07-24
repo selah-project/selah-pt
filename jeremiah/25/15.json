@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "jeremiah 25:15",
   "book": "jeremiah",
-  "chapter": 25,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T15:32:54.034925969Z",
-  "translation": "Pois assim disse YHWH, Elohim de Yisrael, a mim: Toma ⟨את⟩ o cálice do vinho desta fúria da minha mão, e faze beber dele a ⟨את⟩ todos os povos aos quais eu te envio a eles.",
+  "chapter": 25,
+  "translation": "Pois assim disse YHWH, Elohim de Yisrael, a mim: Toma ⟨את⟩ a taça do vinho da fúria esta da minha mão, e a darás a beber a ⟨את⟩ todas as nações às quais eu te envio.",
   "tokens": [
     {
       "surface": "כי",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": ", Elohim de"
+      "gloss": "Elohim de"
     },
     {
       "surface": "ישראל",
@@ -44,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o cálice"
+      "marks": "a taça"
     },
     {
       "surface": "כוס",
-      "gloss": "o cálice"
+      "gloss": "a taça"
     },
     {
       "surface": "היין",
@@ -56,11 +54,11 @@
     },
     {
       "surface": "החמה",
-      "gloss": "desta fúria"
+      "gloss": "da fúria"
     },
     {
       "surface": "הזאת",
-      "gloss": "desta"
+      "gloss": "esta"
     },
     {
       "surface": "מידי",
@@ -68,27 +66,29 @@
     },
     {
       "surface": "והשקיתה",
-      "gloss": ", e faze beber"
+      "gloss": "e a darás a beber"
     },
     {
       "surface": "אתו",
-      "gloss": "dele"
+      "gloss": "a ela",
+      "marks": "a ela (a taça)"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "a ⟨את⟩",
+      "marks": "todas as nações"
     },
     {
       "surface": "כל",
-      "gloss": "todos"
+      "gloss": "todas"
     },
     {
       "surface": "הגוים",
-      "gloss": "os povos"
+      "gloss": "as nações"
     },
     {
       "surface": "אשר",
-      "gloss": "aos quais"
+      "gloss": "às quais"
     },
     {
       "surface": "אנכי",
@@ -96,15 +96,18 @@
     },
     {
       "surface": "שלח",
-      "gloss": "te envio"
+      "gloss": "envio"
     },
     {
       "surface": "אותך",
-      "gloss": ""
+      "gloss": "te",
+      "marks": "tu (a ti)"
     },
     {
       "surface": "אליהם",
-      "gloss": "a eles"
+      "gloss": "a elas (às nações)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:50:03.821639961Z",
+  "model": "glm-5.2"
 }

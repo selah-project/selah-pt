@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "numbers 4:1",
   "book": "numbers",
-  "chapter": 4,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:11:40.784179256Z",
-  "translation": "E ⟨YHWH⟩ falou ⟨את⟩ a Moshé e a Aharon, dizendo:",
+  "chapter": 4,
+  "translation": "E YHWH falou ⟨com⟩ Moshé e ⟨com⟩ Aharon, dizendo:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "E ⟨YHWH⟩ falou"
+      "gloss": "E falou"
     },
     {
       "surface": "יהוה",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "a"
+      "gloss": "⟨com⟩"
     },
     {
       "surface": "משה",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "e a"
+      "gloss": "e ⟨com⟩"
     },
     {
       "surface": "אהרן",
@@ -35,19 +33,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "dizendo:"
+      "gloss": "dizendo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moisés",
-      "to": "Moshé",
-      "token-index": 3,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:53:05.007273028Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "exodus 21:15",
   "book": "exodus",
-  "chapter": 21,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-13T05:18:48.360579843Z",
-  "translation": "E quem fere ⟨a⟩ seu pai ou ⟨a⟩ sua mãe ⟨את⟩ ⟨ele⟩ certamente morrerá.",
+  "chapter": 21,
+  "translation": "E o que ferir seu pai e sua mãe, morrendo morrerá.",
   "tokens": [
     {
       "surface": "ומכה",
-      "gloss": "E quem fere"
+      "gloss": "E o que ferir"
     },
     {
       "surface": "אביו",
@@ -19,16 +17,17 @@
     },
     {
       "surface": "ואמו",
-      "gloss": "ou ⟨a⟩ sua mãe",
-      "marks": "sua mãe"
+      "gloss": "e sua mãe"
     },
     {
       "surface": "מות",
-      "gloss": "certamente"
+      "gloss": "morrendo"
     },
     {
       "surface": "יומת",
       "gloss": "morrerá"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:42:00.319676786Z",
+  "model": "glm-5.2"
 }

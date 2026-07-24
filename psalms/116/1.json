@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "psalms 116:1",
   "book": "psalms",
-  "chapter": 116,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:47:59.743142722Z",
-  "translation": "Eu amo YHWH, pois Ele ouviu ⟨a⟩ minha voz, ⟨as⟩ minhas súplicas.",
+  "chapter": 116,
+  "translation": "Eu amo, porque YHWH ouve ⟨את⟩ a minha voz, ⟨as minhas⟩ súplicas.",
   "tokens": [
     {
       "surface": "אהבתי",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "ישמע",
-      "gloss": "Ele ouviu"
+      "gloss": "ouve"
     },
     {
       "surface": "יהוה",
@@ -28,15 +26,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "minha voz"
+      "marks": "a minha voz"
     },
     {
       "surface": "קולי",
-      "gloss": "minha voz"
+      "gloss": "a minha voz"
     },
     {
       "surface": "תחנוני",
-      "gloss": "minhas súplicas"
+      "gloss": "súplicas"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:12:31.362714836Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "2-kings 17:30",
   "book": "2-kings",
-  "chapter": 17,
-  "verse": 30,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:03:43.718876529Z",
-  "translation": "E ⟨os⟩ homens de Bavel fizeram ⟨o⟩ Sucote-Benote, e ⟨os⟩ homens de Cutá fizeram ⟨o⟩ Nergal, e ⟨os⟩ homens de Hamate fizeram ⟨a⟩ Asimá.",
+  "chapter": 17,
+  "translation": "E os homens de Bavel fizeram ⟨את⟩ Sucot-Benot, e os homens de Kut fizeram ⟨את⟩ Nergal, e os homens de Jamat fizeram ⟨את⟩ Ashimá.",
   "tokens": [
     {
       "surface": "ואנשי",
-      "gloss": "E ⟨os⟩ homens de"
+      "gloss": "E os homens de"
     },
     {
       "surface": "בבל",
@@ -24,23 +22,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sucote-Benote"
+      "marks": "Sucot-Benot"
     },
     {
       "surface": "סכות",
-      "gloss": "Sucote-Benote"
+      "gloss": "Sucot"
     },
     {
       "surface": "בנות",
-      "gloss": "Benote"
+      "gloss": "Benot"
     },
     {
       "surface": "ואנשי",
-      "gloss": "e ⟨os⟩ homens de"
+      "gloss": "e os homens de"
     },
     {
       "surface": "כות",
-      "gloss": "Cutá"
+      "gloss": "Kut"
     },
     {
       "surface": "עשו",
@@ -57,11 +55,11 @@
     },
     {
       "surface": "ואנשי",
-      "gloss": "e ⟨os⟩ homens de"
+      "gloss": "e os homens de"
     },
     {
       "surface": "חמת",
-      "gloss": "Hamate"
+      "gloss": "Jamat"
     },
     {
       "surface": "עשו",
@@ -70,23 +68,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Asimá"
+      "marks": "Ashimá"
     },
     {
       "surface": "אשימא",
-      "gloss": "Asimá"
+      "gloss": "Ashimá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Babilônia",
-      "to": "Bavel",
-      "token-index": 1,
-      "strongs": 894,
-      "hebrew": "בבל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:38:34.856135208Z",
+  "model": "glm-5.2"
 }

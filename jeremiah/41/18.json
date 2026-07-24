@@ -1,41 +1,39 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "jeremiah 41:18",
   "book": "jeremiah",
-  "chapter": 41,
-  "verse": 18,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:45:51.440572871Z",
-  "translation": "da face ⟨dos⟩ caldeus, porque temiam ⟨da⟩ face deles, porque Yishmael, filho de Netanias, golpeou ⟨a⟩ Gedalias, filho de Aicão, que o rei ⟨de⟩ Bavel encarregou ⟨na⟩ terra.",
+  "chapter": 41,
+  "translation": "Por causa dos kasdim, pois temeram deles, pois Yishmael, filho de Netanyá, feriu ⟨את⟩ Gedalyahu, filho de Ajikám, a quem o rei de Bavel havia encarregado na terra.",
   "tokens": [
     {
       "surface": "מפני",
-      "gloss": "Da face"
+      "gloss": "Por causa de"
     },
     {
       "surface": "הכשדים",
-      "gloss": "⟨dos⟩ caldeus"
+      "gloss": "os kasdim"
     },
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "pois"
     },
     {
       "surface": "יראו",
-      "gloss": "temiam"
+      "gloss": "temeram"
     },
     {
       "surface": "מפניהם",
-      "gloss": "⟨da⟩ face deles"
+      "gloss": "deles"
     },
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "pois"
     },
     {
       "surface": "הכה",
-      "gloss": "golpeou"
+      "gloss": "feriu"
     },
     {
       "surface": "ישמעאל",
@@ -43,67 +41,50 @@
     },
     {
       "surface": "בן",
-      "gloss": "filho"
+      "gloss": "filho de"
     },
     {
       "surface": "נתניה",
-      "gloss": "de Netanias"
+      "gloss": "Netanyá"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gedalias"
+      "marks": "Gedalyahu (Gedalias)"
     },
     {
       "surface": "גדליהו",
-      "gloss": "Gedalias"
+      "gloss": "Gedalyahu"
     },
     {
       "surface": "בן",
-      "gloss": "filho"
+      "gloss": "filho de"
     },
     {
       "surface": "אחיקם",
-      "gloss": "de Aicão"
+      "gloss": "Ajikám"
     },
     {
       "surface": "אשר",
-      "gloss": "que"
+      "gloss": "a quem"
     },
     {
       "surface": "הפקיד",
-      "gloss": "encarregou"
+      "gloss": "havia encarregado"
     },
     {
       "surface": "מלך",
-      "gloss": "⟨o⟩ rei"
+      "gloss": "o rei"
     },
     {
       "surface": "בבל",
-      "gloss": "⟨de⟩ Bavel"
+      "gloss": "de Bavel"
     },
     {
       "surface": "בארץ",
-      "gloss": "⟨na⟩ terra"
+      "gloss": "na terra"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Ismael",
-      "to": "Yishmael",
-      "token-index": 7,
-      "strongs": 3458,
-      "hebrew": "ישמעאל"
-    },
-    {
-      "from": "Babilônia",
-      "to": "Bavel",
-      "token-index": 17,
-      "strongs": 894,
-      "hebrew": "בבל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:53:53.601389964Z",
+  "model": "glm-5.2"
 }

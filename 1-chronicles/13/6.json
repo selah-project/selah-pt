@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "1-chronicles 13:6",
   "book": "1-chronicles",
-  "chapter": 13,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:48:01.093202136Z",
-  "translation": "E Davidd subiu, e todo Yisrael, ⟨a⟩ Baalah, ⟨que é⟩ Kiriat-Jearim, ⟨que pertence⟩ ⟨a⟩ Judá, para trazer ⟨dali⟩ ⟨o⟩ arco ⟨de⟩ Elohim, YHWH, ⟨que⟩ habita ⟨entre⟩ os querubins, sobre ⟨o⟩ qual ⟨é⟩ invocado ⟨o⟩ Nome.",
+  "chapter": 13,
+  "translation": "E David subiu, e todo o Yisrael, a Baalá, ⟨isto é⟩, a Qiryat-Yearim, que ⟨pertencia⟩ a Yehudá, para fazer subir dali ⟨את⟩ o Aron de ha-Elohim, YHWH ⟨que⟩ se assenta ⟨sobre⟩ os querubins, sobre o qual ⟨é⟩ chamado ⟨o⟩ Shem.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "E David subiu"
+      "gloss": "e subiu"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "וכל",
@@ -27,48 +25,48 @@
     },
     {
       "surface": "בעלתה",
-      "gloss": "⟨a⟩ Baalah"
+      "gloss": "a Baalá"
     },
     {
       "surface": "אל",
-      "gloss": "⟨que é⟩ Kiriat-Jearim"
+      "gloss": "a"
     },
     {
       "surface": "קרית",
-      "gloss": "Kiriat-Jearim"
+      "gloss": "Qiryat"
     },
     {
       "surface": "יערים",
-      "gloss": "Kiriat-Jearim"
+      "gloss": "Yearim"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨que pertence⟩"
+      "gloss": "que"
     },
     {
       "surface": "ליהודה",
-      "gloss": "⟨a⟩ Judá"
+      "gloss": "a Yehudá"
     },
     {
       "surface": "להעלות",
-      "gloss": "para trazer"
+      "gloss": "para fazer subir"
     },
     {
       "surface": "משם",
-      "gloss": "⟨dali⟩"
+      "gloss": "dali"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arco ⟨de⟩ Elohim, YHWH"
+      "marks": "o Aron"
     },
     {
       "surface": "ארון",
-      "gloss": "arco"
+      "gloss": "o Aron"
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨de⟩ Elohim"
+      "gloss": "de ha-Elohim"
     },
     {
       "surface": "יהוה",
@@ -76,42 +74,25 @@
     },
     {
       "surface": "יושב",
-      "gloss": "⟨que⟩ habita"
+      "gloss": "que se assenta"
     },
     {
       "surface": "הכרובים",
-      "gloss": "⟨entre⟩ os querubins"
+      "gloss": "os querubins"
     },
     {
       "surface": "אשר",
-      "gloss": "sobre ⟨o⟩ qual"
+      "gloss": "sobre o qual"
     },
     {
       "surface": "נקרא",
-      "gloss": "⟨é⟩ invocado"
+      "gloss": "é chamado"
     },
     {
       "surface": "שם",
-      "gloss": "⟨o⟩ Nome"
+      "gloss": "o Shem"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 3,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:28:35.611472570Z",
+  "model": "glm-5.2"
 }

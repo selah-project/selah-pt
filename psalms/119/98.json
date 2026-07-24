@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 98,
   "ref": "psalms 119:98",
   "book": "psalms",
-  "chapter": 119,
-  "verse": 98,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T11:01:02.274414076Z",
-  "translation": "Through teus Mitzvás ⟨tu⟩ me fazes mais sábio ⟨que⟩ meus inimigos, pois ⟨eles⟩ são ⟨perpétuos⟩ para ⟨mim⟩ ⟨את⟩.",
+  "chapter": 119,
+  "translation": "Tu me fazes mais sábio do que os meus inimigos por meio das tuas Mitzvot, pois para sempre ⟨ela está⟩ comigo.",
   "tokens": [
     {
       "surface": "מאיבי",
-      "gloss": "Meus inimigos"
+      "gloss": "do que os meus inimigos"
     },
     {
       "surface": "תחכמני",
-      "gloss": "me fazes mais sábio"
+      "gloss": "Tu me fazes mais sábio"
     },
     {
       "surface": "מצותך",
-      "gloss": "teus Mitzvás"
+      "gloss": "por meio das tuas Mitzvot"
     },
     {
       "surface": "כי",
@@ -27,28 +25,17 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "⟨perpétuos⟩"
+      "gloss": "para sempre"
     },
     {
       "surface": "היא",
-      "gloss": "⟨eles⟩ são"
+      "gloss": "ela"
     },
     {
       "surface": "לי",
-      "gloss": "para ⟨mim⟩",
-      "marks": "eles"
+      "gloss": "comigo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "mandamento",
-      "to": "Mitzvá",
-      "token-index": 2,
-      "strongs": 4687,
-      "hebrew": "מצוה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:12:58.187305635Z",
+  "model": "glm-5.2"
 }

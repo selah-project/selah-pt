@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 24,
   "ref": "judges 20:24",
   "book": "judges",
-  "chapter": 20,
-  "verse": 24,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:10:53.687153825Z",
-  "translation": "E os filhos de Yisrael se aproximaram ⟨contra⟩ ⟨את⟩ os filhos de Binyamin no segundo dia",
+  "chapter": 20,
+  "translation": "E os filhos de Yisrael se aproximaram dos filhos de Binyamim no segundo dia.",
   "tokens": [
     {
       "surface": "ויקרבו",
@@ -15,43 +13,33 @@
     },
     {
       "surface": "בני",
-      "gloss": "os filhos"
+      "gloss": "os filhos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אל",
-      "gloss": "⟨contra⟩"
+      "gloss": "de (para junto de)"
     },
     {
       "surface": "בני",
-      "gloss": "os filhos"
+      "gloss": "os filhos de"
     },
     {
       "surface": "בנימן",
-      "gloss": "de Binyamin"
+      "gloss": "Binyamim"
     },
     {
       "surface": "ביום",
-      "gloss": "no"
+      "gloss": "no dia"
     },
     {
       "surface": "השני",
-      "gloss": "segundo dia"
+      "gloss": "segundo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:17:59.423528282Z",
+  "model": "glm-5.2"
 }

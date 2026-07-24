@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 21,
   "ref": "psalms 89:21",
   "book": "psalms",
-  "chapter": 89,
-  "verse": 21,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:39:17.543034356Z",
-  "translation": "Encontrei ⟨את⟩ Davidd meu servo; com ⟨o⟩ óleo sagrado de minha santidade ungi ⟨a⟩ ⟨ele⟩",
+  "chapter": 89,
+  "translation": "Encontrei David, meu servo; com óleo de minha santidade ⟨o⟩ ungi.",
   "tokens": [
     {
       "surface": "מצאתי",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "עבדי",
@@ -23,27 +21,17 @@
     },
     {
       "surface": "בשמן",
-      "gloss": "com ⟨o⟩ óleo"
+      "gloss": "com óleo"
     },
     {
       "surface": "קדשי",
-      "gloss": "sagrado de minha santidade"
+      "gloss": "de minha santidade"
     },
     {
       "surface": "משחתיו",
-      "gloss": "ungi ⟨a⟩ ⟨ele⟩"
+      "gloss": "⟨o⟩ ungi"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:41:51.076826446Z",
+  "model": "glm-5.2"
 }

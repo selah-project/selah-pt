@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "genesis 7:7",
   "book": "genesis",
-  "chapter": 7,
-  "verse": 7,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T23:48:09.599887175Z",
-  "translation": "E veio Noaj e seus filhos e sua esposa e as esposas de seus filhos com ⟨ele⟩ ⟨para⟩ ⟨a⟩ arca por causa das águas do dilúvio",
+  "chapter": 7,
+  "translation": "E Noaj entrou, e seus filhos, e sua esposa, e as esposas de seus filhos com ele, ⟨na⟩ arca, por causa das águas do dilúvio.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "E veio"
+      "gloss": "e entrou"
     },
     {
       "surface": "נח",
@@ -35,16 +33,15 @@
     },
     {
       "surface": "אתו",
-      "gloss": "com ⟨ele⟩",
-      "marks": "Noé"
+      "gloss": "com ele"
     },
     {
       "surface": "אל",
-      "gloss": "⟨para⟩"
+      "gloss": "para"
     },
     {
       "surface": "התבה",
-      "gloss": "⟨a⟩ arca"
+      "gloss": "a arca"
     },
     {
       "surface": "מפני",
@@ -52,23 +49,13 @@
     },
     {
       "surface": "מי",
-      "gloss": "das águas"
+      "gloss": "as águas"
     },
     {
       "surface": "המבול",
       "gloss": "do dilúvio"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Noé",
-      "to": "Noaj",
-      "token-index": 1,
-      "strongs": 5146,
-      "hebrew": "נח"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:27:50.543259717Z",
+  "model": "glm-5.2"
 }

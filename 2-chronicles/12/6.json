@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "2-chronicles 12:6",
   "book": "2-chronicles",
-  "chapter": 12,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:19:34.248135785Z",
-  "translation": "Então se humilharam os príncipes de ⟨את⟩ Yisrael e o rei, e disseram: 'Justo ⟨é⟩ YHWH.'",
+  "chapter": 12,
+  "translation": "Então os príncipes de ⟨Yisrael⟩ e o rei se humilharam, e disseram: \"Justo ⟨é⟩ YHWH!\"",
   "tokens": [
     {
       "surface": "ויכנעו",
-      "gloss": "Então se humilharam"
+      "gloss": "se humilharam"
     },
     {
       "surface": "שרי",
@@ -31,23 +29,13 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "'Justo"
+      "gloss": "Justo"
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH'"
+      "gloss": "YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:32:42.473750937Z",
+  "model": "glm-5.2"
 }

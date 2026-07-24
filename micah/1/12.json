@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "micah 1:12",
   "book": "micah",
-  "chapter": 1,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T09:15:26.502756505Z",
-  "translation": "Pois ⟨está⟩ doente a habitante de Maroth que esperava ⟨por⟩ ⟨o⟩ bem, porque desceu ⟨o⟩ mal de ⟨a⟩ YHWH até ⟨o⟩ portão de Yerushalayim.",
+  "chapter": 1,
+  "translation": "Pois angustiou-se ⟨por⟩ o bem ⟨a⟩ habitante de Marot; pois desceu o mal da parte de YHWH até ⟨a⟩ porta de Yerushalayim.",
   "tokens": [
     {
       "surface": "כי",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "חלה",
-      "gloss": "⟨está⟩ doente"
+      "gloss": "angustiou-se"
     },
     {
       "surface": "לטוב",
-      "gloss": "que esperava ⟨por⟩ ⟨o⟩ bem"
+      "gloss": "por o bem"
     },
     {
       "surface": "יושבת",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "מרות",
-      "gloss": "de Maroth"
+      "gloss": "de Marot"
     },
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "pois"
     },
     {
       "surface": "ירד",
@@ -39,12 +37,11 @@
     },
     {
       "surface": "רע",
-      "gloss": "⟨o⟩ mal"
+      "gloss": "o mal"
     },
     {
       "surface": "מאת",
-      "gloss": "de ⟨a⟩",
-      "marks": "YHWH"
+      "gloss": "da parte de"
     },
     {
       "surface": "יהוה",
@@ -52,23 +49,13 @@
     },
     {
       "surface": "לשער",
-      "gloss": "até ⟨o⟩ portão"
+      "gloss": "até a porta"
     },
     {
       "surface": "ירושלם",
       "gloss": "de Yerushalayim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jerusalém",
-      "to": "Yerushalayim",
-      "token-index": 11,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:05:34.846512545Z",
+  "model": "glm-5.2"
 }

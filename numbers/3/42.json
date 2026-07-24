@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 42,
   "ref": "numbers 3:42",
   "book": "numbers",
-  "chapter": 3,
-  "verse": 42,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:03:53.234308244Z",
-  "translation": "E Moshé contou, como YHWH ⟨o⟩ tinha ordenado, ⟨את⟩ todo o primogênito entre ⟨os⟩ filhos de Yisrael",
+  "chapter": 3,
+  "translation": "E Moshé contou, como YHWH lhe ordenara, ⟨את⟩ todo ⟨o⟩ primogênito entre ⟨os⟩ filhos de Yisrael.",
   "tokens": [
     {
       "surface": "ויפקד",
-      "gloss": "E ... contou"
+      "gloss": "E contou"
     },
     {
       "surface": "משה",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "tinha ordenado"
+      "gloss": "ordenara"
     },
     {
       "surface": "יהוה",
@@ -31,8 +29,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨o⟩",
-      "marks": "Moshé"
+      "gloss": "⟨את⟩",
+      "marks": "lhe (a ele)"
     },
     {
       "surface": "את",
@@ -45,15 +43,17 @@
     },
     {
       "surface": "בכר",
-      "gloss": "o primogênito"
+      "gloss": "primogênito"
     },
     {
       "surface": "בבני",
-      "gloss": "entre ⟨os⟩ filhos"
+      "gloss": "entre os filhos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:53:05.182321233Z",
+  "model": "glm-5.2"
 }

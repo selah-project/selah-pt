@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 26,
   "ref": "numbers 17:26",
   "book": "numbers",
-  "chapter": 17,
-  "verse": 26,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:15:01.895481904Z",
-  "translation": "E Moshé fez como YHWH lhe ordenara, ⟨assim⟩ ele ⟨fez⟩",
+  "chapter": 17,
+  "translation": "E Moshé fez ⟨⟨את⟩⟩ conforme YHWH lhe ordenou, ⟨assim⟩ ele fez.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "E ... fez"
+      "gloss": "E fez"
     },
     {
       "surface": "משה",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "como"
+      "gloss": "conforme"
     },
     {
       "surface": "צוה",
@@ -31,8 +29,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨assim⟩",
-      "marks": "כן"
+      "gloss": "⟨את⟩",
+      "marks": "ele"
     },
     {
       "surface": "כן",
@@ -42,5 +40,7 @@
       "surface": "עשה",
       "gloss": "fez"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:56:25.742607573Z",
+  "model": "glm-5.2"
 }

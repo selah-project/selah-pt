@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "genesis 18:15",
   "book": "genesis",
-  "chapter": 18,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T23:58:09.240028158Z",
-  "translation": "E Sara negou ⟨dizendo⟩, 'Não ri ⟨את⟩'; pois temia. E Ele disse: 'Não ⟨é⟩ assim; mas riste ⟨את⟩'",
+  "chapter": 18,
+  "translation": "E Sara negou, dizendo: \"Não ri\", porque temia. E ⟨Ele⟩ disse: \"Não, mas tu riste.\"",
   "tokens": [
     {
       "surface": "ותכחש",
-      "gloss": "E Sarah negou"
+      "gloss": "E negou"
     },
     {
       "surface": "שרה",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "⟨dizendo⟩"
+      "gloss": "dizendo"
     },
     {
       "surface": "לא",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "יראה",
@@ -39,31 +37,21 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "E Ele disse"
+      "gloss": "E disse"
     },
     {
       "surface": "לא",
-      "gloss": "'Não"
+      "gloss": "Não"
     },
     {
       "surface": "כי",
-      "gloss": "⟨é⟩ assim"
+      "gloss": "mas"
     },
     {
       "surface": "צחקת",
-      "gloss": "riste"
+      "gloss": "tu riste"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Sarah",
-      "to": "Sara",
-      "token-index": 1,
-      "strongs": 8283,
-      "hebrew": "שרה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:29:35.110732334Z",
+  "model": "glm-5.2"
 }

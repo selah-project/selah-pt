@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "isaiah 7:25",
   "book": "isaiah",
-  "chapter": 7,
-  "verse": 25,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:18:33.797769936Z",
-  "translation": "E todas as colinas que ⟨são⟩ cavadas ⟨com⟩ enxada ⟨את⟩ Yirá de espinhos e sarças não virá para lá e será para o envio de bois e para o pisoteio de ovelhas",
+  "chapter": 7,
+  "translation": "E quanto a todos os montes que ⟨foram⟩ cavados com a enxada — não se virá para lá, por temor de espinheiros e sarças; e será para soltura de gado bovino e para pisadouro de rebanho menor.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "E todas"
+      "gloss": "E quanto a todos"
     },
     {
       "surface": "ההרים",
-      "gloss": "as colinas"
+      "gloss": "os montes"
     },
     {
       "surface": "אשר",
@@ -23,11 +21,11 @@
     },
     {
       "surface": "במעדר",
-      "gloss": "⟨com⟩ enxada"
+      "gloss": "com a enxada"
     },
     {
       "surface": "יעדרון",
-      "gloss": "⟨são⟩ cavadas"
+      "gloss": "foram cavados"
     },
     {
       "surface": "לא",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "virá"
+      "gloss": "se virá"
     },
     {
       "surface": "שמה",
@@ -43,11 +41,11 @@
     },
     {
       "surface": "יראת",
-      "gloss": "Yirá"
+      "gloss": "por temor de"
     },
     {
       "surface": "שמיר",
-      "gloss": "de espinhos"
+      "gloss": "espinheiros"
     },
     {
       "surface": "ושית",
@@ -59,31 +57,21 @@
     },
     {
       "surface": "למשלח",
-      "gloss": "para o envio"
+      "gloss": "para soltura de"
     },
     {
       "surface": "שור",
-      "gloss": "de bois"
+      "gloss": "gado bovino"
     },
     {
       "surface": "ולמרמס",
-      "gloss": "e para o pisoteio"
+      "gloss": "e para pisadouro de"
     },
     {
       "surface": "שה",
-      "gloss": "de ovelhas"
+      "gloss": "rebanho menor"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "o temor",
-      "to": "Yirá",
-      "token-index": 8,
-      "strongs": 3374,
-      "hebrew": "יראה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:41:36.479453019Z",
+  "model": "glm-5.2"
 }

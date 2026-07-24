@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "exodus 40:16",
   "book": "exodus",
-  "chapter": 40,
-  "verse": 16,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T14:08:34.073776888Z",
-  "translation": "E Moshé fez conforme tudo o que YHWH lhe ordenara, assim fez.",
+  "chapter": 40,
+  "translation": "E Moshé fez conforme tudo que YHWH lhe ordenara — ⟨את⟩ assim ele fez.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "E"
+      "gloss": "E fez"
     },
     {
       "surface": "משה",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "ככל",
-      "gloss": "conforme tudo o que"
+      "gloss": "conforme tudo"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "que"
     },
     {
       "surface": "צוה",
@@ -36,7 +34,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lhe"
+      "marks": "a ele (o objeto da ordem)"
     },
     {
       "surface": "כן",
@@ -44,7 +42,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "fez"
+      "gloss": "ele fez"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:46:51.341056614Z",
+  "model": "glm-5.2"
 }

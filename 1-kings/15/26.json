@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 26,
   "ref": "1-kings 15:26",
   "book": "1-kings",
-  "chapter": 15,
-  "verse": 26,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T11:33:16.096010124Z",
-  "translation": "E ele fez o mal ⟨que era⟩ aos olhos de YHWH, e andou no caminho de seu pai, e no seu pecado com o qual fez ⟨a⟩ Yisrael pecar",
+  "chapter": 15,
+  "translation": "E ele fez o mal aos olhos de YHWH, e andou no caminho de seu pai, e no seu pecado pelo qual ele fez pecar ⟨את⟩ Yisrael.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -43,20 +41,22 @@
     },
     {
       "surface": "אשר",
-      "gloss": "com o qual"
+      "gloss": "pelo qual"
     },
     {
       "surface": "החטיא",
-      "gloss": "fez ... pecar"
+      "gloss": "ele fez pecar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a Yisrael"
+      "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisrael"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:33:32.910211193Z",
+  "model": "glm-5.2"
 }

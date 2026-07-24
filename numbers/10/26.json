@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 26,
   "ref": "numbers 10:26",
   "book": "numbers",
-  "chapter": 10,
-  "verse": 26,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:20:19.257036449Z",
-  "translation": "e sobre ⟨o⟩ ⟨את⟩ exército ⟨do⟩ pavilhão dos filhos de Asher ⟨estava⟩ Pagiel filho de Ochran",
+  "chapter": 10,
+  "translation": "E sobre ⟨o⟩ exército da tribo dos filhos de Asher ⟨estava⟩ Pagiel, filho de Okran.",
   "tokens": [
     {
       "surface": "ועל",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "מטה",
-      "gloss": "pavilhão"
+      "gloss": "tribo"
     },
     {
       "surface": "בני",
-      "gloss": "filhos"
+      "gloss": "dos filhos"
     },
     {
       "surface": "אשר",
-      "gloss": "Asher"
+      "gloss": "de Asher"
     },
     {
       "surface": "פגעיאל",
@@ -39,19 +37,9 @@
     },
     {
       "surface": "עכרן",
-      "gloss": "Ochran"
+      "gloss": "de Okran"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Aser",
-      "to": "Asher",
-      "token-index": 4,
-      "strongs": 836,
-      "hebrew": "אשר"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:54:38.723380219Z",
+  "model": "glm-5.2"
 }

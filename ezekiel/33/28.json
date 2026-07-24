@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 28,
   "ref": "ezekiel 33:28",
   "book": "ezekiel",
-  "chapter": 33,
-  "verse": 28,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:38:02.118631071Z",
-  "translation": "E darei ⟨a⟩ terra por devastação e assombro ⟨e⟩ cessará ⟨a⟩ soberba de sua fortaleza ⟨e⟩ ficarão desolados os montes de Yisrael ⟨com⟩ ninguém passando por eles",
+  "chapter": 33,
+  "translation": "E darei ⟨את⟩ a terra ⟨à⟩ desolação e ⟨à⟩ assolação, e cessará a soberba da sua força; e os montes de Yisrael ⟨ficarão⟩ desolados, por não haver quem passe por eles.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "E darei"
+      "gloss": "e darei"
     },
     {
       "surface": "את",
@@ -20,15 +18,15 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "terra"
+      "gloss": "a terra"
     },
     {
       "surface": "שממה",
-      "gloss": "por devastação"
+      "gloss": "desolação"
     },
     {
       "surface": "ומשמה",
-      "gloss": "e assombro"
+      "gloss": "e assolação"
     },
     {
       "surface": "ונשבת",
@@ -40,39 +38,29 @@
     },
     {
       "surface": "עזה",
-      "gloss": "de sua fortaleza"
+      "gloss": "da sua força"
     },
     {
       "surface": "ושממו",
-      "gloss": "e ficarão desolados"
+      "gloss": "e ⟨ficarão⟩ desolados"
     },
     {
       "surface": "הרי",
-      "gloss": "os montes"
+      "gloss": "os montes de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "מאין",
-      "gloss": "com"
+      "gloss": "por não haver"
     },
     {
       "surface": "עובר",
-      "gloss": "ninguém passando por eles"
+      "gloss": "quem passe"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 10,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:00:58.443948865Z",
+  "model": "glm-5.2"
 }

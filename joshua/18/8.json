@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "joshua 18:8",
   "book": "joshua",
-  "chapter": 18,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:14:01.340688355Z",
-  "translation": "E os homens se levantaram e partiram; e Yehoshua deu ordem aos que partiam para escrever ⟨את⟩ ⟨a⟩ terra, dizendo: Ide, e percorrei ⟨a⟩ terra, e escrevei-a, e voltai a mim; e aqui lançarei para vós ⟨a⟩ sorte perante YHWH em Shiló.",
+  "chapter": 18,
+  "translation": "E os homens se levantaram e foram; e Yehoshua ordenou aos que iam para descrever ⟨את⟩ a terra, dizendo: Ide e percorrei a terra, e descrevei-a, e voltai a mim; e aqui ⟨é onde⟩ lançarei para vós a sorte diante de YHWH em Shiló.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "E os homens se levantaram"
+      "gloss": "E se levantaram"
     },
     {
       "surface": "האנשים",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "e partiram"
+      "gloss": "e foram"
     },
     {
       "surface": "ויצו",
-      "gloss": "e deu ordem"
+      "gloss": "e ordenou"
     },
     {
       "surface": "יהושע",
@@ -32,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aos que partiam"
+      "marks": "aos que iam"
     },
     {
       "surface": "ההלכים",
-      "gloss": "aos que partiam"
+      "gloss": "aos que iam"
     },
     {
       "surface": "לכתב",
-      "gloss": "para escrever"
+      "gloss": "para descrever"
     },
     {
       "surface": "את",
@@ -65,15 +63,16 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "a terra"
+      "gloss": "pela terra"
     },
     {
       "surface": "וכתבו",
-      "gloss": "e escrevei"
+      "gloss": "e descrevei-a"
     },
     {
       "surface": "אותה",
-      "gloss": "-a"
+      "gloss": "⟨את⟩",
+      "marks": "a terra (objeto)"
     },
     {
       "surface": "ושובו",
@@ -101,7 +100,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "perante"
+      "gloss": "diante de"
     },
     {
       "surface": "יהוה",
@@ -111,5 +110,7 @@
       "surface": "בשלה",
       "gloss": "em Shiló"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:11:49.131191355Z",
+  "model": "glm-5.2"
 }

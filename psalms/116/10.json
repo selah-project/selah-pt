@@ -1,55 +1,37 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "psalms 116:10",
   "book": "psalms",
-  "chapter": 116,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-14T04:55:00.233336647Z",
-  "translation": "Eu cri ⟨את⟩ ⟨por⟩ ⟨que⟩ falarei: fui muito afligido ⟨muito⟩.",
+  "chapter": 116,
+  "translation": "Eu confiei, por isso falei — eu, ⟨estava⟩ extremamente aflito.",
   "tokens": [
     {
-      "surface": "האמנתי",
-      "gloss": "Eu cri",
-      "lemma": 539,
-      "gv": 506,
-      "rationale": "Hiphil perfect de אמן - 'Eu acreditei' ou 'Eu confiei'; traduzido como 'Eu cri' (arcaico para 'acreditei\/confiei')"
+      "surface": "הֶ֭אֱמַנְתִּי",
+      "gloss": "Eu confiei"
     },
     {
-      "surface": "כי",
-      "gloss": "⟨por⟩ ⟨que⟩",
-      "lemma": 3588,
-      "gv": 30,
-      "rationale": "Conjunção causal - 'porque', 'que'; requer duas palavras em português"
+      "surface": "כִּ֣י",
+      "gloss": "por isso"
     },
     {
-      "surface": "אדבר",
-      "gloss": "falarei",
-      "lemma": 1696,
-      "gv": 207,
-      "rationale": "Qal imperfecto de דבר - 'falarei' ou 'direi'; tempo futuro em português"
+      "surface": "אֲדַבֵּ֑ר",
+      "gloss": "falei"
     },
     {
-      "surface": "אני",
-      "gloss": "",
-      "lemma": 589,
-      "gv": 61,
-      "rationale": "Pronome 'eu' já implícito na conjugação verbal em português"
+      "surface": "אֲ֝נִ֗י",
+      "gloss": "eu"
     },
     {
-      "surface": "עניתי",
-      "gloss": "fui muito afligido",
-      "lemma": 6031,
-      "gv": 540,
-      "rationale": "Pual perfecto de ענה - 'fui afligido\/oprimido'; 'muito' adicionado para מאד seguinte"
+      "surface": "עָנִ֥יתִי",
+      "gloss": "⟨estava⟩ aflito"
     },
     {
-      "surface": "מאד",
-      "gloss": "⟨muito⟩",
-      "lemma": 3966,
-      "gv": 45,
-      "rationale": "Advérbio de intensidade - 'muito', 'grandemente'; traduzido após o verbo em português"
+      "surface": "מְאֹֽד",
+      "gloss": "extremamente"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:12:29.211788787Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "ruth 4:5",
   "book": "ruth",
-  "chapter": 4,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:22:58.848585938Z",
-  "translation": "Então disse Boaz: No dia em que comprares ⟨o⟩ campo da mão de Naomi, ⟨então⟩ ⟨de⟩ Rute ⟨a⟩ moabita, esposa do falecido, compraste ⟨para⟩ levantar ⟨o⟩ nome do falecido sobre ⟨a⟩ sua herança.",
+  "chapter": 4,
+  "translation": "E disse Boaz: No dia em que comprares o campo da mão de Naomi, também ⟨את⟩ a Rute, a moavita, esposa do morto, adquiri ⟨para⟩ levantar o nome do morto sobre a sua herança.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Então disse"
+      "gloss": "E disse"
     },
     {
       "surface": "בעז",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "No dia em que"
+      "gloss": "No dia"
     },
     {
       "surface": "קנותך",
@@ -27,20 +25,20 @@
     },
     {
       "surface": "השדה",
-      "gloss": "⟨o⟩ campo"
+      "gloss": "o campo"
     },
     {
       "surface": "מיד",
-      "gloss": "da mão de"
+      "gloss": "da mão"
     },
     {
       "surface": "נעמי",
-      "gloss": "Naomi"
+      "gloss": "de Naomi"
     },
     {
       "surface": "ומאת",
-      "gloss": "⟨então⟩ ⟨de⟩",
-      "marks": "Ruth ⟨a⟩ moabita"
+      "gloss": "também ⟨את⟩ a",
+      "marks": "Rute"
     },
     {
       "surface": "רות",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "המואביה",
-      "gloss": "⟨a⟩ moabita"
+      "gloss": "a moavita"
     },
     {
       "surface": "אשת",
@@ -56,11 +54,11 @@
     },
     {
       "surface": "המת",
-      "gloss": "do falecido"
+      "gloss": "do morto"
     },
     {
       "surface": "קניתי",
-      "gloss": "compraste"
+      "gloss": "adquiri"
     },
     {
       "surface": "להקים",
@@ -68,11 +66,11 @@
     },
     {
       "surface": "שם",
-      "gloss": "⟨o⟩ nome"
+      "gloss": "o nome"
     },
     {
       "surface": "המת",
-      "gloss": "do falecido"
+      "gloss": "do morto"
     },
     {
       "surface": "על",
@@ -80,26 +78,9 @@
     },
     {
       "surface": "נחלתו",
-      "gloss": "⟨a⟩ sua herança"
+      "gloss": "a sua herança"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Noemi",
-      "to": "Naomi",
-      "token-index": 6,
-      "strongs": 5281,
-      "hebrew": "נעמי"
-    },
-    {
-      "from": "Ruth",
-      "to": "Rute",
-      "token-index": 8,
-      "strongs": 7327,
-      "hebrew": "רות"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:19:57.405721558Z",
+  "model": "glm-5.2"
 }

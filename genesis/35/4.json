@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "genesis 35:4",
   "book": "genesis",
-  "chapter": 35,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T14:55:30.335471540Z",
-  "translation": "E deram a Yaakov ⟨את⟩ todos os deuses estrangeiros que estavam em sua mão, e ⟨את⟩ os brincos que estavam em seus ouvidos, e Yaakov escondeu-os sob o terebinto que estava com Shechem",
+  "chapter": 35,
+  "translation": "E entregaram a Yaakov ⟨את⟩ todos os elohim do estrangeiro que ⟨estavam⟩ em sua mão, e ⟨את⟩ os brincos que ⟨estavam⟩ em suas orelhas; e Yaakov os escondeu debaixo da árvore ⟨את⟩ ⟨que⟩ está junto a Shejem.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "E deram"
+      "gloss": "E entregaram"
     },
     {
       "surface": "אל",
@@ -24,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todos os deuses estrangeiros"
+      "marks": "todos os elohim do estrangeiro"
     },
     {
       "surface": "כל",
@@ -32,11 +30,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "os deuses"
+      "gloss": "os elohim"
     },
     {
       "surface": "הנכר",
-      "gloss": "estrangeiros"
+      "gloss": "do estrangeiro"
     },
     {
       "surface": "אשר",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "בידם",
-      "gloss": "estavam em sua mão"
+      "gloss": "em sua mão"
     },
     {
       "surface": "ואת",
@@ -61,15 +59,16 @@
     },
     {
       "surface": "באזניהם",
-      "gloss": "estavam em seus ouvidos"
+      "gloss": "em suas orelhas"
     },
     {
       "surface": "ויטמן",
-      "gloss": "e Yaakov escondeu-os"
+      "gloss": "e escondeu"
     },
     {
       "surface": "אתם",
-      "gloss": "-os"
+      "gloss": "⟨את⟩ eles",
+      "marks": "Yaakov"
     },
     {
       "surface": "יעקב",
@@ -77,11 +76,11 @@
     },
     {
       "surface": "תחת",
-      "gloss": "sob"
+      "gloss": "debaixo de"
     },
     {
       "surface": "האלה",
-      "gloss": "o terebinto"
+      "gloss": "a árvore"
     },
     {
       "surface": "אשר",
@@ -89,11 +88,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "estava com"
+      "gloss": "junto a"
     },
     {
       "surface": "שכם",
-      "gloss": "Shechem"
+      "gloss": "Shejem"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:34:12.962588051Z",
+  "model": "glm-5.2"
 }

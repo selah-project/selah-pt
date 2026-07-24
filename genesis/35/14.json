@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "genesis 35:14",
   "book": "genesis",
-  "chapter": 35,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:17:40.484785208Z",
-  "translation": "E Yaakov levantou uma coluna no lugar onde ⟨ele⟩ falou com ⟨ele⟩, ⟨um⟩ coluna de pedra, e derramou sobre ⟨ela⟩ ⟨um⟩ libação, e derramou sobre ⟨ela⟩ azeite",
+  "chapter": 35,
+  "translation": "E Yaakov ergueu uma coluna no lugar onde ⟨Aquele⟩ falara com ele — uma coluna de pedra — e derramou sobre ela uma libação, e derramou sobre ela óleo.",
   "tokens": [
     {
       "surface": "ויצב",
-      "gloss": "E Jacó levantou"
+      "gloss": "e ergueu"
     },
     {
       "surface": "יעקב",
@@ -31,16 +29,15 @@
     },
     {
       "surface": "דבר",
-      "gloss": "⟨ele⟩ falou"
+      "gloss": "falara"
     },
     {
       "surface": "אתו",
-      "gloss": "com ⟨ele⟩",
-      "marks": "ele"
+      "gloss": "⟨את⟩ ele"
     },
     {
       "surface": "מצבת",
-      "gloss": "⟨um⟩ coluna"
+      "gloss": "coluna"
     },
     {
       "surface": "אבן",
@@ -52,12 +49,11 @@
     },
     {
       "surface": "עליה",
-      "gloss": "sobre ⟨ela⟩",
-      "marks": "ela"
+      "gloss": "sobre ela"
     },
     {
       "surface": "נסך",
-      "gloss": "⟨um⟩ libação"
+      "gloss": "uma libação"
     },
     {
       "surface": "ויצק",
@@ -65,24 +61,13 @@
     },
     {
       "surface": "עליה",
-      "gloss": "sobre ⟨ela⟩",
-      "marks": "ela"
+      "gloss": "sobre ela"
     },
     {
       "surface": "שמן",
-      "gloss": "o azeite"
+      "gloss": "óleo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jacó",
-      "to": "Yaakov",
-      "token-index": 1,
-      "strongs": 3290,
-      "hebrew": "יעקב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:34:11.128764260Z",
+  "model": "glm-5.2"
 }

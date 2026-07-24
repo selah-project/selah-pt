@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "joshua 24:5",
   "book": "joshua",
-  "chapter": 24,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:17:16.536318455Z",
-  "translation": "E enviei Moshé e Aharon, e feri Mitsráyim ⟨como⟩ fiz no meio dele, e depois fiz sair ⟨vós⟩",
+  "chapter": 24,
+  "translation": "E enviei ⟨את⟩ Moshé e ⟨את⟩ Aharon, e feri ⟨את⟩ Mitzráyim conforme fiz no meio dele; e depois disso vos tirei ⟨את⟩.",
   "tokens": [
     {
       "surface": "ואשלח",
@@ -24,7 +22,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e"
+      "gloss": "e ⟨את⟩",
+      "marks": "Aharon"
     },
     {
       "surface": "אהרן",
@@ -37,15 +36,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mitsráyim"
+      "marks": "Mitzráyim"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "כאשר",
-      "gloss": "⟨como⟩"
+      "gloss": "conforme"
     },
     {
       "surface": "עשיתי",
@@ -57,15 +56,17 @@
     },
     {
       "surface": "ואחר",
-      "gloss": "e depois"
+      "gloss": "e depois disso"
     },
     {
       "surface": "הוצאתי",
-      "gloss": "fiz sair"
+      "gloss": "tirei"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨vós⟩"
+      "gloss": "⟨את⟩"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:13:12.201003994Z",
+  "model": "glm-5.2"
 }

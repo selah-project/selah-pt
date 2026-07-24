@@ -1,52 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "proverbs 13:5",
   "book": "proverbs",
-  "chapter": 13,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T11:28:49.335487683Z",
-  "translation": "A ⟨word⟩ of falsehood ⟨את⟩ the righteous ⟨hates⟩, but a wicked person ⟨causes⟩ stench ⟨and⟩ becomes ⟨ashamed⟩.",
+  "chapter": 13,
+  "translation": "Um davar de falsidade ⟨o⟩ justo odeia; e o ímpio ⟨fede⟩ e traz vergonha.",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "A ⟨word⟩",
-      "rationale": "davar — a matter, thing, word; English requires article and context"
+      "gloss": "Um davar"
     },
     {
       "surface": "שקר",
-      "gloss": "of falsehood",
-      "rationale": "sheker — an untruth, sham, deception; idiomatic rendering"
+      "gloss": "de falsidade"
     },
     {
       "surface": "ישנא",
-      "gloss": "the righteous ⟨hates⟩",
-      "rationale": "yisn'eh — verb requires explicit subject in English"
+      "gloss": "odeia"
     },
     {
       "surface": "צדיק",
-      "gloss": "the righteous",
-      "rationale": "tzadik — just one; English requires article and plural form"
+      "gloss": "⟨o⟩ justo"
     },
     {
       "surface": "ורשע",
-      "gloss": "but a wicked person",
-      "rationale": "verasha' — conjunction + wicked one; English requires article and noun"
+      "gloss": "e o ímpio"
     },
     {
       "surface": "יבאיש",
-      "gloss": "⟨causes⟩ stench",
-      "rationale": "yevayish — literally 'makes stink'; idiom for moral offensiveness"
+      "gloss": "⟨fede⟩"
     },
     {
-      "surface": "ויחפיר",
-      "gloss": "⟨and⟩ becomes ⟨ashamed⟩",
-      "rationale": "veyachpír — root means 'to blush' or 'be ashamed'; requires copula"
+      "surface": "ולחפיר",
+      "gloss": "e traz vergonha"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:15:06.488731922Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "judges 8:5",
   "book": "judges",
-  "chapter": 8,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:58:20.458363826Z",
-  "translation": "E ele disse aos homens de Sucote: Dêi, peço-vos, ⟨את⟩ redondos de pão ao povo que está em meus pés, pois eles estão cansados, e eu estou perseguindo após Zebá e Zalmuná, reis de Midyan.",
+  "chapter": 8,
+  "translation": "E disse aos homens de Sukkot: \"Dêem, peço, pães ao povo que ⟨está⟩ comigo, porque eles estão exaustos, e eu estou perseguindo Zevaj e Tzalmuná, reis de Midyan.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E ele disse"
+      "gloss": "E disse"
     },
     {
       "surface": "לאנשי",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "סכות",
-      "gloss": "Sucote"
+      "gloss": "Sukkot"
     },
     {
       "surface": "תנו",
-      "gloss": "Dêi"
+      "gloss": "Dêem"
     },
     {
       "surface": "נא",
-      "gloss": "peço-vos"
+      "gloss": "peço"
     },
     {
       "surface": "ככרות",
-      "gloss": "redondos"
+      "gloss": "pães"
     },
     {
       "surface": "לחם",
@@ -47,15 +45,15 @@
     },
     {
       "surface": "ברגלי",
-      "gloss": "está em meus pés"
+      "gloss": "está comigo"
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "עיפים",
-      "gloss": "eles estão cansados"
+      "gloss": "exaustos"
     },
     {
       "surface": "הם",
@@ -75,11 +73,11 @@
     },
     {
       "surface": "זבח",
-      "gloss": "Zebá"
+      "gloss": "Zevaj"
     },
     {
       "surface": "וצלמנע",
-      "gloss": "e Zalmuná"
+      "gloss": "e Tzalmuná"
     },
     {
       "surface": "מלכי",
@@ -90,16 +88,6 @@
       "gloss": "Midyan"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Midiã",
-      "to": "Midyan",
-      "token-index": 19,
-      "strongs": 4080,
-      "hebrew": "מדין"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:15:36.735772165Z",
+  "model": "glm-5.2"
 }

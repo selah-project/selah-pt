@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "exodus 6:12",
   "book": "exodus",
-  "chapter": 6,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:41:31.915947159Z",
-  "translation": "E Moshé falou diante de ⟨את⟩ YHWH, dizendo: Eis que ⟨os⟩ filhos de Yisrael não ouviram a mim, e como Paró ouvirá a mim, pois eu ⟨sou⟩ ⟨de⟩ lábios incircuncisos?",
+  "chapter": 6,
+  "translation": "E Moshé falou perante ⟨o rosto de⟩ YHWH, dizendo: Eis que os filhos de Yisrael não me ouviram, e como me ouvirá Paró, e eu ⟨sou⟩ de lábios incircuncisos?",
   "tokens": [
     {
       "surface": "וידבר",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "diante de"
+      "gloss": "perante ⟨o rosto de⟩"
     },
     {
       "surface": "יהוה",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "filhos de"
+      "gloss": "os filhos de"
     },
     {
       "surface": "ישראל",
@@ -59,7 +57,7 @@
     },
     {
       "surface": "ישמעני",
-      "gloss": "ouvirá a mim"
+      "gloss": "me ouvirá"
     },
     {
       "surface": "פרעה",
@@ -67,41 +65,17 @@
     },
     {
       "surface": "ואני",
-      "gloss": "pois eu"
+      "gloss": "e eu"
     },
     {
       "surface": "ערל",
-      "gloss": "incircuncisos"
+      "gloss": "de incircuncisos"
     },
     {
       "surface": "שפתים",
       "gloss": "lábios"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Mosheh",
-      "to": "Moshé",
-      "token-index": 1,
-      "strongs": 4872,
-      "hebrew": "משה"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 7,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 13,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:39:14.651089941Z",
+  "model": "glm-5.2"
 }

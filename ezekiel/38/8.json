@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "ezekiel 38:8",
   "book": "ezekiel",
-  "chapter": 38,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:43:05.252185272Z",
-  "translation": "Depois de muitos dias tu serás ⟨mobilizado⟩, nos últimos anos virás ⟨contra⟩ ⟨את⟩ a terra ⟨que⟩ foi ⟨trazida⟩ ⟨de volta⟩ ⟨da⟩ espada, ⟨e⟩ ⟨é⟩ congregada ⟨de⟩ muitos povos, ⟨contra⟩ os montes de Yisrael, que estiveram ⟨em⟩ desolação ⟨perpétua⟩, ⟨e⟩ ⟨ela⟩ foi ⟨trazida⟩ ⟨fora⟩ ⟨dos⟩ povos, ⟨e⟩ habitarão ⟨em⟩ segurança ⟨todos⟩ ⟨deles⟩.",
+  "chapter": 38,
+  "translation": "Depois de muitos dias tu serás convocado; no fim dos anos virás à terra restaurada da espada, congregada de povos muitos, sobre os montes de Yisrael que ⟨estiveram⟩ em ruína perpétua; mas ⟨eles⟩ dos povos foram tirados, e habitarão em segurança, todos eles.",
   "tokens": [
     {
       "surface": "מימים",
-      "gloss": "Depois de muitos dias"
+      "gloss": "de dias"
     },
     {
       "surface": "רבים",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "תפקד",
-      "gloss": "tu serás ⟨mobilizado⟩"
+      "gloss": "serás convocado"
     },
     {
       "surface": "באחרית",
-      "gloss": "nos últimos"
+      "gloss": "no fim"
     },
     {
       "surface": "השנים",
-      "gloss": "anos"
+      "gloss": "dos anos"
     },
     {
       "surface": "תבוא",
@@ -35,27 +33,27 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨contra⟩"
+      "gloss": "a"
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨a⟩ terra"
+      "gloss": "terra"
     },
     {
       "surface": "משובבת",
-      "gloss": "⟨que⟩ foi ⟨trazida⟩ ⟨de volta⟩"
+      "gloss": "restaurada"
     },
     {
       "surface": "מחרב",
-      "gloss": "⟨da⟩"
+      "gloss": "da espada"
     },
     {
       "surface": "מקבצת",
-      "gloss": "⟨e⟩ ⟨é⟩ congregada"
+      "gloss": "congregada"
     },
     {
       "surface": "מעמים",
-      "gloss": "⟨de⟩"
+      "gloss": "de povos"
     },
     {
       "surface": "רבים",
@@ -63,7 +61,7 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨contra⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "הרי",
@@ -83,47 +81,37 @@
     },
     {
       "surface": "לחרבה",
-      "gloss": "⟨em⟩ desolação"
+      "gloss": "em ruína"
     },
     {
       "surface": "תמיד",
-      "gloss": "⟨perpétua⟩"
+      "gloss": "perpétua"
     },
     {
       "surface": "והיא",
-      "gloss": "⟨e⟩ ⟨ela⟩"
+      "gloss": "mas eles"
     },
     {
       "surface": "מעמים",
-      "gloss": "⟨fora⟩ ⟨dos⟩"
+      "gloss": "dos povos"
     },
     {
       "surface": "הוצאה",
-      "gloss": "foi ⟨trazida⟩"
+      "gloss": "foram tirados"
     },
     {
       "surface": "וישבו",
-      "gloss": "⟨e⟩ habitarão"
+      "gloss": "e habitarão"
     },
     {
       "surface": "לבטח",
-      "gloss": "⟨em⟩ segurança"
+      "gloss": "em segurança"
     },
     {
       "surface": "כלם",
-      "gloss": "⟨todos⟩ ⟨deles⟩"
+      "gloss": "todos eles"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 15,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:02:07.280569023Z",
+  "model": "glm-5.2"
 }

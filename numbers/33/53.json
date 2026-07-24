@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 53,
   "ref": "numbers 33:53",
   "book": "numbers",
-  "chapter": 33,
-  "verse": 53,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:26:07.143559318Z",
-  "translation": "e possuireis ⟨את⟩ a terra e habitareis nela; pois a vós dei ⟨את⟩ a terra para possuí-la",
+  "chapter": 33,
+  "translation": "E ⟨vós⟩ desapossareis ⟨את⟩ a terra e habitareis nela, porque a vós ⟨é que⟩ dei ⟨את⟩ a terra, para possuí-la ⟨את ela⟩.",
   "tokens": [
     {
       "surface": "והורשתם",
-      "gloss": "e possuireis"
+      "gloss": "e desapossareis"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הארץ"
+      "marks": "a terra"
     },
     {
       "surface": "הארץ",
@@ -32,7 +30,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "לכם",
@@ -45,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הארץ"
+      "marks": "a terra"
     },
     {
       "surface": "הארץ",
@@ -53,11 +51,14 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "para possuí"
+      "gloss": "para possuir"
     },
     {
       "surface": "אתה",
-      "gloss": "-la"
+      "gloss": "⟨את ela⟩",
+      "marks": "a terra (como objeto de possuir)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:00:04.939568136Z",
+  "model": "glm-5.2"
 }

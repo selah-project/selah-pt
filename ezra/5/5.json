@@ -1,28 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "ezra 5:5",
   "book": "ezra",
-  "chapter": 5,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-14T04:59:42.825025518Z",
-  "translation": "Mas ⟨o⟩ olho de seu Elohim ⟨estava⟩ sobre os anciãos de Yehudá, e eles não ⟨o⟩ fizeram cessar até ⟨o⟩ assunto ir ⟨a⟩ Daryavesh; e então ⟨enviaram⟩ resposta por carta concernente ⟨a⟩ isto.",
+  "chapter": 5,
+  "translation": "E ⟨o⟩ olho do Elohim deles estava sobre os anciãos de Yehudá, e não os fizeram cessar até ⟨que⟩ a decisão chegasse a Daryavesh, e então ⟨eles⟩ responderam por carta concernente a isto.",
   "tokens": [
     {
       "surface": "ועין",
-      "gloss": "Mas",
-      "rationale": "וְ (e) + עַיִן (olho); 'mas' inferido do contexto adversativo"
+      "gloss": "E o olho"
     },
     {
       "surface": "אלההם",
-      "gloss": "de seu Elohim",
-      "rationale": "literalmente 'deuses deles', mas contexto exige o Elohim de Israel"
+      "gloss": "do Elohim deles"
     },
     {
       "surface": "הות",
-      "gloss": "⟨estava⟩",
-      "rationale": "הָיָה (ser\/estar); copula exigida em português"
+      "gloss": "estava"
     },
     {
       "surface": "על",
@@ -38,17 +33,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "e eles não"
+      "gloss": "e não"
     },
     {
       "surface": "בטלו",
-      "gloss": "⟨o⟩ fizeram cessar",
-      "rationale": "בטל (cessar\/parar); artigo 'o' exigido em português"
+      "gloss": "fizeram cessar"
     },
     {
       "surface": "המו",
-      "gloss": "",
-      "rationale": "sufixo pronominal de 3ª pessoa masc. pl. já incluído em 'eles'"
+      "gloss": "eles"
     },
     {
       "surface": "עד",
@@ -56,18 +49,15 @@
     },
     {
       "surface": "טעמא",
-      "gloss": "⟨o⟩ assunto",
-      "rationale": "literalmente 'gosto\/veredito jurídico'; artigo exigido"
+      "gloss": "a decisão"
     },
     {
       "surface": "לדריוש",
-      "gloss": "⟨a⟩ Daryavesh",
-      "rationale": "דָּרְיָוֶשׁ; preposição 'a' exigida em português"
+      "gloss": "chegasse a Daryavesh"
     },
     {
       "surface": "יהך",
-      "gloss": "ir",
-      "rationale": "יָהַך (ir); verbo principal"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "ואדין",
@@ -75,8 +65,7 @@
     },
     {
       "surface": "יתיבון",
-      "gloss": "⟨enviaram⟩ resposta",
-      "rationale": "יָשַׁב (responder); contexto epistolar exige 'enviaram resposta'"
+      "gloss": "eles responderam"
     },
     {
       "surface": "נשתונא",
@@ -84,11 +73,13 @@
     },
     {
       "surface": "על",
-      "gloss": "concerne ⟨a⟩"
+      "gloss": "concernente a"
     },
     {
       "surface": "דנה",
       "gloss": "isto"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:24:55.710488158Z",
+  "model": "glm-5.2"
 }

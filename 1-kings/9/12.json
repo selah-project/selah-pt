@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "1-kings 9:12",
   "book": "1-kings",
-  "chapter": 9,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T05:24:21.384351447Z",
-  "translation": "E Hiram saiu de Tiro para ver ⟨as⟩ cidades ⟨que⟩ Shlomó lhe dera; e não foram retas ⟨em⟩ seus olhos",
+  "chapter": 9,
+  "translation": "E Jiram saiu de Tzor para ver ⟨את⟩ as cidades que Shlomó lhe dera, e não foram retas aos seus olhos.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "E Hiram saiu"
+      "gloss": "E saiu"
     },
     {
       "surface": "חירם",
-      "gloss": "Hiram"
+      "gloss": "Jiram"
     },
     {
       "surface": "מצר",
-      "gloss": "de Tiro"
+      "gloss": "de Tzor"
     },
     {
       "surface": "לראות",
@@ -28,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cidades"
+      "marks": "as cidades"
     },
     {
       "surface": "הערים",
-      "gloss": "cidades"
+      "gloss": "as cidades"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨que⟩"
+      "gloss": "que"
     },
     {
       "surface": "נתן",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "lhe"
+      "gloss": "a ele"
     },
     {
       "surface": "שלמה",
@@ -60,19 +58,9 @@
     },
     {
       "surface": "בעיניו",
-      "gloss": "⟨em⟩ seus olhos"
+      "gloss": "aos seus olhos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Salomão",
-      "to": "Shlomó",
-      "token-index": 9,
-      "strongs": 8010,
-      "hebrew": "שלמה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:31:36.087961302Z",
+  "model": "glm-5.2"
 }

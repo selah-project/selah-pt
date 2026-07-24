@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "exodus 9:22",
   "book": "exodus",
-  "chapter": 9,
-  "verse": 22,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:45:55.874685353Z",
-  "translation": "E HaShem disse a Moshé: Estende ⟨a⟩ tua mão ⟨para⟩ ⟨o⟩ céu, e haja ⟨um⟩ granizo ⟨em⟩ toda ⟨a⟩ terra do Mitzráyim, ⟨sobre⟩ ⟨o⟩ homem e ⟨sobre⟩ ⟨o⟩ gado, e ⟨sobre⟩ toda ⟨a⟩ erva do campo na terra do Mitzráyim.",
+  "chapter": 9,
+  "translation": "E YHWH disse a Moshé: Estende ⟨את⟩ tua mão sobre os céus, e haja saraiva em toda ⟨a⟩ terra de Mitzráyim — sobre o homem, e sobre o animal, e sobre toda erva do campo, na terra de Mitzráyim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -40,11 +38,11 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨para⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "השמים",
-      "gloss": "⟨o⟩ céu"
+      "gloss": "os céus"
     },
     {
       "surface": "ויהי",
@@ -52,39 +50,39 @@
     },
     {
       "surface": "ברד",
-      "gloss": "⟨um⟩ granizo"
+      "gloss": "saraiva"
     },
     {
       "surface": "בכל",
-      "gloss": "⟨em⟩ toda"
+      "gloss": "em toda"
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨a⟩ terra"
+      "gloss": "terra"
     },
     {
       "surface": "מצרים",
-      "gloss": "do Mitzráyim"
+      "gloss": "de Mitzráyim"
     },
     {
       "surface": "על",
-      "gloss": "⟨sobre⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "האדם",
-      "gloss": "⟨o⟩ homem"
+      "gloss": "o homem"
     },
     {
       "surface": "ועל",
-      "gloss": "e ⟨sobre⟩"
+      "gloss": "e sobre"
     },
     {
       "surface": "הבהמה",
-      "gloss": "⟨o⟩ gado"
+      "gloss": "o animal"
     },
     {
       "surface": "ועל",
-      "gloss": "e ⟨sobre⟩"
+      "gloss": "e sobre"
     },
     {
       "surface": "כל",
@@ -92,7 +90,7 @@
     },
     {
       "surface": "עשב",
-      "gloss": "⟨a⟩ erva"
+      "gloss": "erva"
     },
     {
       "surface": "השדה",
@@ -104,33 +102,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "do Mitzráyim"
+      "gloss": "de Mitzráyim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moisés",
-      "to": "Moshé",
-      "token-index": 3,
-      "strongs": 4872,
-      "hebrew": "משה"
-    },
-    {
-      "from": "Egito",
-      "to": "Mitzráyim",
-      "token-index": 13,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    },
-    {
-      "from": "Egito",
-      "to": "Mitzráyim",
-      "token-index": 23,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:39:36.445072060Z",
+  "model": "glm-5.2"
 }

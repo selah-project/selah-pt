@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "jeremiah 17:25",
   "book": "jeremiah",
-  "chapter": 17,
-  "verse": 25,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:20:14.265065137Z",
-  "translation": "E entrarão ⟨את⟩ pelos portões desta cidade, reis e príncipes sentados ⟨את⟩ sobre o trono de Davidd, cavalgando ⟨את⟩ em carros e em cavalos, eles e seus príncipes, homem de Yehudá e habitantes de Yerushalayim; e esta cidade ⟨será⟩ habitada para sempre.",
+  "chapter": 17,
+  "translation": "E entrarão pelos portões desta cidade reis e príncipes, sentados sobre o trono de David, cavalgando em carruagens e em cavalos — eles e seus príncipes, ⟨o⟩ homem de Yehudá e os habitantes de Yerushalayim; e esta cidade será habitada para sempre.",
   "tokens": [
     {
       "surface": "ובאו",
-      "gloss": "E entrarão"
+      "gloss": "e entrarão"
     },
     {
       "surface": "בשערי",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "העיר",
-      "gloss": "da cidade"
+      "gloss": "de"
     },
     {
       "surface": "הזאת",
-      "gloss": "desta"
+      "gloss": "esta cidade"
     },
     {
       "surface": "מלכים",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "de Davidd"
+      "gloss": "de David"
     },
     {
       "surface": "רכבים",
@@ -55,7 +53,7 @@
     },
     {
       "surface": "ברכב",
-      "gloss": "em carros"
+      "gloss": "em carruagens"
     },
     {
       "surface": "ובסוסים",
@@ -71,7 +69,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "homem"
+      "gloss": "o homem"
     },
     {
       "surface": "יהודה",
@@ -79,7 +77,7 @@
     },
     {
       "surface": "וישבי",
-      "gloss": "e habitantes"
+      "gloss": "e os habitantes"
     },
     {
       "surface": "ירושלם",
@@ -87,48 +85,21 @@
     },
     {
       "surface": "וישבה",
-      "gloss": "e esta cidade",
-      "marks": "esta cidade"
+      "gloss": "e será habitada"
     },
     {
       "surface": "העיר",
-      "gloss": "a cidade",
-      "marks": "a cidade"
+      "gloss": "a cidade"
     },
     {
       "surface": "הזאת",
-      "gloss": "esta",
-      "marks": "esta"
+      "gloss": "esta"
     },
     {
       "surface": "לעולם",
       "gloss": "para sempre"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 9,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 16,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    },
-    {
-      "from": "Jerusalém",
-      "to": "Yerushalayim",
-      "token-index": 18,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:48:36.548640233Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "numbers 7:6",
   "book": "numbers",
-  "chapter": 7,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:15:50.931243512Z",
-  "translation": "E Moshé tomou ⟨as⟩ carretas e ⟨o⟩ gado, e ⟨os⟩ deu aos levitas.",
+  "chapter": 7,
+  "translation": "E Moshé tomou ⟨את⟩ os carros e ⟨את⟩ o gado, e os deu aos Levítas.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -20,41 +18,38 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "carretas"
+      "marks": "os carros"
     },
     {
       "surface": "העגלת",
-      "gloss": "carretas"
+      "gloss": "os carros"
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨o⟩",
-      "marks": "gado"
+      "gloss": "e ⟨את⟩",
+      "marks": "o gado"
     },
     {
       "surface": "הבקר",
-      "gloss": "gado"
+      "gloss": "o gado"
     },
     {
       "surface": "ויתן",
-      "gloss": "e ⟨os⟩ deu"
+      "gloss": "e deu"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨os⟩",
-      "marks": "aos"
+      "gloss": "⟨את⟩-eles (os)"
     },
     {
       "surface": "אל",
-      "gloss": "aos"
+      "gloss": "a"
     },
     {
       "surface": "הלוים",
-      "gloss": "levitas"
+      "gloss": "os Levítas"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:53:51.649632796Z",
+  "model": "glm-5.2"
 }

@@ -1,82 +1,70 @@
 {
+  "tier": "glm-5.2",
+  "verse": 24,
   "ref": "jeremiah 50:24",
   "book": "jeremiah",
-  "chapter": 50,
-  "verse": 24,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:54:18.462606504Z",
-  "translation": "Eu pus ⟨um⟩ laço para ti, e também foste capturada, ó Bavel, e tu não ⟨o⟩ sabias; foste encontrada e também apanhada, porque contra HaShem te incitaste.",
+  "chapter": 50,
+  "translation": "Armei ⟨uma⟩ cilada para ti, e também foste capturada, ⟨ó⟩ Bavel — ⟨e⟩ tu, não soubeste; foste encontrada, e também foste apanhada, porque contra YHWH tu te provocaste.",
   "tokens": [
     {
-      "surface": "יקשתי",
-      "gloss": "Eu pus"
+      "surface": "יָקֹ֨שְׁתִּי",
+      "gloss": "Armei ⟨uma⟩ cilada"
     },
     {
-      "surface": "לך",
+      "surface": "לָ֤ךְ",
       "gloss": "para ti"
     },
     {
-      "surface": "וגם",
+      "surface": "וְגַם",
       "gloss": "e também"
     },
     {
-      "surface": "נלכדת",
+      "surface": "נִלְכַּדְתְּ֙",
       "gloss": "foste capturada"
     },
     {
-      "surface": "בבל",
-      "gloss": "ó Bavel"
+      "surface": "בָּבֶ֔ל",
+      "gloss": "Bavel"
     },
     {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "laço"
+      "surface": "וְאַ֖תְּ",
+      "gloss": "⟨e⟩ tu",
+      "marks": "pronome feminino singular dirigido a Bavel"
     },
     {
-      "surface": "לא",
+      "surface": "לֹ֣א",
       "gloss": "não"
     },
     {
-      "surface": "ידעת",
-      "gloss": "⟨o⟩ sabias"
+      "surface": "יָדָ֑עַתְּ",
+      "gloss": "soubeste"
     },
     {
-      "surface": "נמצאת",
+      "surface": "נִמְצֵאת֙",
       "gloss": "foste encontrada"
     },
     {
-      "surface": "וגם",
+      "surface": "וְגַם",
       "gloss": "e também"
     },
     {
-      "surface": "נתפשת",
-      "gloss": "apresada"
+      "surface": "נִתְפַּּשְׂתְּ֔",
+      "gloss": "foste apanhada"
     },
     {
-      "surface": "כי",
+      "surface": "כִּ֥י",
       "gloss": "porque"
     },
     {
-      "surface": "ביהוה",
+      "surface": "בַֽיהוָ֖ה",
       "gloss": "contra YHWH"
     },
     {
-      "surface": "התגרית",
-      "gloss": "te incitaste"
+      "surface": "הִתְגָּרִֽית",
+      "gloss": "te provocaste"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Babel",
-      "to": "Bavel",
-      "token-index": 4,
-      "strongs": 894,
-      "hebrew": "בבל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:55:21.201175212Z",
+  "model": "glm-5.2"
 }

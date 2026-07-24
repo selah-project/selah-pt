@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "lamentations 1:10",
   "book": "lamentations",
-  "chapter": 1,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:24:30.167538949Z",
-  "translation": "Sua mão ⟨está⟩ espalhada ⟨por⟩ o adversário sobre todas ⟨as⟩ suas coisas desejáveis; pois ela viu ⟨os⟩ povos entrarem em seu Mikdash, ⟨o⟩ qual tu ordenaste que não entrassem em ⟨o⟩ teu ⟨⟨את⟩⟩ congregação ⟨dele⟩.",
+  "chapter": 1,
+  "translation": "A mão dele estendeu ⟨o⟩ adversário sobre todas ⟨as⟩ suas coisas desejáveis, pois ⟨ela⟩ viu: nações entraram no Mikdash dela, os quais ordenaste que não entrassem na congregação para ti.",
   "tokens": [
     {
       "surface": "ידו",
-      "gloss": "Sua mão"
+      "gloss": "a mão dele"
     },
     {
       "surface": "פרש",
-      "gloss": "⟨está⟩ espalhada ⟨por⟩"
+      "gloss": "estendeu"
     },
     {
       "surface": "צר",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "todas ⟨as⟩"
+      "gloss": "todas"
     },
     {
       "surface": "מחמדיה",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "גוים",
-      "gloss": "⟨os⟩ povos"
+      "gloss": "nações"
     },
     {
       "surface": "באו",
@@ -51,19 +49,19 @@
     },
     {
       "surface": "מקדשה",
-      "gloss": "em seu Mikdash"
+      "gloss": "no Mikdash dela"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨o⟩ qual"
+      "gloss": "os quais"
     },
     {
       "surface": "צויתה",
-      "gloss": "tu ordenaste"
+      "gloss": "ordenaste"
     },
     {
       "surface": "לא",
-      "gloss": "que não"
+      "gloss": "não"
     },
     {
       "surface": "יבאו",
@@ -71,24 +69,13 @@
     },
     {
       "surface": "בקהל",
-      "gloss": "em ⟨o⟩",
-      "marks": "teu ⟨⟨את⟩⟩ congregação ⟨dele⟩"
+      "gloss": "na congregação"
     },
     {
       "surface": "לך",
-      "gloss": "teu"
+      "gloss": "para ti"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "santuário",
-      "to": "Mikdash",
-      "token-index": 10,
-      "strongs": 4720,
-      "hebrew": "מקדש"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:20:10.993743626Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "2-samuel 1:5",
   "book": "2-samuel",
-  "chapter": 1,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:43:16.259481773Z",
-  "translation": "Então David disse ao jovem que lhe ⟨את⟩ dava conta: Como sabes que Shaul e Jônatas, seu filho, morreram?",
+  "chapter": 1,
+  "translation": "E disse David ao jovem que lhe anunciava: Como sabes que Shaul morreu e Yonatan, seu filho?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Então ... disse"
+      "gloss": "E disse"
     },
     {
       "surface": "דוד",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ao"
+      "gloss": "a"
     },
     {
       "surface": "הנער",
-      "gloss": "jovem"
+      "gloss": "o jovem"
     },
     {
       "surface": "המגיד",
-      "gloss": "que ... dava conta"
+      "gloss": "que anunciava"
     },
     {
       "surface": "לו",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "מת",
-      "gloss": "morreram"
+      "gloss": "morreu"
     },
     {
       "surface": "שאול",
@@ -55,30 +53,13 @@
     },
     {
       "surface": "ויהונתן",
-      "gloss": "e Jônatas"
+      "gloss": "e Yonatan"
     },
     {
       "surface": "בנו",
       "gloss": "seu filho"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Saul",
-      "to": "Shaul",
-      "token-index": 10,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:24:00.464992244Z",
+  "model": "glm-5.2"
 }

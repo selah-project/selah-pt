@@ -1,121 +1,95 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "2-samuel 10:19",
   "book": "2-samuel",
-  "chapter": 10,
-  "verse": 19,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:51:51.474363289Z",
-  "translation": "E viram todos os reis, servos de Hadadezer, que foram derrotados diante de Yisrael; e fizeram paz com Yisrael, e serviram ⟨a⟩ Yisrael. E os arameus temeram ⟨de⟩ ajudar ainda ⟨a⟩ os filhos de Ammon.",
+  "chapter": 10,
+  "translation": "E viram todos ⟨os⟩ reis, servos de Hadadezer, que foram derrotados diante de Yisrael; e fizeram paz com ⟨את⟩ Yisrael, e os serviram. E Aram temeu livrar ainda ⟨את⟩ os filhos de Ammon.",
   "tokens": [
     {
-      "surface": "ויראו",
-      "gloss": "E viram"
+      "surface": "וַיִּרְא֨וּ",
+      "gloss": "e viram"
     },
     {
-      "surface": "כל",
+      "surface": "כָֽל",
       "gloss": "todos"
     },
     {
-      "surface": "המלכים",
-      "gloss": "os reis"
+      "surface": "הַמְּלָכִ֜ים",
+      "gloss": "⟨os⟩ reis"
     },
     {
-      "surface": "עבדי",
+      "surface": "עַבְדֵ֣י",
       "gloss": "servos de"
     },
     {
-      "surface": "הדדעזר",
+      "surface": "הֲדַדְעֶ֗זֶר",
       "gloss": "Hadadezer"
     },
     {
-      "surface": "כי",
+      "surface": "כִּ֤י",
       "gloss": "que"
     },
     {
-      "surface": "נגפו",
+      "surface": "נִגְּפוּ֙",
       "gloss": "foram derrotados"
     },
     {
-      "surface": "לפני",
+      "surface": "לִפְנֵ֣י",
       "gloss": "diante de"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵ֔ל",
       "gloss": "Yisrael"
     },
     {
-      "surface": "וישלמו",
-      "gloss": "e fizeram paz com"
+      "surface": "וַיַּשְׁלִ֥מוּ",
+      "gloss": "e fizeram paz"
     },
     {
-      "surface": "את",
-      "gloss": "⟨a⟩",
-      "marks": "Israel"
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
     },
     {
-      "surface": "ישראל",
-      "gloss": "Yisrael"
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "com Yisrael"
     },
     {
-      "surface": "ויעבדום",
-      "gloss": "e serviram"
+      "surface": "וַיַּֽעַבְד֑וּם",
+      "gloss": "e os serviram"
     },
     {
-      "surface": "ויראו",
-      "gloss": "E"
+      "surface": "וַיִּֽרְא֣וּ",
+      "gloss": "e temeu"
     },
     {
-      "surface": "ארם",
-      "gloss": "os arameus"
+      "surface": "אֲרָ֔ם",
+      "gloss": "Aram"
     },
     {
-      "surface": "להושיע",
-      "gloss": "temeram ⟨de⟩ ajudar"
+      "surface": "לְהוֹשִׁ֥יעַ",
+      "gloss": "livrar"
     },
     {
-      "surface": "עוד",
+      "surface": "ע֖וֹד",
       "gloss": "ainda"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "os filhos"
+      "marks": "os filhos de Ammon"
     },
     {
-      "surface": "בני",
-      "gloss": "os filhos"
+      "surface": "בְּנֵ֥י",
+      "gloss": "os filhos de"
     },
     {
-      "surface": "עמון",
-      "gloss": "de Ammon"
+      "surface": "עַמּֽוֹן",
+      "gloss": "Ammon"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 8,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 11,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Amom",
-      "to": "Ammon",
-      "token-index": 19,
-      "strongs": 5983,
-      "hebrew": "עמון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:25:20.091311409Z",
+  "model": "glm-5.2"
 }

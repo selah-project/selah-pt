@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "deuteronomy 10:20",
   "book": "deuteronomy",
-  "chapter": 10,
-  "verse": 20,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:01:19.364340676Z",
-  "translation": "⟨את⟩ YHWH teu Elohim temerás; ⟨a ele⟩ servirás, e ⟨a ele⟩ te apegarás, e em seu nome jurarás.",
+  "chapter": 10,
+  "translation": "A ⟨את⟩ YHWH, teu Elohim, temerás; a ⟨את⟩ ele servirás, e a ele te apegarás, e pelo seu nome jurarás.",
   "tokens": [
     {
       "surface": "את",
@@ -28,8 +26,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨a ele⟩",
-      "marks": "servirás"
+      "gloss": "⟨את⟩ a ele",
+      "marks": "ele"
     },
     {
       "surface": "תעבד",
@@ -37,7 +35,7 @@
     },
     {
       "surface": "ובו",
-      "gloss": "e ⟨a ele⟩"
+      "gloss": "e a ele"
     },
     {
       "surface": "תדבק",
@@ -45,15 +43,13 @@
     },
     {
       "surface": "ובשמו",
-      "gloss": "e em seu nome"
+      "gloss": "e pelo seu nome"
     },
     {
       "surface": "תשבע",
       "gloss": "jurarás"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:03:00.318005634Z",
+  "model": "glm-5.2"
 }

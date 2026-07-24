@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "jeremiah 41:16",
   "book": "jeremiah",
-  "chapter": 41,
-  "verse": 16,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:46:01.103783371Z",
-  "translation": "E pegou Yochanan ben Kareach e todos os líderes ⟨dos⟩ homens de guerra que ⟨estavam⟩ com ele ⟨את⟩ todo o restante ⟨do⟩ povo que ele trouxe de volta de Yishmael ben Netanyá de ⟨a⟩ Mizpá, depois de ferir ⟨a⟩ Gedalyá ben Achicam—homens valentes, homens de guerra, e mulheres, e crianças, e eunucos que ele trouxe de volta de ⟨a⟩ Gibeon.",
+  "chapter": 41,
+  "translation": "E tomou Yojanán ben Kareáj e todos os chefes dos guerreiros que ⟨estavam⟩ com ele ⟨את⟩ todo ⟨o⟩ restante do povo que ⟨ele⟩ trouxe de volta de Yishmael ben Netanyá, de Mitzpá, depois de ⟨ele⟩ ferir ⟨את⟩ Gdalyá ben Ajikám — homens valentes, homens de guerra, e mulheres, e crianças, e eunucos, que ⟨ele⟩ trouxe de volta de Givon.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "E pegou"
+      "gloss": "E tomou"
     },
     {
       "surface": "יוחנן",
-      "gloss": "Yochanan"
+      "gloss": "Yojanán"
     },
     {
       "surface": "בן",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "קרח",
-      "gloss": "Kareach"
+      "gloss": "Kareáj"
     },
     {
       "surface": "וכל",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "שרי",
-      "gloss": "líderes"
+      "gloss": "os chefes"
     },
     {
       "surface": "החילים",
-      "gloss": "⟨dos⟩ homens de guerra"
+      "gloss": "dos guerreiros"
     },
     {
       "surface": "אשר",
@@ -43,12 +41,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨estavam⟩ com ele"
+      "gloss": "com ele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todo o restante"
+      "marks": "todo o restante do povo"
     },
     {
       "surface": "כל",
@@ -56,11 +54,11 @@
     },
     {
       "surface": "שארית",
-      "gloss": "restante"
+      "gloss": "o restante"
     },
     {
       "surface": "העם",
-      "gloss": "⟨do⟩ povo"
+      "gloss": "do povo"
     },
     {
       "surface": "אשר",
@@ -68,7 +66,7 @@
     },
     {
       "surface": "השיב",
-      "gloss": "ele trouxe de volta"
+      "gloss": "trouxe de volta"
     },
     {
       "surface": "מאת",
@@ -92,11 +90,11 @@
     },
     {
       "surface": "המצפה",
-      "gloss": "⟨a⟩ Mizpá"
+      "gloss": "Mitzpá"
     },
     {
       "surface": "אחר",
-      "gloss": "depois de"
+      "gloss": "depois"
     },
     {
       "surface": "הכה",
@@ -105,11 +103,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gedalyá"
+      "marks": "Gdalyá ben Ajikám"
     },
     {
       "surface": "גדליה",
-      "gloss": "Gedalyá"
+      "gloss": "Gdalyá"
     },
     {
       "surface": "בן",
@@ -117,7 +115,7 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Achicam"
+      "gloss": "Ajikám"
     },
     {
       "surface": "גברים",
@@ -125,11 +123,11 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "homens de"
+      "gloss": "homens"
     },
     {
       "surface": "המלחמה",
-      "gloss": "guerra"
+      "gloss": "de guerra"
     },
     {
       "surface": "ונשים",
@@ -149,23 +147,13 @@
     },
     {
       "surface": "השיב",
-      "gloss": "ele trouxe de volta"
+      "gloss": "trouxe de volta"
     },
     {
       "surface": "מגבעון",
-      "gloss": "de ⟨a⟩ Gibeon"
+      "gloss": "de Givon"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Ismael",
-      "to": "Yishmael",
-      "token-index": 16,
-      "strongs": 3458,
-      "hebrew": "ישמעאל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:53:55.831054065Z",
+  "model": "glm-5.2"
 }

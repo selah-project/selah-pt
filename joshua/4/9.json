@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "joshua 4:9",
   "book": "joshua",
-  "chapter": 4,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:28:29.091155769Z",
-  "translation": "E Yehoshua levantou ⟨את⟩ doze pedras no ⟨is⟩ meio ⟨do⟩ Jordão, sob ⟨o⟩ local ⟨da⟩ postagem ⟨dos⟩ pés ⟨dos⟩ sacerdotes, portadores ⟨da⟩ Aron ⟨da⟩ aliança, e ⟨elas⟩ estavam lá até este dia.",
+  "chapter": 4,
+  "translation": "E doze pedras Yehoshua levantou no meio do Yardén, debaixo do posto ⟨dos⟩ pés ⟨dos⟩ ⟨Kohanim⟩, os portadores ⟨do⟩ Aron ⟨da⟩ Brit — e ali estão até ⟨o⟩ dia ⟨de⟩ hoje.",
   "tokens": [
     {
       "surface": "ושתים",
-      "gloss": "E"
+      "gloss": "E doze"
     },
     {
       "surface": "עשרה",
-      "gloss": "doze"
+      "gloss": "(parte de doze)"
     },
     {
       "surface": "אבנים",
@@ -31,19 +29,19 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "no meio"
+      "gloss": "no meio ⟨do⟩"
     },
     {
       "surface": "הירדן",
-      "gloss": "do Jordão"
+      "gloss": "Yardén"
     },
     {
       "surface": "תחת",
-      "gloss": "sob"
+      "gloss": "debaixo ⟨do⟩"
     },
     {
       "surface": "מצב",
-      "gloss": "local"
+      "gloss": "posto"
     },
     {
       "surface": "רגלי",
@@ -51,27 +49,27 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "sacerdotes"
+      "gloss": "⟨dos⟩ Kohanim"
     },
     {
       "surface": "נשאי",
-      "gloss": "portadores"
+      "gloss": "os portadores"
     },
     {
       "surface": "ארון",
-      "gloss": "Aron"
+      "gloss": "⟨do⟩ Aron"
     },
     {
       "surface": "הברית",
-      "gloss": "aliança"
+      "gloss": "⟨da⟩ Brit"
     },
     {
       "surface": "ויהיו",
-      "gloss": "e"
+      "gloss": "e estão"
     },
     {
       "surface": "שם",
-      "gloss": "lá"
+      "gloss": "ali"
     },
     {
       "surface": "עד",
@@ -79,30 +77,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "dia"
+      "gloss": "⟨o⟩ dia ⟨de⟩"
     },
     {
       "surface": "הזה",
-      "gloss": "este"
+      "gloss": "hoje"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Josué",
-      "to": "Yehoshua",
-      "token-index": 4,
-      "strongs": 3091,
-      "hebrew": "יהושע"
-    },
-    {
-      "from": "arca",
-      "to": "Aron",
-      "token-index": 12,
-      "strongs": 727,
-      "hebrew": "ארון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:09:19.556209859Z",
+  "model": "glm-5.2"
 }

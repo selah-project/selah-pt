@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "genesis 29:30",
   "book": "genesis",
-  "chapter": 29,
-  "verse": 30,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:10:56.986283356Z",
-  "translation": "E entrou também ⟨a⟩ Rajel, e amou ⟨a⟩ Rajel mais ⟨do⟩ ⟨que⟩ Leia, e serviu com ele ainda sete outros anos",
+  "chapter": 29,
+  "translation": "E entrou também ⟨a⟩ Rajel, e amou também ⟨את⟩ Rajel mais do que ⟨a⟩ Leah; e serviu com ele ainda outros sete anos.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "E entrou"
+      "gloss": "e entrou"
     },
     {
       "surface": "גם",
@@ -36,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Raquel"
+      "marks": "Rajel"
     },
     {
       "surface": "רחל",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "מלאה",
-      "gloss": "mais ⟨do⟩ ⟨que⟩ Leia"
+      "gloss": "mais do que"
     },
     {
       "surface": "ויעבד",
@@ -71,23 +69,6 @@
       "gloss": "outros"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Raquel",
-      "to": "Rajel",
-      "token-index": 3,
-      "strongs": 7354,
-      "hebrew": "רחל"
-    },
-    {
-      "from": "Raquel",
-      "to": "Rajel",
-      "token-index": 7,
-      "strongs": 7354,
-      "hebrew": "רחל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:32:29.535896488Z",
+  "model": "glm-5.2"
 }

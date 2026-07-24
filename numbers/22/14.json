@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "numbers 22:14",
   "book": "numbers",
-  "chapter": 22,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:33:51.484023223Z",
-  "translation": "E os príncipes de Moav se levantaram e foram a Balaque, e disseram: Bilão ⟨את⟩ recusou andar conosco.",
+  "chapter": 22,
+  "translation": "E os príncipes de Moav se levantaram, e foram a Balak, e disseram: Bilam se recusa a ir ⟨conosco⟩.",
   "tokens": [
     {
       "surface": "ויקומו",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "שרי",
-      "gloss": "os príncipes"
+      "gloss": "os príncipes de"
     },
     {
       "surface": "מואב",
-      "gloss": "de Moav"
+      "gloss": "Moav"
     },
     {
       "surface": "ויבאו",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "בלק",
-      "gloss": "Balaque"
+      "gloss": "Balak"
     },
     {
       "surface": "ויאמרו",
@@ -39,32 +37,21 @@
     },
     {
       "surface": "מאן",
-      "gloss": "recusou"
+      "gloss": "se recusa"
     },
     {
       "surface": "בלעם",
-      "gloss": "Bilão"
+      "gloss": "Bilam"
     },
     {
       "surface": "הלך",
-      "gloss": "andar",
-      "marks": "Bilão"
+      "gloss": "a ir"
     },
     {
       "surface": "עמנו",
       "gloss": "conosco"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moabe",
-      "to": "Moav",
-      "token-index": 2,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:57:39.251435786Z",
+  "model": "glm-5.2"
 }

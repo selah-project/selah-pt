@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "2-samuel 15:22",
   "book": "2-samuel",
-  "chapter": 15,
-  "verse": 22,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:57:30.048748098Z",
-  "translation": "E Davidd disse a Ittai: Vai e atravessa. E Ittai ⟨o⟩ giteu atravessou, e todos os seus homens, e todas ⟨as⟩ crianças pequenas que ⟨estavam⟩ com ele.",
+  "chapter": 15,
+  "translation": "E David disse a Itai: Vai e passa adiante. E Itai, o giteu, passou adiante, e todos os seus homens, e todas as ⟨as⟩ crianças que ⟨estavam⟩ com ele.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "אל",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "Ittai"
+      "gloss": "Itai"
     },
     {
       "surface": "לך",
@@ -31,20 +29,19 @@
     },
     {
       "surface": "ועבר",
-      "gloss": "e atravessa"
+      "gloss": "e passa adiante"
     },
     {
       "surface": "ויעבר",
-      "gloss": "E atravessou"
+      "gloss": "E passou adiante"
     },
     {
       "surface": "אתי",
-      "gloss": "Ittai"
+      "gloss": "Itai"
     },
     {
       "surface": "הגתי",
-      "gloss": "⟨o⟩ giteu",
-      "marks": "Ittai"
+      "gloss": "o giteu"
     },
     {
       "surface": "וכל",
@@ -60,7 +57,7 @@
     },
     {
       "surface": "הטף",
-      "gloss": "⟨as⟩ crianças pequenas"
+      "gloss": "as crianças"
     },
     {
       "surface": "אשר",
@@ -68,20 +65,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨estavam⟩ com ele",
-      "marks": "todas as crianças pequenas"
+      "gloss": "com ele"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:26:41.300966014Z",
+  "model": "glm-5.2"
 }

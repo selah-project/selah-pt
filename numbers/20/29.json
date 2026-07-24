@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 29,
   "ref": "numbers 20:29",
   "book": "numbers",
-  "chapter": 20,
-  "verse": 29,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:31:44.398004407Z",
-  "translation": "E ⟨vendo⟩ toda ⟨a⟩ congregação que Aharon ⟨havia⟩ morrido, ⟨o⟩ povo inteiro de Yisrael chorou ⟨a⟩ Aharon por trinta dias—toda ⟨a⟩ casa de Yisrael.",
+  "chapter": 20,
+  "translation": "E viu toda a congregação que Aharon havia expirado, e choraram ⟨por⟩ ⟨את⟩ Aharon trinta dias, toda a casa de Yisrael.",
   "tokens": [
     {
       "surface": "ויראו",
-      "gloss": "E ⟨vendo⟩"
+      "gloss": "e viu"
     },
     {
       "surface": "כל",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "העדה",
-      "gloss": "⟨a⟩ congregação"
+      "gloss": "a congregação"
     },
     {
       "surface": "כי",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "גוע",
-      "gloss": "Aharon ⟨havia⟩ morrido"
+      "gloss": "havia expirado"
     },
     {
       "surface": "אהרן",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "ויבכו",
-      "gloss": "⟨o⟩ povo inteiro de Israel chorou"
+      "gloss": "e choraram"
     },
     {
       "surface": "את",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "שלשים",
-      "gloss": "por trinta"
+      "gloss": "trinta"
     },
     {
       "surface": "יום",
@@ -60,23 +58,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "⟨a⟩ casa"
+      "gloss": "a casa"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 13,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:57:16.931215729Z",
+  "model": "glm-5.2"
 }

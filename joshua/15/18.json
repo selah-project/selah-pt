@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "joshua 15:18",
   "book": "joshua",
-  "chapter": 15,
-  "verse": 18,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:40:26.345039755Z",
-  "translation": "E aconteceu que ⟨ela⟩ veio e ⟨o⟩ instigou a pedir de ⟨o⟩ pai dela ⟨um⟩ campo e ⟨ela⟩ desceu de ⟨a⟩ jumenta e disse-lhe Kalev: Que ⟨há⟩ para ti?",
+  "chapter": 15,
+  "translation": "E aconteceu, ao vir ela ⟨a ele⟩, ⟨que⟩ ela o instigou a pedir a seu pai um campo; e ela desceu do jumento, e Kalev lhe disse: Que ⟨há⟩ contigo?",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "E aconteceu que"
+      "gloss": "E aconteceu"
     },
     {
       "surface": "בבואה",
-      "gloss": "⟨ela⟩ veio"
+      "gloss": "ao vir ela"
     },
     {
       "surface": "ותסיתהו",
-      "gloss": "e ⟨o⟩ instigou"
+      "gloss": "ela o instigou"
     },
     {
       "surface": "לשאול",
@@ -27,28 +25,27 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de ⟨o⟩",
-      "marks": "⟨o⟩ pai dela"
+      "gloss": "de"
     },
     {
       "surface": "אביה",
-      "gloss": "pai dela"
+      "gloss": "seu pai"
     },
     {
       "surface": "שדה",
-      "gloss": "⟨um⟩ campo"
+      "gloss": "um campo"
     },
     {
       "surface": "ותצנח",
-      "gloss": "e ⟨ela⟩ desceu"
+      "gloss": "e ela desceu"
     },
     {
       "surface": "מעל",
-      "gloss": "de ⟨a⟩"
+      "gloss": "do"
     },
     {
       "surface": "החמור",
-      "gloss": "jumenta"
+      "gloss": "jumento"
     },
     {
       "surface": "ויאמר",
@@ -56,7 +53,7 @@
     },
     {
       "surface": "לה",
-      "gloss": "-lhe"
+      "gloss": "a ela"
     },
     {
       "surface": "כלב",
@@ -64,23 +61,13 @@
     },
     {
       "surface": "מה",
-      "gloss": "Que ⟨há⟩"
+      "gloss": "Que"
     },
     {
       "surface": "לך",
-      "gloss": "para ti"
+      "gloss": "contigo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Calebe",
-      "to": "Kalev",
-      "token-index": 12,
-      "strongs": 3612,
-      "hebrew": "כלב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:11:36.381154589Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "leviticus 7:2",
   "book": "leviticus",
-  "chapter": 7,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:38:07.892627624Z",
-  "translation": "No lugar onde matam ⟨a⟩ Olá, matarão ⟨o⟩ Asham, e ⟨את⟩ ⟨o⟩ seu sangue ele aspergirá sobre o altar, ao redor.",
+  "chapter": 7,
+  "translation": "No lugar onde abatem ⟨את⟩ ⟨a⟩ Olá, abaterão ⟨את⟩ ⟨o⟩ Asham; e ⟨את⟩ o seu sangue ele aspergirá sobre o altar, ao redor.",
   "tokens": [
     {
       "surface": "במקום",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "ישחטו",
-      "gloss": "matam"
+      "gloss": "abatem"
     },
     {
       "surface": "את",
@@ -28,11 +26,11 @@
     },
     {
       "surface": "העלה",
-      "gloss": "Olá"
+      "gloss": "a Olá"
     },
     {
       "surface": "ישחטו",
-      "gloss": "matarão"
+      "gloss": "abaterão"
     },
     {
       "surface": "את",
@@ -41,16 +39,15 @@
     },
     {
       "surface": "האשם",
-      "gloss": "Asham"
+      "gloss": "o Asham"
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨את⟩",
-      "marks": "o seu sangue"
+      "gloss": "e ⟨את⟩"
     },
     {
       "surface": "דמו",
-      "gloss": "seu sangue"
+      "gloss": "o seu sangue"
     },
     {
       "surface": "יזרק",
@@ -68,5 +65,7 @@
       "surface": "סביב",
       "gloss": "ao redor"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:47:42.030480713Z",
+  "model": "glm-5.2"
 }

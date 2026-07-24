@@ -1,47 +1,37 @@
 {
+  "tier": "glm-5.2",
+  "verse": 31,
   "ref": "psalms 105:31",
   "book": "psalms",
-  "chapter": 105,
-  "verse": 31,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:49:03.699902748Z",
-  "translation": "Ele ⟨disse⟩ e ⟨veio⟩ ⟨את⟩ insetos ⟨e⟩ piolhos em ⟨a⟩ fronteira ⟨deles⟩",
+  "chapter": 105,
+  "translation": "Ele falou, e vieram ⟨os⟩ enxames de insetos, ⟨e⟩ mosquitos em todo o seu território.",
   "tokens": [
     {
       "surface": "אמר",
-      "gloss": "Disse",
-      "rationale": "אמר - to say (used with great latitude)"
+      "gloss": "Ele falou"
     },
     {
       "surface": "ויבא",
-      "gloss": "e ⟨veio⟩",
-      "rationale": "ויבא - vav-consecutive imperfect of בוא (to come); requires 'e' in Portuguese sequence"
+      "gloss": "e vieram"
     },
     {
       "surface": "ערב",
-      "gloss": "insetos",
-      "rationale": "ערב - 'swarm' (here specifically mosquitoes\/flies); translated generically as 'insetos' to include gnats"
+      "gloss": "enxames de insetos"
     },
     {
       "surface": "כנים",
-      "gloss": "piolhos",
-      "rationale": "כנים - 'gnats' (small flying insects); 'piolhos' captures the infestation context"
+      "gloss": "mosquitos"
     },
     {
       "surface": "בכל",
-      "gloss": "em ⟨a⟩",
-      "rationale": "בכל - 'in all'; requires article in Portuguese"
+      "gloss": "em todo"
     },
     {
       "surface": "גבולם",
-      "gloss": "fronteira ⟨deles⟩",
-      "rationale": "גבולם - 'their border\/coast'; 'fronteira' with 'deles' clarifies possession"
+      "gloss": "o seu território"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:12:05.817457928Z",
+  "model": "glm-5.2"
 }

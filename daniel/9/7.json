@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "daniel 9:7",
   "book": "daniel",
-  "chapter": 9,
-  "verse": 7,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:58:26.146229693Z",
-  "translation": "A ti, ⟨את⟩ Adonai ⟨é⟩ a justiça, e a nós ⟨pertence⟩ a vergonha ⟨do⟩ rosto como ⟨neste⟩ dia, para ⟨o⟩ homem de Yehudá, e para ⟨os⟩ habitantes de Yerushalayim, e para todo Yisrael, ⟨os⟩ próximos e ⟨os⟩ distantes, em todas ⟨as⟩ terras ⟨para as quais⟩ os lançaste lá, em sua traição com que traíram contra ti.",
+  "chapter": 9,
+  "translation": "A ti, Adonai, ⟨pertence⟩ ⟨a⟩ justiça, e a nós ⟨pertence⟩ ⟨a⟩ vergonha das faces, como neste dia — ao homem de Yehudá e aos habitantes de Yerushalayim, e a todo Yisrael, ⟨tanto⟩ os próximos como os distantes, em todas as terras onde os dissipaste dali, na infidelidade deles com que agiram traiçoeiramente contra ti.",
   "tokens": [
     {
       "surface": "לך",
-      "gloss": "A ti"
+      "gloss": "a ti"
     },
     {
       "surface": "אדני",
@@ -27,16 +25,15 @@
     },
     {
       "surface": "בשת",
-      "gloss": "a vergonha"
+      "gloss": "vergonha"
     },
     {
       "surface": "הפנים",
-      "gloss": "⟨do⟩ rosto",
-      "marks": "a vergonha"
+      "gloss": "das faces"
     },
     {
       "surface": "כיום",
-      "gloss": "como ⟨neste⟩ dia"
+      "gloss": "como ⟨no⟩ dia"
     },
     {
       "surface": "הזה",
@@ -44,7 +41,7 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "para ⟨o⟩ homem"
+      "gloss": "ao homem"
     },
     {
       "surface": "יהודה",
@@ -52,7 +49,7 @@
     },
     {
       "surface": "וליושבי",
-      "gloss": "e para ⟨os⟩ habitantes"
+      "gloss": "e aos habitantes"
     },
     {
       "surface": "ירושלם",
@@ -60,7 +57,7 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "e para todo"
+      "gloss": "e a todo"
     },
     {
       "surface": "ישראל",
@@ -68,11 +65,11 @@
     },
     {
       "surface": "הקרבים",
-      "gloss": "⟨os⟩ próximos"
+      "gloss": "os próximos"
     },
     {
       "surface": "והרחקים",
-      "gloss": "e ⟨os⟩ distantes"
+      "gloss": "e os distantes"
     },
     {
       "surface": "בכל",
@@ -80,15 +77,15 @@
     },
     {
       "surface": "הארצות",
-      "gloss": "⟨as⟩ terras"
+      "gloss": "as terras"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨para as quais⟩"
+      "gloss": "que"
     },
     {
       "surface": "הדחתם",
-      "gloss": "os lançaste"
+      "gloss": "dissipaste"
     },
     {
       "surface": "שם",
@@ -96,45 +93,21 @@
     },
     {
       "surface": "במעלם",
-      "gloss": "em sua traição"
+      "gloss": "na infidelidade deles"
     },
     {
       "surface": "אשר",
-      "gloss": "com que"
+      "gloss": "que"
     },
     {
       "surface": "מעלו",
-      "gloss": "traíram"
+      "gloss": "agiram traiçoeiramente"
     },
     {
       "surface": "בך",
       "gloss": "contra ti"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 9,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    },
-    {
-      "from": "Jerusalém",
-      "to": "Yerushalayim",
-      "token-index": 11,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 13,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:24:11.775184761Z",
+  "model": "glm-5.2"
 }

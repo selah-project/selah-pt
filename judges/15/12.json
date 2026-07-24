@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "judges 15:12",
   "book": "judges",
-  "chapter": 15,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:05:59.757590952Z",
-  "translation": "E disseram-lhe: Descemos ⟨para⟩ ⟨te⟩ ligar, para ⟨te⟩ entregar ⟨את⟩ na mão ⟨dos⟩ filisteus. E disse-lhes Shimshon: Jurem ⟨a⟩ mim, ⟨para⟩ que não caiam ⟨sobre⟩ mim, vocês mesmos.",
+  "chapter": 15,
+  "translation": "E disseram-lhe: «Para te amarrar descemos, para te entregar na mão dos Pelishtim.» E disse-lhes Shimshon: «Jurai-me, para que não ⟨vós⟩ me ataqueis.»",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "E disseram-lhe"
+      "gloss": "E disseram"
     },
     {
       "surface": "לו",
-      "gloss": "⟨a⟩"
+      "gloss": "a ele"
     },
     {
       "surface": "לאסרך",
-      "gloss": "⟨para⟩ ⟨te⟩ ligar"
+      "gloss": "Para te amarrar"
     },
     {
       "surface": "ירדנו",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "לתתך",
-      "gloss": "para ⟨te⟩ entregar"
+      "gloss": "para te entregar"
     },
     {
       "surface": "ביד",
@@ -35,15 +33,15 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "⟨dos⟩ filisteus"
+      "gloss": "dos Pelishtim"
     },
     {
-      "surface": "ואמר",
+      "surface": "ויאמר",
       "gloss": "E disse"
     },
     {
       "surface": "להם",
-      "gloss": "⟨a⟩ eles"
+      "gloss": "a eles"
     },
     {
       "surface": "שמשון",
@@ -51,39 +49,29 @@
     },
     {
       "surface": "השבעו",
-      "gloss": "Jurem"
+      "gloss": "Jurai"
     },
     {
       "surface": "לי",
-      "gloss": "⟨a⟩ mim"
+      "gloss": "para mim"
     },
     {
       "surface": "פן",
-      "gloss": "⟨para⟩ que"
+      "gloss": "para que não"
     },
     {
       "surface": "תפגעון",
-      "gloss": "não caiam"
+      "gloss": "ataqueis"
     },
     {
       "surface": "בי",
-      "gloss": "⟨sobre⟩ mim"
+      "gloss": "contra mim"
     },
     {
       "surface": "אתם",
-      "gloss": "vocês mesmos"
+      "gloss": "⟨vós⟩"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Sansão",
-      "to": "Shimshon",
-      "token-index": 9,
-      "strongs": 8123,
-      "hebrew": "שמשון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:16:51.701498107Z",
+  "model": "glm-5.2"
 }

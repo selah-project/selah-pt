@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "joshua 11:14",
   "book": "joshua",
-  "chapter": 11,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:11:55.034991994Z",
-  "translation": "E todo o despojo destas cidades e o gado, ⟨os⟩ filhos de Yisrael saquearam para si; somente ⟨a⟩ todo o homem feriram ⟨à⟩ boca de espada, até o destruí-los, ⟨את⟩; não deixaram quem quer que respirasse.",
+  "chapter": 11,
+  "translation": "E todo o despojo destas cidades e o gado, saquearam para si os filhos de Yisrael; apenas ⟨את⟩ toda a humanidade feriram ao fio da espada, até os terem aniquilado — não deixaram ⟨את⟩ ninguém ⟨com⟩ fôlego.",
   "tokens": [
     {
       "surface": "וכל",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "האלה",
-      "gloss": ""
+      "gloss": "estas"
     },
     {
       "surface": "והבהמה",
@@ -39,28 +37,28 @@
     },
     {
       "surface": "בני",
-      "gloss": "⟨os⟩ filhos"
+      "gloss": "os filhos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "רק",
-      "gloss": "somente"
+      "gloss": "apenas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todo o homem"
+      "marks": "toda a humanidade"
     },
     {
       "surface": "כל",
-      "gloss": "todo"
+      "gloss": "toda"
     },
     {
       "surface": "האדם",
-      "gloss": "o homem"
+      "gloss": "a humanidade"
     },
     {
       "surface": "הכו",
@@ -68,11 +66,11 @@
     },
     {
       "surface": "לפי",
-      "gloss": "⟨à⟩ boca"
+      "gloss": "ao fio"
     },
     {
       "surface": "חרב",
-      "gloss": "de espada"
+      "gloss": "da espada"
     },
     {
       "surface": "עד",
@@ -80,12 +78,12 @@
     },
     {
       "surface": "השמדם",
-      "gloss": "o destruí-los"
+      "gloss": "os terem aniquilado"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "não"
+      "gloss": "⟨את⟩ eles",
+      "marks": "a cláusula de aniquilação (ao tê-los destruído)"
     },
     {
       "surface": "לא",
@@ -97,11 +95,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "quem quer que"
+      "gloss": "qualquer um"
     },
     {
       "surface": "נשמה",
-      "gloss": "respirasse"
+      "gloss": "fôlego"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:11:15.037109812Z",
+  "model": "glm-5.2"
 }

@@ -1,67 +1,54 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "psalms 12:3",
   "book": "psalms",
-  "chapter": 12,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T09:46:58.404662029Z",
-  "translation": "Eles falam ⟨com⟩ ⟨vaidade⟩, um homem ⟨com⟩ ⟨o⟩ seu próximo ⟨com⟩ lábios lisonjeiros ⟨e⟩ ⟨com⟩ um coração duplo falam.",
+  "chapter": 12,
+  "translation": "Vaidade falam, cada um ⟨a⟩ ⟨o seu⟩ próximo: lábio ⟨de⟩ lisura ⟨e⟩ coração ⟨duplo⟩ — ⟨eles⟩ falam.",
   "tokens": [
     {
       "surface": "שוא",
-      "gloss": "⟨Com⟩ ⟨vaidade⟩",
-      "rationale": "Conceito hebraico que engloba ruína, mal moral e palavras vazias; traduzido com duas palavras para capturar a amplitude."
+      "gloss": "Vaidade"
     },
     {
-      "surface": "ידברו",
-      "gloss": "Eles falam",
-      "rationale": "3ª pessoa plural masculino, 'falam'."
+      "surface": "יְדַבְּרוּ",
+      "gloss": "falam"
     },
     {
-      "surface": "איש",
-      "gloss": "um homem",
-      "rationale": "Indivíduo, ser humano masculino; aqui no sentido de 'cada um' ou 'qualquer um'."
+      "surface": "אִישׁ",
+      "gloss": "cada um"
     },
     {
-      "surface": "את",
-      "gloss": "⟨com⟩ ⟨o⟩",
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
       "marks": "o seu próximo"
     },
     {
-      "surface": "רעהו",
-      "gloss": "o seu próximo",
-      "rationale": "Associado, companheiro, vizinho; 'seu' indica posse (3ª masc. sing.)."
+      "surface": "רֵעֵהוּ",
+      "gloss": "próximo"
     },
     {
-      "surface": "שפת",
-      "gloss": "lábios",
-      "rationale": "Lit. 'lábio'; por metonímia, a linguagem ou o que é falado."
+      "surface": "שְׂפַת",
+      "gloss": "lábio"
     },
     {
-      "surface": "חלקות",
-      "gloss": "lisonjeiros",
-      "rationale": "Literalmente 'lisuras', 'suavidades'; figurativamente, lisonjas, bajulações."
+      "surface": "חֲלָקוֹת",
+      "gloss": "lisura"
     },
     {
-      "surface": "בלב",
-      "gloss": "⟨com⟩ ⟨um⟩",
-      "rationale": "Preposição 'em\/com' + 'coração'; o artigo 'um' é acrescentado em português."
+      "surface": "בְּלֵב",
+      "gloss": "coração"
     },
     {
-      "surface": "ולב",
-      "gloss": "coração duplo",
-      "rationale": "'e' + 'coração'; 'duplo' traduz a ideia implícita de dois corações ou hipocrisia."
+      "surface": "וָלֵב",
+      "gloss": "e coração"
     },
     {
-      "surface": "ידברו",
-      "gloss": "falam",
-      "rationale": "Repetição do verbo 'falar' para ênfase e para completar a frase."
+      "surface": "יְדַבֵּרוּ",
+      "gloss": "falam"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:08:43.222604787Z",
+  "model": "glm-5.2"
 }

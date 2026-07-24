@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "2-samuel 18:12",
   "book": "2-samuel",
-  "chapter": 18,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:56:49.714466782Z",
-  "translation": "E disse o homem a Yoav: Ainda que eu estivesse pesando na minha palma da mão mil ⟨de⟩ prata, não estenderia a minha mão contra o filho do rei; pois em nossos ouvidos ordenou o rei acerca de ti e ⟨את⟩ Avishai e ⟨את⟩ Ittai, dizendo: Guardai ⟨quem está⟩ no jovem, em Avshalom.",
+  "chapter": 18,
+  "translation": "E o homem disse a Yoav: Mesmo que eu pesasse nas minhas mãos mil ⟨de prata⟩, não estenderia a minha mão contra o filho do rei; pois aos nossos ouvidos o rei ordenou ⟨a⟩ ⟨את⟩ ti, e ⟨את⟩ Avishay, e ⟨את⟩ Itay, dizendo: Guardai, quem quer que ⟨seja⟩, ⟨o⟩ jovem — a Avshalom.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -27,15 +25,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "Ainda que"
+      "gloss": "mesmo que não"
     },
     {
       "surface": "אנכי",
-      "gloss": "eu estivesse"
+      "gloss": "eu"
     },
     {
       "surface": "שקל",
-      "gloss": "pesando"
+      "gloss": "pesasse"
     },
     {
       "surface": "על",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "כפי",
-      "gloss": "a palma da mão"
+      "gloss": "as minhas mãos"
     },
     {
       "surface": "אלף",
@@ -51,7 +49,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "⟨de⟩ prata"
+      "gloss": "⟨de prata⟩"
     },
     {
       "surface": "לא",
@@ -83,7 +81,7 @@
     },
     {
       "surface": "באזנינו",
-      "gloss": "em nossos ouvidos"
+      "gloss": "aos nossos ouvidos"
     },
     {
       "surface": "צוה",
@@ -95,25 +93,26 @@
     },
     {
       "surface": "אתך",
-      "gloss": "acerca de ti"
+      "gloss": "⟨את⟩",
+      "marks": "ti"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Avishai"
+      "gloss": "e ⟨את⟩",
+      "marks": "Avishay"
     },
     {
       "surface": "אבישי",
-      "gloss": "Avishai"
+      "gloss": "Avishay"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Ittai"
+      "gloss": "e ⟨את⟩",
+      "marks": "Itay"
     },
     {
       "surface": "אתי",
-      "gloss": "Ittai"
+      "gloss": "Itay"
     },
     {
       "surface": "לאמר",
@@ -125,15 +124,17 @@
     },
     {
       "surface": "מי",
-      "gloss": "⟨quem está⟩"
+      "gloss": "quem quer que"
     },
     {
       "surface": "בנער",
-      "gloss": "no jovem"
+      "gloss": "⟨o⟩ jovem"
     },
     {
       "surface": "באבשלום",
-      "gloss": "em Avshalom"
+      "gloss": "a Avshalom"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:39:29.211058611Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "judges 16:12",
   "book": "judges",
-  "chapter": 16,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:06:32.309094481Z",
-  "translation": "E Delilá tomou cordas ⟨את⟩novas e o amarrou com ⟨את⟩elas e disse ⟨a⟩ ele: 'Os filisteus ⟨são⟩ sobre ⟨o⟩ ti, Shimshon!' e ⟨o⟩ emboscado sentava-se ⟨na⟩ sala e ⟨os⟩ quebrou de ⟨sobre⟩ ⟨seus⟩ braços como ⟨um⟩ fio.",
+  "chapter": 16,
+  "translation": "E Delilá tomou cordas novas e o amarrou com elas, e disse a ele: ⟨Os⟩ Pelishtim ⟨estão⟩ sobre ti, Shimshon — e a emboscada estava sentada no quarto — e ele os arrancou de sobre seus braços como ⟨um⟩ fio.",
   "tokens": [
     {
       "surface": "ותקח",
-      "gloss": "E tomou"
+      "gloss": "e tomou"
     },
     {
       "surface": "דלילה",
@@ -19,8 +17,7 @@
     },
     {
       "surface": "עבתים",
-      "gloss": "cordas",
-      "marks": "novas"
+      "gloss": "cordas"
     },
     {
       "surface": "חדשים",
@@ -44,7 +41,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Os filisteus"
+      "gloss": "Pelishtim"
     },
     {
       "surface": "עליך",
@@ -56,19 +53,19 @@
     },
     {
       "surface": "והארב",
-      "gloss": "e o emboscado"
+      "gloss": "e a emboscada"
     },
     {
       "surface": "ישב",
-      "gloss": "sentava-se"
+      "gloss": "estava sentada"
     },
     {
       "surface": "בחדר",
-      "gloss": "na sala"
+      "gloss": "no quarto"
     },
     {
       "surface": "וינתקם",
-      "gloss": "e os quebrou"
+      "gloss": "e ele os arrancou"
     },
     {
       "surface": "מעל",
@@ -83,16 +80,6 @@
       "gloss": "como fio"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Sansão",
-      "to": "Shimshon",
-      "token-index": 10,
-      "strongs": 8123,
-      "hebrew": "שמשון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:17:03.456073697Z",
+  "model": "glm-5.2"
 }

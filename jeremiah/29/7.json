@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "jeremiah 29:7",
   "book": "jeremiah",
-  "chapter": 29,
-  "verse": 7,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T15:34:45.558656307Z",
-  "translation": "E buscai o shalom da cidade à qual ⟨את⟩ fiz vos serdes levados para lá, e orai por ela para YHWH, pois no shalom dela haverá shalom para vós.",
+  "chapter": 29,
+  "translation": "E buscai o shalom da cidade para a qual exilei ⟨את⟩ vocês para lá, e orai por ela a YHWH; porque no shalom dela haverá para vocês shalom.",
   "tokens": [
     {
       "surface": "ודרשו",
@@ -16,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o shalom da cidade"
+      "marks": "o shalom"
     },
     {
       "surface": "שלום",
@@ -28,20 +26,20 @@
     },
     {
       "surface": "אשר",
-      "gloss": "à qual"
+      "gloss": "para a qual"
     },
     {
       "surface": "הגליתי",
-      "gloss": "fiz vos serdes levados para lá"
+      "gloss": "exilei"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "vós"
+      "gloss": "⟨את⟩ vocês",
+      "marks": "para lá"
     },
     {
       "surface": "שמה",
-      "gloss": ""
+      "gloss": "para lá"
     },
     {
       "surface": "והתפללו",
@@ -53,7 +51,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "para"
+      "gloss": "a"
     },
     {
       "surface": "יהוה",
@@ -61,7 +59,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "בשלומה",
@@ -73,11 +71,13 @@
     },
     {
       "surface": "לכם",
-      "gloss": "para vós"
+      "gloss": "para vocês"
     },
     {
       "surface": "שלום",
       "gloss": "shalom"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:50:55.288429160Z",
+  "model": "glm-5.2"
 }

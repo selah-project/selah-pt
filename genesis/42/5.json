@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "genesis 42:5",
   "book": "genesis",
-  "chapter": 42,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:25:26.705981922Z",
-  "translation": "E vieram os filhos de ⟨Yisrael⟩ para comprar ⟨את⟩ no meio ⟨dos que⟩ estavam entrando, porque ⟨a⟩ fome ⟨estava⟩ na terra de Kenaan",
+  "chapter": 42,
+  "translation": "E os filhos de Yisrael vieram para comprar cereal ⟨no⟩ meio dos que vinham, pois ⟨havia⟩ fome na terra de Kenaan.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "E vieram"
+      "gloss": "e vieram"
     },
     {
       "surface": "בני",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "לשבר",
-      "gloss": "para comprar"
+      "gloss": "para comprar cereal"
     },
     {
       "surface": "בתוך",
@@ -31,15 +29,15 @@
     },
     {
       "surface": "הבאים",
-      "gloss": "⟨os que⟩ estavam entrando"
+      "gloss": "os que vinham"
     },
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "pois"
     },
     {
       "surface": "היה",
-      "gloss": "⟨a⟩ fome ⟨estava⟩"
+      "gloss": "havia"
     },
     {
       "surface": "הרעב",
@@ -47,30 +45,13 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "na terra de"
+      "gloss": "na terra"
     },
     {
       "surface": "כנען",
-      "gloss": "Kenaan"
+      "gloss": "de Kenaan"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Canaã",
-      "to": "Kenaan",
-      "token-index": 10,
-      "strongs": 3667,
-      "hebrew": "כנען"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:35:47.917045158Z",
+  "model": "glm-5.2"
 }

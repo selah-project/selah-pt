@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 63,
   "ref": "deuteronomy 28:63",
   "book": "deuteronomy",
-  "chapter": 28,
-  "verse": 63,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:30:20.091617631Z",
-  "translation": "E acontecerá que, assim como YHWH se alegrou sobre vós ⟨para⟩ fazer ⟨o⟩ bem ⟨a⟩ vós, e ⟨para⟩ multiplicar ⟨a⟩ vós, assim YHWH se alegrará sobre vós ⟨para⟩ fazer ⟨a⟩ vós perecer, e ⟨para⟩ destruir ⟨a⟩ vós, e sereis arrancados ⟨de⟩ sobre ⟨a⟩ terra ⟨à qual⟩ tu vens ⟨lá⟩ para possuí-la",
+  "chapter": 28,
+  "translation": "E acontecerá que, assim como YHWH se regozijou sobre vós para vos fazer o bem e para vos multiplicar, assim YHWH se regozijará sobre vós para vos arruinar e para vos destruir; e sereis arrancados de sobre a terra à qual tu vens para a possuir.",
   "tokens": [
     {
       "surface": "והיה",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "que, assim como"
+      "gloss": "assim como"
     },
     {
       "surface": "שש",
-      "gloss": "YHWH se alegrou"
+      "gloss": "se regozijou"
     },
     {
       "surface": "יהוה",
@@ -31,21 +29,21 @@
     },
     {
       "surface": "להיטיב",
-      "gloss": "⟨para⟩ fazer ⟨o⟩ bem"
+      "gloss": "para fazer o bem"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "para fazer o bem a vós"
+      "marks": "vos (fazer o bem)"
     },
     {
       "surface": "ולהרבות",
-      "gloss": "e ⟨para⟩ multiplicar"
+      "gloss": "e para multiplicar"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "para multiplicar a vós"
+      "marks": "vos (multiplicar)"
     },
     {
       "surface": "כן",
@@ -53,7 +51,7 @@
     },
     {
       "surface": "ישיש",
-      "gloss": "YHWH se alegrará"
+      "gloss": "se regozijará"
     },
     {
       "surface": "יהוה",
@@ -65,21 +63,21 @@
     },
     {
       "surface": "להאביד",
-      "gloss": "⟨para⟩ fazer ⟨a⟩ vós perecer"
+      "gloss": "para arruinar"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "para fazer a vós perecer"
+      "marks": "vos (arruinar)"
     },
     {
       "surface": "ולהשמיד",
-      "gloss": "e ⟨para⟩ destruir"
+      "gloss": "e para destruir"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "para destruir a vós"
+      "marks": "vos (destruir)"
     },
     {
       "surface": "ונסחתם",
@@ -87,19 +85,19 @@
     },
     {
       "surface": "מעל",
-      "gloss": "⟨de⟩ sobre"
+      "gloss": "de sobre"
     },
     {
       "surface": "האדמה",
-      "gloss": "⟨a⟩ terra"
+      "gloss": "a terra"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨à qual⟩"
+      "gloss": "que"
     },
     {
       "surface": "אתה",
-      "gloss": "tu vens"
+      "gloss": "tu"
     },
     {
       "surface": "בא",
@@ -107,11 +105,13 @@
     },
     {
       "surface": "שמה",
-      "gloss": "⟨lá⟩"
+      "gloss": "para lá"
     },
     {
       "surface": "לרשתה",
       "gloss": "para possuí-la"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:06:05.619155410Z",
+  "model": "glm-5.2"
 }

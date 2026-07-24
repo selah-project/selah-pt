@@ -1,46 +1,44 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "isaiah 66:20",
   "book": "isaiah",
-  "chapter": 66,
-  "verse": 20,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:03:24.511092640Z",
-  "translation": "E eles trarão ⟨um⟩ de seus irmãos de todas ⟨as⟩ nações ⟨como⟩ oferta ⟨para⟩ HaShem, em cavalos e em carros e em liteiras e em mulas e em dromedários, ao meu monte santo Yerushalayim, diz HaShem, ⟨assim como⟩ os filhos de Yisrael trazem ⟨a⟩ oferta ⟨em⟩ vaso limpo ⟨para⟩ ⟨a⟩ casa de HaShem.",
+  "chapter": 66,
+  "translation": "E trarão ⟨את⟩ todos ⟨os⟩ vossos irmãos de todos ⟨os⟩ povos ⟨como⟩ oferenda a YHWH, em cavalos e em carruagens e em liteiras e em mulas e em carroças velozes, ao meu monte santo, ⟨a⟩ Yerushalayim, disse YHWH, assim como ⟨os⟩ filhos de Yisrael trazem ⟨את⟩ a oferenda em vaso puro ⟨à⟩ Casa de YHWH.",
   "tokens": [
     {
       "surface": "והביאו",
-      "gloss": "E eles trarão"
+      "gloss": "e trarão"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "de seus irmãos"
+      "marks": "todos (os vossos irmãos)"
     },
     {
       "surface": "כל",
-      "gloss": "todas ⟨as⟩"
+      "gloss": "todos"
     },
     {
       "surface": "אחיכם",
-      "gloss": "de seus irmãos"
+      "gloss": "vossos irmãos"
     },
     {
       "surface": "מכל",
-      "gloss": "de"
+      "gloss": "de todos"
     },
     {
       "surface": "הגוים",
-      "gloss": "nações"
+      "gloss": "os povos"
     },
     {
       "surface": "מנחה",
-      "gloss": "⟨como⟩ oferta"
+      "gloss": "oferenda"
     },
     {
       "surface": "ליהוה",
-      "gloss": "⟨para⟩ YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "בסוסים",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "וברכב",
-      "gloss": "e em carros"
+      "gloss": "e em carruagens"
     },
     {
       "surface": "ובצבים",
@@ -60,11 +58,11 @@
     },
     {
       "surface": "ובכרכרות",
-      "gloss": "e em dromedários"
+      "gloss": "e em carroças velozes"
     },
     {
       "surface": "על",
-      "gloss": "ao"
+      "gloss": "a"
     },
     {
       "surface": "הר",
@@ -72,7 +70,7 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "santo"
+      "gloss": "meu santo"
     },
     {
       "surface": "ירושלם",
@@ -80,7 +78,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "diz"
+      "gloss": "disse"
     },
     {
       "surface": "יהוה",
@@ -88,7 +86,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "⟨assim como⟩"
+      "gloss": "assim como"
     },
     {
       "surface": "יביאו",
@@ -96,55 +94,38 @@
     },
     {
       "surface": "בני",
-      "gloss": "os filhos"
+      "gloss": "os filhos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oferta"
+      "marks": "a oferenda"
     },
     {
       "surface": "המנחה",
-      "gloss": "oferta"
+      "gloss": "a oferenda"
     },
     {
       "surface": "בכלי",
-      "gloss": "⟨em⟩ vaso"
+      "gloss": "em vaso"
     },
     {
       "surface": "טהור",
-      "gloss": "limpo"
+      "gloss": "puro"
     },
     {
       "surface": "בית",
-      "gloss": "⟨para⟩ ⟨a⟩ casa"
+      "gloss": "Casa"
     },
     {
       "surface": "יהוה",
       "gloss": "de YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jerusalém",
-      "to": "Yerushalayim",
-      "token-index": 16,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 22,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:45:46.466224178Z",
+  "model": "glm-5.2"
 }

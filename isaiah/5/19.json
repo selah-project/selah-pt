@@ -1,30 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "isaiah 5:19",
   "book": "isaiah",
-  "chapter": 5,
-  "verse": 19,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:16:41.836082299Z",
-  "translation": "Que dizem: ⟨Ele⟩ se apresse, ⟨Ele⟩ se apresse ⟨em⟩ sua obra, para que vejamos ⟨את⟩; e ⟨o⟩ plano ⟨do⟩ Santo de Yisrael se aproxime e venha, para que o conheçamos",
+  "chapter": 5,
+  "translation": "Os que dizem: \"Que ⟨Ele⟩ apresse, que ⟨Ele⟩ agilize ⟨a⟩ sua obra, para que ⟨a⟩ vejamos! E que se aproxime e venha ⟨a⟩ orientação do Santo de Yisrael, para que ⟨a⟩ conheçamos!\"",
   "tokens": [
     {
       "surface": "האמרים",
-      "gloss": "Que dizem"
+      "gloss": "Os que dizem"
     },
     {
       "surface": "ימהר",
-      "gloss": "⟨Ele⟩ se apresse"
+      "gloss": "Que ⟨Ele⟩ apresse"
     },
     {
       "surface": "יחישה",
-      "gloss": "⟨Ele⟩ se apresse"
+      "gloss": "que ⟨Ele⟩ agilize"
     },
     {
       "surface": "מעשהו",
-      "gloss": "⟨em⟩ sua obra",
-      "marks": "sua obra"
+      "gloss": "⟨a⟩ sua obra"
     },
     {
       "surface": "למען",
@@ -32,25 +29,23 @@
     },
     {
       "surface": "נראה",
-      "gloss": "vejamos"
+      "gloss": "⟨a⟩ vejamos"
     },
     {
       "surface": "ותקרב",
-      "gloss": "e ⟨o⟩ plano",
-      "marks": "plano"
+      "gloss": "E que se aproxime"
     },
     {
       "surface": "ותבואה",
-      "gloss": "se aproxime e venha"
+      "gloss": "e venha"
     },
     {
       "surface": "עצת",
-      "gloss": "⟨do⟩",
-      "marks": "plano"
+      "gloss": "⟨a⟩ orientação de"
     },
     {
       "surface": "קדוש",
-      "gloss": "Santo"
+      "gloss": "o Santo"
     },
     {
       "surface": "ישראל",
@@ -58,19 +53,9 @@
     },
     {
       "surface": "ונדעה",
-      "gloss": "para que o conheçamos"
+      "gloss": "para que ⟨a⟩ conheçamos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 10,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:41:10.988115614Z",
+  "model": "glm-5.2"
 }

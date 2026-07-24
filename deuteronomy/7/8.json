@@ -1,123 +1,104 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "deuteronomy 7:8",
   "book": "deuteronomy",
-  "chapter": 7,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:58:18.664375564Z",
-  "translation": "Porque ⟨por⟩ amor de HaShem ⟨a⟩ vós, e por guardar ⟨o⟩ juramento que jurou ⟨a⟩ vossos pais, tirou HaShem ⟨a⟩ vós com mão forte e vos resgatou da casa de escravos, da mão de Paró, rei do Mitzráyim",
+  "chapter": 7,
+  "translation": "Porque do amor de YHWH ⟨por⟩ vós, e de ⟨ele⟩ guardar ⟨את⟩ o juramento que jurou aos vossos pais, YHWH vos tirou ⟨את⟩ ⟨por⟩ mão forte, e vos resgatou da casa de servos, da mão de Paró, rei de Mitzráyim.",
   "tokens": [
     {
-      "surface": "כי",
+      "surface": "כִּי",
       "gloss": "Porque"
     },
     {
-      "surface": "מאהבת",
-      "gloss": "⟨por⟩ amor de"
+      "surface": "מֵֽאַהֲבַ֨ת",
+      "gloss": "do amor de"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֜ה",
       "gloss": "YHWH"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨a⟩ vós",
-      "marks": "ומשמרו"
-    },
-    {
-      "surface": "ומשמרו",
-      "gloss": "e por guardar"
-    },
-    {
-      "surface": "את",
+      "surface": "אֶתְכֶ֗ם",
       "gloss": "⟨את⟩",
-      "marks": "השבעה"
+      "marks": "vos (objeto do amor e do tirar)"
     },
     {
-      "surface": "השבעה",
-      "gloss": "juramento"
+      "surface": "וּמִשָּׁמְר֤וּ",
+      "gloss": "e de ⟨ele⟩ guardar"
     },
     {
-      "surface": "אשר",
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "o juramento"
+    },
+    {
+      "surface": "הַשְּׁבֻעָה֙",
+      "gloss": "o juramento"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
       "gloss": "que"
     },
     {
-      "surface": "נשבע",
+      "surface": "נִשְׁבַּע֙",
       "gloss": "jurou"
     },
     {
-      "surface": "לאבתיכם",
-      "gloss": "⟨a⟩ vossos pais"
+      "surface": "לַאֲבֹ֣תֵיכֶ֔ם",
+      "gloss": "aos vossos pais"
     },
     {
-      "surface": "הוציא",
+      "surface": "הוֹצִ֧יא",
       "gloss": "tirou"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֛ה",
       "gloss": "YHWH"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨a⟩ vós",
-      "marks": "ביד"
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "vos (objeto de tirar)"
     },
     {
-      "surface": "ביד",
-      "gloss": "com mão"
+      "surface": "בְּיָ֣ד",
+      "gloss": "⟨por⟩ mão"
     },
     {
-      "surface": "חזקה",
+      "surface": "חֲזָקָ֑ה",
       "gloss": "forte"
     },
     {
-      "surface": "ו�יפדך",
+      "surface": "וַֽיִּפְדְּךָ֙",
       "gloss": "e vos resgatou"
     },
     {
-      "surface": "מבית",
-      "gloss": "da casa"
+      "surface": "מִבֵּ֣ית",
+      "gloss": "da casa de"
     },
     {
-      "surface": "עבדים",
-      "gloss": "de escravos"
+      "surface": "עֲבָדִ֔ים",
+      "gloss": "servos"
     },
     {
-      "surface": "מיד",
-      "gloss": "da mão"
+      "surface": "מִיַּ֖ד",
+      "gloss": "da mão de"
     },
     {
-      "surface": "פרעה",
-      "gloss": "de Paró"
+      "surface": "פַּרְעֹ֥ה",
+      "gloss": "Paró"
     },
     {
-      "surface": "מלך",
-      "gloss": "rei"
+      "surface": "מֶֽלֶךְ",
+      "gloss": "rei de"
     },
     {
-      "surface": "מצרים",
-      "gloss": "do Mitzráyim"
+      "surface": "מִצְרָֽיִם",
+      "gloss": "Mitzráyim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Faraó",
-      "to": "Paró",
-      "token-index": 19,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    },
-    {
-      "from": "Egito",
-      "to": "Mitzráyim",
-      "token-index": 21,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:02:16.062409987Z",
+  "model": "glm-5.2"
 }

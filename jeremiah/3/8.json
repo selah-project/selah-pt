@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "jeremiah 3:8",
   "book": "jeremiah",
-  "chapter": 3,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:06:21.857643529Z",
-  "translation": "E eu vi que por todos ⟨os⟩ tropeços em que Yisrael apóstata cometeu adultério, eu ⟨a⟩ expulsei e dei ⟨a⟩ ela ⟨um⟩ documento de divórcio dela, e ⟨a⟩ traidora Yehudá sua irmã não temeu e ⟨se⟩ foi e ⟨se⟩ prostituiu também ela.",
+  "chapter": 3,
+  "translation": "E vi que, por todas as causas pelas quais a apóstata Yisrael cometeu adultério, ⟨eu⟩ a despedi e ⟨eu⟩ dei a ela ⟨את⟩ o documento do seu divórcio; mas não temeu a pérfida Yehudá, irmã dela, e se foi e se prostituiu também ela.",
   "tokens": [
     {
       "surface": "וארא",
-      "gloss": "E eu vi"
+      "gloss": "E vi"
     },
     {
       "surface": "כי",
@@ -23,23 +21,23 @@
     },
     {
       "surface": "כל",
-      "gloss": "todos"
+      "gloss": "todas as"
     },
     {
       "surface": "אדות",
-      "gloss": "⟨os⟩ tropeços"
+      "gloss": "causas"
     },
     {
       "surface": "אשר",
-      "gloss": "em que"
+      "gloss": "pelas quais"
     },
     {
       "surface": "נאפה",
-      "gloss": "apóstata"
+      "gloss": "cometeu adultério"
     },
     {
       "surface": "משבה",
-      "gloss": "cometeu adultério"
+      "gloss": "a apóstata"
     },
     {
       "surface": "ישראל",
@@ -47,32 +45,32 @@
     },
     {
       "surface": "שלחתיה",
-      "gloss": "eu ⟨a⟩ expulsei"
+      "gloss": "⟨eu⟩ a despedi"
     },
     {
       "surface": "ואתן",
-      "gloss": "e dei"
+      "gloss": "e ⟨eu⟩ dei"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ספר כריתתיה"
+      "marks": "o documento do seu divórcio"
     },
     {
       "surface": "ספר",
-      "gloss": "⟨um⟩ documento"
+      "gloss": "o documento"
     },
     {
       "surface": "כריתתיה",
-      "gloss": "de divórcio dela"
+      "gloss": "do seu divórcio"
     },
     {
       "surface": "אליה",
-      "gloss": "⟨a⟩ ela"
+      "gloss": "a ela"
     },
     {
       "surface": "ולא",
-      "gloss": "e não"
+      "gloss": "mas não"
     },
     {
       "surface": "יראה",
@@ -80,7 +78,7 @@
     },
     {
       "surface": "בגדה",
-      "gloss": "⟨a⟩ traidora"
+      "gloss": "a pérfida"
     },
     {
       "surface": "יהודה",
@@ -88,15 +86,15 @@
     },
     {
       "surface": "אחותה",
-      "gloss": "sua irmã"
+      "gloss": "irmã dela"
     },
     {
       "surface": "ותלך",
-      "gloss": "e ⟨se⟩ foi"
+      "gloss": "e se foi"
     },
     {
       "surface": "ותזן",
-      "gloss": "e ⟨se⟩ prostituiu"
+      "gloss": "e se prostituiu"
     },
     {
       "surface": "גם",
@@ -107,23 +105,6 @@
       "gloss": "ela"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 8,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 18,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:46:11.140251529Z",
+  "model": "glm-5.2"
 }

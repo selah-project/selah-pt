@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 32,
   "ref": "genesis 42:32",
   "book": "genesis",
-  "chapter": 42,
-  "verse": 32,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T15:01:09.244892225Z",
-  "translation": "Nós somos doze irmãos, filhos de nosso pai; um não ⟨está⟩, e o menor hoje ⟨está⟩ com nosso pai na terra de Kenaan.",
+  "chapter": 42,
+  "translation": "Somos doze irmãos, filhos do nosso pai; um já não ⟨está⟩, e o caçula está hoje ⟨junto⟩ com ⟨את⟩ nosso pai na terra de Kenaan.",
   "tokens": [
     {
       "surface": "שנים",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "(parte de doze)"
     },
     {
       "surface": "אנחנו",
-      "gloss": "Nós somos"
+      "gloss": "somos \/ nós"
     },
     {
       "surface": "אחים",
@@ -31,19 +29,19 @@
     },
     {
       "surface": "אבינו",
-      "gloss": "de nosso pai"
+      "gloss": "do nosso pai"
     },
     {
       "surface": "האחד",
-      "gloss": "um"
+      "gloss": "o um"
     },
     {
       "surface": "איננו",
-      "gloss": "não ⟨está⟩"
+      "gloss": "já não está \/ não existe"
     },
     {
       "surface": "והקטן",
-      "gloss": "e o menor"
+      "gloss": "e o caçula"
     },
     {
       "surface": "היום",
@@ -52,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "com nosso pai"
+      "marks": "nosso pai"
     },
     {
       "surface": "אבינו",
@@ -66,5 +64,7 @@
       "surface": "כנען",
       "gloss": "de Kenaan"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:36:09.828642471Z",
+  "model": "glm-5.2"
 }

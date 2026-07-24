@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "judges 1:4",
   "book": "judges",
-  "chapter": 1,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:50:58.980645011Z",
-  "translation": "E subiu Yehudá e HaShem entregou ⟨את⟩ o cananeu e ⟨את⟩ o perizeu em suas mãos e os feriram em Bezeque dez mil homens",
+  "chapter": 1,
+  "translation": "E Yehudá subiu, e YHWH entregou ⟨את⟩ o kenaanita e o perizeu na mão deles; e os feriram em Bezek, dez mil homens.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -28,19 +26,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o cananeu"
+      "marks": "o kenaanita"
     },
     {
       "surface": "הכנעני",
-      "gloss": "o cananeu"
+      "gloss": "o kenaanita"
     },
     {
       "surface": "והפרזי",
-      "gloss": "e ⟨o⟩ perizeu"
+      "gloss": "e o perizeu"
     },
     {
       "surface": "בידם",
-      "gloss": "em suas mãos"
+      "gloss": "na mão deles"
     },
     {
       "surface": "ויכום",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "בבזק",
-      "gloss": "em Bezeque"
+      "gloss": "em Bezek"
     },
     {
       "surface": "עשרת",
@@ -63,16 +61,6 @@
       "gloss": "homens"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 1,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:13:46.216870362Z",
+  "model": "glm-5.2"
 }

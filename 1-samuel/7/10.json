@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "1-samuel 7:10",
   "book": "1-samuel",
-  "chapter": 7,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:18:41.015557635Z",
-  "translation": "E aconteceu que, enquanto Shemuél estava oferecendo ⟨את⟩ ⟨o⟩ ⟨holocausto⟩, ⟨e⟩ ⟨os⟩ ⟨filisteus⟩ se aproximaram para ⟨a⟩ ⟨guerra⟩ contra Yisrael, e YHWH trovejou com ⟨um⟩ ⟨grande⟩ ⟨trovão⟩ naquele ⟨dia⟩ sobre ⟨os⟩ ⟨filisteus⟩, e os confundiu, e foram derrotados diante de Yisrael.",
+  "chapter": 7,
+  "translation": "E aconteceu que, ⟨enquanto⟩ Shmuel oferecia ⟨את⟩ a Olá, os Pelishtim se aproximaram para ⟨a⟩ guerra contra Yisrael; e YHWH trovejou com grande estrondo naquele dia sobre ⟨את⟩ os Pelishtim, e os aterrorizou, e foram derrotados diante de Yisrael.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -15,21 +13,20 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuél"
+      "gloss": "Shmuel"
     },
     {
       "surface": "מעלה",
-      "gloss": "estava oferecendo"
+      "gloss": "oferecia"
     },
     {
       "surface": "העולה",
-      "gloss": "⟨o⟩ ⟨holocausto⟩",
-      "marks": "o holocausto"
+      "gloss": "⟨את⟩ a Olá",
+      "marks": "a Olá"
     },
     {
       "surface": "ופלשתים",
-      "gloss": "⟨e⟩ ⟨os⟩ ⟨filisteus⟩",
-      "marks": "os filisteus"
+      "gloss": "os Pelishtim"
     },
     {
       "surface": "נגשו",
@@ -37,16 +34,15 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "para ⟨a⟩ ⟨guerra⟩",
-      "marks": "a guerra"
+      "gloss": "para a guerra"
     },
     {
       "surface": "בישראל",
-      "gloss": "contra Israel"
+      "gloss": "contra Yisrael"
     },
     {
       "surface": "וירעם",
-      "gloss": "e"
+      "gloss": "e YHWH trovejou"
     },
     {
       "surface": "יהוה",
@@ -54,21 +50,19 @@
     },
     {
       "surface": "בקול",
-      "gloss": "trovejou com"
+      "gloss": "com estrondo"
     },
     {
       "surface": "גדול",
-      "gloss": "⟨um⟩ ⟨grande⟩ ⟨trovão⟩",
-      "marks": "um grande trovão"
+      "gloss": "grande"
     },
     {
       "surface": "ביום",
-      "gloss": "naquele"
+      "gloss": "no dia"
     },
     {
       "surface": "ההוא",
-      "gloss": "⟨dia⟩",
-      "marks": "dia"
+      "gloss": "aquele"
     },
     {
       "surface": "על",
@@ -76,12 +70,12 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "⟨os⟩ ⟨filisteus⟩",
-      "marks": "os filisteus"
+      "gloss": "⟨את⟩ os Pelishtim",
+      "marks": "os Pelishtim"
     },
     {
       "surface": "ויהמם",
-      "gloss": "e os confundiu"
+      "gloss": "e os aterrorizou"
     },
     {
       "surface": "וינגפו",
@@ -89,23 +83,13 @@
     },
     {
       "surface": "לפני",
-      "gloss": "diante"
+      "gloss": "diante de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 19,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:19:18.585946778Z",
+  "model": "glm-5.2"
 }

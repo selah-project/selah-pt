@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "jeremiah 50:17",
   "book": "jeremiah",
-  "chapter": 50,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:54:19.125451572Z",
-  "translation": "Yisrael ⟨é⟩ ⟨uma⟩ ovelha dispersa ⟨את⟩, os leões a expulsaram: primeiro, o rei ⟨da⟩ Ashshur ⟨a⟩ devorou, e agora, por último, Nevujadnetzar, rei ⟨de⟩ Bavel, quebrou seus ossos.",
+  "chapter": 50,
+  "translation": "Ovelha dispersa ⟨está⟩ Yisrael; leões ⟨o⟩ afugentaram. O primeiro a devorar ⟨foi⟩ Malkhú Ashshur; e a este, o último, ⟨foi⟩ Nevujadnetzar, rei de Bavel — ⟨foi ele quem⟩ lhe esmigalhou os ossos.",
   "tokens": [
     {
       "surface": "שה",
@@ -23,23 +21,23 @@
     },
     {
       "surface": "אריות",
-      "gloss": "os leões"
+      "gloss": "leões"
     },
     {
       "surface": "הדיחו",
-      "gloss": "expulsaram"
+      "gloss": "afugentaram"
     },
     {
       "surface": "הראשון",
-      "gloss": "primeiro"
+      "gloss": "O primeiro"
     },
     {
       "surface": "אכלו",
-      "gloss": "devorou"
+      "gloss": "a devorar"
     },
     {
       "surface": "מלך",
-      "gloss": "rei"
+      "gloss": "Malkhú"
     },
     {
       "surface": "אשור",
@@ -47,15 +45,15 @@
     },
     {
       "surface": "וזה",
-      "gloss": "e agora"
+      "gloss": "e a este, o último,"
     },
     {
       "surface": "האחרון",
-      "gloss": "por último"
+      "gloss": ""
     },
     {
       "surface": "עצמו",
-      "gloss": "seus ossos"
+      "gloss": "lhe esmigalhou os ossos"
     },
     {
       "surface": "נבוכדראצר",
@@ -63,44 +61,13 @@
     },
     {
       "surface": "מלך",
-      "gloss": "rei"
+      "gloss": "rei de"
     },
     {
       "surface": "בבל",
       "gloss": "Bavel"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Assíria",
-      "to": "Ashshur",
-      "token-index": 8,
-      "strongs": 804,
-      "hebrew": "אשור"
-    },
-    {
-      "from": "Nabucodonosor",
-      "to": "Nevujadnetzar",
-      "token-index": 12,
-      "strongs": 5019,
-      "hebrew": "נבוכדנאצר"
-    },
-    {
-      "from": "Babilônia",
-      "to": "Bavel",
-      "token-index": 14,
-      "strongs": 894,
-      "hebrew": "בבל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:55:20.400024002Z",
+  "model": "glm-5.2"
 }

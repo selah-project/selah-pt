@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "2-samuel 2:6",
   "book": "2-samuel",
-  "chapter": 2,
-  "verse": 6,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:44:23.993284661Z",
-  "translation": "E agora YHWH ⟨faça⟩ ⟨com⟩ vocês ⟨a⟩ Jésed e ⟨a⟩ fidelidade; e também eu farei ⟨com⟩ vocês esta Jésed ⟨que⟩ fizestes esta coisa.",
+  "chapter": 2,
+  "translation": "E agora, faça YHWH convosco Jésed e Emet; e também eu farei convosco ⟨o⟩ bem ⟨que⟩ ⟨é⟩ este, que fizestes ⟨a⟩ ⟨esta⟩ ⟨coisa⟩.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "יעש",
-      "gloss": "⟨faça⟩"
+      "gloss": "faça"
     },
     {
       "surface": "יהוה",
@@ -23,15 +21,15 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "⟨com⟩ vocês"
+      "gloss": "convosco"
     },
     {
       "surface": "חסד",
-      "gloss": "⟨a⟩ Jésed"
+      "gloss": "Jésed"
     },
     {
       "surface": "ואמת",
-      "gloss": "e ⟨a⟩ fidelidade"
+      "gloss": "e Emet"
     },
     {
       "surface": "וגם",
@@ -47,20 +45,19 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨com⟩ vocês",
-      "marks": "esta bondade"
+      "gloss": "convosco"
     },
     {
       "surface": "הטובה",
-      "gloss": "esta bondade"
+      "gloss": "o bem"
     },
     {
       "surface": "הזאת",
-      "gloss": "⟨que⟩"
+      "gloss": "este"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨que⟩"
+      "gloss": "que"
     },
     {
       "surface": "עשיתם",
@@ -68,23 +65,13 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "esta coisa"
+      "gloss": "a coisa"
     },
     {
       "surface": "הזה",
       "gloss": "esta"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "bondade",
-      "to": "Jésed",
-      "token-index": 4,
-      "strongs": 2617,
-      "hebrew": "חסד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:24:04.531813427Z",
+  "model": "glm-5.2"
 }

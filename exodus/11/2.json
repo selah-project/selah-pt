@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "exodus 11:2",
   "book": "exodus",
-  "chapter": 11,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:48:27.220516383Z",
-  "translation": "Fala, peço-te, aos ouvidos do povo, e peçam ⟨את⟩ homem de ⟨את⟩ seu companheiro e mulher de ⟨את⟩ sua companheira, utensílios de prata e utensílios de ouro",
+  "chapter": 11,
+  "translation": "Fala ⟨peço⟩ aos ouvidos do povo, e que cada homem peça ⟨a⟩ seu próximo, e cada mulher ⟨a⟩ sua próxima: objetos de prata e objetos de ouro.",
   "tokens": [
     {
       "surface": "דבר",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "peço-te"
+      "gloss": "⟨peço⟩"
     },
     {
       "surface": "באזני",
@@ -27,40 +25,35 @@
     },
     {
       "surface": "וישאלו",
-      "gloss": "e peçam"
+      "gloss": "e que peçam"
     },
     {
       "surface": "איש",
-      "gloss": "⟨את⟩ homem",
-      "marks": "homem"
+      "gloss": "cada homem"
     },
     {
       "surface": "מאת",
-      "gloss": "de",
-      "marks": "seu companheiro"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "רעהו",
-      "gloss": "⟨את⟩ seu companheiro",
-      "marks": "companheiro"
+      "gloss": "seu próximo"
     },
     {
       "surface": "ואשה",
-      "gloss": "e mulher"
+      "gloss": "e cada mulher"
     },
     {
       "surface": "מאת",
-      "gloss": "de",
-      "marks": "sua companheira"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "רעותה",
-      "gloss": "⟨את⟩ sua companheira",
-      "marks": "companheira"
+      "gloss": "sua próxima"
     },
     {
       "surface": "כלי",
-      "gloss": "utensílios"
+      "gloss": "objetos"
     },
     {
       "surface": "כסף",
@@ -68,11 +61,13 @@
     },
     {
       "surface": "וכלי",
-      "gloss": "e utensílios"
+      "gloss": "e objetos"
     },
     {
       "surface": "זהב",
       "gloss": "de ouro"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:39:55.209065065Z",
+  "model": "glm-5.2"
 }

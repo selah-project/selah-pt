@@ -1,60 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "genesis 17:22",
   "book": "genesis",
-  "chapter": 17,
-  "verse": 22,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T23:56:35.646337053Z",
-  "translation": "E Ele terminou de falar com ele ⟨e⟩ Elohim subiu de sobre Avraham",
+  "chapter": 17,
+  "translation": "E, ao terminar de falar com ele, Elohim subiu de sobre ⟨junto de⟩ Avraham.",
   "tokens": [
     {
-      "surface": "ויכל",
-      "gloss": "E Ele terminou"
+      "surface": "וַיְכַ֖ל",
+      "gloss": "E, ao terminar"
     },
     {
-      "surface": "לדבר",
+      "surface": "לְדַבֵּ֣ר",
       "gloss": "de falar"
     },
     {
-      "surface": "אתו",
+      "surface": "אִתּ֑וֹ",
       "gloss": "com ele"
     },
     {
-      "surface": "ויעל",
-      "gloss": "⟨e⟩ subiu"
+      "surface": "וַיַּ֣עַל",
+      "gloss": "subiu"
     },
     {
-      "surface": "אלהים",
+      "surface": "אֱלֹהִ֔ים",
       "gloss": "Elohim"
     },
     {
-      "surface": "מעל",
-      "gloss": "de sobre"
+      "surface": "מֵעַ֖ל",
+      "gloss": "de sobre ⟨junto de⟩"
     },
     {
-      "surface": "אברהם",
+      "surface": "אַבְרָהָֽם",
       "gloss": "Avraham"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Deus",
-      "to": "Elohim",
-      "token-index": 4,
-      "strongs": 430,
-      "hebrew": "אלהים"
-    },
-    {
-      "from": "Abrão",
-      "to": "Avraham",
-      "token-index": 6,
-      "strongs": 85,
-      "hebrew": "אברהם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:29:23.798763539Z",
+  "model": "glm-5.2"
 }

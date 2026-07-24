@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "1-samuel 8:7",
   "book": "1-samuel",
-  "chapter": 8,
-  "verse": 7,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-13T05:49:32.401655213Z",
-  "translation": "E YHWH disse a Shemuel: Escuta ⟨a⟩ voz ⟨do⟩ povo em tudo o que disserem a ti; pois ⟨a⟩ ti não rejeitaram, mas a mim rejeitaram, para que eu não reine sobre eles.",
+  "chapter": 8,
+  "translation": "E YHWH disse a Shmuel: Ouve a voz do povo em tudo quanto te disserem; porque não ⟨⟨את⟩⟩ a ti rejeitaram, mas ⟨⟨את⟩⟩ a mim rejeitaram, de reinar sobre eles.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -23,31 +21,31 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "שמע",
-      "gloss": "Escuta"
+      "gloss": "Ouve"
     },
     {
       "surface": "בקול",
-      "gloss": "⟨a⟩ voz"
+      "gloss": "a voz de"
     },
     {
       "surface": "העם",
-      "gloss": "⟨do⟩ povo"
+      "gloss": "o povo"
     },
     {
       "surface": "לכל",
-      "gloss": "em"
+      "gloss": "em tudo"
     },
     {
       "surface": "אשר",
-      "gloss": "tudo o que"
+      "gloss": "quanto"
     },
     {
       "surface": "יאמרו",
-      "gloss": "disserem"
+      "gloss": "te disserem"
     },
     {
       "surface": "אליך",
@@ -55,7 +53,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "לא",
@@ -63,8 +61,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨a⟩ ti",
-      "marks": "rejeitaram"
+      "gloss": "⟨את⟩",
+      "marks": "a ti"
     },
     {
       "surface": "מאסו",
@@ -76,8 +74,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "a mim",
-      "marks": "rejeitaram"
+      "gloss": "⟨את⟩",
+      "marks": "a mim"
     },
     {
       "surface": "מאסו",
@@ -85,11 +83,13 @@
     },
     {
       "surface": "ממלך",
-      "gloss": "para que eu não reine"
+      "gloss": "de reinar"
     },
     {
       "surface": "עליהם",
       "gloss": "sobre eles"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:19:27.849016466Z",
+  "model": "glm-5.2"
 }

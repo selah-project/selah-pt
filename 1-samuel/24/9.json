@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "1-samuel 24:9",
   "book": "1-samuel",
-  "chapter": 24,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:36:19.292019056Z",
-  "translation": "E Davidd se levantou depois ⟨isso⟩ e saiu da caverna e clamou após Shaul, dizendo: 'Meu ⟨את⟩ senhor ⟨את⟩ rei!' E Shaul olhou atrás ⟨de si⟩ e Davidd se prostrou ⟨com⟩ ⟨o⟩ rosto ⟨em⟩ terra e se curvou.",
+  "chapter": 24,
+  "translation": "E David se levantou depois disso, e saiu da caverna, e clamou atrás de Shaul, dizendo: \"Adonai, o rei!\" E Shaul olhou para trás, e David curvou o rosto ⟨até⟩ a terra, e se prostrou.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "E ... se levantou"
+      "gloss": "E se levantou"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "אחרי",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "⟨isso⟩"
+      "gloss": "disso"
     },
     {
       "surface": "ויצא",
@@ -38,12 +36,12 @@
       "gloss": "a caverna"
     },
     {
-      "surface": "ואיקרא",
+      "surface": "ויקרא",
       "gloss": "e clamou"
     },
     {
       "surface": "אחרי",
-      "gloss": "após"
+      "gloss": "atrás de"
     },
     {
       "surface": "שאול",
@@ -55,7 +53,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "Meu senhor"
+      "gloss": "Adonai"
     },
     {
       "surface": "המלך",
@@ -63,7 +61,7 @@
     },
     {
       "surface": "ויבט",
-      "gloss": "E ... olhou"
+      "gloss": "E olhou"
     },
     {
       "surface": "שאול",
@@ -71,60 +69,29 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "atrás ⟨de si⟩"
+      "gloss": "para trás"
     },
     {
       "surface": "ויקד",
-      "gloss": "e ... se prostrou"
+      "gloss": "e curvou"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "אפים",
-      "gloss": "⟨com⟩ ⟨o⟩ rosto"
+      "gloss": "o rosto"
     },
     {
       "surface": "ארצה",
-      "gloss": "⟨em⟩ terra"
+      "gloss": "à terra"
     },
     {
       "surface": "וישתחו",
-      "gloss": "e se curvou"
+      "gloss": "e se prostrou"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Saul",
-      "to": "Shaul",
-      "token-index": 9,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    },
-    {
-      "from": "Saul",
-      "to": "Shaul",
-      "token-index": 14,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 17,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:22:19.722272312Z",
+  "model": "glm-5.2"
 }

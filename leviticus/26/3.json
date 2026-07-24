@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "leviticus 26:3",
   "book": "leviticus",
-  "chapter": 26,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:52:08.943057279Z",
-  "translation": "Se vós andardes em meus estatutos e ⟨את⟩ meus mandamentos guardardes e os fizerdes",
+  "chapter": 26,
+  "translation": "Se nos Meus jukím ⟨vós⟩ andardes, e ⟨את⟩ as Minhas Mitzvót guardardes, e ⟨vós⟩ as fizerdes ⟨את⟩ —",
   "tokens": [
     {
       "surface": "אם",
@@ -15,20 +13,20 @@
     },
     {
       "surface": "בחקתי",
-      "gloss": "em meus estatutos"
+      "gloss": "nos Meus jukím"
     },
     {
       "surface": "תלכו",
-      "gloss": "vós andardes"
+      "gloss": "⟨vós⟩ andardes"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "meus mandamentos"
+      "marks": "as Minhas Mitzvót"
     },
     {
       "surface": "מצותי",
-      "gloss": "meus mandamentos"
+      "gloss": "as Minhas Mitzvót"
     },
     {
       "surface": "תשמרו",
@@ -36,12 +34,14 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "e os fizerdes"
+      "gloss": "e ⟨vós⟩ as fizerdes"
     },
     {
       "surface": "אתם",
-      "gloss": "os",
-      "marks": "os"
+      "gloss": "⟨את⟩",
+      "marks": "as Minhas Mitzvót (implícito)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:51:57.120964436Z",
+  "model": "glm-5.2"
 }

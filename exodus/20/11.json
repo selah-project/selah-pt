@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "exodus 20:11",
   "book": "exodus",
-  "chapter": 20,
-  "verse": 11,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:53:33.843316338Z",
-  "translation": "Porque em seis dias YHWH fez ⟨את⟩ os céus e ⟨את⟩ a terra e ⟨את⟩ o mar e ⟨את⟩ tudo o que neles há, e descansou no sétimo dia; por isso YHWH abençoou ⟨את⟩ o dia do Shabbat e o santificou.",
+  "chapter": 20,
+  "translation": "Porque em seis dias YHWH fez ⟨את⟩ os céus e ⟨את⟩ a terra, ⟨את⟩ o mar e ⟨את⟩ tudo o que neles há, e descansou no sétimo dia; portanto YHWH abençoou ⟨את⟩ o dia do Shabbat e o santificou.",
   "tokens": [
     {
       "surface": "כי",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "ששת",
-      "gloss": "seis"
+      "gloss": "em seis"
     },
     {
       "surface": "ימים",
@@ -71,7 +69,7 @@
     },
     {
       "surface": "בם",
-      "gloss": "neles"
+      "gloss": "neles há"
     },
     {
       "surface": "וינח",
@@ -87,11 +85,11 @@
     },
     {
       "surface": "על",
-      "gloss": "por isso"
+      "gloss": "por"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "isso \/ portanto"
     },
     {
       "surface": "ברך",
@@ -104,7 +102,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o dia"
+      "marks": "o dia do Shabbat"
     },
     {
       "surface": "יום",
@@ -118,5 +116,7 @@
       "surface": "ויקדשהו",
       "gloss": "e o santificou"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:41:55.044107960Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "genesis 3:9",
   "book": "genesis",
-  "chapter": 3,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-14T04:21:21.215230527Z",
-  "translation": "E chamou YHWH Elohim a ⟨o⟩ homem e disse-lhe ⟨onde estás⟩",
+  "chapter": 3,
+  "translation": "E YHWH Elohim chamou ⟨o⟩ ha-adam e ⟨o⟩ disse a ele: Onde ⟨estás⟩ tu?",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -27,20 +25,21 @@
     },
     {
       "surface": "האדם",
-      "gloss": "⟨o⟩ homem",
-      "marks": "homem"
+      "gloss": "o adam"
     },
     {
       "surface": "ויאמר",
-      "gloss": "e disse-lhe"
+      "gloss": "e disse"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "a ele"
     },
     {
       "surface": "איכה",
-      "gloss": "⟨onde estás⟩"
+      "gloss": "Onde?"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:26:56.621327578Z",
+  "model": "glm-5.2"
 }

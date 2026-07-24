@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "jeremiah 6:9",
   "book": "jeremiah",
-  "chapter": 6,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:09:13.298276728Z",
-  "translation": "Assim diz YHWH Tzevaot: por certo ⟨vão⟩ vindimar ⟨את⟩ ⟨o⟩ remanescente de Yisrael como ⟨uma⟩ videira; retorna ⟨a⟩ tua mão ⟨como⟩ ⟨um⟩ vindimador sobre ⟨os⟩ cestos.",
+  "chapter": 6,
+  "translation": "Assim diz YHWH Tzevaot: rebuscarão, como ⟨a⟩ vide, o restante de Yisrael; passa a tua mão, como o vindimador, sobre os ramos.",
   "tokens": [
     {
       "surface": "כה",
@@ -27,19 +25,19 @@
     },
     {
       "surface": "עולל",
-      "gloss": "por certo ⟨vão⟩ vindimar"
+      "gloss": "rebuscarão"
     },
     {
       "surface": "יעוללו",
-      "gloss": "vindicam"
+      "gloss": ""
     },
     {
       "surface": "כגפן",
-      "gloss": "como ⟨uma⟩ videira"
+      "gloss": "como ⟨a⟩ vide"
     },
     {
       "surface": "שארית",
-      "gloss": "remanescente"
+      "gloss": "o restante"
     },
     {
       "surface": "ישראל",
@@ -47,15 +45,15 @@
     },
     {
       "surface": "השב",
-      "gloss": "retorna"
+      "gloss": "passa"
     },
     {
       "surface": "ידך",
-      "gloss": "⟨a⟩ tua mão"
+      "gloss": "a tua mão"
     },
     {
       "surface": "כבוצר",
-      "gloss": "⟨como⟩ ⟨um⟩ vindimador"
+      "gloss": "como o vindimador"
     },
     {
       "surface": "על",
@@ -63,19 +61,9 @@
     },
     {
       "surface": "סלסלות",
-      "gloss": "⟨os⟩ cestos"
+      "gloss": "os ramos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 8,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:46:33.262589038Z",
+  "model": "glm-5.2"
 }

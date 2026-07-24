@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "jeremiah 12:14",
   "book": "jeremiah",
-  "chapter": 12,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:15:44.815766755Z",
-  "translation": "Assim diz Adonai ⟨את⟩ todos ⟨את⟩ meus maus vizinhos, que tocam ⟨את⟩ herança que fiz ⟨את⟩ meu povo ⟨את⟩ Yisrael herdar: Eis que vou arrancá-los de sobre ⟨את⟩ sua terra, e ⟨את⟩ casa de Yehudá arrancarei do meio deles.",
+  "chapter": 12,
+  "translation": "Assim diz YHWH sobre todos ⟨os⟩ meus vizinhos maus, os que tocam na herança que fiz ⟨⟨o⟩⟩ meu povo herdar — ⟨את⟩ o meu povo, ⟨את⟩ Yisrael: eis-me aqui, os arrancarei da sua terra, e ⟨את⟩ a Casa de Yehudá arrancarei do meio deles.",
   "tokens": [
     {
       "surface": "כה",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨את⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "כל",
@@ -31,19 +29,19 @@
     },
     {
       "surface": "שכני",
-      "gloss": "⟨את⟩"
+      "gloss": "os meus vizinhos"
     },
     {
       "surface": "הרעים",
-      "gloss": "meus maus vizinhos"
+      "gloss": "maus"
     },
     {
       "surface": "הנגעים",
-      "gloss": "que tocam"
+      "gloss": "os que tocam"
     },
     {
       "surface": "בנחלה",
-      "gloss": "⟨את⟩ herança"
+      "gloss": "na herança"
     },
     {
       "surface": "אשר",
@@ -51,21 +49,21 @@
     },
     {
       "surface": "הנחלתי",
-      "gloss": "fiz"
+      "gloss": "fiz herdar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "עמי"
+      "marks": "o meu povo"
     },
     {
       "surface": "עמי",
-      "gloss": "meu povo"
+      "gloss": "o meu povo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ישראל"
+      "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
@@ -73,31 +71,32 @@
     },
     {
       "surface": "הנני",
-      "gloss": "herdar:"
+      "gloss": "eis-me aqui"
     },
     {
       "surface": "נתשם",
-      "gloss": "Eis que vou arrancá-los"
+      "gloss": "os arrancarei"
     },
     {
       "surface": "מעל",
-      "gloss": "de sobre"
+      "gloss": "da"
     },
     {
       "surface": "אדמתם",
-      "gloss": "⟨את⟩ sua terra"
+      "gloss": "sua terra"
     },
     {
       "surface": "ואת",
-      "gloss": "e"
+      "gloss": "e ⟨את⟩",
+      "marks": "a Casa de Yehudá"
     },
     {
       "surface": "בית",
-      "gloss": "⟨את⟩ casa"
+      "gloss": "a Casa"
     },
     {
       "surface": "יהודה",
-      "gloss": "de Yehudá"
+      "gloss": "Yehudá"
     },
     {
       "surface": "אתוש",
@@ -108,23 +107,6 @@
       "gloss": "do meio deles"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 14,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 21,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:47:46.672196234Z",
+  "model": "glm-5.2"
 }

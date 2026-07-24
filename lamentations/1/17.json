@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "lamentations 1:17",
   "book": "lamentations",
-  "chapter": 1,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:23:50.041430968Z",
-  "translation": "Tzion estendeu ⟨as⟩ mãos ⟨את⟩, ⟨não⟩ há ⟨um⟩ consolador para ela; YHWH ordenou contra Jacó que seus vizinhos sejam seus adversários ⟨את⟩; Yerushalayim se tornou como ⟨uma⟩ mulher imunda entre eles.",
+  "chapter": 1,
+  "translation": "Tzion estende ⟨as⟩ suas mãos — não há quem ⟨a⟩ console; YHWH ordenou concernente a Yaakov: ⟨que⟩ os que ⟨o⟩ cercam ⟨sejam⟩ seus adversários; Yerushalayim tornou-se impura entre eles.",
   "tokens": [
     {
       "surface": "פרשה",
-      "gloss": "Estendeu"
+      "gloss": "estende"
     },
     {
       "surface": "ציון",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "בידיה",
-      "gloss": "⟨as⟩ mãos"
+      "gloss": "suas mãos"
     },
     {
       "surface": "אין",
-      "gloss": "⟨não⟩ há"
+      "gloss": "não há"
     },
     {
       "surface": "מנחם",
-      "gloss": "⟨um⟩ consolador"
+      "gloss": "quem console"
     },
     {
       "surface": "לה",
-      "gloss": "para ela"
+      "gloss": "a"
     },
     {
       "surface": "צוה",
@@ -43,19 +41,19 @@
     },
     {
       "surface": "ליעקב",
-      "gloss": "contra Jacó"
+      "gloss": "concernente a Yaakov"
     },
     {
       "surface": "סביביו",
-      "gloss": "que seus vizinhos"
+      "gloss": "os que o cercam"
     },
     {
       "surface": "צריו",
-      "gloss": "sejam seus adversários"
+      "gloss": "seus adversários"
     },
     {
       "surface": "היתה",
-      "gloss": "se tornou"
+      "gloss": "tornou-se"
     },
     {
       "surface": "ירושלם",
@@ -63,30 +61,13 @@
     },
     {
       "surface": "לנדה",
-      "gloss": "como ⟨uma⟩ mulher imunda"
+      "gloss": "impura"
     },
     {
       "surface": "ביניהם",
       "gloss": "entre eles"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Sião",
-      "to": "Tzion",
-      "token-index": 1,
-      "strongs": 6726,
-      "hebrew": "ציון"
-    },
-    {
-      "from": "Jerusalém",
-      "to": "Yerushalayim",
-      "token-index": 12,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:20:09.013930637Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "2-chronicles 9:23",
   "book": "2-chronicles",
-  "chapter": 9,
-  "verse": 23,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:16:12.523788495Z",
-  "translation": "E todos os reis da terra buscavam ⟨a⟩ presença de Shelomó ⟨para⟩ ouvir ⟨a⟩ Jojmá que Elohim ⟨era⟩ dado em seu coração",
+  "chapter": 9,
+  "translation": "E todos os reis da terra buscavam ⟨את⟩ a face de Shlomó, para ouvir ⟨את⟩ a sua Jojmá, que Ha-Elohim tinha posto no seu coração.",
   "tokens": [
     {
       "surface": "וכל",
@@ -28,28 +26,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "presença de Shelomó"
+      "marks": "a face"
     },
     {
       "surface": "פני",
-      "gloss": "presença"
+      "gloss": "a face"
     },
     {
       "surface": "שלמה",
-      "gloss": "de Shelomó"
+      "gloss": "de Shlomó"
     },
     {
       "surface": "לשמע",
-      "gloss": "⟨para⟩ ouvir"
+      "gloss": "para ouvir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sabedoria"
+      "marks": "a sua Jojmá"
     },
     {
       "surface": "חכמתו",
-      "gloss": "Jojmá"
+      "gloss": "a sua Jojmá"
     },
     {
       "surface": "אשר",
@@ -57,27 +55,17 @@
     },
     {
       "surface": "נתן",
-      "gloss": "⟨era⟩ dado"
+      "gloss": "tinha posto"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "Ha-Elohim"
     },
     {
       "surface": "בלבו",
-      "gloss": "em seu coração"
+      "gloss": "no seu coração"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "sabedoria",
-      "to": "Jojmá",
-      "token-index": 9,
-      "strongs": 2451,
-      "hebrew": "חכמה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:32:20.006821418Z",
+  "model": "glm-5.2"
 }

@@ -1,56 +1,51 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "1-chronicles 16:4",
   "book": "1-chronicles",
-  "chapter": 16,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:51:05.264258108Z",
-  "translation": "Ele colocou ⟨antes⟩ ⟨do⟩ ⟨את⟩ arco de YHWH, ⟨a⟩ partir ⟨dos⟩ levtas — ministros ⟨para⟩ mencionar, e ⟨para⟩ agradecer, e ⟨para⟩ louvar a YHWH, ⟨o⟩ Elohim ⟨de⟩ Yisrael.",
+  "chapter": 16,
+  "translation": "E estabeleceu diante do Aron de YHWH, dos Leví, ⟨os que⟩ serviam, e para fazer recordar, e para agradecer, e para louvar a YHWH, Elohim de Yisrael.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Ele colocou"
+      "gloss": "E estabeleceu"
     },
     {
       "surface": "לפני",
-      "gloss": "⟨antes⟩"
+      "gloss": "diante de"
     },
     {
       "surface": "ארון",
-      "gloss": "⟨do⟩"
+      "gloss": "o Aron"
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "מן",
-      "gloss": "⟨a⟩ partir ⟨dos⟩"
+      "gloss": "de"
     },
     {
       "surface": "הלוים",
-      "gloss": "levtas"
+      "gloss": "os Leví"
     },
     {
       "surface": "משרתים",
-      "gloss": "— ministros"
+      "gloss": "serviam"
     },
     {
       "surface": "ולהזכיר",
-      "gloss": "⟨para⟩ mencionar",
-      "marks": "levtas — ministros"
+      "gloss": "e para fazer recordar"
     },
     {
       "surface": "ולהודות",
-      "gloss": "e ⟨para⟩ agradecer",
-      "marks": "YHWH, o Elohim de Israel"
+      "gloss": "e para agradecer"
     },
     {
       "surface": "ולהלל",
-      "gloss": "e ⟨para⟩ louvar",
-      "marks": "YHWH, o Elohim de Israel"
+      "gloss": "e para louvar"
     },
     {
       "surface": "ליהוה",
@@ -58,23 +53,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "⟨o⟩ Elohim"
+      "gloss": "Elohim de"
     },
     {
       "surface": "ישראל",
-      "gloss": "⟨de⟩ Yisrael"
+      "gloss": "Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 12,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:28:54.663512572Z",
+  "model": "glm-5.2"
 }

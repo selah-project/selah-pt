@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "deuteronomy 31:23",
   "book": "deuteronomy",
-  "chapter": 31,
-  "verse": 23,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:33:20.340217986Z",
-  "translation": "E ele ordenou a ⟨Yehoshua⟩, filho de Nun, e disse: Sê forte e corajoso, pois tu trarás ⟨os filhos⟩ de Yisrael à terra que jurei a eles, e eu estarei contigo.",
+  "chapter": 31,
+  "translation": "E ordenou ⟨את⟩ Yehoshua ben Nun, e disse: Sê forte e corajoso, porque tu farás entrar ⟨את⟩ os filhos de Yisrael ⟨à⟩ terra que jurei a eles, e eu serei contigo.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "E ele ordenou"
+      "gloss": "E ordenou"
     },
     {
       "surface": "את",
@@ -24,11 +22,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "filho"
+      "gloss": "ben (filho de)"
     },
     {
       "surface": "נון",
-      "gloss": "de Nun"
+      "gloss": "Nun"
     },
     {
       "surface": "ויאמר",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "חזק",
-      "gloss": "Sê forte"
+      "gloss": "sê forte"
     },
     {
       "surface": "ואמץ",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "אתה",
@@ -52,24 +50,24 @@
     },
     {
       "surface": "תביא",
-      "gloss": "trarás"
+      "gloss": "farás entrar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "os filhos"
+      "marks": "os filhos de Yisrael"
     },
     {
       "surface": "בני",
-      "gloss": "os filhos"
+      "gloss": "os filhos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אל",
-      "gloss": "à"
+      "gloss": "⟨à⟩"
     },
     {
       "surface": "הארץ",
@@ -93,11 +91,13 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "estarei"
+      "gloss": "serei"
     },
     {
       "surface": "עמך",
       "gloss": "contigo"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:06:55.966014470Z",
+  "model": "glm-5.2"
 }

@@ -1,41 +1,40 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "joshua 3:13",
   "book": "joshua",
-  "chapter": 3,
-  "verse": 13,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:27:49.769820911Z",
-  "translation": "E ⟨será⟩ que ⟨assim que⟩ as solas dos pés dos sacerdotes que carregam ⟨את⟩ Aron de YHWH, Adonai de toda ⟨a⟩ terra, repousarem nas águas do Jordão, ⟨então⟩ as águas do Jordão serão cortadas, ⟨as⟩ águas que ⟨estão⟩ descendo de cima, e eles ⟨se⟩ pararão ⟨num⟩ único ⟨monte⟩.",
+  "chapter": 3,
+  "translation": "E acontecerá: ao repousarem ⟨as⟩ plantas ⟨dos⟩ pés ⟨dos⟩ kohanim, ⟨os⟩ que levam ⟨את⟩ ⟨o⟩ Aron de YHWH, Adon de ⟨toda⟩ ⟨a⟩ terra, nas águas do Yardén — as águas do Yardén serão cortadas, as águas que descem de cima, e elas se levantarão como um montão único.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "E ⟨será⟩"
+      "gloss": "E acontecerá"
     },
     {
       "surface": "כנוח",
-      "gloss": "⟨assim que⟩"
+      "gloss": "ao repousarem"
     },
     {
       "surface": "כפות",
-      "gloss": "as solas"
+      "gloss": "⟨as⟩ plantas"
     },
     {
       "surface": "רגלי",
-      "gloss": "dos pés"
+      "gloss": "⟨dos⟩ pés"
     },
     {
       "surface": "הכהנים",
-      "gloss": "dos sacerdotes"
+      "gloss": "⟨dos⟩ kohanim"
     },
     {
       "surface": "נשאי",
-      "gloss": "que carregam"
+      "gloss": "⟨os⟩ que levam"
     },
     {
       "surface": "ארון",
-      "gloss": "⟨a⟩ Aron"
+      "gloss": "⟨את⟩",
+      "marks": "⟨o⟩ Aron"
     },
     {
       "surface": "יהוה",
@@ -43,11 +42,11 @@
     },
     {
       "surface": "אדון",
-      "gloss": "Adonai"
+      "gloss": "Adon"
     },
     {
       "surface": "כל",
-      "gloss": "de toda"
+      "gloss": "de ⟨toda⟩"
     },
     {
       "surface": "הארץ",
@@ -59,15 +58,15 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "do Jordão"
+      "gloss": "do Yardén"
     },
     {
       "surface": "מי",
-      "gloss": "⟨então⟩ as águas"
+      "gloss": "as águas"
     },
     {
       "surface": "הירדן",
-      "gloss": "do Jordão"
+      "gloss": "do Yardén"
     },
     {
       "surface": "יכרתון",
@@ -75,11 +74,11 @@
     },
     {
       "surface": "המים",
-      "gloss": "⟨as⟩ águas"
+      "gloss": "as águas"
     },
     {
       "surface": "הירדים",
-      "gloss": "que ⟨estão⟩ descendo"
+      "gloss": "que descem"
     },
     {
       "surface": "מלמעלה",
@@ -87,27 +86,17 @@
     },
     {
       "surface": "ויעמדו",
-      "gloss": "e eles ⟨se⟩ pararão"
+      "gloss": "e elas se levantarão"
     },
     {
       "surface": "נד",
-      "gloss": "⟨num⟩ único"
+      "gloss": "como um montão"
     },
     {
       "surface": "אחד",
-      "gloss": "⟨monte⟩"
+      "gloss": "único"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "arca",
-      "to": "Aron",
-      "token-index": 6,
-      "strongs": 727,
-      "hebrew": "ארון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:09:06.182815251Z",
+  "model": "glm-5.2"
 }

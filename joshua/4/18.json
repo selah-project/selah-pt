@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "joshua 4:18",
   "book": "joshua",
-  "chapter": 4,
-  "verse": 18,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:28:37.965114386Z",
-  "translation": "E aconteceu quando os sacerdotes ⟨que⟩ levavam ⟨את⟩ Aron dBrit de YHWH subiram do meio do Jordão, ⟨as⟩ plantas dos pés dos sacerdotes foram levantadas ⟨את⟩ ⟨para⟩ ⟨a⟩ terra seca, ⟨e⟩ ⟨as⟩ águas do Jordão retornaram ao seu lugar ⟨e⟩ fluíram sobre todas ⟨as⟩ suas margens como antes.",
+  "chapter": 4,
+  "translation": "E aconteceu, ao subirem os ⟨kohanim⟩ que levavam o Aron da Brit de YHWH do meio do Yardén, as solas dos pés dos ⟨kohanim⟩ foram erguidas até ⟨a⟩ terra seca, e as águas do Yardén voltaram ao seu lugar, e fluíram como ontem e anteontem sobre todas as suas margens.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -15,23 +13,23 @@
     },
     {
       "surface": "בעלות",
-      "gloss": "quando"
+      "gloss": "ao subirem"
     },
     {
       "surface": "הכהנים",
-      "gloss": "os sacerdotes"
+      "gloss": "os kohanim"
     },
     {
       "surface": "נשאי",
-      "gloss": "⟨que⟩ levavam"
+      "gloss": "que levavam"
     },
     {
       "surface": "ארון",
-      "gloss": "Aron"
+      "gloss": "o Aron"
     },
     {
       "surface": "ברית",
-      "gloss": "dBrit"
+      "gloss": "da Brit"
     },
     {
       "surface": "יהוה",
@@ -43,15 +41,15 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "do Jordão"
+      "gloss": "do Yardén"
     },
     {
       "surface": "נתקו",
-      "gloss": "foram levantadas"
+      "gloss": "foram erguidas"
     },
     {
       "surface": "כפות",
-      "gloss": "⟨as⟩ plantas"
+      "gloss": "as solas"
     },
     {
       "surface": "רגלי",
@@ -59,27 +57,27 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "dos sacerdotes"
+      "gloss": "dos kohanim"
     },
     {
       "surface": "אל",
-      "gloss": "⟨para⟩"
+      "gloss": "até"
     },
     {
       "surface": "החרבה",
-      "gloss": "⟨a⟩ terra seca"
+      "gloss": "terra seca"
     },
     {
       "surface": "וישבו",
-      "gloss": "retornaram"
+      "gloss": "e voltaram"
     },
     {
       "surface": "מי",
-      "gloss": "⟨as⟩ águas"
+      "gloss": "as águas"
     },
     {
       "surface": "הירדן",
-      "gloss": "do Jordão"
+      "gloss": "do Yardén"
     },
     {
       "surface": "למקומם",
@@ -87,15 +85,15 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "⟨e⟩ fluíram"
+      "gloss": "e fluíram"
     },
     {
       "surface": "כתמול",
-      "gloss": "como antes"
+      "gloss": "como ontem"
     },
     {
       "surface": "שלשום",
-      "gloss": "como antes"
+      "gloss": "e anteontem"
     },
     {
       "surface": "על",
@@ -107,26 +105,9 @@
     },
     {
       "surface": "גדותיו",
-      "gloss": "⟨as⟩ suas margens"
+      "gloss": "as suas margens"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "a arca",
-      "to": "Aron",
-      "token-index": 4,
-      "strongs": 727,
-      "hebrew": "ארון"
-    },
-    {
-      "from": "a aliança",
-      "to": "Brit",
-      "token-index": 5,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:09:20.483445695Z",
+  "model": "glm-5.2"
 }

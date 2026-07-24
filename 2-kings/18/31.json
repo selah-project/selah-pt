@@ -1,31 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 31,
   "ref": "2-kings 18:31",
   "book": "2-kings",
-  "chapter": 18,
-  "verse": 31,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:05:24.005802121Z",
-  "translation": "Não ouçais a Chizkijah, pois assim ⟨diz⟩ o rei da Ashshur: fazei comigo ⟨aliança⟩, e saí para mim; e ⟨cada⟩ homem coma ⟨de⟩ ⟨sua⟩ videira, e ⟨cada⟩ homem ⟨de⟩ ⟨seu⟩ figueiral, e beba ⟨cada⟩ homem ⟨de⟩ ⟨sua⟩ cisterna",
+  "chapter": 18,
+  "translation": "Não escuteis a Jizkiyahu, pois assim disse o rei de Ashshur: fazei comigo ⟨uma⟩ bênção, e saí a mim, e coma cada um ⟨de⟩ sua vide, e cada um ⟨de⟩ sua figueira, e beba cada um das águas da sua cisterna.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Não",
-      "marks": "negation qualified"
+      "gloss": "não"
     },
     {
       "surface": "תשמעו",
-      "gloss": "ouçais"
+      "gloss": "escuteis"
     },
     {
       "surface": "אל",
-      "gloss": "a",
-      "marks": "preposition"
+      "gloss": "a"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Chizkijah"
+      "gloss": "Jizkiyahu"
     },
     {
       "surface": "כי",
@@ -37,7 +33,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "⟨diz⟩"
+      "gloss": "disse"
     },
     {
       "surface": "מלך",
@@ -45,7 +41,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "da Ashshur"
+      "gloss": "de Ashshur"
     },
     {
       "surface": "עשו",
@@ -57,7 +53,7 @@
     },
     {
       "surface": "ברכה",
-      "gloss": "⟨aliança⟩"
+      "gloss": "⟨uma⟩ bênção"
     },
     {
       "surface": "וצאו",
@@ -65,7 +61,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "para mim"
+      "gloss": "a mim"
     },
     {
       "surface": "ואכלו",
@@ -73,20 +69,19 @@
     },
     {
       "surface": "איש",
-      "gloss": "⟨cada⟩"
+      "gloss": "cada um"
     },
     {
       "surface": "גפנו",
-      "gloss": "⟨de⟩"
+      "gloss": "⟨de⟩ sua vide"
     },
     {
       "surface": "ואיש",
-      "gloss": "⟨cada⟩",
-      "marks": "איש repeated"
+      "gloss": "e cada um"
     },
     {
       "surface": "תאנתו",
-      "gloss": "⟨de⟩"
+      "gloss": "⟨de⟩ sua figueira"
     },
     {
       "surface": "ושתו",
@@ -94,28 +89,17 @@
     },
     {
       "surface": "איש",
-      "gloss": "⟨cada⟩",
-      "marks": "איש repeated"
+      "gloss": "cada um"
     },
     {
       "surface": "מי",
-      "gloss": "⟨de⟩"
+      "gloss": "das águas"
     },
     {
       "surface": "בורו",
-      "gloss": "⟨sua⟩"
+      "gloss": "da sua cisterna"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Assíria",
-      "to": "Ashshur",
-      "token-index": 8,
-      "strongs": 804,
-      "hebrew": "אשור"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:39:01.516745491Z",
+  "model": "glm-5.2"
 }

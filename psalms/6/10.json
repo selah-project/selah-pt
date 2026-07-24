@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "psalms 6:10",
   "book": "psalms",
-  "chapter": 6,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T09:42:46.890586483Z",
-  "translation": "HaShem ⟨has⟩ heard ⟨את⟩ minha súplica ⟨את⟩; HaShem ⟨has⟩ received ⟨את⟩ minha oração.",
+  "chapter": 6,
+  "translation": "YHWH ouviu a minha súplica; YHWH receberá ⟨a⟩ minha oração.",
   "tokens": [
     {
       "surface": "שמע",
-      "gloss": "Heard"
+      "gloss": "ouviu"
     },
     {
       "surface": "יהוה",
@@ -19,8 +17,7 @@
     },
     {
       "surface": "תחנתי",
-      "gloss": "minha súplica",
-      "marks": "minha súplica ⟨את⟩"
+      "gloss": "a minha súplica"
     },
     {
       "surface": "יהוה",
@@ -28,16 +25,13 @@
     },
     {
       "surface": "תפלתי",
-      "gloss": "minha oração",
-      "marks": "minha oração ⟨את⟩"
+      "gloss": "minha oração"
     },
     {
-      "surface": "י�קח",
-      "gloss": "received"
+      "surface": "יקח",
+      "gloss": "receberá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:08:26.970067533Z",
+  "model": "glm-5.2"
 }

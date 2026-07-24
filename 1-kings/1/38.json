@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 38,
   "ref": "1-kings 1:38",
   "book": "1-kings",
-  "chapter": 1,
-  "verse": 38,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T11:18:40.914608664Z",
-  "translation": "E Tzadok, o Kohen, e Natan, o Naví, e Benaiahu, filho de Yehoyada, e os Queretitas, e os Peletitas desceram e fizeram ⟨את⟩ Shlomó cavalgar sobre a mula do rei David e o levaram para Gihon",
+  "chapter": 1,
+  "translation": "E desceram Tzadok o kohen, Natan o naví, e Benayahu ben de Yehoyadá, e os kereti e os peleti; e fizeram Shlomó montar ⟨sobre⟩ ⟨את⟩ a mula do rei David, e o conduziram até Gijom.",
   "tokens": [
     {
       "surface": "וירד",
-      "gloss": "e ... desceram"
+      "gloss": "E desceram"
     },
     {
       "surface": "צדוק",
@@ -19,39 +17,39 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "o Kohen"
+      "gloss": "o kohen"
     },
     {
       "surface": "ונתן",
-      "gloss": "e Natan"
+      "gloss": "Natan"
     },
     {
       "surface": "הנביא",
-      "gloss": "o Naví"
+      "gloss": "o naví"
     },
     {
       "surface": "ובניהו",
-      "gloss": "e Benaiahu"
+      "gloss": "e Benayahu"
     },
     {
       "surface": "בן",
-      "gloss": "filho"
+      "gloss": "ben"
     },
     {
       "surface": "יהוידע",
-      "gloss": "de Yehoyada"
+      "gloss": "de Yehoyadá"
     },
     {
       "surface": "והכרתי",
-      "gloss": "e os Queretitas"
+      "gloss": "e os kereti"
     },
     {
       "surface": "והפלתי",
-      "gloss": "e os Peletitas"
+      "gloss": "e os peleti"
     },
     {
       "surface": "וירכבו",
-      "gloss": "e fizeram ... cavalgar"
+      "gloss": "e fizeram montar"
     },
     {
       "surface": "את",
@@ -64,7 +62,7 @@
     },
     {
       "surface": "על",
-      "gloss": "sobre"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "פרדת",
@@ -80,20 +78,22 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "e o levaram"
+      "gloss": "e conduziram"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "para"
+      "gloss": "⟨את⟩ a ele",
+      "marks": "conduziram (objeto direto)"
     },
     {
       "surface": "על",
-      "gloss": "para"
+      "gloss": "até"
     },
     {
       "surface": "גחון",
-      "gloss": "Gihon"
+      "gloss": "Gijom"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:29:09.411893863Z",
+  "model": "glm-5.2"
 }

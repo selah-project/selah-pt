@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "1-kings 1:23",
   "book": "1-kings",
-  "chapter": 1,
-  "verse": 23,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T05:09:52.357468544Z",
-  "translation": "E relataram ao rei, dizendo: Eis Natan ⟨o⟩ profeta! E ele veio ⟨à⟩ presença do rei, e prostrou-se ⟨diante⟩ do rei com ⟨o⟩ rosto ⟨em⟩ terra ⟨את⟩.",
+  "chapter": 1,
+  "translation": "E anunciaram ao rei, dizendo: \"Eis Natan, o naví\"; e ele veio perante o rei, e prostrou-se ao rei com o rosto ⟨à⟩ terra.",
   "tokens": [
     {
       "surface": "ויגידו",
-      "gloss": "E relataram"
+      "gloss": "E anunciaram"
     },
     {
       "surface": "למלך",
@@ -31,19 +29,19 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "⟨o⟩ profeta"
+      "gloss": "o naví"
     },
     {
       "surface": "ויבא",
-      "gloss": "E ele veio"
+      "gloss": "e ele veio"
     },
     {
       "surface": "לפני",
-      "gloss": "⟨à⟩ presença"
+      "gloss": "perante"
     },
     {
       "surface": "המלך",
-      "gloss": "do rei"
+      "gloss": "o rei"
     },
     {
       "surface": "וישתחו",
@@ -51,7 +49,7 @@
     },
     {
       "surface": "למלך",
-      "gloss": "⟨diante⟩ do rei"
+      "gloss": "ao rei"
     },
     {
       "surface": "על",
@@ -59,23 +57,13 @@
     },
     {
       "surface": "אפיו",
-      "gloss": "⟨o⟩ rosto"
+      "gloss": "o seu rosto"
     },
     {
       "surface": "ארצה",
-      "gloss": "⟨em⟩ terra"
+      "gloss": "à terra"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Natã",
-      "to": "Natan",
-      "token-index": 4,
-      "strongs": 5416,
-      "hebrew": "נתן"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:28:54.625382864Z",
+  "model": "glm-5.2"
 }

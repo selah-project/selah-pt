@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "2-samuel 14:7",
   "book": "2-samuel",
-  "chapter": 14,
-  "verse": 7,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:54:11.525774215Z",
-  "translation": "E eis que ⟨toda⟩ a família se levantou contra tua serva, e disseram: Dá ⟨את⟩ ⟨o que⟩ feriu a seu irmão, para que o matemos pela vida de seu irmão a quem ele matou, e destruamos também ⟨את⟩ ⟨o herdeiro⟩; assim apagarão a minha brasa que restou, e não deixarão a meu homem nem nome nem remanescente sobre a face da terra.",
+  "chapter": 14,
+  "translation": "E eis que se levantou toda ⟨a⟩ família contra a tua serva, e disseram: Entrega ⟨את⟩ o feridor de seu irmão, para que o matemos pela nefesh de seu irmão que ⟨ele⟩ matou; e ⟨assim⟩ destruiremos também ⟨את⟩ o herdeiro. E apagarão ⟨את⟩ ⟨a⟩ minha brasa que ficou, para não porem ao meu marido nome nem remanescente sobre a face da terra.",
   "tokens": [
     {
       "surface": "והנה",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "⟨toda⟩"
+      "gloss": "toda"
     },
     {
       "surface": "המשפחה",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "שפחתך",
-      "gloss": "tua serva"
+      "gloss": "a tua serva"
     },
     {
       "surface": "ויאמרו",
@@ -39,20 +37,20 @@
     },
     {
       "surface": "תני",
-      "gloss": "Dá"
+      "gloss": "Entrega"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o que feriu a seu irmão"
+      "marks": "o feridor de seu irmão"
     },
     {
       "surface": "מכה",
-      "gloss": "⟨o que⟩ feriu"
+      "gloss": "o feridor"
     },
     {
       "surface": "אחיו",
-      "gloss": "a seu irmão"
+      "gloss": "de seu irmão"
     },
     {
       "surface": "ונמתהו",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "בנפש",
-      "gloss": "pela vida"
+      "gloss": "pela nefesh"
     },
     {
       "surface": "אחיו",
@@ -68,15 +66,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "a quem"
+      "gloss": "que"
     },
     {
       "surface": "הרג",
-      "gloss": "ele matou"
+      "gloss": "matou"
     },
     {
       "surface": "ונשמידה",
-      "gloss": "e destruamos"
+      "gloss": "e destruiremos"
     },
     {
       "surface": "גם",
@@ -89,16 +87,16 @@
     },
     {
       "surface": "היורש",
-      "gloss": "⟨o herdeiro⟩"
+      "gloss": "o herdeiro"
     },
     {
       "surface": "וכבו",
-      "gloss": "assim apagarão"
+      "gloss": "E apagarão"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a minha brasa que restou"
+      "marks": "a minha brasa"
     },
     {
       "surface": "גחלתי",
@@ -110,7 +108,7 @@
     },
     {
       "surface": "נשארה",
-      "gloss": "restou"
+      "gloss": "ficou"
     },
     {
       "surface": "לבלתי",
@@ -118,11 +116,11 @@
     },
     {
       "surface": "שום",
-      "gloss": "deixar"
+      "gloss": "porem"
     },
     {
       "surface": "לאישי",
-      "gloss": "a meu homem"
+      "gloss": "ao meu marido"
     },
     {
       "surface": "שם",
@@ -144,5 +142,7 @@
       "surface": "האדמה",
       "gloss": "da terra"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:26:16.525421883Z",
+  "model": "glm-5.2"
 }

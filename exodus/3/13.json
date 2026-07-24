@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "exodus 3:13",
   "book": "exodus",
-  "chapter": 3,
-  "verse": 13,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:38:02.152684828Z",
-  "translation": "E Moshé disse a ⟨את⟩ ha-Elohim: Eis que ⟨eu⟩ venho aos filhos de Yisra'el e ⟨eu⟩ lhes direi: 'Elohim de vossos pais ⟨me⟩ enviou a vós'; e ⟨eles⟩ me dirão: 'Qual ⟨é⟩ ⟨o⟩ nome ⟨dele⟩? O que direi a eles?'",
+  "chapter": 3,
+  "translation": "E disse Moshé a ha-Elohim: eis-me aqui, eu venho aos filhos de Yisrael e lhes direi: ⟨o⟩ Elohim de vossos pais me enviou a vós; e me disserem: qual ⟨é⟩ ⟨o⟩ seu nome? — que lhes direi?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E disse"
+      "gloss": "e disse"
     },
     {
       "surface": "משה",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Eis que"
+      "gloss": "eis-me aqui"
     },
     {
       "surface": "אנכי",
-      "gloss": "⟨eu⟩"
+      "gloss": "eu"
     },
     {
       "surface": "בא",
@@ -39,19 +37,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "aos"
+      "gloss": "a"
     },
     {
       "surface": "בני",
-      "gloss": "filhos"
+      "gloss": "os filhos"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "ואמרתי",
-      "gloss": "e ⟨eu⟩ direi"
+      "gloss": "e direi"
     },
     {
       "surface": "להם",
@@ -67,7 +65,7 @@
     },
     {
       "surface": "שלחני",
-      "gloss": "⟨me⟩ enviou"
+      "gloss": "me enviou"
     },
     {
       "surface": "אליכם",
@@ -75,7 +73,7 @@
     },
     {
       "surface": "ואמרו",
-      "gloss": "e ⟨eles⟩ dirão"
+      "gloss": "e disserem"
     },
     {
       "surface": "לי",
@@ -83,15 +81,15 @@
     },
     {
       "surface": "מה",
-      "gloss": "Qual"
+      "gloss": "qual"
     },
     {
       "surface": "שמו",
-      "gloss": "⟨é⟩ ⟨o⟩ nome ⟨dele⟩"
+      "gloss": "seu nome"
     },
     {
       "surface": "מה",
-      "gloss": "O que"
+      "gloss": "que"
     },
     {
       "surface": "אמר",
@@ -102,16 +100,6 @@
       "gloss": "a eles"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Mosheh",
-      "to": "Moshé",
-      "token-index": 1,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:38:30.299653877Z",
+  "model": "glm-5.2"
 }

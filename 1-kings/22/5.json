@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "1-kings 22:5",
   "book": "1-kings",
-  "chapter": 22,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T05:44:02.440555070Z",
-  "translation": "E disse Iehoshaphat ao rei ⟨de⟩ Yisrael: ⟨Peço⟩, ⟨pergunta⟩ hoje ⟨a⟩ palavra ⟨de⟩ YHWH.",
+  "chapter": 22,
+  "translation": "E Yehoshafat disse ao rei de Yisrael: Consulta, te peço, hoje, ⟨את⟩ ⟨o⟩ davar de YHWH.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -15,15 +13,15 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Iehoshaphat"
+      "gloss": "Yehoshafat"
     },
     {
       "surface": "אל",
-      "gloss": "ao"
+      "gloss": "a"
     },
     {
       "surface": "מלך",
-      "gloss": "rei"
+      "gloss": "o rei"
     },
     {
       "surface": "ישראל",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "דרש",
-      "gloss": "⟨pergunta⟩"
+      "gloss": "Consulta"
     },
     {
       "surface": "נא",
-      "gloss": "⟨Peço⟩"
+      "gloss": "te peço"
     },
     {
       "surface": "כיום",
@@ -44,27 +42,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "palavra ⟨de⟩ YHWH"
+      "marks": "o davar de YHWH"
     },
     {
       "surface": "דבר",
-      "gloss": "palavra"
+      "gloss": "o davar"
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH"
+      "gloss": "de YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 4,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:35:00.580028426Z",
+  "model": "glm-5.2"
 }

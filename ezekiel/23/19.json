@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "ezekiel 23:19",
   "book": "ezekiel",
-  "chapter": 23,
-  "verse": 19,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:27:28.734748330Z",
-  "translation": "Ela multiplicou ⟨as⟩ suas prostituições, para lembrar ⟨de⟩ ⟨את⟩ os dias da sua mocidade, nos quais ela se prostituiu na terra do Mitzráyim",
+  "chapter": 23,
+  "translation": "E ela multiplicou ⟨את⟩ suas prostituições, lembrando-se ⟨את⟩ dos dias de sua juventude, nos quais se prostituiu na terra de Mitzráyim.",
   "tokens": [
     {
       "surface": "ותרבה",
-      "gloss": "Ela multiplicou"
+      "gloss": "E ela multiplicou"
     },
     {
       "surface": "את",
@@ -24,20 +22,20 @@
     },
     {
       "surface": "לזכר",
-      "gloss": "para lembrar ⟨de⟩"
+      "gloss": "lembrando-se"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "os dias"
+      "marks": "dos dias"
     },
     {
       "surface": "ימי",
-      "gloss": "os dias"
+      "gloss": "dos dias"
     },
     {
       "surface": "נעוריה",
-      "gloss": "da sua mocidade"
+      "gloss": "de sua juventude"
     },
     {
       "surface": "אשר",
@@ -45,7 +43,7 @@
     },
     {
       "surface": "זנתה",
-      "gloss": "ela se prostituiu"
+      "gloss": "se prostituiu"
     },
     {
       "surface": "בארץ",
@@ -53,19 +51,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "do Mitzráyim"
+      "gloss": "de Mitzráyim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Egito",
-      "to": "Mitzráyim",
-      "token-index": 10,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:59:16.470207468Z",
+  "model": "glm-5.2"
 }

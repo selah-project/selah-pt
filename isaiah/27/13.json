@@ -1,33 +1,31 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "isaiah 27:13",
   "book": "isaiah",
-  "chapter": 27,
-  "verse": 13,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:32:55.930346036Z",
-  "translation": "E será naquele dia que ⟨se⟩ tocará ⟨com⟩ um grande shofar ⟨את⟩, e virão os perdidos na terra da Ashshur e ⟨os⟩ dispersos na terra do Mitzráyim, e se prostrarão perante HaShem no monte santo em Jerusalém.",
+  "chapter": 27,
+  "translation": "E acontecerá naquele ⟨o⟩ dia ⟨que⟩ se tocará ⟨um⟩ shofar grande, e virão os que ⟨estavam⟩ perecendo na terra de Ashshur e os que ⟨foram⟩ dispersos na terra de Mitzráyim, e se prostrarão diante de YHWH no monte da santidade em Yerushalayim.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "E será"
+      "gloss": "E acontecerá"
     },
     {
       "surface": "ביום",
-      "gloss": "naquele dia"
+      "gloss": "no dia"
     },
     {
       "surface": "ההוא",
-      "gloss": "que"
+      "gloss": "aquele"
     },
     {
       "surface": "יתקע",
-      "gloss": "⟨se⟩ tocará"
+      "gloss": "se tocará"
     },
     {
       "surface": "בשופר",
-      "gloss": "⟨com⟩ um grande shofar"
+      "gloss": "em shofar"
     },
     {
       "surface": "גדול",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "האבדים",
-      "gloss": "os perdidos"
+      "gloss": "os que pereciam"
     },
     {
       "surface": "בארץ",
@@ -47,11 +45,11 @@
     },
     {
       "surface": "אשור",
-      "gloss": "da Ashshur"
+      "gloss": "de Ashshur"
     },
     {
       "surface": "והנדחים",
-      "gloss": "e ⟨os⟩ dispersos"
+      "gloss": "e os dispersos"
     },
     {
       "surface": "בארץ",
@@ -59,7 +57,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "do Mitzráyim"
+      "gloss": "de Mitzráyim"
     },
     {
       "surface": "והשתחוו",
@@ -67,7 +65,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "perante YHWH"
+      "gloss": "diante de YHWH"
     },
     {
       "surface": "בהר",
@@ -75,30 +73,13 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "santo"
+      "gloss": "da santidade"
     },
     {
       "surface": "בירושלם",
-      "gloss": "em Jerusalém"
+      "gloss": "em Yerushalayim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Assíria",
-      "to": "Ashshur",
-      "token-index": 9,
-      "strongs": 804,
-      "hebrew": "אשור"
-    },
-    {
-      "from": "Egito",
-      "to": "Mitzráyim",
-      "token-index": 12,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:42:48.333389759Z",
+  "model": "glm-5.2"
 }

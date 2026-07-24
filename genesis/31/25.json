@@ -1,26 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "genesis 31:25",
   "book": "genesis",
-  "chapter": 31,
-  "verse": 25,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:13:21.250593495Z",
-  "translation": "E Laban alcançou ⟨a⟩ Yaakov, e Yaakov armou ⟨a⟩ sua tenda no ⟨a⟩ monte, e Laban armou ⟨a⟩ seus irmãos no ⟨a⟩ monte de Gileade.",
+  "chapter": 31,
+  "translation": "E Lavan alcançou ⟨את⟩ Yaakov; e Yaakov armou ⟨את⟩ a sua tenda na montanha, e Lavan armou ⟨את⟩ os seus irmãos na montanha do Guilad.",
   "tokens": [
     {
       "surface": "וישג",
-      "gloss": "E Laban alcançou"
+      "gloss": "E alcançou"
     },
     {
       "surface": "לבן",
-      "gloss": "Laban"
+      "gloss": "Lavan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jacó"
+      "marks": "Yaakov"
     },
     {
       "surface": "יעקב",
@@ -28,7 +26,7 @@
     },
     {
       "surface": "ויעקב",
-      "gloss": "e Jacó"
+      "gloss": "e Yaakov"
     },
     {
       "surface": "תקע",
@@ -37,19 +35,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sua tenda"
+      "marks": "a sua tenda"
     },
     {
       "surface": "אהלו",
-      "gloss": "sua tenda"
+      "gloss": "a sua tenda"
     },
     {
       "surface": "בהר",
-      "gloss": "no ⟨a⟩ monte"
+      "gloss": "na montanha"
     },
     {
       "surface": "ולבן",
-      "gloss": "e Laban"
+      "gloss": "e Lavan"
     },
     {
       "surface": "תקע",
@@ -57,32 +55,22 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨a⟩",
-      "marks": "seus irmãos"
+      "gloss": "⟨את⟩",
+      "marks": "os seus irmãos"
     },
     {
       "surface": "אחיו",
-      "gloss": "seus irmãos"
+      "gloss": "os seus irmãos"
     },
     {
       "surface": "בהר",
-      "gloss": "no ⟨a⟩ monte"
+      "gloss": "na montanha"
     },
     {
       "surface": "הגלעד",
-      "gloss": "de Gileade"
+      "gloss": "do Guilad"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jacó",
-      "to": "Yaakov",
-      "token-index": 3,
-      "strongs": 3290,
-      "hebrew": "יעקב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:33:02.447891987Z",
+  "model": "glm-5.2"
 }

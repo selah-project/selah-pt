@@ -1,41 +1,39 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "numbers 23:17",
   "book": "numbers",
-  "chapter": 23,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:35:26.077006895Z",
-  "translation": "E ⟨ele⟩ veio a ⟨ele⟩ e eis que ⟨ele⟩ estava ⟨em pé⟩ sobre ⟨sua⟩ ⟨oferta queimada⟩ e ⟨os⟩ ⟨príncipes⟩ de Moav ⟨com⟩ ⟨ele⟩. E disse-lhe Balaque: ⟨O⟩ que ⟨disse⟩ YHWH?",
+  "chapter": 23,
+  "translation": "E veio a ele, e eis que ele ⟨estava⟩ posto de pé junto à sua olá, e ⟨os⟩ príncipes de Moav com ele; e disse-lhe Balak: Que falou YHWH?",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "E ⟨ele⟩ veio"
+      "gloss": "E veio"
     },
     {
       "surface": "אליו",
-      "gloss": "a ⟨ele⟩"
+      "gloss": "a ele"
     },
     {
       "surface": "והנו",
-      "gloss": "e eis que"
+      "gloss": "e eis que ele"
     },
     {
       "surface": "נצב",
-      "gloss": "⟨ele⟩ estava ⟨em pé⟩"
+      "gloss": "posto de pé"
     },
     {
       "surface": "על",
-      "gloss": "sobre"
+      "gloss": "junto a"
     },
     {
       "surface": "עלתו",
-      "gloss": "⟨sua⟩ ⟨oferta queimada⟩"
+      "gloss": "à sua olá"
     },
     {
       "surface": "ושרי",
-      "gloss": "e ⟨os⟩ ⟨príncipes⟩"
+      "gloss": "e ⟨os⟩ príncipes"
     },
     {
       "surface": "מואב",
@@ -43,44 +41,33 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨com⟩ ⟨ele⟩",
-      "marks": "ele"
+      "gloss": "com ele"
     },
     {
       "surface": "ויאמר",
-      "gloss": "E disse-lhe"
+      "gloss": "e disse"
     },
     {
       "surface": "לו",
-      "gloss": "⟨a⟩ ⟨ele⟩"
+      "gloss": "a ele"
     },
     {
       "surface": "בלק",
-      "gloss": "Balaque"
+      "gloss": "Balak"
     },
     {
       "surface": "מה",
-      "gloss": "⟨O⟩ que"
+      "gloss": "Que"
     },
     {
       "surface": "דבר",
-      "gloss": "⟨disse⟩"
+      "gloss": "falou"
     },
     {
       "surface": "יהוה",
       "gloss": "YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moabe",
-      "to": "Moav",
-      "token-index": 7,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:58:06.985954555Z",
+  "model": "glm-5.2"
 }

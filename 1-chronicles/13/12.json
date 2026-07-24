@@ -1,80 +1,67 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "1-chronicles 13:12",
   "book": "1-chronicles",
-  "chapter": 13,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-13T07:02:28.905481734Z",
-  "translation": "E David temeu ⟨a⟩ Elohim naquele dia, dizendo: Como trarei ⟨a⟩ mim ⟨o⟩ ⟨את⟩ arca de Elohim?",
+  "chapter": 13,
+  "translation": "E David temeu ⟨את⟩ ha-Elohim naquele dia, dizendo: Como trarei até mim ⟨את⟩ o Aron de ha-Elohim?",
   "tokens": [
     {
-      "surface": "ויירא",
-      "gloss": "E David temeu",
-      "rationale": "Construção vav-conversiva + perfeito de yare' (temer)"
+      "surface": "וַיִּירָא",
+      "gloss": "E temeu"
     },
     {
-      "surface": "דויד",
-      "gloss": "David",
-      "rationale": "Nome próprio transliterado conforme glossário"
+      "surface": "דָּוִיד",
+      "gloss": "David"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "Elohim",
-      "rationale": "Marca de objeto direto (aleph-tav) apontando para האלהים"
+      "marks": "ha-Elohim"
     },
     {
-      "surface": "האלהים",
-      "gloss": "Elohim",
-      "rationale": "Forma plural de 'Deus' conforme disciplina, mantida sem suavização"
+      "surface": "הָאֱלֹהִים",
+      "gloss": "ha-Elohim"
     },
     {
-      "surface": "ביום",
-      "gloss": "naquele dia",
-      "rationale": "Preposição b (em) + artigo definido ha + yom (dia)"
+      "surface": "בַּיּוֹם",
+      "gloss": "naquele dia"
     },
     {
-      "surface": "ההוא",
-      "gloss": "⟨o⟩",
-      "rationale": "Pronome demonstrativo 'aquele' com artigo definido, exige artigo em português"
+      "surface": "הַהוּא",
+      "gloss": "naquele"
     },
     {
-      "surface": "לאמר",
-      "gloss": "dizendo",
-      "rationale": "Infinitivo construto l (para\/ao) + amar (dizer), expressa propósito"
+      "surface": "לֵאמֹר",
+      "gloss": "dizendo"
     },
     {
-      "surface": "היך",
-      "gloss": "Como",
-      "rationale": "Hapax (ocorre só aqui) - interrogação 'como?\/de que modo?'"
+      "surface": "הֵיךְ",
+      "gloss": "como"
     },
     {
-      "surface": "אביא",
-      "gloss": "trarei",
-      "rationale": "Imperfeito de bo (vir\/trazer), 1ª pessoa singular - ação futura\/intencionada"
+      "surface": "אָבִיא",
+      "gloss": "trarei"
     },
     {
-      "surface": "אלי",
-      "gloss": "⟨a⟩ mim",
-      "rationale": "Preposição el (a\/para) + sufixo 1ª pessoa - direção para si mesmo"
+      "surface": "אֵלַי",
+      "gloss": "até mim"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "arca",
-      "rationale": "Marca de objeto direto (aleph-tav) apontando para ארון"
+      "marks": "o Aron"
     },
     {
-      "surface": "ארון",
-      "gloss": "arca",
-      "rationale": "Substantivo 'caixa\/arca', referente à Arca da Aliança"
+      "surface": "אֲרוֹן",
+      "gloss": "o Aron"
     },
     {
-      "surface": "האלהים",
-      "gloss": "Elohim",
-      "rationale": "Repetição de 'Elohim' para especificar qual arca -mantida"
+      "surface": "הָאֱלֹהִים",
+      "gloss": "de ha-Elohim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:28:33.391678785Z",
+  "model": "glm-5.2"
 }

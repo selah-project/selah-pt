@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "exodus 22:20",
   "book": "exodus",
-  "chapter": 22,
-  "verse": 20,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T01:08:21.621337840Z",
-  "translation": "e ⟨o⟩ estrangeiro não oprimas ⟨את⟩ e ⟨o⟩ não oprimas, porque estrangeiros fostes ⟨vos⟩ na terra do Mitzráyim",
+  "chapter": 22,
+  "translation": "E ⟨a⟩ um ger ⟨o⟩ não oprimais, e não ⟨o⟩ espremais; porque gerim fostes na terra de Mitzráyim.",
   "tokens": [
     {
       "surface": "וגר",
-      "gloss": "E ⟨o⟩ estrangeiro"
+      "gloss": "E ⟨a⟩ um ger"
     },
     {
       "surface": "לא",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "תונה",
-      "gloss": "oprimas"
+      "gloss": "oprimais"
     },
     {
       "surface": "ולא",
-      "gloss": "e ⟨o⟩ não"
+      "gloss": "e não"
     },
     {
       "surface": "תלחצנו",
-      "gloss": "oprimas"
+      "gloss": "⟨o⟩ espremais"
     },
     {
       "surface": "כי",
@@ -35,11 +33,11 @@
     },
     {
       "surface": "גרים",
-      "gloss": "estrangeiros"
+      "gloss": "gerim"
     },
     {
       "surface": "הייתם",
-      "gloss": "fostes ⟨vos⟩"
+      "gloss": "fostes"
     },
     {
       "surface": "בארץ",
@@ -47,19 +45,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "do Mitzráyim"
+      "gloss": "de Mitzráyim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Egito",
-      "to": "Mitzráyim",
-      "token-index": 9,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:42:02.816992450Z",
+  "model": "glm-5.2"
 }

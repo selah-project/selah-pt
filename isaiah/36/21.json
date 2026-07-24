@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 21,
   "ref": "isaiah 36:21",
   "book": "isaiah",
-  "chapter": 36,
-  "verse": 21,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:40:17.112035499Z",
-  "translation": "E eles permaneceram em silêncio, e não responderam ⟨a ele⟩ palavra ⟨ alguma⟩, porque ⟨o⟩ Mitzvá ⟨ do⟩ rei ⟨ era⟩, dizendo: 'Não respondais ⟨a ele⟩'",
+  "chapter": 36,
+  "translation": "E ficaram em silêncio, e não lhe responderam ⟨את⟩ palavra alguma, porque Mitzvá do rei ⟨היא⟩, dizendo: não o respondereis.",
   "tokens": [
     {
       "surface": "ויחרישו",
-      "gloss": "E eles permaneceram em silêncio"
+      "gloss": "e ficaram em silêncio"
     },
     {
       "surface": "ולא",
@@ -23,12 +21,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨a ele⟩",
+      "gloss": "⟨את⟩",
       "marks": "palavra alguma"
     },
     {
       "surface": "דבר",
-      "gloss": "palavra"
+      "gloss": "palavra alguma"
     },
     {
       "surface": "כי",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "era"
+      "gloss": "⟨היא⟩"
     },
     {
       "surface": "לאמר",
@@ -52,23 +50,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "Não"
+      "gloss": "não"
     },
     {
       "surface": "תענהו",
-      "gloss": "respondais ⟨a ele⟩"
+      "gloss": "o respondereis"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "mandamento",
-      "to": "Mitzvá",
-      "token-index": 6,
-      "strongs": 4687,
-      "hebrew": "מצוה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:43:21.050904670Z",
+  "model": "glm-5.2"
 }

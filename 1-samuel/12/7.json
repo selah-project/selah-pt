@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "1-samuel 12:7",
   "book": "1-samuel",
-  "chapter": 12,
-  "verse": 7,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T11:47:12.538545486Z",
-  "translation": "E agora, ⟨estai⟩ firmes, e eu ⟨julgarei⟩ convosco perante YHWH ⟨את⟩ todos ⟨os⟩ atos justos de YHWH, que fez convosco e com ⟨os⟩ vossos pais.",
+  "chapter": 12,
+  "translation": "E agora, apresentai-vos, e eu pleitearei ⟨com⟩ convosco diante de YHWH ⟨את⟩ todas as justiças de YHWH, que ele fez convosco e ⟨com⟩ ⟨את⟩ vossos pais.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "התיצבו",
-      "gloss": "⟨estai⟩ firmes"
+      "gloss": "apresentai-vos"
     },
     {
       "surface": "ואשפטה",
-      "gloss": "e eu ⟨julgarei⟩"
+      "gloss": "e eu pleitearei"
     },
     {
       "surface": "אתכם",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "perante"
+      "gloss": "diante de"
     },
     {
       "surface": "יהוה",
@@ -36,15 +34,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todos ⟨os⟩ atos justos"
+      "marks": "todas as justiças"
     },
     {
       "surface": "כל",
-      "gloss": "todos"
+      "gloss": "todas"
     },
     {
       "surface": "צדקות",
-      "gloss": "atos justos"
+      "gloss": "as justiças"
     },
     {
       "surface": "יהוה",
@@ -56,7 +54,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "fez"
+      "gloss": "ele fez"
     },
     {
       "surface": "אתכם",
@@ -64,11 +62,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e com"
+      "gloss": "e ⟨את⟩",
+      "marks": "vossos pais"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "⟨os⟩ vossos pais"
+      "gloss": "vossos pais"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:20:02.019650408Z",
+  "model": "glm-5.2"
 }

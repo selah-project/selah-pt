@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "judges 2:12",
   "book": "judges",
-  "chapter": 2,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:19:43.913090462Z",
-  "translation": "E deixaram ⟨את⟩ YHWH, o Elohim de seus pais, o ⟨que⟩ tirou ⟨את⟩ eles da terra de Mitzráyim, e foram após outros elohim, dos elohim dos povos que estavam ao redor deles, e se prostraram a eles, e provocaram ⟨את⟩ YHWH",
+  "chapter": 2,
+  "translation": "E abandonaram ⟨את⟩ YHWH, Elohim de seus pais, que os tirou da terra de Mitzráyim, e seguiram após outros elohim, dos elohim dos povos que ⟨estavam⟩ ao redor deles, e se prostraram diante deles; e provocaram à ira ⟨את⟩ YHWH.",
   "tokens": [
     {
       "surface": "ויעזבו",
-      "gloss": "E deixaram"
+      "gloss": "e abandonaram"
     },
     {
       "surface": "את",
@@ -24,31 +22,32 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "o Elohim"
+      "gloss": "Elohim de"
     },
     {
       "surface": "אבותם",
-      "gloss": "de seus pais"
+      "gloss": "seus pais"
     },
     {
       "surface": "המוציא",
-      "gloss": "o ⟨que⟩ tirou"
+      "gloss": "que os tirou"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ eles"
+      "gloss": "⟨את⟩ eles",
+      "marks": "da terra de Mitzráyim"
     },
     {
       "surface": "מארץ",
-      "gloss": "da terra"
+      "gloss": "da terra de"
     },
     {
       "surface": "מצרים",
-      "gloss": "de Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "וילכו",
-      "gloss": "e foram"
+      "gloss": "e seguiram"
     },
     {
       "surface": "אחרי",
@@ -56,19 +55,19 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "outros elohim"
+      "gloss": "elohim"
     },
     {
       "surface": "אחרים",
-      "gloss": ""
+      "gloss": "outros"
     },
     {
       "surface": "מאלהי",
-      "gloss": "dos elohim"
+      "gloss": "dos elohim de"
     },
     {
       "surface": "העמים",
-      "gloss": "dos povos"
+      "gloss": "os povos"
     },
     {
       "surface": "אשר",
@@ -76,7 +75,7 @@
     },
     {
       "surface": "סביבותיהם",
-      "gloss": "estavam ao redor deles"
+      "gloss": "ao redor deles"
     },
     {
       "surface": "וישתחוו",
@@ -84,11 +83,11 @@
     },
     {
       "surface": "להם",
-      "gloss": "a eles"
+      "gloss": "diante deles"
     },
     {
       "surface": "ויכעסו",
-      "gloss": "e provocaram"
+      "gloss": "e provocaram à ira"
     },
     {
       "surface": "את",
@@ -99,5 +98,7 @@
       "surface": "יהוה",
       "gloss": "YHWH"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:14:14.820851132Z",
+  "model": "glm-5.2"
 }

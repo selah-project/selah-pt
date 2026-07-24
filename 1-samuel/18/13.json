@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "1-samuel 18:13",
   "book": "1-samuel",
-  "chapter": 18,
-  "verse": 13,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:29:59.839411532Z",
-  "translation": "Então Shaul removeu ⟨את⟩ David de sua presença e o fez ⟨para si⟩ comandante de mil; e ele saiu e entrou diante do povo.",
+  "chapter": 18,
+  "translation": "E Shaul o afastou de diante de si, e o constituiu para si ⟨como⟩ comandante de mil; e ele saía e entrava diante do povo.",
   "tokens": [
     {
       "surface": "ויסרהו",
-      "gloss": "Então removeu ⟨o⟩"
+      "gloss": "e o afastou"
     },
     {
       "surface": "שאול",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "מעמו",
-      "gloss": "de sua presença"
+      "gloss": "de diante de si"
     },
     {
       "surface": "וישמהו",
-      "gloss": "e o fez"
+      "gloss": "e o constituiu"
     },
     {
       "surface": "לו",
-      "gloss": "⟨para si⟩"
+      "gloss": "para si"
     },
     {
       "surface": "שר",
@@ -35,15 +33,15 @@
     },
     {
       "surface": "אלף",
-      "gloss": "mil"
+      "gloss": "de mil"
     },
     {
       "surface": "ויצא",
-      "gloss": "e saiu"
+      "gloss": "e ele saía"
     },
     {
       "surface": "ויבא",
-      "gloss": "e entrou"
+      "gloss": "e entrava"
     },
     {
       "surface": "לפני",
@@ -54,16 +52,6 @@
       "gloss": "o povo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Saul",
-      "to": "Shaul",
-      "token-index": 1,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:21:08.761057189Z",
+  "model": "glm-5.2"
 }

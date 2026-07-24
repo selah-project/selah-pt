@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "numbers 16:8",
   "book": "numbers",
-  "chapter": 16,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:26:47.121708964Z",
-  "translation": "E Moshé disse a Korach: Escutai, ⟨את⟩ os filhos de Leví:",
+  "chapter": 16,
+  "translation": "E Moshé disse a Koraj: ⟨את⟩ ⟨Escutem⟩, agora, filhos de Leví:",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -23,42 +21,25 @@
     },
     {
       "surface": "קרח",
-      "gloss": "Korach"
+      "gloss": "Koraj:"
     },
     {
       "surface": "שמעו",
-      "gloss": "Escutai"
+      "gloss": "⟨את⟩ ⟨Escutem⟩"
     },
     {
       "surface": "נא",
-      "gloss": "⟨agora⟩"
+      "gloss": "agora"
     },
     {
       "surface": "בני",
-      "gloss": "os filhos de"
+      "gloss": "filhos"
     },
     {
       "surface": "לוי",
-      "gloss": "Leví"
+      "gloss": "de Leví:"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moshe",
-      "to": "Moshé",
-      "token-index": 1,
-      "strongs": 4872,
-      "hebrew": "משה"
-    },
-    {
-      "from": "Levi",
-      "to": "Leví",
-      "token-index": 7,
-      "strongs": 3878,
-      "hebrew": "לוי"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:56:04.936599866Z",
+  "model": "glm-5.2"
 }

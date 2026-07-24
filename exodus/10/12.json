@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "exodus 10:12",
   "book": "exodus",
-  "chapter": 10,
-  "verse": 12,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-14T04:27:18.018505624Z",
-  "translation": "E YHWH disse a Moshé: Estende a tua mão sobre ⟨é⟩ terra de Mitzráyim ⟨את⟩ o gafanhoto, para que suba sobre ⟨é⟩ terra de Mitzráyim e coma ⟨את⟩ toda erva da terra, ⟨את⟩ tudo o que o granizo deixou.",
+  "chapter": 10,
+  "translation": "E YHWH disse a Moshé: Estende tua mão sobre a terra de Mitzráyim ⟨no⟩ ⟨o⟩ gafanhoto, e ele suba sobre a terra de Mitzráyim, e devore ⟨את⟩ toda a erva da terra, ⟨את⟩ tudo o que o granizo deixou.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E"
+      "gloss": "E disse"
     },
     {
       "surface": "יהוה",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "terra"
+      "gloss": "a terra"
     },
     {
       "surface": "מצרים",
@@ -47,15 +45,19 @@
     },
     {
       "surface": "בארבה",
-      "gloss": "⟨את⟩ o gafanhoto"
+      "gloss": "no gafanhoto"
     },
     {
-      "surface": "ועל",
-      "gloss": "e sobre"
+      "surface": "ויעל",
+      "gloss": "e ele suba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨é⟩ terra"
+      "gloss": "a terra"
     },
     {
       "surface": "מצרים",
@@ -63,12 +65,12 @@
     },
     {
       "surface": "ויאכל",
-      "gloss": "e coma"
+      "gloss": "e devore"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "toda"
+      "marks": "toda a erva"
     },
     {
       "surface": "כל",
@@ -76,7 +78,7 @@
     },
     {
       "surface": "עשב",
-      "gloss": "erva"
+      "gloss": "a erva"
     },
     {
       "surface": "הארץ",
@@ -85,7 +87,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tudo o que"
+      "marks": "tudo"
     },
     {
       "surface": "כל",
@@ -97,11 +99,13 @@
     },
     {
       "surface": "השאיר",
-      "gloss": "o granizo deixou"
+      "gloss": "deixou"
     },
     {
       "surface": "הברד",
-      "gloss": ""
+      "gloss": "o granizo"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:39:46.559104620Z",
+  "model": "glm-5.2"
 }

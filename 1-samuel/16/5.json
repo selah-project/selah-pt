@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "1-samuel 16:5",
   "book": "1-samuel",
-  "chapter": 16,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:27:22.884989183Z",
-  "translation": "E ele disse: Em Shalom; vim ⟨para⟩ sacrificar ⟨a⟩ HaShem; santificai-vos e vinda comigo ⟨para⟩ o sacrifício. E ele santificou ⟨a⟩ Jessé ⟨e⟩ ⟨a⟩ seus filhos, e chamou-os ⟨para⟩ o sacrifício.",
+  "chapter": 16,
+  "translation": "E ele disse: Shalom. Vim para zevaj (sacrificar) a YHWH. Consagrai-vos, e vós vireis comigo ao sacrifício. E ele consagrou ⟨את⟩ Yishai e ⟨את⟩ seus filhos, e os convidou para o sacrifício.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -15,52 +13,52 @@
     },
     {
       "surface": "שלום",
-      "gloss": "Em Shalom"
+      "gloss": "Shalom"
     },
     {
       "surface": "לזבח",
-      "gloss": "⟨para⟩ sacrificar"
+      "gloss": "para zevaj (sacrificar)"
     },
     {
       "surface": "ליהוה",
-      "gloss": "YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "באתי",
-      "gloss": "vim"
+      "gloss": "Vim"
     },
     {
       "surface": "התקדשו",
-      "gloss": "santificai-vos"
+      "gloss": "Consagrai-vos"
     },
     {
       "surface": "ובאתם",
-      "gloss": "e vinda comigo"
+      "gloss": "e vós vireis"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨para⟩"
+      "gloss": "comigo"
     },
     {
       "surface": "בזבח",
-      "gloss": "o sacrifício"
+      "gloss": "ao sacrifício"
     },
     {
       "surface": "ויקדש",
-      "gloss": "E ele santificou"
+      "gloss": "E ele consagrou"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jessé"
+      "marks": "Yishai"
     },
     {
       "surface": "ישי",
-      "gloss": "Jessé"
+      "gloss": "Yishai"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨a⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "seus filhos"
     },
     {
@@ -69,27 +67,17 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "e chamou-os"
+      "gloss": "e os convidou"
     },
     {
       "surface": "להם",
-      "gloss": "⟨para⟩"
+      "gloss": "a eles"
     },
     {
       "surface": "לזבח",
-      "gloss": "o sacrifício"
+      "gloss": "para o sacrifício"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "paz",
-      "to": "Shalom",
-      "token-index": 1,
-      "strongs": 7965,
-      "hebrew": "שלום"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:20:36.443705855Z",
+  "model": "glm-5.2"
 }

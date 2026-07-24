@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "genesis 24:30",
   "book": "genesis",
-  "chapter": 24,
-  "verse": 30,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T14:49:32.655267641Z",
-  "translation": "E aconteceu que, quando viu ⟨את⟩ o anel e as pulseiras sobre as mãos de sua irmã, e quando ouviu ⟨את⟩ as palavras de Rivka, sua irmã, dizendo: Assim me falou o homem, então veio ao homem; e eis ⟨que⟩ estava ⟨ao⟩ pé dos camelos ⟨junto⟩ à fonte.",
+  "chapter": 24,
+  "translation": "E aconteceu, quando ele viu ⟨את⟩ o pendente e ⟨את⟩ as braceletes nas mãos de sua irmã, e quando ouviu ⟨את⟩ as palavras de Rivka, sua irmã, dizendo: \"Assim falou-me o homem\", que veio ao homem, e eis que ⟨ele⟩ estava de pé junto aos camelos, ⟨junto⟩ à fonte.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "E aconteceu que"
+      "gloss": "E aconteceu"
     },
     {
       "surface": "כראת",
@@ -20,19 +18,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o anel"
+      "marks": "o pendente"
     },
     {
       "surface": "הנזם",
-      "gloss": "o anel"
+      "gloss": "o pendente"
     },
     {
       "surface": "ואת",
-      "gloss": "e"
+      "gloss": "e ⟨את⟩",
+      "marks": "as braceletes"
     },
     {
       "surface": "הצמדים",
-      "gloss": "as pulseiras"
+      "gloss": "as braceletes"
     },
     {
       "surface": "על",
@@ -77,11 +76,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "me falou"
+      "gloss": "falou"
     },
     {
       "surface": "אלי",
-      "gloss": ""
+      "gloss": "a mim"
     },
     {
       "surface": "האיש",
@@ -89,7 +88,7 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "então veio"
+      "gloss": "que veio"
     },
     {
       "surface": "אל",
@@ -101,27 +100,29 @@
     },
     {
       "surface": "והנה",
-      "gloss": "; e eis"
+      "gloss": "e eis que"
     },
     {
       "surface": "עמד",
-      "gloss": "estava"
+      "gloss": "estava de pé"
     },
     {
       "surface": "על",
-      "gloss": "ao pé"
+      "gloss": "junto a"
     },
     {
       "surface": "הגמלים",
-      "gloss": "dos camelos"
+      "gloss": "os camelos"
     },
     {
       "surface": "על",
-      "gloss": "junto"
+      "gloss": "junto a"
     },
     {
       "surface": "העין",
       "gloss": "à fonte"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:31:22.247999968Z",
+  "model": "glm-5.2"
 }

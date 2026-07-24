@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "exodus 13:3",
   "book": "exodus",
-  "chapter": 13,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:49:42.076297938Z",
-  "translation": "E Moshé disse ao povo: Lembrai-vos de ⟨este⟩ dia, ⟨את⟩ que saístes de Mitzráyim, da casa de servos, pois com mão forte YHWH vos tirou ⟨את⟩ disto; e não se comerá jametz.",
+  "chapter": 13,
+  "translation": "E Moshé disse ao povo: Lembrai este ⟨את⟩ dia, em que saístes de Mitzráyim, da casa de escravos — porque com mão forte YHWH tirou vocês ⟨את⟩ daqui; e não se comerá fermentado.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E ... disse"
+      "gloss": "E disse"
     },
     {
       "surface": "משה",
@@ -19,32 +17,32 @@
     },
     {
       "surface": "אל",
-      "gloss": "ao"
+      "gloss": "a"
     },
     {
       "surface": "העם",
-      "gloss": "povo"
+      "gloss": "o povo"
     },
     {
       "surface": "זכור",
-      "gloss": "Lembrai-vos"
+      "gloss": "Lembrai"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "este dia"
+      "marks": "o dia"
     },
     {
       "surface": "היום",
-      "gloss": "de ⟨este⟩ dia"
+      "gloss": "este dia"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "este"
     },
     {
       "surface": "אשר",
-      "gloss": "que"
+      "gloss": "em que"
     },
     {
       "surface": "יצאתם",
@@ -56,19 +54,19 @@
     },
     {
       "surface": "מבית",
-      "gloss": "da casa"
+      "gloss": "da casa de"
     },
     {
       "surface": "עבדים",
-      "gloss": "de servos"
+      "gloss": "escravos"
     },
     {
       "surface": "כי",
-      "gloss": "pois"
+      "gloss": "porque"
     },
     {
       "surface": "בחזק",
-      "gloss": "com ... forte"
+      "gloss": "com forte"
     },
     {
       "surface": "יד",
@@ -84,12 +82,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "vos ⟨את⟩",
-      "marks": "disto"
+      "gloss": "⟨את⟩ vocês",
+      "marks": "daqui"
     },
     {
       "surface": "מזה",
-      "gloss": "disto"
+      "gloss": "daqui"
     },
     {
       "surface": "ולא",
@@ -101,7 +99,9 @@
     },
     {
       "surface": "חמץ",
-      "gloss": "jametz"
+      "gloss": "fermentado"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:40:30.789611277Z",
+  "model": "glm-5.2"
 }

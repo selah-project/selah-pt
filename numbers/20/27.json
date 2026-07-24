@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 27,
   "ref": "numbers 20:27",
   "book": "numbers",
-  "chapter": 20,
-  "verse": 27,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:31:40.138449711Z",
-  "translation": "E Moshé fez conforme ⟨את⟩ YHWH havia ordenado, e eles subiram ao monte Hor, perante os olhos de toda ⟨את⟩ congregação.",
+  "chapter": 20,
+  "translation": "E Moshé fez assim como YHWH ordenou; e subiram ao monte Hor perante os olhos de toda ⟨a⟩ congregação.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "E Mosheh fez"
+      "gloss": "E fez"
     },
     {
       "surface": "משה",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "conforme"
+      "gloss": "assim como"
     },
     {
       "surface": "צוה",
-      "gloss": "havia ordenado"
+      "gloss": "ordenou"
     },
     {
       "surface": "יהוה",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "e eles subiram"
+      "gloss": "e subiram"
     },
     {
       "surface": "אל",
-      "gloss": "ao"
+      "gloss": "a"
     },
     {
       "surface": "הר",
@@ -55,20 +53,9 @@
     },
     {
       "surface": "העדה",
-      "gloss": "congregação",
-      "marks": "congregação"
+      "gloss": "a congregação"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Mosheh",
-      "to": "Moshé",
-      "token-index": 1,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:57:15.223612293Z",
+  "model": "glm-5.2"
 }

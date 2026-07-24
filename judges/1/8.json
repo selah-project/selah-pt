@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "judges 1:8",
   "book": "judges",
-  "chapter": 1,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:18:29.633772025Z",
-  "translation": "E os filhos de Yehudá lutaram contra Yerushalayim e a capturaram, e a golpearam ⟨é⟩ ⟨pela⟩ boca da espada, e ⟨את⟩ a cidade enviaram no fogo.",
+  "chapter": 1,
+  "translation": "E os filhos de Yehudá pelejaram contra Yerushalayim, e a tomaram, e a feriram ao fio da espada; e ⟨את⟩ a cidade entregaram ao fogo.",
   "tokens": [
     {
       "surface": "וילחמו",
-      "gloss": "E lutaram"
+      "gloss": "e pelejaram"
     },
     {
       "surface": "בני",
@@ -27,24 +25,24 @@
     },
     {
       "surface": "וילכדו",
-      "gloss": "e a capturaram"
+      "gloss": "e a tomaram"
     },
     {
       "surface": "אותה",
-      "gloss": "a",
-      "marks": "golpearem"
+      "gloss": "⟨את⟩",
+      "marks": "a ela (Yerushalayim)"
     },
     {
       "surface": "ויכוה",
-      "gloss": "e golpearam"
+      "gloss": "e a feriram"
     },
     {
       "surface": "לפי",
-      "gloss": "pela"
+      "gloss": "ao fio de"
     },
     {
       "surface": "חרב",
-      "gloss": "boca da espada"
+      "gloss": "espada"
     },
     {
       "surface": "ואת",
@@ -57,11 +55,13 @@
     },
     {
       "surface": "שלחו",
-      "gloss": "enviaram"
+      "gloss": "entregaram"
     },
     {
       "surface": "באש",
-      "gloss": "no fogo"
+      "gloss": "ao fogo"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:13:47.488659432Z",
+  "model": "glm-5.2"
 }

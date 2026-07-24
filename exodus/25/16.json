@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "exodus 25:16",
   "book": "exodus",
-  "chapter": 25,
-  "verse": 16,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:55:37.223857433Z",
-  "translation": "E colocarás ⟨את⟩ ⟨o⟩ Testemunho ⟨que⟩ Eu te dou dentro ⟨do⟩ Aron",
+  "chapter": 25,
+  "translation": "E colocarás dentro do Aron ⟨את⟩ o testemunho que Eu te darei.",
   "tokens": [
     {
       "surface": "ונתת",
@@ -15,32 +13,34 @@
     },
     {
       "surface": "אל",
-      "gloss": "dentro"
+      "gloss": "dentro de"
     },
     {
       "surface": "הארן",
-      "gloss": "⟨do⟩ Aron"
+      "gloss": "o Aron"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o Testemunho"
+      "marks": "o testemunho"
     },
     {
       "surface": "העדת",
-      "gloss": "⟨o⟩ Testemunho"
+      "gloss": "o testemunho"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨que⟩"
+      "gloss": "que"
     },
     {
       "surface": "אתן",
-      "gloss": "Eu te dou"
+      "gloss": "Eu darei"
     },
     {
       "surface": "אליך",
-      "gloss": ""
+      "gloss": "a ti"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:42:36.120061570Z",
+  "model": "glm-5.2"
 }

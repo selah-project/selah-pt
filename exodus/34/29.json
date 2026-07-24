@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 29,
   "ref": "exodus 34:29",
   "book": "exodus",
-  "chapter": 34,
-  "verse": 29,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T01:29:21.672063584Z",
-  "translation": "E aconteceu que, ao descer Moshé ⟨do⟩ Monte Sinai, e ⟨as⟩ duas tábuas ⟨do⟩ testemunho ⟨estavam⟩ na mão ⟨de⟩ Moshé, ao descer ele ⟨do⟩ monte, Moshé não sabia que ⟨a⟩ pele ⟨do⟩ seu rosto resplandecia ⟨por⟩ falar ⟨com⟩ ele ⟨com⟩ ele.",
+  "chapter": 34,
+  "translation": "E aconteceu, ao descer Moshé do monte Sinai, e as duas tábuas do testemunho ⟨estavam⟩ na mão de Moshé, ao descer ele do monte, e Moshé não sabia que ⟨a⟩ pele de sua face irradiava raios ao falar Ele ⟨com⟩ ele.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "מהר",
-      "gloss": "⟨do⟩ Monte"
+      "gloss": "do monte"
     },
     {
       "surface": "סיני",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "ושני",
-      "gloss": "e ⟨as⟩ duas"
+      "gloss": "e as duas"
     },
     {
       "surface": "לחת",
@@ -39,15 +37,15 @@
     },
     {
       "surface": "העדת",
-      "gloss": "⟨do⟩ testemunho"
+      "gloss": "do testemunho"
     },
     {
       "surface": "ביד",
-      "gloss": "⟨estavam⟩ na mão"
+      "gloss": "na mão"
     },
     {
       "surface": "משה",
-      "gloss": "⟨de⟩ Moshé"
+      "gloss": "de Moshé"
     },
     {
       "surface": "ברדתו",
@@ -55,15 +53,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "⟨do⟩"
+      "gloss": "de"
     },
     {
       "surface": "ההר",
-      "gloss": "monte"
+      "gloss": "o monte"
     },
     {
       "surface": "ומשה",
-      "gloss": "Mosheh"
+      "gloss": "e Moshé"
     },
     {
       "surface": "לא",
@@ -79,43 +77,26 @@
     },
     {
       "surface": "קרן",
-      "gloss": "⟨a⟩ pele ⟨do⟩ seu rosto resplandecia"
+      "gloss": "irradiava raios"
     },
     {
       "surface": "עור",
-      "gloss": "⟨a⟩ pele ⟨do⟩ seu rosto resplandecia"
+      "gloss": "pele"
     },
     {
       "surface": "פניו",
-      "gloss": "⟨do⟩ seu rosto resplandecia"
+      "gloss": "de sua face"
     },
     {
       "surface": "בדברו",
-      "gloss": "⟨por⟩ falar ⟨com⟩ ele"
+      "gloss": "ao falar Ele"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨com⟩ ele",
-      "marks": "ele (referente a Elohim)"
+      "gloss": "⟨את⟩",
+      "marks": "com ele"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Mosheh",
-      "to": "Moshé",
-      "token-index": 2,
-      "strongs": 4872,
-      "hebrew": "משה"
-    },
-    {
-      "from": "Mosheh",
-      "to": "Moshé",
-      "token-index": 9,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:45:12.717923385Z",
+  "model": "glm-5.2"
 }

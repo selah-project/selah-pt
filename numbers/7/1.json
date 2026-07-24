@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "numbers 7:1",
   "book": "numbers",
-  "chapter": 7,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:07:31.317471057Z",
-  "translation": "E aconteceu no dia em que Moshé acabou de levantar ⟨את⟩ o Mishkán, e ungiu ⟨o⟩ e consagrou ⟨o⟩, e ⟨את⟩ todo o utensílio dele, e ⟨את⟩ o Mizbeá, e ⟨את⟩ todo o utensílio dele, e ungiu ⟨os⟩ e consagrou ⟨את⟩ ⟨eles⟩",
+  "chapter": 7,
+  "translation": "E aconteceu no dia em que Moshé terminou de erguer ⟨את⟩ o Mishkán, que ele o ungiu, e o consagrou, e ⟨את⟩ todos os seus utensílios, e ⟨את⟩ o altar e ⟨את⟩ todos os seus utensílios; e os ungiu e os consagrou ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "כלות",
-      "gloss": "em que Moshé acabou de"
+      "gloss": "em que terminou"
     },
     {
       "surface": "משה",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "להקים",
-      "gloss": "levantar"
+      "gloss": "de erguer"
     },
     {
       "surface": "את",
@@ -40,12 +38,11 @@
     },
     {
       "surface": "וימשח",
-      "gloss": "e ungiu"
+      "gloss": "que ele ungiu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨o⟩",
-      "marks": "e consagrou"
+      "gloss": "o"
     },
     {
       "surface": "ויקדש",
@@ -53,44 +50,46 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨o⟩",
-      "marks": "e ⟨את⟩"
+      "gloss": "o"
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨את⟩"
+      "gloss": "e ⟨את⟩",
+      "marks": "todos os seus utensílios"
     },
     {
       "surface": "כל",
-      "gloss": "todo"
+      "gloss": "todos"
     },
     {
       "surface": "כליו",
-      "gloss": "o utensílio dele"
+      "gloss": "os seus utensílios"
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨את⟩"
+      "gloss": "e ⟨את⟩",
+      "marks": "o altar"
     },
     {
       "surface": "המזבח",
-      "gloss": "o Mizbeá"
+      "gloss": "o altar"
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨את⟩"
+      "gloss": "e ⟨את⟩",
+      "marks": "todos os seus utensílios"
     },
     {
       "surface": "כל",
-      "gloss": "todo"
+      "gloss": "todos"
     },
     {
       "surface": "כליו",
-      "gloss": "o utensílio dele"
+      "gloss": "os seus utensílios"
     },
     {
       "surface": "וימשחם",
-      "gloss": "e ungiu ⟨os⟩"
+      "gloss": "e os ungiu"
     },
     {
       "surface": "ויקדש",
@@ -98,8 +97,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨eles⟩",
-      "marks": ""
+      "gloss": "⟨את⟩",
+      "marks": "os (Mishkán, altar e utensílios)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:53:55.493333014Z",
+  "model": "glm-5.2"
 }

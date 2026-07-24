@@ -1,49 +1,37 @@
 {
+  "tier": "glm-5.2",
+  "verse": 40,
   "ref": "psalms 89:40",
   "book": "psalms",
-  "chapter": 89,
-  "verse": 40,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:39:45.057586407Z",
-  "translation": "Tu ⟨tens⟩ rejeitado ⟨את⟩ Brit do teu servo; ⟨tens⟩ profanado ⟨את⟩ sua coroa até à terra ⟨lançando⟩-a",
+  "chapter": 89,
+  "translation": "Desprezaste a Brit de teu servo; profanaste na terra a sua coroa.",
   "tokens": [
     {
-      "surface": "נארתה",
-      "gloss": "⟨Tens⟩ rejeitado"
+      "surface": "נֵ֭אַרְתָּה",
+      "gloss": "Desprezaste"
     },
     {
-      "surface": "ברית",
-      "gloss": "Brit"
+      "surface": "בְּרִ֣ית",
+      "gloss": "a Brit"
     },
     {
-      "surface": "עבדך",
-      "gloss": "do teu servo"
+      "surface": "עַבְדֶּ֑ךָ",
+      "gloss": "de teu servo"
     },
     {
-      "surface": "חללת",
-      "gloss": "⟨tens⟩ profanado"
+      "surface": "חִלַּ֖לְתָּ",
+      "gloss": "profanaste"
     },
     {
-      "surface": "לארץ",
-      "gloss": "até à terra ⟨lançando⟩-a"
+      "surface": "לָאָ֣רֶץ",
+      "gloss": "na terra"
     },
     {
-      "surface": "נזרו",
-      "gloss": "sua coroa"
+      "surface": "נִזְרֽוֹ",
+      "gloss": "a sua coroa"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "o pacto",
-      "to": "Brit",
-      "token-index": 1,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:11:23.757975182Z",
+  "model": "glm-5.2"
 }

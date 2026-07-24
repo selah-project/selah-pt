@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 24,
   "ref": "numbers 11:24",
   "book": "numbers",
-  "chapter": 11,
-  "verse": 24,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:10:16.691295682Z",
-  "translation": "E Moshé saiu, e falou ao povo as palavras de YHWH, e reuniu setenta homens dos anciãos do povo, e os pôs em redor da tenda",
+  "chapter": 11,
+  "translation": "E saiu Moshé, e falou ao povo ⟨את⟩ as palavras de YHWH; e reuniu setenta homens dos anciãos do povo, e os fez colocar ⟨ao redor⟩ do Mishkán.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -32,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "as palavras de YHWH"
+      "marks": "as palavras"
     },
     {
       "surface": "דברי",
@@ -64,20 +62,22 @@
     },
     {
       "surface": "ויעמד",
-      "gloss": "e os pôs"
+      "gloss": "e os fez colocar"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "em redor da tenda"
+      "marks": "ao redor"
     },
     {
       "surface": "סביבת",
-      "gloss": "em redor"
+      "gloss": "ao redor"
     },
     {
       "surface": "האהל",
-      "gloss": "da tenda"
+      "gloss": "do Mishkán"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:55:05.896685864Z",
+  "model": "glm-5.2"
 }

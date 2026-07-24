@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "jonah 3:2",
   "book": "jonah",
-  "chapter": 3,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:05:00.360307393Z",
-  "translation": "Levanta-te, vai a Nínive, a grande cidade, e proclama a ela ⟨את⟩ a proclamação que eu falo a ti",
+  "chapter": 3,
+  "translation": "Levanta-te, vai a Nínive, ⟨a⟩ grande cidade, e proclama contra ela ⟨את⟩ ⟨a⟩ proclamação que eu te falo.",
   "tokens": [
     {
       "surface": "קום",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "העיר",
-      "gloss": "a grande cidade"
+      "gloss": "⟨a⟩ cidade"
     },
     {
       "surface": "הגדולה",
-      "gloss": ""
+      "gloss": "grande"
     },
     {
       "surface": "וקרא",
@@ -39,16 +37,16 @@
     },
     {
       "surface": "אליה",
-      "gloss": "a ela"
+      "gloss": "contra ela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הקריאה"
+      "marks": "a proclamação"
     },
     {
       "surface": "הקריאה",
-      "gloss": "a proclamação"
+      "gloss": "⟨a⟩ proclamação"
     },
     {
       "surface": "אשר",
@@ -66,5 +64,7 @@
       "surface": "אליך",
       "gloss": "a ti"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:05:33.533368125Z",
+  "model": "glm-5.2"
 }

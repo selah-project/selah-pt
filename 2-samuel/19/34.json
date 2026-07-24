@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 34,
   "ref": "2-samuel 19:34",
   "book": "2-samuel",
-  "chapter": 19,
-  "verse": 34,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:56:54.865648280Z",
-  "translation": "E disse o rei a Barzillai: Passa ⟨tu⟩ comigo, e eu te sustentarei ⟨את⟩ comigo em Yerushalayim.",
+  "chapter": 19,
+  "translation": "E o rei disse a Barzilai: Tu, atravessa comigo, e ⟨את⟩ te sustentarei comigo em Yerushalayim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -23,15 +21,15 @@
     },
     {
       "surface": "ברזלי",
-      "gloss": "Barzillai"
+      "gloss": "Barzilai"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨tu⟩"
+      "gloss": "tu"
     },
     {
       "surface": "עבר",
-      "gloss": "Passa"
+      "gloss": "atravessa"
     },
     {
       "surface": "אתי",
@@ -39,12 +37,12 @@
     },
     {
       "surface": "וכלכלתי",
-      "gloss": "e eu te sustentarei"
+      "gloss": "e sustentarei"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "comigo"
+      "marks": "te"
     },
     {
       "surface": "עמדי",
@@ -54,5 +52,7 @@
       "surface": "בירושלם",
       "gloss": "em Yerushalayim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:27:55.702937871Z",
+  "model": "glm-5.2"
 }

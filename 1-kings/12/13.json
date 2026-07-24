@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "1-kings 12:13",
   "book": "1-kings",
-  "chapter": 12,
-  "verse": 13,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T11:30:42.902923301Z",
-  "translation": "E o rei respondeu ao povo ⟨ásperamente⟩, e abandonou ⟨את⟩ o conselho dos anciãos que o aconselharam",
+  "chapter": 12,
+  "translation": "E o rei respondeu ao povo ⟨duramente⟩, e abandonou ⟨את⟩ o conselho dos anciãos que o haviam aconselhado.",
   "tokens": [
     {
       "surface": "ויען",
@@ -20,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o povo"
+      "marks": "ao povo"
     },
     {
       "surface": "העם",
-      "gloss": "ao povo"
+      "gloss": "o povo"
     },
     {
       "surface": "קשה",
-      "gloss": "⟨ásperamente⟩"
+      "gloss": "duramente"
     },
     {
       "surface": "ויעזב",
@@ -37,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o conselho"
+      "marks": "o conselho dos anciãos"
     },
     {
       "surface": "עצת",
@@ -53,7 +51,9 @@
     },
     {
       "surface": "יעצהו",
-      "gloss": "o aconselharam"
+      "gloss": "o haviam aconselhado"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T21:32:28.504858482Z",
+  "model": "glm-5.2"
 }

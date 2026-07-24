@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "2-chronicles 9:5",
   "book": "2-chronicles",
-  "chapter": 9,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T14:15:51.500031213Z",
-  "translation": "E ela disse ao rei: ⟨את⟩ ⟨o⟩ relato é Emetiro, que ouvi na minha terra sobre ⟨os⟩ teus atos e sobre ⟨a⟩ tuJojmá.",
+  "chapter": 9,
+  "translation": "E ela disse ao rei: ⟨É⟩ Emet o davar que ouvi na minha terra, sobre os teus devarim e sobre a tua Jojmá.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -23,12 +21,11 @@
     },
     {
       "surface": "אמת",
-      "gloss": "⟨o⟩ relato é Emetiro"
+      "gloss": "Emet"
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨o⟩ relato",
-      "marks": "relato"
+      "gloss": "o davar"
     },
     {
       "surface": "אשר",
@@ -44,40 +41,21 @@
     },
     {
       "surface": "על",
-      "gloss": "sobre ⟨os⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "דבריך",
-      "gloss": "teus atos",
-      "marks": "teus atos"
+      "gloss": "os teus devarim"
     },
     {
       "surface": "ועל",
-      "gloss": "e sobre ⟨a⟩"
+      "gloss": "e sobre"
     },
     {
       "surface": "חכמתך",
-      "gloss": "tuJojmá",
-      "marks": "sabedoria"
+      "gloss": "a tua Jojmá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "verdade",
-      "to": "Emet",
-      "token-index": 3,
-      "strongs": 571,
-      "hebrew": "אמת"
-    },
-    {
-      "from": "a sabedoria",
-      "to": "Jojmá",
-      "token-index": 11,
-      "strongs": 2451,
-      "hebrew": "חכמה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:32:06.485694803Z",
+  "model": "glm-5.2"
 }

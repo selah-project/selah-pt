@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "daniel 11:30",
   "book": "daniel",
-  "chapter": 11,
-  "verse": 30,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:00:52.373131218Z",
-  "translation": "E virão contra ele ⟨את⟩ navios de Quitim e ele será atingido e retornará e terá indignação contra ⟨את⟩ Brit sagrada e fará e retornará e entenderá com os que abandonam ⟨את⟩ Brit sagrada",
+  "chapter": 11,
+  "translation": "E chegarão a ele navios de Quitim, e ⟨ele⟩ será abatido; e voltará, e se indignará contra a ⟨Brit⟩ Kódesh, e agirá; e voltará, e compreenderá aos que abandonam a ⟨Brit⟩ Kódesh.",
   "tokens": [
     {
       "surface": "ובאו",
-      "gloss": "E virão"
+      "gloss": "e chegarão"
     },
     {
       "surface": "בו",
-      "gloss": "contra ele"
+      "gloss": "a ele"
     },
     {
       "surface": "ציים",
@@ -27,76 +25,57 @@
     },
     {
       "surface": "ונכאה",
-      "gloss": "e ele será atingido"
+      "gloss": "e ⟨ele⟩ será abatido"
     },
     {
       "surface": "ושב",
-      "gloss": "e retornará"
+      "gloss": "e voltará"
     },
     {
       "surface": "וזעם",
-      "gloss": "e terá indignação"
+      "gloss": "e se indignará"
     },
     {
       "surface": "על",
-      "gloss": "contra",
-      "marks": "aliança sagrada"
+      "gloss": "contra"
     },
     {
       "surface": "ברית",
-      "gloss": "Brit"
+      "gloss": "a ⟨Brit⟩"
     },
     {
       "surface": "קודש",
-      "gloss": "sagrada"
+      "gloss": "Kódesh"
     },
     {
       "surface": "ועשה",
-      "gloss": "e fará"
+      "gloss": "e agirá"
     },
     {
       "surface": "ושב",
-      "gloss": "e retornará"
+      "gloss": "e voltará"
     },
     {
       "surface": "ויבן",
-      "gloss": "e entenderá"
+      "gloss": "e compreenderá"
     },
     {
       "surface": "על",
-      "gloss": "com",
-      "marks": "os que abandonam"
+      "gloss": "aos"
     },
     {
       "surface": "עזבי",
-      "gloss": "os que abandonam"
+      "gloss": "que abandonam"
     },
     {
       "surface": "ברית",
-      "gloss": "Brit"
+      "gloss": "a ⟨Brit⟩"
     },
     {
       "surface": "קדש",
-      "gloss": "sagrada"
+      "gloss": "Kódesh"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "aliança",
-      "to": "Brit",
-      "token-index": 8,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    },
-    {
-      "from": "aliança",
-      "to": "Brit",
-      "token-index": 15,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:24:21.681929924Z",
+  "model": "glm-5.2"
 }

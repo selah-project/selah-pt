@@ -1,26 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "2-kings 25:9",
   "book": "2-kings",
-  "chapter": 25,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:12:42.565580691Z",
-  "translation": "E ele queimou ⟨את⟩ a casa de YHWH e ⟨את⟩ a casa do rei e ⟨את⟩ todas ⟨את⟩ as casas de Yerushalayim e ⟨את⟩ toda ⟨את⟩ casa grande queimou ⟨com⟩ fogo",
+  "chapter": 25,
+  "translation": "E queimou ⟨את⟩ a Casa de YHWH, e ⟨את⟩ a casa do rei, e ⟨את⟩ todas as casas de Yerushalayim; e ⟨את⟩ toda casa grande queimou ⟨com⟩ fogo.",
   "tokens": [
     {
       "surface": "וישרף",
-      "gloss": "E ele queimou"
+      "gloss": "E queimou"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a casa"
+      "marks": "a Casa"
     },
     {
       "surface": "בית",
-      "gloss": "a casa"
+      "gloss": "Casa"
     },
     {
       "surface": "יהוה",
@@ -29,11 +27,11 @@
     {
       "surface": "ואת",
       "gloss": "e ⟨את⟩",
-      "marks": "a casa"
+      "marks": "a casa do rei"
     },
     {
       "surface": "בית",
-      "gloss": "a casa"
+      "gloss": "casa"
     },
     {
       "surface": "המלך",
@@ -42,7 +40,7 @@
     {
       "surface": "ואת",
       "gloss": "e ⟨את⟩",
-      "marks": "todas"
+      "marks": "todas as casas"
     },
     {
       "surface": "כל",
@@ -50,7 +48,7 @@
     },
     {
       "surface": "בתי",
-      "gloss": "⟨as⟩ casas"
+      "gloss": "as casas"
     },
     {
       "surface": "ירושלם",
@@ -59,7 +57,7 @@
     {
       "surface": "ואת",
       "gloss": "e ⟨את⟩",
-      "marks": "toda"
+      "marks": "toda casa grande"
     },
     {
       "surface": "כל",
@@ -67,7 +65,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "⟨a⟩ casa"
+      "gloss": "casa"
     },
     {
       "surface": "גדול",
@@ -79,19 +77,9 @@
     },
     {
       "surface": "באש",
-      "gloss": "⟨com⟩ fogo"
+      "gloss": "com fogo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jerusalém",
-      "to": "Yerushalayim",
-      "token-index": 10,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:40:46.475220469Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "joshua 9:11",
   "book": "joshua",
-  "chapter": 9,
-  "verse": 11,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:33:52.657895877Z",
-  "translation": "E os nossos velhos e todos ⟨os⟩ moradores da nossa terra nos disseram, dizendo: Tomai ⟨את⟩ o sustento em vossa mão para ⟨o⟩ caminho, e ide ao seu encontro, e dizei-lhes: 'Servos vós sois ⟨את⟩ nós', e agora fazei ⟨um⟩ Brit conosco.",
+  "chapter": 9,
+  "translation": "E ⟨os nossos⟩ anciãos e todos os habitantes da nossa terra nos disseram, dizendo: Tomai em vossas mãos provisão para o caminho e ide ao seu encontro, e lhes direis: Nós somos vossos servos; e agora, cortai conosco ⟨uma⟩ Brit.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "זקינינו",
-      "gloss": "os nossos velhos"
+      "gloss": "nossos anciãos"
     },
     {
       "surface": "וכל",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "ישבי",
-      "gloss": "os moradores"
+      "gloss": "os habitantes de"
     },
     {
       "surface": "ארצנו",
-      "gloss": "da nossa terra"
+      "gloss": "nossa terra"
     },
     {
       "surface": "לאמר",
@@ -43,12 +41,11 @@
     },
     {
       "surface": "בידכם",
-      "gloss": "em vossa mão"
+      "gloss": "em vossas mãos"
     },
     {
       "surface": "צידה",
-      "gloss": "o sustento",
-      "marks": "o sustento"
+      "gloss": "provisão"
     },
     {
       "surface": "לדרך",
@@ -64,7 +61,7 @@
     },
     {
       "surface": "ואמרתם",
-      "gloss": "e dizei-lhes"
+      "gloss": "e direis"
     },
     {
       "surface": "אליהם",
@@ -72,12 +69,11 @@
     },
     {
       "surface": "עבדיכם",
-      "gloss": "Servos"
+      "gloss": "vossos servos"
     },
     {
       "surface": "אנחנו",
-      "gloss": "vós sois",
-      "marks": "nós"
+      "gloss": "nós"
     },
     {
       "surface": "ועתה",
@@ -85,7 +81,7 @@
     },
     {
       "surface": "כרתו",
-      "gloss": "fazei"
+      "gloss": "cortai"
     },
     {
       "surface": "לנו",
@@ -93,19 +89,9 @@
     },
     {
       "surface": "ברית",
-      "gloss": "um Brit"
+      "gloss": "Brit"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "pacto",
-      "to": "Brit",
-      "token-index": 20,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:10:33.149632818Z",
+  "model": "glm-5.2"
 }

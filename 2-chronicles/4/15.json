@@ -1,18 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "2-chronicles 4:15",
   "book": "2-chronicles",
-  "chapter": 4,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:05:58.099464811Z",
-  "translation": "o Mar, um, e ⟨את⟩ os doze bois ⟨את⟩ sob ⟨ele⟩",
+  "chapter": 4,
+  "translation": "⟨את⟩ ⟨o⟩ Mar, um, e ⟨את⟩ os bois, doze, ⟨debaixo⟩ dele.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הים"
+      "marks": "o Mar"
     },
     {
       "surface": "הים",
@@ -25,11 +23,11 @@
     {
       "surface": "ואת",
       "gloss": "e ⟨את⟩",
-      "marks": "הבקר"
+      "marks": "os bois"
     },
     {
       "surface": "הבקר",
-      "gloss": "os doze bois"
+      "gloss": "os bois"
     },
     {
       "surface": "שנים",
@@ -41,7 +39,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "sob ⟨ele⟩"
+      "gloss": "debaixo dele"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:42:40.451916783Z",
+  "model": "glm-5.2"
 }

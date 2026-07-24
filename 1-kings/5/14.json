@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "1-kings 5:14",
   "book": "1-kings",
-  "chapter": 5,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T05:15:36.451191219Z",
-  "translation": "E vieram ⟨de⟩ todos os povos ⟨para⟩ ouvir ⟨a⟩ Jojmá de Shlomó, ⟨de⟩ ⟨o⟩ ⟨a⟩ todo ⟨o⟩s reis ⟨da⟩ terra que ouviram ⟨a⟩ Jojmá dele",
+  "chapter": 5,
+  "translation": "E vinham de todos os povos para ouvir ⟨a⟩ Jojmá de Shlomó, da parte de todos os reis da terra que tinham ouvido ⟨sobre⟩ ⟨a⟩ sua Jojmá.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "E vieram"
+      "gloss": "E vinham"
     },
     {
       "surface": "מכל",
-      "gloss": "⟨de⟩ todos"
+      "gloss": "de todos"
     },
     {
       "surface": "העמים",
@@ -23,36 +21,36 @@
     },
     {
       "surface": "לשמע",
-      "gloss": "⟨para⟩ ouvir"
+      "gloss": "para ouvir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sabedoria"
+      "marks": "a Jojmá"
     },
     {
       "surface": "חכמת",
-      "gloss": "Jojmá"
+      "gloss": "Jojmá de"
     },
     {
       "surface": "שלמה",
-      "gloss": "de Shlomó"
+      "gloss": "Shlomó"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de⟩"
+      "gloss": "da parte de"
     },
     {
       "surface": "כל",
-      "gloss": "⟨o⟩"
+      "gloss": "todos"
     },
     {
       "surface": "מלכי",
-      "gloss": "⟨a⟩ todo ⟨o⟩s reis"
+      "gloss": "os reis de"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨da⟩ terra"
+      "gloss": "a terra"
     },
     {
       "surface": "אשר",
@@ -60,35 +58,18 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "ouviram"
+      "gloss": "tinham ouvido"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sabedoria dele"
+      "marks": "a sua Jojmá"
     },
     {
       "surface": "חכמתו",
-      "gloss": "Jojmá dele"
+      "gloss": "a sua Jojmá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "sabedoria",
-      "to": "Jojmá",
-      "token-index": 5,
-      "strongs": 2451,
-      "hebrew": "חכמה"
-    },
-    {
-      "from": "sabedoria",
-      "to": "Jojmá",
-      "token-index": 14,
-      "strongs": 2451,
-      "hebrew": "חכמה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:30:00.124558636Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "joshua 24:19",
   "book": "joshua",
-  "chapter": 24,
-  "verse": 19,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:49:46.698049639Z",
-  "translation": "E Yehoshua disse ao povo: Não podereis servir a ⟨o⟩ YHWH; porque ⟨ele é⟩ um Elohim santo, ⟨ele é⟩ um El ⟨que é⟩ zeloso; não perdoará ⟨ele⟩ vossas transgressões nem vossos pecados.",
+  "chapter": 24,
+  "translation": "E Yehoshua disse ao povo: Vós não podeis servir a ⟨את⟩ YHWH, porque ⟨Ele é⟩ Elohim santos; ⟨Ele é⟩ El zeloso, não perdoará as vossas transgressões e os vossos pecados.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "ao"
+      "gloss": "a"
     },
     {
       "surface": "העם",
-      "gloss": "povo"
+      "gloss": "o povo"
     },
     {
       "surface": "לא",
-      "gloss": "Não"
+      "gloss": "não"
     },
     {
       "surface": "תוכלו",
-      "gloss": "podereis"
+      "gloss": "podeis"
     },
     {
       "surface": "לעבד",
@@ -56,11 +54,11 @@
     },
     {
       "surface": "קדשים",
-      "gloss": "santo"
+      "gloss": "santos"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ele é⟩"
+      "gloss": "Ele é"
     },
     {
       "surface": "אל",
@@ -68,11 +66,11 @@
     },
     {
       "surface": "קנוא",
-      "gloss": "⟨que é⟩ zeloso"
+      "gloss": "zeloso"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ele é⟩"
+      "gloss": "Ele é"
     },
     {
       "surface": "לא",
@@ -84,23 +82,13 @@
     },
     {
       "surface": "לפשעכם",
-      "gloss": "vossas transgressões"
+      "gloss": "as vossas transgressões"
     },
     {
       "surface": "ולחטאותיכם",
-      "gloss": "nem vossos pecados"
+      "gloss": "e os vossos pecados"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Josué",
-      "to": "Yehoshua",
-      "token-index": 1,
-      "strongs": 3091,
-      "hebrew": "יהושע"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:13:36.937268247Z",
+  "model": "glm-5.2"
 }

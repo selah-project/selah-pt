@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "2-samuel 6:9",
   "book": "2-samuel",
-  "chapter": 6,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:48:11.055559493Z",
-  "translation": "E Davidd temeu ⟨a⟩ YHWH naquele dia e disse: Como virá ⟨a⟩ mim ⟨a⟩ Aron ⟨de⟩ YHWH?",
+  "chapter": 6,
+  "translation": "E David temeu ⟨את⟩ YHWH naquele ⟨dia⟩, e disse: Como virá a mim o Aron de YHWH?",
   "tokens": [
     {
       "surface": "וירא",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "את",
@@ -28,11 +26,11 @@
     },
     {
       "surface": "ביום",
-      "gloss": "naquele dia"
+      "gloss": "no dia"
     },
     {
       "surface": "ההוא",
-      "gloss": "naquele"
+      "gloss": "aquele"
     },
     {
       "surface": "ויאמר",
@@ -48,34 +46,17 @@
     },
     {
       "surface": "אלי",
-      "gloss": "⟨a⟩ mim"
+      "gloss": "a mim"
     },
     {
       "surface": "ארון",
-      "gloss": "⟨a⟩ Aron"
+      "gloss": "o Aron"
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨de⟩ YHWH"
+      "gloss": "de YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "arca",
-      "to": "Aron",
-      "token-index": 10,
-      "strongs": 727,
-      "hebrew": "ארון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:24:51.802526513Z",
+  "model": "glm-5.2"
 }

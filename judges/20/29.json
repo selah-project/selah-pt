@@ -1,50 +1,37 @@
 {
+  "tier": "glm-5.2",
+  "verse": 29,
   "ref": "judges 20:29",
   "book": "judges",
-  "chapter": 20,
-  "verse": 29,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:10:56.986476456Z",
-  "translation": "E Yisrael pôs ⟨em⟩ emboscada contra ⟨את⟩ ⟨a⟩ Gibeá, ao redor",
+  "chapter": 20,
+  "translation": "E Yisrael posicionou ⟨emboscadas⟩ contra ⟨a⟩ Givon, ao redor.",
   "tokens": [
     {
-      "surface": "וישם",
-      "gloss": "E pôs"
+      "surface": "וַיָּשֶׂם",
+      "gloss": "E posicionou"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵל",
       "gloss": "Yisrael"
     },
     {
-      "surface": "ארבים",
-      "gloss": "⟨em⟩ emboscada"
+      "surface": "אֹרְבִים",
+      "gloss": "⟨emboscadas⟩"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "contra"
     },
     {
-      "surface": "הגבעה",
-      "gloss": "⟨a⟩ Gibeá",
-      "marks": "Gibeá"
+      "surface": "הַגִּבְעָה",
+      "gloss": "⟨a⟩ Givon"
     },
     {
-      "surface": "סביב",
+      "surface": "סָבִיב",
       "gloss": "ao redor"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 1,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:17:59.790601836Z",
+  "model": "glm-5.2"
 }

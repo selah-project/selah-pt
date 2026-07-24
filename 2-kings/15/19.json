@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "2-kings 15:19",
   "book": "2-kings",
-  "chapter": 15,
-  "verse": 19,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:01:24.920734233Z",
-  "translation": "Veio Pul, rei da Ashshur, contra ⟨a⟩ terra; e Menachem deu a Pul mil talentos de prata, para que ⟨a⟩ sua mão ⟨estivesse⟩ com ele para fortalecer ⟨o⟩ reino em ⟨a⟩ sua mão.",
+  "chapter": 15,
+  "translation": "Veio Pul, rei de Ashshur, contra ⟨a⟩ terra, e Menajem deu a Pul mil talentos de prata, para ⟨que⟩ ⟨as⟩ suas mãos estivessem com ele, para fortalecer ⟨o⟩ reino em sua mão.",
   "tokens": [
     {
       "surface": "בא",
-      "gloss": "Veio"
+      "gloss": "veio"
     },
     {
       "surface": "פול",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "da Ashshur"
+      "gloss": "de Ashshur"
     },
     {
       "surface": "על",
@@ -35,15 +33,15 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "e"
+      "gloss": "e deu"
     },
     {
       "surface": "מנחם",
-      "gloss": "Menachem"
+      "gloss": "Menajem"
     },
     {
       "surface": "לפול",
-      "gloss": "deu a Pul"
+      "gloss": "a Pul"
     },
     {
       "surface": "אלף",
@@ -59,19 +57,19 @@
     },
     {
       "surface": "להיות",
-      "gloss": "para que"
+      "gloss": "para ⟨que⟩ estivessem"
     },
     {
       "surface": "ידיו",
-      "gloss": "⟨a⟩ sua mão"
+      "gloss": "⟨as⟩ suas mãos"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨estivesse⟩"
+      "gloss": "com ele"
     },
     {
       "surface": "להחזיק",
-      "gloss": "com ele para fortalecer"
+      "gloss": "para fortalecer"
     },
     {
       "surface": "הממלכה",
@@ -79,19 +77,9 @@
     },
     {
       "surface": "בידו",
-      "gloss": "em ⟨a⟩ sua mão"
+      "gloss": "em sua mão"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Assíria",
-      "to": "Ashshur",
-      "token-index": 3,
-      "strongs": 804,
-      "hebrew": "אשור"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:38:09.457766386Z",
+  "model": "glm-5.2"
 }

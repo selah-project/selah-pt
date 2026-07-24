@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "2-samuel 12:16",
   "book": "2-samuel",
-  "chapter": 12,
-  "verse": 16,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:53:23.271304361Z",
-  "translation": "E David buscou ⟨a⟩ Elohim ⟨pelo⟩ menino, e David jejuou um jejum, e entrou e passou ⟨a⟩ noite, e deitou-se ⟨na⟩ terra",
+  "chapter": 12,
+  "translation": "E David buscou ⟨את⟩ ⟨ha-Elohim⟩ pelo ⟨o⟩ menino; e David jejuou ⟨um⟩ jejum, e entrou, e pernoitou, e deitou-se ⟨na⟩ terra.",
   "tokens": [
     {
       "surface": "ויבקש",
-      "gloss": "E buscou"
+      "gloss": "e buscou"
     },
     {
       "surface": "דוד",
@@ -20,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elohim"
+      "marks": "ha-Elohim"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "ha-Elohim"
     },
     {
       "surface": "בעד",
-      "gloss": "⟨pelo⟩"
+      "gloss": "por"
     },
     {
       "surface": "הנער",
-      "gloss": "menino"
+      "gloss": "o menino"
     },
     {
       "surface": "ויצם",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "צום",
-      "gloss": "um jejum"
+      "gloss": "jejum"
     },
     {
       "surface": "ובא",
@@ -52,7 +50,7 @@
     },
     {
       "surface": "ולן",
-      "gloss": "e passou ⟨a⟩ noite"
+      "gloss": "e pernoitou"
     },
     {
       "surface": "ושכב",
@@ -60,26 +58,9 @@
     },
     {
       "surface": "ארצה",
-      "gloss": "⟨na⟩ terra"
+      "gloss": "terra"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 7,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:25:43.798908664Z",
+  "model": "glm-5.2"
 }

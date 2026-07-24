@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "exodus 2:2",
   "book": "exodus",
-  "chapter": 2,
-  "verse": 2,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:42:50.957745798Z",
-  "translation": "E a mulher concebeu e deu à luz um filho, e ela o viu, que ele ⟨é⟩ bom, e o escondeu por três meses.",
+  "chapter": 2,
+  "translation": "E a mulher concebeu e deu à luz um filho; e viu ⟨את⟩ ele, que ⟨era⟩ bom ⟨ele⟩, e o escondeu três meses-lunares.",
   "tokens": [
     {
       "surface": "ותהר",
@@ -27,12 +25,12 @@
     },
     {
       "surface": "ותרא",
-      "gloss": "e ela viu"
+      "gloss": "e viu"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "que ele ⟨é⟩ bom"
+      "marks": "ele"
     },
     {
       "surface": "כי",
@@ -56,7 +54,9 @@
     },
     {
       "surface": "ירחים",
-      "gloss": "meses"
+      "gloss": "meses-lunares"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:38:15.661947321Z",
+  "model": "glm-5.2"
 }

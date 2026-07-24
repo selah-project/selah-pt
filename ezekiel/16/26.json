@@ -1,70 +1,58 @@
 {
+  "tier": "glm-5.2",
+  "verse": 26,
   "ref": "ezekiel 16:26",
   "book": "ezekiel",
-  "chapter": 16,
-  "verse": 26,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:17:56.162143881Z",
-  "translation": "E ⟨te⟩ prostituíste ⟨com⟩ ⟨os⟩ filhos ⟨do⟩ Mitzráyim, ⟨teus⟩ vizinhos ⟨de⟩ grande carne, e multiplicaste ⟨a⟩ tua prostituição, para ⟨me⟩ provocar ⟨à⟩ ira.",
+  "chapter": 16,
+  "translation": "E te prostituíste com ⟨os⟩ filhos de Mitzráyim, teus vizinhos de grande carne, e multiplicaste ⟨את⟩ tuas prostituições para me provocar à ira.",
   "tokens": [
     {
-      "surface": "וַ\/תִּזְנִ֧י",
-      "gloss": "E ⟨te⟩ prostituíste"
+      "surface": "ותזני",
+      "gloss": "E te prostituíste"
     },
     {
-      "surface": "אֶל",
-      "gloss": "⟨com⟩"
+      "surface": "אל",
+      "gloss": "com"
     },
     {
-      "surface": "בְּנֵֽי",
+      "surface": "בני",
       "gloss": "⟨os⟩ filhos"
     },
     {
-      "surface": "מִצְרַ֛יִם",
-      "gloss": "⟨do⟩ Mitzráyim"
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
     },
     {
-      "surface": "שְׁכֵנַ֖יִ\/ךְ",
-      "gloss": "⟨teus⟩ vizinhos"
+      "surface": "שכניך",
+      "gloss": "teus vizinhos"
     },
     {
-      "surface": "גִּדְלֵ֣י",
-      "gloss": "⟨de⟩ grande"
+      "surface": "גדלי",
+      "gloss": "de grande"
     },
     {
-      "surface": "בָשָׂ֑ר",
+      "surface": "בשר",
       "gloss": "carne"
     },
     {
-      "surface": "וַ\/תַּרְבִּ֥י",
+      "surface": "ותרבי",
       "gloss": "e multiplicaste"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tua prostituição"
+      "marks": "tuas prostituições"
     },
     {
-      "surface": "תַּזְנֻתֵ֖\/ךְ",
-      "gloss": "tua prostituição"
+      "surface": "תזנתך",
+      "gloss": "tuas prostituições"
     },
     {
-      "surface": "לְ\/הַכְעִיסֵֽ\/נִי",
-      "gloss": "para ⟨me⟩ provocar ⟨à⟩ ira"
+      "surface": "להכעיסני",
+      "gloss": "para me provocar à ira"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Egito",
-      "to": "Mitzráyim",
-      "token-index": 3,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:57:37.797103811Z",
+  "model": "glm-5.2"
 }

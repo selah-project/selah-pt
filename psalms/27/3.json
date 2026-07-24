@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "psalms 27:3",
   "book": "psalms",
-  "chapter": 27,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T09:56:20.291333729Z",
-  "translation": "Se ⟨um⟩ exército ⟨se⟩ acampar contra mim, meu coração ⟨se⟩ temerá; ⟨não⟩ ⟨את⟩: embora ⟨a⟩ guerra ⟨se⟩ levante contra mim, ⟨em⟩ isto eu confiarei.",
+  "chapter": 27,
+  "translation": "Se ⟨um⟩ acampamento acampar contra mim, não temerá meu coração; se ⟨uma⟩ guerra se levantar contra mim, nisto eu confio.",
   "tokens": [
     {
       "surface": "אם",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "תחנה",
-      "gloss": "⟨um⟩ exército ⟨se⟩ acampar"
+      "gloss": "acampar"
     },
     {
       "surface": "עלי",
@@ -23,28 +21,27 @@
     },
     {
       "surface": "מחנה",
-      "gloss": "exército"
+      "gloss": "⟨um⟩ acampamento"
     },
     {
       "surface": "לא",
-      "gloss": "⟨não⟩"
+      "gloss": "não"
     },
     {
       "surface": "יירא",
-      "gloss": "⟨se⟩ temerá"
+      "gloss": "temerá"
     },
     {
       "surface": "לבי",
-      "gloss": "meu coração",
-      "marks": "meu coração"
+      "gloss": "meu coração"
     },
     {
       "surface": "אם",
-      "gloss": "embora"
+      "gloss": "se"
     },
     {
       "surface": "תקום",
-      "gloss": "⟨se⟩ levante"
+      "gloss": "se levantar"
     },
     {
       "surface": "עלי",
@@ -52,11 +49,11 @@
     },
     {
       "surface": "מלחמה",
-      "gloss": "⟨a⟩ guerra"
+      "gloss": "⟨uma⟩ guerra"
     },
     {
       "surface": "בזאת",
-      "gloss": "⟨em⟩ isto"
+      "gloss": "nisto"
     },
     {
       "surface": "אני",
@@ -64,11 +61,9 @@
     },
     {
       "surface": "בוטח",
-      "gloss": "confiarei"
+      "gloss": "confio"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:09:26.995912985Z",
+  "model": "glm-5.2"
 }

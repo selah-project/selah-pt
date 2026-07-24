@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "ezekiel 20:19",
   "book": "ezekiel",
-  "chapter": 20,
-  "verse": 19,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T14:17:35.166098691Z",
-  "translation": "Eu sou YHWH ⟨o⟩ vosso Elohim; em meus estatutos andai, e ⟨את⟩ meus juízos guardai, e fazei-⟨os⟩.",
+  "chapter": 20,
+  "translation": "Eu sou YHWH, vosso Elohim; nos meus jukim andai, e ⟨את⟩ meus mishpatim guardai, e fazei ⟨את⟩-os.",
   "tokens": [
     {
       "surface": "אני",
-      "gloss": "Eu sou"
+      "gloss": "Eu"
     },
     {
       "surface": "יהוה",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "⟨o⟩ vosso Elohim"
+      "gloss": "vosso Elohim"
     },
     {
       "surface": "בחקותי",
-      "gloss": "em meus estatutos"
+      "gloss": "nos meus jukim (estatutos)"
     },
     {
       "surface": "לכו",
@@ -32,11 +30,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "meus juízos"
+      "marks": "meus mishpatim"
     },
     {
       "surface": "משפטי",
-      "gloss": "meus juízos"
+      "gloss": "meus mishpatim (juízos)"
     },
     {
       "surface": "שמרו",
@@ -48,7 +46,10 @@
     },
     {
       "surface": "אותם",
-      "gloss": "-⟨os⟩"
+      "gloss": "⟨את⟩-os",
+      "marks": "meus mishpatim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T22:40:54.186785938Z",
+  "model": "glm-5.2"
 }

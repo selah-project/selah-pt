@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "numbers 9:8",
   "book": "numbers",
-  "chapter": 9,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:19:00.412580931Z",
-  "translation": "E Moshé disse-lhes: ⟨permaneçai⟩ em ⟨vós⟩ e ⟨eu⟩ ouvirei o que YHWH ordenará ⟨את⟩ a vós.",
+  "chapter": 9,
+  "translation": "E Moshé lhes disse: Permanecei ⟨de pé⟩, e eu ouvirei o que YHWH ordenar ⟨a respeito de⟩ vós.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E Mosheh disse"
+      "gloss": "E disse"
     },
     {
       "surface": "אלהם",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "עמדו",
-      "gloss": "permanecei"
+      "gloss": "Permanecei ⟨de pé⟩"
     },
     {
       "surface": "ואשמעה",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "יצוה",
-      "gloss": "ordenará"
+      "gloss": "ordenar"
     },
     {
       "surface": "יהוה",
@@ -43,19 +41,9 @@
     },
     {
       "surface": "לכם",
-      "gloss": "a vós"
+      "gloss": "⟨a respeito de⟩ vós"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Mosheh",
-      "to": "Moshé",
-      "token-index": 2,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:38:09.591780044Z",
+  "model": "glm-5.2"
 }

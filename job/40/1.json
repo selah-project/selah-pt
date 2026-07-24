@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "job 40:1",
   "book": "job",
-  "chapter": 40,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:13:25.263046479Z",
-  "translation": "E ⟨o⟩ YHWH respondeu ⟨a⟩ Iyov e disse:",
+  "chapter": 40,
+  "translation": "E YHWH respondeu a ⟨את⟩ Iyov, e disse:",
   "tokens": [
     {
       "surface": "ויען",
@@ -20,34 +18,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jó"
+      "marks": "Iyov"
     },
     {
       "surface": "איוב",
       "gloss": "Iyov"
     },
     {
-      "surface": "ואמר",
+      "surface": "ויאמר",
       "gloss": "e disse"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "SENHOR",
-      "to": "YHWH",
-      "token-index": 1,
-      "strongs": 3068,
-      "hebrew": "יהוה"
-    },
-    {
-      "from": "Jó",
-      "to": "Iyov",
-      "token-index": 3,
-      "strongs": 347,
-      "hebrew": "איוב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T22:18:49.059452057Z",
+  "model": "glm-5.2"
 }

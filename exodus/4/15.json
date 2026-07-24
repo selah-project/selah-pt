@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "exodus 4:15",
   "book": "exodus",
-  "chapter": 4,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:44:12.768991241Z",
-  "translation": "E tu falarás a ele, e porás ⟨את⟩ as palavras em sua boca, e eu serei com ⟨a⟩ tua boca, e com ⟨a⟩ boca dele, e ensinarei a vocês ⟨את⟩ o que fareis",
+  "chapter": 4,
+  "translation": "E falarás com ele e colocarás ⟨את⟩ as palavras na boca dele; e Eu serei com a tua boca e com a boca dele, e vos ensinarei ⟨את⟩ ⟨את⟩ o que fareis.",
   "tokens": [
     {
       "surface": "ודברת",
-      "gloss": "E tu falarás"
+      "gloss": "E falarás"
     },
     {
       "surface": "אליו",
-      "gloss": "a ele"
+      "gloss": "com ele"
     },
     {
       "surface": "ושמת",
-      "gloss": "e porás"
+      "gloss": "e colocarás"
     },
     {
       "surface": "את",
@@ -32,11 +30,11 @@
     },
     {
       "surface": "בפיו",
-      "gloss": "em sua boca"
+      "gloss": "na boca dele"
     },
     {
       "surface": "ואנכי",
-      "gloss": "e eu"
+      "gloss": "e Eu"
     },
     {
       "surface": "אהיה",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "פיך",
-      "gloss": "⟨a⟩ tua boca"
+      "gloss": "a tua boca"
     },
     {
       "surface": "ועם",
@@ -56,15 +54,16 @@
     },
     {
       "surface": "פיהו",
-      "gloss": "⟨a⟩ boca dele"
+      "gloss": "a boca dele"
     },
     {
       "surface": "והוריתי",
-      "gloss": "e ensinarei"
+      "gloss": "e vos ensinarei"
     },
     {
       "surface": "אתכם",
-      "gloss": "a vocês"
+      "gloss": "⟨את⟩ a vós",
+      "marks": "a vós (objeto direto)"
     },
     {
       "surface": "את",
@@ -79,5 +78,7 @@
       "surface": "תעשון",
       "gloss": "fareis"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:38:52.190117150Z",
+  "model": "glm-5.2"
 }

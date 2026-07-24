@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "leviticus 9:14",
   "book": "leviticus",
-  "chapter": 9,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T16:40:26.287922403Z",
-  "translation": "e lavou ⟨o⟩ intestino e ⟨as⟩ pernas, e fez fumaça ⟨sobre⟩ ⟨o⟩ holocausto no altar",
+  "chapter": 9,
+  "translation": "E lavou ⟨את⟩ as entranhas e ⟨את⟩ as pernas, e as queimou sobre a Olá ⟨sobre⟩ o altar.",
   "tokens": [
     {
       "surface": "וירחץ",
@@ -16,24 +14,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הקרב (o intestino)"
+      "marks": "as entranhas"
     },
     {
       "surface": "הקרב",
-      "gloss": "⟨o⟩ intestino"
+      "gloss": "as entranhas"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "הכרעים (as pernas)"
+      "gloss": "e ⟨את⟩",
+      "marks": "as pernas"
     },
     {
       "surface": "הכרעים",
-      "gloss": "⟨as⟩ pernas"
+      "gloss": "as pernas"
     },
     {
       "surface": "ויקטר",
-      "gloss": "e fez fumaça"
+      "gloss": "e as queimou"
     },
     {
       "surface": "על",
@@ -41,11 +39,13 @@
     },
     {
       "surface": "העלה",
-      "gloss": "⟨o⟩ holocausto"
+      "gloss": "a Olá"
     },
     {
       "surface": "המזבחה",
-      "gloss": "no altar"
+      "gloss": "o altar"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:48:27.616429446Z",
+  "model": "glm-5.2"
 }

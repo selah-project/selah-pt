@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "1-samuel 3:20",
   "book": "1-samuel",
-  "chapter": 3,
-  "verse": 20,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:15:21.538978448Z",
-  "translation": "E todo Yisrael, desde ⟨את⟩ Dan até Beer-Sheba, soube que Shemuel ⟨estava⟩ confirmado como naví de YHWH.",
+  "chapter": 3,
+  "translation": "E todo Yisrael, desde Dan até Beer-Sheva, soube que Shmuel ⟨estava⟩ confirmado como naví de YHWH.",
   "tokens": [
     {
       "surface": "וידע",
-      "gloss": "E soube"
+      "gloss": "e soube"
     },
     {
       "surface": "כל",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "באר",
-      "gloss": "Beer"
+      "gloss": "Beer-"
     },
     {
       "surface": "שבע",
-      "gloss": "Sheba"
+      "gloss": "Sheva"
     },
     {
       "surface": "כי",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "לנביא",
@@ -58,16 +56,6 @@
       "gloss": "de YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:18:52.732881200Z",
+  "model": "glm-5.2"
 }

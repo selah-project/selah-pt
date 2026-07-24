@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "deuteronomy 25:17",
   "book": "deuteronomy",
-  "chapter": 25,
-  "verse": 17,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:14:53.690451326Z",
-  "translation": "Lembra-te ⟨de⟩ o que Amalek te fez no caminho, quando saístes ⟨do⟩ Egito",
+  "chapter": 25,
+  "translation": "Lembra ⟨את⟩ o que Amalek te fez no caminho, na vossa saída de Mitzráyim.",
   "tokens": [
     {
       "surface": "זכור",
-      "gloss": "Lembra-te"
+      "gloss": "Lembra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o que Amaleque te fez"
+      "marks": "o que"
     },
     {
       "surface": "אשר",
@@ -40,23 +38,13 @@
     },
     {
       "surface": "בצאתכם",
-      "gloss": "quando saístes"
+      "gloss": "na vossa saída"
     },
     {
       "surface": "ממצרים",
-      "gloss": "⟨do⟩ Egito"
+      "gloss": "de Mitzráyim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Amaleque",
-      "to": "Amalek",
-      "token-index": 5,
-      "strongs": 6002,
-      "hebrew": "עמלק"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:05:23.085891985Z",
+  "model": "glm-5.2"
 }

@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "2-kings 21:9",
   "book": "2-kings",
-  "chapter": 21,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:08:12.527808580Z",
-  "translation": "Mas eles não ⟨ouviram⟩ e Menashé os ⟨fez⟩ desviar para fazer ⟨o mal⟩ maior ⟨do que⟩ as nações que YHWH ⟨destruiu⟩ de diante ⟨dos⟩ filhos de Yisrael",
+  "chapter": 21,
+  "translation": "Mas não ouviram, e Menashé os fez errar, para fazer ⟨את⟩ o mal, mais do que ⟨os⟩ povos que YHWH tinha destruído de diante ⟨dos⟩ filhos de Yisrael.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Mas eles não"
+      "gloss": "Mas não"
     },
     {
       "surface": "שמעו",
-      "gloss": "⟨ouviram⟩"
+      "gloss": "ouviram"
     },
     {
       "surface": "ויתעם",
-      "gloss": "e Manassés os ⟨fez⟩ desviar"
+      "gloss": "e os fez errar"
     },
     {
       "surface": "מנשה",
@@ -32,19 +30,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הרע"
+      "marks": "o mal"
     },
     {
       "surface": "הרע",
-      "gloss": "mal"
+      "gloss": "o mal"
     },
     {
       "surface": "מן",
-      "gloss": "maior ⟨do que⟩"
+      "gloss": "mais do que"
     },
     {
       "surface": "הגוים",
-      "gloss": "as nações"
+      "gloss": "os povos"
     },
     {
       "surface": "אשר",
@@ -52,7 +50,7 @@
     },
     {
       "surface": "השמיד",
-      "gloss": "YHWH ⟨destruiu⟩"
+      "gloss": "tinha destruído"
     },
     {
       "surface": "יהוה",
@@ -60,34 +58,17 @@
     },
     {
       "surface": "מפני",
-      "gloss": "de diante"
+      "gloss": "de diante de"
     },
     {
       "surface": "בני",
-      "gloss": "⟨dos⟩"
+      "gloss": "dos filhos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "filhos de Yisrael"
+      "gloss": "Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Manassés",
-      "to": "Menashé",
-      "token-index": 3,
-      "strongs": 4519,
-      "hebrew": "מנשה־מלך"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 14,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T21:39:32.851524888Z",
+  "model": "glm-5.2"
 }

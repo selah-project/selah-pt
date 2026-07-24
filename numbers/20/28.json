@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 28,
   "ref": "numbers 20:28",
   "book": "numbers",
-  "chapter": 20,
-  "verse": 28,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T17:17:40.075269076Z",
-  "translation": "E Moshé despiu ⟨את⟩ Aharon ⟨את⟩ suas vestes e vestiu com elas ⟨את⟩ Elazar seu filho, e morreu Aharon ali no cume ⟨do⟩ monte, e desceu Moshé e Elazer de ⟨o⟩ monte",
+  "chapter": 20,
+  "translation": "E Moshé despiu ⟨את⟩ Aharon de ⟨את⟩ suas vestes, e os vestiu em ⟨את⟩ Elazar, seu filho; e Aharon morreu ali no cume do monte; e Moshé e Elazar desceram do monte.",
   "tokens": [
     {
       "surface": "ויפשט",
@@ -33,15 +31,16 @@
     },
     {
       "surface": "בגדיו",
-      "gloss": "suas vestes"
+      "gloss": "de suas vestes"
     },
     {
       "surface": "וילבש",
-      "gloss": "e vestiu"
+      "gloss": "e os vestiu"
     },
     {
       "surface": "אתם",
-      "gloss": "com elas"
+      "gloss": "⟨את⟩ eles",
+      "marks": "as vestes"
     },
     {
       "surface": "את",
@@ -50,7 +49,7 @@
     },
     {
       "surface": "אלעזר",
-      "gloss": "Elazar"
+      "gloss": "em Elazar"
     },
     {
       "surface": "בנו",
@@ -74,11 +73,11 @@
     },
     {
       "surface": "ההר",
-      "gloss": "⟨do⟩ monte"
+      "gloss": "do monte"
     },
     {
       "surface": "וירד",
-      "gloss": "e desceu"
+      "gloss": "e desceram"
     },
     {
       "surface": "משה",
@@ -86,7 +85,7 @@
     },
     {
       "surface": "ואלעזר",
-      "gloss": "e Elazer"
+      "gloss": "e Elazar"
     },
     {
       "surface": "מן",
@@ -94,7 +93,9 @@
     },
     {
       "surface": "ההר",
-      "gloss": "⟨o⟩ monte"
+      "gloss": "o monte"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:57:18.446354060Z",
+  "model": "glm-5.2"
 }
