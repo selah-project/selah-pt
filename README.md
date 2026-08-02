@@ -54,3 +54,9 @@ deixar que as palavras signifiquem o que significam, em seu lugar.
 Um arquivo por versículo: o versículo em si, e uma tradução palavra por
 palavra alinhada ao hebraico, para que cada palavra hebraica possa ser
 lida diante de seu equivalente em português.
+
+## Apoie Selah
+
+Esta tradução permanece aberta sob a licença CC BY-SA 4.0. Se ela serve a você
+e você deseja ajudar a sustentar sua tradução, correção, publicação e trabalho
+contínuo, visite [selahproject.com/support](https://selahproject.com/support).
