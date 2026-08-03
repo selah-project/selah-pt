@@ -60,3 +60,9 @@ lida diante de seu equivalente em português.
 Esta tradução permanece aberta sob a licença CC BY-SA 4.0. Se ela serve a você
 e você deseja ajudar a sustentar sua tradução, correção, publicação e trabalho
 contínuo, visite [selahproject.com/support](https://selahproject.com/support).
+
+## Contribua com uma correção
+
+Leitores, estudantes de hebraico, tradutores e falantes nativos de português
+são bem-vindos para melhorar esta versão. Leia
+[CONTRIBUTING.md](CONTRIBUTING.md) antes de abrir uma questão ou pull request.
