@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 8,
   "ref": "jeremiah 16:8",
   "book": "jeremiah",
-  "chapter": 16,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T15:28:47.320806205Z",
-  "translation": "E não entrarás ⟨na⟩ casa de banquete para sentar-se com eles, para comer ⟨את⟩ e para beber",
+  "chapter": 16,
+  "translation": "E não entrarás ⟨na⟩ casa de banquete para sentar-se ⟨את⟩ com eles, para comer e para beber",
   "tokens": [
     {
       "surface": "ובית",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "com eles",
+      "gloss": "⟨את⟩ com eles",
       "marks": ""
     },
     {
@@ -41,8 +39,10 @@
     },
     {
       "surface": "ולשתות",
-      "gloss": "⟨את⟩ e para beber",
+      "gloss": "e para beber",
       "marks": "e para beber"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T16:58:30.412967117Z",
+  "model": "glm-4.5"
 }

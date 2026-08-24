@@ -1,47 +1,37 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "psalms 39:14",
   "book": "psalms",
-  "chapter": 39,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:05:33.638988351Z",
-  "translation": "⟨the⟩ gazer from me, and I will ⟨be⟩ covered in darkness before I go, and ⟨am⟩ no more.",
+  "chapter": 39,
+  "translation": "Desvia ⟨o teu olhar⟩ de mim, e eu serei reanimado, antes que eu parta e não exista mais.",
   "tokens": [
     {
-      "surface": "השע",
-      "gloss": "⟨The⟩ gazer",
-      "rationale": "from השע (to gaze); understood as 'the one who gazes' with definite article implied"
+      "surface": "הָשַׁע",
+      "gloss": "Desvia o olhar"
     },
     {
-      "surface": "ממני",
-      "gloss": "from me",
-      "rationale": "preposition מִן ('from') + suffix נִי ('me')"
+      "surface": "מִמֶּנִּי",
+      "gloss": "de mim"
     },
     {
-      "surface": "ואבליגה",
-      "gloss": "and I will ⟨be⟩ covered in darkness",
-      "rationale": "rare verb; from בלג (to cover, as with darkness); future tense first common singular with waw consecutive"
+      "surface": "וְאַבְלִיגָה",
+      "gloss": "e eu serei reanimado"
     },
     {
-      "surface": "בטרם",
-      "gloss": "before",
-      "rationale": "preposition meaning 'before' or 'earlier than'"
+      "surface": "בְּטֶרֶם",
+      "gloss": "antes que"
     },
     {
-      "surface": "אלך",
-      "gloss": "I go",
-      "rationale": "Qal imperfect first common singular of הלך ('to go')"
+      "surface": "אֵלֵךְ",
+      "gloss": "eu parta"
     },
     {
-      "surface": "ואינני",
-      "gloss": "and ⟨am⟩ no more",
-      "rationale": "אין ('nothing, not') + suffix נִי ('me'); literally 'and I am not'"
+      "surface": "וְאֵינֶנִּי",
+      "gloss": "e não exista mais"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:34:50.138396934Z",
+  "model": "glm-5.3"
 }

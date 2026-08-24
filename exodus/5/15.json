@@ -1,26 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "exodus 5:15",
   "book": "exodus",
-  "chapter": 5,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T00:40:12.640473109Z",
-  "translation": "Then the overseers of ⟨the⟩ sons of Yisrael came and cried ⟨out⟩ to Pharaoh, saying, 'Why do you do ⟨so⟩ to your servants?'",
+  "chapter": 5,
+  "translation": "Então vieram os(oficiais) dos filhos de Yisrael e clamaram a Paró, dizendo: Por que fazes assim aos teus servos?",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "Then came",
-      "marks": "the overseers"
+      "gloss": "e vieram"
     },
     {
       "surface": "שטרי",
-      "gloss": "overseers"
+      "gloss": "os(oficiais)"
     },
     {
       "surface": "בני",
-      "gloss": "sons"
+      "gloss": "filhos de"
     },
     {
       "surface": "ישראל",
@@ -28,47 +25,37 @@
     },
     {
       "surface": "ויצעקו",
-      "gloss": "and cried"
+      "gloss": "e clamaram"
     },
     {
       "surface": "אל",
-      "gloss": "to"
+      "gloss": "a"
     },
     {
       "surface": "פרעה",
-      "gloss": "Pharaoh"
+      "gloss": "Paró"
     },
     {
       "surface": "לאמר",
-      "gloss": "saying"
+      "gloss": "dizendo"
     },
     {
       "surface": "למה",
-      "gloss": "Why"
+      "gloss": "por que"
     },
     {
       "surface": "תעשה",
-      "gloss": "do"
+      "gloss": "fazes"
     },
     {
       "surface": "כה",
-      "gloss": "so"
+      "gloss": "assim"
     },
     {
       "surface": "לעבדיך",
-      "gloss": "to your servants"
+      "gloss": "aos teus servos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 3,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:28:07.463208928Z",
+  "model": "glm-5.3"
 }

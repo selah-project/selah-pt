@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "joshua 9:15",
   "book": "joshua",
-  "chapter": 9,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:33:37.651155055Z",
-  "translation": "E Yehoshua fez ⟨o⟩ לָהֶם Shalom e cortou ⟨um⟩ לָהֶם Brit לחיותם e juraram לָהֶם ⟨os⟩ נְשִׂיאֵי ⟨da⟩ הָעֵדָה",
+  "chapter": 9,
+  "translation": "E Yehoshua lhes fez Shalom e cortou com eles uma Brit para os deixar viver; e os líderes da congregação lhes juraram.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "E ... fez"
+      "gloss": "e fez"
     },
     {
       "surface": "להם",
-      "gloss": "para eles"
+      "gloss": "lhes"
     },
     {
       "surface": "יהושע",
@@ -31,15 +29,15 @@
     },
     {
       "surface": "להם",
-      "gloss": "para eles"
+      "gloss": "com eles"
     },
     {
       "surface": "ברית",
-      "gloss": "Brit"
+      "gloss": "uma Brit"
     },
     {
       "surface": "לחיותם",
-      "gloss": "para mantê-los vivos"
+      "gloss": "para os deixar viver"
     },
     {
       "surface": "וישבעו",
@@ -47,34 +45,17 @@
     },
     {
       "surface": "להם",
-      "gloss": "para eles"
+      "gloss": "lhes"
     },
     {
       "surface": "נשיאי",
-      "gloss": "príncipes"
+      "gloss": "os líderes de"
     },
     {
       "surface": "העדה",
-      "gloss": "assembleia"
+      "gloss": "a congregação"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "paz",
-      "to": "Shalom",
-      "token-index": 3,
-      "strongs": 7965,
-      "hebrew": "שלום"
-    },
-    {
-      "from": "pacto",
-      "to": "Brit",
-      "token-index": 6,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:30:01.325867048Z",
+  "model": "glm-5.3"
 }

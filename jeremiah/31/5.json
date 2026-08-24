@@ -1,58 +1,45 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "jeremiah 31:5",
   "book": "jeremiah",
-  "chapter": 31,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:34:09.746262407Z",
-  "translation": "⟨is⟩ yet planting thou ⟨in⟩ vineyards ⟨in⟩ ⟨the⟩ hills of Shomron: planters shall plant, and ⟨they shall⟩ use ⟨them⟩ ⟨as⟩ common ⟨things⟩",
+  "chapter": 31,
+  "translation": "Ainda plantarás ⟨את⟩ vinhas nos montes de Shomron; os plantadores plantarão e ⟨as⟩ desfrutarão ⟨como comuns⟩.",
   "tokens": [
     {
       "surface": "עוד",
-      "gloss": "⟨Is⟩ yet"
+      "gloss": "Ainda"
     },
     {
       "surface": "תטעי",
-      "gloss": "planting thou"
+      "gloss": "plantarás"
     },
     {
       "surface": "כרמים",
-      "gloss": "⟨in⟩ vineyards",
-      "marks": "vineyards"
+      "gloss": "vinhas"
     },
     {
       "surface": "בהרי",
-      "gloss": "⟨in⟩ ⟨the⟩ hills"
+      "gloss": "nos montes de"
     },
     {
       "surface": "שמרון",
-      "gloss": "of Shomron"
+      "gloss": "Shomron"
     },
     {
       "surface": "נטעו",
-      "gloss": "planters shall plant"
+      "gloss": "plantarão"
     },
     {
       "surface": "נטעים",
-      "gloss": "and ⟨they shall⟩ use"
+      "gloss": "os plantadores"
     },
     {
       "surface": "וחללו",
-      "gloss": "⟨them⟩ ⟨as⟩ common ⟨things⟩"
+      "gloss": "e desfrutarão ⟨como comuns⟩"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Samaria",
-      "to": "Shomron",
-      "token-index": 4,
-      "strongs": 8111,
-      "hebrew": "שמרון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:32:29.070731904Z",
+  "model": "glm-5.3"
 }

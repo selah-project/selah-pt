@@ -1,12 +1,10 @@
 {
+  "tier": "bulk",
+  "verse": 11,
   "ref": "2-kings 3:11",
   "book": "2-kings",
-  "chapter": 3,
-  "verse": 11,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T05:48:14.492157151Z",
+  "chapter": 3,
   "translation": "E Yehoshafat disse: 'Não ⟨há⟩ aqui ⟨um⟩ profeta ⟨de⟩ YHWH, para que possamos perguntar ⟨a⟩ YHWH ⟨את⟩ ⟨por meio⟩ ⟨dele⟩?' E respondeu ⟨um⟩ dos servos ⟨do⟩ rei ⟨de⟩ Yisrael, e disse: 'Aqui ⟨está⟩ Elishá ben Shafat, que derramou ⟨água⟩ ⟨sobre⟩ ⟨as⟩ mãos ⟨de⟩ Eliyáhu'",
   "tokens": [
     {
@@ -48,7 +46,7 @@
     },
     {
       "surface": "מאותו",
-      "gloss": "⟨por meio⟩ ⟨dele⟩"
+      "gloss": "⟨את⟩ ⟨por meio⟩ ⟨dele⟩"
     },
     {
       "surface": "ויען",
@@ -115,16 +113,6 @@
       "gloss": "⟨de⟩ Eliyáhu"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 14,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:58:30.464083957Z",
+  "model": "glm-4.5"
 }

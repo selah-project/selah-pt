@@ -1,17 +1,15 @@
 {
+  "tier": "bulk",
+  "verse": 42,
   "ref": "joshua 10:42",
   "book": "joshua",
-  "chapter": 10,
-  "verse": 42,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:36:17.149240904Z",
+  "chapter": 10,
   "translation": "E Joshua capturou ⟨את⟩ todos estes reis e ⟨את⟩ suas terras ⟨de⟩ uma vez, porque YHWH, ⟨o⟩ Elohim de Yisrael, lutou por Yisrael.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "E",
+      "gloss": "⟨את⟩ E",
       "marks": "todos"
     },
     {
@@ -28,7 +26,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e",
+      "gloss": "⟨את⟩ e",
       "marks": "suas terras"
     },
     {
@@ -76,16 +74,6 @@
       "gloss": "por Israel"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 13,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:58:30.500410006Z",
+  "model": "glm-4.5"
 }

@@ -1,53 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "1-samuel 18:14",
   "book": "1-samuel",
-  "chapter": 18,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:30:00.234988691Z",
-  "translation": "E Davidd ⟨era⟩ ⟨ה⟩ prudente em todo o seu caminho, e YHWH ⟨estava⟩ com ele.",
+  "chapter": 18,
+  "translation": "E David tinha sucesso em todos os seus caminhos, e YHWH ⟨era⟩ com ele.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "E David ⟨era⟩"
+      "gloss": "E era"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "לכל",
-      "gloss": "em todo ⟨o⟩"
+      "gloss": "em todos"
     },
     {
       "surface": "דרכו",
-      "gloss": "seu caminho"
+      "gloss": "os seus caminhos"
     },
     {
       "surface": "משכיל",
-      "gloss": "prudente"
+      "gloss": "tendo sucesso \/ agindo com sabedoria"
     },
     {
       "surface": "ויהוה",
-      "gloss": "e YHWH ⟨estava⟩"
+      "gloss": "e YHWH"
     },
     {
       "surface": "עמו",
       "gloss": "com ele"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:31:16.225183619Z",
+  "model": "glm-5.3"
 }

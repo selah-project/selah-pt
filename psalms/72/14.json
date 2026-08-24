@@ -1,52 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "psalms 72:14",
   "book": "psalms",
-  "chapter": 72,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:26:48.303389369Z",
-  "translation": "מתוך ומחמס יגאל נפשם וייקר דמם בעיניו",
+  "chapter": 72,
+  "translation": "Da opressão e da violência ele redime a ⟨nefesh⟩ deles, e precioso ⟨é⟩ o sangue deles aos seus olhos.",
   "tokens": [
     {
       "surface": "מתוך",
-      "gloss": "De",
-      "rationale": "preposição que indica 'do meio de' ou 'dentro de'"
+      "gloss": "da opressão"
     },
     {
       "surface": "ומחמס",
-      "gloss": "e ⟨da⟩ violência",
-      "rationale": "וּ = 'e' + חָמָס = 'violência\/opressão'; ⟨ה⟩ implícito"
+      "gloss": "e da violência"
     },
     {
       "surface": "יגאל",
-      "gloss": "resgatará",
-      "rationale": "verbo gaal = redimir como parente resgatador (segundo a lei oriental do parentesco)"
+      "gloss": "ele redime"
     },
     {
       "surface": "נפשם",
-      "gloss": "⟨a⟩ alma ⟨deles⟩",
-      "rationale": "נפש = ser vivo\/alento; sufixo pronominal -ם = deles"
+      "gloss": "a nefesh deles"
     },
     {
       "surface": "וייקר",
-      "gloss": "e precioso ⟨será⟩",
-      "rationale": "יָקָר = precioso; verbo ser implícito em português"
+      "gloss": "e precioso"
     },
     {
       "surface": "דמם",
-      "gloss": "⟨o⟩ sangue ⟨deles⟩",
-      "rationale": "דָם = sangue; sufixo pronominal -ם = deles; artigo definido implícito"
+      "gloss": "o sangue deles"
     },
     {
       "surface": "בעיניו",
-      "gloss": "em seus olhos",
-      "rationale": "בְּ = 'em' + עַיִן = olho + sufixo pronominal -וֹ = dele"
+      "gloss": "aos seus olhos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:35:37.145914324Z",
+  "model": "glm-5.3"
 }

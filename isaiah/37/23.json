@@ -1,17 +1,15 @@
 {
+  "tier": "bulk",
+  "verse": 23,
   "ref": "isaiah 37:23",
   "book": "isaiah",
-  "chapter": 37,
-  "verse": 23,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:41:03.301461299Z",
-  "translation": "A quem ⟨את⟩ insultaste e blasfemaste? e contra quem elevaste ⟨a⟩ voz e levantaste ⟨o⟩ orgulho de teus olhos para ⟨o⟩ Santo de Yisrael?",
+  "chapter": 37,
+  "translation": "⟨את⟩ A quem ⟨את⟩ insultaste e blasfemaste? e contra quem elevaste ⟨a⟩ voz e levantaste ⟨o⟩ orgulho de teus olhos para ⟨o⟩ Santo de Yisrael?",
   "tokens": [
     {
       "surface": "את",
-      "gloss": "A quem",
+      "gloss": "⟨את⟩ A quem",
       "marks": "quem"
     },
     {
@@ -67,16 +65,6 @@
       "gloss": "de Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 13,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:58:30.485708491Z",
+  "model": "glm-4.5"
 }

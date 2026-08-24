@@ -1,45 +1,33 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "hosea 8:3",
   "book": "hosea",
-  "chapter": 8,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:58:49.280542864Z",
-  "translation": "Yisrael ⟨has⟩ rejected ⟨the⟩ good; ⟨an⟩ enemy shall pursue him.",
+  "chapter": 8,
+  "translation": "Yisrael rejeitou o bem; ⟨um⟩ inimigo o perseguirá.",
   "tokens": [
     {
-      "surface": "זנח",
-      "gloss": "Rejected"
+      "surface": "זָנַ֥ח",
+      "gloss": "rejeitou"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵ֖ל",
       "gloss": "Yisrael"
     },
     {
-      "surface": "טוב",
-      "gloss": "good"
+      "surface": "ט֑וֹב",
+      "gloss": "o bem"
     },
     {
-      "surface": "אויב",
-      "gloss": "enemy"
+      "surface": "אוֹיֵ֖ב",
+      "gloss": "inimigo"
     },
     {
-      "surface": "ירדפו",
-      "gloss": "shall pursue"
+      "surface": "יִרְדְּֽפוֹ",
+      "gloss": "o perseguirá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 1,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:33:54.396325564Z",
+  "model": "glm-5.3"
 }

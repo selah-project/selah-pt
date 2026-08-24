@@ -1,49 +1,47 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "1-samuel 29:5",
   "book": "1-samuel",
-  "chapter": 29,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:41:00.181186286Z",
-  "translation": "⟨Is⟩ this not Davidd, to whom they answered in dances, saying, 'Shaul has smitten ⟨in⟩ his thousands, and Davidd ⟨in⟩ his myriads'?",
+  "chapter": 29,
+  "translation": "Não é este David, de quem respondiam em coros nas danças, dizendo: Shaul feriu ⟨entre⟩ seus milhares, e David ⟨entre⟩ suas dezenas de milhares?",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "⟨Is⟩...not"
+      "gloss": "Não é"
     },
     {
       "surface": "זה",
-      "gloss": "this"
+      "gloss": "este"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "אשר",
-      "gloss": "to whom"
+      "gloss": "de quem"
     },
     {
       "surface": "יענו",
-      "gloss": "they answered"
+      "gloss": "respondiam"
     },
     {
       "surface": "לו",
-      "gloss": "to"
+      "gloss": "a ele"
     },
     {
       "surface": "במחלות",
-      "gloss": "in dances"
+      "gloss": "nas danças"
     },
     {
       "surface": "לאמר",
-      "gloss": "saying"
+      "gloss": "dizendo"
     },
     {
       "surface": "הכה",
-      "gloss": "has smitten"
+      "gloss": "feriu"
     },
     {
       "surface": "שאול",
@@ -51,34 +49,17 @@
     },
     {
       "surface": "באלפיו",
-      "gloss": "⟨in⟩ his thousands"
+      "gloss": "seus milhares"
     },
     {
       "surface": "ודוד",
-      "gloss": "and David"
+      "gloss": "e David"
     },
     {
       "surface": "ברבבתו",
-      "gloss": "⟨in⟩ his myriads"
+      "gloss": "suas dezenas de milhares"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 2,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Saul",
-      "to": "Shaul",
-      "token-index": 9,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:31:11.125141550Z",
+  "model": "glm-5.3"
 }

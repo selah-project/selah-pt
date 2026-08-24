@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 5,
   "ref": "isaiah 43:5",
   "book": "isaiah",
-  "chapter": 43,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T15:17:59.069914373Z",
-  "translation": "Não temas, pois ⟨eu sou⟩ contigo; trarei ⟨את⟩ tua semente do oriente e te ajuntarei do ocidente",
+  "chapter": 43,
+  "translation": "Não temas, pois ⟨eu sou⟩ ⟨את⟩ contigo; trarei tua semente do oriente e te ajuntarei do ocidente",
   "tokens": [
     {
       "surface": "אל",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "contigo"
+      "gloss": "⟨את⟩ contigo"
     },
     {
       "surface": "אני",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "זרעך",
-      "gloss": "⟨את⟩ tua semente",
+      "gloss": "tua semente",
       "marks": "tua semente"
     },
     {
@@ -50,5 +48,7 @@
       "surface": "אקבצך",
       "gloss": "te ajuntarei"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T16:58:30.486917120Z",
+  "model": "glm-4.5"
 }

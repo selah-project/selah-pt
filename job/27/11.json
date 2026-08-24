@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 11,
   "ref": "job 27:11",
   "book": "job",
-  "chapter": 27,
-  "verse": 11,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:03:29.031269221Z",
-  "translation": "Eu ⟨vos⟩ ensinarei ⟨pela⟩ mão de ⟨o⟩ ⟨את⟩ ⟨poder⟩ ⟨de⟩ ⟨o⟩ Shaddai; não ocultarei.",
+  "chapter": 27,
+  "translation": "Eu ⟨את⟩ ⟨vos⟩ ensinarei ⟨pela⟩ mão de ⟨o⟩ ⟨את⟩ ⟨poder⟩ ⟨de⟩ ⟨o⟩ Shaddai; não ocultarei.",
   "tokens": [
     {
       "surface": "אורה",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨vos⟩",
+      "gloss": "⟨את⟩ ⟨vos⟩",
       "marks": "⟨pela⟩ mão"
     },
     {
@@ -47,16 +45,6 @@
       "gloss": "ocultarei"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Todo-Poderoso",
-      "to": "Shaddai",
-      "token-index": 6,
-      "strongs": 7706,
-      "hebrew": "שדי"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:58:30.433125207Z",
+  "model": "glm-4.5"
 }

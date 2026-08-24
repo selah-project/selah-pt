@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 9,
   "ref": "psalms 74:9",
   "book": "psalms",
-  "chapter": 74,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:28:27.314846276Z",
-  "translation": "Nossos sinais ⟨את⟩ não vemos; não há mais profeta, e conosco ninguém sabe ⟨por⟩ quanto tempo.",
+  "chapter": 74,
+  "translation": "Nossos sinais ⟨את⟩ não vemos; não há mais profeta, e ⟨את⟩ conosco ninguém sabe ⟨por⟩ quanto tempo.",
   "tokens": [
     {
       "surface": "אותתינו",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "conosco"
+      "gloss": "⟨את⟩ conosco"
     },
     {
       "surface": "ידע",
@@ -55,8 +53,6 @@
       "gloss": "quanto tempo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:58:30.415371119Z",
+  "model": "glm-4.5"
 }

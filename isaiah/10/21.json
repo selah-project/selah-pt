@@ -1,53 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 21,
   "ref": "isaiah 10:21",
   "book": "isaiah",
-  "chapter": 10,
-  "verse": 21,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T06:20:49.071990825Z",
-  "translation": "⟨The⟩ remnant shall return, ⟨the⟩ remnant of Yaakov, unto ⟨the⟩ mighty God.",
+  "chapter": 10,
+  "translation": "Um restante voltará — o restante de Yaakov — a El Gibor, ⟨o⟩ Poderoso.",
   "tokens": [
     {
-      "surface": "שאר",
-      "gloss": "Remnant"
+      "surface": "שְׁאָ֥ר",
+      "gloss": "um restante"
     },
     {
-      "surface": "ישוב",
-      "gloss": "shall return"
+      "surface": "יָשׁ֖וּב",
+      "gloss": "voltará"
     },
     {
-      "surface": "שאר",
-      "gloss": "remnant"
+      "surface": "שְׁאָ֣ר",
+      "gloss": "o restante"
     },
     {
-      "surface": "יעקב",
-      "gloss": "Yaakov"
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "de Yaakov"
     },
     {
-      "surface": "אל",
-      "gloss": "unto"
+      "surface": "אֶל",
+      "gloss": "a"
     },
     {
-      "surface": "אל",
-      "gloss": "God"
+      "surface": "אֵ֖ל",
+      "gloss": "El"
     },
     {
-      "surface": "גבור",
-      "gloss": "mighty"
+      "surface": "גִּבּֽוֹר",
+      "gloss": "Gibor, o Poderoso"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jacob",
-      "to": "Yaakov",
-      "token-index": 3,
-      "strongs": 3290,
-      "hebrew": "יעקב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:32:00.460017315Z",
+  "model": "glm-5.3"
 }

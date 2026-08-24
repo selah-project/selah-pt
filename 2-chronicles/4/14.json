@@ -1,17 +1,15 @@
 {
+  "tier": "bulk",
+  "verse": 14,
   "ref": "2-chronicles 4:14",
   "book": "2-chronicles",
-  "chapter": 4,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T12:06:01.517188444Z",
-  "translation": "E as bases ⟨את⟩ fez e as pias ⟨את⟩ fez sobre as bases",
+  "chapter": 4,
+  "translation": "⟨את⟩ E as bases fez e as pias fez sobre as bases",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "E",
+      "gloss": "⟨את⟩ E",
       "marks": "as bases"
     },
     {
@@ -20,11 +18,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "⟨את⟩ fez"
+      "gloss": "fez"
     },
     {
       "surface": "ואת",
-      "gloss": "e",
+      "gloss": "⟨את⟩ e",
       "marks": "as pias"
     },
     {
@@ -33,7 +31,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "⟨את⟩ fez"
+      "gloss": "fez"
     },
     {
       "surface": "על",
@@ -43,5 +41,7 @@
       "surface": "המכנות",
       "gloss": "as bases"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T16:58:30.436250212Z",
+  "model": "glm-4.5"
 }

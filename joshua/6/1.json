@@ -1,65 +1,53 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "joshua 6:1",
   "book": "joshua",
-  "chapter": 6,
-  "verse": 1,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T03:29:41.094435858Z",
-  "translation": "And Jericho ⟨is⟩ shutting itself up and ⟨is⟩ shut up because of the presence of the sons of Yisrael: none going out and none coming in.",
+  "chapter": 6,
+  "translation": "E Yerijó estava fechada ⟨e⟩ trancada por causa dos filhos de Yisrael — não havia quem saísse e não havia quem entrasse.",
   "tokens": [
     {
-      "surface": "ויריחו",
-      "gloss": "And Jericho"
+      "surface": "וִֽירִיחוֹ֙",
+      "gloss": "E Yerijó"
     },
     {
-      "surface": "סגרת",
-      "gloss": "⟨is⟩ shutting itself up"
+      "surface": "סֹגֶ֣רֶת",
+      "gloss": "estava fechada"
     },
     {
-      "surface": "ומסגרת",
-      "gloss": "and ⟨is⟩ shut up"
+      "surface": "וּמְסֻגֶּ֔רֶת",
+      "gloss": "e trancada"
     },
     {
-      "surface": "מפני",
-      "gloss": "because of the presence of"
+      "surface": "מִפְּנֵ֖י",
+      "gloss": "por causa de"
     },
     {
-      "surface": "בני",
-      "gloss": "the sons of"
+      "surface": "בְּנֵ֣י",
+      "gloss": "os filhos de"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵ֑ל",
       "gloss": "Yisrael"
     },
     {
-      "surface": "אין",
-      "gloss": "none"
+      "surface": "אֵ֥ין",
+      "gloss": "não havia"
     },
     {
-      "surface": "יוצא",
-      "gloss": "going out"
+      "surface": "יוֹצֵ֖א",
+      "gloss": "quem saísse"
     },
     {
-      "surface": "ואין",
-      "gloss": "and none"
+      "surface": "וְאֵ֥ין",
+      "gloss": "e não havia"
     },
     {
-      "surface": "בא",
-      "gloss": "coming in"
+      "surface": "בָּֽא",
+      "gloss": "quem entrasse"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 5,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:29:56.553989897Z",
+  "model": "glm-5.3"
 }

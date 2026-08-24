@@ -1,90 +1,65 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "psalms 141:5",
   "book": "psalms",
-  "chapter": 141,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T11:12:56.574188679Z",
-  "translation": "⟨O⟩ justo me fira com ⟨um⟩ ato de Jésed, e me corrija com ⟨um⟩ óleo ⟨para a⟩ cabeça ⟨de⟩ minh'alma; que minha cabeça ⟨não⟩ recuse ⟨isso⟩, pois ainda ⟨está⟩ min〈ha〉 oração em ⟨seus⟩ males",
+  "chapter": 141,
+  "translation": "Fira-me o tzadik — ⟨isso será⟩ Jésed; e repreenda-me — ⟨será⟩ óleo ⟨para⟩ a cabeça; que não o recuse a minha cabeça, pois ainda a minha oração ⟨continua⟩ nas maldades deles.",
   "tokens": [
     {
       "surface": "יהלמני",
-      "gloss": "⟨O⟩ justo me fira",
-      "marks": "justo"
+      "gloss": "Fira-me"
     },
     {
       "surface": "צדיק",
-      "gloss": "justo",
-      "marks": null
+      "gloss": "o tzadik"
     },
     {
       "surface": "חסד",
-      "gloss": "com ⟨um⟩ ato de Jésed",
-      "marks": "ato de bondade"
+      "gloss": "Jésed"
     },
     {
       "surface": "ויוכיחני",
-      "gloss": "e me corrija",
-      "marks": null
+      "gloss": "e repreenda-me"
     },
     {
       "surface": "שמן",
-      "gloss": "com ⟨um⟩ óleo",
-      "marks": "óleo"
+      "gloss": "óleo"
     },
     {
       "surface": "ראש",
-      "gloss": "⟨para a⟩ cabeça",
-      "marks": "cabeça"
+      "gloss": "a cabeça"
     },
     {
       "surface": "אל",
-      "gloss": "⟨de⟩ minh'alma",
-      "marks": "minh'alma"
+      "gloss": "que não"
     },
     {
       "surface": "יני",
-      "gloss": "⟨não⟩ recuse",
-      "marks": null
+      "gloss": "recuse"
     },
     {
       "surface": "ראשי",
-      "gloss": "cabeça",
-      "marks": null
+      "gloss": "a minha cabeça"
     },
     {
       "surface": "כי",
-      "gloss": "pois",
-      "marks": null
+      "gloss": "pois"
     },
     {
       "surface": "עוד",
-      "gloss": "ainda ⟨está⟩",
-      "marks": null
+      "gloss": "ainda"
     },
     {
       "surface": "ותפלתי",
-      "gloss": "min〈ha〉 oração",
-      "marks": null
+      "gloss": "a minha oração"
     },
     {
       "surface": "ברעותיהם",
-      "gloss": "em ⟨seus⟩ males",
-      "marks": "males"
+      "gloss": "nas maldades deles"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "bondade",
-      "to": "Jésed",
-      "token-index": 2,
-      "strongs": 2617,
-      "hebrew": "חסד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:36:33.449867502Z",
+  "model": "glm-5.3"
 }

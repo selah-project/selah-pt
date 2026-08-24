@@ -1,12 +1,10 @@
 {
+  "tier": "bulk",
+  "verse": 15,
   "ref": "leviticus 20:15",
   "book": "leviticus",
-  "chapter": 20,
-  "verse": 15,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-13T05:27:26.765245054Z",
+  "chapter": 20,
   "translation": "E um varão que ⟨está⟩ dando ⟨a sua⟩ deitar com ⟨um⟩ animal ⟨será⟩ morto ⟨por⟩ morte, e ⟨o⟩ animal vós matareis ⟨את⟩.",
   "tokens": [
     {
@@ -39,7 +37,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e",
+      "gloss": "⟨את⟩ e",
       "marks": "הבהמה"
     },
     {
@@ -50,5 +48,7 @@
       "surface": "תהרגו",
       "gloss": "vós matareis"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T16:58:30.473360599Z",
+  "model": "glm-4.5"
 }

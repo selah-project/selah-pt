@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "ezekiel 44:9",
   "book": "ezekiel",
-  "chapter": 44,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:49:35.834480401Z",
-  "translation": "כה אמר אדני יהוה כל בן נכר ערל לב וערל בשר לא יבוא אל מקדשי לכל בן נכר אשר בתוך בני ישראל — Assim diz Adonai YHWH: todo filho de estrangeiro, incircunciso ⟨de⟩ coração e incircunciso ⟨de⟩ carne, não entrará no meu Mikdash, ⟨para⟩ todo filho de estrangeiro que ⟨está⟩ no meio dos filhos de Yisrael.",
+  "chapter": 44,
+  "translation": "Assim disse Adonai YHWH: nenhum ben nechar, incircunciso de coração e incircunciso de carne, entrará no meu Mikdash — nenhum ben nechar que ⟨está⟩ no meio dos bnei Yisrael.",
   "tokens": [
     {
       "surface": "כה",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "diz"
+      "gloss": "disse"
     },
     {
       "surface": "אדני",
@@ -27,15 +25,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "todo"
+      "gloss": "nenhum"
     },
     {
       "surface": "בן",
-      "gloss": "filho de"
+      "gloss": "ben (filho)"
     },
     {
       "surface": "נכר",
-      "gloss": "estrangeiro"
+      "gloss": "nechar (estrangeiro)"
     },
     {
       "surface": "ערל",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "לב",
-      "gloss": "⟨de⟩"
+      "gloss": "de coração"
     },
     {
       "surface": "וערל",
@@ -51,7 +49,7 @@
     },
     {
       "surface": "בשר",
-      "gloss": "⟨de⟩"
+      "gloss": "de carne"
     },
     {
       "surface": "לא",
@@ -67,19 +65,19 @@
     },
     {
       "surface": "מקדשי",
-      "gloss": "meu Mikdash"
+      "gloss": "meu Mikdash (santuário)"
     },
     {
       "surface": "לכל",
-      "gloss": "⟨para⟩ todo"
+      "gloss": "nenhum"
     },
     {
       "surface": "בן",
-      "gloss": "filho de"
+      "gloss": "ben (filho)"
     },
     {
       "surface": "נכר",
-      "gloss": "estrangeiro"
+      "gloss": "nechar (estrangeiro)"
     },
     {
       "surface": "אשר",
@@ -87,34 +85,17 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "⟨está⟩ no meio"
+      "gloss": "no meio de"
     },
     {
       "surface": "בני",
-      "gloss": "dos filhos"
+      "gloss": "os filhos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "santuário",
-      "to": "Mikdash",
-      "token-index": 14,
-      "strongs": 4720,
-      "hebrew": "מקדש"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 21,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:34:11.701481954Z",
+  "model": "glm-5.3"
 }

@@ -1,62 +1,49 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "malachi 3:4",
   "book": "malachi",
-  "chapter": 3,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T09:38:48.924697153Z",
-  "translation": "E será ⟨a⟩ minḥá ⟨of⟩ Yehudá ⟨e⟩ Jerusalém ⟨agradável⟩ ⟨para⟩ YHWH, como ⟨nos⟩ dias ⟨de⟩ outrora ⟨e⟩ como ⟨nos⟩ anos ⟨de⟩ outrora",
+  "chapter": 3,
+  "translation": "E será agradável a YHWH a Minjá de Yehudá e de Yerushalayim, como nos dias de ⟨עולם⟩ e como nos anos antigos.",
   "tokens": [
     {
       "surface": "וערבה",
-      "gloss": "E será"
+      "gloss": "E será agradável"
     },
     {
       "surface": "ליהוה",
-      "gloss": "⟨para⟩ YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "מנחת",
-      "gloss": "⟨a⟩ minḥá ⟨of⟩",
-      "marks": "minḥá de Judá e Jerusalém"
+      "gloss": "a Minjá"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudá"
+      "gloss": "de Yehudá"
     },
     {
       "surface": "וירושלם",
-      "gloss": "⟨e⟩ Jerusalém"
+      "gloss": "e de Yerushalayim"
     },
     {
       "surface": "כימי",
-      "gloss": "como ⟨nos⟩ dias ⟨de⟩"
+      "gloss": "como nos dias de"
     },
     {
       "surface": "עולם",
-      "gloss": "outrora"
+      "gloss": "עולם"
     },
     {
       "surface": "וכשנים",
-      "gloss": "⟨e⟩ como ⟨nos⟩ anos ⟨de⟩"
+      "gloss": "e como nos anos"
     },
     {
       "surface": "קדמניות",
-      "gloss": "outrora"
+      "gloss": "antigos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 3,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:34:29.906856453Z",
+  "model": "glm-5.3"
 }

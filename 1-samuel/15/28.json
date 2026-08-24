@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 28,
   "ref": "1-samuel 15:28",
   "book": "1-samuel",
-  "chapter": 15,
-  "verse": 28,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:26:29.343228910Z",
-  "translation": "E Shemuel disse a ele: YHWH ⟨ה⟩ rasgou ⟨את⟩ o reino de Yisrael de sobre ti hoje, e o deu ao teu vizinho ⟨que é⟩ melhor do que tu.",
+  "chapter": 15,
+  "translation": "E Shmuel lhe disse: YHWH rasgou ⟨את⟩ a realeza de Yisrael de sobre ti, hoje, e a deu ao teu próximo, que é melhor do que tu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "E... disse"
+      "gloss": "E disse"
     },
     {
       "surface": "אליו",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "קרע",
@@ -32,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "o reino de Israel"
+      "marks": "a realeza de Yisrael"
     },
     {
       "surface": "ממלכות",
-      "gloss": "o reino"
+      "gloss": "a realeza"
     },
     {
       "surface": "ישראל",
@@ -52,31 +50,21 @@
     },
     {
       "surface": "ונתנה",
-      "gloss": "e o deu"
+      "gloss": "e a deu"
     },
     {
       "surface": "לרעך",
-      "gloss": "ao teu vizinho"
+      "gloss": "ao teu próximo"
     },
     {
       "surface": "הטוב",
-      "gloss": "⟨que é⟩ melhor"
+      "gloss": "que é melhor"
     },
     {
       "surface": "ממך",
       "gloss": "do que tu"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 7,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:31:04.960821569Z",
+  "model": "glm-5.3"
 }

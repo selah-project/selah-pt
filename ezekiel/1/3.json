@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "ezekiel 1:3",
   "book": "ezekiel",
-  "chapter": 1,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T07:59:41.594249570Z",
-  "translation": "היה היה דבר יהוה אל יחזקאל בן בוזי הכהן בארץ כשדים על נהר כבר ותהי עליו שם יד יהוה",
+  "chapter": 1,
+  "translation": "Havendo havido ⟨foi⟩ o davar de YHWH a Yejezkel, ben de Buzi, o Kohen, na terra dos kasdim, junto ao rio Kevar — e a mão de YHWH esteve ali sobre ele.",
   "tokens": [
     {
       "surface": "היה",
-      "gloss": "Aconteceu"
+      "gloss": "havendo havido"
     },
     {
       "surface": "היה",
-      "gloss": "certamente"
+      "gloss": "aconteceu"
     },
     {
       "surface": "דבר",
-      "gloss": "a palavra"
+      "gloss": "o davar"
     },
     {
       "surface": "יהוה",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "filho"
+      "gloss": "ben"
     },
     {
       "surface": "בוזי",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "o kohen"
+      "gloss": "o Kohen"
     },
     {
       "surface": "בארץ",
@@ -51,11 +49,11 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "dos caldeus"
+      "gloss": "dos kasdim"
     },
     {
       "surface": "על",
-      "gloss": "sobre"
+      "gloss": "junto a"
     },
     {
       "surface": "נהר",
@@ -63,11 +61,11 @@
     },
     {
       "surface": "כבר",
-      "gloss": "Quebar"
+      "gloss": "Kevar"
     },
     {
       "surface": "ותהי",
-      "gloss": "e veio"
+      "gloss": "e esteve"
     },
     {
       "surface": "עליו",
@@ -86,16 +84,6 @@
       "gloss": "de YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Ezequiel",
-      "to": "Yejezkel",
-      "token-index": 5,
-      "strongs": 3168,
-      "hebrew": "יחזקאל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:33:14.445835413Z",
+  "model": "glm-5.3"
 }

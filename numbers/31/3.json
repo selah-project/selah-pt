@@ -1,12 +1,10 @@
 {
+  "tier": "bulk",
+  "verse": 3,
   "ref": "numbers 31:3",
   "book": "numbers",
-  "chapter": 31,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:43:14.039261993Z",
+  "chapter": 31,
   "translation": "E Moshé ⟨את⟩ ⟨o⟩ povo, dizendo: Armados ⟨para⟩ ⟨a⟩ guerra ⟨vindos⟩ de ⟨vós⟩, homens ⟨para⟩ ⟨o⟩ exército ⟨e⟩ ⟨hão de ser⟩ sobre Midyan ⟨para⟩ dar ⟨a⟩ vingança de YHWH em Midyan.",
   "tokens": [
     {
@@ -35,7 +33,7 @@
     },
     {
       "surface": "מאתכם",
-      "gloss": "⟨de⟩ ⟨vós⟩"
+      "gloss": "⟨את⟩ ⟨de⟩ ⟨vós⟩"
     },
     {
       "surface": "אנשים",
@@ -74,23 +72,6 @@
       "gloss": "em Midiã"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Mosheh",
-      "to": "Moshé",
-      "token-index": 1,
-      "strongs": 4872,
-      "hebrew": "משה"
-    },
-    {
-      "from": "Midiã",
-      "to": "Midyan",
-      "token-index": 11,
-      "strongs": 4080,
-      "hebrew": "מדין"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:58:30.497610198Z",
+  "model": "glm-4.5"
 }

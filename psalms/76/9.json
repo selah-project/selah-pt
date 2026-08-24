@@ -1,41 +1,42 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "psalms 76:9",
   "book": "psalms",
-  "chapter": 76,
-  "verse": 9,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:29:48.230942924Z",
-  "translation": "⟨You⟩ heard ⟨the⟩ judgment from heaven; ⟨the⟩ earth feared ⟨and⟩ ⟨was⟩ still",
+  "chapter": 76,
+  "translation": "Dos céus fizeste ouvir ⟨את⟩ o juízo; a terra temeu e ficou quieta.",
   "tokens": [
     {
-      "surface": "משמים",
-      "gloss": "From heaven"
+      "surface": "מִשָּׁמַיִם",
+      "gloss": "dos céus"
     },
     {
-      "surface": "השמעת",
-      "gloss": "⟨You⟩ heard"
+      "surface": "הִשְׁמַעְתָּ",
+      "gloss": "fizeste ouvir"
     },
     {
-      "surface": "דין",
-      "gloss": "⟨the⟩ judgment"
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "o juízo"
     },
     {
-      "surface": "ארץ",
-      "gloss": "⟨the⟩ earth"
+      "surface": "דִּין",
+      "gloss": "o juízo"
     },
     {
-      "surface": "יראה",
-      "gloss": "feared"
+      "surface": "אֶרֶץ",
+      "gloss": "a terra"
     },
     {
-      "surface": "ושקטה",
-      "gloss": "⟨and⟩ ⟨was⟩ still"
+      "surface": "יָרְאָה",
+      "gloss": "temeu"
+    },
+    {
+      "surface": "וְשָׁקָטָה",
+      "gloss": "e ficou quieta"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:35:19.351166128Z",
+  "model": "glm-5.3"
 }

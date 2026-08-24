@@ -1,12 +1,10 @@
 {
+  "tier": "bulk",
+  "verse": 8,
   "ref": "deuteronomy 2:8",
   "book": "deuteronomy",
-  "chapter": 2,
-  "verse": 8,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:51:51.179635645Z",
+  "chapter": 2,
   "translation": "E passamos ⟨por⟩ ⟨את⟩ nossos irmãos, os filhos de Esav, ⟨os que⟩ habitam em Seir, ⟨por⟩ o caminho da Arabá, ⟨de⟩ Elat e ⟨de⟩ Etsiom-Gaver, e ⟨nos⟩ viramos e passamos ⟨por⟩ o caminho do deserto de Moav.",
   "tokens": [
     {
@@ -15,7 +13,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨por⟩",
+      "gloss": "⟨את⟩ ⟨por⟩",
       "marks": "nossos irmãos"
     },
     {
@@ -80,16 +78,6 @@
       "gloss": "de Moav"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moabe",
-      "to": "Moav",
-      "token-index": 16,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:58:30.449706817Z",
+  "model": "glm-4.5"
 }

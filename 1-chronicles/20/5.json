@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 5,
   "ref": "1-chronicles 20:5",
   "book": "1-chronicles",
-  "chapter": 20,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:55:18.362609579Z",
-  "translation": "E ⟨houve⟩ ainda batalha ⟨com⟩ ⟨os⟩ filisteus ⟨את⟩ e Elchanan ben Jaur ⟨feriu⟩ ⟨את⟩ Lachmi, irmão de Golyat, ⟨o⟩ geteu, e ⟨o⟩ pau de sua lança ⟨era⟩ como ⟨um⟩ tear ⟨de⟩ ⟨o⟩ tecelão",
+  "chapter": 20,
+  "translation": "E ⟨houve⟩ ainda batalha ⟨את⟩ ⟨com⟩ ⟨os⟩ filisteus ⟨את⟩ e Elchanan ben Jaur ⟨feriu⟩ ⟨את⟩ Lachmi, irmão de Golyat, ⟨o⟩ geteu, e ⟨o⟩ pau de sua lança ⟨era⟩ como ⟨um⟩ tear ⟨de⟩ ⟨o⟩ tecelão",
   "tokens": [
     {
       "surface": "ותהי",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨com⟩ ⟨os⟩",
+      "gloss": "⟨את⟩ ⟨com⟩ ⟨os⟩",
       "marks": "filisteus"
     },
     {
@@ -84,16 +82,6 @@
       "gloss": "⟨um⟩ tear ⟨de⟩ ⟨o⟩ tecelão"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Golias",
-      "to": "Golyat",
-      "token-index": 12,
-      "strongs": 1555,
-      "hebrew": "גלית"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:58:30.430249661Z",
+  "model": "glm-4.5"
 }

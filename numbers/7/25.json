@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "numbers 7:25",
   "book": "numbers",
-  "chapter": 7,
-  "verse": 25,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T02:16:16.694069579Z",
-  "translation": "Sua ⟨era⟩ ⟨a⟩ Korban ⟨de⟩ קרבנו: uma bacia ⟨de⟩ prata ⟨de⟩ cento e trinta ⟨e⟩ um ⟨em⟩ peso שקל, um jorro ⟨de⟩ prata ⟨de⟩ setenta shekels, ⟨de⟩ acordo ⟨com⟩ ⟨o⟩ shekel ⟨do⟩ santuário; ambos ⟨estavam⟩ cheios ⟨de⟩ farinha ⟨de⟩ trigo, misturada ⟨com⟩ óleo, ⟨como⟩ ⟨um⟩ ⟨oferecimento⟩ de cereal ⟨de⟩ מנחה",
+  "chapter": 7,
+  "translation": "Seu korban: uma qaarat de prata, de cento e trinta ⟨siclos⟩ de peso; um mizraq de prata, de setenta siclos, pelo siclo do santuário; ambos cheios de solet misturada com azeite, para a Minjá.",
   "tokens": [
     {
       "surface": "קרבנו",
-      "gloss": "⟨Era⟩ ⟨a⟩ Korban ⟨de⟩"
+      "gloss": "Seu korban"
     },
     {
       "surface": "קערת",
-      "gloss": "bacia"
+      "gloss": "qaarat (bandeja)"
     },
     {
       "surface": "כסף",
-      "gloss": "⟨de⟩ prata"
+      "gloss": "de prata"
     },
     {
       "surface": "אחת",
@@ -31,15 +29,15 @@
     },
     {
       "surface": "ומאה",
-      "gloss": "cento"
+      "gloss": "e cem"
     },
     {
       "surface": "משקלה",
-      "gloss": "⟨em⟩ peso"
+      "gloss": "de peso"
     },
     {
       "surface": "מזרק",
-      "gloss": "jorro"
+      "gloss": "um mizraq (bacia)"
     },
     {
       "surface": "אחד",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "⟨de⟩ prata"
+      "gloss": "de prata"
     },
     {
       "surface": "שבעים",
@@ -55,15 +53,15 @@
     },
     {
       "surface": "שקל",
-      "gloss": "shekel"
+      "gloss": "siclos"
     },
     {
       "surface": "בשקל",
-      "gloss": "⟨de⟩ acordo ⟨com⟩ ⟨o⟩ shekel"
+      "gloss": "pelo siclo"
     },
     {
       "surface": "הקדש",
-      "gloss": "⟨do⟩ santuário"
+      "gloss": "do santuário"
     },
     {
       "surface": "שניהם",
@@ -71,11 +69,11 @@
     },
     {
       "surface": "מלאים",
-      "gloss": "⟨estavam⟩ cheios"
+      "gloss": "cheios"
     },
     {
       "surface": "סלת",
-      "gloss": "⟨de⟩ farinha ⟨de⟩ trigo"
+      "gloss": "de solet (flor de farinha)"
     },
     {
       "surface": "בלולה",
@@ -83,23 +81,13 @@
     },
     {
       "surface": "בשמן",
-      "gloss": "⟨com⟩ óleo"
+      "gloss": "com azeite"
     },
     {
       "surface": "למנחה",
-      "gloss": "⟨como⟩ ⟨um⟩ ⟨oferecimento⟩ de cereal ⟨de⟩"
+      "gloss": "para a Minjá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "oferta",
-      "to": "Korban",
-      "token-index": 0,
-      "strongs": 7133,
-      "hebrew": "קרבן"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:29:13.525283572Z",
+  "model": "glm-5.3"
 }

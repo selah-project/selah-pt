@@ -1,17 +1,15 @@
 {
+  "tier": "bulk",
+  "verse": 43,
   "ref": "1-samuel 25:43",
   "book": "1-samuel",
-  "chapter": 25,
-  "verse": 43,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T04:37:52.443376323Z",
-  "translation": "E também Davidd tomou ⟨את⟩ Ainoã de Jezreel, e ⟨elas⟩ se tornaram também ambas ⟨para⟩ ele ⟨como⟩ esposas",
+  "chapter": 25,
+  "translation": "⟨את⟩ E também Davidd tomou ⟨את⟩ Ainoã de Jezreel, e ⟨elas⟩ se tornaram também ambas ⟨para⟩ ele ⟨como⟩ esposas",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "E também",
+      "gloss": "⟨את⟩ E também",
       "marks": "Ainoã"
     },
     {
@@ -51,16 +49,6 @@
       "gloss": "⟨como⟩ esposas"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 3,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:58:30.444574177Z",
+  "model": "glm-4.5"
 }

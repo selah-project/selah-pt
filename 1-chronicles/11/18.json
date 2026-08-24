@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 18,
   "ref": "1-chronicles 11:18",
   "book": "1-chronicles",
-  "chapter": 11,
-  "verse": 18,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:44:57.468373411Z",
-  "translation": "E os três romperam o acampamento ⟨dos⟩ filisteus e tiraram água do poço de Bet-Léjem ⟨que está⟩ junto à porta, e trouxeram-na ⟨e⟩ levaram-na a Davidd; e Davidd não quis beber ⟨dela⟩, mas derramou-a ⟨como⟩ libação a ⟨⟩⟨את⟩ YHWH.",
+  "chapter": 11,
+  "translation": "E os três romperam o acampamento ⟨dos⟩ filisteus e tiraram água do poço de Bet-Léjem ⟨que está⟩ junto à porta, e trouxeram-na ⟨e⟩ levaram-na a Davidd; e Davidd não quis beber ⟨dela⟩, mas derramou-a ⟨como⟩ libação a ⟨את⟩ ⟨⟩⟨את⟩ YHWH.",
   "tokens": [
     {
       "surface": "ויבקעו",
@@ -91,7 +89,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨⟩",
+      "gloss": "⟨את⟩ ⟨⟩",
       "marks": "⟨את⟩ YHWH"
     },
     {
@@ -99,30 +97,6 @@
       "gloss": "a YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Belém",
-      "to": "Bet-Léjem",
-      "token-index": 7,
-      "strongs": 1035,
-      "hebrew": "בית־לחם"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 14,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 17,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:58:30.430786343Z",
+  "model": "glm-4.5"
 }

@@ -1,31 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "psalms 118:10",
   "book": "psalms",
-  "chapter": 118,
-  "verse": 10,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:57:57.854309255Z",
-  "translation": "כָּל גּוֹיִם סְבָבוּנִי בְּשֵׁם יְהוָה כִּי אֲמִילָם — ⟨All⟩ nations compassed me about in ⟨the⟩ name of YHWH ⟨because⟩ ⟨I⟩ cut them off.",
+  "chapter": 118,
+  "translation": "Todas as nações me cercaram; em nome de YHWH, sim, eu os exterminei.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "⟨All⟩",
-      "rationale": "Quantifier singular often rendered with plural English 'all'"
+      "gloss": "todas"
     },
     {
       "surface": "גוים",
-      "gloss": "nations"
+      "gloss": "as nações"
     },
     {
       "surface": "סבבוני",
-      "gloss": "compassed me about"
+      "gloss": "me cercaram"
     },
     {
       "surface": "בשם",
-      "gloss": "in ⟨the⟩ name of",
-      "rationale": "Hebrew lacks definite article"
+      "gloss": "em nome"
     },
     {
       "surface": "יהוה",
@@ -33,17 +29,13 @@
     },
     {
       "surface": "כי",
-      "gloss": "⟨because⟩",
-      "rationale": "Causal conjunction; rendered as 'for' or 'because'"
+      "gloss": "sim"
     },
     {
       "surface": "אמילם",
-      "gloss": "⟨I⟩ cut them off",
-      "rationale": "1st singular verb; subject pronoun added"
+      "gloss": "eu os exterminei"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:36:06.973075406Z",
+  "model": "glm-5.3"
 }

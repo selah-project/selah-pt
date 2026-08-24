@@ -1,57 +1,33 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "psalms 129:4",
   "book": "psalms",
-  "chapter": 129,
-  "verse": 4,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T11:06:51.485601035Z",
-  "translation": "YHWH ⟨is⟩ ⟨the⟩ Just; cortou ⟨as⟩ cordas ⟨dos⟩ perversos",
+  "chapter": 129,
+  "translation": "YHWH ⟨é⟩ justo: ele cortou as cordas dos ímpios.",
   "tokens": [
     {
-      "surface": "יהוה",
-      "gloss": "YHWH",
-      "lemma": "3068",
-      "gv": 26,
-      "freq": 6007,
-      "anagram_room": "ההוי (3 members)"
+      "surface": "יְהוָ֥ה",
+      "gloss": "YHWH"
     },
     {
-      "surface": "צדיק",
-      "gloss": "⟨o⟩ Justo",
-      "lemma": "6662",
-      "gv": 204,
-      "freq": 110,
-      "anagram_room": "דיצק (3 members)"
+      "surface": "צַדִּ֑יק",
+      "gloss": "justo"
     },
     {
-      "surface": "קצץ",
-      "gloss": "cortou",
-      "lemma": "7112",
-      "gv": 280,
-      "freq": 2,
-      "anagram_room": "ץצק (1 member)"
+      "surface": "קִ֝צֵּ֗ץ",
+      "gloss": "cortou"
     },
     {
-      "surface": "עבות",
-      "gloss": "cordas",
-      "lemma": "5688",
-      "gv": 478,
-      "freq": 3,
-      "anagram_room": "בועת (5 members)"
+      "surface": "עֲב֣וֹת",
+      "gloss": "as cordas"
     },
     {
-      "surface": "רשעים",
-      "gloss": "perversos",
-      "lemma": "7563",
-      "gv": 620,
-      "freq": 105,
-      "anagram_room": "יםערש (4 members)"
+      "surface": "רְשָׁעִֽים",
+      "gloss": "dos ímpios"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:36:12.921874166Z",
+  "model": "glm-5.3"
 }

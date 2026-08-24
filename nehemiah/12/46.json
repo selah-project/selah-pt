@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 46,
   "ref": "nehemiah 12:46",
   "book": "nehemiah",
-  "chapter": 12,
-  "verse": 46,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T13:28:05.428159759Z",
-  "translation": "Porque nos dias de Davidd e Asaf, desde a antiguidade ⟨eram⟩ ⟨os⟩ chefes ⟨dos⟩ cantores e ⟨o⟩ cântico de louvor e ⟨as⟩ ações ⟨de⟩ graças ⟨para⟩ Elohim ⟨דויד⟩ ⟨ו⟩ ⟨מקדם⟩ ⟨ראש⟩ ⟨המשררים⟩ ⟨ושיר⟩ ⟨תהלה⟩ ⟨והדות⟩ ⟨לאלהים⟩",
+  "chapter": 12,
+  "translation": "Pois nos dias de David e de Asaf, desde ⟨a⟩ antiguidade, ⟨havia⟩ chefes dos cantores, e canto de tehilá e de ações de graças a Elohim.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Porque"
+      "gloss": "Pois"
     },
     {
       "surface": "בימי",
@@ -19,53 +17,41 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd",
-      "marks": "David"
+      "gloss": "David"
     },
     {
       "surface": "ואסף",
-      "gloss": "e Asaf"
+      "gloss": "e de Asaf"
     },
     {
       "surface": "מקדם",
-      "gloss": "desde a antiguidade"
+      "gloss": "desde ⟨a⟩ antiguidade"
     },
     {
       "surface": "ראש",
-      "gloss": "⟨os⟩ chefes ⟨dos⟩"
+      "gloss": "chefes"
     },
     {
       "surface": "המשררים",
-      "gloss": "cantores",
-      "marks": "⟨dos⟩ cantores"
+      "gloss": "dos cantores"
     },
     {
       "surface": "ושיר",
-      "gloss": "e ⟨o⟩ cântico de"
+      "gloss": "e canto"
     },
     {
       "surface": "תהלה",
-      "gloss": "louvor"
+      "gloss": "de tehilá (louvor)"
     },
     {
       "surface": "והדות",
-      "gloss": "e ⟨as⟩ ações ⟨de⟩ graças ⟨para⟩"
+      "gloss": "e de ações de graças"
     },
     {
       "surface": "לאלהים",
-      "gloss": "⟨para⟩ Elohim"
+      "gloss": "a Elohim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 2,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:39:21.545631535Z",
+  "model": "glm-5.3"
 }

@@ -1,21 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 28,
   "ref": "ezekiel 22:28",
   "book": "ezekiel",
-  "chapter": 22,
-  "verse": 28,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:26:20.698378887Z",
-  "translation": "E seus profetas ⟨ה⟩ untaram para eles com argamassa ⟨sem⟩ preparo, vendo ⟨o⟩ vaidade, e ⟨a⟩divinhando ⟨com⟩ mentiras para ⟨eles⟩, dizendo: 'Assim diz Adonai YHWH', quando YHWH não ⟨teve⟩ falado.",
+  "chapter": 22,
+  "translation": "E seus navieim caiam ⟨את⟩ ⟨os⟩ com ⟨argamassa⟩ sem templem — vendo shav e adivinhando para eles kazav — dizendo: Assim disse Adonai YHWH, e YHWH não falou.",
   "tokens": [
     {
       "surface": "ונביאיה",
-      "gloss": "E seus profetas"
+      "gloss": "E seus navieim"
     },
     {
       "surface": "טחו",
-      "gloss": "untaram"
+      "gloss": "caiam ⟨את⟩ reboco"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "os (a eles)"
     },
     {
       "surface": "להם",
@@ -23,27 +26,27 @@
     },
     {
       "surface": "תפל",
-      "gloss": "com argamassa ⟨sem⟩ preparo"
+      "gloss": "argamassa sem templem"
     },
     {
       "surface": "חזים",
-      "gloss": "vendo ⟨o⟩ vaidade"
+      "gloss": "vendo"
     },
     {
       "surface": "שוא",
-      "gloss": "vaidade"
+      "gloss": "shav"
     },
     {
-      "surface": "וקסמים",
-      "gloss": "e ⟨a⟩divinhando ⟨com⟩"
+      "surface": "וקוסמים",
+      "gloss": "e adivinhando"
     },
     {
       "surface": "להם",
-      "gloss": "para ⟨eles⟩"
+      "gloss": "para eles"
     },
     {
       "surface": "כזב",
-      "gloss": "mentiras"
+      "gloss": "kazav"
     },
     {
       "surface": "אמרים",
@@ -55,7 +58,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "diz"
+      "gloss": "disse"
     },
     {
       "surface": "אדני",
@@ -66,20 +69,18 @@
       "gloss": "YHWH"
     },
     {
-      "surface": "והיהוה",
-      "gloss": "quando YHWH"
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
     },
     {
       "surface": "לא",
-      "gloss": "não ⟨teve⟩"
+      "gloss": "não"
     },
     {
       "surface": "דבר",
-      "gloss": "falado"
+      "gloss": "falou"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:33:09.644908313Z",
+  "model": "glm-5.3"
 }

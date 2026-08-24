@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "ezekiel 28:3",
   "book": "ezekiel",
-  "chapter": 28,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T08:32:02.252450729Z",
-  "translation": "Eis que <FI>és<Fi> mais sábio do que Daniel, qualquer segredo não <FI>é<Fi> oculto de ti;",
+  "chapter": 28,
+  "translation": "Eis que ⟨tu⟩ és mais sábio que Daniel; nenhum segredo ⟨está⟩ encoberto de ti.",
   "tokens": [
     {
       "surface": "הנה",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "אתה",
-      "gloss": "és"
+      "gloss": "tu és"
     },
     {
       "surface": "מדנאל",
-      "gloss": "do que Daniel"
+      "gloss": "que Daniel"
     },
     {
       "surface": "כל",
-      "gloss": "qualquer"
+      "gloss": "nenhum (todo)"
     },
     {
       "surface": "סתום",
-      "gloss": "segredo"
+      "gloss": "segredo encoberto"
     },
     {
       "surface": "לא",
@@ -39,11 +37,9 @@
     },
     {
       "surface": "עממוך",
-      "gloss": "é oculto de ti"
+      "gloss": "de ti (escondido)"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:32:56.412951927Z",
+  "model": "glm-5.3"
 }

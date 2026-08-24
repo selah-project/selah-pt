@@ -1,52 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "psalms 113:3",
   "book": "psalms",
-  "chapter": 113,
-  "verse": 3,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T10:55:38.175042797Z",
-  "translation": "From the rising of ⟨the⟩ sun until its setting, ⟨is⟩ praised ⟨the⟩ name ⟨of⟩ YHWH.",
+  "chapter": 113,
+  "translation": "Do nascimento do sol até o seu poente, seja louvado o nome de YHWH.",
   "tokens": [
     {
       "surface": "ממזרח",
-      "gloss": "From the rising of",
-      "rationale": "preposition + noun 'east'; idiomatically 'from the rising'"
+      "gloss": "do nascimento"
     },
     {
       "surface": "שמש",
-      "gloss": "⟨the⟩ sun",
-      "rationale": "Hebrew lacks article; English requires 'the' for natural reading"
+      "gloss": "do sol"
     },
     {
       "surface": "עד",
-      "gloss": "until",
-      "rationale": "temporal preposition indicating extent of time\/space"
+      "gloss": "até"
     },
     {
       "surface": "מבואו",
-      "gloss": "its setting",
-      "rationale": "literally 'its coming in\/entrance'; idiom for sunset"
+      "gloss": "o seu poente"
     },
     {
       "surface": "מהלל",
-      "gloss": "⟨is⟩ praised",
-      "rationale": "Hebrew participle 'praised\/blessed'; English requires copula 'is'"
+      "gloss": "seja louvado"
     },
     {
       "surface": "שם",
-      "gloss": "⟨the⟩ name",
-      "rationale": "Hebrew lacks article; English requires 'the' for natural reading"
+      "gloss": "o nome"
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨of⟩ YHWH",
-      "rationale": "Hebrew genitive construction; English requires 'of' to show possession"
+      "gloss": "YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:35:51.486004687Z",
+  "model": "glm-5.3"
 }

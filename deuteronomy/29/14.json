@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 14,
   "ref": "deuteronomy 29:14",
   "book": "deuteronomy",
-  "chapter": 29,
-  "verse": 14,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T13:30:03.578238596Z",
-  "translation": "Pois ⟨não⟩ apenas ⟨com⟩ vós faço este pacto e este juramento, mas com quem está aqui ⟨את⟩ conosco hoje perante YHWH nosso Elohim, e com quem ⟨não⟩ está aqui ⟨את⟩ conosco hoje",
+  "chapter": 29,
+  "translation": "Pois ⟨não⟩ apenas ⟨com⟩ vós faço este pacto e este juramento, mas com quem está aqui ⟨את⟩ conosco hoje perante YHWH nosso Elohim, ⟨את⟩ e com quem ⟨não⟩ está aqui ⟨את⟩ conosco hoje",
   "tokens": [
     {
       "surface": "כי",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨não⟩",
+      "gloss": "⟨את⟩ ⟨não⟩",
       "marks": "apenas com vós"
     },
     {
@@ -56,7 +54,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "e com quem"
+      "gloss": "⟨את⟩ e com quem"
     },
     {
       "surface": "אשר",
@@ -78,5 +76,7 @@
       "surface": "היום",
       "gloss": "hoje"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T16:58:30.449165556Z",
+  "model": "glm-4.5"
 }

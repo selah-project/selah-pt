@@ -1,22 +1,20 @@
 {
+  "tier": "bulk",
+  "verse": 19,
   "ref": "jeremiah 7:19",
   "book": "jeremiah",
-  "chapter": 7,
-  "verse": 19,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-17T00:24:33.569795936Z",
-  "translation": "A mim estão ⟨את⟩ eles provocando, declara YHWH? Não é a si mesmos, por ⟨את⟩ causa da vergonha de seus rostos?",
+  "chapter": 7,
+  "translation": "⟨את⟩ A mim estão ⟨את⟩ eles provocando, declara YHWH? Não é ⟨את⟩ a si mesmos, por ⟨את⟩ causa da vergonha de seus rostos?",
   "tokens": [
     {
       "surface": "האתי",
-      "gloss": "A mim",
+      "gloss": "⟨את⟩ A mim",
       "marks": "הם"
     },
     {
       "surface": "הם",
-      "gloss": "estão ⟨את⟩ eles"
+      "gloss": "estão eles"
     },
     {
       "surface": "מכעסים",
@@ -36,12 +34,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "a si mesmos",
+      "gloss": "⟨את⟩ a si mesmos",
       "marks": "למען"
     },
     {
       "surface": "למען",
-      "gloss": "por ⟨את⟩ causa"
+      "gloss": "por causa"
     },
     {
       "surface": "בשת",
@@ -51,5 +49,7 @@
       "surface": "פניהם",
       "gloss": "de seus rostos"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T16:58:30.405454743Z",
+  "model": "glm-4.5"
 }

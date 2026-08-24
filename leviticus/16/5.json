@@ -1,17 +1,15 @@
 {
+  "tier": "bulk",
+  "verse": 5,
   "ref": "leviticus 16:5",
   "book": "leviticus",
-  "chapter": 16,
-  "verse": 5,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T01:54:08.579309368Z",
-  "translation": "E da congregação dos ⟨filhos⟩ de ⟨Yisrael⟩ tomará ⟨את⟩ dois bodes ⟨dos⟩ ⟨goats⟩ para ⟨a⟩ ⟨oferta⟩ ⟨pelo⟩ ⟨pecado⟩ e ⟨um⟩ ⟨carneiro⟩ para ⟨o⟩ ⟨holocausto⟩",
+  "chapter": 16,
+  "translation": "⟨את⟩ E da congregação dos ⟨filhos⟩ de ⟨Yisrael⟩ tomará ⟨את⟩ dois bodes ⟨dos⟩ ⟨goats⟩ para ⟨a⟩ ⟨oferta⟩ ⟨pelo⟩ ⟨pecado⟩ e ⟨um⟩ ⟨carneiro⟩ para ⟨o⟩ ⟨holocausto⟩",
   "tokens": [
     {
       "surface": "ומאת",
-      "gloss": "E da",
+      "gloss": "⟨את⟩ E da",
       "marks": "congregação"
     },
     {
@@ -59,16 +57,6 @@
       "gloss": "para ⟨o⟩ ⟨holocausto⟩"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 3,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:58:30.478694984Z",
+  "model": "glm-4.5"
 }

@@ -1,49 +1,37 @@
 {
+  "tier": "glm-5.2",
+  "verse": 38,
   "ref": "lamentations 3:38",
   "book": "lamentations",
-  "chapter": 3,
-  "verse": 38,
   "lang": "pt",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-31T12:26:26.348384007Z",
-  "translation": "מִפִּי עֶלְיוֹן לֹא תֵצֵא הָרָעוֹת וְהַטּוֹב — Da boca dElyon não saem ⟨as⟩ calamidades e ⟨o⟩ bem.",
+  "chapter": 3,
+  "translation": "Da boca de Elyon não saem ⟨tanto⟩ o mal quanto o bem?",
   "tokens": [
     {
-      "surface": "מפי",
-      "gloss": "Da boca"
+      "surface": "מִפִּי",
+      "gloss": "da boca de"
     },
     {
-      "surface": "עליון",
-      "gloss": "dElyon"
+      "surface": "עֶלְיוֹן",
+      "gloss": "Elyon"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "não"
     },
     {
-      "surface": "תצא",
+      "surface": "תֵצֵא",
       "gloss": "saem"
     },
     {
-      "surface": "הרעות",
-      "gloss": "⟨as⟩ calamidades"
+      "surface": "הָרָעוֹת",
+      "gloss": "o mal"
     },
     {
-      "surface": "והטוב",
-      "gloss": "e ⟨o⟩ bem"
+      "surface": "וְהַטּוֹב",
+      "gloss": "quanto o bem"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "o Altíssimo",
-      "to": "Elyon",
-      "token-index": 1,
-      "strongs": 5945,
-      "hebrew": "עליון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T16:38:53.410110369Z",
+  "model": "glm-5.3"
 }
