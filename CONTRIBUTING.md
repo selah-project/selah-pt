@@ -55,3 +55,8 @@ preserva o registro público e a atribuição. A manutenção compara a proposta
 o hebraico, as convenções, as fontes e o alinhamento. Ela pode aceitar, revisar
 com você, aguardar mais evidências ou recusar explicando a razão. Critique a
 leitura, não a pessoa.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
