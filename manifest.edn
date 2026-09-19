@@ -1,0 +1,62 @@
+#:rendering{:label "Português",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305494},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared []},
+            :role :pass,
+            :produced {:from "2026-05-30", :to "2026-08-24"},
+            :id "pt.v1",
+            :catalog {:ui "resources/i18n/ui/pt.edn"},
+            :license "CC BY-SA 4.0 (The Selah Portuguese Rendering)",
+            :model
+            {:provider :z.ai,
+             :models
+             {"glm-4.5" 17443,
+              "glm-5.2" 4894,
+              "glm-5.3" 844,
+              "glm-4.7" 32},
+             :tiers {"bulk" 17443, "glm-5.2" 5738, "standard" 32},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/pt.md",
+             :rails-commit "467ee7d3",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat {},
+             :open-questions []},
+            :status :live,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-pt",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :pt}
