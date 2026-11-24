@@ -59,7 +59,7 @@ lida diante de seu equivalente em português.
 
 Esta tradução permanece aberta sob a licença CC BY-SA 4.0. Se ela serve a você
 e você deseja ajudar a sustentar sua tradução, correção, publicação e trabalho
-contínuo, visite [selahproject.com/support](https://selahproject.com/support).
+contínuo, visite [s33k3r.com/learn/support](https://s33k3r.com/learn/support).
 
 ## Contribua com uma correção
 
@@ -69,6 +69,6 @@ são bem-vindos para melhorar esta versão. Leia
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc

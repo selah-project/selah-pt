@@ -10,7 +10,7 @@ apresente sua evidência e diferencie certeza de sugestão.
   opção possível ou você não souber como alterar o registro alinhado.
 - Abra um **pull request** quando o erro e a substituição exata estiverem claros.
 - Para erros do aplicativo ou assuntos privados de segurança, conta ou dados
-  pessoais, use [o suporte de Selah](https://selahproject.com/support).
+  pessoais, use [o suporte de Selah](https://s33k3r.com/learn/support).
 
 ## O que incluir
 
